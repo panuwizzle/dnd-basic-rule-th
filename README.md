@@ -1,5 +1,5 @@
 # ส่วนที่ 1 การสร้างตัวละคร
-## บทที่ 1: สร้างตัวละครทีละขั้น
+## [บทที่ 1: สร้างตัวละครทีละขั้น](./ch1-step-by-step-character.md)
 ### 1. เลือกเผ่าพันธุ์
 ### 2. เลือกอาชีพ
 #### เลเวล
@@ -18,7 +18,7 @@
 #### ค่าประสบการณ์และโบนัสความเชี่ยวชาญที่เพิ่มขึ้น
 #### ระดับชั้นการเล่น
 ---
-## บทที่ 2: เผ่าพันธุ์
+## [บทที่ 2: เผ่าพันธุ์](./ch2-races.md)
 ### เลือกเผ่าพันธุ์
 ### ลักษณะเด่นของเผ่า
 #### คะแนนความสามารถเพิ่ม
@@ -91,7 +91,7 @@
 #### Tiefling Names
 #### Tiefling Traits
 ---
-## Chapter 3: Classes
+## [บทที่ 3: คลาส (อาชีพ)](./ch3-classes.md)
 ### Classes Summary
 
 ### Barbarian
@@ -314,7 +314,7 @@
 ## Arcane Traditions
 ### School of Evocation
 ---
-# Chapter 4: Personality and Background
+# [บทที่ 4: Personality and Background](./ch4-personality-and-background.md)
 ## Character Details
 ### Name
 ### Sex
@@ -338,7 +338,7 @@
 ### Sage
 ### Soldier
 ---
-# Chapter 5: Equipment
+# [บทที่ 5: Equipment](./ch5-equipment.md)
 ## Starting Equipment
 ## Wealth
 ### Starting Wealth by Class
@@ -392,35 +392,35 @@
 ## Trinkets
 ### Sample Trinkets
 ---
-# Chapter 6: Customization Options
+## [บทที่ 6: Customization Options](./ch6-customization-options.md)
 ---
-# Part 2: Playing the game
-# Chapter 7: Using Ability Scores
+# ส่วนที่ 2: Playing the game
+## [บทที่ 7: Using Ability Scores](./ch7-using-ability-scores.md)
 ---
-# Chapter 8: Adventuring
+## [บทที่ 8: Adventuring](./ch8-adventuring.md)
 ---
-# Chapter 9: Combat
+## [บทที่ 9: Combat](./ch9-combat.md)
 ---
-# Part 3: The Rules of Magic
-# Chapter 10: Spellcasting
+# ส่วนที่ 3: The Rules of Magic
+## [บทที่ 10: Spellcasting](./ch10-spellcasting.md)
 ---
-# Chapter 11: Spells
+## [บทที่ 11: Spells](./ch11-spells.md)
 ---
-# Part 4: Dungeon Master's Tools
+# ส่วนที่ 4: Dungeon Master's Tools
 
-# Chapter 12: Monsters
+## [บทที่ 12: Monsters](./ch12-dungeons-masters-tools.md)
 ---
-# Chapter 13: Building Combat Encounters
+## [บทที่ 13: Building Combat Encounters](./ch13-building-combat-encounters.md)
 ---
-# Chapter 14: Magic Items
+## [บทที่ 14: Magic Items](./ch14-magic-items.md)
 ---
-# Chapter 15: Running the Game
+## [บทที่ 15: Running the Game](./ch15-running-the-game.md)
 ---
-# Appendices
-# Appendix A: Conditions
+# ภาคผนวก
+## [ภาคผนวก A: Conditions](./appendice-a.md)
 ---
-# Appendix B: Gods of the Multiverse
+## [ภาคผนวก B: Gods of the Multiverse](./appendice-b.md)
 ---
-# Appendix C: The Five Factions
+## [ภาคผนวก C: The Five Factions](./appendice-c.md)
 ---
-# Appendix D: The Planes of Existence
+## [ภาคผนวก D: The Planes of Existence](./appendice-d.md)
