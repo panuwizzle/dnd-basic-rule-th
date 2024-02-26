@@ -1,4 +1,5 @@
 # บทที่ 1: สร้างตัวละครทีละขั้น
+
 Your first step in playing an adventurer in the Dungeons & Dragons game is to imagine and create a character of your own. Your character is a combination of game statistics, roleplaying hooks, and your imagination. You choose a race (such as human or halfling) and a class (such as fighter or wizard). You also invent the personality, appearance, and backstory of your character. Once completed, your character serves as your representative in the game, your avatar in the Dungeons & Dragons world.
 
 Before you dive into step 1 below, think about the kind of adventurer you want to play. You might be a courageous fighter, a skulking rogue, a fervent cleric, or a flamboyant wizard. Or you might be more interested in an unconventional character, such as a brawny rogue who likes hand-to-hand combat, or a sharpshooter who picks off enemies from afar. Do you like fantasy fiction featuring dwarves or elves? Try building a character of one of those races. Do you want your character to be the toughest adventurer at the table? Consider the fighter class. If you don’t know where else to begin, take a look at the illustrations in any Dungeons & Dragons book to see what catches your interest.
@@ -12,6 +13,7 @@ Throughout this section, we use the term **character sheet** to mean whatever yo
 > Each step of character creation includes an example of that step, with a player named Bob building his dwarf character, Bruenor.
 
 ## 1. เลือกเผ่าพันธุ์
+
 Every character belongs to a race, one of the many intelligent humanoid species in the D&D world. The most common player character races are dwarves, elves, halflings, and humans. Some races also have subraces, such as mountain dwarf or wood elf. The [Races](./ch2-races.md) section provides more information about these races.
 
 The race you choose contributes to your character’s identity in an important way, by establishing a general appearance and the natural talents gained from culture and ancestry. Your character’s race grants particular racial traits, such as special senses, proficiency with certain weapons or tools, proficiency in one or more skills, or the ability to use minor spells. These traits sometimes dovetail with the capabilities of certain classes (see step 2). For example, the racial traits of lightfoot halflings make them exceptional rogues, and high elves tend to be powerful wizards. Sometimes playing against type can be fun, too. Halfling paladins and mountain dwarf wizards, for example, can be unusual but memorable characters.
@@ -25,6 +27,7 @@ Record the traits granted by your race on your character sheet. Be sure to note 
 > Bob is sitting down to create his character. He decides that a gruff mountain dwarf fits the character he wants to play. He notes all the racial traits of dwarves on his character sheet, including his speed of 25 feet and the languages he knows: Common and Dwarvish.
 
 ## 2. เลือกอาชีพ
+
 Every adventurer is a member of a class. Class broadly describes a character’s vocation, what special talents he or she possesses, and the tactics he or she is most likely to employ when exploring a dungeon, fighting monsters, or engaging in a tense negotiation. The character classes are described in the Classes section.
 
 Your character receives a number of benefits from your choice of class. Many of these benefits are class features — capabilities (including spellcasting) that set your character apart from members of other classes. You also gain a number of proficiencies: armor, weapons, skills, saving throws, and sometimes tools. Your proficiencies define many of the things your character can do particularly well, from using certain weapons to telling a convincing lie.
@@ -32,6 +35,7 @@ Your character receives a number of benefits from your choice of class. Many of 
 On your character sheet, record all the features that your class gives you at 1st level.
 
 ### เลเวล
+
 Typically, a character starts at 1st level and advances in level by adventuring and gaining experience points (XP). A 1st-level character is inexperienced in the adventuring world, although he or she might have been a soldier or a pirate and done dangerous things before.
 
 Starting off at 1st level marks your character’s entry into the adventuring life. If you’re already familiar with the game, or if you are joining an existing D&D campaign, your DM might decide to have you begin at a higher level, on the assumption that your character has already survived a few harrowing adventures.
@@ -43,6 +47,7 @@ Record your level on your character sheet. If you’re starting at a higher leve
 > Each class description in the Classes section includes a section offering suggestions to quickly build a character of that class, including how to assign your highest ability scores, a background suitable to the class, and starting spells.
 
 ### ฮิทพอยต์และฮิทไดซ์
+
 Your character’s hit points define how tough your character is in combat and other dangerous situations. Your hit points are determined by your Hit Dice (short for Hit Point Dice).
 
 At 1st level, your character has 1 Hit Die, and the die type is determined by your class. You start with hit points equal to the highest roll of that die, as indicated in your class description. (You also add your Constitution modifier, which you’ll determine in step 3.) This is also your hit point maximum.
@@ -50,6 +55,7 @@ At 1st level, your character has 1 Hit Die, and the die type is determined by yo
 Record your character’s hit points on your character sheet. Also record the type of Hit Die your character uses and the number of Hit Dice you have. After you rest, you can spend Hit Dice to regain hit points (see “Resting” in the Adventuring section).
 
 ### โบนัสความเชี่ยวชาญ
+
 The table that appears in your class description shows your proficiency bonus, which is +2 for a 1st-level character. Your proficiency bonus applies to many of the numbers you’ll be recording on your character sheet:
 
 - Attack rolls using weapons you’re proficient with
@@ -70,6 +76,7 @@ Bob imagines Bruenor charging into battle with an axe, one horn on his helmet br
 As a 1st-level fighter, Bruenor has 1 Hit Die—a d10—and starts with hit points equal to 10 + his Constitution modifier. Bob notes this, and will record the final number after he determines Bruenor’s Constitution score (see step 3). Bob also notes the proficiency bonus for a 1st-level character, which is +2.
 
 ## 3. กำหนดคะแนนความสามารถ (Ability)
+
 Much of what your character does in the game depends on his or her six abilities: Strength, Dexterity, Constitution, Intelligence, Wisdom, and Charisma. Each ability has a score, which is a number you record on your character sheet.
 
 The six abilities and their use in the game are described in the Using Ability Scores section. The Ability Score Summary table provides a quick reference for what qualities are measured by each ability, what races increases which abilities, and what classes consider each ability particularly important.
@@ -87,11 +94,13 @@ After assigning your ability scores, determine your ability modifiers using the 
 > Bob fills in Bruenor’s final hit points: 10 + his Constitution modifier of +3, for a total of 13 hit points.
 
 ### รูปแบบเพิ่มเติม
+
 At your Dungeon Master’s option, you can use this variant for determining your ability scores. The method described here allows you to build a character with a set of ability scores you choose individually.
 
 You have 27 points to spend on your ability scores. The cost of each score is shown on the Ability Score Point Cost table. For example, a score of 14 costs 7 points. Using this method, 15 is the highest ability score you can end up with, before applying racial increases. You can’t have a score lower than 8.
 
 This method of determining ability scores enables you to create a set of three high numbers and three low ones (15, 15, 15, 8, 8, 8), a set of numbers that are above average and nearly equal (13, 13, 13, 12, 12, 12), or any set of numbers between those extremes.
+
 ####  Ability Score Point Cost
 
 ## 4. อธิบายลักษณะตัวละคร
