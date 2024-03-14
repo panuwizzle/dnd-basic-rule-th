@@ -1,30 +1,30 @@
 # บทที่ 1: สร้างตัวละครทีละขั้น
 
-Your first step in playing an adventurer in the Dungeons & Dragons game is to imagine and create a character of your own. Your character is a combination of game statistics, roleplaying hooks, and your imagination. You choose a race (such as human or halfling) and a class (such as fighter or wizard). You also invent the personality, appearance, and backstory of your character. Once completed, your character serves as your representative in the game, your avatar in the Dungeons & Dragons world.
+ขั้นแรกของการเล่นเป็นนักผจญภัยในดันเจี้ยนแอนด์ดรากอนคือการจินตนาการและสร้างตัวละครของคุณเอง ตัวละครของคุณเป็นการรวมกันของค่าแต้มต่าง ๆ ในเกม เรื่องราวในการโรลเพลย์และจินตนากรของคุณ คุณเลือกเผ่า (เช่น มนุษย์หรือฮาร์ฟลิง) และอาชีพ (คลาส - class) เช่น นักสู้ (ไฟท์เตอร์ - fighter) หรือพ่อมด (วิซาร์ด - wizard) คุณสามารถสร้างลักษณะนิสัย ลักษณะภายนอกและภูมิหลังของตัวละครได้ เมื่อเสร็จแล้ว ตัวละครจะทำหน้าที่เป็นตัวแทนของคุณในเกม เป็นอวตารในโลกของอันเจี้ยนแอนด์ดรากอน
 
-Before you dive into step 1 below, think about the kind of adventurer you want to play. You might be a courageous fighter, a skulking rogue, a fervent cleric, or a flamboyant wizard. Or you might be more interested in an unconventional character, such as a brawny rogue who likes hand-to-hand combat, or a sharpshooter who picks off enemies from afar. Do you like fantasy fiction featuring dwarves or elves? Try building a character of one of those races. Do you want your character to be the toughest adventurer at the table? Consider the fighter class. If you don’t know where else to begin, take a look at the illustrations in any Dungeons & Dragons book to see what catches your interest.
+ก่อนที่จะเข้าสู่ขั้นตอนที่ 1 ด้านล่างนี้ ลองคิดถึงลักษณะของนักผจญภัยที่คุณอยากจะเล่น คุณอาจจะอยากเป็นนักสู้ผู้กล้าหาญ โจร (โร๊ก - rogue) ลึกลับนักย่องเบา นักบวช (เคลอริก - cleric) ผู้เคร่งศรัทธา หรือพ่อมด (วิซาร์ด - wizard) ผู้มากความรู้ หรือคุณอาจจะสนใจตัวละครที่พิเศษออกไปอย่างโจรนักมวยที่ชอบแลกหมัด หรืออาจจะเป็นสไนเปอร์ที่โจมตีศัตรูจากระยะไกล คุณชอบเรื่องราวแฟนตาซีที่มีคนแคระและเอลฟ์ด้วยมั๊ย ลองพยายามสร้างตัวละครจากหนึ่งในหลายเผ่าพันธุ์ที่มี คุณอยากให้ตัวละครของคุณอึดสุดในบรรดานักผจญภัยที่ร่วมเล่นด้วยรึเปล่า ลองเลือกอาชีพนักสู้ ถ้ายังไม่รู้จะเลือกอะไร ลองไล่ดูรูปในหนังสือคู่มือหรือในเว็บไซต์ที่คุณรู้สึกชอบก็ได้
 
-Once you have a character in mind, follow these steps in order, making decisions that reflect the character you want. Your conception of your character might evolve with each choice you make. What’s important is that you come to the table with a character you’re excited to play.
+เมื่อคุณได้ตัวละครในใจแล้ว ทำตามขั้นตอนตามลำดับต่อไป ตัวละครของคุณจะพัฒนาไปตามไปตามที่คุณเลือกในแต่ละขั้น แต่สิ่งที่สำคัญที่สุดคือต้องเป็นสิ่งที่คุณพอใจและตื่นเต้นที่จะนำไปเล่นกับเพื่อน
 
-Throughout this section, we use the term **character sheet** to mean whatever you use to track your character, whether it’s a formal character sheet (like the one at the end of these rules), some form of digital record, or a piece of notebook paper. An official D&D character sheet is a fine place to start until you know what information you need and how you use it during the game.
+ตลอดในส่วนนี้ เราจะใช้คำว่า **คาแรคเตอร์ชีท** (character sheet) เป็นตัวเก็บข้อมูลต่าง ๆ ของตัวละคร ไม่ว่าจะเป็นแบบมาตรฐาน (อย่างที่มีในส่วนท้ายของกฏเล่มนี้) หรือเป็นรูปแบบดิจิตอล หรือเป็นกระดาษ เราแนะนำให้คุณใช้ชีทมาตรฐานของเราจนกว่าคุณจะเข้าใจและอยากได้รูปแบบอื่นที่เหมาะสมกับคุณในการเล่นเกม
 
-> BUILDING BRUENOR
+> สร้างตัวละคร บรูเอนอร์
 >
-> Each step of character creation includes an example of that step, with a player named Bob building his dwarf character, Bruenor.
+> การสร้างตัวละครแต่ละขั้นจะมีตัวอย่างประกอบ โดยผู้เล่น บ็อบ จะทำการสร้างตัวละคร คนแคระ ชื่อ บรูเอนอร์ ของเขา
 
 ## 1. เลือกเผ่าพันธุ์
 
-Every character belongs to a race, one of the many intelligent humanoid species in the D&D world. The most common player character races are dwarves, elves, halflings, and humans. Some races also have subraces, such as mountain dwarf or wood elf. The [Races](./ch2-races.md) section provides more information about these races.
+ตัวละครแต่ละตัวจะเป็นหนึ่งในเผ่าพันธุ์ทรงปัญญารูปร่างแบบมนุษย์ (humanoid) ที่มีในโลกของ D&D เผ่าพันธุ์ส่วนใหญ่ก็จะมี คนแคระ (ดวาฟ - dwarves), เอลฟ์ (elves), ฮาล์ฟลิง (halflings หรือฮอพบิทจากลอร์ดออฟเดอะริง) และมนุษย์ (human) บางเผ่าพันธุ์จะมีเผ่าพันธุ์ย่อย (ซับเรช - subraces) เช่นคนแคระภูเขา (mountain dwarf) เอลฟ์ป่า (วู๊ดเอลฟ์ - wood elf) ส่วน [เผ่าพันธุ์](./ch02-races.md) จะมีข้อมูลของเผ่าพันธุ์เหล่านี้
 
-The race you choose contributes to your character’s identity in an important way, by establishing a general appearance and the natural talents gained from culture and ancestry. Your character’s race grants particular racial traits, such as special senses, proficiency with certain weapons or tools, proficiency in one or more skills, or the ability to use minor spells. These traits sometimes dovetail with the capabilities of certain classes (see step 2). For example, the racial traits of lightfoot halflings make them exceptional rogues, and high elves tend to be powerful wizards. Sometimes playing against type can be fun, too. Halfling paladins and mountain dwarf wizards, for example, can be unusual but memorable characters.
+เผ่าพันธุ์ที่คุณเลือกจากมีส่วนในการสร้างอัตลักษณ์ที่สำคัญเช่น รูปร่างหน้าตาและทักษะที่ได้จากวัฒนธรรมและจากบรรพบุรุษ เผ่าพันธุ์ของตัวละครจะให้ความสามารถเฉพาะเผ่า (racial trait) เช่นสัมผัสพิเศษ ความเชี่ยวชาญในอาวุธและอุปกรณ์บางอย่าง ความเชี่ยวชาญในทักษะบางอย่างหรือความสามารถในการใช้เวทเฉพาะ คุณลักษณะพิเศษเหล่านี้บางครั้งจะช่วยเสริมทักษะอาชีพ (ดูขั้นตอนที่ 2 เรื่องอาชีพ) ตัวอย่างเช่น คุณลักษณะพิเศษของฮาล์ฟลิงเท้าเบา (lightfoot halfling) ทำให้พวกเขาเหมาะกับการเป็นโจร (rogue) และพวกไฮเอลฟ์มักจะเหมาะกับการเป็นพ่อมด บางครั้งการใช้ตัวละครที่ขัดกันกับอาชีพก็สนุกดี อย่างฮาล์ฟลิงเป็นอัศวินพาลาดินและพ่อมดคนแคระ เป็นตัวละครที่อาจจะไม่เก่งแต่ก็ทำให้เกมสนุกได้และเป็นที่จดจำ
 
-Your race also increases one or more of your ability scores, which you determine in step 3. Note these increases and remember to apply them later.
+เผ่าพันธุ์จะให้ค่าความสามารถเพิ่มด้วย ซึ่งคุณจะพบในขั้นตอนที่ 3 อย่าลืมเอาไปเพิ่มให้ตัวละครด้วยล่ะ
 
-Record the traits granted by your race on your character sheet. Be sure to note your starting languages and your base speed as well.
+จดคุณลักษณะพิเศษ (trait) ที่ได้จากเผ่าพันธุ์ลงในคาแรกเตอร์ชีพ อย่าลืมจดภาษาและความเร็วพื้นฐานลงไปด้วย
 
-> BUILDING BRUENOR, STEP 1
+> สร้างตัวละคร บรูเอนอร์, ขั้นตอนที่ 1
 >
-> Bob is sitting down to create his character. He decides that a gruff mountain dwarf fits the character he wants to play. He notes all the racial traits of dwarves on his character sheet, including his speed of 25 feet and the languages he knows: Common and Dwarvish.
+> บ็อบเริ่มสร้างตัวละครของเขา เขาตัดสินใจได้ว่าคนแคระภูเขาเสียงห้าวนี่หละที่เขาต้องการจะเล่น เขาจดลักษณะพิเศษของเผ่าพันธุ์คนแคระลงในคาแรกเตอร์ชีท รวมถึงความเร็วในการเคลื่อนที่ 25 ฟุต และภาษาที่พูดได้ คือ คอมมอน (Common ภาษากลาง) และดวาฟวิช (Dwarvish ภาษาคนแคระ)
 
 ## 2. เลือกอาชีพ
 
