@@ -14,37 +14,37 @@
 
 ## 1. เลือกเผ่าพันธุ์
 
-ตัวละครแต่ละตัวจะเป็นหนึ่งในเผ่าพันธุ์ทรงปัญญารูปร่างแบบมนุษย์ (humanoid) ที่มีในโลกของ D&D เผ่าพันธุ์ส่วนใหญ่ก็จะมี [คนแคระ (ดวาฟ - dwarves)](./ch02-races.md#dwarf), [เอลฟ์ (elves)](./ch02-races.md#elf), [ฮาล์ฟลิง (halflings หรือฮอพบิทจากลอร์ดออฟเดอะริง)](./ch02-races.md#halfling) และ[มนุษย์ (human)](./ch02-races.md#human) บางเผ่าพันธุ์จะมีเผ่าพันธุ์ย่อย (ซับเรช - subraces) เช่นคนแคระภูเขา (mountain dwarf) เอลฟ์ป่า (วู๊ดเอลฟ์ - wood elf) ส่วน [เผ่าพันธุ์](./ch02-races.md) จะมีข้อมูลของเผ่าพันธุ์เหล่านี้
+ตัวละครแต่ละตัวจะเป็นหนึ่งในเผ่าพันธุ์ทรงปัญญารูปร่างแบบมนุษย์ (humanoid) ที่มีในโลกของ D&D เผ่าพันธุ์ส่วนใหญ่ก็จะมี [คนแคระ (ดวาฟ - dwarves)](./ch02-races.md#dwarf), [เอลฟ์ (elves)](./ch02-races.md#elf), [ฮาล์ฟลิง (halflings หรือฮอพบิทจากลอร์ดออฟเดอะริง)](./ch02-races.md#halfling) และ[มนุษย์ (human)](./ch02-races.md#human) บางเผ่าพันธุ์จะมีเผ่าพันธุ์ย่อย (ซับเรช - subraces) เช่นคนแคระภูเขา (mountain dwarf) เอลฟ์ป่า (วู๊ดเอลฟ์ - wood elf) บทที่ 2 [เผ่าพันธุ์](./ch02-races.md) จะมีข้อมูลของเผ่าพันธุ์เหล่านี้
 
 เผ่าพันธุ์ที่คุณเลือกจากมีส่วนในการสร้างอัตลักษณ์ที่สำคัญเช่น รูปร่างหน้าตาและทักษะที่ได้จากวัฒนธรรมและจากบรรพบุรุษ เผ่าพันธุ์ของตัวละครจะให้ความสามารถเฉพาะเผ่า (เรเชียล เทรต - racial trait) เช่นสัมผัสพิเศษ ความเชี่ยวชาญในอาวุธและอุปกรณ์บางอย่าง ความเชี่ยวชาญในทักษะบางอย่างหรือความสามารถในการใช้เวทเฉพาะ คุณลักษณะพิเศษเหล่านี้บางครั้งจะช่วยเสริมทักษะอาชีพ (ดูขั้นตอนที่ 2 เรื่องอาชีพ) ตัวอย่างเช่น คุณลักษณะพิเศษของฮาล์ฟลิงเท้าเบา (lightfoot halfling) ทำให้พวกเขาเหมาะกับการเป็นโจร (rogue) และพวกไฮเอลฟ์มักจะเหมาะกับการเป็นพ่อมด บางครั้งการใช้ตัวละครที่ขัดกันกับอาชีพก็สนุกดี อย่างฮาล์ฟลิงเป็นอัศวินพาลาดินและพ่อมดคนแคระ เป็นตัวละครที่อาจจะไม่เก่งแต่ก็ทำให้เกมสนุกได้และเป็นที่จดจำ
 
 เผ่าพันธุ์จะให้ค่าความสามารถเพิ่มด้วย ซึ่งคุณจะพบในขั้นตอนที่ 3 อย่าลืมเอาไปเพิ่มให้ตัวละครด้วยล่ะ
 
-จดคุณลักษณะพิเศษ (trait) ที่ได้จากเผ่าพันธุ์ลงในคาแรกเตอร์ชีพ อย่าลืมจดภาษาและความเร็วพื้นฐานลงไปด้วย
+จดคุณลักษณะพิเศษ (เทรต - trait) ที่ได้จากเผ่าพันธุ์ลงในคาแรกเตอร์ชีพ อย่าลืมจดภาษาและความเร็วพื้นฐานลงไปด้วย
 
 > สร้างตัวละคร บรูเอนอร์, ขั้นตอนที่ 1
 >
-> บ็อบเริ่มสร้างตัวละครของเขา เขาตัดสินใจได้ว่าคนแคระภูเขาเสียงห้าวนี่หละที่เขาต้องการจะเล่น เขาจดลักษณะพิเศษของเผ่าพันธุ์คนแคระลงในคาแรกเตอร์ชีท รวมถึงความเร็วในการเคลื่อนที่ 25 ฟุต และภาษาที่พูดได้ คือ คอมมอน (Common ภาษากลาง) และดวาฟวิช (Dwarvish ภาษาคนแคระ)
+> บ็อบเริ่มสร้างตัวละครของเขา เขาตัดสินใจได้ว่าคนแคระภูเขาเสียงห้าวนี่หละที่เขาต้องการจะเล่น เขาจดลักษณะพิเศษของเผ่าพันธุ์คนแคระลงในคาแรกเตอร์ชีท รวมถึงความเร็วในการเคลื่อนที่ 25 ฟุต และภาษาที่พูดได้ คือ ภาษากลาง (คอมมอน - Common) และภาษาคนแคระ (ดวาฟวิช - Dwarvish)
 
-## 2. เลือกอาชีพ
+## 2. เลือกอาชีพ (คลาส - class)
 
-Every adventurer is a member of a class. Class broadly describes a character’s vocation, what special talents he or she possesses, and the tactics he or she is most likely to employ when exploring a dungeon, fighting monsters, or engaging in a tense negotiation. The character classes are described in the Classes section.
+นักผจญภัยทุกคนจะมีอาชีพของตัวเอง อาชีพเรียกได้ว่า คลาส จะบอกทักษะพิเศษที่เขาหรือเธอมีรวมถึงแทคติกที่จะใช้ในการตระเวณดันเจียน สู้กับมอนสเตอร์ หรือการเจรจาต่อรอง คลาสของตัวละครมีรายละเอียดในส่วนของ [คลาส](./ch03-classes.md)
 
-Your character receives a number of benefits from your choice of class. Many of these benefits are class features — capabilities (including spellcasting) that set your character apart from members of other classes. You also gain a number of proficiencies: armor, weapons, skills, saving throws, and sometimes tools. Your proficiencies define many of the things your character can do particularly well, from using certain weapons to telling a convincing lie.
+ตัวละครจะได้รับความสามารถพิเศษจากคลาสที่เลือก หลายอย่างเรียกว่า คลาสฟีเจอร์ เป็นความสามารถที่จะทำให้ตัวละครของคุณแตกต่างจากคนอื่น คุณยังได้รับความเชี่ยวชาญพิเศษ เช่นด้านเกราะ อาวุธ ทักษะ การทอยป้องกัน (saving throw) และเครื่องมือบางอย่าง ความเชี่ยวชาญของคุณจะเป็นตัวแปรสำคัญที่จะบอกว่าทำสิ่งนั้นได้ดีหรือไม่ ตั้งแต่การใช้อาวุธบางอย่างจนถึงการเล่าเรื่องโกหก
 
-On your character sheet, record all the features that your class gives you at 1st level.
+บันทึกฟีเจอร์ต่าง ๆ ที่ได้ได้รับจากคลาสที่คุณเลือกในเลเวล 1 ลงคาแรกเตอร์ชีท 
 
 ### เลเวล
 
-Typically, a character starts at 1st level and advances in level by adventuring and gaining experience points (XP). A 1st-level character is inexperienced in the adventuring world, although he or she might have been a soldier or a pirate and done dangerous things before.
+ปกติแล้ว ตัวละครจะเริ่มที่เลเวล 1 และเพิ่มระดับไปเรื่อย ๆ จากค่าประสบการณ์ (XP) ที่ได้รับระหว่างการผจญภัย นักผจญภัยเลเวล 1 ยังไม่มีประสบการณ์ในโลกของการผจญภัยเลย แต่ถึงอย่างนั้นพวกเขาก็เคยทำอาชีพอื่นมาก่อน อาจจะเป็นทหารหรือโจรสลัดและเคยผ่านอันตรายมาพอสมควร
 
-Starting off at 1st level marks your character’s entry into the adventuring life. If you’re already familiar with the game, or if you are joining an existing D&D campaign, your DM might decide to have you begin at a higher level, on the assumption that your character has already survived a few harrowing adventures.
+การเริ่มที่เลเวล 1 เป็นการเริ่มต้นชีวิตนักผจญภัยของตัวละครของคุณ ถ้าคุณมีประสบการณ์การเล่นแล้วหรือเพิ่งเข้าร่วมกับแคมเปญที่รันอยู่ DM ของคุณอาจจะให้คุณเริ่มต้นที่เลเวลที่สูงกว่านี้ โดยอนุมานว่าตัวละครของคุณเอาชีวิตรอดมาได้จากการผจญภัยพอสมควรแล้ว
 
-Record your level on your character sheet. If you’re starting at a higher level, record the additional elements your class gives you for your levels past 1st. Also record your experience points. A 1st-level character has 0 XP. A higher-level character typically begins with the minimum amount of XP required to reach that level (see “Beyond 1st Level” later in this section).
+บันทึกเลเวลของตัวละครลงชีท ถ้าเริ่มที่เลเวลสูงกว่านี้ ให้บันทึกความสามารถที่คลาสเพิ่มมาให้ในแต่ละระดับรวมถึงเพิ่มค่าประสบการณ์ด้วย ตัวละครเลเวล 1 จะมีค่าประสบการณ์เป็น 0 ตัวละครที่เลเวลสูงมักจะมีค่าประสบการณ์ที่ระดับต่ำสุดของเลเวลนั้น ๆ (ดู "เมื่อเลเวลขึ้น" ในส่วนท้ายของบทนี้)
 
-> QUICK BUILD
+> สร้างอย่างเร็ว
 >
-> Each class description in the Classes section includes a section offering suggestions to quickly build a character of that class, including how to assign your highest ability scores, a background suitable to the class, and starting spells.
+> คำอธิบายคลาสในบทของคลาสจะมีส่วนที่บอกถึงการสร้างตัวละครแบบรวดเร็วของคลาสนั้น รวมถึงการกำหนดคะแนนความสามารถ (ability score) ภูมิหลัง (background) ที่เหมาะกับคลาส และคาถาเริ่มต้น
 
 ### ฮิทพอยต์และฮิทไดซ์
 
