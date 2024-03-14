@@ -1,7 +1,7 @@
 # บทที่ 3: คลาส (อาชีพ)
 ### Classes Summary
 
-### Barbarian
+### <a name="babarian">Barbarian</a>
 #### Primal Instinct
 #### A Life of Danger
 #### Creating a Barbarian
@@ -23,7 +23,7 @@
 #### Primal Paths
 #### Path of the Berserker
 
-## Bard
+## <a name="bard">Bard</a>
 ### Music and Magic
 ### Learning from Experience
 ### Creating a Bard
@@ -42,7 +42,7 @@
 ## Bard Colleges
 ### College of Lore
 
-## Cleric
+## <a name="cleric">Cleric</a>
 ### Healers and Warriors
 ### Divine Agents
 ### Creating a Cleric
@@ -56,7 +56,7 @@
 ## Divine Domains
 ### Life Domain
 
-## Druid
+## <a name="druid">Druid</a>
 ### Power of Nature
 ### Preserve the Balance
 ### Creating a Druid
@@ -72,7 +72,7 @@
 ## Druid Circles
 ### Circle of the Land
 
-## Fighter
+## <a name="fighter">Fighter</a>
 ### Well-Rounded Specialists
 ### Trained for Danger
 ### Creating a Fighter
@@ -87,7 +87,7 @@
 ## Martial Archetypes
 ### Champion
 
-## Monk
+## <a name="monk">Monk</a>
 ### The Magic of Ki
 ### Training and Asceticism
 ### Creating a Monk
@@ -114,7 +114,7 @@
 ## Monastic Traditions
 ### Way of the Open Hand
 
-## Paladin
+## <a name="paladin">Paladin</a>
 ### The Cause of Righteousness
 ### Beyond the Mundane Life
 ### Creating a Paladin
@@ -135,7 +135,7 @@
 ## Sacred Oaths
 ### Oath of Devotion
 
-## Ranger
+## <a name="ranger">Ranger</a>
 ### Deadly Hunters
 ### Independent Adventurers
 ### Creating a Ranger
@@ -156,7 +156,7 @@
 ## Ranger Archetypes
 ### Hunter
 
-## Rogue
+## <a name="rogue">Rogue</a>
 ### Skill and Precision
 ### A Shady Living
 ### Creating a Rogue
@@ -177,7 +177,7 @@
 ## Roguish Archetypes
 ### Thief
 
-## Sorcerer
+## <a name="sorcerer">Sorcerer</a>
 ### Raw Magic
 ### Unexplained Powers
 ### Creating a Sorcerer
@@ -191,7 +191,7 @@
 ## Sorcerous Origins
 ### Draconic Bloodline
 
-## Warlock
+## <a name="warlock">Warlock</a>
 ### Sworn and Beholden
 ### Delvers into Secrets
 ### Creating a Warlock
@@ -207,7 +207,7 @@
 ### The Fiend
 ## Eldritch Invocations
 
-## Wizard
+## <a name="wizard">Wizard</a>
 ### Scholars of the Arcane
 ### The Lure of Knowledge
 ### Creating a Wizard

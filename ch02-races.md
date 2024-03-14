@@ -130,7 +130,7 @@ Ability Score Increase. Your Strength score increases by 2.
 
 Dwarven Armor Training. You have proficiency with light and medium armor.
 
-### Elf
+### <a name="elf">เอลฟ์</a>
 “I have never imagined such beauty existed,” Goldmoon said softly. The day’s march had been difficult, but the reward at the end was beyond their dreams. The companions stood on a high cliff over the fabled city of Qualinost.
 
 Four slender spires rose from the city’s corners like glistening spindles, their brilliant white stone marbled with shining silver. Graceful arches, swooping from spire to spire, soared through the air. Crafted by ancient dwarven metalsmiths, they were strong enough to hold the weight of an army, yet they appeared so delicate that a bird lighting on them might overthrow the balance. These glistening arches were the city’s only boundaries; there was no wall around Qualinost. The elven city opened its arms lovingly to the wilderness.
@@ -229,7 +229,7 @@ Fleet of Foot. Your base walking speed increases to 35 feet.
 
 Mask of the Wild. You can attempt to hide even when you are only lightly obscured by foliage, heavy rain, falling snow, mist, and other natural phenomena.
 
-### Halfling
+### <a name="halfling">Halfling</a>
 #### Small and Practical
 #### Kind and Curious
 #### Blend into the Crowd
@@ -240,7 +240,7 @@ Mask of the Wild. You can attempt to hide even when you are only lightly obscure
 #### Lightfoot
 #### Stout
 
-### Human
+### <a name="human">Human</a>
 #### A Broad Spectrum
 #### Variety in All Things
 #### Lasting Institutions
@@ -248,13 +248,13 @@ Mask of the Wild. You can attempt to hide even when you are only lightly obscure
 #### Human Names and Ethnicities
 #### Human Traits
 
-### Dragonborn
+### <a name="dragonborn">Dragonborn</a>
 #### Proud Dragon Kin
 #### Self-Sufficient Clans
 #### Dragonborn Names
 #### Dragonborn Traits
 
-### Gnome
+### <a name="gnome">Gnome</a>
 #### Vibrant Expression
 #### Delighted Dedication
 #### Bright Burrows
@@ -263,19 +263,19 @@ Mask of the Wild. You can attempt to hide even when you are only lightly obscure
 #### Gnome Traits
 #### Rock Gnome
 
-### Half-Elf
+### <a name="half-elf">Half-Elf</a>
 #### Of Two Worlds
 #### Diplomats or Wanderers
 #### Half-Elf Names
 #### Half-Elf Traits
 
-### Half-Orc
+### <a name="half-orc">Half-Orc</a>
 #### Scarred and Strong
 #### The Mark of Gruumsh
 #### Half-Orc Names
 #### Half-Orc Traits
 
-### Tiefling
+### <a name="tiefling">Tiefling</a>
 #### Infernal Bloodline
 #### Self-Reliant and Suspicious
 #### Tiefling Names
