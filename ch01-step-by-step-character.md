@@ -32,7 +32,9 @@
 
 ตัวละครจะได้รับความสามารถพิเศษจากคลาสที่เลือก หลายอย่างเรียกว่า คลาสฟีเจอร์ เป็นความสามารถที่จะทำให้ตัวละครของคุณแตกต่างจากคนอื่น คุณยังได้รับความเชี่ยวชาญพิเศษ เช่นด้านเกราะ อาวุธ ทักษะ การทอยป้องกัน (saving throw) และเครื่องมือบางอย่าง ความเชี่ยวชาญของคุณจะเป็นตัวแปรสำคัญที่จะบอกว่าทำสิ่งนั้นได้ดีหรือไม่ ตั้งแต่การใช้อาวุธบางอย่างจนถึงการเล่าเรื่องโกหก
 
-บันทึกฟีเจอร์ต่าง ๆ ที่ได้ได้รับจากคลาสที่คุณเลือกในเลเวล 1 ลงคาแรกเตอร์ชีท 
+บันทึกฟีเจอร์ต่าง ๆ ที่ได้ได้รับจากคลาสที่คุณเลือกในเลเวล 1 ลงคาแรกเตอร์ชีท
+
+- คลาสอาจจะมาจากคำว่า classification คือไม่ได้เป็นอาชีพแต่เป็นการจัดกลุ่มนักผจญภัย เช่น ไฟท์เตอร์ หมายถึงนักสู้ตั้งแต่นักมวย นักดาบ กลาดิเอเตอร์ นักรบใช้หอก ง้าว ฯลฯ บ้างก็ว่ายืมคำมาจากเกมสงครามที่มีการจัดคลาสให้เรือรบ รถถัง เครื่องบิน อะไรแบบนั้น -- ผู้แปล
 
 ### เลเวล
 
@@ -46,34 +48,36 @@
 >
 > คำอธิบายคลาสในบทของคลาสจะมีส่วนที่บอกถึงการสร้างตัวละครแบบรวดเร็วของคลาสนั้น รวมถึงการกำหนดคะแนนความสามารถ (ability score) ภูมิหลัง (background) ที่เหมาะกับคลาส และคาถาเริ่มต้น
 
-### ฮิทพอยต์และฮิทไดซ์
+### ฮิทพอยต์และฮิทไดซ์ (HP และ Hit Point Dice)
 
-Your character’s hit points define how tough your character is in combat and other dangerous situations. Your hit points are determined by your Hit Dice (short for Hit Point Dice).
+ค่าเลือด (HP: Hit Point) เป็นตัวบอกความอึดของตัวละครของคุณในยามต่อสู้และในสถานการณ์อันตรายอื่น ๆ ค่าเลือดจะถูกกำหนดด้วยฮิทไดซ์ (ย่อจากฮิทพอยท์ไดซ์) หรือก็คือการทอยเต๋าที่กำหนดดเพื่อหาค่าเลือด
 
-At 1st level, your character has 1 Hit Die, and the die type is determined by your class. You start with hit points equal to the highest roll of that die, as indicated in your class description. (You also add your Constitution modifier, which you’ll determine in step 3.) This is also your hit point maximum.
+เมื่อเลเวล 1 ตัวละครของคุณจะมีฮิทไดซ์ 1 ลูก ชนิดของลูกเต๋าจะกำหนดมาจากคลาสที่เลือก จะมีค่าเลือดมากสุดเท่ากับจำนวนสูงสุดที่ทอยได้จากลูกเต๋านั้นซึ่งมีระบุไว้ในคำอธิบายคลาส (คุณสามารถเอาค่าโมดิไฟเอร์ของคอนสติทิวชัน มารวมด้วยได้ ซึ่งคุณจะได้เจอในขั้นตอนที่ 3) ค่าที่ได้นี้เป็นค่าเลือดสูงสุดของตัวละครด้วย
 
-Record your character’s hit points on your character sheet. Also record the type of Hit Die your character uses and the number of Hit Dice you have. After you rest, you can spend Hit Dice to regain hit points (see “Resting” in the Adventuring section).
+บันทึกค่าเลือดของตัวละครลงชีพ และบันทึกชนิดของฮิทไดซ์ที่ใช้และจำนวนลูกเต๋าที่ใช้ด้วย หลังจากที่ตัวละครพักผ่อน คุณสามารถขอทอยเพื่อฟื้นฟูค่าเลือดได้ (ดู "การพักผ่อน" ในส่วนของการผจญภัย)
 
 ### โบนัสความเชี่ยวชาญ
 
-The table that appears in your class description shows your proficiency bonus, which is +2 for a 1st-level character. Your proficiency bonus applies to many of the numbers you’ll be recording on your character sheet:
+ตารางที่มีในคำอธิบายคลาสแสดงถึงโบนัสความเชี่ยวชาญ (Proficiency Bonus โพรฟิเชียนซี่ โบนัส) ซึ่งก็คือ +2 สำหรับตัวละครเลเวล 1 ค่าโบนัสความชำนาญนี้เอาไปใช้ในหลายค่าที่คุณจะได้ใส่ลงในชีท
 
-- Attack rolls using weapons you’re proficient with
-- Attack rolls with spells you cast
-- Ability checks using skills you’re proficient in
-- Ability checks using tools you’re proficient with
-- Saving throws you’re proficient in
-- Saving throw DCs for spells you cast (explained in each spellcasting class)
+- การทอยโจมตีเมื่อใช้อาวุธที่คุณชำนาญ
+- การทอยโจมตีเมื่อร่ายเวทย์
+- การทดสอบความสามารถ (Ability check อบิลิตี้เช็ค) เมื่อใช้ทักษะที่คุณชำนาญ
+- การทดสอบความสามารถเมื่อใช้กับเครื่องมือที่คุณชำนาญ
+- การทอยป้องกัน (Saving throws) ด้วยความสามารถที่คุณชำนาญ
+- เพิ่มอัตราความยากในการทอยป้องกันเมื่อคุณร่ายเวทใส่ศัตรู
 
-Your class determines your weapon proficiencies, your saving throw proficiencies, and some of your skill and tool proficiencies. (Skills are described in "Using Ability Scores", tools in "Equipment.") Your background gives you additional skill and tool proficiencies, and some races give you more proficiencies. Be sure to note all of these proficiencies, as well as your proficiency bonus, on your character sheet.
+คลาสที่คุณเลือกจะเป็นตัวกำหนดอาวุธที่ชำนาญ การทอยป้องกัน และทักษะกับการใช้เครื่องมือบางอย่าง (ทักษะ (Skill: สกิล) จะอธิบายใน "การใช้คะแนนความสามารถ", เครื่องมือจะอยู่ใน "อุปกรณ์") ภูมิหลัง (Background) จะเป็นตัวเพิ่มทักษะและความชำนาญในเครื่องมือ และบางเผ่าพันธุ์ก็ให้ความเชี่ยวชาญเพิ่มได้ด้วย อย่าลืมจดทุกอย่างให้ครบรวมถึงค่าโบนัสความชำนาญลงในชีทด้วย
 
 Your proficiency bonus can’t be added to a single die roll or other number more than once. Occasionally, your proficiency bonus might be modified (doubled or halved, for example) before you apply it. If a circumstance suggests that your proficiency bonus applies more than once to the same roll or that it should be multiplied more than once, you nevertheless add it only once, multiply it only once, and halve it only once.
 
-> BUILDING BRUENOR, STEP 2
+ค่าโบนัสความเชี่ยวชาญจะเพิ่มลงไปได้แค่ครั้งเดียวในการทอยแต่ละครั้ง บางครั้งค่าจะถูกแก้ไขก่อนที่จะนำไปใช้ (อาจจะเพิ่มเป็นสองเท่าหรือลดเหลือครึ่งเดียว) ถ้าสถานการณ์ดูเหมือนจะสามารถใช้โบนัสได้หลายครั้ง ให้ทำแค่ครั้งเดียว เพิ่มครั้งเดียว คูณครั้งเดียว และลดครึ่งแค่ครั้งเดียว
+
+> สร้างตัวละคร บรูเอนอร์, ขั้นตอนที่ 2
 >
-> Bob imagines Bruenor charging into battle with an axe, one horn on his helmet broken off. He makes Bruenor a fighter and notes the fighter’s proficiencies and 1st-level class features on his character sheet.
+> บ็อบจินตนาการว่า บรูเอนอร์ ลุยเข้าโจมตีศัตรูด้วยขวาน เขาด้านหนึ่งบนหมวกของเขาหักไป เขาให้บรูเอนอร์เป็นไฟทเตอร์และจดค่าความชำนาญของไฟท์เตอร์ รวมถึงฟีเจอร์อื่น ๆ ลงในคาแรกเตอร์ชีท
 >
-> As a 1st-level fighter, Bruenor has 1 Hit Die—a d10—and starts with hit points equal to 10 + his Constitution modifier. Bob notes this, and will record the final number after he determines Bruenor’s Constitution score (see step 3). Bob also notes the proficiency bonus for a 1st-level character, which is +2.
+> เมื่อเป็นไฟท์เตอร์เลเวล 1 บรูเอนอร์มีฮิทไดซ์เป็น d10 1 ลูก และเริ่มต้นด้วยค่าเลือดทอยได้ 10 + ค่าโมดิไฟเออร์ของคอนสติทิวชัน บ็อบโน๊ตค่าที่ได้ไว้ก่อน จะเอาไปรวมกับค่าโมดิไฟเออร์ในขั้นตอนที่ 3 บ็อบจดโบนัสความเชี่ยวชาญลงในชีทด้วยซึ่งก็คือ +2
 
 ## 3. กำหนดคะแนนความสามารถ (Ability)
 
@@ -299,27 +303,27 @@ In the third tier (levels 11–16), characters have reached a level of power tha
 
 At the fourth tier (levels 17–20), characters achieve the pinnacle of their class features, becoming heroic (or villainous) archetypes in their own right. The fate of the world or even the fundamental order of the multiverse might hang in the balance during their adventures.
 
-### Character Advancement
+### การเพิ่มระดับตัวละคร
 
-| Experience Points | Level | Proficiency Bonus |
-| :---------------: | :---: | :---------------: |
-|         0         |   1   |        +2         |
-|        300        |   2   |        +2         |
-|        900        |   3   |        +2         |
-|       2,700       |   4   |        +2         |
-|       6,500       |   5   |        +3         |
-|      14,000       |   6   |        +3         |
-|      23,000       |   7   |        +3         |
-|      34,000       |   8   |        +3         |
-|      48,000       |   9   |        +4         |
-|      64,000       |  10   |        +4         |
-|      85,000       |  11   |        +4         |
-|      100,000      |  12   |        +4         |
-|      120,000      |  13   |        +5         |
-|      140,000      |  14   |        +5         |
-|      165,000      |  15   |        +5         |
-|      195,000      |  16   |        +5         |
-|      225,000      |  17   |        +6         |
-|      265,000      |  18   |        +6         |
-|      305,000      |  19   |        +7         |
-|      355,000      |  20   |        +7         |
+| ค่าประสบการณ์ | เลเวล | โบนัสความชำนาญ |
+| :-----------: | :---: | :------------: |
+|       0       |   1   |       +2       |
+|      300      |   2   |       +2       |
+|      900      |   3   |       +2       |
+|     2,700     |   4   |       +2       |
+|     6,500     |   5   |       +3       |
+|    14,000     |   6   |       +3       |
+|    23,000     |   7   |       +3       |
+|    34,000     |   8   |       +3       |
+|    48,000     |   9   |       +4       |
+|    64,000     |  10   |       +4       |
+|    85,000     |  11   |       +4       |
+|    100,000    |  12   |       +4       |
+|    120,000    |  13   |       +5       |
+|    140,000    |  14   |       +5       |
+|    165,000    |  15   |       +5       |
+|    195,000    |  16   |       +5       |
+|    225,000    |  17   |       +6       |
+|    265,000    |  18   |       +6       |
+|    305,000    |  19   |       +7       |
+|    355,000    |  20   |       +7       |
