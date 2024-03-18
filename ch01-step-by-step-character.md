@@ -79,23 +79,25 @@ Your proficiency bonus can’t be added to a single die roll or other number mor
 >
 > เมื่อเป็นไฟท์เตอร์เลเวล 1 บรูเอนอร์มีฮิทไดซ์เป็น d10 1 ลูก และเริ่มต้นด้วยค่าเลือดทอยได้ 10 + ค่าโมดิไฟเออร์ของคอนสติทิวชัน บ็อบโน๊ตค่าที่ได้ไว้ก่อน จะเอาไปรวมกับค่าโมดิไฟเออร์ในขั้นตอนที่ 3 บ็อบจดโบนัสความเชี่ยวชาญลงในชีทด้วยซึ่งก็คือ +2
 
-## 3. กำหนดคะแนนความสามารถ (Ability)
+## 3. กำหนดคะแนนความสามารถ (Ability อบิลิตี้)
 
-Much of what your character does in the game depends on his or her six abilities: Strength, Dexterity, Constitution, Intelligence, Wisdom, and Charisma. Each ability has a score, which is a number you record on your character sheet.
+สิ่งที่ตัวละครจะทำได้ในเกมจะขึ้นอยู่กับความสามาถของเขาหรือเธอ 6 ด้านนี้: Strength สเตรงธ์ ความแข็งแกร่ง, Dexterity เด็กซ์เทอริตี้ ความว่องไว, Constitution คอนสติทิวชัน ความอึด ทนทาน, Intelligence อินเทลลิเจนซ์ ความฉลาด, Wisdom ความรอบคอบ รอบรู้ การเอาตัวรอด, และ Charisma คาริสม่า ความมีเสน่ห์ บุคลิกภาพ คะแนนความสามารถแต่ละอย่างจะถูกจดไว้ในชีท
 
-The six abilities and their use in the game are described in the Using Ability Scores section. The Ability Score Summary table provides a quick reference for what qualities are measured by each ability, what races increases which abilities, and what classes consider each ability particularly important.
+ความสามารถทั้ง 6 และการนำไปใช้จะอธิบายในส่วนของ การใช้คะแนนความสามารถ ตารางสรุปคะแนนความสามารถจะใช้เป็นตารางอ้างอิงอย่างง่ายสำหรับการเทียบว่าจะประเมินค่าอย่างไร เผ่าพันธุ์ไหนให้คะแนนเพิ่มด้านไหน และแต่ละคลาสควรมีความสามารถอะไรที่สำคัญ
 
-You generate your character’s six ability scores randomly. Roll four 6-sided dice and record the total of the highest three dice on a piece of scratch paper. Do this five more times, so that you have six numbers. If you want to save time or don’t like the idea of randomly determining ability scores, you can use the following scores instead: 15, 14, 13, 12, 10, 8.
+คุณสามารถสุ่มหาคะแนนความสามารถของตัวละครได้โดยการทอยลูกเต๋า 6 หน้า 4 ลูก เอาค่า 3 ค่าที่มากที่สุดบวกกันและจดไว้ ทำอีก 5 ครั้งให้ได้ 6 ค่า เอาแต่ละค่าที่ได้ไปกำหนดความสามารถแต่ละตัว ถ้าคุณต้องการประหยัดเวลาหรือไม่ชอบแบบสุ่ม สามาถมาใช้จำนวน 15 14 13 12 10 8 ได้เลย
 
-Now take your six numbers and write each number beside one of your character’s six abilities to assign scores to Strength, Dexterity, Constitution, Intelligence, Wisdom, and Charisma. Afterward, make any changes to your ability scores as a result of your race choice.
+เลือกตัวเลขใส่ในช่องความสามารถแต่ละตัวให้ครบ หลังจากนั้นไปเอาค่าจากเผ่าพันธุ์มาเพิ่มลงไป
 
 After assigning your ability scores, determine your ability modifiers using the Ability Scores and Modifiers table. To determine an ability modifier without consulting the table, subtract 10 from the ability score and then divide the result by 2 (round down). Write the modifier next to each of your scores.
 
-> BUILDING BRUENOR, STEP 3
+หลังจากที่จัดคะแนนเรียบร้อยแล้ว เอาคะแนนที่ได้ไปหาค่าโมดิไฟเออร์โดยใช้ตารางเทียบ หากจะหาค่าโดยไม่ใช้ตาราง ให้ลบคะแนนด้วย 10 และหาร 2 (ปัดเศษทิ้ง) จดค่าโมดิไฟเออร์ที่ได้ลงไปในแต่ละช่องด้วย
+
+> สร้างตัวละคร บรูเอนอร์, ขั้นตอนที่ 3
 >
-> Bob decides to use the standard set of scores (15, 14, 13, 12, 10, 8) for Bruenor’s abilities. Since he’s a fighter, he puts his highest score, 15, in Strength. His next-highest, 14, goes in Constitution. Bruenor might be a brash fighter, but Bob decides he wants the dwarf to be older, wiser, and a good leader, so he puts decent scores in Wisdom and Charisma. After applying his racial benefits (increasing Bruenor’s Constitution by 2 and his Strength by 2), Bruenor’s ability scores and modifiers look like this: Strength 17 (+3), Dexterity 10 (+0), Constitution 16 (+3), Intelligence 8 (–1), Wisdom 13 (+1), Charisma 12 (+1).
+> บ็อบเลือกจะใช้ชุดคะแนนมาตรฐาน (15, 14, 13, 12, 10, 8) สำหรับความสามารถของบรูเอนอร์ และเมื่อเขาเป็นไฟท์เตอร์ เขาเลยเลือกใส่ค่ามากที่สุดคือ 15 ในช่อง ความแข็งแกร่ง (Strength) ค่าสูงสุดลำดับต่อไป 14 ในช่อง ความทนทาน (Constitution) บรูเอนอร์อาจจะเป็นนักสู้ที่หุนหันพลันแล่นแต่บ็อบก็คิดว่าอยากให้เขาเป็นคนแคระที่มีอายุ มีปัญญา และเป็นผู้นำ ดังนั้นเขาจึงให้ค่ากลางกับ ความรอบรู้ (Wisdom) และความมีเสน่ห์ (Charisma) หลังจากที่เพิ่มความสามารถพิเศษที่ได้จากเผ่าพันธุ์แล้ว (เพิ่ม ความอึด (Constitution) +2 และเพิ่มความแข็งแกร่ง (Strength) +2) คะแนนความสามารถและค่าโมดิไฟเออร์ของบรูเอนอร์จึงเป็นดังนี้: Strength 17 (+3), Dexterity 10 (+0), Constitution 16 (+3), Intelligence 8 (–1), Wisdom 13 (+1), Charisma 12 (+1)
 >
-> Bob fills in Bruenor’s final hit points: 10 + his Constitution modifier of +3, for a total of 13 hit points.
+> บ็อบไม่ลืมจะใส่ค่าเลือดสูงสุดใหม่ลงไป คือ 10 + ค่าโมดิไฟเออร์ของความอึด +3 ทำให้ค่าเลือดเปน 13
 
 ### รูปแบบเพิ่มเติม
 
