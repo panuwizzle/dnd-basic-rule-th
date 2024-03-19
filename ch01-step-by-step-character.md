@@ -95,233 +95,237 @@
 >
 > บ็อบไม่ลืมจะใส่ค่าเลือดสูงสุดใหม่ลงไป คือ 10 + ค่าโมดิไฟเออร์ของความอึด (Constitution) +3 ทำให้ค่าเลือดเป็น 13
 
-### รูปแบบเพิ่มเติม
+### รูปแบบเพิ่มเติม (Point buy พอยท์บาย)
 
-At your Dungeon Master’s option, you can use this variant for determining your ability scores. The method described here allows you to build a character with a set of ability scores you choose individually.
+ดันเจี้ยนมาสเตอร์ของคุณอาจจะมีตัวเลือกอื่นให้ คุณสาามารถใช้วิธีการนี้ในการจัดคะแนนความสามารถได้ วิธีการต่อไปนี้ทำให้คุณสามารถเลือกความสามารถได้ค่อนข้างอิสระในแต่ละส่วน
 
-You have 27 points to spend on your ability scores. The cost of each score is shown on the Ability Score Point Cost table. For example, a score of 14 costs 7 points. Using this method, 15 is the highest ability score you can end up with, before applying racial increases. You can’t have a score lower than 8.
+คุณจะมีแต้ม 27 แต้มในการใช้กำหนดความสามารถ ค่าที่ใช้ในการแลกคะแนนจะเทียบได้กับตารางข้างล่างนี้ ตัวอย่างเช่น คะแนนความสามารถ 14 จะต้องใช้ 7 แต้ม การใช้วิธีนี้ คะแนนความสามารถสูงสุดที่จะใส่ได้คือ 15 ก่อนจะเอาคะแนนความสามารถจากเผ่าพันธุ์มาเพิ่ม คุณจะไม่สามารถมีคะแนนด้านใดต่ำกว่า 8 ได้
 
-This method of determining ability scores enables you to create a set of three high numbers and three low ones (15, 15, 15, 8, 8, 8), a set of numbers that are above average and nearly equal (13, 13, 13, 12, 12, 12), or any set of numbers between those extremes.
+วิธีการนี้จะจะให้คุณได้คะแนนระดับสูง 3 คะแนนและคะแนนต่ำ 3 คะแนน (15, 15, 15, 8, 8, 8) หรือกลุ่มคะแนนกลาง ๆ (13, 13, 13, 12, 12, 12) หรือคะแนนแบบอื่นที่อยู่ระหว่างสองกลุ่มนี้
 
-#### Ability Score Point Cost
+#### คะแนนความสามารถและจำนวนแต้มที่ใช้
 
-| Score | Cost |
-| ----- | ---- |
-| 8     | 0    |
-| 9     | 1    |
-| 10    | 2    |
-| 11    | 3    |
-| 12    | 4    |
-| 13    | 5    |
-| 14    | 7    |
-| 15    | 9    |
+| คะแนน | แต้มที่ใช้ |
+| ----- | ---------- |
+| 8     | 0          |
+| 9     | 1          |
+| 10    | 2          |
+| 11    | 3          |
+| 12    | 4          |
+| 13    | 5          |
+| 14    | 7          |
+| 15    | 9          |
 
-#### Ability Score Summary
+#### สรุปคะแนนความสามารถ
 
-**Strength**
+**ความแข็งแกร่ง Strength**
 
-**Measures**:
-Natural athleticism, bodily power
+**แสดงถึง**:  
+ความสามารถทางกีฬา, พลังกาย
 
-**Important for**:
-Barbarian, fighter, paladin
+**จำเป็นสำหรับ**:  
+บาบาเรียน Barbarian, ไฟท์เตอร์ fighter, พาลาดิน paladin
 
-**Racial Increases**
-Mountain dwarf (+2), Dragonborn (+2), Half-orc (+2), Human (+1)
+**เผ่าพันธุ์ที่ให้คะแนนเพิ่ม**  
+คนแคระภูเขา Mountain dwarf (+2), ดรากอนบอร์น Dragonborn (+2), ฮาล์ฟอ็อค Half-orc (+2), มนุษย์ Human (+1)
 
-Dexterity
-Measures
-Physical agility, reflexes, balance, poise
+**ความว่องไว Dexterity**
 
-Important for
-Monk, ranger, rogue
+**แสดงถึง**  
+ความว่องไวทางกายภาพ, การตอบสนอง, การทรงตัว, ร่างกายสมดุลย์
 
-Racial Increases
-Elf (+2), Halfling (+2), Forest gnome (+1), Human (+1)
+**จำเป็นสำหรับ**:  
+มองค์ พระ Monk, เรนเจอร์ ranger, โจร rogue
 
-Constitution
-Measures
-Health, stamina, vital force
+**เผ่าพันธุ์ที่ให้คะแนนเพิ่ม**  
+เอลฟ์ Elf (+2), ฮาล์ฟลิง Halfling (+2), โนมป่า Forest gnome (+1), มนุษย์ Human (+1)
 
-Important for
-Everyone
+**ความทนทาน Constitution**
+**แสดงถึง**:  
+สุขภาพ, เรี่ยวแรง, พลังชีวิต
 
-Racial Increases
-Dwarf (+2), Stout halfling (+1), Rock gnome (+1), Half-orc (+1), Human (+1)
+**จำเป็นสำหรับ**:  
+ทุกคน
 
-Intelligence
-Measures
-Mental acuity, information recall, analytical skill
+**เผ่าพันธุ์ที่ให้คะแนนเพิ่ม**  
+คนแคระ Dwarf (+2), สเท้าท์ ฮาล์ฟลิง Stout halfling (+1), โนมภูเขา Rock gnome (+1), ฮาล์ฟอ็อค Half-orc (+1), มนุษย์ Human (+1)
 
-Important for
-Wizard
+**ความฉลาด Intelligence**
+**แสดงถึง**:  
+จิตใจเฉียบแหลม, การระลึกถึงข้อมูลได้, ทักษะการวิเคราะห์
 
-Racial Increases
-High elf (+1), Gnome (+2), Tiefling (+1), Human (+1)
+**จำเป็นสำหรับ**:  
+พ่อมด Wizard
 
-Wisdom
-Measures
-Awareness, intuition, insight
+**เผ่าพันธุ์ที่ให้คะแนนเพิ่ม**  
+ไฮเอลฟ์ High elf (+1), โนม Gnome (+2), ทีฟลิง Tiefling (+1), มนุษย์ Human (+1)
 
-Important for
-Cleric, druid
+**ความรอบรู้ Wisdom**
+**แสดงถึง**:  
+ความระมัดระวัง, ลางสังหร, การหยั่งรู้
 
-Racial Increases
-Hill dwarf (+1), Wood elf (+1), Human (+1)
+**จำเป็นสำหรับ**:  
+นักบวช เคลอริก Cleric, ดรูอิด druid
 
-Charisma
-Measures
-Confidence, eloquence, leadership
+**เผ่าพันธุ์ที่ให้คะแนนเพิ่ม**  
+คนแคระเชิงเขา Hill dwarf (+1), เอลฟ์ต้นไม้ Wood elf (+1), มนุษย์ Human (+1)
 
-Important for
-Bard, sorcerer, warlock
+**เสน่ห์ Charisma**  
+**แสดงถึง**:  
+ความมั่นใจ, วาทะศิลป์, ความเป็นผู้นำ
 
-Racial Increases
-Half-elf (+2), Drow (+1), Lightfoot halfling (+1), Dragonborn (+1), Tiefling (+2), Human (+1)
+**จำเป็นสำหรับ**:  
+นักกวี บาร์ด Bard, ผู้วิเศษ ซอเซอร์เรอร์ sorcerer, แม่มด วอร์ล็อค warlock
 
-### Ability Scores and Modifiers
+**เผ่าพันธุ์ที่ให้คะแนนเพิ่ม**  
+ฮาล์ฟเอลฟ์ Half-elf (+2), ดราว Drow (+1), ฮาล์ฟลิงเท้าเบา Lightfoot halfling (+1), ดรากอนบอร์น Dragonborn (+1), ทีฟลิง Tiefling (+2), มนุษย์ Human (+1)
 
-| Score | Modifier |
-| :---: | :------: |
-|   1   |    -5    |
-|  2–3  |    −4    |
-|  4–5  |    −3    |
-|  6–7  |    −2    |
-|  8–9  |    −1    |
-| 10–11 |    +0    |
-| 12–13 |    +1    |
-| 14–15 |    +2    |
-| 16–17 |    +3    |
-| 18–19 |    +4    |
-| 20–21 |    +5    |
-| 22–23 |    +6    |
-| 24–25 |    +7    |
-| 26–27 |    +8    |
-| 28–29 |    +9    |
-|  30   |   +10    |
+### คะแนนความสามารถและโมดิไฟเออร์
+
+| คะแนน | โมดิไฟเออร์ |
+| :---: | :---------: |
+|   1   |     -5      |
+|  2–3  |     −4      |
+|  4–5  |     −3      |
+|  6–7  |     −2      |
+|  8–9  |     −1      |
+| 10–11 |     +0      |
+| 12–13 |     +1      |
+| 14–15 |     +2      |
+| 16–17 |     +3      |
+| 18–19 |     +4      |
+| 20–21 |     +5      |
+| 22–23 |     +6      |
+| 24–25 |     +7      |
+| 26–27 |     +8      |
+| 28–29 |     +9      |
+|  30   |     +10     |
 
 ## 4. อธิบายลักษณะตัวละคร
 
-Once you know the basic game aspects of your character, it’s time to flesh him or her out as a person. Your character needs a name. Spend a few minutes thinking about what he or she looks like and how he or she behaves in general terms.
+เมื่อคุณทราบถึงลักษณะพื้นฐานของตัวละครของคุณแล้ว ก็ถึงเวลาที่จะทำให้เขาหรือเธอมีเรื่องราวเป็นบุคคลที่มีมิติ ตัวละครของคุณต้องมีชื่อ ใช้เวลาสักพักคิดถึงรูปร่างหน้าตาและลักษณะนิสัยของตัวละครแบบคร่าว ๆ
 
-Using the information in the Personality and Background section, you can flesh out your character’s physical appearance and personality traits. Choose your character’s alignment (the moral compass that guides his or her decisions) and ideals. The Personality and Background section also helps you identify the things your character holds most dear, called bonds, and the flaws that could one day undermine him or her.
+การใช้ข้อมูลในส่วนบุคลิกภาพและภูมิหลัง ช่วยให้คุณสามารถแยกแยะลักษณะทางกายภาพและลักษณะบุคลิกภาพของตัวละครของคุณได้ เลือกภาคความดีความชั่ว (Alignment เป็นเข็มทิศคุณธรรมที่ชี้นำการตัดสินใจของเขาหรือเธอ) และอุดมคติ ส่วนบุคลิกภาพและภูมิหลังยังช่วยให้คุณระบุสิ่งที่ตัวละครของคุณรักที่สุด ซึ่งเรียกว่าความผูกพัน และข้อบกพร่องที่อาจบ่อนทำลายเขาหรือเธอในวันหนึ่ง
 
-Your character’s background describes where he or she came from, his or her original occupation, and the character’s place in the D&D world. Your DM might offer additional backgrounds beyond the ones included in the Personality and Background section, and might be willing to work with you to craft a background that’s a more precise fit for your character concept.
+ภูมิหลังของตัวละครของคุณจะอธิบายว่าเขาหรือเธอมาจากไหน อาชีพดั้งเดิมของเขาหรือเธอ และเคยอยู่ที่ไหนในโลก D&D DM ของคุณอาจเสนอภูมิหลังเพิ่มเติมนอกเหนือจากที่รวมอยู่ในส่วนบุคลิกภาพและพื้นหลัง และอาจยินดีที่จะทำงานร่วมกับคุณเพื่อสร้างภูมิหลังที่เหมาะกับแนวคิดตัวละครของคุณมากขึ้น
 
-A background gives your character a background feature (a general benefit) and proficiency in two skills, and it might also give you additional languages or proficiency with certain kinds of tools. Record this information, along with the personality information you develop, on your character sheet.
+ภูมิหลังจะให้ความสามารถบางอย่างที่ติดมา (ประโยชน์ทั่วไป) และความชำนาญในทักษะ 2 อย่างและอาจให้ภาษาเพิ่มเติมหรือความเชี่ยวชาญเกี่ยวกับเครื่องมือบางประเภทด้วย บันทึกข้อมูลนี้พร้อมกับข้อมูลบุคลิกภาพที่คุณพัฒนาลงในชีทตัวละครของคุณ
 
 ### ความสามารถของตัวละคร
 
-Take your character’s ability scores and race into account as you flesh out his or her appearance and personality. A very strong character with low Intelligence might think and behave very differently from a very smart character with low Strength.
+เอาคะแนนความสามารถและเผ่าพันธุ์มาช่วยในการสร้างรูปลักษณ์และลักษณะนิสัยของตัวละครด้วย ตัวละครที่แข็งแรงมาก ๆ และมีความฉลาดน้อยก็อาจจะคิดและทำสิ่งต่าง ๆ ต่างไปจากคนที่ฉลาดมาก ๆ แต่มีความแข็งแรงน้อย
 
-For example, high Strength usually corresponds with a burly or athletic body, while a character with low Strength might be scrawny or plump.
+ตัวอย่างเช่น พวกที่มีความแข็งแรงมากมักจะมีรูปร่างใหญ่ล่ำบึ่ก ในขณะที่ตัวละครที่มีความแข็งแกร่งน้อยจะมีรูปร่างเพรียวบางอ่อนแอ
 
-A character with high Dexterity is probably lithe and slim, while a character with low Dexterity might be either gangly and awkward or heavy and thick-fingered.
+ตัวละครที่มีความว่องไวสูงอาจจะมีรูปร่างผอมปราดเปรียว ขณะที่ตรงข้ามพวกว่องไวต่ำจะดูงุ่มง่ามหรือตัวหนานิ้วใหญ่หนา
 
-A character with high Constitution usually looks healthy, with bright eyes and abundant energy. A character with low Constitution might be sickly or frail.
+ตัวละครที่มีค่าความทนทานสูงมักจะดูมีสุขภาพดี ดวงตาสดใสและดูมีพลังเหลือเฟือ คนที่มีความทนทานต่ำจะดูป่วย ๆ หรือบอบบาง
 
-A character with high Intelligence might be highly inquisitive and studious, while a character with low Intelligence might speak simply or easily forget details.
+ตัวละครที่มีความฉลาดสูงมักจะอยากรู้อยากเห็นช่างสังเกต ขณะที่คนที่ฉลาดน้อยจะพูดง่าย ๆ และขี้ลืม
 
-A character with high Wisdom has good judgment, empathy, and a general awareness of what’s going on. A character with low Wisdom might be absent-minded, foolhardy, or oblivious.
+ตัวละครที่มีความรอบรู้สูงจะตัดสินใจได้อย่างเฉียบขาด มีความเมตตา และมักจะระมัดระวังสิ่งรอบตัว ตัวละครความรอบรู้ต่ำจะใจลอย บ้าบิ่นและขี้หลงขี้ลืม
 
-A character with high Charisma exudes confidence, which is usually mixed with a graceful or intimidating presence. A character with a low Charisma might come across as abrasive, inarticulate, or timid.
+ตัวละครที่มีเสน่ห์สูงจะแสดงออกถึงความมั่นใจ ซึ่งมักจะผสมกับการแสดงตนที่สง่างามหรือน่ากลัว ตัวละครที่มีความสามารถพิเศษต่ำอาจมองว่าเป็นคนเสียดสี พูดไม่ชัด หรือขี้อาย
 
-> BUILDING BRUENOR, STEP 4
+> สร้างตัวละคร บรูเอนอร์, ขั้นตอนที่ 4
 >
-> Bob fills in some of Bruenor’s basic details: his name, his sex (male), his height and weight, and his alignment (lawful good). His high Strength and Constitution suggest a healthy, athletic body, and his low Intelligence suggests a degree of forgetfulness.
+> บ็อบจดรายละเอียดบางส่วนของบรูเอนอร์ ชื่อ เพศ (ชาย) ความสูงและน้ำหนัก และภาคดีชั่ว (ฝ่ายดี เคารพกฏ: Lawful Good) เขามีความแข็งแกร่งและความทนทานสูงทำให้มีสุขภาพดี มีร่างกายแบบนักกีฬาและความฉลาดต่ำทำให้เป็นคนขี้ลืม
 >
-> Bob decides that Bruenor comes from a noble line, but his clan was expelled from its homeland when Bruenor was very young. He grew up working as a smith in the remote villages of Icewind Dale. But Bruenor has a heroic destiny—to reclaim his homeland—so Bob chooses the folk hero background for his dwarf. He notes the proficiencies and special feature this background gives him.
+> บ็อบตัดสินใจว่า บรูเอนอร์จะมาจากชนชั้นสูง แต่เผ่าของเขาถูกเนรเทศจากบ้านเกิดเมื่อบรูเอนอร์ยังเด็ก เขาโตขึ้นและทำงานในโรงหลอมเหล็กในหมู่บ้านชนบทที่ห่างไกลในไอซ์วินด์เดล แต่บรูเอนอร์ก็มีชะตาที่ต้องกลับไปทวงคืนบ้านเกิด บ็อบเลยเลือกภูมิหลังเป็นฮีโร่ประจำเมือง (folk hero background) ให้คนแคระ เขาจดความเชี่ยวชาญและผลพิเศษที่ภูมิหลังมีให้
 >
-> Bob has a pretty clear picture of Bruenor’s personality in mind, so he skips the personality traits suggested in the folk hero background, noting instead that Bruenor is a caring, sensitive dwarf who genuinely loves his friends and allies, but he hides this soft heart behind a gruff, snarling demeanor. He chooses the ideal of fairness from the list in his background, noting that Bruenor believes that no one is above the law.
+> บ็อบค่อนข้างมีภาพที่ชัดเจนถึงบุคลิกของบรูเอนอร์ ดังนั้นเขาจึงไม่ใช้ลักษณะบุคลิกที่ภูมิหลังแนะนำ บรูเอนอร์เป็นคนเมตตาและรักเพื่อนและพันธมิตร แต่เขามักซ่อนสิ่งเหล่านี้ไว้ภายใต้ท่าทางกักขฬะชอบคำราม เขาเลือกให้บรูเอนอร์เป็นคนยุติธรรมและเชื่อว่าไม่มีอะไรอยู่เหนือกฏหมาย
 >
-> Given his history, Bruenor’s bond is obvious: he aspires to someday reclaim Mithral Hall, his homeland, from the shadow dragon that drove the dwarves out. His flaw is tied to his caring, sensitive nature—he has a soft spot for orphans and wayward souls, leading him to show mercy even when it might not be warranted.
+> ดูจะประวัติแล้ว ความผูกพันของบรูเอนอร์แน่นอนว่าเป็นวันหนึ่งเขาจะต้องกลับไปชิงเอาเมืองมิทรัลฮอลล์บ้านเกิดกลับมาให้ได้จากมังกรเงาที่ขับไล่พวกคนแคระออกมา จุดอ่อนของเขาคือเป็นคนอ่อนไหวมักใจอ่อนกับเด็กกำพร้าและคนพลัดถิ่น บางทีก็ทำให้ไม่ระวังตัว
 
 ## 5. เลือกอุปกรณ์
 
-Your class and background determine your character’s starting equipment, including weapons, armor, and other adventuring gear. Record this equipment on your character sheet. All such items are detailed in the Equipment section.
+คลาสและภูมิหลังของคุณจะเป็นตัวกำหนดอุปกรณ์เริ่มต้นของตัวละครของคุณ รวมถึงอาวุธ ชุดเกราะ และอุปกรณ์ผจญภัยอื่นๆ บันทึกอุปกรณ์นี้ลงในเอกสารตัวละครของคุณ รายการดังกล่าวทั้งหมดมีรายละเอียดอยู่ในส่วนอุปกรณ์
 
-Instead of taking the gear given to you by your class and background, you can purchase your starting equipment. You have a number of gold pieces (gp) to spend based on your class, as shown in the Equipment section. Extensive lists of equipment, with prices, also appear in that section. If you wish, you can also have one trinket at no cost (see the "Trinkets" table at the end of the Equipment section).
+แทนที่จะรับอุปกรณ์ที่คลาสและภูมิหลังของคุณมอบให้ คุณสามารถซื้ออุปกรณ์เริ่มต้นได้ คุณมีทองจำนวนหนึ่ง (gp) ที่จะใช้จ่ายตามคลาสของคุณ ดังที่แสดงไว้ในส่วนอุปกรณ์ รายการอุปกรณ์พร้อมราคามากมายจะปรากฏในส่วนนั้นด้วย หากคุณต้องการ คุณยังสามารถมีเครื่องประดับเล็กๆ น้อยๆ หนึ่งชิ้นได้โดยไม่มีค่าใช้จ่าย (ดูตาราง "เครื่องประดับเล็กๆ น้อยๆ" ที่ส่วนท้ายของส่วนอุปกรณ์)
 
-Your Strength score limits the amount of gear you can carry. Try not to purchase equipment with a total weight (in pounds) exceeding your Strength score times 15. "Using Ability Scores" has more information on carrying capacity.
+คะแนนความแข็งแกร่งของคุณจะจำกัดจำนวนอุปกรณ์ที่คุณสามารถพกพาได้ พยายามอย่าซื้ออุปกรณ์ที่มีน้ำหนักรวม (เป็นปอนด์) เกินคะแนน Strength x 15 "การใช้คะแนนความสามารถ" มีข้อมูลเพิ่มเติมเกี่ยวกับความสามารถในการแบกของ
 
 ### อาเมอร์คลาส
 
-Your Armor Class (AC) represents how well your character avoids being wounded in battle. Things that contribute to your AC include the armor you wear, the shield you carry, and your Dexterity modifier. Not all characters wear armor or carry shields, however.
+อาเมอร์คลาส Armor Class (AC) ของคุณแสดงให้เห็นว่าตัวละครของคุณหลบหลีกการถูกโจมตีในการต่อสู้ได้ดีเพียงใด สิ่งที่ส่งผลต่อ AC ของคุณ ได้แก่ ชุดเกราะที่คุณสวมใส่ โล่ที่คุณถือ และโมดิไฟเออร์ของความว่องไว อย่างไรก็ตาม ไม่ใช่ตัวละครทุกตัวจะสวมชุดเกราะหรือถือโล่
 
-Without armor or a shield, your character’s AC equals 10 + his or her Dexterity modifier. If your character wears armor, carries a shield, or both, calculate your AC using the rules in the Equipment section. Record your AC on your character sheet.
+หากไม่มีเกราะหรือโล่ AC ของตัวละครของคุณจะเท่ากับ 10 + โมดิไฟเออร์ของความว่องไวของเขาหรือเธอ หากตัวละครของคุณสวมชุดเกราะ ถือโล่ หรือทั้งสองอย่าง ให้คำนวณ AC ของคุณโดยใช้กฎในส่วนอุปกรณ์ บันทึก AC ของคุณลงในแผ่นตัวละครของคุณ
 
-Your character needs to be proficient with armor and shields to wear and use them effectively, and your armor and shield proficiencies are determined by your class. There are drawbacks to wearing armor or carrying a shield if you lack the required proficiency, as explained in the Equipment section.
+ตัวละครของคุณจะต้องเชี่ยวชาญเรื่องชุดเกราะและโล่จึงจะสวมใส่และใช้งานได้อย่างมีประสิทธิภาพ และความเชี่ยวชาญของชุดเกราะและโล่จะกำหนดโดยคลาสของคุณ มีข้อเสียในการสวมชุดเกราะหรือถือโล่หากคุณขาดความเชี่ยวชาญตามที่อธิบายไว้ในส่วนอุปกรณ์
 
-Some spells and class features give you a different way to calculate your AC. If you have multiple features that give you different ways to calculate your AC, you choose which one to use.
+คาถาและคุณสมบัติคลาสบางอย่างให้วิธีคำนวณ AC ที่แตกต่างออกไป หากคุณมีฟีเจอร์หลายอย่างที่ให้วิธีคำนวณ AC ที่แตกต่างกัน คุณสามารถเลือกได้ว่าจะใช้อันไหน
 
 ### อาวุธ
 
-For each weapon your character wields, calculate the modifier you use when you attack with the weapon and the damage you deal when you hit.
+อาวุธแต่ละอย่างที่ตัวละครคุณถือ จะถูกคำนวนจากค่าโมดิไฟเออร์ของคุณและอาวุธรวมถึงความเสียหายที่คุณจะสร้างได้
 
-When you make an attack with a weapon, you roll a d20 and add your proficiency bonus (but only if you are proficient with the weapon) and the appropriate ability modifier.
+เมื่อคุณโจมตีด้วยอาวุธ คุณจะทอย d20 1 ลูก และเพิ่มค่าโบนัสความชำนาญเข้าไป (แต่เฉพาะเมื่อคุณมีความเชี่ยวชาญกับอาวุธนั้น) และเพิ่มโมดิไฟเออร์ของความสามารถที่เหมาะสมด้วย
 
-- For attacks with melee weapons, use your Strength modifier for attack and damage rolls. A weapon that has the finesse property, such as a rapier, can use your Dexterity modifier instead.
-- For attacks with ranged weapons, use your Dexterity modifier for attack and damage rolls. A melee weapon that has the thrown property, such as a handaxe, can use your Strength modifier instead.
+- การโจมตีด้วยอาวุธประชิดตัว ใช้โมดิไฟเออร์ความแข็งแกร่ง (Strength) เพิ่มในการทอยโจมตีและทอยความเสียหาย สำหรับอาวุธที่มีคุณลักษณะพลิกแพลง (finesse) เช่นเรเปีย คุณสามารถใช้โมดิไฟเออร์ความว่องไว (Dexterity) แทนได้
+- สำหรับการโจมตีด้วยอาวุธระยะไกล ให้ใช้โมดิไฟเออร์ความว่องไว (Dexterity) ในการทอยโจมตีและทอยความเสียหาย อาวุธโจมตีประชิดตัวที่มีคุณลักษณะขว้างได้ (thrown) เช่นขวานมือ คุณสามารถใช้ค่าความแข็งแกร่ง (Strength) แทนได้
 
-> BUILDING BRUENOR, STEP 5
+> สร้างตัวละคร บรูเอนอร์, ขั้นตอนที่ 5
 >
-> Bob writes down the starting equipment from the fighter class and the folk hero background. His starting equipment includes chain mail and a shield, which combine to give Bruenor an Armor Class of 18.
+> บ็อบจดอุปกรณ์เริ่มต้นจากคลาสไฟเตอร์และจากภูมิหลังฮีโร่ประจำเมืองลงชีท อุปกรณ์เริ่มต้นของเขามี เกราะเชนเมล์และโล่ห์ ซึ่งรวมกันแล้วทำให้บรูเอนอร์มีค่าอาเมอร์คลาส (AC) เป็น 18
 >
-> For Bruenor’s weapons, Bob chooses a battleaxe and two handaxes. His battleaxe is a melee weapon, so Bruenor uses his Strength modifier for his attacks and damage. His attack bonus is his Strength modifier (+3) plus his proficiency bonus (+2), for a total of +5. The battleaxe deals 1d8 slashing damage, and Bruenor adds his Strength modifier to the damage when he hits, for a total of 1d8 + 3 slashing damage. When throwing a handaxe, Bruenor has the same attack bonus (handaxes, as thrown weapons, use Strength for attacks and damage), and the weapon deals 1d6 + 3 slashing damage when it hits.
+> อาวุธที่บรูเอนอร์ใช้ บ็อบเลือกขวานศึก (battleaxe) และขวานมือ (handaxe) 2 เล่ม ขวานศึกเป็นอาวุธประชิดตัวดังนั้นบรูเอนอร์จะใช้ค่าโมดิไฟเออร์ความแข็งแกร่ง (Strength) ในการโจมตีและการทอยความเสียหาย โบนัสการโจมตีของเขาคือความแข็งแกร่ง (+3) รวมกับค่าความชำนาญ (+2) เป็น +5 ขวานศึกจะสร้างความเสียหายแบบเฉือน (slashing damage) เป็นจำนวน 1d8 (เต๋า 8 หน้า 1 ลูก) และบรูเอนอร์ได้เพิ่มค่าความแข็งแกร่งเพิ่มเข้าไปในความเสียหายเมื่อโจมตี รวมเสียหายรวมจะเป็น 1d8 + 3 เสียหายแบบเฉือน (slashing) เมื่อขว้างขวานมือ บรูเอนอร์จะใช้โบนัสการโจมตีเหมือนเดิม (ขวานมือ ใช้แบบขว้าง ใช้ Strength ในการโจมตีและเพิ่มความเสียหาย) และอาวุธสร้างความเสียหาย 1d6 + 3 slashing damage เมื่อโจมตีโดน
 
 ## 6. จัดปาร์ตี้
 
-Most D&D characters don’t work alone. Each character plays a role within a party, a group of adventurers working together for a common purpose. Teamwork and cooperation greatly improve your party’s chances to survive the many perils in the worlds of Dungeons & Dragons. Talk to your fellow players and your DM to decide whether your characters know one another, how they met, and what sorts of quests the group might undertake.
+ตัวละคร D&D ส่วนใหญ่ไม่ทำงานตามลำพัง ตัวละครแต่ละตัวมีบทบาทในปาร์ตี้ ซึ่งเป็นกลุ่มนักผจญภัยที่ทำงานร่วมกันเพื่อจุดประสงค์ร่วมกัน การทำงานเป็นทีมและความร่วมมือช่วยเพิ่มโอกาสให้ปาร์ตี้ของคุณในการเอาชีวิตรอดจากอันตรายมากมายในโลกของ Dungeons & Dragons ได้อย่างมาก พูดคุยกับผู้เล่นและ DM ของคุณเพื่อตัดสินใจว่าตัวละครของคุณรู้จักกันหรือไม่ พวกเขาพบกันได้อย่างไร และภารกิจประเภทใดที่กลุ่มอาจทำ
 
 ## เมื่อเลเวลขึ้น
 
 As your character goes on adventures and overcomes challenges, he or she gains experience, represented by experience points. A character who reaches a specified experience point total advances in capability. This advancement is called gaining a level.
 
+เมื่อตัวละครของคุณออกไปผจญภัยและเอาชนะความท้าทาย เขาหรือเธอจะได้รับประสบการณ์ซึ่งแสดงโดยคะแนนประสบการณ์ ตัวละครที่ได้รับประสบการณ์ที่กำหนดจะมีความสามารถก้าวหน้าไปทั้งหมด ความก้าวหน้านี้เรียกว่าการเพิ่มเลเวล
+
 ### คลาสฟีเจอร์และฮิทไดซ์
 
-When your character gains a level, his or her class often grants additional features, as detailed in the class description. Some of these features allow you to increase your ability scores, either increasing two scores by 1 each or increasing one score by 2. You can’t increase an ability score above 20. In addition, every character's proficiency bonus increases at certain levels.
+เมื่อตัวละครของคุณเลเวลขึ้น คลานของเขาหรือเธอมักจะให้คุณสมบัติเพิ่มเติม ดังรายละเอียดในคำอธิบายคลาส คุณสมบัติบางอย่างเหล่านี้ทำให้คุณสามารถเพิ่มคะแนนความสามารถของคุณได้ ไม่ว่าจะเพิ่มสองคะแนนครั้งละ 1 แต้ม หรือเพิ่มหนึ่งคะแนน 2 แต้ม คุณไม่สามารถเพิ่มคะแนนความสามารถที่สูงกว่า 20 ได้ นอกจากนี้ โบนัสความชำนาญของตัวละครทุกตัวจะเพิ่มขึ้นในบางระดับ
 
-Each time you gain a level, you gain 1 additional Hit Die. Roll that Hit Die, add your Constitution modifier to the roll, and add the total (minimum of 1) to your hit point maximum. Alternatively, you can use the fixed value shown in your class entry, which is the average result of the die roll (rounded up).
+แต่ละครั้งที่คุณเพิ่มระดับ คุณจะได้รับ Hit Die เพิ่มเติม 1 ครั้ง ทอย Hit Die เพิ่มตัวโมดิไฟเออร์ความทนทาน (Constitution) ของคุณลงในทอย และเพิ่มผลรวม (ขั้นต่ำ 1) ไปยังจุดพลังชีวิตสูงสุดของคุณ หรือคุณสามารถใช้ค่าคงที่ที่แสดงในรายการคลาสของคุณ ซึ่งเป็นผลลัพธ์โดยเฉลี่ยของการทอยลูกเต๋า (ปัดเศษขึ้น)
 
-When your Constitution modifier increases by 1, your hit point maximum increases by 1 for each level you have attained. For example, if your 7th-level fighter has a Constitution score of 17, when he reaches 8th level, he increases his Constitution score from 17 to 18, thus increasing his Constitution modifier from +3 to +4. His hit point maximum then increases by 8.
+เมื่อตัวโมดิไฟเออร์ความทนทาน (Constitution) ของคุณเพิ่มขึ้น 1 คะแนนพลังชีวิตสูงสุดของคุณจะเพิ่มขึ้น 1 สำหรับแต่ละเลเวลที่คุณได้รับ ตัวอย่างเช่น หากไฟเตอร์เลเวล 7 ของคุณมีคะแนน Constitution เป็น 17 เมื่อเขาไปถึงเลเวล 8 เขาจะเพิ่มคะแนน Constitution จาก 17 เป็น 18 ซึ่งจะเป็นการเพิ่มตัวโมดิไฟเออร์ความทนทาน (Constitution) จาก +3 เป็น +4 พลังชีวิตสูงสุดของเขาเพิ่มขึ้น 8
 
 ### ค่าประสบการณ์และโบนัสความเชี่ยวชาญที่เพิ่มขึ้น
 
-The Character Advancement table summarizes the XP you need to advance in levels from level 1 through level 20, and the proficiency bonus for a character of that level. Consult the information in your character's class description to see what other improvements you gain at each level.
+ตารางความก้าวหน้าของตัวละครจะสรุป XP ที่คุณต้องใช้ในการเลื่อนเลเวลตั้งแต่เลเวล 1 ถึงเลเวล 20 และโบนัสความสามารถสำหรับตัวละครในระดับนั้น ศึกษาข้อมูลในคำอธิบายคลาสของตัวละครของคุณเพื่อดูว่าคุณได้รับการปรับปรุงอื่นๆ อะไรบ้างในแต่ละระดับ
 
 ### ระดับชั้นการเล่น
 
-The shading in the Character Advancement table shows the four tiers of play. The tiers don’t have any rules associated with them; they are a general description of how the play experience changes as characters gain levels.
+ตารางความก้าวหน้าของตัวละครจะแสดงระดับ (tier เทียร์) การเล่นทั้งสี่ระดับ ระดับไม่มีกฎใดๆ ที่เกี่ยวข้อง เป็นคำอธิบายทั่วไปเกี่ยวกับประสบการณ์การเล่นที่เปลี่ยนแปลงไปเมื่อตัวละครได้รับเลเวลต่างๆ
 
-In the first tier (levels 1–4), characters are effectively apprentice adventurers. They are learning the features that define them as members of particular classes, including the major choices that flavor their class features as they advance (such as a wizard’s Arcane Tradition or a fighter’s Martial Archetype). The threats they face are relatively minor, usually posing a danger to local farmsteads or villages.
+ในระดับแรก (เลเวล 1–4) ตัวละครเป็นนักผจญภัยฝึกหัดที่มีประสิทธิภาพ พวกเขากำลังเรียนรู้คุณสมบัติที่กำหนดให้พวกเขาเป็นสมาชิกของคลาสนั้นๆ รวมถึงตัวเลือกหลักๆ ที่จะเสริมรสชาติให้กับฟีเจอร์ของคลาสเมื่อพวกเขาก้าวหน้า (เช่น Arcane Tradition ของพ่อมดหรือต้นแบบการต่อสู้ของนักสู้) ภัยคุกคามที่พวกเขาเผชิญนั้นค่อนข้างน้อย ซึ่งมักจะก่อให้เกิดอันตรายต่อฟาร์มหรือหมู่บ้านในท้องถิ่น
 
-In the second tier (levels 5–10), characters come into their own. Many spellcasters gain access to 3rd-level spells at the start of this tier, crossing a new threshold of magical power with spells such as fireball and lightning bolt. At this tier, many weapon-using classes gain the ability to make multiple attacks in one round. These characters have become important, facing dangers that threaten cities and kingdoms.
+ในระดับที่สอง (เลเวล 5–10) ตัวละครจะออกมาเป็นของตัวเอง นักเวทย์มนตร์หลายคนสามารถเข้าถึงคาถาระดับ 3 ได้เมื่อเริ่มต้นระดับนี้ โดยข้ามขีดจำกัดใหม่ของพลังเวทย์มนตร์ด้วยคาถา เช่น ลูกไฟและสายฟ้า ในระดับนี้ คลาสที่ใช้อาวุธจำนวนมากจะมีความสามารถในการโจมตีหลายครั้งในรอบเดียว ตัวละครเหล่านี้มีความสำคัญและต้องเผชิญกับอันตรายที่คุกคามเมืองและอาณาจักร
 
-In the third tier (levels 11–16), characters have reached a level of power that sets them high above the ordinary populace and makes them special even among adventurers. At 11th level, many spellcasters gain access to 6th-level spells, some of which create effects previously impossible for player characters to achieve. Other characters gain features that allow them to make more attacks or do more impressive things with those attacks. These mighty adventurers often confront threats to whole regions and continents.
+ในระดับที่สาม (เลเวล 11–16) ตัวละครจะถึงระดับพลังที่ทำให้พวกเขาอยู่เหนือผู้คนทั่วไป และทำให้พวกเขาพิเศษแม้กระทั่งในหมู่นักผจญภัย ที่ระดับ 11 นักเวทย์มนตร์จำนวนมากสามารถเข้าถึงคาถาระดับ 6 ได้ ซึ่งบางส่วนสร้างเอฟเฟกต์ที่ตัวละครของผู้เล่นเคยทำไม่ได้มาก่อน ตัวละครอื่นๆ ได้รับฟีเจอร์ที่ทำให้พวกเขาโจมตีได้มากขึ้นหรือทำสิ่งที่น่าประทับใจมากขึ้นด้วยการโจมตีเหล่านั้น นักผจญภัยผู้ยิ่งใหญ่เหล่านี้มักจะเผชิญหน้ากับภัยคุกคามต่อทั้งภูมิภาคและทวีป
 
-At the fourth tier (levels 17–20), characters achieve the pinnacle of their class features, becoming heroic (or villainous) archetypes in their own right. The fate of the world or even the fundamental order of the multiverse might hang in the balance during their adventures.
+ที่ระดับที่สี่ (เลเวล 17–20) ตัวละครจะบรรลุถึงจุดสุดยอดของลักษณะคลาสของตน และกลายเป็นต้นแบบของฮีโร่ (หรือตัวร้าย) ในแบบของตนเอง ชะตากรรมของโลกหรือแม้แต่ระเบียบพื้นฐานของมัลติเวอร์สอาจแขวนอยู่บนความสมดุลระหว่างการผจญภัยของพวกเขา
+
 
 ### การเพิ่มระดับตัวละคร
 
-| ค่าประสบการณ์ | เลเวล | โบนัสความชำนาญ |
-| :-----------: | :---: | :------------: |
-|       0       |   1   |       +2       |
-|      300      |   2   |       +2       |
-|      900      |   3   |       +2       |
-|     2,700     |   4   |       +2       |
-|     6,500     |   5   |       +3       |
-|    14,000     |   6   |       +3       |
-|    23,000     |   7   |       +3       |
-|    34,000     |   8   |       +3       |
-|    48,000     |   9   |       +4       |
-|    64,000     |  10   |       +4       |
-|    85,000     |  11   |       +4       |
-|    100,000    |  12   |       +4       |
-|    120,000    |  13   |       +5       |
-|    140,000    |  14   |       +5       |
-|    165,000    |  15   |       +5       |
-|    195,000    |  16   |       +5       |
-|    225,000    |  17   |       +6       |
-|    265,000    |  18   |       +6       |
-|    305,000    |  19   |       +7       |
-|    355,000    |  20   |       +7       |
+| ค่าประสบการณ์ | เลเวล | โบนัสความชำนาญ | ระดับขั้น (tier) |
+| :-----------: | :---: | :------------: | :--------------: |
+|       0       |   1   |       +2       |        1         |
+|      300      |   2   |       +2       |        1         |
+|      900      |   3   |       +2       |        1         |
+|     2,700     |   4   |       +2       |        1         |
+|     6,500     |   5   |       +3       |        2         |
+|    14,000     |   6   |       +3       |        2         |
+|    23,000     |   7   |       +3       |        2         |
+|    34,000     |   8   |       +3       |        2         |
+|    48,000     |   9   |       +4       |        2         |
+|    64,000     |  10   |       +4       |        2         |
+|    85,000     |  11   |       +4       |        3         |
+|    100,000    |  12   |       +4       |        3         |
+|    120,000    |  13   |       +5       |        3         |
+|    140,000    |  14   |       +5       |        3         |
+|    165,000    |  15   |       +5       |        3         |
+|    195,000    |  16   |       +5       |        3         |
+|    225,000    |  17   |       +6       |        4         |
+|    265,000    |  18   |       +6       |        4         |
+|    305,000    |  19   |       +7       |        4         |
+|    355,000    |  20   |       +7       |        4         |
