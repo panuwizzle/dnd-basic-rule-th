@@ -2,41 +2,41 @@
 
 # ส่วนที่ 1 การสร้างตัวละคร
 ## [บทที่ 1: สร้างตัวละครทีละขั้น](./ch01-step-by-step-character.md)
-### 1. เลือกเผ่าพันธุ์
-### 2. เลือกอาชีพ
-### 3. กำหนดคะแนนความสามารถ (Ability)
-### 4. อธิบายลักษณะตัวละคร
-### 5. เลือกอุปกรณ์
-### 6. จัดปาร์ตี้
-### เมื่อเลเวลขึ้น
+### [1. เลือกเผ่าพันธุ์](./ch01-step-by-step-character.md#step1)
+### [2. เลือกอาชีพ](./ch01-step-by-step-character.md#step2)
+### [3. กำหนดคะแนนความสามารถ (Ability)](./ch01-step-by-step-character.md#step3)
+### [4. อธิบายลักษณะตัวละคร](./ch01-step-by-step-character.md#step4)
+### [5. เลือกอุปกรณ์](./ch01-step-by-step-character.md#step5)
+### [6. จัดปาร์ตี้](./ch01-step-by-step-character.md#step6)
+### [เมื่อเลเวลขึ้น](./ch01-step-by-step-character.md#levelup)
 
 ## [บทที่ 2: เผ่าพันธุ์](./ch02-races.md)
 ### เลือกเผ่าพันธุ์
 ### ลักษณะเด่นของแต่ละเผ่า
-- คนแคระ (Dwarf)
-- เอลฟ์ (Elf)
-- ฮาฟลิ่ง (Halfling)
-- มนุษย์ (Human)
-- ดรากอนบอร์น (Dragonborn: ลูกครึ่งมังกร)
-- โนม (Gnome)
-- ฮาล์ฟเอลฟ์ (Half-Elf: ลูกครึ่งเอลฟ์)
-- ฮาล์ฟฮ็อค (Half-Orc: ลูกครึ่งอ็อค)
-- ทีฟลิ่ง (Tiefling: ลูกครึ่งปีศาจ)
+- [ดวัฟ (Dwarf) คนแคระ](./ch02-races.md#dwarf)
+- [เอลฟ์ (Elf)](./ch02-races.md#elf)
+- [ฮาล์ฟลิ่ง (Halfling)](./ch02-races.md#halfling)
+- [มนุษย์ (Human)](./ch02-races.md#human)
+- [ดรากอนบอร์น (Dragonborn: ลูกครึ่งมังกร)](./ch02-races.md#dragonborn)
+- [โนม (Gnome)](./ch02-races.md#gnome)
+- [ฮาล์ฟเอลฟ์ (Half-Elf: ลูกครึ่งเอลฟ์)](./ch02-races.md#half-elf)
+- [ฮาล์ฟอ็อค (Half-Orc: ลูกครึ่งอ็อค)](./ch02-races.md#half-orc)
+- [ทีฟลิ่ง (Tiefling: ลูกครึ่งปีศาจ)](./ch02-races.md#tiefling)
 
 ## [บทที่ 3: คลาส (อาชีพ)](./ch03-classes.md)
 ### คลาสโดยสรุป
-- คนเถื่อน - บาบาเรี่ยน Barbarian
-- นักกวี - บาร์ด Bard
-- นักบวช - เคลริค Cleric
-- ฤษี - ดรูอิด Druid
-- นักสู้ - ไฟท์เตอร์ Fighter
-- พระ - มองค์ Monk
-- อัศวิน - พาลาดิน Paladin
-- นักล่า - เรนเจอร์ Ranger
-- โจร - โรกค์ Rogue
-- ผู้วิเศษ - ซอเซอร์เรอร์ Sorcerer
-- แม่มด - วอร์ล็อค Warlock
-- พ่อมด - วิซาร์ด Wizard
+- [บาบาเรี่ยน Barbarian - คนเถื่อน](./ch03-classes.md#barbarian)
+- [บาร์ด Bard - นักกวี](./ch03-classes.md#bard)
+- [เคลริค Cleric - นักบวช](./ch03-classes.md#cleric)
+- [ดรูอิด Druid - ฤษี](./ch03-classes.md#druid)
+- [ไฟท์เตอร์ Fighter - นักสู้](./ch03-classes.md#fighter)
+- [มองค์ Monk - พระ](./ch03-classes.md#monk)
+- [พาลาดิน Paladin - อัศวิน](./ch03-classes.md#paladin)
+- [เรนเจอร์ Ranger - พรานนักล่า](./ch03-classes.md#ranger)
+- [โรกค์ Rogue - โจร](./ch03-classes.md#rogue)
+- [ซอเซอร์เรอร์ Sorcerer - ผู้วิเศษ](./ch03-classes.md#sorcerer)
+- [วอร์ล็อค Warlock - แม่มด](./ch03-classes.md#warlock)
+- [วิซาร์ด Wizard - พ่อมด](./ch03-classes.md#wizard)
 
 # [บทที่ 4: ลักษณะตัวละครและภูมิหลัง](./ch04-personality-and-background.md)
 ## รายละเอียดของตัวละคร
