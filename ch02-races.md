@@ -26,8 +26,6 @@
 อายุที่ระบุจะเป็นตัวบอกถึงช่วงอายุที่คนในเผ่าจะเป็นผู้ใหญ่รวมถึงอายุสูงสุดที่คาดว่าจะอยู่ถึง ข้อมูลนี้จะช่วยให้คุณตัดสินใจได้ว่าตัวละครอายุเท่าไรเมื่อเริ่มเกม คุณสามารถเลือกช่วงอายุใด ๆ ก็ได้ที่อธิบายถึงคะแนนความสามารถที่ปรากฏ ตัวอย่างเช่นคุณเล่นตัวละครที่ยังวัยรุ่นหรือแก่แล้ว อายุจะเป็นตัวบอกถึงความแข็งแกร่ง (STR) และความอดทน (CON) ที่ถดถอยหรือยังน้อย และเมื่ออายุมากขึ้นก็คาดได้ว่าจะมีความฉลาด (INT) และความรอบรู้ (WIS) เพิ่มมากขึ้น
 
 ### ขนาด
-Characters of most races are Medium, a size category including creatures that are roughly 4 to 8 feet tall. Members of a few races are Small (between 2 and 4 feet tall), which means that certain rules of the game affect them differently. The most important of these rules is that Small characters have trouble wielding heavy weapons, as explained in the Equipment section.
-
 ผู้คนส่วนใหญ่จะมีขนาดกลาง (Medium) เป็นกลุ่มสิ่งมีชีวิตที่มีความสูงราว 4 - 8 ฟุต มีบางเผ่าที่มีขนาดเล็ก (Small) (อยู่ระหว่าง 2 - 4 ฟุต) ซึ่งนั่นหมายความว่ากฏบางอย่างของเกมจะมีผลที่แตกต่างไปกับเขา กฏส่วนใหญ่ที่สำคัญคือตัวละครตัวเล็กจะมีปัญหาในการถืออาวุธขนาดใหญ่ ซึ่งมีอธิบายไว้ในส่วนของอุปกรณ์
 
 ### ความไว
