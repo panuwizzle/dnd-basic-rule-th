@@ -13,7 +13,7 @@
 ## [บทที่ 2: เผ่าพันธุ์](./ch02-races.md)
 ### เลือกเผ่าพันธุ์
 ### ลักษณะเด่นของแต่ละเผ่า
-- [ดวัฟ (Dwarf) คนแคระ](./ch02-races.md#dwarf)
+- [ดวอร์ฟ (Dwarf) คนแคระ](./ch02-races.md#dwarf)
 - [เอลฟ์ (Elf)](./ch02-races.md#elf)
 - [ฮาล์ฟลิ่ง (Halfling)](./ch02-races.md#halfling)
 - [มนุษย์ (Human)](./ch02-races.md#human)
