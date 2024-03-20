@@ -33,7 +33,7 @@
 - [มองค์ Monk - พระ](./ch03-classes.md#monk)
 - [พาลาดิน Paladin - อัศวิน](./ch03-classes.md#paladin)
 - [เรนเจอร์ Ranger - พรานนักล่า](./ch03-classes.md#ranger)
-- [โรกค์ Rogue - โจร](./ch03-classes.md#rogue)
+- [โร๊ค Rogue - โจร](./ch03-classes.md#rogue)
 - [ซอเซอร์เรอร์ Sorcerer - ผู้วิเศษ](./ch03-classes.md#sorcerer)
 - [วอร์ล็อค Warlock - แม่มด](./ch03-classes.md#warlock)
 - [วิซาร์ด Wizard - พ่อมด](./ch03-classes.md#wizard)
