@@ -1,43 +1,43 @@
 # บทที่ 2: เผ่าพันธุ์
 
-A visit to one of the great cities in the worlds of Dungeons & Dragons — Waterdeep, the Free City of Greyhawk, or even uncanny Sigil, the City of Doors — overwhelms the senses. Voices chatter in countless different languages. The smells of cooking in dozens of different cuisines mingle with the odors of crowded streets and poor sanitation. Buildings in myriad architectural styles display the diverse origins of their inhabitants.
+เยี่ยมชมหนึ่งในเมืองที่ยิ่งใหญ่ในโลกของดันเจียนแอนด์ดราก้อน เช่น วอเตอร์ดีพเมืองเสรีแห่งเกรฮอว์ค หรือแม้แต่ซิจิลเมืองแห่งประตู คุณจะได้รับรู้สิ่งต่าง ๆ มากมาย เสียงพูดคุยกันในต่างภาษานับไม่ถ้วน กลิ่นการปรุงอาหารมากมายหลากหลายชนิดผสมปนเปกับกลิ่นของผู้คนคับคั่งที่เดินบนถนน ตึกรามบ้านช่องผสมสถาปัตยกรรมที่แสดงให้เห็นถึงแหล่งกำเนิดของผู้อาศัย
 
-And the people themselves — people of varying size, shape, and color, dressed in a dazzling spectrum of styles and hues — represent many different races, from diminutive halflings and stout dwarves to majestically beautiful elves, mingling among a variety of human ethnicities.
+และตัวของผู้คนเอง หลากหลายขนาด รูปร่างและสีผิว แต่งตัวในสไตล์และสีสันหลากหลาย แสดงถึงเผ่าพันธุ์มากมาย จากฮาล์ฟลิ่งตัวเล็กและคนแคระเตี้ยล่ำจนถึงชาวเอลฟ์ผู้สวยงามสูงส่ง อาศัยอยู่ร่วมกับมนุษย์จากหลายชนชาติ
 
-Scattered among these common peoples are less numerous folk: a hulking dragonborn here, pushing his way through the crowd, and a sly tiefling there, lurking in the shadows with mischief in her eyes. A group of gnomes laughs as one of them activates a clever wooden toy that moves of its own accord. Half-elves and half-orcs live and work alongside humans, without fully belonging to the races of either of their parents. And there, well out of the sunlight, is a lone drow — a fugitive from the subterranean expanse of the Underdark, trying to make his way in a world that fears his kind.
+มีเผ่าพันธุ์ที่มีจำนวนน้อยกระจายอยู่ในหมู่ชน ดราก้อนบอร์นร่างใหญ่โตอยู่ที่นี่ พยายามเดินแทรกตัวผ่านผู้คน ทีฟลิ่งเจ้าเล่ห์อยู่ที่นี่ ซ่อนตัวอยู่ในเงามืดมีแผนการบางอย่างฉายออกมาจากดวงตาของเธอ กลุ่มโนมหัวเราะชอบใจเมื่อสมาชิกคนหนึ่งเดินเครื่องตุ๊กตาไม้ให้มันเดินได้เอง ฮาล์ฟเอลฟ์และฮาล์ฟอ็อคอาศัยและทำงานอยู่ด้วยกันกับมนุษย์โดยแยกตัวออกมาจากเผ่าของพ่อแม่ และที่นั่น หลบเลี่ยงจากแสดงตะวัน พวกดราว ดาร์คเอลฟ์ผู้โดดเดี่ยว ผู้หลบหนีจากเมืองใต้โลกแห่งอันเดอร์ดาร์ค พยายามหาทางใช้ชีวิตในโลกด้านบนที่หวาดกลัวพวกเขา
 
 ## เลือกเผ่าพันธุ์
 
-Humans are the most common people in the worlds of D&D, but they live and work alongside dwarves, elves, halflings, and countless other fantastic species. Your character belongs to one of these peoples.
+มนุษย์เป็นผู้คนส่วนใหญ่ในโลกของ D&D แต่ก็อาศัยและทำงานอยู่ด้วยกันกับคนแคระ เอลฟ์ ฮาล์ฟลิ่ง และอีกหลายสปีชี่ส์ ตัวละครของคุณจะเป็นหนึ่งในผู้คนเหล่านี้
 
-Not every intelligent race of the multiverse is appropriate for a player-controlled adventurer. Dwarves, elves, halflings, and humans are the most common races to produce the sort of adventurers who make up typical parties. Dragonborn, gnomes, half-elves, half-orcs, and tieflings are less common as adventurers. Drow, a subrace of elves, are also uncommon.
+ไม่ใช่ว่าทุกเผ่าพันธุ์ที่มีความฉลาดจะเหมาะกับการเป็นนักผจญภัยให้ผู้เล่นนำมาเล่นได้ คนแคระ เอลฟ์ ฮาล์ฟลิ่ง และมนุษย์เป็นเผ่าพันธุ์ปกติที่จะนำมาเล่นกับปาร์ตี้ทั่วไป ดราก้อนบอร์น โนม ฮาล์ฟเอลฟ์ ฮาล์ฟอ็อค และทีฟลิ่งมักไม่ค่อยเป็นนักผจญภัย ดราวที่เป็นเผ่าย่อยของเอลฟ์ก็ด้วย
 
-Your choice of race affects many different aspects of your character. It establishes fundamental qualities that exist throughout your character’s adventuring career. When making this decision, keep in mind the kind of character you want to play. For example, a halfling could be a good choice for a sneaky rogue, a dwarf makes a tough warrior, and an elf can be a master of arcane magic.
+เผ่าพันธุ์ที่คุณเลือกจะมีผลหลายด้านกับตัวละคร มันจะเป็นตัวตั้งสำหรับพัฒนาการของตัวละครตลอดการผจญภัย เมื่อต้องตัดสินใจ ให้คำนึงถึงลักษณะของตัวละครที่คุณอยากเล่น ตัวอย่างเช่น ฮาล์ฟลิ่งจะเป็นตัวเลือกที่ดีที่จะเป็นโจรย่องเบา คนแคระเป็นนักรบที่แข็งแกร่ง และพวกเอลฟ์จะเป็นนักเวทย์ที่เก่งกาจ
 
-Your character race not only affects your ability scores and traits but also provides the cues for building your character’s story. Each race’s description in this section includes information to help you roleplay a character of that race, including personality, physical appearance, and features of society. These details are suggestions to help you think about your character; adventurers can deviate widely from the norm for their race. It’s worthwhile to consider why your character is different, as a helpful way to think about your character’s background and personality.
+เผ่าพันธุ์ของตัวละครไม่ได้มีผลกับคะแนนความสามารถและคุณลักษณะพิเศษ (trait) เท่านั้น แต่ยังให้คำใบ้ถึงการสร้างเรื่องราวของตัวละครอีกด้วย แต่ละเผ่าพันธุ์ที่อธิบายในส่วนนี้จะมีข้อมูลที่จะช่วยให้คุณโรลเพล์หรือแสดงเป็นตัวละครในเผ่าพันธุ์นั้น รวมถึงลักษณะนิสัย ลักษณะภายนอกและลักษณะของสังคมรอบตัว รายละเอียดเหล่านี้เป็นคำแนะนำที่จะช่วยให้คุณได้จินตนาการถึงตัวละคร นักผจญภัยมักจะแตกต่างไปจากคนทั่วไปในเผ่าพันธุ์เดียวกัน มันมีประโยชน์ถ้าจะพิจารณาว่าทำไมตัวละครคุณถึงได้แตกต่าง ทำให้คุณเลือกภูมิหลังและลักษณะนิสัยของตัวละครได้ง่ายขึ้น
 
-## ลักษณะเด่นของเผ่า
-The description of each race includes racial traits that are common to members of that race. The following entries appear among the traits of most races.
+## คุณลักษณะพิเศษของเผ่า
+เป็นคำอธิบายลักษณะที่มีร่วมกันรวมถึงคุณลักษณะพิเศษของคนในเผ่า ส่วนต่าง ๆ ด้านล่างนี้จะปรากฏอยู่ในเผ่าพันธุ์ส่วนใหญ่
 
 ### คะแนนความสามารถเพิ่ม
-
-A race that has this trait increases one or more of a character’s ability scores.
+เผ่าพันธุ์ที่มีคุณลักษณะนี้จะให้คะแนนความสามารถเพิ่มขึ้นในหนึ่งหรือหลายด้าน
 
 ### อายุ
-The age entry notes the age when a member of the race is considered an adult, as well as the race’s expected lifespan. This information can help you decide how old your character is at the start of the game. You can choose any age for your character, which could provide an explanation for some of your ability scores. For example, if you play a young or very old character, your age could explain a particularly low Strength or Constitution score, while advanced age could account for a high Intelligence or Wisdom.
+อายุที่ระบุจะเป็นตัวบอกถึงช่วงอายุที่คนในเผ่าจะเป็นผู้ใหญ่รวมถึงอายุสูงสุดที่คาดว่าจะอยู่ถึง ข้อมูลนี้จะช่วยให้คุณตัดสินใจได้ว่าตัวละครอายุเท่าไรเมื่อเริ่มเกม คุณสามารถเลือกช่วงอายุใด ๆ ก็ได้ที่อธิบายถึงคะแนนความสามารถที่ปรากฏ ตัวอย่างเช่นคุณเล่นตัวละครที่ยังวัยรุ่นหรือแก่แล้ว อายุจะเป็นตัวบอกถึงความแข็งแกร่ง (STR) และความอดทน (CON) ที่ถดถอยหรือยังน้อย และเมื่ออายุมากขึ้นก็คาดได้ว่าจะมีความฉลาด (INT) และความรอบรู้ (WIS) เพิ่มมากขึ้น
 
 ### ขนาด
 Characters of most races are Medium, a size category including creatures that are roughly 4 to 8 feet tall. Members of a few races are Small (between 2 and 4 feet tall), which means that certain rules of the game affect them differently. The most important of these rules is that Small characters have trouble wielding heavy weapons, as explained in the Equipment section.
 
-### ความไว
-Your speed determines how far you can move when traveling (“Adventuring”) and fighting (“Combat”).
+ผู้คนส่วนใหญ่จะมีขนาดกลาง (Medium) เป็นกลุ่มสิ่งมีชีวิตที่มีความสูงราว 4 - 8 ฟุต มีบางเผ่าที่มีขนาดเล็ก (Small) (อยู่ระหว่าง 2 - 4 ฟุต) ซึ่งนั่นหมายความว่ากฏบางอย่างของเกมจะมีผลที่แตกต่างไปกับเขา กฏส่วนใหญ่ที่สำคัญคือตัวละครตัวเล็กจะมีปัญหาในการถืออาวุธขนาดใหญ่ ซึ่งมีอธิบายไว้ในส่วนของอุปกรณ์
 
+### ความไว
+ความไวนี้เป็นตัวบอกว่าคุณสามารถเคลื่อนที่ได้เร็วแค่ไหนในการเดินทาง ("โหมดการผจญภัย") และในการต่อสู้ ("โหมดต่อสู้")
 
 ### ภาษา
-Your character can speak, read, and write certain languages. “Personality and Background” lists the most common languages of the D&D multiverse.
+ตัวละครของคุณจะสามารถพูด อ่าน และเขียนภาษาได้ "บุคลิกภาพและภูมิหลัง" จะมีรายการภาษาที่ใช้กันในโลกของ D&D
 
 ### เผ่าพันธุ์ย่อย
-Some races have subraces. Members of a subrace have the traits of the parent race in addition to the traits specified for their subrace. Relationships among subraces vary significantly from race to race and world to world. In the Dragonlance campaign setting, for example, mountain dwarves and hill dwarves live together as different clans of the same people, but in the Forgotten Realms, they live far apart in separate kingdoms and call themselves shield dwarves and gold dwarves, respectively.
+บางเผ่าพันธุ์จะมีเผ่าพันธุ์ย่อย สมาชิกของเผ่าพันธุ์ย่อยจะมีคุณลักษณะพิเศษจากเผ่าพันธุ์หลักและมีส่วนเฉพาะของตัวเอง ความสัมพันธ์ระหว่างเผ่าพันธุ์ย่อยจะแตกต่างกันไปในแต่ละเผ่าและจากแต่ละโลก ในแคมเปญดราก้อนแลนซ์ (Dragonlance settings) ตัวอย่างเช่น คนแคระภูเขาและคนแคระเนินเขาจะอาศัยอยู่ด้วยกันแบบต่างเผ่าแต่เป็นพันธุ์เดียวกัน แต่ในฟอก็อทเทนเรียมส์ (Forgotten Realms settings) พวกเขาจะอยู่ห่างไกลกันมากเป็นสองอาณาจักรที่แยกจากกัน และเรียกตัวเองว่าคนแคระโล่ห์และคนแคระทองคำตามลำดับ
 
 ## <a name="dwarf">คนแคระ</a>
 >“Yer late, elf!” came the rough edge of a familiar voice. Bruenor Battlehammer walked up the back of his dead foe, disregarding the fact that the heavy monster lay on top of his elven friend. In spite of the added discomfort, the dwarf’s long, pointed, often-broken nose and gray-streaked though still-fiery red beard came as a welcome sight to Drizzt. “Knew I’d find ye in trouble if I came out an’ looked for ye!”
