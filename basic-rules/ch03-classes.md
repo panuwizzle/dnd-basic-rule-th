@@ -1,3 +1,7 @@
+---
+layout: page
+title:  "คลาส"
+---
 # บทที่ 3: คลาส (อาชีพ)
 ### Classes Summary
 

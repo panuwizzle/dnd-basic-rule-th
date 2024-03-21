@@ -1,3 +1,8 @@
+---
+layout: page
+title:  "เผ่าพันธุ์"
+---
+
 # บทที่ 2: เผ่าพันธุ์
 
 A visit to one of the great cities in the worlds of Dungeons & Dragons — Waterdeep, the Free City of Greyhawk, or even uncanny Sigil, the City of Doors — overwhelms the senses. Voices chatter in countless different languages. The smells of cooking in dozens of different cuisines mingle with the odors of crowded streets and poor sanitation. Buildings in myriad architectural styles display the diverse origins of their inhabitants.
