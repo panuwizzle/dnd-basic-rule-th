@@ -1,27 +1,27 @@
 # บทที่ 3: คลาส (อาชีพ)
-### Classes Summary
+## Classes Summary
 
-### <a name="babarian">Barbarian</a>
-#### Primal Instinct
-#### A Life of Danger
-#### Creating a Barbarian
-#### Class Features
-#### Rage
-#### Unarmored Defense
-#### Reckless Attack
-#### Danger Sense
-#### Primal Path
-#### Ability Score Improvement
-#### Extra Attack
-#### Fast Movement
-#### Feral Instinct
-#### Brutal Critical
-#### Relentless Rage
-#### Persistent Rage
-#### Indomitable Might
-#### Primal Champion
-#### Primal Paths
-#### Path of the Berserker
+## <a name="babarian">Barbarian</a>
+### Primal Instinct
+### A Life of Danger
+### Creating a Barbarian
+## Class Features
+### Rage
+### Unarmored Defense
+### Reckless Attack
+### Danger Sense
+### Primal Path
+### Ability Score Improvement
+### Extra Attack
+### Fast Movement
+### Feral Instinct
+### Brutal Critical
+### Relentless Rage
+### Persistent Rage
+### Indomitable Might
+### Primal Champion
+### Primal Paths
+### Path of the Berserker
 
 ## <a name="bard">Bard</a>
 ### Music and Magic

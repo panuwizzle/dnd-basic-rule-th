@@ -38,13 +38,13 @@
 บางเผ่าพันธุ์จะมีเผ่าพันธุ์ย่อย สมาชิกของเผ่าพันธุ์ย่อยจะมีคุณลักษณะพิเศษจากเผ่าพันธุ์หลักและมีส่วนเฉพาะของตัวเอง ความสัมพันธ์ระหว่างเผ่าพันธุ์ย่อยจะแตกต่างกันไปในแต่ละเผ่าและจากแต่ละโลก ในแคมเปญดราก้อนแลนซ์ (Dragonlance settings) ตัวอย่างเช่น คนแคระภูเขาและคนแคระเนินเขาจะอาศัยอยู่ด้วยกันแบบต่างเผ่าแต่เป็นพันธุ์เดียวกัน แต่ในฟอก็อทเทนเรียมส์ (Forgotten Realms settings) พวกเขาจะอยู่ห่างไกลกันมากเป็นสองอาณาจักรที่แยกจากกัน และเรียกตัวเองว่าคนแคระโล่ห์และคนแคระทองคำตามลำดับ
 
 ## <a name="dwarf">คนแคระ</a>
->“Yer late, elf!” came the rough edge of a familiar voice. Bruenor Battlehammer walked up the back of his dead foe, disregarding the fact that the heavy monster lay on top of his elven friend. In spite of the added discomfort, the dwarf’s long, pointed, often-broken nose and gray-streaked though still-fiery red beard came as a welcome sight to Drizzt. “Knew I’d find ye in trouble if I came out an’ looked for ye!”
+>"มาสายนะเจ้าเอลฟ์!" มาพร้อมกับเสียงห้าวดังที่คุ้นเคย บรูเอนอร์ แบทเทิลแฮมเมอร์ เดินขึ้นมาเหยียบหลังศัตรูที่นอนตาย โดยไม่สนว่ามอนสเตอร์ตัวใหญ่นั้นนอนทับเพื่อนเอลฟ์ของเขาอยู่ แม้จะหนักที่โดนทับแต่เมื่อได้เห็นจมูกชี้ที่มักจะหักบ่อย ๆ หนวดเคราสีแดงเพลิงที่ตอนนี้มีหงอกแซมก็เป็นภาพที่น่าดีใจแก่ดริซเมื่อได้เห็น "นึกแล้วเชียวว่าต้องทำเรื่องยุ่งยากทุกที่ที่ข้าออกมาตามหาเจ้าเนี่ย"
 >
->— R. A. Salvatore, The Crystal Shard
+>— อาร์. เอ. ซัลวาทอร์, เดอะคริสตัลชาร์ด (The Crystal Shard)
 
-Kingdoms rich in ancient grandeur, halls carved into the roots of mountains, the echoing of picks and hammers in deep mines and blazing forges, a commitment to clan and tradition, and a burning hatred of goblins and orcs — these common threads unite all dwarves.
+อาณาจักรสมบูรณ์ด้วยความสง่างามโอ่อ่า โถงอาคารแกะสลักเข้าไปใจกลางในขุนเขา เสียงสิ่วและค้อนกังวาลก้องในเหมืองลึกและโรงเหล็กไฟแดงฉาน ความตั้งมั่นในเผ่าและจารีต ความเกลียดชังก๊อบลินและอ็อคอย่างที่สุด สิ่งเหล่านี้ผูกพันชาวคนแคระทั้งมวลไว้
 
-### Short and Stout
+### เตี้ยและล่ำ
 Bold and hardy, dwarves are known as skilled warriors, miners, and workers of stone and metal. Though they stand well under 5 feet tall, dwarves are so broad and compact that they can weigh as much as a human standing nearly two feet taller. Their courage and endurance are also easily a match for any of the larger folk.
 
 Dwarven skin ranges from deep brown to a paler hue tinged with red, but the most common shades are light brown or deep tan, like certain tones of earth. Their hair, worn long but in simple styles, is usually black, gray, or brown, though paler dwarves often have red hair. Male dwarves value their beards highly and groom them carefully.
