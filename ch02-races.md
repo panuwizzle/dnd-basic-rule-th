@@ -45,88 +45,97 @@
 อาณาจักรสมบูรณ์ด้วยความสง่างามโอ่อ่า โถงอาคารแกะสลักเข้าไปใจกลางในขุนเขา เสียงสิ่วและค้อนกังวาลก้องในเหมืองลึกและโรงเหล็กไฟแดงฉาน ความตั้งมั่นในเผ่าและจารีต ความเกลียดชังก๊อบลินและอ็อคอย่างที่สุด สิ่งเหล่านี้ผูกพันชาวคนแคระทั้งมวลไว้
 
 ### เตี้ยและล่ำ
-Bold and hardy, dwarves are known as skilled warriors, miners, and workers of stone and metal. Though they stand well under 5 feet tall, dwarves are so broad and compact that they can weigh as much as a human standing nearly two feet taller. Their courage and endurance are also easily a match for any of the larger folk.
 
-Dwarven skin ranges from deep brown to a paler hue tinged with red, but the most common shades are light brown or deep tan, like certain tones of earth. Their hair, worn long but in simple styles, is usually black, gray, or brown, though paler dwarves often have red hair. Male dwarves value their beards highly and groom them carefully.
+กล้าหาญและแข็งแกร่ง คนแคระเป็นที่รู้จักกันว่าเป็นนักรบมากทักษะ คนทำเหมือง และช่างฝีมือในงานหินและโลหะ แม้จะสูงไม่ถึง 5 ฟุต แต่คนแคระก็มีร่างใหญ่กระทัดรัดมีน้ำหนักพอ ๆ กับมนุษย์ที่สูงมากกว่า 2 ฟุต ความกล้าหาญและความทนทานยังทำให้สูสีกับเผ่าอื่น ๆ ที่ตัวใหญ่กว่า
 
-### Long Memory, Long Grudges
-Dwarves can live to be more than 400 years old, so the oldest living dwarves often remember a very different world. For example, some of the oldest dwarves living in Citadel Felbarr (in the world of the Forgotten Realms) can recall the day, more than three centuries ago, when orcs conquered the fortress and drove them into an exile that lasted over 250 years. This longevity grants them a perspective on the world that shorter-lived races such as humans and halflings lack.
+ผิวของชาวคนแคระมีหลากสีจากน้ำตาลเข้มถึงสีออกขาว แต่ส่วนใหญ่จะเป็นสีน้ำตาลอ่อนหรือสีแทนเข้ม เหมือนสีของพื้นโลก ผมยาวไม่ตบแต่ง มักจะสีดำ เทา หรือน้ำตาล คนแคระผิวสีออกขาวมักจะมีผมแดง คนแคระชายจะให้ความสำคัญกับหนวดเครามากและจะดูแลอย่างระมัดระวัง
 
-Dwarves are solid and enduring like the mountains they love, weathering the passage of centuries with stoic endurance and little change. They respect the traditions of their clans, tracing their ancestry back to the founding of their most ancient strongholds in the youth of the world, and don’t abandon those traditions lightly. Part of those traditions is devotion to the gods of the dwarves, who uphold the dwarven ideals of industrious labor, skill in battle, and devotion to the forge.
+### ความจำดี ความแค้นก็จำได้ดี
 
-Individual dwarves are determined and loyal, true to their word and decisive in action, sometimes to the point of stubbornness. Many dwarves have a strong sense of justice, and they are slow to forget wrongs they have suffered. A wrong done to one dwarf is a wrong done to the dwarf’s entire clan, so what begins as one dwarf’s hunt for vengeance can become a full-blown clan feud.
+คนแคระสามารถอยู่ได้ถึง 400 ปี เพราะฉะนั้นคนแคระสูงอายุจึงผ่านโลกมาอย่างโชกโชน ตัวอย่างเช่น คนแคระชราบางคนที่อยู่ในช่วงวิหารเฟลบาร์ (Citadel Felbarr) สามารถจะจำเรื่องราวย้อนไปถึง 3 ศตวรรษ เรื่องราวเมื่อตอนที่อ็อคบุคยึดป้อมปราการและขับไล่พวกเขาออกไปเป็นคนพลัดถิ่นเป็นเวลานานถึง 250 ปี อายุที่ยืนยาวนี้ทำให้มุมมองของพวกเขาต่อโลกมีหลากหลาย เป็นสิ่งที่เผ่าพันธุ์ที่มีช่วงอายุสั้นขาดไป
 
-### Clans and Kingdoms
-Dwarven kingdoms stretch deep beneath the mountains where the dwarves mine gems and precious metals and forge items of wonder. They love the beauty and artistry of precious metals and fine jewelry, and in some dwarves this love festers into avarice. Whatever wealth they can’t find in their mountains, they gain through trade. They dislike boats, so enterprising humans and halflings frequently handle trade in dwarven goods along water routes. Trustworthy members of other races are welcome in dwarf settlements, though some areas are off limits even to them.
+คนแคระเป็นคนมั่นคงและอดทนเหมือนภูเขาที่พวกเขารัก ใช้ชีวิตอย่างเรียบง่ายและสม่ำเสมอ พวกเขาเคารพประเพณีของเผ่าที่นับถือกันมาตั้งแต่เริ่มก่อตั้งชุมชนตั้งแต่สมัยที่โลกยังเยาว์ และไม่ละทิ้งประเพณีง่าย ๆ ส่วนหนึ่งของประเพณีคือการอุทิศตนให้กับเทพเจ้าของชาวคนแคระ ผู้ปลูกฝังความเป็นคนทำงานอุตสาหะ ทักษะในการต่อสู้ และการอุทิศตนแก่โรงหลอมเหล็ก
 
-The chief unit of dwarven society is the clan, and dwarves highly value social standing. Even dwarves who live far from their own kingdoms cherish their clan identities and affiliations, recognize related dwarves, and invoke their ancestors’ names in oaths and curses. To be clanless is the worst fate that can befall a dwarf.
+คนแคระเป็นคนมุ่งมั่นและซื่อสัตย์ ทำตามคำพูดและเฉียบขาดในสงคราม บางทีก็มากไปจนเป็นความดื้อรั้น คนแคระส่วนใหญ่มียึดมั่นกับความยุติธรรมอย่างมาก ถ้าใครทำให้เจ็บใจจะจำไม่ลืม ทำร้ายคนแคระคนหนึ่งเท่ากับทำกับทั้งเผ่า จึงเป็นเรื่องปกติที่คนแคระคนหนึ่งพยายามแก้แค้นแต่กลับเป็นสงครามใหญ่โตโดยคนทั้งเผ่า
 
-Dwarves in other lands are typically artisans, especially weaponsmiths, armorers, and jewelers. Some become mercenaries or bodyguards, highly sought after for their courage and loyalty.
+### เผ่าและอาณาจักร
 
-### Gods, Gold, and Clan
-Dwarves who take up the adventuring life might be motivated by a desire for treasure — for its own sake, for a specific purpose, or even out of an altruistic desire to help others. Other dwarves are driven by the command or inspiration of a deity, a direct calling or simply a desire to bring glory to one of the dwarf gods. Clan and ancestry are also important motivators. A dwarf might seek to restore a clan’s lost honor, avenge an ancient wrong the clan suffered, or earn a new place within the clan after having been exiled. Or a dwarf might search for the axe wielded by a mighty ancestor, lost on the field of battle centuries ago.
+อาณาจักรคนแคระอยู่ลึกเข้าไปในภูเขาเป็นที่ที่จะทำเหมืองขุดหาอัญมณีและแร่โลหะเพื่อนำมาทำเป็นของล้ำค่า พวกเขาชอบความสวยงามและศิลปะของโลหะมีค่าและเครื่องประดับ และกับบางคนความรักนี้ก่อตัวเป็นความโลภ สิ่งล้ำค่าใดที่หาไม่ได้จากการขุดภูเขาก็จะต้องได้มาจากการค้าขาย พวกเขาไม่ชอบเรือดังนั้นก็มักจะมีมนุษย์และฮาล์ฟลิ่งเป็นคนจัดการการค้าทางน้ำให้ คนเผ่าอื่นที่เชื่อถือได้จะได้รับการต้อนรับอย่างดีในบ้านของคนแคระ บางทีก็ดีจนเกินไป
 
-> SLOW TO TRUST
+หน่วยสังคมหลักของคนแคระคือเผ่า และพวกเขาให้คุณค่าแก่เผ่ามาก แม้จะอยู่ห่างจากอาณาจักรแต่พวกเขาจะรักษาอัตลักษณ์ของเผ่าของตนไว้อย่างเหนียวแน่น ให้เกียรติเผ่าอื่น และจะเอ่ยถึงชื่อของบรรพบุรุษในการสาบานและสาปแช่ง การโดนเนรเทศจากเผ่าถือเป็นชะตากรรมอันหนักหนาสำหรับคนแคระ
+
+ในด้านอื่น คนแคระถือเป็นช่างฝีมือโดยเฉพาะงานด้านอาวุธ เกราะ และเครื่องประดับ บางคนเป็นทหารรับจ้างหรือบอดี้การ์ดที่ถือว่ามีความสามารถและความซื่อสัตย์อย่างมาก
+
+### เทพเจ้า ทอง และเผ่า
+
+คนแคระที่เลือกชีวิตการผจญภัยอาจจะมีแรงบันดาลใจจากสมบัติ จากตัวทรัพย์สินเอง จากเหตุผลเฉพาะตัวหรือแม้แต่ความต้องการช่วยผู้อื่น บางคนอาจจะถูกผลักดันโดยคำสั่งหรือโดยเทพดลใจไม่ว่าจะมาบอกตรง ๆ หรือเพื่อความรุ่งโรจน์ของเทพเจ้าที่นับถือ เผ่าและบรรพบุรุษก็เป็นตัวกระตุ้นที่สำคัญ บางคนอาจจะหาทางที่จะกอบกู้ศักดิ์ศรีของเผ่า แก้แค้นคนที่ทำไม่ดีแก่เพื่อนพ้องหรือเพื่อให้ได้กลับสู่เผ่าหลังจากโดนเนรเทศ หรืออาจจะกำลังค้นหาขวานที่เคยเป็นของบรรพบุรุษที่หายไปในสงครามเมื่อหลายศตวรรษก่อน
+
+> นานกว่าจะเชื่อใจ
 >
->Dwarves get along passably well with most other races. “The difference between an acquaintance and a friend is about a hundred years,” is a dwarf saying that might be hyperbole, but certainly points to how difficult it can be for a member of a short-lived race like humans to earn a dwarf’s trust.
+>คนแคระอยู่ร่วมกับเผ่าพันธุ์อื่นได้ดี "ความแตกต่างระหว่างคนรู้จักกับเพื่อนก็แค่เวลาไม่กี่ร้อยปีเอง" เป็นคำพูดที่มักจะได้ยิน แสดงให้เห็นว่ายากแค่ไหนที่คนแคระจะเป็นเพื่อนกับใครหรือทำให้คนแคระเชื่อใจได้
 >
->Elves. “It’s not wise to depend on the elves. No telling what an elf will do next; when the hammer meets the orc’s head, they’re as apt to start singing as to pull out a sword. They’re flighty and frivolous. Two things to be said for them, though: They don’t have many smiths, but the ones they have do very fine work. And when orcs or goblins come streaming down out of the mountains, an elf’s good to have at your back. Not as good as a dwarf, maybe, but no doubt they hate the orcs as much as we do.”
+>เอลฟ์ "มันไม่ฉลาดเลยที่จะพึ่งเอลฟ์ บอกไม่ได้เลยว่าเอลฟ์จะทำอะไรต่อไป เมื่อค้อนไปกระทบหัวของออร์ค อาจจะเริ่มร้องเพลงพร้อมกับชักดาบออกมา พวกมันขี้เล่นและเปลี่ยนใจง่าย มีสองอย่างที่จะพูดได้ถึงพวกนี้: พวกเอลฟ์มีช่างตีเหล็กไม่มากนัก แต่ช่างฝีมือของพวกเขาทำงานได้ดีมาก และเมื่อออร์คหรือก็อบลินไหลลงมาจากภูเขา มันจะดีมากถ้ามีเอลฟ์อยู่กับเจ้าด้วยแค่อาจจะไม่ดีเท่าคนแคระ แต่ไม่ต้องสงสัยเลยว่าพวกนั้นเกลียดออร์คมากเท่ากับพวกเรา”
 >
->Halflings. “Sure, they’re pleasant folk. But show me a halfling hero. An empire, a triumphant army. Even a treasure for the ages made by halfling hands. Nothing. How can you take them seriously?”
+>ฮาล์ฟลิ่ง "แน่นอน พวกนั้นครื้นเครงดี แต่ชีให้ข้าเห็นหน่อยว่ามีฮีโร่ฮาล์ฟลิ่ง อาณาจักร กองทัพเกรียงไกร ไม่งั้นก็สมบัติที่สร้างขึ้นจากมือของพวกฮาล์ฟลิ่ง ไม่มีเลย แล้วแบบนี้จะไปจริงจังอะไรได้"
 >
->Humans. “You take the time to get to know a human, and by then the human’s on her deathbed. If you’re lucky, she’s got kin — a daughter or granddaughter, maybe — who’s got hands and heart as good as hers. That’s when you can make a human friend. And watch them go! They set their hearts on something, they’ll get it, whether it’s a dragon’s hoard or an empire’s throne. You have to admire that kind of dedication, even if it gets them in trouble more often than not.”
+>มนุษย์ "เจ้าใช้เวลาทำความรู้จักกับมนุษย์ แล้วเผลอประเดี๋ยวเดียวเขาก็ตายไปแล้ว ถ้าโชคดีพวกเขาก็จะมีลูกมีเต้า มีลูกสาวหรือหลานสาว บางทีก็มีจิตใจดีเหมือนเธอ นั่นเป็นเวลาที่เจ้าจะมีเพื่อนเป็นมนุษย์ และก็มองพวกเขาจากไป พวกเขาจะออกไปผจญภัยตามหาสิ่งที่ต้องการ อาจจะไปลุยกับฝูงมังกรหรือชิงบัลลังก์อาณาจักร เจ้าต้องชื่นชมความมุ่งมั่นตั้งใจของพวกเขา แม้ว่ามันมักจะทำให้พวกเขาเจอแต่ปัญหาก็เถอะ"
 
-### Dwarf Names
-A dwarf’s name is granted by a clan elder, in accordance with tradition. Every proper dwarven name has been used and reused down through the generations. A dwarf’s name belongs to the clan, not to the individual. A dwarf who misuses or brings shame to a clan name is stripped of the name and forbidden by law to use any dwarven name in its place.
+### ชื่อของคนแคระ
 
-Male Names: Adrik, Alberich, Baern, Barendd, Brottor, Bruenor, Dain, Darrak, Delg, Eberk, Einkil, Fargrim, Flint, Gardain, Harbek, Kildrak, Morgran, Orsik, Oskar, Rangrim, Rurik, Taklinn, Thoradin, Thorin, Tordek, Traubon, Travok, Ulfgar, Veit, Vondal
+คนแคระจะได้ชื่อจากผู้อาวุโสในเผ่าเป็นคนตั้งให้ตามประเพณี ชื่อคนแคระจะถูกใช้และใช้ซ้ำตกทอดกันมาในแต่ละรุ่น ชื่อเป็นสมบัติของเผ่าไม่ได้เป็นของบุคคล คนแคระที่ทำตัวไม่ดีหรือนำความเสื่อมเสียมาให้เผ่าจะถูกตัดชื่อทิ้งและห้ามนำชื่อนั้นมาใช้อีก
 
-Female Names: Amber, Artin, Audhild, Bardryn, Dagnal, Diesa, Eldeth, Falkrunn, Finellen, Gunnloda, Gurdis, Helja, Hlin, Kathra, Kristryd, Ilde, Liftrasa, Mardred, Riswynn, Sannl, Torbera, Torgga, Vistra
+ชื่อชาย: อาดริก, อัลเบริช, บาเอิร์น, บาร์เรนด์, บร็อทเตอร์, บรูเอนอร์, ดาอิน, ดาร์แรค, เดลก์, เอเบอร์ก, เออินคิล, ฟาร์กริม, ฟลินท์, การ์เดน, ฮาร์เบ็ค, คิลแดร็ค, มอร์แกรน, ออร์สิค, ออสคาร์, แรงกริม, รูริค, ทาคลิน, โธราดิน, ธอริน, ทอร์เด็ก, เทราบอน, ทราวอค, อลัฟการ์, เว็ต, วอนดัล
 
-Clan Names: Balderk, Battlehammer, Brawnanvil, Dankil, Fireforge, Frostbeard, Gorunn, Holderhek, Ironfist, Loderr, Lutgehr, Rumnaheim, Strakeln, Torunn, Ungart
+ชื่อหญิง: แอมเบอร์, อาร์ทิน, อูดิล, บาร์ดริน, แดกนาล, ไดซ่า, เอลเดธ, ฟาลครุน, ฟิเนลเลน, กุนโลดา, เกอร์ดิส, เฮลจา, ลิน, เคธรา, คริสทริด, อิลเด, ลิฟทราซา, มาร์เดร็ด, ริสวิน, เซน, ทอเบรา, ท็อกกา, วิสทรา
 
-### Dwarf Traits
-Your dwarf character has an assortment of inborn abilities, part and parcel of dwarven nature.
+ชื่อเผ่า: บัลเดิร์ก, แบ็ทเทิลแฮมเมอร์, บราวนันวิล, แดนคิล, ไฟเออร์ฟอร์จ, ฟรอสเบียร์ด, โกรุน, โฮลเดอร์เฮก, ไอรอนฟิส, โลเดอร์, ลุทเกอร์, รุมนาไฮม์, สตราเคล์น, ทอร์รุน, อุนการ์ต
 
-Ability Score Increase. Your Constitution score increases by 2.
+### คุณลักษณะของคนแคระ
+คนแคระของคุณมีความสามารถติดตัวหลายอย่างมาตั้งแต่เกิดและได้จากการฝึกฝนในเผ่า
 
-Age. Dwarves mature at the same rate as humans, but they’re considered young until they reach the age of 50. On average, they live about 350 years.
+**คะแนนความสามารถเพิ่ม** คะแนนความอึด [Constitution] เพิ่มขึ้น 2 คะแนน
 
-Size. Dwarves stand between 4 and 5 feet tall and average about 150 pounds. Your size is Medium.
+**อายุ** คนแคระโตเป็นผู้ใหญ่ในอัตราเดียวกับมนุษย์ แต่ก็ถือเป็นวัยรุ่นจนกระทั่งอายุ 50 ปี โดยเฉลี่ยแล้วพวกเขามีชีวิตอยู่ได้ราว 350 ปี
 
-Speed. Your base walking speed is 25 feet. Your speed is not reduced by wearing heavy armor.
+**ขนาด** คนแคระมีความสูงระหว่าง 4 - 5 ฟุต น้ำหนักเฉลี่ย 150 ปอนด์ เป็นสิ่งมีชีวิตขนาดกลาง (Medium)
 
-Darkvision. Accustomed to life underground, you have superior vision in dark and dim conditions. You can see in dim light within 60 feet of you as if it were bright light, and in darkness as if it were dim light. You can’t discern color in darkness, only shades of gray.
+**ความเร็ว** ความเร็วในการเคลื่อนที่ของคุณคือ 25 ฟุต ความเร็วจะไม่ลดแม้จะใส่ชุดเกราะหนัก
+
+**ดาร์กวิชัน** เพราะต้องอาศัยอยู่ใต้ดิน คุณมีการมองเห็นในที่มืดและที่แสงน้อย คุณสามารถมองเห็นได้ในที่แสงน้อยภายในระยะ 60 ฟุต มองเห็นเหมือนอยู่ในที่แสดงปกติ และมองในที่มืดเหมือนมองในที่แสงน้อย คุณไม่สามารถแยกสีได้ในความมืด มองเห็นได้เป็นแค่เฉดสีเทา
 
 Dwarven Resilience. You have advantage on saving throws against poison, and you have resistance against poison damage (explained in chapter 9, “Combat”).
 
-Dwarven Combat Training. You have proficiency with the battleaxe, handaxe, light hammer, and warhammer.
+**ความทนทานแบบชาวคนแคระ** คุณจะได้ทอยแอดแวนเทจ (advantage: ทอย d20 2 ลูก เอาแต้มมากสุด) เมื่อต้องทอยป้องกัน (saving throw) เวลาถูกพิษ และคุณจะมีความต้านทานพิษ (resistance: ลดความเสียหายครึ่งหนึ่ง) (อธิบายในบทที่ 9 "การต่อสู้") 
 
-Tool Proficiency. You gain proficiency with the artisan’s tools of your choice: smith’s tools, brewer’s supplies, or mason’s tools.
+**การฝึกฝนการต่อสู้แบบคนแคระ** คุณมีความเชี่ยวชาญการใช้ขวานศึก [battleaxe], ขวานมือ [handaxe], ค้อนเบา [light hammer] และค้อนศึก [warhammer]
 
-Stonecunning. Whenever you make an Intelligence (History) check related to the origin of stonework, you are considered proficient in the History skill and add double your proficiency bonus to the check, instead of your normal proficiency bonus
+**ความเชี่ยวชาญด้านเครื่องมือ** คุณมีความเชี่ยวชาญเกี่ยวกับเครื่องมือช่างศิลป์ตามที่คุณเลือก เครื่องมือตีเหล็ก เครื่องมือทำเบียร์ หรือเครื่องมือแกะสลักหิน
 
-Languages. You can speak, read, and write Common and Dwarvish. Dwarvish is full of hard consonants and guttural sounds, and those characteristics spill over into whatever other language a dwarf might speak.
+**ผู้รอบรู้ด้านงานหิน** เมื่อใดก็ตามที่ต้องทดสอบความรู้ทางประวัติศาสตร์ [Intelligence (History) check] ที่เกี่ยวกับต้นกำเนิดของงานหิน คุณถือได้ว่ามีความเชี่ยวชาญในทักษะด้านประวัติศาสตร์และเพิ่มค่าโบนัสความชำนาญเป็น 2 เท่าในการเช็คได้แทนที่จะใช้โบนัสความชำนาญปกติ
 
-Subrace. Two main subraces of dwarves populate the worlds of D&D: hill dwarves and mountain dwarves. Choose one of these subraces.
+**ภาษา** คุณสามารถพูด อ่าน และเขียนภาษากลาง [Common] และดาร์ฟวิช [Darvish] ซึ่งเป็นภาษาที่มีเสียงตัวควบกล้ำชัดและออกเสียอยู่ในคอ ลักษณะแบบนี้ปรากฏในเวลาที่คนแคระพูดในภาษาอื่นด้วย
 
->DUERGAR
+**เผ่าย่อย** คนแคระมีเผ่าย่อย 2 เผ่าในโลกของ D&D คือคนแคระเชิงเขา [Hill dwarves] และคนแคระภูเขา [Mountain dwarves] เลือกได้จากสองเผ่านี้
+
+>ดูเออการ์
 >
->In cities deep in the Underdark live the duergar, or gray dwarves. After centuries of captivity and torment by mind flayers, they have innate magical abilities to become invisible and to temporarily grow to giant size.
+>ในเมืองใต้โลกที่ชื่ออันเดอร์ดาร์กมีดูเออการ์อาศัยอยู่ หรือเรียกว่าคนแคระเทา หลังจากหลายศตวรรษที่ถูกจับและทรมานโดยพวกมายด์เฟลเยอร์ [mind flayers] พวกเขาก็ได้มีความสามารถทางเวทมนต์เกิดขึ้น เป็นความสามารถในการ [ล่องหน](./appendice-a.md#invisible) และขยายขนาดให้ใหญ่ได้ชั่วคราว
 
-### <a name="hilldwarf">Hill Dwarf</a>
-As a hill dwarf, you have keen senses, deep intuition, and remarkable resilience. The gold dwarves of Faerûn in their mighty southern kingdom are hill dwarves, as are the exiled Neidar and the debased Klar of Krynn in the Dragonlance setting.
+### <a name="hilldwarf">คนแคระเชิงเขา (Hill Dwarf)</a>
 
-Ability Score Increase. Your Wisdom score increases by 1.
+เมื่อเป็นคนแคระเชิงเขา [ฮิลดวอร์ฟ] คุณจะมีประสาทสัมผัสที่เฉียบคม มีภาวะหยั่งรู้ลึก และมีความระมัดระวังตัวสูง คนแคระทองคำของเฟรูนที่อยู่ในอาณาจักรอันยิ่งใหญ่ทางใต้คือคนแคระเชิงเขา เหมือนกับเหล่าผู้ถูกเนรเทศเนย์ดาร์และชาวคลาร์แห่งครินในจักรวาลดรากอนแลนซ์
 
-Dwarven Toughness. Your hit point maximum increases by 1, and it increases by 1 every time you gain a level.
+**คะแนนความสามารถเพิ่ม** คะแนนความหยั่งรู้ [Wisdom] ของคุณเพิ่มขึ้น 1
 
-### <a name="mountaindwarf">Mountain Dwarf</a>
-As a mountain dwarf, you’re strong and hardy, accustomed to a difficult life in rugged terrain. You’re probably on the tall side (for a dwarf), and tend toward lighter coloration. The shield dwarves of northern Faerûn, as well as the ruling Hylar clan and the noble Daewar clan of Dragonlance, are mountain dwarves.
+**ความอึดแบบคนแคระ.** ค่าเลือดสูงสุดเพิ่มขึ้น 1 แต้มและจะเพิ่ม 1 แต้มทุก ๆ เลเวล
 
-Ability Score Increase. Your Strength score increases by 2.
+### <a name="mountaindwarf">คนแคระภูเขา (Mountain Dwarf)</a>
 
-Dwarven Armor Training. You have proficiency with light and medium armor.
+เมื่อเป็นคนแคระภูเขา คุณจะแข็งแรงและอึดเพื่อให้ใช้ชีวิตอยู่ในในสภาพพื้นที่ที่มีอุปสรรค คุณจะสูงกว่าคนแคระทั่วไปและผิวสีอ่อนกว่า พวกคนแคระโล่ห์แห่งตอนเหนือของเฟรูน เช่นเดียวกับที่ปกครองเผ่าไฮลาร์และเผ่าเดวาในดรากอนแลนซ์ทั้งหมดเป็นคนแคระภูเขา
+
+**คะแนนความสามารถเพิ่ม** คะแนนความแข็งแกร่ง [Strength] เพิ่มขึ้น 2 
+
+**การฝึกฝนด้านเกราะของคนแคระ** คุณมีความเชี่ยวชาญในการใช้เกาะอ่อนและเกราะขนาดกลาง (light and medium armor)
 
 ## <a name="elf">เอลฟ์</a>
 “I have never imagined such beauty existed,” Goldmoon said softly. The day’s march had been difficult, but the reward at the end was beyond their dreams. The companions stood on a high cliff over the fabled city of Qualinost.
