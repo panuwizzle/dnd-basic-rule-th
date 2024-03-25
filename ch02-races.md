@@ -103,8 +103,6 @@
 
 **ดาร์กวิชัน** เพราะต้องอาศัยอยู่ใต้ดิน คุณมีการมองเห็นในที่มืดและที่แสงน้อย คุณสามารถมองเห็นได้ในที่แสงน้อยภายในระยะ 60 ฟุต มองเห็นเหมือนอยู่ในที่แสดงปกติ และมองในที่มืดเหมือนมองในที่แสงน้อย คุณไม่สามารถแยกสีได้ในความมืด มองเห็นได้เป็นแค่เฉดสีเทา
 
-Dwarven Resilience. You have advantage on saving throws against poison, and you have resistance against poison damage (explained in chapter 9, “Combat”).
-
 **ความทนทานแบบชาวคนแคระ** คุณจะได้ทอยแอดแวนเทจ (advantage: ทอย d20 2 ลูก เอาแต้มมากสุด) เมื่อต้องทอยป้องกัน (saving throw) เวลาถูกพิษ และคุณจะมีความต้านทานพิษ (resistance: ลดความเสียหายครึ่งหนึ่ง) (อธิบายในบทที่ 9 "การต่อสู้") 
 
 **การฝึกฝนการต่อสู้แบบคนแคระ** คุณมีความเชี่ยวชาญการใช้ขวานศึก [battleaxe], ขวานมือ [handaxe], ค้อนเบา [light hammer] และค้อนศึก [warhammer]
@@ -138,79 +136,82 @@ Dwarven Resilience. You have advantage on saving throws against poison, and you 
 **การฝึกฝนด้านเกราะของคนแคระ** คุณมีความเชี่ยวชาญในการใช้เกาะอ่อนและเกราะขนาดกลาง (light and medium armor)
 
 ## <a name="elf">เอลฟ์</a>
-“I have never imagined such beauty existed,” Goldmoon said softly. The day’s march had been difficult, but the reward at the end was beyond their dreams. The companions stood on a high cliff over the fabled city of Qualinost.
-
-Four slender spires rose from the city’s corners like glistening spindles, their brilliant white stone marbled with shining silver. Graceful arches, swooping from spire to spire, soared through the air. Crafted by ancient dwarven metalsmiths, they were strong enough to hold the weight of an army, yet they appeared so delicate that a bird lighting on them might overthrow the balance. These glistening arches were the city’s only boundaries; there was no wall around Qualinost. The elven city opened its arms lovingly to the wilderness.
-
-— Margaret Weis & Tracy Hickman, Dragons of Autumn Twilight
-
-Elves are a magical people of otherworldly grace, living in the world but not entirely part of it. They live in places of ethereal beauty, in the midst of ancient forests or in silvery spires glittering with faerie light, where soft music drifts through the air and gentle fragrances waft on the breeze. Elves love nature and magic, art and artistry, music and poetry, and the good things of the world.
-
-### Slender and Graceful
-With their unearthly grace and fine features, elves appear hauntingly beautiful to humans and members of many other races. They are slightly shorter than humans on average, ranging from well under 5 feet tall to just over 6 feet. They are more slender than humans, weighing only 100 to 145 pounds. Males and females are about the same height, and males are only marginally heavier than females.
-
-Elves’ coloration encompasses the normal human range and also includes skin in shades of copper, bronze, and almost bluish-white, hair of green or blue, and eyes like pools of liquid gold or silver. Elves have no facial and little body hair. They favor elegant clothing in bright colors, and they enjoy simple yet lovely jewelry.
-
-### A Timeless Perspective
-Elves can live well over 700 years, giving them a broad perspective on events that might trouble the shorter-lived races more deeply. They are more often amused than excited, and more likely to be curious than greedy. They tend to remain aloof and unfazed by petty happenstance. When pursuing a goal, however, whether adventuring on a mission or learning a new skill or art, elves can be focused and relentless. They are slow to make friends and enemies, and even slower to forget them. They reply to petty insults with disdain and to serious insults with vengeance.
-
-Like the branches of a young tree, elves are flexible in the face of danger. They trust in diplomacy and compromise to resolve differences before they escalate to violence. They have been known to retreat from intrusions into their woodland homes, confident that they can simply wait the invaders out. But when the need arises, elves reveal a stern martial side, demonstrating skill with sword, bow, and strategy.
-
-### Hidden Woodland Realms
-Most elves dwell in small forest villages hidden among the trees. Elves hunt game, gather food, and grow vegetables, and their skill and magic allow them to support themselves without the need for clearing and plowing land. They are talented artisans, crafting finely worked clothes and art objects. Their contact with outsiders is usually limited, though a few elves make a good living by trading crafted items for metals (which they have no interest in mining).
-
-Elves encountered outside their own lands are commonly traveling minstrels, artists, or sages. Human nobles compete for the services of elf instructors to teach swordplay or magic to their children.
-
-### Exploration and Adventure
-Elves take up adventuring out of wanderlust. Since they are so long-lived, they can enjoy centuries of exploration and discovery. They dislike the pace of human society, which is regimented from day to day but constantly changing over decades, so they find careers that let them travel freely and set their own pace. Elves also enjoy exercising their martial prowess or gaining greater magical power, and adventuring allows them to do so. Some might join with rebels fighting against oppression, and others might become champions of moral causes.
-
->HAUGHTY BUT GRACIOUS
+>"ข้าไม่เคยนึกฝันเลยว่ามีสิ่งที่สวยงามขนาดนี้อยู่" โกลด์มูนเอ่ยอย่างแผ่วเบา หลังผ่านการเดินทางหลายวันอย่างยากลำบาก แต่รางวัลที่ได้นั้นเกินจินตนาการ คณะเดินทางยืนอยู่บนผาสูงกำลังมองไปที่เมืองมายาแห่งควาลินอสท์
 >
->Although they can be haughty, elves are generally gracious even to those who fall short of their high expectations—which is most non-elves. Still, they can find good in just about anyone.
+>ยอดแหลมเรียวสี่ยอดโผล่ขึ้นมาจากมุมต่างๆ ของเมืองราวกับแกนหมุนที่วาววับ หินสีขาวสุกใสที่มีลายหินอ่อนสีเงินแวววาว ส่วนโค้งอันสง่างามโฉบจากยอดแหลมหนึ่งไปอีกยอดแหลมทะยานไปในอากาศ พวกมันสร้างขึ้นโดยช่างโลหะคนแคระโบราณ พวกมันแข็งแกร่งพอที่จะรับน้ำหนักของกองทัพได้ แต่พวกมันก็ดูบอบบางมากราวกับว่าหากนกบินมาเกาะอาจทำลายสมดุลได้ ซุ้มโค้งที่วาววับเหล่านี้เป็นเขตแดนเพียงแห่งเดียวของเมือง ไม่มีกำแพงล้อมรอบ ควาลินอสท์ เมืองเอลฟ์อ้าแขนออกสู่ถิ่นทุรกันดารด้วยความรัก
 >
->Dwarves. “Dwarves are dull, clumsy oafs. But what they lack in humor, sophistication, and manners, they make up in valor. And I must admit, their best smiths produce art that approaches elven quality.”
+>— มากาเร็ต เวส & เทรซี่ ฮิกแมน, มังกรแห่งยามสายันห์ในฤดูใบไม้ร่วง (Dragons of Authumn Twilight)
+
+เอลฟ์เป็นเผ่าพันธุ์วิเศษจากโลกอื่น อาศัยอยู่ในโลกนี้แต่ก็ไม่ได้เป็นส่วนหนึ่ง พวกเขาอาศัยอยู่ในสถานที่ที่วิจิตรสวยงาม ในป่าโบราณในม่านหมอกหรือในเมืองหอคอยแวววาวมีแสงของภูติ ที่ที่มีเสียงดนตรีเบา ๆ แว่วมาพร้อมกับกลิ่นไม้หอมลอยมาตามลม เอลฟ์รักธรรมชาติและเวทมนต์ ศิลปะและงานวิจิตรศิลป์ ดนตรีและงานปฏิมากรรม และสิ่งสวยงามใด ๆ ในโลก
+
+### สูงโปร่งและสง่างาม
+
+ด้วยความสง่างามและรูปร่างอันสมบูรณ์ เอลฟ์เป็นสิ่งที่สวยงามจนน่ากลัวสำหรับมนุษย์และเผ่าพันธุ์อื่น พวกเขาเตี้ยกว่ามนุษย์เล็กน้อยโดยค่าเฉลี่ย โดยสูงราว 5 - 6 ฟุต รูปร่างเพรียวกว่ามนุษย์ น้ำหนักราว 100 - 145 ปอนด์ ชายและหญิงสูงไล่เลี่ยกัน ชายจะมีน้ำหนักมากกว่าหญิงเล็กน้อย
+
+สีผิวของเอลฟ์มีโทนเดียวกับมนุษย์และยังมีเฉดทองแดง ทองเหลือง และบางครั้งก็สีฟ้าเหลือบขาว ผมสีเขียวหรือน้ำเงิน ดวงตาเหมือนเป็นบ่อทองคำหรือเงินเหลว เอลฟ์ไม่มีขนบนหน้าหรือตามตัว พวกเขาชื่นชอบเสื้อผ้าสีสดสว่าง ชอบเครื่องประดับที่เรียบง่ายแต่สวย
+
+### มุมมองเหนือกาลเวลา
+เอลฟ์มีชีวิตอยู่ได้มากกว่า 700 ปี ทำให้พวกเขามีมุมมองต่อปัญหาต่าง ๆ ลึกซึ้งกว่าเผ่าพันธุ์อื่น ๆ พวกเขามักจะขบขันมากกว่าตื่นเต้นและมักจะขี้สงสัยมากกว่าจะโลภ พวกเขามักจากอยู่ห่าง ๆ และไม่สะทกสะท้านกับเหตุการณ์ที่เกิดขึ้น แต่เมื่อเป็นการไล่ตามเป้าหมายไม่ว่าจะเป็นการผจญภัยหรือการเรียนรู้ทักษะใหม่ เอลฟ์จะมีสมาธิสูงและพยายามอย่างไม่ลดละ พวกเอลฟ์จะมีเพื่อนและศัตรูได้ยาก และการลืมยิ่งยากกว่า พวกเขาตอบแทนการสบประมาทด้วยการเมินเฉยและตอบแทนการดูหมิ่นด้วยการล้างแค้น
+
+เหมือนกิ่งของต้นไม้วัยอ่อน เอลฟ์ยืดหยุ่นเมื่อพบเจอกับอันตราย พวกเขาเชื่อในวิธีการทูตการเจรจาในการแก้ไขข้อขัดแย้งมากกว่าจะตรงเข้าสู่ความรุนแรง เป็นที่รู้กันว่าพวกเขาจะล่าถอยจากการถูกบุกรุกเข้าไปในบ้านในป่าลึก รอให้ผู้บุกรุกจากไปเงียบ ๆ แต่หากพวกเขาต้องบุกโจมตี เอลฟ์จะแสดงความสามารถด้านการต่อสู้ ทักษะการใช้ดาบและธนูรวมถึงการวางแผนอย่างยอดเยี่ยม
+
+### อาณาจักรลับแลในป่าลึก
+เอลฟ์ส่วนใหญ่จะอาศัยในหมู่บ้านในป่า ซ่อนตัวอยู่กับต้นไม้ เอลฟ์จะล่าสัตว์ หาอาหาร และปลูกพืชผัก ทักษะและเวทมนต์ทำให้พวกเขาสามารถทำการเพาะปลูกได้โดยไม่ต้องไถพรวนพื้นดิน พวกเขาเป็นช่างฝีมือเก่งด้านงานแกะสลัก การตัดเย็บและสร้างงานศิลปะ ปกติแล้วจะไม่ค่อยติดต่อกับคนภายนอก แต่เอลฟ์บางคนก็เอางานฝีมือไปขายแลกกับโลหะบ้าง (เพราะพวกเขาไม่ทำงานเหมือง)
+
+เอลฟ์ที่มักจะพบเจอได้นอกเขตแดนของพวกเขามักจะเป็นพ่อค้าเร่ ศิลปิน หรือนักปราชญ์ พวกมนุษย์ชนชั้นสูงมักจะแข่งกันจ้างเอลฟ์มาสอนการต่อสู้หรือเวทมนต์ให้กับลูกหลาน
+
+### การท่องโลกและผจญภัย
+เอลฟ์อาจจะออกผจญภัยด้วยเหตุผลแค่เพียงอยากออกไปท่องเที่ยว เพราะพวกเขามีอายุยืนนานมาก ก็อาจจะหาความสุขจากการสำรวจและค้นพบสิ่งต่าง ๆ พวกเขาไม่ชอบความหวือหวาของสังคมมนุษย์ที่เคลื่อนไปวันต่อวันและเปลี่ยนแปลงไปในระยะเวลาแค่ช่วงสิบปี พวกเขาเลยเลือกงานที่จะทำให้ได้เดินทางอย่างอิสระไม่ขึ้นกับใคร เอลฟ์พึงพอใจในการฝึกฝนความสามารถในการต่อสู้และการได้รับพลังเวทย์มนต์เพิ่มขึ้น และการท่องเที่ยวผจญภัยก็ทำให้เขาได้สิ่งเหล่านั้น บางคนก็ไปเข้าร่วมกับคณะปฏิวัติต่อสู้กับผู้กดขี่ และบางคนก็กลายเป็นฮีโร่ด้วยเหตุผลทางจริยธรรม
+
+>หยิ่งแต่มีน้ำใจ
 >
->Halflings. “Halflings are people of simple pleasures, and that is not a quality to scorn. They’re good folk, they care for each other and tend their gardens, and they have proven themselves tougher than they seem when the need arises.”
+>แม้ว่าพวกเขาจะดูเย่อหยิ่งแต่เอลฟ์ก็มักจะมีน้ำใจกับคนที่แม้จะไม่ถึงมาตรฐาน ซึ่งก็คือทุกคนที่ไม่ใช่เอลฟ์ แต่กระนั้นพวกเขาก็ยังมองแต่แง่ดีของทุกคน
 >
->Humans. “All that haste, their ambition and drive to accomplish something before their brief lives pass away—human endeavors seem so futile sometimes. But then you look at what they have accomplished, and you have to appreciate their achievements. If only they could slow down and learn some refinement.”
+>คนแคระ "พวกคนแคระดูทึ่ม เงอะงะ แต่สิ่งที่พวกเขาขาดไปไม่ว่าจะเป็นอารมณ์ขัน ความซับซ้อนและมารยาท พวกเขาชดเชยได้หมดด้วยความกล้าหาญ และข้าต้องยอมรับว่า งานโลหะของพวกเขาคุณภาพดีเยี่ยมแทบจะดีเท่ากับของชาวเอลฟ์เลยทีเดียว"
+>
+>ฮาล์ฟลิ่ง "ฮาล์ฟลิ่งเป็นคนที่มีความสุขได้ง่าย ๆ และนั่นก็ไม่ใช้คำดูแคลน พวกเขาเป็นคนดี ดูและพวกพ้องและดูแลสวน และพวกเขาก็พิสูจน์แล้วว่าเข้มแข็งกว่าที่คิดเมื่อถึงยามจำเป็น"
+>
+>มนุษย์ "มีแต่ความเร่งรีบ ความทะเยอทะยานและความต้องการจะทำบางสิ่งให้สำเร็จก่อนที่ชีวิตอันแสนสั้นจะจบไป ทำให้มนุษย์มีสีสันในบางครั้ง แต่เมื่อดูสิ่งที่พวกเขาทำสำเร็จ เจ้าจะรู้สึกทึ่งได้เลยในความสำเร็จนั้น ถ้าเพียงแค่พวกเขาช้าลงและเรียนรู้การขัดเกลาชีวิตบ้าง
 
-### Elf Names
-Elves are considered children until they declare themselves adults, some time after the hundredth birthday, and before this period they are called by child names.
+### ชื่อของเอลฟ์
+เอลฟ์ถือว่าเป็นเด็กจนกระทั่งพวกเขาประกาศตัวว่าเป็นผู้ใหญ่ บางครั้งก็หลังจากวันเกิดปีที่ 100 ก่อนที่จะถึงจุดนี้พวกเขาจะถูกเรียกด้วยชื่อจากวัยเด็ก
 
-On declaring adulthood, an elf selects an adult name, although those who knew him or her as a youngster might continue to use the child name. Each elf’s adult name is a unique creation, though it might reflect the names of respected individuals or other family members. Little distinction exists between male names and female names; the groupings here reflect only general tendencies. In addition, every elf bears a family name, typically a combination of other Elvish words. Some elves traveling among humans translate their family names into Common, but others retain the Elvish version.
+ในการประกาศการเป็นผู้ใหญ่ เอลฟ์จะเลือกชื่อใหม่ แม้คนรู้จักอาจจะยังเรียกด้วยชื่อในตอนเด็กอยู่ แต่ละชื่อจะเป็นการสร้างให้เป็นชื่อเฉพาะ อาจะเป็นการให้เกียรติบุคคลหรือสมาชิกในครอบครัว ชื่อชายกับหญิงไม่ค่อยแตกต่างกันนัก รายการด้านล่างนี้เป็นส่วนหนึ่งของชื่อทั่วไป นอกจากนั้นเอลฟ์ทุกคนยังมีชื่อสกุล โดยทั่วไปจะเป็นการรวมกับศัพท์เอลฟ์อื่น ๆ เอลฟ์บางคนที่เดินทางร่วมกับมนุษย์จะแปลชื่อสกุลเป็นภาษากลาง แต่บางคนก็ใช้ชื่อปกติ
 
-**Child Names:** Ara, Bryn, Del, Eryn, Faen, Innil, Lael, Mella, Naill, Naeris, Phann, Rael, Rinn, Sai, Syllin, Thia, Vall
+**ชื่อวัยเด็ก** อารา, บริน, เดล, เอริน, เฟน, อินนิล, ลาเอล, เมลล่า, เนลล์, เนริส, ฟาน, ราเอล, รินน์, ไซ, ซิลลิน, เธีย, วาล
 
-**Male Adult Names:** Adran, Aelar, Aramil, Arannis, Aust, Beiro, Berrian, Carric, Enialis, Erdan, Erevan, Galinndan, Hadarai, Heian, Himo, Immeral, Ivellios, Laucian, Mindartis, Paelias, Peren, Quarion, Riardon, Rolen, Soveliss, Thamior, Tharivol, Theren, Varis
+**ชื่อเอลฟ์ผู้ใหญ่ชาย** แอดราน, เอลา, อารามิล, อารานนิส, อัสท์, เบย์โร, เบอเรียน, คาร์ริค, เอเนียลิส, เออแดน, เอเรวาน, กาลินน์ดาน, ฮาดาไร, เฮเอียน, ไฮโม, อิมเมอรัล, อิเวลลิออส, ลูเชียน, มินดาร์ทิส, เพลิอัส, เพเรน, ควาเรียน, ริอาร์ดอน, โรเลน, โซเวลิส, ธามิออร์, ธาริวอล, เธเรน, วาริส
 
-**Female Adult Names:** Adrie, Althaea, Anastrianna, Andraste, Antinua, Bethrynna, Birel, Caelynn, Drusilia, Enna, Felosial, Ielenia, Jelenneth, Keyleth, Leshanna, Lia, Meriele, Mialee, Naivara, Quelenna, Quillathe, Sariel, Shanairra, Shava, Silaqui, Theirastra, Thia, Vadania, Valanthe, Xanaphia
+**ชื่อเอลฟ์ผู้ใหญ่หญิง** เอดรี, อัลเทีย, อานัสทริอันนา, แอนดรัสเต้, แอนทินัว, เบธรินนา, บิเรล, ซีลีน, ดรูซิเลีย, เอนนา, เฟโลเซียล, อิเอเลเนีย, เจเลนเน็ต, เคย์เลธ, ลีชานา, ลิอา, เมเรียล, เมียลี, ไนวารา, เควเลนน่า, ควิลเลธ, ซาริเอล, ซาไนรา, ซาวา, ซิลาคี, เธราสทรา, ธีอา, วาดาเนีย, วาแลนธ์, ซานาเฟีย
 
-**Family Names (Common Translations):** Amakiir (Gemflower), Amastacia (Starflower), Galanodel (Moonwhisper), Holimion (Diamonddew), Ilphelkiir (Gemblossom), Liadon (Silverfrond), Meliamne (Oakenheel), Naïlo (Nightbreeze), Siannodel (Moonbrook), Xiloscient (Goldpetal)
+**ชื่อสกุล (แปลภาษากลาง)** อามาเคอ (Gemflower: เจมฟลาวเวอร์), อามาสเตเชีย (Starflower: สตาร์ฟลาวเวอร์), กาลาโนเดล (Moonwhisper: มูนวิสเปอร์), โฮลิเมียน (Diamonddew: ไดมอนดิว), อิลเฟลเคอร์ (Gemblossom: เจมบลอสซั่ม), ลิอาดอน (Silverfrond: ซิลเวอร์ฟรอนด์), เมเลียมเน (Oakenheel: โอเคนฮีล), ไนโล (Nightbreeze: ไนท์บรีซ), ชิแอนโนเดล (Moonbrook: มูนบรูค), ไซโลเซียน (Goldptal: โกลด์เพตัล)
 
-### Elf Traits
-Your elf character has a variety of natural abilities, the result of thousands of years of elven refinement.
+### คุณลักษณะของเอลฟ์
+เอลฟ์ของคุณมีความสามารถหลากหลายตามธรรมชาติ เป็นผลจากการดำรงอยู่มาหลายพันปี
 
-Ability Score Increase. Your Dexterity score increases by 2.
+**คะแนนความสามารถเพิ่ม** คะแนนความว่องไว (Dexterity) เพิ่มขึ้น 2
 
-Age. Although elves reach physical maturity at about the same age as humans, the elven understanding of adulthood goes beyond physical growth to encompass worldly experience. An elf typically claims adulthood and an adult name around the age of 100 and can live to be 750 years old.
+**อายุ** แม้เอลฟ์จะเติบโตมีร่างกายเป็นผู้ใหญ่โดยใช้เวลาใกล้เคียงกับมนุษย์แต่ความเข้าใจเรื่องการเป็นผู้ใหญ่ยังต้องใช้เวลามากกว่านั้น เอลฟ์ส่วนใหญ่มักจะประกาศความเป็นผู้ใหญ่เมื่ออายุ 100 ปี และมีชีวิตอยู่ได้ราว 750 ปี
 
-Size. Elves range from under 5 to over 6 feet tall and have slender builds. Your size is Medium.
+**ขนาด** เอลฟ์สูงราว 5 - 6 ฟุต รูปร่างผอมเพรียว เป็นสิ่งมีชีวิตขนาดกลาง (Medium)
 
-Speed. Your base walking speed is 30 feet.
+**ความเร็ว** ความเร็วในการเคลื่อนที่คือ 30 ฟุต
 
-Darkvision. Accustomed to twilit forests and the night sky, you have superior vision in dark and dim conditions. You can see in dim light within 60 feet of you as if it were bright light, and in darkness as if it were dim light. You can’t discern color in darkness, only shades of gray.
+**ดาร์กวิชัน** เพื่อใช้ชีวิตในป่าทึบและความมืดยามราตรี คุณมีการมองเห็นในที่มืดและที่แสงน้อย คุณสามารถมองเห็นได้ในที่แสงน้อยภายในระยะ 60 ฟุต มองเห็นเหมือนอยู่ในที่แสดงปกติ และมองในที่มืดเหมือนมองในที่แสงน้อย คุณไม่สามารถแยกสีได้ในความมืด มองเห็นได้เป็นแค่เฉดสีเทา
 
-Keen Senses. You have proficiency in the Perception skill.
+**ประสาทสัมผัสเฉียบคม** คุณมีความชำนาญในทักษะการรับรู้ (Perception)
 
-Fey Ancestry. You have advantage on saving throws against being charmed, and magic can’t put you to sleep.
+**บรรพบุรุษเป็นเฟย์ (Fey)** คุณมี advantage ในการทอยป้องกัน (saving throw) ต่อการถูกทำให้หลงใหล (charmed) และไม่มีเวทมนต์ใดทำให้คุณหลับได้
 
-Trance. Elves don’t need to sleep. Instead, they meditate deeply, remaining semiconscious, for 4 hours a day. (The Common word for such meditation is “trance.”) While meditating, you can dream after a fashion; such dreams are actually mental exercises that have become reflexive through years of practice. After resting in this way, you gain the same benefit that a human does from 8 hours of sleep.
+**ภาวะกึ่งหลับ** เอลฟ์ไม่ต้องการการนอน พวกเขาใช้การเข้าสมาธิแบบลึกอยู่ในสภาวะกึ่งหลับวันละ 4 ชม. ในขณะทำสมาธิพวกเขาจะฝันไปด้วย ความฝันนี้เป็นการบริหารจิตใจเพื่อให้ยืดหยุ่น เมื่อพักผ่อนแบบนี้แล้วคุณจะได้รับผลเหมือนที่มนุษย์ได้จากการพัก 8 ชม.
 
-Languages. You can speak, read, and write Common and Elvish. Elvish is fluid, with subtle intonations and intricate grammar. Elven literature is rich and varied, and their songs and poems are famous among other races. Many bards learn their language so they can add Elvish ballads to their repertoires.
+**ภาษา** คุณสามารถพูด อ่าน และเขียนภาษากลาง (Common) และภาษาเอลฟ์ (Elvish) ภาษาเอลฟ์มีความลื่นไหล พร้อมด้วยน้ำเสียงที่ละเอียดอ่อนและไวยากรณ์ที่สลับซับซ้อน วรรณกรรมของเอลฟ์มีมากมายและหลากหลาย เพลงและบทกวีของพวกเขามีชื่อเสียงในหมู่เผ่าพันธุ์อื่นๆ กวีหลายคนเรียนรู้ภาษาเอลฟ์เพื่อที่จะสามารถเพิ่มเพลงบัลลาดของเอลฟ์เข้าไปในรายการเพลงของพวกเขาได้
 
 Subrace. Ancient divides among the elven people resulted in three main subraces: high elves, wood elves, and dark elves, who are commonly called drow. Choose one of these subraces. In some worlds, these subraces are divided still further (such as the sun elves and moon elves of the Forgotten Realms), so if you wish, you can choose a narrower subrace.
 
-### <a name="highelf">High Elf</a>
+**เผ่าพันธุ์ย่อย** การแบ่งแยกจากครั้งโบราณทำให้เก็บเผ่าย่อย 3 เผ่า ไฮเอลฟ์ (high elves), เอลฟ์ป่า (wood elves) และดาร์กเอลฟ์ (drow: ดราว) เลือกหนึ่งในเผ่าย่อย 3 เผ่านี้ ในโลกอื่นเผ่าย่อยนี้อาจจะแบ่งได้มากกว่านี้ (เช่นเอลฟ์ทิวาและเอลฟ์จันทราในโลกของฟอร์ก็อทเทนเรียมส์) ดังนั้นถ้าคุณต้องการคุณก็สามารถเลือกจากเผ่าย่อยเหล่านี้ได้ 
+
+### <a name="highelf">ไฮเอลฟ์ - High Elf</a>
 As a high elf, you have a keen mind and a mastery of at least the basics of magic. In many of the worlds of D&D, there are two kinds of high elves. One type (which includes the gray elves and valley elves of Greyhawk, the Silvanesti of Dragonlance, and the sun elves of the Forgotten Realms) is haughty and reclusive, believing themselves to be superior to non-elves and even other elves. The other type (including the high elves of Greyhawk, the Qualinesti of Dragonlance, and the moon elves of the Forgotten Realms) are more common and more friendly, and often encountered among humans and other races.
 
 The sun elves of Faerûn (also called gold elves or sunrise elves) have bronze skin and hair of copper, black, or golden blond. Their eyes are golden, silver, or black. Moon elves (also called silver elves or gray elves) are much paler, with alabaster skin sometimes tinged with blue. They often have hair of silver-white, black, or blue, but various shades of blond, brown, and red are not uncommon. Their eyes are blue or green and flecked with gold.
@@ -235,6 +236,22 @@ Elf Weapon Training. You have proficiency with the longsword, shortsword, shortb
 Fleet of Foot. Your base walking speed increases to 35 feet.
 
 Mask of the Wild. You can attempt to hide even when you are only lightly obscured by foliage, heavy rain, falling snow, mist, and other natural phenomena.
+
+### <a name="darkelf">Dark Elf (Drow)</a>
+
+As a drow, you are infused with the magic of the Underdark, an underground realm of wonders and horrors rarely seen on the surface above. You are at home in shadows and, thanks to your innate magic, learn to conjure forth both light and darkness. Your kin tend to have stark white hair and grayish skin of many hues.
+
+The cult of the god Lolth, Queen of Spiders, has corrupted some of the oldest drow cities, especially in the worlds of Oerth and Toril. Eberron, Krynn, and other realms have escaped the cult’s influence—for now. Wherever the cult lurks, drow heroes stand on the front lines in the war against it, seeking to sunder Lolth’s web.
+
+Ability Score Increase. Your Charisma score increases by 1.
+
+Superior Darkvision. Your darkvision has a radius of 120 feet.
+
+Sunlight Sensitivity. You have disadvantage on attack rolls and on Wisdom (Perception) checks that rely on sight when you, the target of your attack, or whatever you are trying to perceive is in direct sunlight.
+
+Drow Magic. You know the dancing lights cantrip. When you reach 3rd level, you can cast the faerie fire spell once with this trait and regain the ability to do so when you finish a long rest. When you reach 5th level, you can cast the darkness spell once with this trait and regain the ability to do so when you finish a long rest. Charisma is your spellcasting ability for these spells.
+
+Drow Weapon Training. You have proficiency with rapiers, shortswords, and hand crossbows.
 
 ## <a name="halfling">Halfling</a>
 >Regis the halfling, the only one of his kind for hundreds of miles in any direction, locked his fingers behind his head and leaned back against the mossy blanket of the tree trunk. Regis was short, even by the standards of his diminutive race, with the fluff of his curly brown locks barely cresting the three-foot mark, but his belly was amply thickened by his love of a good meal, or several, as the opportunities presented themselves. The crooked stick that served as his fishing pole rose up above him, clenched between two of his toes, and hung out over the quiet lake, mirrored perfectly in the glassy surface of Maer Dualdon.
