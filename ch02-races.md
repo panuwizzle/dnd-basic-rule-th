@@ -199,59 +199,60 @@
 
 **ดาร์กวิชัน** เพื่อใช้ชีวิตในป่าทึบและความมืดยามราตรี คุณมีการมองเห็นในที่มืดและที่แสงน้อย คุณสามารถมองเห็นได้ในที่แสงน้อยภายในระยะ 60 ฟุต มองเห็นเหมือนอยู่ในที่แสดงปกติ และมองในที่มืดเหมือนมองในที่แสงน้อย คุณไม่สามารถแยกสีได้ในความมืด มองเห็นได้เป็นแค่เฉดสีเทา
 
-**ประสาทสัมผัสเฉียบคม** คุณมีความชำนาญในทักษะการรับรู้ (Perception)
+**ประสาทสัมผัสเฉียบคม** คุณมีความชำนาญในทักษะการรับรู้ [Perception: เพอเซ็พชัน]
 
 **บรรพบุรุษเป็นเฟย์ (Fey)** คุณมี advantage ในการทอยป้องกัน (saving throw) ต่อการถูกทำให้หลงใหล (charmed) และไม่มีเวทมนต์ใดทำให้คุณหลับได้
 
 **ภาวะกึ่งหลับ** เอลฟ์ไม่ต้องการการนอน พวกเขาใช้การเข้าสมาธิแบบลึกอยู่ในสภาวะกึ่งหลับวันละ 4 ชม. ในขณะทำสมาธิพวกเขาจะฝันไปด้วย ความฝันนี้เป็นการบริหารจิตใจเพื่อให้ยืดหยุ่น เมื่อพักผ่อนแบบนี้แล้วคุณจะได้รับผลเหมือนที่มนุษย์ได้จากการพัก 8 ชม.
 
-**ภาษา** คุณสามารถพูด อ่าน และเขียนภาษากลาง (Common) และภาษาเอลฟ์ (Elvish) ภาษาเอลฟ์มีความลื่นไหล พร้อมด้วยน้ำเสียงที่ละเอียดอ่อนและไวยากรณ์ที่สลับซับซ้อน วรรณกรรมของเอลฟ์มีมากมายและหลากหลาย เพลงและบทกวีของพวกเขามีชื่อเสียงในหมู่เผ่าพันธุ์อื่นๆ กวีหลายคนเรียนรู้ภาษาเอลฟ์เพื่อที่จะสามารถเพิ่มเพลงบัลลาดของเอลฟ์เข้าไปในรายการเพลงของพวกเขาได้
-
-Subrace. Ancient divides among the elven people resulted in three main subraces: high elves, wood elves, and dark elves, who are commonly called drow. Choose one of these subraces. In some worlds, these subraces are divided still further (such as the sun elves and moon elves of the Forgotten Realms), so if you wish, you can choose a narrower subrace.
+**ภาษา** คุณสามารถพูด อ่าน และเขียนภาษากลาง [Common: คอมมอน] และภาษาเอลฟ์ [Elvish: เอลวิช] ภาษาเอลฟ์มีความลื่นไหล พร้อมด้วยน้ำเสียงที่ละเอียดอ่อนและไวยากรณ์ที่สลับซับซ้อน วรรณกรรมของเอลฟ์มีมากมายและหลากหลาย เพลงและบทกวีของพวกเขามีชื่อเสียงในหมู่เผ่าพันธุ์อื่นๆ กวีหลายคนเรียนรู้ภาษาเอลฟ์เพื่อที่จะสามารถเพิ่มเพลงบัลลาดของเอลฟ์เข้าไปในรายการเพลงของพวกเขาได้
 
 **เผ่าพันธุ์ย่อย** การแบ่งแยกจากครั้งโบราณทำให้เก็บเผ่าย่อย 3 เผ่า ไฮเอลฟ์ (high elves), เอลฟ์ป่า (wood elves) และดาร์กเอลฟ์ (drow: ดราว) เลือกหนึ่งในเผ่าย่อย 3 เผ่านี้ ในโลกอื่นเผ่าย่อยนี้อาจจะแบ่งได้มากกว่านี้ (เช่นเอลฟ์ทิวาและเอลฟ์จันทราในโลกของฟอร์ก็อทเทนเรียมส์) ดังนั้นถ้าคุณต้องการคุณก็สามารถเลือกจากเผ่าย่อยเหล่านี้ได้ 
 
 ### <a name="highelf">ไฮเอลฟ์ - High Elf</a>
-As a high elf, you have a keen mind and a mastery of at least the basics of magic. In many of the worlds of D&D, there are two kinds of high elves. One type (which includes the gray elves and valley elves of Greyhawk, the Silvanesti of Dragonlance, and the sun elves of the Forgotten Realms) is haughty and reclusive, believing themselves to be superior to non-elves and even other elves. The other type (including the high elves of Greyhawk, the Qualinesti of Dragonlance, and the moon elves of the Forgotten Realms) are more common and more friendly, and often encountered among humans and other races.
 
-The sun elves of Faerûn (also called gold elves or sunrise elves) have bronze skin and hair of copper, black, or golden blond. Their eyes are golden, silver, or black. Moon elves (also called silver elves or gray elves) are much paler, with alabaster skin sometimes tinged with blue. They often have hair of silver-white, black, or blue, but various shades of blond, brown, and red are not uncommon. Their eyes are blue or green and flecked with gold.
+เมื่อเป็นไฮเอลฟ์ คุณจะมีสัมผัสที่เฉียบแหลมและเชี่ยวชาญการใช้เวทมนต์อย่างน้อยระดับพื้นฐาน ในหลายโลกของ D&D มีไฮเอลฟ์ 2 ชนิด ชนิดหนึ่ง (รวมไปถึงเอลฟ์เทา [Gray elves: เกรย์เอลฟ์] และเอลฟ์หุบเขา [Valley elves: วัลเล่เอลฟ์] แห่งโลกเกรย์ฮอว์ค [Greyhawk], พวกซิลวาเนสติจากดรากอนแลนซ์ และเอลฟ์อาทิตย์แห่งฟอร์ก็อทเท็นเรียมส์) มีลักษณะเย่อหยิ่งและสันโดษ เชื่อในพวกพ้องและคิดว่าเป็นเผ่าพันธุ์ที่เหนือกว่าผู้อื่นแม้แต่กับเอลฟ์เผ่าอื่น อีกชนิด (รวมถึงไฮเอลฟ์ในเกรย์ฮอว์ค, พวกควาลิเนสติในดรากอนแลนซ์ และเหล่าเอลฟ์จันทรา [moon elvees: มูนเอลฟ์] แห่งฟอร์ก็อทเท็นเรียมส์) เป็นเอลฟ์ทั่ว ๆ ไปเป็นมิตรกับเผ่าอื่นและมักจะพบเห็นว่าอยู่กับมนุษย์
 
-Ability Score Increase. Your Intelligence score increases by 1.
+เอลฟ์อาทิตย์แห่งเฟรูน (เรียกอีกชื่อว่าเอลฟ์ทองคำ [gold elves: โกลด์เอลฟ์] หรือเอลฟ์รุ่งอรุณ [sunrise elves: ซันไรส์เอลฟ์]) มีผิวสีทองสัมฤทธ์ [bronze: บรอนซ์] และผมสีทองแดง, ดำ, หรือสีบรอนส์ทอง ดวงตาสีทอง สีเงิน หรือดำ พวกมูนเอลฟ์ (บางทีเรียกเอลฟ์เงิน [silver elves: ซิลเวอร์เอลฟ์] หรือเอลฟ์เทา [gray elves: เกรย์เอลฟ์]) จะสีซีดกว่า ผิวสีเหมือนหินอ่อน บางครั้งมีเหลือบสีน้ำเงิน มักจะมีผมสีเงินถึงขาว สีดำ หรือน้ำเงินที่มีเฉดสีบลอนด์ น้ำตาล สีแดงก็มีแต่พบไม่บ่อย ดวงตาสีน้ำเงินหรือเขียวมีประกายทอง
 
-Elf Weapon Training. You have proficiency with the longsword, shortsword, shortbow, and longbow.
-
-Cantrip. You know one cantrip of your choice from the wizard spell list. Intelligence is your spellcasting ability for it.
-
-Extra Language. You can speak, read, and write one extra language of your choice.
-
-### <a name="woodelf">Wood Elf</a>
-As a wood elf, you have keen senses and intuition, and your fleet feet carry you quickly and stealthily through your native forests. This category includes the wild elves (grugach) of Greyhawk and the Kagonesti of Dragonlance, as well as the races called wood elves in Greyhawk and the Forgotten Realms. In Faerûn, wood elves (also called wild elves, green elves, or forest elves) are reclusive and distrusting of non-elves.
-
-Wood elves’ skin tends to be copperish in hue, sometimes with traces of green. Their hair tends toward browns and blacks, but it is occasionally blond or copper-colored. Their eyes are green, brown, or hazel.
-
-Ability Score Increase. Your Wisdom score increases by 1.
+**คะแนนความสามารถเพิ่ม** คะแนนความฉลาด (Intelligence) เพิ่มขึ้น 1
 
 Elf Weapon Training. You have proficiency with the longsword, shortsword, shortbow, and longbow.
 
-Fleet of Foot. Your base walking speed increases to 35 feet.
+**การฝึกฝนด้านอาวุธเอลฟ์** คุณมีความเชี่ยวชาญในการใช้ดาบยาว [longsword: ลองซอร์ด], ดาบสั้น [shortsword: ช็อตซอร์ด], ธนูสั้น [shortbow: ช็อตโบว] และธนูยาว [longbow: ลองโบว]
 
-Mask of the Wild. You can attempt to hide even when you are only lightly obscured by foliage, heavy rain, falling snow, mist, and other natural phenomena.
+**แคนทริพ** คุณสามารถใช้เวทอย่างง่ายจากรายการเวทของวิซาร์ด (wizard) ได้ 1 ชนิด คุณจะใช้คะแนนความฉลาด (Intelligence) เป็นพื้นฐานความสามารถในการใช้เวท
 
-### <a name="darkelf">Dark Elf (Drow)</a>
+**รู้หลากภาษา** คุณสามารถพูด อ่าน และเขียนได้เพิ่มอีก 1 ภาษา
 
-As a drow, you are infused with the magic of the Underdark, an underground realm of wonders and horrors rarely seen on the surface above. You are at home in shadows and, thanks to your innate magic, learn to conjure forth both light and darkness. Your kin tend to have stark white hair and grayish skin of many hues.
+### <a name="woodelf">วู้ดเอลฟ์ - Wood Elf</a>
+เมื่อเป็นวู้ดเอลฟ์ คุณจะมีสัมผัสที่เฉียบคมและความรอบรู้ คุณเคลื่อนไหวได้อย่างว่องไวและลอบเร้นในพื้นที่ป่าที่เป็นเสมือนบ้านของคุณ กลุ่มนี้รวมถึงเอลฟ์ป่า [wild elves: ไวด์เอลฟ์] (กรูกัค) แห่งเกรย์ฮอว์ค และคาโกเนสติในดรากอนแลนซ์ รวมถึงที่เรียกชื่อเดียวกันในเกรย์ฮอว์คและฟอร์ก็อทเท็นเรียมส์ ในเฟรูนนั้น วู้ดเอลฟ์ (บ้างเรียกไวด์เอลฟ์ กรีนเอลฟ์หรือฟอเรสเอลฟ์) เป็นพวกสันโดษและไม่ได้รับความเชื่อถือจากเผ่าพันธุ์อื่น ๆ
 
-The cult of the god Lolth, Queen of Spiders, has corrupted some of the oldest drow cities, especially in the worlds of Oerth and Toril. Eberron, Krynn, and other realms have escaped the cult’s influence—for now. Wherever the cult lurks, drow heroes stand on the front lines in the war against it, seeking to sunder Lolth’s web.
+ผิวของวู้ดเอลฟ์เป็นโทนทองแดง บางครั้งมีเหลือบสีเขียว ผมมักจะสีน้ำตาลหรือดำแต่บางครั้งก็มีสีบรอนด์หรือสีทองแดงด้วย ดวงตาสีเขียว น้ำตาลหรือสีลูกเฮเซล
 
-Ability Score Increase. Your Charisma score increases by 1.
+**คะแนนความสามารถเพิ่ม** คะแนนความรอบรู้ (Wisdom) เพิ่มขึ้น 1
 
-Superior Darkvision. Your darkvision has a radius of 120 feet.
+**การฝึกฝนด้านอาวุธเอลฟ์** คุณมีความเชี่ยวชาญในการใช้ดาบยาว [longsword: ลองซอร์ด], ดาบสั้น [shortsword: ช็อตซอร์ด], ธนูสั้น [shortbow: ช็อตโบว] และธนูยาว [longbow: ลองโบว]
 
-Sunlight Sensitivity. You have disadvantage on attack rolls and on Wisdom (Perception) checks that rely on sight when you, the target of your attack, or whatever you are trying to perceive is in direct sunlight.
+**เท้าท่องป่า** ความเร็วในการเคลื่อนที่ของคุณคือ 35 ฟุต
 
-Drow Magic. You know the dancing lights cantrip. When you reach 3rd level, you can cast the faerie fire spell once with this trait and regain the ability to do so when you finish a long rest. When you reach 5th level, you can cast the darkness spell once with this trait and regain the ability to do so when you finish a long rest. Charisma is your spellcasting ability for these spells.
+**สัญชาติญาณป่า** คุณสามารถซ่อนตัวได้แม้จะอยู่ในที่มองเห็นได้ลาง ๆ (lightly obscured) เช่นพุ่มไม้ ฝนที่ตกหนัก หิมะตก หมอกและปรากฏการณ์ทางธรรมชาติอื่น ๆ
 
-Drow Weapon Training. You have proficiency with rapiers, shortswords, and hand crossbows.
+### <a name="darkelf">ดาร์กเอลฟ์ (ดราว) Dark Elf (Drow)</a>
+
+เมื่อเป็นดราว คุณเกิดมากับเวทมนต์จากอันเดอร์ดาร์ก (Underdark) อาณาจักรใต้ดินอันมหัศจรรย์และน่าสะพรึงกลัว เผ่าพันธุ์นี้พบได้ไม่บ่อยนักบนพื้นโลกเบื้องบน คุณมีเงาเป็นเหมือนบ้านและต้องขอบคุณพลังเวทย์มนต์แต่กำเนิดที่ให้คุณได้รู้การเรียกใช้ได้ทั้งแสงและความมืด เผ่าพันธุ์คุณมักจะมีผมสีขาวและผิวสีเทาในหลายเฉด
+
+ลัทธิบูชาเทพโลธ (Lolth) นางพญาแมงมุม ได้ทำให้เมืองเก่าของดราวหลายเมืองจมดิ่งลงสู่ด้านมืด โดยเฉพาะในโลกเอิร์ธ (Oerth) และโทริล (Toril) โลกแห่งเอเบอรอน (Eberron) ครินน์ (Krynn) และโลกอื่น ๆ หลุดพ้นจากลัทธินี้มาได้ -- ในตอนนี้ ไม่ว่าพวกลัทธิจะก่อการอะไร เหล่าฮีโร่ชาวดราวก็จะเข้าขัดขวางอย่างเต็มกำลังเพื่อกำจัดดำนาจของโลธให้ได้
+
+**คะแนนความสามารถเพิ่ม** คะแนนเสน่ห์ (Charisma) ของคุณจะเพิ่ม 1
+
+**ดาร์กวิชันชั้นเทพ** ความสามารถดาร์กวิชันของคุณจะเพิ่มระยะการมองเห็นเป็น 120 ฟุต
+
+**อ่อนไหวต่อแสงแดด** คุณจะแพ้แสง คุณจะทอย disadvantage ทั้งการทอยโจมตีและการทอยทดสอบทักษะที่เกี่ยวกับความรอบรู้ (Wisdom) เช่นทักษะการรู้ตัว (Perception: เพอเซ็พชัน) ที่ต้องอาศัยการมืองเห็น เมื่อคุณหรือศัตรู หรือสิ่งที่คุณพยายามมองหาอยู่กลางแดดหรือที่มีแสดงปกติ
+
+**เวทมนต์ของดราว** คุณรู้เวทแสงเต้นได้ [dancing light: แดนซิ่งไลท์] เป็นเวทแบบแคนทริพ เมื่อถึงเลเวล 3 คุณสามารถใช้เวทแฟรี่ไฟร์ [faerie fire] ได้หนึ่งครั้งด้วยคุณลักษณะนี้ และจะใช้ได้อีกหลังจากการพักแบบข้ามคืน [longrest: ลองเรส] เมื่อคุณถึงเลเวล 5 คุณจะสามารถร่ายเวทดาร์กเนส [darkness] ได้หนึ่งครั้งด้วยคุณลักษณะนี้ และจะใช้ได้อีกหลังจากการพักแบบข้ามคืน คุณจะใช้คะแนนเสน่ห์ (Charisma) ในการใช้เวทเหล่านี้
+
+**การฝึกฝนอาวุธของดราว** คุณเชี่ยวชาญการใช้เรเปีย (rapiers), ดาบสั้น [shortsword: ช็อตซอร์ด], และครอสโบวมือ [hand crossbows: แฮนด์ครอสโบว]
 
 ## <a name="halfling">Halfling</a>
 >Regis the halfling, the only one of his kind for hundreds of miles in any direction, locked his fingers behind his head and leaned back against the mossy blanket of the tree trunk. Regis was short, even by the standards of his diminutive race, with the fluff of his curly brown locks barely cresting the three-foot mark, but his belly was amply thickened by his love of a good meal, or several, as the opportunities presented themselves. The crooked stick that served as his fishing pole rose up above him, clenched between two of his toes, and hung out over the quiet lake, mirrored perfectly in the glassy surface of Maer Dualdon.
