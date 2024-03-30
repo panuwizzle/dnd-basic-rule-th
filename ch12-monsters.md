@@ -1,4 +1,4 @@
-# [บทที่ 12: มอนสเตอร์](./ch12-dungeons-masters-tools.md)
+# [บทที่ 12: มอนสเตอร์](./ch12-monsters.md)
 This bestiary is for storytellers and world-builders. If you have ever thought about running a Dungeons & Dragons game for your friends, either a single night’s adventure or a long-running campaign, this tome contains page after page of inspiration. It’s your one-stop shop for creatures both malevolent and benign.
 
 Some of the creatures that inhabit the worlds of D&D have origins rooted in real-world mythology and fantasy literature. Other creatures are D&D originals. The monsters in this book have been culled from all previous editions of the game. Herein you’ll discover classic critters such as the beholder and the displacer beast next to more recent creations such as the chuul and the twig blight. Common beasts mingle with the weird, the terrifying, and the ridiculous. In collecting monsters from the past, we’ve endeavored to reflect the multifaceted nature of the game, warts and all. D&D monsters come in all shapes and sizes, with stories that not only thrill us but also make us smile.

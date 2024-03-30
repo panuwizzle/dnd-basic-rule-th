@@ -17,30 +17,38 @@
 เผ่าพันธุ์ของตัวละครไม่ได้มีผลกับคะแนนความสามารถและคุณลักษณะพิเศษ (trait) เท่านั้น แต่ยังให้คำใบ้ถึงการสร้างเรื่องราวของตัวละครอีกด้วย แต่ละเผ่าพันธุ์ที่อธิบายในส่วนนี้จะมีข้อมูลที่จะช่วยให้คุณโรลเพล์หรือแสดงเป็นตัวละครในเผ่าพันธุ์นั้น รวมถึงลักษณะนิสัย ลักษณะภายนอกและลักษณะของสังคมรอบตัว รายละเอียดเหล่านี้เป็นคำแนะนำที่จะช่วยให้คุณได้จินตนาการถึงตัวละคร นักผจญภัยมักจะแตกต่างไปจากคนทั่วไปในเผ่าพันธุ์เดียวกัน มันมีประโยชน์ถ้าจะพิจารณาว่าทำไมตัวละครคุณถึงได้แตกต่าง ทำให้คุณเลือกภูมิหลังและลักษณะนิสัยของตัวละครได้ง่ายขึ้น
 
 ## คุณลักษณะพิเศษของเผ่า
+
 เป็นคำอธิบายลักษณะที่มีร่วมกันรวมถึงคุณลักษณะพิเศษของคนในเผ่า ส่วนต่าง ๆ ด้านล่างนี้จะปรากฏอยู่ในเผ่าพันธุ์ส่วนใหญ่
 
 ### คะแนนความสามารถเพิ่ม
+
 เผ่าพันธุ์ที่มีคุณลักษณะนี้จะให้คะแนนความสามารถเพิ่มขึ้นในหนึ่งหรือหลายด้าน
 
 ### อายุ
+
 อายุที่ระบุจะเป็นตัวบอกถึงช่วงอายุที่คนในเผ่าจะเป็นผู้ใหญ่รวมถึงอายุสูงสุดที่คาดว่าจะอยู่ถึง ข้อมูลนี้จะช่วยให้คุณตัดสินใจได้ว่าตัวละครอายุเท่าไรเมื่อเริ่มเกม คุณสามารถเลือกช่วงอายุใด ๆ ก็ได้ที่อธิบายถึงคะแนนความสามารถที่ปรากฏ ตัวอย่างเช่นคุณเล่นตัวละครที่ยังวัยรุ่นหรือแก่แล้ว อายุจะเป็นตัวบอกถึงความแข็งแกร่ง (STR) และความอดทน (CON) ที่ถดถอยหรือยังน้อย และเมื่ออายุมากขึ้นก็คาดได้ว่าจะมีความฉลาด (INT) และความรอบรู้ (WIS) เพิ่มมากขึ้น
 
 ### ขนาด
+
 ผู้คนส่วนใหญ่จะมีขนาดกลาง (Medium) เป็นกลุ่มสิ่งมีชีวิตที่มีความสูงราว 4 - 8 ฟุต มีบางเผ่าที่มีขนาดเล็ก (Small) (อยู่ระหว่าง 2 - 4 ฟุต) ซึ่งนั่นหมายความว่ากฏบางอย่างของเกมจะมีผลที่แตกต่างไปกับเขา กฏส่วนใหญ่ที่สำคัญคือตัวละครตัวเล็กจะมีปัญหาในการถืออาวุธขนาดใหญ่ ซึ่งมีอธิบายไว้ในส่วนของอุปกรณ์
 
 ### ความไว
+
 ความไวนี้เป็นตัวบอกว่าคุณสามารถเคลื่อนที่ได้เร็วแค่ไหนในการเดินทาง ("โหมดการผจญภัย") และในการต่อสู้ ("โหมดต่อสู้")
 
 ### ภาษา
+
 ตัวละครของคุณจะสามารถพูด อ่าน และเขียนภาษาได้ "บุคลิกภาพและภูมิหลัง" จะมีรายการภาษาที่ใช้กันในโลกของ D&D
 
 ### เผ่าพันธุ์ย่อย
+
 บางเผ่าพันธุ์จะมีเผ่าพันธุ์ย่อย สมาชิกของเผ่าพันธุ์ย่อยจะมีคุณลักษณะพิเศษจากเผ่าพันธุ์หลักและมีส่วนเฉพาะของตัวเอง ความสัมพันธ์ระหว่างเผ่าพันธุ์ย่อยจะแตกต่างกันไปในแต่ละเผ่าและจากแต่ละโลก ในแคมเปญดราก้อนแลนซ์ (Dragonlance settings) ตัวอย่างเช่น คนแคระภูเขาและคนแคระเนินเขาจะอาศัยอยู่ด้วยกันแบบต่างเผ่าแต่เป็นพันธุ์เดียวกัน แต่ในฟอก็อทเทนเรียมส์ (Forgotten Realms settings) พวกเขาจะอยู่ห่างไกลกันมากเป็นสองอาณาจักรที่แยกจากกัน และเรียกตัวเองว่าคนแคระโล่ห์และคนแคระทองคำตามลำดับ
 
 ## <a name="dwarf">คนแคระ</a>
->"มาสายนะเจ้าเอลฟ์!" มาพร้อมกับเสียงห้าวดังที่คุ้นเคย บรูเอนอร์ แบทเทิลแฮมเมอร์ เดินขึ้นมาเหยียบหลังศัตรูที่นอนตาย โดยไม่สนว่ามอนสเตอร์ตัวใหญ่นั้นนอนทับเพื่อนเอลฟ์ของเขาอยู่ แม้จะหนักที่โดนทับแต่เมื่อได้เห็นจมูกชี้ที่มักจะหักบ่อย ๆ หนวดเคราสีแดงเพลิงที่ตอนนี้มีหงอกแซมก็เป็นภาพที่น่าดีใจแก่ดริซเมื่อได้เห็น "นึกแล้วเชียวว่าต้องทำเรื่องยุ่งยากทุกที่ที่ข้าออกมาตามหาเจ้าเนี่ย"
+
+> "มาสายนะเจ้าเอลฟ์!" มาพร้อมกับเสียงห้าวดังที่คุ้นเคย บรูเอนอร์ แบทเทิลแฮมเมอร์ เดินขึ้นมาเหยียบหลังศัตรูที่นอนตาย โดยไม่สนว่ามอนสเตอร์ตัวใหญ่นั้นนอนทับเพื่อนเอลฟ์ของเขาอยู่ แม้จะหนักที่โดนทับแต่เมื่อได้เห็นจมูกชี้ที่มักจะหักบ่อย ๆ หนวดเคราสีแดงเพลิงที่ตอนนี้มีหงอกแซมก็เป็นภาพที่น่าดีใจแก่ดริซเมื่อได้เห็น "นึกแล้วเชียวว่าต้องทำเรื่องยุ่งยากทุกที่ที่ข้าออกมาตามหาเจ้าเนี่ย"
 >
->— อาร์. เอ. ซัลวาทอร์, เดอะคริสตัลชาร์ด (The Crystal Shard)
+> — อาร์. เอ. ซัลวาทอร์, เดอะคริสตัลชาร์ด (The Crystal Shard)
 
 อาณาจักรสมบูรณ์ด้วยความสง่างามโอ่อ่า โถงอาคารแกะสลักเข้าไปใจกลางในขุนเขา เสียงสิ่วและค้อนกังวาลก้องในเหมืองลึกและโรงเหล็กไฟแดงฉาน ความตั้งมั่นในเผ่าและจารีต ความเกลียดชังก๊อบลินและอ็อคอย่างที่สุด สิ่งเหล่านี้ผูกพันชาวคนแคระทั้งมวลไว้
 
@@ -72,13 +80,13 @@
 
 > **นานกว่าจะเชื่อใจ**
 >
->คนแคระอยู่ร่วมกับเผ่าพันธุ์อื่นได้ดี "ความแตกต่างระหว่างคนรู้จักกับเพื่อนก็แค่เวลาไม่กี่ร้อยปีเอง" เป็นคำพูดที่มักจะได้ยิน แสดงให้เห็นว่ายากแค่ไหนที่คนแคระจะเป็นเพื่อนกับใครหรือทำให้คนแคระเชื่อใจได้
+> คนแคระอยู่ร่วมกับเผ่าพันธุ์อื่นได้ดี "ความแตกต่างระหว่างคนรู้จักกับเพื่อนก็แค่เวลาไม่กี่ร้อยปีเอง" เป็นคำพูดที่มักจะได้ยิน แสดงให้เห็นว่ายากแค่ไหนที่คนแคระจะเป็นเพื่อนกับใครหรือทำให้คนแคระเชื่อใจได้
 >
->เอลฟ์ "มันไม่ฉลาดเลยที่จะพึ่งเอลฟ์ บอกไม่ได้เลยว่าเอลฟ์จะทำอะไรต่อไป เมื่อค้อนไปกระทบหัวของออร์ค อาจจะเริ่มร้องเพลงพร้อมกับชักดาบออกมา พวกมันขี้เล่นและเปลี่ยนใจง่าย มีสองอย่างที่จะพูดได้ถึงพวกนี้: พวกเอลฟ์มีช่างตีเหล็กไม่มากนัก แต่ช่างฝีมือของพวกเขาทำงานได้ดีมาก และเมื่อออร์คหรือก็อบลินไหลลงมาจากภูเขา มันจะดีมากถ้ามีเอลฟ์อยู่กับเจ้าด้วยแค่อาจจะไม่ดีเท่าคนแคระ แต่ไม่ต้องสงสัยเลยว่าพวกนั้นเกลียดออร์คมากเท่ากับพวกเรา”
+> เอลฟ์ "มันไม่ฉลาดเลยที่จะพึ่งเอลฟ์ บอกไม่ได้เลยว่าเอลฟ์จะทำอะไรต่อไป เมื่อค้อนไปกระทบหัวของออร์ค อาจจะเริ่มร้องเพลงพร้อมกับชักดาบออกมา พวกมันขี้เล่นและเปลี่ยนใจง่าย มีสองอย่างที่จะพูดได้ถึงพวกนี้: พวกเอลฟ์มีช่างตีเหล็กไม่มากนัก แต่ช่างฝีมือของพวกเขาทำงานได้ดีมาก และเมื่อออร์คหรือก็อบลินไหลลงมาจากภูเขา มันจะดีมากถ้ามีเอลฟ์อยู่กับเจ้าด้วยแค่อาจจะไม่ดีเท่าคนแคระ แต่ไม่ต้องสงสัยเลยว่าพวกนั้นเกลียดออร์คมากเท่ากับพวกเรา”
 >
->ฮาล์ฟลิ่ง "แน่นอน พวกนั้นครื้นเครงดี แต่ชีให้ข้าเห็นหน่อยว่ามีฮีโร่ฮาล์ฟลิ่ง อาณาจักร กองทัพเกรียงไกร ไม่งั้นก็สมบัติที่สร้างขึ้นจากมือของพวกฮาล์ฟลิ่ง ไม่มีเลย แล้วแบบนี้จะไปจริงจังอะไรได้"
+> ฮาล์ฟลิ่ง "แน่นอน พวกนั้นครื้นเครงดี แต่ชีให้ข้าเห็นหน่อยว่ามีฮีโร่ฮาล์ฟลิ่ง อาณาจักร กองทัพเกรียงไกร ไม่งั้นก็สมบัติที่สร้างขึ้นจากมือของพวกฮาล์ฟลิ่ง ไม่มีเลย แล้วแบบนี้จะไปจริงจังอะไรได้"
 >
->มนุษย์ "เจ้าใช้เวลาทำความรู้จักกับมนุษย์ แล้วเผลอประเดี๋ยวเดียวเขาก็ตายไปแล้ว ถ้าโชคดีพวกเขาก็จะมีลูกมีเต้า มีลูกสาวหรือหลานสาว บางทีก็มีจิตใจดีเหมือนเธอ นั่นเป็นเวลาที่เจ้าจะมีเพื่อนเป็นมนุษย์ และก็มองพวกเขาจากไป พวกเขาจะออกไปผจญภัยตามหาสิ่งที่ต้องการ อาจจะไปลุยกับฝูงมังกรหรือชิงบัลลังก์อาณาจักร เจ้าต้องชื่นชมความมุ่งมั่นตั้งใจของพวกเขา แม้ว่ามันมักจะทำให้พวกเขาเจอแต่ปัญหาก็เถอะ"
+> มนุษย์ "เจ้าใช้เวลาทำความรู้จักกับมนุษย์ แล้วเผลอประเดี๋ยวเดียวเขาก็ตายไปแล้ว ถ้าโชคดีพวกเขาก็จะมีลูกมีเต้า มีลูกสาวหรือหลานสาว บางทีก็มีจิตใจดีเหมือนเธอ นั่นเป็นเวลาที่เจ้าจะมีเพื่อนเป็นมนุษย์ และก็มองพวกเขาจากไป พวกเขาจะออกไปผจญภัยตามหาสิ่งที่ต้องการ อาจจะไปลุยกับฝูงมังกรหรือชิงบัลลังก์อาณาจักร เจ้าต้องชื่นชมความมุ่งมั่นตั้งใจของพวกเขา แม้ว่ามันมักจะทำให้พวกเขาเจอแต่ปัญหาก็เถอะ"
 
 ### ชื่อของคนแคระ
 
@@ -91,6 +99,7 @@
 ชื่อเผ่า: บัลเดิร์ก, แบ็ทเทิลแฮมเมอร์, บราวนันวิล, แดนคิล, ไฟเออร์ฟอร์จ, ฟรอสเบียร์ด, โกรุน, โฮลเดอร์เฮก, ไอรอนฟิส, โลเดอร์, ลุทเกอร์, รุมนาไฮม์, สตราเคล์น, ทอร์รุน, อุนการ์ต
 
 ### คุณลักษณะของคนแคระ
+
 คนแคระของคุณมีความสามารถติดตัวหลายอย่างมาตั้งแต่เกิดและได้จากการฝึกฝนในเผ่า
 
 **คะแนนความสามารถเพิ่ม** คะแนนความอึด [Constitution] เพิ่มขึ้น 2 คะแนน
@@ -103,7 +112,7 @@
 
 **ดาร์กวิชัน** เพราะต้องอาศัยอยู่ใต้ดิน คุณมีการมองเห็นในที่มืดและที่แสงน้อย คุณสามารถมองเห็นได้ในที่แสงน้อยภายในระยะ 60 ฟุต มองเห็นเหมือนอยู่ในที่แสดงปกติ และมองในที่มืดเหมือนมองในที่แสงน้อย คุณไม่สามารถแยกสีได้ในความมืด มองเห็นได้เป็นแค่เฉดสีเทา
 
-**ความทนทานแบบชาวคนแคระ** คุณจะได้ทอยแอดแวนเทจ (advantage: ทอย d20 2 ลูก เอาแต้มมากสุด) เมื่อต้องทอยป้องกัน (saving throw) เวลาถูกพิษ และคุณจะมีความต้านทานพิษ (resistance: ลดความเสียหายครึ่งหนึ่ง) (อธิบายในบทที่ 9 "การต่อสู้") 
+**ความทนทานแบบชาวคนแคระ** คุณจะได้ทอยแอดแวนเทจ (advantage: ทอย d20 2 ลูก เอาแต้มมากสุด) เมื่อต้องทอยป้องกัน (saving throw) เวลาถูกพิษ และคุณจะมีความต้านทานพิษ (resistance: ลดความเสียหายครึ่งหนึ่ง) (อธิบายในบทที่ 9 "การต่อสู้")
 
 **การฝึกฝนการต่อสู้แบบคนแคระ** คุณมีความเชี่ยวชาญการใช้ขวานศึก [battleaxe], ขวานมือ [handaxe], ค้อนเบา [light hammer] และค้อนศึก [warhammer]
 
@@ -115,9 +124,9 @@
 
 **เผ่าย่อย** คนแคระมีเผ่าย่อย 2 เผ่าในโลกของ D&D คือคนแคระเชิงเขา [Hill dwarves] และคนแคระภูเขา [Mountain dwarves] เลือกได้จากสองเผ่านี้
 
->ดูเออการ์
+> ดูเออการ์
 >
->ในเมืองใต้โลกที่ชื่ออันเดอร์ดาร์กมีดูเออการ์อาศัยอยู่ หรือเรียกว่าคนแคระเทา หลังจากหลายศตวรรษที่ถูกจับและทรมานโดยพวกมายด์เฟลเยอร์ [mind flayers] พวกเขาก็ได้มีความสามารถทางเวทมนต์เกิดขึ้น เป็นความสามารถในการ [ล่องหน](./appendice-a.md#invisible) และขยายขนาดให้ใหญ่ได้ชั่วคราว
+> ในเมืองใต้โลกที่ชื่ออันเดอร์ดาร์กมีดูเออการ์อาศัยอยู่ หรือเรียกว่าคนแคระเทา หลังจากหลายศตวรรษที่ถูกจับและทรมานโดยพวกมายด์เฟลเยอร์ [mind flayers] พวกเขาก็ได้มีความสามารถทางเวทมนต์เกิดขึ้น เป็นความสามารถในการ [ล่องหน](./appendice-a.md#invisible) และขยายขนาดให้ใหญ่ได้ชั่วคราว
 
 ### <a name="hilldwarf">คนแคระเชิงเขา (Hill Dwarf)</a>
 
@@ -131,16 +140,17 @@
 
 เมื่อเป็นคนแคระภูเขา คุณจะแข็งแรงและอึดเพื่อให้ใช้ชีวิตอยู่ในในสภาพพื้นที่ที่มีอุปสรรค คุณจะสูงกว่าคนแคระทั่วไปและผิวสีอ่อนกว่า พวกคนแคระโล่ห์แห่งตอนเหนือของเฟรูน เช่นเดียวกับที่ปกครองเผ่าไฮลาร์และเผ่าเดวาในดรากอนแลนซ์ทั้งหมดเป็นคนแคระภูเขา
 
-**คะแนนความสามารถเพิ่ม** คะแนนความแข็งแกร่ง [Strength] เพิ่มขึ้น 2 
+**คะแนนความสามารถเพิ่ม** คะแนนความแข็งแกร่ง [Strength] เพิ่มขึ้น 2
 
 **การฝึกฝนด้านเกราะของคนแคระ** คุณมีความเชี่ยวชาญในการใช้เกาะอ่อนและเกราะขนาดกลาง (light and medium armor)
 
 ## <a name="elf">เอลฟ์</a>
->"ข้าไม่เคยนึกฝันเลยว่ามีสิ่งที่สวยงามขนาดนี้อยู่" โกลด์มูนเอ่ยอย่างแผ่วเบา หลังผ่านการเดินทางหลายวันอย่างยากลำบาก แต่รางวัลที่ได้นั้นเกินจินตนาการ คณะเดินทางยืนอยู่บนผาสูงกำลังมองไปที่เมืองมายาแห่งควาลินอสท์
+
+> "ข้าไม่เคยนึกฝันเลยว่ามีสิ่งที่สวยงามขนาดนี้อยู่" โกลด์มูนเอ่ยอย่างแผ่วเบา หลังผ่านการเดินทางหลายวันอย่างยากลำบาก แต่รางวัลที่ได้นั้นเกินจินตนาการ คณะเดินทางยืนอยู่บนผาสูงกำลังมองไปที่เมืองมายาแห่งควาลินอสท์
 >
->ยอดแหลมเรียวสี่ยอดโผล่ขึ้นมาจากมุมต่างๆ ของเมืองราวกับแกนหมุนที่วาววับ หินสีขาวสุกใสที่มีลายหินอ่อนสีเงินแวววาว ส่วนโค้งอันสง่างามโฉบจากยอดแหลมหนึ่งไปอีกยอดแหลมทะยานไปในอากาศ พวกมันสร้างขึ้นโดยช่างโลหะคนแคระโบราณ พวกมันแข็งแกร่งพอที่จะรับน้ำหนักของกองทัพได้ แต่พวกมันก็ดูบอบบางมากราวกับว่าหากนกบินมาเกาะอาจทำลายสมดุลได้ ซุ้มโค้งที่วาววับเหล่านี้เป็นเขตแดนเพียงแห่งเดียวของเมือง ไม่มีกำแพงล้อมรอบ ควาลินอสท์ เมืองเอลฟ์อ้าแขนออกสู่ถิ่นทุรกันดารด้วยความรัก
+> ยอดแหลมเรียวสี่ยอดโผล่ขึ้นมาจากมุมต่างๆ ของเมืองราวกับแกนหมุนที่วาววับ หินสีขาวสุกใสที่มีลายหินอ่อนสีเงินแวววาว ส่วนโค้งอันสง่างามโฉบจากยอดแหลมหนึ่งไปอีกยอดแหลมทะยานไปในอากาศ พวกมันสร้างขึ้นโดยช่างโลหะคนแคระโบราณ พวกมันแข็งแกร่งพอที่จะรับน้ำหนักของกองทัพได้ แต่พวกมันก็ดูบอบบางมากราวกับว่าหากนกบินมาเกาะอาจทำลายสมดุลได้ ซุ้มโค้งที่วาววับเหล่านี้เป็นเขตแดนเพียงแห่งเดียวของเมือง ไม่มีกำแพงล้อมรอบ ควาลินอสท์ เมืองเอลฟ์อ้าแขนออกสู่ถิ่นทุรกันดารด้วยความรัก
 >
->— มากาเร็ต เวส & เทรซี่ ฮิกแมน, มังกรแห่งยามสายันห์ในฤดูใบไม้ร่วง (Dragons of Authumn Twilight)
+> — มากาเร็ต เวส & เทรซี่ ฮิกแมน, มังกรแห่งยามสายันห์ในฤดูใบไม้ร่วง (Dragons of Authumn Twilight)
 
 เอลฟ์เป็นเผ่าพันธุ์วิเศษจากโลกอื่น อาศัยอยู่ในโลกนี้แต่ก็ไม่ได้เป็นส่วนหนึ่ง พวกเขาอาศัยอยู่ในสถานที่ที่วิจิตรสวยงาม ในป่าโบราณในม่านหมอกหรือในเมืองหอคอยแวววาวมีแสงของภูติ ที่ที่มีเสียงดนตรีเบา ๆ แว่วมาพร้อมกับกลิ่นไม้หอมลอยมาตามลม เอลฟ์รักธรรมชาติและเวทมนต์ ศิลปะและงานวิจิตรศิลป์ ดนตรีและงานปฏิมากรรม และสิ่งสวยงามใด ๆ ในโลก
 
@@ -151,29 +161,33 @@
 สีผิวของเอลฟ์มีโทนเดียวกับมนุษย์และยังมีเฉดทองแดง ทองเหลือง และบางครั้งก็สีฟ้าเหลือบขาว ผมสีเขียวหรือน้ำเงิน ดวงตาเหมือนเป็นบ่อทองคำหรือเงินเหลว เอลฟ์ไม่มีขนบนหน้าหรือตามตัว พวกเขาชื่นชอบเสื้อผ้าสีสดสว่าง ชอบเครื่องประดับที่เรียบง่ายแต่สวย
 
 ### มุมมองเหนือกาลเวลา
+
 เอลฟ์มีชีวิตอยู่ได้มากกว่า 700 ปี ทำให้พวกเขามีมุมมองต่อปัญหาต่าง ๆ ลึกซึ้งกว่าเผ่าพันธุ์อื่น ๆ พวกเขามักจะขบขันมากกว่าตื่นเต้นและมักจะขี้สงสัยมากกว่าจะโลภ พวกเขามักจากอยู่ห่าง ๆ และไม่สะทกสะท้านกับเหตุการณ์ที่เกิดขึ้น แต่เมื่อเป็นการไล่ตามเป้าหมายไม่ว่าจะเป็นการผจญภัยหรือการเรียนรู้ทักษะใหม่ เอลฟ์จะมีสมาธิสูงและพยายามอย่างไม่ลดละ พวกเอลฟ์จะมีเพื่อนและศัตรูได้ยาก และการลืมยิ่งยากกว่า พวกเขาตอบแทนการสบประมาทด้วยการเมินเฉยและตอบแทนการดูหมิ่นด้วยการล้างแค้น
 
 เหมือนกิ่งของต้นไม้วัยอ่อน เอลฟ์ยืดหยุ่นเมื่อพบเจอกับอันตราย พวกเขาเชื่อในวิธีการทูตการเจรจาในการแก้ไขข้อขัดแย้งมากกว่าจะตรงเข้าสู่ความรุนแรง เป็นที่รู้กันว่าพวกเขาจะล่าถอยจากการถูกบุกรุกเข้าไปในบ้านในป่าลึก รอให้ผู้บุกรุกจากไปเงียบ ๆ แต่หากพวกเขาต้องบุกโจมตี เอลฟ์จะแสดงความสามารถด้านการต่อสู้ ทักษะการใช้ดาบและธนูรวมถึงการวางแผนอย่างยอดเยี่ยม
 
 ### อาณาจักรลับแลในป่าลึก
+
 เอลฟ์ส่วนใหญ่จะอาศัยในหมู่บ้านในป่า ซ่อนตัวอยู่กับต้นไม้ เอลฟ์จะล่าสัตว์ หาอาหาร และปลูกพืชผัก ทักษะและเวทมนต์ทำให้พวกเขาสามารถทำการเพาะปลูกได้โดยไม่ต้องไถพรวนพื้นดิน พวกเขาเป็นช่างฝีมือเก่งด้านงานแกะสลัก การตัดเย็บและสร้างงานศิลปะ ปกติแล้วจะไม่ค่อยติดต่อกับคนภายนอก แต่เอลฟ์บางคนก็เอางานฝีมือไปขายแลกกับโลหะบ้าง (เพราะพวกเขาไม่ทำงานเหมือง)
 
 เอลฟ์ที่มักจะพบเจอได้นอกเขตแดนของพวกเขามักจะเป็นพ่อค้าเร่ ศิลปิน หรือนักปราชญ์ พวกมนุษย์ชนชั้นสูงมักจะแข่งกันจ้างเอลฟ์มาสอนการต่อสู้หรือเวทมนต์ให้กับลูกหลาน
 
 ### การท่องโลกและผจญภัย
+
 เอลฟ์อาจจะออกผจญภัยด้วยเหตุผลแค่เพียงอยากออกไปท่องเที่ยว เพราะพวกเขามีอายุยืนนานมาก ก็อาจจะหาความสุขจากการสำรวจและค้นพบสิ่งต่าง ๆ พวกเขาไม่ชอบความหวือหวาของสังคมมนุษย์ที่เคลื่อนไปวันต่อวันและเปลี่ยนแปลงไปในระยะเวลาแค่ช่วงสิบปี พวกเขาเลยเลือกงานที่จะทำให้ได้เดินทางอย่างอิสระไม่ขึ้นกับใคร เอลฟ์พึงพอใจในการฝึกฝนความสามารถในการต่อสู้และการได้รับพลังเวทย์มนต์เพิ่มขึ้น และการท่องเที่ยวผจญภัยก็ทำให้เขาได้สิ่งเหล่านั้น บางคนก็ไปเข้าร่วมกับคณะปฏิวัติต่อสู้กับผู้กดขี่ และบางคนก็กลายเป็นฮีโร่ด้วยเหตุผลทางจริยธรรม
 
->หยิ่งแต่มีน้ำใจ
+> หยิ่งแต่มีน้ำใจ
 >
->แม้ว่าพวกเขาจะดูเย่อหยิ่งแต่เอลฟ์ก็มักจะมีน้ำใจกับคนที่แม้จะไม่ถึงมาตรฐาน ซึ่งก็คือทุกคนที่ไม่ใช่เอลฟ์ แต่กระนั้นพวกเขาก็ยังมองแต่แง่ดีของทุกคน
+> แม้ว่าพวกเขาจะดูเย่อหยิ่งแต่เอลฟ์ก็มักจะมีน้ำใจกับคนที่แม้จะไม่ถึงมาตรฐาน ซึ่งก็คือทุกคนที่ไม่ใช่เอลฟ์ แต่กระนั้นพวกเขาก็ยังมองแต่แง่ดีของทุกคน
 >
->คนแคระ "พวกคนแคระดูทึ่ม เงอะงะ แต่สิ่งที่พวกเขาขาดไปไม่ว่าจะเป็นอารมณ์ขัน ความซับซ้อนและมารยาท พวกเขาชดเชยได้หมดด้วยความกล้าหาญ และข้าต้องยอมรับว่า งานโลหะของพวกเขาคุณภาพดีเยี่ยมแทบจะดีเท่ากับของชาวเอลฟ์เลยทีเดียว"
+> คนแคระ "พวกคนแคระดูทึ่ม เงอะงะ แต่สิ่งที่พวกเขาขาดไปไม่ว่าจะเป็นอารมณ์ขัน ความซับซ้อนและมารยาท พวกเขาชดเชยได้หมดด้วยความกล้าหาญ และข้าต้องยอมรับว่า งานโลหะของพวกเขาคุณภาพดีเยี่ยมแทบจะดีเท่ากับของชาวเอลฟ์เลยทีเดียว"
 >
->ฮาล์ฟลิ่ง "ฮาล์ฟลิ่งเป็นคนที่มีความสุขได้ง่าย ๆ และนั่นก็ไม่ใช้คำดูแคลน พวกเขาเป็นคนดี ดูและพวกพ้องและดูแลสวน และพวกเขาก็พิสูจน์แล้วว่าเข้มแข็งกว่าที่คิดเมื่อถึงยามจำเป็น"
+> ฮาล์ฟลิ่ง "ฮาล์ฟลิ่งเป็นคนที่มีความสุขได้ง่าย ๆ และนั่นก็ไม่ใช้คำดูแคลน พวกเขาเป็นคนดี ดูและพวกพ้องและดูแลสวน และพวกเขาก็พิสูจน์แล้วว่าเข้มแข็งกว่าที่คิดเมื่อถึงยามจำเป็น"
 >
->มนุษย์ "มีแต่ความเร่งรีบ ความทะเยอทะยานและความต้องการจะทำบางสิ่งให้สำเร็จก่อนที่ชีวิตอันแสนสั้นจะจบไป ทำให้มนุษย์มีสีสันในบางครั้ง แต่เมื่อดูสิ่งที่พวกเขาทำสำเร็จ เจ้าจะรู้สึกทึ่งได้เลยในความสำเร็จนั้น ถ้าเพียงแค่พวกเขาช้าลงและเรียนรู้การขัดเกลาชีวิตบ้าง
+> มนุษย์ "มีแต่ความเร่งรีบ ความทะเยอทะยานและความต้องการจะทำบางสิ่งให้สำเร็จก่อนที่ชีวิตอันแสนสั้นจะจบไป ทำให้มนุษย์มีสีสันในบางครั้ง แต่เมื่อดูสิ่งที่พวกเขาทำสำเร็จ เจ้าจะรู้สึกทึ่งได้เลยในความสำเร็จนั้น ถ้าเพียงแค่พวกเขาช้าลงและเรียนรู้การขัดเกลาชีวิตบ้าง
 
 ### ชื่อของเอลฟ์
+
 เอลฟ์ถือว่าเป็นเด็กจนกระทั่งพวกเขาประกาศตัวว่าเป็นผู้ใหญ่ บางครั้งก็หลังจากวันเกิดปีที่ 100 ก่อนที่จะถึงจุดนี้พวกเขาจะถูกเรียกด้วยชื่อจากวัยเด็ก
 
 ในการประกาศการเป็นผู้ใหญ่ เอลฟ์จะเลือกชื่อใหม่ แม้คนรู้จักอาจจะยังเรียกด้วยชื่อในตอนเด็กอยู่ แต่ละชื่อจะเป็นการสร้างให้เป็นชื่อเฉพาะ อาจะเป็นการให้เกียรติบุคคลหรือสมาชิกในครอบครัว ชื่อชายกับหญิงไม่ค่อยแตกต่างกันนัก รายการด้านล่างนี้เป็นส่วนหนึ่งของชื่อทั่วไป นอกจากนั้นเอลฟ์ทุกคนยังมีชื่อสกุล โดยทั่วไปจะเป็นการรวมกับศัพท์เอลฟ์อื่น ๆ เอลฟ์บางคนที่เดินทางร่วมกับมนุษย์จะแปลชื่อสกุลเป็นภาษากลาง แต่บางคนก็ใช้ชื่อปกติ
@@ -187,6 +201,7 @@
 **ชื่อสกุล (แปลภาษากลาง)** อามาเคอ (Gemflower: เจมฟลาวเวอร์), อามาสเตเชีย (Starflower: สตาร์ฟลาวเวอร์), กาลาโนเดล (Moonwhisper: มูนวิสเปอร์), โฮลิเมียน (Diamonddew: ไดมอนดิว), อิลเฟลเคอร์ (Gemblossom: เจมบลอสซั่ม), ลิอาดอน (Silverfrond: ซิลเวอร์ฟรอนด์), เมเลียมเน (Oakenheel: โอเคนฮีล), ไนโล (Nightbreeze: ไนท์บรีซ), ชิแอนโนเดล (Moonbrook: มูนบรูค), ไซโลเซียน (Goldptal: โกลด์เพตัล)
 
 ### คุณลักษณะของเอลฟ์
+
 เอลฟ์ของคุณมีความสามารถหลากหลายตามธรรมชาติ เป็นผลจากการดำรงอยู่มาหลายพันปี
 
 **คะแนนความสามารถเพิ่ม** คะแนนความว่องไว (Dexterity) เพิ่มขึ้น 2
@@ -207,7 +222,7 @@
 
 **ภาษา** คุณสามารถพูด อ่าน และเขียนภาษากลาง [Common: คอมมอน] และภาษาเอลฟ์ [Elvish: เอลวิช] ภาษาเอลฟ์มีความลื่นไหล พร้อมด้วยน้ำเสียงที่ละเอียดอ่อนและไวยากรณ์ที่สลับซับซ้อน วรรณกรรมของเอลฟ์มีมากมายและหลากหลาย เพลงและบทกวีของพวกเขามีชื่อเสียงในหมู่เผ่าพันธุ์อื่นๆ กวีหลายคนเรียนรู้ภาษาเอลฟ์เพื่อที่จะสามารถเพิ่มเพลงบัลลาดของเอลฟ์เข้าไปในรายการเพลงของพวกเขาได้
 
-**เผ่าพันธุ์ย่อย** การแบ่งแยกจากครั้งโบราณทำให้เก็บเผ่าย่อย 3 เผ่า ไฮเอลฟ์ (high elves), เอลฟ์ป่า (wood elves) และดาร์กเอลฟ์ (drow: ดราว) เลือกหนึ่งในเผ่าย่อย 3 เผ่านี้ ในโลกอื่นเผ่าย่อยนี้อาจจะแบ่งได้มากกว่านี้ (เช่นเอลฟ์ทิวาและเอลฟ์จันทราในโลกของฟอร์ก็อทเทนเรียมส์) ดังนั้นถ้าคุณต้องการคุณก็สามารถเลือกจากเผ่าย่อยเหล่านี้ได้ 
+**เผ่าพันธุ์ย่อย** การแบ่งแยกจากครั้งโบราณทำให้เก็บเผ่าย่อย 3 เผ่า ไฮเอลฟ์ (high elves), เอลฟ์ป่า (wood elves) และดาร์กเอลฟ์ (drow: ดราว) เลือกหนึ่งในเผ่าย่อย 3 เผ่านี้ ในโลกอื่นเผ่าย่อยนี้อาจจะแบ่งได้มากกว่านี้ (เช่นเอลฟ์ทิวาและเอลฟ์จันทราในโลกของฟอร์ก็อทเทนเรียมส์) ดังนั้นถ้าคุณต้องการคุณก็สามารถเลือกจากเผ่าย่อยเหล่านี้ได้
 
 ### <a name="highelf">ไฮเอลฟ์ - High Elf</a>
 
@@ -217,8 +232,6 @@
 
 **คะแนนความสามารถเพิ่ม** คะแนนความฉลาด (Intelligence) เพิ่มขึ้น 1
 
-Elf Weapon Training. You have proficiency with the longsword, shortsword, shortbow, and longbow.
-
 **การฝึกฝนด้านอาวุธเอลฟ์** คุณมีความเชี่ยวชาญในการใช้ดาบยาว [longsword: ลองซอร์ด], ดาบสั้น [shortsword: ช็อตซอร์ด], ธนูสั้น [shortbow: ช็อตโบว] และธนูยาว [longbow: ลองโบว]
 
 **แคนทริพ** คุณสามารถใช้เวทอย่างง่ายจากรายการเวทของวิซาร์ด (wizard) ได้ 1 ชนิด คุณจะใช้คะแนนความฉลาด (Intelligence) เป็นพื้นฐานความสามารถในการใช้เวท
@@ -226,6 +239,7 @@ Elf Weapon Training. You have proficiency with the longsword, shortsword, shortb
 **รู้หลากภาษา** คุณสามารถพูด อ่าน และเขียนได้เพิ่มอีก 1 ภาษา
 
 ### <a name="woodelf">วู้ดเอลฟ์ - Wood Elf</a>
+
 เมื่อเป็นวู้ดเอลฟ์ คุณจะมีสัมผัสที่เฉียบคมและความรอบรู้ คุณเคลื่อนไหวได้อย่างว่องไวและลอบเร้นในพื้นที่ป่าที่เป็นเสมือนบ้านของคุณ กลุ่มนี้รวมถึงเอลฟ์ป่า [wild elves: ไวด์เอลฟ์] (กรูกัค) แห่งเกรย์ฮอว์ค และคาโกเนสติในดรากอนแลนซ์ รวมถึงที่เรียกชื่อเดียวกันในเกรย์ฮอว์คและฟอร์ก็อทเท็นเรียมส์ ในเฟรูนนั้น วู้ดเอลฟ์ (บ้างเรียกไวด์เอลฟ์ กรีนเอลฟ์หรือฟอเรสเอลฟ์) เป็นพวกสันโดษและไม่ได้รับความเชื่อถือจากเผ่าพันธุ์อื่น ๆ
 
 ผิวของวู้ดเอลฟ์เป็นโทนทองแดง บางครั้งมีเหลือบสีเขียว ผมมักจะสีน้ำตาลหรือดำแต่บางครั้งก็มีสีบรอนด์หรือสีทองแดงด้วย ดวงตาสีเขียว น้ำตาลหรือสีลูกเฮเซล
@@ -255,13 +269,15 @@ Elf Weapon Training. You have proficiency with the longsword, shortsword, shortb
 **การฝึกฝนอาวุธของดราว** คุณเชี่ยวชาญการใช้เรเปีย (rapiers), ดาบสั้น [shortsword: ช็อตซอร์ด], และครอสโบวมือ [hand crossbows: แฮนด์ครอสโบว]
 
 ## <a name="halfling">Halfling</a>
->Regis the halfling, the only one of his kind for hundreds of miles in any direction, locked his fingers behind his head and leaned back against the mossy blanket of the tree trunk. Regis was short, even by the standards of his diminutive race, with the fluff of his curly brown locks barely cresting the three-foot mark, but his belly was amply thickened by his love of a good meal, or several, as the opportunities presented themselves. The crooked stick that served as his fishing pole rose up above him, clenched between two of his toes, and hung out over the quiet lake, mirrored perfectly in the glassy surface of Maer Dualdon.
+
+> Regis the halfling, the only one of his kind for hundreds of miles in any direction, locked his fingers behind his head and leaned back against the mossy blanket of the tree trunk. Regis was short, even by the standards of his diminutive race, with the fluff of his curly brown locks barely cresting the three-foot mark, but his belly was amply thickened by his love of a good meal, or several, as the opportunities presented themselves. The crooked stick that served as his fishing pole rose up above him, clenched between two of his toes, and hung out over the quiet lake, mirrored perfectly in the glassy surface of Maer Dualdon.
 >
->— R.A. Salvatore, The Crystal Shard
+> — R.A. Salvatore, The Crystal Shard
 
 The comforts of home are the goals of most halflings’ lives: a place to settle in peace and quiet, far from marauding monsters and clashing armies; a blazing fire and a generous meal; fine drink and fine conversation. Though some halflings live out their days in remote agricultural communities, others form nomadic bands that travel constantly, lured by the open road and the wide horizon to discover the wonders of new lands and peoples. But even these wanderers love peace, food, hearth, and home, though home might be a wagon jostling along an dirt road or a raft floating downriver.
 
 ### Small and Practical
+
 The diminutive halflings survive in a world full of larger creatures by avoiding notice or, barring that, avoiding offense. Standing about 3 feet tall, they appear relatively harmless and so have managed to survive for centuries in the shadow of empires and on the edges of wars and political strife. They are inclined to be stout, weighing between 40 and 45 pounds.
 
 Halflings’ skin ranges from tan to pale with a ruddy cast, and their hair is usually brown or sandy brown and wavy. They have brown or hazel eyes. Halfling men often sport long sideburns, but beards are rare among them and mustaches even more so. They like to wear simple, comfortable, and practical clothes, favoring bright colors.
@@ -269,34 +285,39 @@ Halflings’ skin ranges from tan to pale with a ruddy cast, and their hair is u
 Halfling practicality extends beyond their clothing. They’re concerned with basic needs and simple pleasures and have little use for ostentation. Even the wealthiest of halflings keep their treasures locked in a cellar rather than on display for all to see. They have a knack for finding the most straightforward solution to a problem, and have little patience for dithering.
 
 ### Kind and Curious
+
 Halflings are an affable and cheerful people. They cherish the bonds of family and friendship as well as the comforts of hearth and home, harboring few dreams of gold or glory. Even adventurers among them usually venture into the world for reasons of community, friendship, wanderlust, or curiosity. They love discovering new things, even simple things, such as an exotic food or an unfamiliar style of clothing.
 
 Halflings are easily moved to pity and hate to see any living thing suffer. They are generous, happily sharing what they have even in lean times.
 
 ### Blend into the Crowd
+
 Halflings are adept at fitting into a community of humans, dwarves, or elves, making themselves valuable and welcome. The combination of their inherent stealth and their unassuming nature helps halflings to avoid unwanted attention.
 
 Halflings work readily with others, and they are loyal to their friends, whether halfling or otherwise. They can display remarkable ferocity when their friends, families, or communities are threatened.
 
 ### Pastoral Pleasantries
+
 Most halflings live in small, peaceful communities with large farms and well-kept groves. They rarely build kingdoms of their own or even hold much land beyond their quiet shires. They typically don’t recognize any sort of halfling nobility or royalty, instead looking to family elders to guide them. Families preserve their traditional ways despite the rise and fall of empires.
 
 Many halflings live among other races, where the halflings’ hard work and loyal outlook offer them abundant rewards and creature comforts. Some halfling communities travel as a way of life, driving wagons or guiding boats from place to place and maintaining no permanent home.
 
 ### Exploring Opportunities
+
 Halflings usually set out on the adventurer’s path to defend their communities, support their friends, or explore a wide and wonder-filled world. For them, adventuring is less a career than an opportunity or sometimes a necessity.
 
->AFFABLE AND POSITIVE
+> AFFABLE AND POSITIVE
 >
->Halflings try to get along with everyone else and are loath to make sweeping generalizations — especially negative ones.
+> Halflings try to get along with everyone else and are loath to make sweeping generalizations — especially negative ones.
 >
->Dwarves. “Dwarves make loyal friends, and you can count on them to keep their word. But would it hurt them to smile once in a while?”
+> Dwarves. “Dwarves make loyal friends, and you can count on them to keep their word. But would it hurt them to smile once in a while?”
 >
->Elves. “They’re so beautiful! Their faces, their music, their grace and all. It’s like they stepped out of a wonderful dream. But there’s no telling what’s going on behind their smiling faces — surely more than they ever let on.”
+> Elves. “They’re so beautiful! Their faces, their music, their grace and all. It’s like they stepped out of a wonderful dream. But there’s no telling what’s going on behind their smiling faces — surely more than they ever let on.”
 >
->Humans. “Humans are a lot like us, really. At least some of them are. Step out of the castles and keeps, go talk to the farmers and herders and you’ll find good, solid folk. Not that there’s anything wrong with the barons and soldiers — you have to admire their conviction. And by protecting their own lands, they protect us as well.”
+> Humans. “Humans are a lot like us, really. At least some of them are. Step out of the castles and keeps, go talk to the farmers and herders and you’ll find good, solid folk. Not that there’s anything wrong with the barons and soldiers — you have to admire their conviction. And by protecting their own lands, they protect us as well.”
 
 ### Halfling Names
+
 A halfling has a given name, a family name, and possibly a nickname. Family names are often nicknames that stuck so tenaciously they have been passed down through the generations.
 
 Male Names: Alton, Ander, Cade, Corrin, Eldon, Errich, Finnan, Garret, Lindal, Lyle, Merric, Milo, Osborn, Perrin, Reed, Roscoe, Wellby
@@ -306,6 +327,7 @@ Female Names: Andry, Bree, Callie, Cora, Euphemia, Jillian, Kithri, Lavinia, Lid
 Family Names: Brushgather, Goodbarrel, Greenbottle, High-hill, Hilltopple, Leagallow, Tealeaf, Thorngage, Tosscobble, Underbough
 
 ### Halfling Traits
+
 Your halfling character has a number of traits in common with all other halflings.
 
 Ability Score Increase. Your Dexterity score increases by 2.
@@ -327,6 +349,7 @@ Languages. You can speak, read, and write Common and Halfling. The Halfling lang
 Subrace. The two main kinds of halfling, lightfoot and stout, are more like closely related families than true subraces. Choose one of these subraces.
 
 ### <a name="lightfoot">Lightfoot</a>
+
 As a lightfoot halfling, you can easily hide from notice, even using other people as cover. You’re inclined to be affable and get along well with others. In the Forgotten Realms, lightfoot halflings have spread the farthest and thus are the most common variety.
 
 Lightfoots are more prone to wanderlust than other halflings, and often dwell alongside other races or take up a nomadic life. In the world of Greyhawk, these halflings are called hairfeet or tallfellows.
@@ -336,6 +359,7 @@ Ability Score Increase. Your Charisma score increases by 1.
 Naturally Stealthy. You can attempt to hide even when you are obscured only by a creature that is at least one size larger than you.
 
 ### <a name="stout">Stout</a>
+
 As a stout halfling, you’re hardier than average and have some resistance to poison. Some say that stouts have dwarven blood. In the Forgotten Realms, these halflings are called stronghearts, and they’re most common in the south.
 
 Ability Score Increase. Your Constitution score increases by 1.
@@ -343,15 +367,17 @@ Ability Score Increase. Your Constitution score increases by 1.
 Stout Resilience. You have advantage on saving throws against poison, and you have resistance against poison damage.
 
 ## <a name="human">Human</a>
->These were the stories of a restless people who long ago took to the seas and rivers in longboats, first to pillage and terrorize, then to settle. Yet there was an energy, a love of adventure, that sang from every page. Long into the night Liriel read, lighting candle after precious candle.
+
+> These were the stories of a restless people who long ago took to the seas and rivers in longboats, first to pillage and terrorize, then to settle. Yet there was an energy, a love of adventure, that sang from every page. Long into the night Liriel read, lighting candle after precious candle.
 >
->She’d never given much thought to humans, but these stories fascinated her. In these yellowed pages were tales of bold heroes, strange and fierce animals, mighty primitive gods, and a magic that was part and fabric of that distant land.
+> She’d never given much thought to humans, but these stories fascinated her. In these yellowed pages were tales of bold heroes, strange and fierce animals, mighty primitive gods, and a magic that was part and fabric of that distant land.
 >
->— Elaine Cunningham, Daughter of the Drow
+> — Elaine Cunningham, Daughter of the Drow
 
 In the reckonings of most worlds, humans are the youngest of the common races, late to arrive on the world scene and short-lived in comparison to dwarves, elves, and dragons. Perhaps it is because of their shorter lives that they strive to achieve as much as they can in the years they are given. Or maybe they feel they have something to prove to the elder races, and that’s why they build their mighty empires on the foundation of conquest and trade. Whatever drives them, humans are the innovators, the achievers, and the pioneers of the worlds.
 
 ### A Broad Spectrum
+
 With their penchant for migration and conquest, humans are more physically diverse than other common races. There is no typical human. An individual can stand from 5 feet to a little over 6 feet tall and weigh from 125 to 250 pounds. Human skin shades range from nearly black to very pale, and hair colors from black to blond (curly, kinky, or straight); males might sport facial hair that is sparse or thick. A lot of humans have a dash of nonhuman blood, revealing hints of elf, orc, or other lineages. Humans reach adulthood in their late teens and rarely live even a single century.
 
 ### Variety in All Things
@@ -359,24 +385,27 @@ With their penchant for migration and conquest, humans are more physically diver
 Humans are the most adaptable and ambitious people among the common races. They have widely varying tastes, morals, and customs in the many different lands where they have settled. When they settle, though, they stay: they build cities to last for the ages, and great kingdoms that can persist for long centuries. An individual human might have a relatively short life span, but a human nation or culture preserves traditions with origins far beyond the reach of any single human’s memory. They live fully in the present — making them well suited to the adventuring life — but also plan for the future, striving to leave a lasting legacy. Individually and as a group, humans are adaptable opportunists, and they stay alert to changing political and social dynamics.
 
 ### Lasting Institutions
+
 Where a single elf or dwarf might take on the responsibility of guarding a special location or a powerful secret, humans found sacred orders and institutions for such purposes. While dwarf clans and halfling elders pass on the ancient traditions to each new generation, human temples, governments, libraries, and codes of law fix their traditions in the bedrock of history. Humans dream of immortality, but (except for those few who seek undeath or divine ascension to escape death’s clutches) they achieve it by ensuring that they will be remembered when they are gone.
 
 Although some humans can be xenophobic, in general their societies are inclusive. Human lands welcome large numbers of nonhumans compared to the proportion of humans who live in nonhuman lands.
 
 ### Exemplars of Ambition
+
 Humans who seek adventure are the most daring and ambitious members of a daring and ambitious race. They seek to earn glory in the eyes of their fellows by amassing power, wealth, and fame. More than other people, humans champion causes rather than territories or groups.
 
->EVERYONE'S SECOND-BEST FRIENDS
+> EVERYONE'S SECOND-BEST FRIENDS
 >
->Just as readily as they mix with each other, humans mingle with members of other races. They get along with almost everyone, though they might not be close to many. Humans serve as ambassadors, diplomats, magistrates, merchants, and functionaries of all kinds.
+> Just as readily as they mix with each other, humans mingle with members of other races. They get along with almost everyone, though they might not be close to many. Humans serve as ambassadors, diplomats, magistrates, merchants, and functionaries of all kinds.
 >
->Dwarves. “They’re stout folk, stalwart friends, and true to their word. Their greed for gold is their downfall, though.”
+> Dwarves. “They’re stout folk, stalwart friends, and true to their word. Their greed for gold is their downfall, though.”
 >
->Elves. “It’s best not to wander into elven woods. They don’t like intruders, and you’ll as likely be bewitched as peppered with arrows. Still, if an elf can get past that damned racial pride and actually treat you like an equal, you can learn a lot from them.”
+> Elves. “It’s best not to wander into elven woods. They don’t like intruders, and you’ll as likely be bewitched as peppered with arrows. Still, if an elf can get past that damned racial pride and actually treat you like an equal, you can learn a lot from them.”
 >
->Halflings. “It’s hard to beat a meal in a halfling home, as long as you don’t crack your head on the ceiling—good food and good stories in front of a nice, warm fire. If halflings had a shred of ambition, they might really amount to something.”
+> Halflings. “It’s hard to beat a meal in a halfling home, as long as you don’t crack your head on the ceiling—good food and good stories in front of a nice, warm fire. If halflings had a shred of ambition, they might really amount to something.”
 
 ### Human Names and Ethnicities
+
 Having so much more variety than other cultures, humans as a whole have no typical names. Some human parents give their children names from other languages, such as Dwarvish or Elvish (pronounced more or less correctly), but most parents give names that are linked to their region’s culture or to the naming traditions of their ancestors.
 
 The material culture and physical characteristics of humans can change wildly from region to region. In the Forgotten Realms, for example, the clothing, architecture, cuisine, music, and literature are different in the northwestern lands of the Silver Marches than in distant Turmish or Impiltur to the east — and even more distinctive in far-off Kara-Tur. Human physical characteristics, though, vary according to the ancient migrations of the earliest humans, so that the humans of the Silver Marches have every possible variation of coloration and features.
@@ -426,17 +455,18 @@ Native to the southern shore of the Inner Sea, the Turami people are generally t
 
 Turami Names: (Male) Anton, Diero, Marcon, Pieron, Rimardo, Romero, Salazar, Umbero; (female) Balama, Dona, Faila, Jalana, Luisa, Marta, Quara, Selise, Vonda; (surnames) Agosto, Astorio, Calabra, Domine, Falone, Marivaldi, Pisacar, Ramondo
 
->VARIANT HUMAN TRAITS
+> VARIANT HUMAN TRAITS
 >
->If your campaign uses the optional feat rules from chapter 6, your Dungeon Master might allow these variant traits, all of which replace the human’s Ability Score Increase trait.
+> If your campaign uses the optional feat rules from chapter 6, your Dungeon Master might allow these variant traits, all of which replace the human’s Ability Score Increase trait.
 >
->Ability Score Increase. Two different ability scores of your choice increase by 1.
+> Ability Score Increase. Two different ability scores of your choice increase by 1.
 >
->Skills. You gain proficiency in one skill of your choice.
+> Skills. You gain proficiency in one skill of your choice.
 >
->Feat. You gain one feat of your choice.
+> Feat. You gain one feat of your choice.
 
 ### Human Traits
+
 It’s hard to make generalizations about humans, but your human character has these traits.
 
 Ability Score Increase. Your ability scores each increase by 1.
@@ -449,41 +479,342 @@ Speed. Your base walking speed is 30 feet.
 
 Languages. You can speak, read, and write Common and one extra language of your choice. Humans typically learn the languages of other peoples they deal with, including obscure dialects. They are fond of sprinkling their speech with words borrowed from other tongues: Orc curses, Elvish musical expressions, Dwarvish military phrases, and so on.
 
->UNCOMMON RACES
+> UNCOMMON RACES
 >
->The dragonborn and the rest of the races in this chapter are uncommon. They don’t exist in every world of D&D, and even where they are found, they are less widespread than dwarves, elves, halflings, and humans.
+> The dragonborn and the rest of the races in this chapter are uncommon. They don’t exist in every world of D&D, and even where they are found, they are less widespread than dwarves, elves, halflings, and humans.
 >
->In the cosmopolitan cities of the D&D multiverse, most people hardly look twice at folk they interact with. But the small towns and villages that dot the countryside are different. The common folk aren’t accustomed to seeing members of these races, and they often react with curiosity, wariness, or wonder.
+> In the cosmopolitan cities of the D&D multiverse, most people hardly look twice at folk they interact with. But the small towns and villages that dot the countryside are different. The common folk aren’t accustomed to seeing members of these races, and they often react with curiosity, wariness, or wonder.
 
 ## <a name="dragonborn">Dragonborn</a>
+
+> Her father stood on the first of the three stairs that led down from the portal, unmoving. The scales of his face had grown paler around the edges, but Clanless Mehen still looked as if he could wrestle down a dire bear himself. His familiar well-worn armor was gone, replaced by violet-tinted scale armor with bright silvery tracings. There was a blazon on his arm as well, the mark of some foreign house. The sword at his back was the same, though, the one he had carried since even before he had found the twins left in swaddling at the gates of Arush Vayem.
+>
+> For all her life, Farideh had known that reading her father’s face was a skill she’d been fortunate to learn. A human who couldn’t spot the shift of her eyes or Havilar’s would certainly see only the indifference of a dragon in Clanless Mehen’s face. But the shift of scales, the arch of a ridge, the set of his eyes, the gape of his teeth — her father’s face spoke volumes.
+>
+> But every scale of it, this time, seemed completely still — the indifference of a dragon, even to Farideh.
+>
+> — Erin M. Evans, The Adversary
+
+Born of dragons, as their name proclaims, the dragonborn walk proudly through a world that greets them with fearful incomprehension. Shaped by draconic gods or the dragons themselves, dragonborn originally hatched from dragon eggs as a unique race, combining the best attributes of dragons and humanoids. Some dragonborn are faithful servants to true dragons, others form the ranks of soldiers in great wars, and still others find themselves adrift, with no clear calling in life.
+
 ### Proud Dragon Kin
+
+Dragonborn look very much like dragons standing erect in humanoid form, though they lack wings or a tail. The first dragonborn had scales of vibrant hues matching the colors of their dragon kin, but generations of interbreeding have created a more uniform appearance. Their small, fine scales are usually brass or bronze in color, sometimes ranging to scarlet, rust, gold, or copper-green. They are tall and strongly built, often standing close to 6½ feet tall and weighing 300 pounds or more. Their hands and feet are strong, talonlike claws with three fingers and a thumb on each hand.
+
+The blood of a particular type of dragon runs very strong through some dragonborn clans. These dragonborn often boast scales that more closely match those of their dragon ancestor — bright red, green, blue, or white, lustrous black, or gleaming metallic gold, silver, brass, copper, or bronze.
+
 ### Self-Sufficient Clans
+
+To any dragonborn, the clan is more important than life itself. Dragonborn owe their devotion and respect to their clan above all else, even the gods. Each dragonborn’s conduct reflects on the honor of his or her clan, and bringing dishonor to the clan can result in expulsion and exile. Each dragonborn knows his or her station and duties within the clan, and honor demands maintaining the bounds of that position.
+
+A continual drive for self-improvement reflects the self-sufficiency of the race as a whole. Dragonborn value skill and excellence in all endeavors. They hate to fail, and they push themselves to extreme efforts before they give up on something. A dragonborn holds mastery of a particular skill as a lifetime goal. Members of other races who share the same commitment find it easy to earn the respect of a dragonborn.
+
+Though all dragonborn strive to be self-sufficient, they recognize that help is sometimes needed in difficult situations. But the best source for such help is the clan, and when a clan needs help, it turns to another dragonborn clan before seeking aid from other races — or even from the gods.
+
+> DRACONIANS
+>
+> In the Dragonlance setting, the followers of the evil goddess Takhisis learned a dark ritual that let them corrupt the eggs of metallic dragons, producing evil dragonborn called draconians. Five types of draconians, corresponding to the five types of metallic dragons, fought for Takhisis in the War of the Lance: auraks (gold), baaz (brass), bozak (bronze), kapak (copper), and sivak (silver). In place of their draconic breath weapons, they have unique magical abilities.
+
 ### Dragonborn Names
+
+Dragonborn have personal names given at birth, but they put their clan names first as a mark of honor. A childhood name or nickname is often used among clutchmates as a descriptive term or a term of endearment. The name might recall an event or center on a habit.
+
+Male Names: Arjhan, Balasar, Bharash, Donaar, Ghesh, Heskan, Kriv, Medrash, Mehen, Nadarr, Pandjed, Patrin, Rhogar, Shamash, Shedinn, Tarhun, Torinn
+
+Female Names: Akra, Biri, Daar, Farideh, Harann, Havilar, Jheri, Kava, Korinn, Mishann, Nala, Perra, Raiann, Sora, Surina, Thava, Uadjit
+
+Childhood Names: Climber, Earbender, Leaper, Pious, Shieldbiter, Zealous
+
+Clan Names: Clethtinthiallor, Daardendrian, Delmirev, Drachedandion, Fenkenkabradon, Kepeshkmolik, Kerrhylon, Kimbatuul, Linxakasendalor, Myastan, Nemmonis, Norixius, Ophinshtalajiir, Prexijandilin, Shestendeliath, Turnuroth, Verthisathurgiesh, Yarjerit
+
 ### Dragonborn Traits
 
+Your draconic heritage manifests in a variety of traits you share with other dragonborn.
+
+Ability Score Increase. Your Strength score increases by 2, and your Charisma score increases by 1.
+
+Age. Young dragonborn grow quickly. They walk hours after hatching, attain the size and development of a 10-year-old human child by the age of 3, and reach adulthood by 15. They live to be around 80.
+
+Size. Dragonborn are taller and heavier than humans, standing well over 6 feet tall and averaging almost 250 pounds. Your size is Medium.
+
+Speed. Your base walking speed is 30 feet.
+
+Draconic Ancestry
+| DRAGON | DAMAGE TYPE | BREATH WEAPON |
+| ------ | ----------- | ---------------------------- |
+| Black | Acid | 5 by 30 ft. line (Dex. save) |
+| Blue | Lightning | 5 by 30 ft. line (Dex. save) |
+| Brass | Fire | 5 by 30 ft. line (Dex. save) |
+| Bronze | Lightning | 5 by 30 ft. line (Dex. save) |
+| Copper | Acid | 5 by 30 ft. line (Dex. save) |
+| Gold | Fire | 15 ft. cone (Dex. save) |
+| Green | Poison | 15 ft. cone (Con. save) |
+| Red | Fire | 15 ft. cone (Dex. save) |
+| Silver | Cold | 15 ft. cone (Con. save) |
+| White | Cold | 15 ft. cone (Con. save) |
+
+Draconic Ancestry. You have draconic ancestry. Choose one type of dragon from the Draconic Ancestry table. Your breath weapon and damage resistance are determined by the dragon type, as shown in the table.
+
+Breath Weapon. You can use your action to exhale destructive energy. Your draconic ancestry determines the size, shape, and damage type of the exhalation.
+
+When you use your breath weapon, each creature in the area of the exhalation must make a saving throw, the type of which is determined by your draconic ancestry. The DC for this saving throw equals 8 + your Constitution modifier + your proficiency bonus. A creature takes 2d6 damage on a failed save, and half as much damage on a successful one. The damage increases to 3d6 at 6th level, 4d6 at 11th level, and 5d6 at 16th level.
+
+After you use your breath weapon, you can’t use it again until you complete a short or long rest.
+
+Damage Resistance. You have resistance to the damage type associated with your draconic ancestry.
+
+Languages. You can speak, read, and write Common and Draconic. Draconic is thought to be one of the oldest languages and is often used in the study of magic. The language sounds harsh to most other creatures and includes numerous hard consonants and sibilants.
+
 ## <a name="gnome">Gnome</a>
+
+> Skinny and flaxen-haired, his skin walnut brown and his eyes a startling turquoise, Burgell stood half as tall as Aeron and had to climb up on a stool to look out the peephole. Like most habitations in Oeble, that particular tenement had been built for humans, and smaller residents coped with the resulting awkwardness as best they could.
+>
+> But at least the relative largeness of the apartment gave Burgell room to pack in all his gnome-sized gear. The front room was his workshop, and it contained a bewildering miscellany of tools: hammers, chisels, saws, lockpicks, tinted lenses, jeweler’s loupes, and jars of powdered and shredded ingredients for casting spells. A fat gray cat, the mage’s familiar, lay curled atop a grimoire. It opened its eyes, gave Aeron a disdainful yellow stare, then appeared to go back to sleep.
+>
+> — Richard Lee Byers, The Black Bouquet
+
+A constant hum of busy activity pervades the warrens and neighborhoods where gnomes form their close-knit communities. Louder sounds punctuate the hum: a crunch of grinding gears here, a minor explosion there, a yelp of surprise or triumph, and especially bursts of laughter. Gnomes take delight in life, enjoying every moment of invention, exploration, investigation, creation, and play.
+
 ### Vibrant Expression
+
+A gnome’s energy and enthusiasm for living shines through every inch of his or her tiny body. Gnomes average slightly over 3 feet tall and weigh 40 to 45 pounds. Their tan or brown faces are usually adorned with broad smiles (beneath their prodigious noses), and their bright eyes shine with excitement. Their fair hair has a tendency to stick out in every direction, as if expressing the gnome’s insatiable interest in everything around.
+
+A gnome’s personality is writ large in his or her appearance. A male gnome’s beard, in contrast to his wild hair, is kept carefully trimmed but often styled into curious forks or neat points. A gnome’s clothing, though usually made in modest earth tones, is elaborately decorated with embroidery, embossing, or gleaming jewels.
+
 ### Delighted Dedication
+
+As far as gnomes are concerned, being alive is a wonderful thing, and they squeeze every ounce of enjoyment out of their three to five centuries of life. Humans might wonder about getting bored over the course of such a long life, and elves take plenty of time to savor the beauties of the world in their long years, but gnomes seem to worry that even with all that time, they can’t get in enough of the things they want to do and see.
+
+Gnomes speak as if they can’t get the thoughts out of their heads fast enough. Even as they offer ideas and opinions on a range of subjects, they still manage to listen carefully to others, adding the appropriate exclamations of surprise and appreciation along the way.
+
+Though gnomes love jokes of all kinds, particularly puns and pranks, they’re just as dedicated to the more serious tasks they undertake. Many gnomes are skilled engineers, alchemists, tinkers, and inventors. They’re willing to make mistakes and laugh at themselves in the process of perfecting what they do, taking bold (sometimes foolhardy) risks and dreaming large.
+
 ### Bright Burrows
+
+Gnomes make their homes in hilly, wooded lands. They live underground but get more fresh air than dwarves do, enjoying the natural, living world on the surface whenever they can. Their homes are well hidden by both clever construction and simple illusions. Welcome visitors are quickly ushered into the bright, warm burrows. Those who are not welcome are unlikely to find the burrows in the first place.
+
+Gnomes who settle in human lands are commonly gemcutters, engineers, sages, or tinkers. Some human families retain gnome tutors, ensuring that their pupils enjoy a mix of serious learning and delighted enjoyment. A gnome might tutor several generations of a single human family over the course of his or her long life.
+
+> ALWAYS APPRECIATIVE
+>
+> It’s rare for a gnome to be hostile or malicious unless he or she has suffered a grievous injury. Gnomes know that most races don’t share their sense of humor, but they enjoy anyone’s company just as they enjoy everything else they set out to do.
+
 ### Gnome Names
+
+Gnomes love names, and most have half a dozen or so. A gnome’s mother, father, clan elder, aunts, and uncles each give the gnome a name, and various nicknames from just about everyone else might or might not stick over time. Gnome names are typically variants on the names of ancestors or distant relatives, though some are purely new inventions. When dealing with humans and others who are “stuffy” about names, a gnome learns to use no more than three names: a personal name, a clan name, and a nickname, choosing the one in each category that’s the most fun to say.
+
+Male Names: Alston, Alvyn, Boddynock, Brocc, Burgell, Dimble, Eldon, Erky, Fonkin, Frug, Gerbo, Gimble, Glim, Jebeddo, Kellen, Namfoodle, Orryn, Roondar, Seebo, Sindri, Warryn, Wrenn, Zook
+
+Female Names: Bimpnottin, Breena, Caramip, Carlin, Donella, Duvamil, Ella, Ellyjobell, Ellywick, Lilli, Loopmottin, Lorilla, Mardnab, Nissa, Nyx, Oda, Orla, Roywyn, Shamil, Tana, Waywocket, Zanna
+
+Clan Names: Beren, Daergel, Folkor, Garrick, Nackle, Murnig, Ningel, Raulnor, Scheppen, Timbers, Turen
+
+Nicknames: Aleslosh, Ashhearth, Badger, Cloak, Doublelock, Filchbatter, Fnipper, Ku, Nim, Oneshoe, Pock, Sparklegem, Stumbleduck
+
 ### Seeing the World
+
+Curious and impulsive, gnomes might take up adventuring as a way to see the world or for the love of exploring. As lovers of gems and other fine items, some gnomes take to adventuring as a quick, if dangerous, path to wealth. Regardless of what spurs them to adventure, gnomes who adopt this way of life eke as much enjoyment out of it as they do out of any other activity they undertake, sometimes to the great annoyance of their adventuring companions.
+
 ### Gnome Traits
+
+Your gnome character has certain characteristics in common with all other gnomes.
+
+Ability Score Increase. Your Intelligence score increases by 2.
+
+Age. Gnomes mature at the same rate humans do, and most are expected to settle down into an adult life by around age 40. They can live 350 to almost 500 years.
+
+Size. Gnomes are between 3 and 4 feet tall and average about 40 pounds. Your size is Small.
+
+Speed. Your base walking speed is 25 feet.
+
+Darkvision. Accustomed to life underground, you have superior vision in dark and dim conditions. You can see in dim light within 60 feet of you as if it were bright light, and in darkness as if it were dim light. You can’t discern color in darkness, only shades of gray.
+
+Gnome Cunning. You have advantage on all Intelligence, Wisdom, and Charisma saving throws against magic.
+
+Languages. You can speak, read, and write Common and Gnomish. The Gnomish language, which uses the Dwarvish script, is renowned for its technical treatises and its catalogs of knowledge about the natural world.
+
+Subrace. Two subraces of gnomes are found among the worlds of D&D: forest gnomes and rock gnomes. Choose one of these subraces.
+
+> DEEP GNOMES
+>
+> A third subrace of gnomes, the deep gnomes (or svirfneblin), live in small communities scattered in the Underdark. Unlike the duergar and the drow, svirfneblin are as good as their surface cousins. However, their humor and enthusiasm are dampened by their oppressive environment, and their inventive expertise is directed mostly toward stonework.
+
 ### Rock Gnome
 
+As a rock gnome, you have a natural inventiveness and hardiness beyond that of other gnomes. Most gnomes in the worlds of D&D are rock gnomes, including the tinker gnomes of the Dragonlance setting.
+
+Ability Score Increase. Your Constitution score increases by 1.
+
+Artificer’s Lore. Whenever you make an Intelligence (History) check related to magic items, alchemical objects, or technological devices, you can add twice your proficiency bonus, instead of any proficiency bonus you normally apply.
+
+Tinker. You have proficiency with artisan’s tools (tinker’s tools). Using those tools, you can spend 1 hour and 10 gp worth of materials to construct a Tiny clockwork device (AC 5, 1 hp). The device ceases to function after 24 hours (unless you spend 1 hour repairing it to keep the device functioning), or when you use your action to dismantle it; at that time, you can reclaim the materials used to create it. You can have up to three such devices active at a time.
+
+When you create a device, choose one of the following options:
+
+Clockwork Toy. This toy is a clockwork animal, monster, or person, such as a frog, mouse, bird, dragon, or soldier. When placed on the ground, the toy moves 5 feet across the ground on each of your turns in a random direction. It makes noises as appropriate to the creature it represents.
+
+Fire Starter. The device produces a miniature flame, which you can use to light a candle, torch, or campfire. Using the device requires your action.
+
+Music Box. When opened, this music box plays a single song at a moderate volume. The box stops playing when it reaches the song’s end or when it is closed.
+
 ## <a name="half-elf">Half-Elf</a>
+
+> Flint squinted into the setting sun. He thought he saw the figure of a man striding up the path. Standing, Flint drew back into the shadow of a tall pine to see better. The man’s walk was marked by an easy grace — an elvish grace, Flint would have said; yet the man’s body had the thickness and tight muscles of a human, while the facial hair was definitely humankind’s. All the dwarf could see of the man’s face beneath a green hood was tan skin and a brownish-red beard. A longbow was slung over one shoulder and a sword hung at his left side. He was dressed in soft leather, carefully tooled in the intricate designs the elves loved. But no elf in the world of Krynn could grow a beard . . . no elf, but . . .
+>
+> “Tanis?” said Flint hesitantly as the man neared.
+>
+> “The same.” The newcomer’s bearded face split in a wide grin. He held open his arms and, before the dwarf could stop him, engulfed Flint in a hug that lifted him off the ground. The dwarf clasped his old friend close for a brief instant, then, remembering his dignity, squirmed and freed himself from the half-elf’s embrace.
+>
+> — Margaret Weis and Tracy Hickman, Dragons of Autumn Twilight
+
+Walking in two worlds but truly belonging to neither, half-elves combine what some say are the best qualities of their elf and human parents: human curiosity, inventiveness, and ambition tempered by the refined senses, love of nature, and artistic tastes of the elves. Some half-elves live among humans, set apart by their emotional and physical differences, watching friends and loved ones age while time barely touches them. Others live with the elves, growing restless as they reach adulthood in the timeless elven realms, while their peers continue to live as children. Many half-elves, unable to fit into either society, choose lives of solitary wandering or join with other misfits and outcasts in the adventuring life.
+
 ### Of Two Worlds
+
+To humans, half-elves look like elves, and to elves, they look human. In height, they’re on par with both parents, though they’re neither as slender as elves nor as broad as humans. They range from under 5 feet to about 6 feet tall, and from 100 to 180 pounds, with men only slightly taller and heavier than women. Half-elf men do have facial hair, and sometimes grow beards to mask their elven ancestry. Half-elven coloration and features lie somewhere between their human and elf parents, and thus show a variety even more pronounced than that found among either race. They tend to have the eyes of their elven parents.
+
 ### Diplomats or Wanderers
+
+Half-elves have no lands of their own, though they are welcome in human cities and somewhat less welcome in elven forests. In large cities in regions where elves and humans interact often, half-elves are sometimes numerous enough to form small communities of their own. They enjoy the company of other half-elves, the only people who truly understand what it is to live between these two worlds.
+
+In most parts of the world, though, half-elves are uncommon enough that one might live for years without meeting another. Some half-elves prefer to avoid company altogether, wandering the wilds as trappers, foresters, hunters, or adventurers and visiting civilization only rarely. Like elves, they are driven by the wanderlust that comes of their longevity. Others, in contrast, throw themselves into the thick of society, putting their charisma and social skills to great use in diplomatic roles or as swindlers.
+
+> EXCELLENT AMBASSADORS
+>
+> Many half-elves learn at an early age to get along with everyone, defusing hostility and finding common ground. As a race, they have elven grace without elven aloofness and human energy without human boorishness. They often make excellent ambassadors and go-betweens (except between elves and humans, since each side suspects the half-elf of favoring the other).
+
 ### Half-Elf Names
+
+Half-elves use either human or elven naming conventions. As if to emphasize that they don’t really fit in to either society, half-elves raised among humans are often given elven names, and those raised among elves often take human names.
+
 ### Half-Elf Traits
 
+Your half-elf character has some qualities in common with elves and some that are unique to half-elves.
+
+Ability Score Increase. Your Charisma score increases by 2, and two other ability scores of your choice increase by 1.
+
+Age. Half-elves mature at the same rate humans do and reach adulthood around the age of 20. They live much longer than humans, however, often exceeding 180 years.
+
+Size. Half-elves are about the same size as humans, ranging from 5 to 6 feet tall. Your size is Medium.
+
+Speed. Your base walking speed is 30 feet.
+
+Darkvision. Thanks to your elf blood, you have superior vision in dark and dim conditions. You can see in dim light within 60 feet of you as if it were bright light, and in darkness as if it were dim light. You can’t discern color in darkness, only shades of gray.
+
+Fey Ancestry. You have advantage on saving throws against being charmed, and magic can’t put you to sleep.
+
+Skill Versatility. You gain proficiency in two skills of your choice.
+
+Languages. You can speak, read, and write Common, Elvish, and one extra language of your choice.
+
 ## <a name="half-orc">Half-Orc</a>
+
+> The warchief Mhurren roused himself from his sleeping-furs and his women and pulled a short hauberk of heavy steel rings over his thick, well-muscled torso. He usually rose before most of his warriors, since he had a strong streak of human blood in him, and he found the daylight less bothersome than most of his tribe did. Among the Bloody Skulls, a warrior was judged by his strength, his fierceness, and his wits. Human ancestry was no blemish against a warrior — provided he was every bit as strong, enduring, and bloodthirsty as his full-blooded kin. Half-orcs who were weaker than their orc comrades didn’t last long among the Bloody Skulls or any other orc tribe for that matter. But it was often true that a bit of human blood gave a warrior just the right mix of cunning, ambition, and self-discipline to go far indeed, as Mhurren had. He was master of a tribe that could muster two thousand spears, and the strongest chief in Thar.
+>
+> — Richard Baker, Swordmage
+
+Whether united under the leadership of a mighty warlock or having fought to a standstill after years of conflict, orc and human communities, sometimes form alliances. When these alliances are sealed by marriages, half-orcs are born. Some half-orcs rise to become proud leaders of orc communities. Some venture into the world to prove their worth. Many of these become adventurers, achieving greatness for their mighty deeds.
+
 ### Scarred and Strong
+
+Half-orcs exhibit a blend of orcish and human characteristics, and their appearance varies widely. Grayish skin tones and prominent teeth are the most common shared elements among these folk. Half-orcs stand between 5 and 7 feet tall and usually weigh between 180 and 250 pounds.
+
+Orcs regard battle scars as tokens of pride and ornamental scars as things of beauty. Other scars, though, mark an orc or half-orc as a former prisoner or a disgraced exile. Any half-orc who has lived among or near orcs has scars, whether they are marks of humiliation or of pride, recounting their past exploits and injuries.
+
 ### The Mark of Gruumsh
+
+The one-eyed god Gruumsh—lord of war and fury—created the first orcs, and even those orcs who turn away from his worship carry his blessings of might and endurance. The same is true of half-orcs. Some half-orcs hear the whispers of Gruumsh in their dreams, calling them to unleash the rage that simmers within them. Others feel Gruumsh’s exultation when they join in melee combat — and either exult along with him or shiver with fear and loathing.
+
+Beyond the rage of Gruumsh, half-orcs feel emotion powerfully. Rage doesn’t just quicken their pulse, it makes their bodies burn. An insult stings like acid, and sadness saps their strength. But they laugh loudly and heartily, and simple pleasures — feasting, drinking, wrestling, drumming, and wild dancing — fill their hearts with joy. They tend to be short-tempered and sometimes sullen, more inclined to action than contemplation and to fighting than arguing. And when their hearts swell with love, they leap to perform acts of great kindness and compassion.
+
 ### Half-Orc Names
+
+Half-orcs usually have names appropriate to the culture in which they were raised. A half-orc who wants to fit in among humans might trade an orc name for a human name. Some half-orcs with human names decide to adopt a guttural orc name because they think it makes them more intimidating.
+
+Male Orc Names: Dench, Feng, Gell, Henk, Holg, Imsh, Keth, Krusk, Mhurren, Ront, Shump, Thokk
+
+Female Orc Names: Baggi, Emen, Engong, Kansif, Myev, Neega, Ovak, Ownka, Shautha, Sutha, Vola, Volen, Yevelda
+
 ### Half-Orc Traits
 
+Your half-orc character has certain traits deriving from your orc ancestry.
+
+Ability Score Increase. Your Strength score increases by 2, and your Constitution score increases by 1.
+
+Age. Half-orcs mature a little faster than humans, reaching adulthood around age 14. They age noticeably faster and rarely live longer than 75 years.
+
+Size. Half-orcs are somewhat larger and bulkier than humans, and they range from 5 to well over 6 feet tall. Your size is Medium.
+
+Speed. Your base walking speed is 30 feet.
+
+Darkvision. Thanks to your orc blood, you have superior vision in dark and dim conditions. You can see in dim light within 60 feet of you as if it were bright light, and in darkness as if it were dim light. You can’t discern color in darkness, only shades of gray.
+
+Menacing. You gain proficiency in the Intimidation skill.
+
+Relentless Endurance. When you are reduced to
+0 hit points but not killed outright, you can drop to 1 hit point instead. You can’t use this feature again until you finish a long rest.
+
+Savage Attacks. When you score a critical hit with
+a melee weapon attack, you can roll one of the weapon’s damage dice one additional time and add it to the extra damage of the critical hit.
+
+Languages. You can speak, read, and write Common and Orc. Orc is a harsh, grating language with hard consonants. It has no script of its own but is written in the Dwarvish script.
+
 ## <a name="tiefling">Tiefling</a>
+
+> “But you do see the way people look at you, devil’s child.”
+>
+> Those black eyes, cold as a winter storm, were staring right into her heart and the sudden seriousness in his voice jolted her.
+>
+> “What is it they say?” he asked. “One’s a curiosity, two’s a conspiracy —”
+>
+> “Three’s a curse,” she finished. “You think I haven’t heard that rubbish before?”
+>
+> “I know you have.” When she glared at him, he added, “It’s not as if I’m plumbing the depths of your mind, dear girl. That is the burden of every tiefling. Some break under it, some make it the millstone around their neck, some revel in it.” He tilted his head again, scrutinizing her, with that wicked glint in his eyes. “You fight it, don’t you? Like a little wildcat, I wager. Every little jab and comment just sharpens your claws.”
+>
+> — Erin M. Evans, Brimstone Angels
+
+To be greeted with stares and whispers, to suffer violence and insult on the street, to see mistrust and fear in every eye: this is the lot of the tiefling. And to twist the knife, tieflings know that this is because a pact struck generations ago infused the essence of Asmodeus — overlord of the Nine Hells — into their bloodline. Their appearance and their nature are not their fault but the result of an ancient sin, for which they and their children and their children’s children will always be held accountable.
+
 ### Infernal Bloodline
+
+Tieflings are derived from human bloodlines, and in the broadest possible sense, they still look human. However, their infernal heritage has left a clear imprint on their appearance. Tieflings have large horns that take any of a variety of shapes: some have curling horns like a ram, others have straight and tall horns like a gazelle’s, and some spiral upward like an antelopes’ horns. They have thick tails, four to five feet long, which lash or coil around their legs when they get upset or nervous. Their canine teeth are sharply pointed, and their eyes are solid colors — black, red, white, silver, or gold — with no visible sclera or pupil. Their skin tones cover the full range of human coloration, but also include various shades of red. Their hair, cascading down from behind their horns, is usually dark, from black or brown to dark red, blue, or purple.
+
 ### Self-Reliant and Suspicious
+
+Tieflings subsist in small minorities found mostly in human cities or towns, often in the roughest quarters of those places, where they grow up to be swindlers, thieves, or crime lords. Sometimes they live among other minority populations in enclaves where they are treated with more respect.
+
+Lacking a homeland, tieflings know that they have to make their own way in the world and that they have to be strong to survive. They are not quick to trust anyone who claims to be a friend, but when a tiefling’s companions demonstrate that they trust him or her, the tiefling learns to extend the same trust to them. And once a tiefling gives someone loyalty, the tiefling is a firm friend or ally for life.
+
+> MET WITH MISTRUST
+>
+> Ignorant people tend to be suspicious of tieflings, assuming that their infernal heritage has left its mark on their personality and morality, not just their appearance. The reality is that a tiefling’s bloodline doesn’t affect their personality. They are gifted with magic from the infernal realms but chart their own course in life.
+
 ### Tiefling Names
+
+Tiefling names fall into three broad categories. Tieflings born into another culture typically have names reflective of that culture. Some have names derived from the Infernal language, passed down through generations, that reflect their fiendish heritage. And some younger tieflings, striving to find a place in the world, adopt a name that signifies a virtue or other concept and then try to embody that concept. For some, the chosen name is a noble quest. For others, it’s a grim destiny.
+
+Male Infernal Names: Akmenos, Amnon, Barakas, Damakos, Ekemon, Iados, Kairon, Leucis, Melech, Mordai, Morthos, Pelaios, Skamos, Therai
+
+Female Infernal Names: Akta, Anakis, Bryseis, Criella, Damaia, Ea, Kallista, Lerissa, Makaria, Nemeia, Orianna, Phelaia, Rieta
+
+“Virtue” Names: Art, Carrion, Chant, Creed, Despair, Excellence, Fear, Glory, Hope, Ideal, Music, Nowhere, Open, Poetry, Quest, Random, Reverence, Sorrow, Temerity, Torment, Weary
+
 ### Tiefling Traits
+
+Tieflings share certain racial traits as a result of their infernal descent.
+
+Ability Score Increase. Your Intelligence score increases by 1, and your Charisma score increases by 2.
+
+Age. Tieflings mature at the same rate as humans but live a few years longer.
+
+Size. Tieflings are about the same size and build as humans. Your size is Medium.
+
+Speed. Your base walking speed is 30 feet.
+
+Darkvision. Thanks to your infernal heritage, you have superior vision in dark and dim conditions. You can see in dim light within 60 feet of you as if it were bright light, and in darkness as if it were dim light. You can’t discern color in darkness, only shades of gray.
+
+Hellish Resistance. You have resistance to fire damage.
+
+Infernal Legacy. You know the thaumaturgy cantrip. When you reach 3rd level, you can cast the hellish rebuke spell as a 2nd-level spell once with this trait and regain the ability to do so when you finish a long rest. When you reach 5th level, you can cast the darkness spell once with this trait and regain the ability to do so when you finish a long rest. Charisma is your spellcasting ability for these spells.
+
+Languages. You can speak, read, and write Common and Infernal.

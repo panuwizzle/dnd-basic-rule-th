@@ -13,35 +13,37 @@ Unlike a game of make-believe, D&D gives structure to the stories, a way of dete
 > ดันเจี้ยนมาสเตอร์ (DM): OK, one at a time. Phillip, you’re looking at the gargoyles?
 >
 > Phillip: Yeah. Is there any hint they might be creatures and not decorations?
-> 
+>
 > DM: Make an Intelligence check.
 >
 > Phillip: Does my Investigation skill apply?
-> 
+>
 > DM: Sure!
-> 
+>
 > Phillip (rolling a d20): Ugh. Seven.
-> 
+>
 > DM: They look like decorations to you. And Amy, Riva is checking out the drawbridge?
 
 In the Dungeons & Dragons game, each player creates an adventurer (also called a character) and teams up with other adventurers (played by friends). Working together, the group might explore a dark dungeon, a ruined city, a haunted castle, a lost temple deep in a jungle, or a lava-filled cavern beneath a mysterious mountain. The adventurers can solve puzzles, talk with other characters, battle fantastic monsters, and discover fabulous magic items and other treasure.
 
-One player, however, takes on the role of the ดันเจี้ยนมาสเตอร์  (DM), the game’s lead storyteller and referee. The DM creates adventures for the characters, who navigate its hazards and decide which paths to explore. The DM might describe the entrance to Castle Ravenloft, and the players decide what they want their adventurers to do. Will they walk across the dangerously weathered drawbridge? Tie themselves together with rope to minimize the chance that someone will fall if the drawbridge gives way? Or cast a spell to carry them over the chasm? Then the DM determines the results of the adventurers’ actions and narrates what they experience. Because the DM can improvise to react to anything the players attempt, D&D is infinitely flexible, and each adventure can be exciting and unexpected.
+One player, however, takes on the role of the ดันเจี้ยนมาสเตอร์ (DM), the game’s lead storyteller and referee. The DM creates adventures for the characters, who navigate its hazards and decide which paths to explore. The DM might describe the entrance to Castle Ravenloft, and the players decide what they want their adventurers to do. Will they walk across the dangerously weathered drawbridge? Tie themselves together with rope to minimize the chance that someone will fall if the drawbridge gives way? Or cast a spell to carry them over the chasm? Then the DM determines the results of the adventurers’ actions and narrates what they experience. Because the DM can improvise to react to anything the players attempt, D&D is infinitely flexible, and each adventure can be exciting and unexpected.
 
 The game has no real end; when one story or quest wraps up, another one can begin, creating an ongoing story called a campaign. Many people who play the game keep their campaigns going for months or years, meeting with their friends every week or so to pick up the story where they left off. The adventurers grow in might as the campaign continues. Each monster defeated, each adventure completed, and each treasure recovered not only adds to the continuing story, but also earns the adventurers new capabilities. This increase in power is reflected by an adventurer’s level.
 
 There’s no winning and losing in the Dungeons & Dragons game—at least, not the way those terms are usually understood. Together, the DM and the players create an exciting story of bold adventurers who confront deadly perils. Sometimes an adventurer might come to a grisly end, torn apart by ferocious monsters or done in by a nefarious villain. Even so, the other adventurers can search for powerful magic to revive their fallen comrade, or the player might choose to create a new character to carry on. The group might fail to complete an adventure successfully, but if everyone had a good time and created a memorable story, they all win.
 
 ## Worlds of Adventure
+
 The many worlds of the Dungeons & Dragons game are places of magic and monsters, of brave warriors and spectacular adventures. They begin with a foundation of medieval fantasy and then add the creatures, places, and magic that make these worlds unique.
 
 The worlds of the Dungeons & Dragons game exist within a vast cosmos called the multiverse, connected in strange and mysterious ways to one another and to other planes of existence, such as the Elemental Plane of Fire and the Infinite Depths of the Abyss. Within this multiverse are an endless variety of worlds. Many of them have been published as official settings for the D&D game. The legends of the Forgotten Realms, Dragonlance, Greyhawk, Dark Sun, Mystara, and Eberron settings are woven together in the fabric of the multiverse. Alongside these worlds are hundreds of thousands more, created by generations of D&D players for their own games. And amid all the richness of the multiverse, you might create a world of your own.
 
 All these worlds share characteristics, but each world is set apart by its own history and cultures, distinctive monsters and races, fantastic geography, ancient dungeons, and scheming villains. Some races have unusual traits in different worlds. The halflings of the Dark Sun setting, for example, are jungle-dwelling cannibals, and the elves are desert nomads. Some worlds feature races unknown in other settings, such as Eberron’s warforged, soldiers created and imbued with life to fight in the Last War. Some worlds are dominated by one great story, like the War of the Lance that plays a central role in the Dragonlance setting. But they’re all D&D worlds, and you can use the rules here to create a character and play in any one of them.
 
-Your DM might set the campaign on one of these worlds or on one that he or she created. Because there is so much diversity among the worlds of D&D, you should check with your DM about any house rules that will affect your play of the game. Ultimately, the ดันเจี้ยนมาสเตอร์  is the authority on the campaign and its setting, even if the setting is a published world.
+Your DM might set the campaign on one of these worlds or on one that he or she created. Because there is so much diversity among the worlds of D&D, you should check with your DM about any house rules that will affect your play of the game. Ultimately, the ดันเจี้ยนมาสเตอร์ is the authority on the campaign and its setting, even if the setting is a published world.
 
 ## Using These Rules
+
 The D&D Basic Rules document has four main parts.
 
 Part 1 is about creating a character, providing the rules and guidance you need to make the character you’ll play in the game. It includes information on the various races, classes, backgrounds, equipment, and other customization options that you can choose from. Many of the rules in part 1 rely on material in parts 2 and 3.
@@ -55,17 +57,21 @@ Part 4 is especially for the ดันเจี้ยนมาสเตอร์
 The end of the document contains supplemental material. Appendix A collects all the definitions of conditions that can affect characters and monsters. Appendix B is a brief discussion of deities in the game, particularly those in the Forgotten Realms setting. Appendix C describes the five factions in the Forgotten Realms that characters can become associated with. Appendix D explores the multitude of worlds and alternate dimensions of reality, called the planes of existence. Finally, players can use the character builder which provides a standardized way for players to create, record and keep track of their characters’ abilities and possessions.
 
 ## How to Play
+
 The play of the Dungeons & Dragons game unfolds according to this basic pattern.
 
 ### 1. The DM describes the environment.
+
 The DM tells the players where their adventurers are and what’s around them, presenting the basic scope of options that present themselves (how many doors lead out of a room, what’s on a table, who’s in the tavern, and so on).
 
 ### 2. The players describe what they want to do.
+
 Sometimes one player speaks for the whole party, saying, “We’ll take the east door,” for example. Other times, different adventurers do different things: one adventurer might search a treasure chest while a second examines an esoteric symbol engraved on a wall and a third keeps watch for monsters. The players don’t need to take turns, but the DM listens to every player and decides how to resolve those actions.
 
 Sometimes, resolving a task is easy. If an adventurer wants to walk across a room and open a door, the DM might just say that the door opens and describe what lies beyond. But the door might be locked, the floor might hide a deadly trap, or some other circumstance might make it challenging for an adventurer to complete a task. In those cases, the DM decides what happens, often relying on the roll of a die to determine the results of an action.
 
 ### 3. The DM narrates the results of the adventurers’ actions.
+
 Describing the results often leads to another decision point, which brings the flow of the game right back to step 1.
 
 This pattern holds whether the adventurers are cautiously exploring a ruin, talking to a devious prince, or locked in mortal combat against a mighty dragon. In certain situations, particularly combat, the action is more structured and the players (and DM) do take turns choosing and resolving actions. But most of the time, play is fluid and flexible, adapting to the circumstances of the adventure.
@@ -91,9 +97,11 @@ Every character and monster in the game has capabilities defined by six ability 
 Ability checks, attack rolls, and saving throws are the three main kinds of d20 rolls, forming the core of the rules of the game. All three follow these simple steps.
 
 ### 1. Roll the die and add a modifier.
+
 Roll a d20 and add the relevant modifier. This is typically the modifier derived from one of the six ability scores, and it sometimes includes a proficiency bonus to reflect a character’s particular skill. (See chapter 1 for details on each ability and how to determine an ability’s modifier.)
 
 ### 2. Apply circumstantial bonuses and penalties.
+
 A class feature, a spell, a particular circumstance, or some other effect might give a bonus or penalty to the check.
 
 ### 3. Compare the total to a target number.
@@ -118,9 +126,10 @@ Exceptions to the rules are often minor. For instance, many adventurers don’t 
 There’s one more general rule you need to know at the outset. Whenever you divide a number in the game, round down if you end up with a fraction, even if the fraction is one-half or greater.
 
 ## Adventures
-The Dungeons & Dragons game consists of a group of characters embarking on an adventure that the ดันเจี้ยนมาสเตอร์  presents to them. Each character brings particular capabilities to the adventure in the form of ability scores and skills, class features, racial traits, equipment, and magic items. Every character is different, with various strengths and weaknesses, so the best party of adventurers is one in which the characters complement each other and cover the weaknesses of their companions. The adventurers must cooperate to successfully complete the adventure.
 
-The adventure is the heart of the game, a story with a beginning, a middle, and an end. An adventure might be created by the ดันเจี้ยนมาสเตอร์  or purchased off the shelf, tweaked and modified to suit the DM’s needs and desires. In either case, an adventure features a fantastic setting, whether it’s an underground dungeon, a crumbling castle, a stretch of wilderness, or a bustling city. It features a rich cast of characters: the adventurers created and played by the other players at the table, as well as nonplayer characters (NPCs). Those characters might be patrons, allies, enemies, hirelings, or just background extras in an adventure. Often, one of the NPCs is a villain whose agenda drives much of an adventure’s action.
+The Dungeons & Dragons game consists of a group of characters embarking on an adventure that the ดันเจี้ยนมาสเตอร์ presents to them. Each character brings particular capabilities to the adventure in the form of ability scores and skills, class features, racial traits, equipment, and magic items. Every character is different, with various strengths and weaknesses, so the best party of adventurers is one in which the characters complement each other and cover the weaknesses of their companions. The adventurers must cooperate to successfully complete the adventure.
+
+The adventure is the heart of the game, a story with a beginning, a middle, and an end. An adventure might be created by the ดันเจี้ยนมาสเตอร์ or purchased off the shelf, tweaked and modified to suit the DM’s needs and desires. In either case, an adventure features a fantastic setting, whether it’s an underground dungeon, a crumbling castle, a stretch of wilderness, or a bustling city. It features a rich cast of characters: the adventurers created and played by the other players at the table, as well as nonplayer characters (NPCs). Those characters might be patrons, allies, enemies, hirelings, or just background extras in an adventure. Often, one of the NPCs is a villain whose agenda drives much of an adventure’s action.
 
 Over the course of their adventures, the characters are confronted by a variety of creatures, objects, and situations that they must deal with in some way. Sometimes the adventurers and other creatures do their best to kill or capture each other in combat. At other times, the adventurers talk to another creature (or even a magical object) with a goal in mind. And often, the adventurers spend time trying to solve a puzzle, bypass an obstacle, find something hidden, or unravel the current situation. Meanwhile, the adventurers explore the world, making decisions about which way to travel and what they’ll try to do next.
 
@@ -129,9 +138,10 @@ Adventures vary in length and complexity. A short adventure might present only a
 But that’s not the end of the story. You can think of an adventure as a single episode of a TV series, made up of multiple exciting scenes. A campaign is the whole series—a string of adventures joined together, with a consistent group of adventurers following the narrative from start to finish.
 
 ## The Three Pillars of Adventure
+
 Adventurers can try to do anything their players can imagine, but it can be helpful to talk about their activities in three broad categories: exploration, social interaction, and combat.
 
-Exploration includes both the adventurers’ movement through the world and their interaction with objects and situations that require their attention. Exploration is the give-and-take of the players describing what they want their characters to do, and the ดันเจี้ยนมาสเตอร์  telling the players what happens as a result. On a large scale, that might involve the characters spending a day crossing a rolling plain or an hour making their way through caverns underground. On the smallest scale, it could mean one character pulling a lever in a dungeon room to see what happens.
+Exploration includes both the adventurers’ movement through the world and their interaction with objects and situations that require their attention. Exploration is the give-and-take of the players describing what they want their characters to do, and the ดันเจี้ยนมาสเตอร์ telling the players what happens as a result. On a large scale, that might involve the characters spending a day crossing a rolling plain or an hour making their way through caverns underground. On the smallest scale, it could mean one character pulling a lever in a dungeon room to see what happens.
 
 Social interaction features the adventurers talking to someone (or something) else. It might mean demanding that a captured scout reveal the secret entrance to the goblin lair, getting information from a rescued prisoner, pleading for mercy from an orc chieftain, or persuading a talkative magic mirror to show a distant location to the adventurers.
 
@@ -140,6 +150,7 @@ The rules in chapters 7 and 8 support exploration and social interaction, as do 
 Combat, the focus of chapter 9, involves characters and other creatures swinging weapons, casting spells, maneuvering for position, and so on—all in an effort to defeat their opponents, whether that means killing every enemy, taking captives, or forcing a rout. Combat is the most structured element of a D&D session, with creatures taking turns to make sure that everyone gets a chance to act. Even in the context of a pitched battle, there’s still plenty of opportunity for adventurers to attempt wacky stunts like surfing down a flight of stairs on a shield, to examine the environment (perhaps by pulling a mysterious lever), and to interact with other creatures, including allies, enemies, and neutral parties.
 
 ## The Wonders of Magic
+
 Few D&D adventures end without something magical happening. Whether helpful or harmful, magic appears frequently in the life of an adventurer, and it is the focus of chapters 10 and 11.
 
 In the worlds of Dungeons & Dragons, practitioners of magic are rare, set apart from the masses of people by their extraordinary talent. Common folk might see evidence of magic on a regular basis, but it’s usually minor—a fantastic monster, a visibly answered prayer, a wizard walking through the streets with an animated shield guardian as a bodyguard.
