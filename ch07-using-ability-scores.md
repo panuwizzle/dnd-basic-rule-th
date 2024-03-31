@@ -64,40 +64,40 @@
 
 โดยทั่วไปแล้วคุณจะไม่สามารถทวีคูณโบนัสความเชี่ยวชาญได้ในการทอยโจมตีและทอยป้องกัน ถ้ามีคุณลักษณะหรือเอฟเฟ็คใดให้คุณทำได้ ก็จะใช้กฏเดียวกันกับการเช็คความสามารถ
 
-## Ability Checks
+## การเช็คความสามารถ
 
-An ability check tests a character's or monster's innate talent and training in an effort to overcome a challenge. The DM calls for an ability check when a character or monster attempts an action (other than an attack) that has a chance of failure. When the outcome is uncertain, the dice determine the results.
+การเช็คความสามารถเป็นการทดสอบความสามารถที่มีติดตัวและที่ได้จากการฝึกฝนของตัวละครและมอนสเตอร์ ในการจะก้าวข้ามอุปสรรคต่าง ๆ DM จะขอให้ผู้เล่นทอยเช็คความสามารถเพื่อตัดสินว่าความพยายามในการทำสิ่งนั้น (ที่ไม่ใช่การโจมตี) ว่าจะสำเร็จหรือล้มเหลว เมื่อผลจากเหตุการณ์นั้นไม่สามารถคาดเดาได้ ลูกเต๋าจะเป็นตัวตัดสินทุกสิ่ง
 
-For every ability check, the DM decides which of the six abilities is relevant to the task at hand and the difficulty of the task, represented by a Difficulty Class. The more difficult a task, the higher its DC. The Typical Difficulty Classes table shows the most common DCs.
+ในการเช็คความสามารถทุกครั้ง DM จะตัดสินใจเลือกความสามารถใดใน 6 อย่างที่สอดคล้องกับสิ่งที่ผู้เล่นจะทำและกำหนดระดับความยาก โดยจะแสดงเป็น ระดับความยาก [Difficulty class: ดิฟฟิคัลตี้ คลาส] ยิ่งสิ่งที่จะทำยากมากเท่าไร ค่า DC ก็จะยิ่งสูงขึ้นเท่านั้น ตารางระดับความยากทั่วไปแสดงอยู่ด้านล่าง
 
-### Typical Difficulty Classes
+### ระดับความยากโดยทั่วไป
 
-| Task Difficulty   | DC  |
+| ความยาก           | DC  |
 | ----------------- | --- |
-| Very easy         | 5   |
-| Easy              | 10  |
-| Medium            | 15  |
-| Hard              | 20  |
-| Very hard         | 25  |
-| Nearly impossible | 30  |
+| ง่ายมาก           | 5   |
+| ง่าย              | 10  |
+| ปานกลาง           | 15  |
+| ยาก               | 20  |
+| ยากมาก            | 25  |
+| เกือบเป็นไปไม่ได้ | 30  |
 
-To make an ability check, roll a d20 and add the relevant ability modifier. As with other d20 rolls, apply bonuses and penalties, and compare the total to the DC. If the total equals or exceeds the DC, the ability check is a success--the creature overcomes the challenge at hand. Otherwise, it's a failure, which means the character or monster makes no progress toward the objective or makes progress combined with a setback determined by the DM.
+ในการเช็คความสามารถ ให้ทอย d20 และเพิ่มคะแนนโมดิไฟเออร์ของความสามารถที่เกี่ยวข้อง และเหมือนกับการทอยด้วย d20 อื่น ให้เพิ่มโบนัสและตัวลดทอนลงไปด้วย แล้วใช้ค่าที่ได้สุดท้ายเทียบกับระดับความยาก ถ้ามีค่าเท่ากันหรือมากกว่า DC ถือว่าการทดสอบสำเร็จ ตัวละครจะทำสิ่งนั้นได้ ในอีกด้านหนึ่งหากล้มเหลว ซึ่งหมายถึงตัวละครทำสิ่งนั้นไม่สำเร็จ เรื่องราวจะไม่คืบหน้าหรืออาจจะก้าวหน้าแต่มีบทลงโทษบางอย่าง
 
-### Contests
+### การแข่งขัน (Contests)
 
-Sometimes one character's or monster's efforts are directly opposed to another's. This can occur when both of them are trying to do the same thing and only one can succeed, such as attempting to snatch up a magic ring that has fallen on the floor.
+บางครั้งความพยายามของตัวละครอาจจะไปขัดกับของอีกตัวละครหนึ่ง เกิดขึ้นได้เมื่อทั้งสองฝ่ายพยายามจะทำสิ่งเดียวกันและต้องมีเพียงคนเดียวที่ทำสำเร็จ เช่นการแย่งกันเก็บแหวนเวทมนต์ที่ตกอยู่บนพื้น
 
-This situation also applies when one of them is trying to prevent the other one from accomplishing a goal--for example, when a monster tries to force open a door that an adventurer is holding closed. In situations like these, the outcome is determined by a special form of ability check, called a contest.
+สถานการณ์ทำนองเดียวกันคือฝ่ายหนึ่งพยายามขัดขวางอีกฝ่ายในการบรรลุเป้าหมาย เช่นเมื่อมอนสเตอร์พยายามพังประตูเข้ามาโดยนักผจญภัยดันประตูกันไว้ ผลที่ได้จะถูกตัดสินด้วยรูปแบบการเช็คความสามารถ เรียกว่าการแข่งขัน [contest: คอนเทส]
 
-Both participants in a contest make ability checks appropriate to their efforts. They apply all appropriate bonuses and penalties, but instead of comparing the total to a DC, they compare the totals of their two checks. The participant with the higher check total wins the contest. That character or monster either succeeds at the action or prevents the other one from succeeding.
+ทั้งสองฝ่ายทอยเช็คความสามารถที่เกี่ยวข้อง ทั้งสองฝ่ายเพิ่มคะแนนโบนัสและค่าปรับที่มี แต่แทนที่จะเอาไปเทียบกับ DC ให้นำมาเทียบกันเอง ฝ่ายที่มีค่ามากกว่าจะชนะ 
 
-If the contest results in a tie, the situation remains the same as it was before the contest. Thus, one contestant might win the contest by default. If two characters tie in a contest to snatch a ring off the floor, neither character grabs it. In a contest between a monster trying to open a door and an adventurer trying to keep the door closed, a tie means that the door remains shut.
+ถ้าเสมอกัน ให้คงสถานการณ์ก่อนที่จะแข่งขันไว้ ซึ่งก็หมายถึงมีฝ่ายหนึ่งจะได้ประโยชน์โดยปริยาย ถ้าตัวละครสองตัวแข่งกันเก็บแหวน ก็จะไม่มีใครได้แหวนไป ในการแข่งขันระหว่างมอนสเตอร์ที่พยายามเปิดประตูกับนักผจญภัยที่พยามจะปิดประตูไว้ การเสมอก็หมายถึงประตูยังคงปิดอยู่ต่อไป
 
-### Skills
+### ทักษะ [Skills: สกิล]
 
-Each ability covers a broad range of capabilities, including skills that a character or a monster can be proficient in. A skill represents a specific aspect of an ability score, and an individual's proficiency in a skill demonstrates a focus on that aspect. (A character's starting skill proficiencies are determined at character creation, and a monster's skill proficiencies appear in the monster's stat block.)
+ความสามารถแต่ละอย่างครอบคลุมความสามารถที่หลากหลาย รวมถึงทักษะที่ตัวละครหรือมอนสเตอร์สามารถฝึกจนเชี่ยวชาญได้ ทักษะแสดงถึงแง่มุมเฉพาะของคะแนนความสามารถ และความเชี่ยวชาญของแต่ละบุคคลในทักษะแสดงให้เห็นถึงการมุ่งเน้นไปที่ด้านนั้น (ทักษะที่เชี่ยวชาญเริ่มต้นของตัวละครจะกำหนดจากการสร้างตัวละคร และความเชี่ยวชาญในทักษะของมอนสเตอร์จะปรากฏในบล็อกสถิติของมอนสเตอร์)
 
-For example, a Dexterity check might reflect a character's attempt to pull off an acrobatic stunt, to palm an object, or to stay hidden. Each of these aspects of Dexterity has an associated skill: Acrobatics, Sleight of Hand, and Stealth, respectively. So a character who has proficiency in the Stealth skill is particularly good at Dexterity checks related to sneaking and hiding.
+ตัวอย่างเช่น การตรวจสอบความคล่องแคล่วอาจสะท้อนถึงความพยายามของตัวละครในการแสดงผาดโผน การซ่อนวัตถุ หรือการซ่อนตัว ความคล่องแคล่วแต่ละด้านเหล่านี้มีทักษะที่เกี่ยวข้องคือ: การแสดงผาดโผน [Acrobatic: อะโครบาติก], ความคล่องแคล่วของมือ [Sleight of hand: สเลท ออฟ แฮนด์], และการซ่อนตัว [Stealth: สเต็ลธ์] ตามลำดับ ดังนั้นตัวละครที่มีความชำนาญในทักษะ Stealth จะเก่งเป็นพิเศษในการตรวจสอบ Dexterity ที่เกี่ยวข้องกับการแอบและการซ่อนตัว
 
 The skills related to each ability score are shown in the following list. (No skills are related to Constitution.) See an ability's description in the later sections of this section for examples of how to use a skill associated with an ability.
 

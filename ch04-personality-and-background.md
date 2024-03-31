@@ -97,17 +97,17 @@ Choose your languages from the Standard Languages table, or choose one that is c
 
 Some of these languages are actually families of languages with many dialects. For example, the Primordial language includes the Auran, Aquan, Ignan, and Terran dialects, one for each of the four elemental planes. Creatures that speak different dialects of the same language can communicate with one another.
 
-**Standard Languages**
-| Language | Typical Speakers | Script |
+**ภาษามาตรฐาน**
+| ภาษา | ผู้ใช้ส่วนใหญ่ | ภาษาเขียน |
 | -------- | ---------------- | -------- |
-| Common | Humans | Common |
-| Dwarvish | Dwarves | Dwarvish |
-| Elvish | Elves | Elvish |
-| Giant | Ogres, giants | Dwarvish |
-| Gnomish | Gnomes | Dwarvish |
-| Goblin | Goblinoids | Dwarvish |
-| Halfling | Halflings | Common |
-| Orc | Orcs | Dwarvish |
+| คอมมอน | มนุษย์ | คอมมอน |
+| ดาร์ฟวิช | ดวอร์ฟ (คนแคระ) | ดาร์ฟวิช |
+| เอลฟ์วิช | เอลฟ์ | เอลฟ์วิช |
+| ไจแอนท์ | โอเกอร์, ไจแอนท์ | ดาร์ฟวิช |
+| โนมมิช | โนม | ดาร์ฟวิช |
+| ก็อบลิน | ก็อบลินอยด์ | ดาร์ฟวิช |
+| ฮาล์ฟลิง | ฮาล์ฟลิง | คอมมอน |
+| อ็อค | อ็อค | ดาร์ฟวิช |
 
 **Exotic Languages**
 | Language | Typical Speakers | Script |
@@ -343,6 +343,7 @@ Variant Criminal: Spy
 Although your capabilities are not much different from those of a burglar or smuggler, you learned and practiced them in a very different context: as an espionage agent. You might have been an officially sanctioned agent of the crown, or perhaps you sold the secrets you uncovered to the highest bidder.
 
 ### Folk Hero
+
 You come from a humble social rank, but you are destined for so much more. Already the people of your home village regard you as their champion, and your destiny calls you to stand against the tyrants and monsters that threaten the common folk everywhere.
 
 Skill Proficiencies: Animal Handling, Survival
@@ -411,8 +412,8 @@ A folk hero is one of the common people, for better or for worse. Most folk hero
 | 5   | Secretly, I believe that things would be better if I were a tyrant lording over the land.              |
 | 6   | I have trouble trusting in my allies.                                                                  |
 
-
 ### Noble
+
 You understand wealth, power, and privilege. You carry a noble title, and your family owns land, collects taxes, and wields significant political influence. You might be a pampered aristocrat unfamiliar with work or discomfort, a former merchant just elevated to the nobility, or a disinherited scoundrel with a disproportionate sense of entitlement. Or you could be an honest, hard-working landowner who cares deeply about the people who live and work on your land, keenly aware of your responsibility to them.
 
 Work with your DM to come up with an appropriate title and determine how much authority that title carries. A noble title doesn’t stand on its own — it’s connected to an entire family, and whatever title you hold, you will pass it down to your own children. Not only do you need to determine your noble title, but you should also work with the DM to describe your family and their influence on you.
@@ -459,7 +460,6 @@ Nobles are born and raised to a very different lifestyle than most people ever e
 | 5   | Family. Blood runs thicker than water. (Any)                                                                                          |
 | 6   | Noble Obligation. It is my duty to protect and care for the people beneath me. (Good)                                                 |
 
-
 | d6  | Bond                                                                          |
 | --- | ----------------------------------------------------------------------------- |
 | 1   | I will face any challenge to win the approval of my family.                   |
@@ -481,3 +481,31 @@ Nobles are born and raised to a very different lifestyle than most people ever e
 ### Sage
 
 ### Soldier
+
+_Player Handbook_
+
+### Charlatan
+
+Entertainer
+Gladiator
+Guild Artisan / Guild Merchant
+Hermit
+Knight
+Outlander
+Pirate
+Sailor
+Urchin
+
+_Sword Coast Adventure's Guide_
+City Watch / Investigator
+Clan Crafter
+Cloistered Scholar
+Courtier
+Faction Agent
+Far Traveler
+Inheritor
+Knight of the Order
+Mercenary Veteran
+Urban Bounty Hunter
+Uthgardt Tribe Member
+Waterdhavian Noble
