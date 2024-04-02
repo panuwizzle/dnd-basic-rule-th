@@ -158,66 +158,65 @@
 
 ### การทำงานร่วมกัน
 
-Sometimes two or more characters team up to attempt a task. The character who's leading the effort--or the one with the highest ability modifier--can make an ability check with advantage, reflecting the help provided by the other characters. In combat, this requires the Help action.
+บางครั้งตัวละคร 2 คนหรือมากกว่าอาจจะรวมทีมกันเพื่อช่วยกันทำงานหนึ่ง ตัวละครที่เป็นคนนำ หรือคนที่มีค่าโมดิไฟเออร์ของความสามารถมากที่สุด สามารถทอยเช็คความสามารถด้วยการทอยแบบได้เปรียบ (advantage) เป็นการแสดงให้เห็นว่ามีการช่วยเหลือจากคนอื่น ในการต่อสู้ ต้องใช้แอ็กชัน "ช่วยเหลือ" (Help) แทน
 
-A character can only provide help if the task is one that he or she could attempt alone. For example, trying to open a lock requires proficiency with thieves' tools, so a character who lacks that proficiency can't help another character in that task.
+ตัวละครจะสามารถให้การช่วยเหลือถ้าสิ่งที่จะทำนั้นสามารถทำได้ด้วยตัวคนเดียว ตัวอย่างเช่น พยายามเปิดล็อคที่ต้องใช้ความเชี่ยวชาญด้านเครื่องมือหัวขโมย ดังนั้นคนที่ไม่มีความเชี่ยวชาญจะไม่สามารถเข้าช่วยได้
 
-Moreover, a character can help only when two or more individuals working together would actually be productive. Some tasks, such as threading a needle, are no easier with help.
+ยิ่งกว่านั้น ตัวละครจะช่วยเหลือคนอื่นได้ก็ต่อเมื่องานนั้นจะสำเร็จได้ง่ายขึ้นถ้าใช้คนมากกว่าหนึ่งคนจริง ๆ งานบางงานเช่นการสนเข็มการไปช่วยก็ไม่ได้ทำให้เกิดประโยชน์อะไร
 
-#### Group Checks
+#### การเช็คแบบกลุ่ม
 
-When a number of individuals are trying to accomplish something as a group, the DM might ask for a group ability check. In such a situation, the characters who are skilled at a particular task help cover those who aren't.
+เมื่อหลายคนพยายามจะทำบางอย่างแบบเป็นกลุ่ม DM อาจจะขอให้ทอยเช็คความสามารถกันทั้งกลุ่ม ในสถานการณ์นี้ ตัวละครที่มีความเชี่ยวชาญในงานนั้นจะครอบคลุมคนที่ไม่มีทักษะ
 
-To make a group ability check, everyone in the group makes the ability check. If at least half the group succeeds, the whole group succeeds.
+ในการทอยเช็คแบบกลุ่ม ทุกคนในกลุ่มจะทำการทอยเช็คความสามารถ ถ้าอย่างน้อยครึ่งหนึ่งของสมาชิกเช็คผ่าน ถือว่าผ่านทั้งกลุ่ม
 
-Otherwise, the group fails. Group checks don't come up very often, and they're most useful when all the characters succeed or fail as a group. For example, when adventurers are navigating a swamp, the DM might call for a group Wisdom (Survival) check to see if the characters can avoid the quicksand, sinkholes, and other natural hazards of the environment. If at least half the group succeeds, the successful characters are able to guide their companions out of danger. Otherwise, the group stumbles into one of these hazards.
+ถ้าทอยเช็คไม่ผ่านก็ถือว่าล้มเหลวทั้งกลุ่มเหมือนกัน การเช็คแบบกลุ่มไม่ค่อยเกิดขึ้นเท่าไร และมันจะมีประโยชน์เมื่อผลลัพท์มีผลกับสมาชิกในกลุ่มทั้งหมด ตัวอย่างเช่น เมื่อนักผจญภัยต้องเดินทางผ่านบึง DM อาจจะขอเช็คความรอบรู้  (ทักษะการเอาตัวรอด) [Wisdom (Survival)] เพื่อดูว่าทุกคนสามารถเลี่ยงทรายดูด หลุมยุบ หรือภัยธรรมชาติอื่น ๆ จากสิ่งแวดล้อมได้หรือไม่ ถ้าอย่างน้อยครึ่งหนึ่งของกลุ่มทำสำเร็จ ความสำเร็จนั้นก็สามารถจะช่วยนำทางให้คนอื่นรอดพ้นอันตรายไปได้ ในทางกลับกันก็ซวยกันทั้งกลุ่ม
 
-## Using Each Ability
+## การใช้งานความสามารถแต่ละอย่าง
 
-Every task that a character or monster might attempt in the game is covered by one of the six abilities. This section explains in more detail what those abilities mean and the ways they are used in the game.
+ทุก ๆ กิจกรรมที่ตัวละครหรือมอนสเตอร์ต้องพยายามทำให้สำเร็จในเกมจะหนีไม่พ้นหนึ่งในความสามารถ 6 ด้านนี้ ส่วนนี้จะอธิบายในรายละเอียดว่าความสามารถเหล่านั้นหมายถึงอะไรและวิธีการใช้งานในเกม
 
+### ความแข็งแกร่ง (Strength)
+ความแข็งแกร่งเป็นตัววัดพลังทางร่างกาย การฝึกฝนด้านกรีฑา และขอบเขตที่คุณสามารถออกแรงทางกายภาพได้
 
-### Strength
-Strength measures bodily power, athletic training, and the extent to which you can exert raw physical force.
+#### การเช็คความแข็งแกร่ง 
+การทดสอบความแข็งแกร่งเป็นการจำลองความพยายามในการยก ดัน ดึง หรือทำลายของบางสิ่ง การดันตัวเองผ่านพื้นที่ หรือการใช้กำลังหักเอาในบางสถานการณ์ ทักษะทางกรีฑา (Athletics skill) เป็นสิ่งสะท้อนระดับของความแข็งแกร่ง
 
-#### Strength Checks
-A Strength check can model any attempt to lift, push, pull, or break something, to force your body through a space, or to otherwise apply brute force to a situation. The Athletics skill reflects aptitude in certain kinds of Strength checks.
+**ทักษะทางกรีฑา (Athletics)**  
+การเช็คคะแนนความแข็งแกร่ง (ทักษะทางกรีฑา) ครอบคลุมสถานการณ์ลำบากที่คุณเผชิญในขณะที่ปีน กระโดด หรือว่ายน้ำ ตัวอย่างในกิจกรรมเหล่านี้
 
-**Athletics**  
-Your Strength (Athletics) check covers difficult situations you encounter while climbing, jumping, or swimming. Examples include the following activities:
+- คุณพยายามจะปีนหน้าผาชันหรือลื่นมาก โดยพยายามเลี่ยงจุดอันตรายขณะไต่ไปตามผนังหรือเกาะอยู่กับพื้นผิวขณะที่บางอย่างพยายามทำให้คุณร่วงลงไป
+- คุณพยายามจะโดดข้ามระยะที่ไกลมาก
+- คุณพยายามว่ายน้ำหรือลอยตัวอยู่ท่ามกลางกระแสน้ำเชี่ยวกราก กลางคลื่นจากพายุ หรือพื้นที่ที่มีสาหร่ายขึ้นหนาแน่น หรือมีอะไรกำลังดันหรือดึงคุณลงใต้น้ำ หรืออะไรก็ตามที่ขัดขวางการว่ายน้ำของคุณ
 
-- You attempt to climb a sheer or slippery cliff, avoid hazards while scaling a wall, or cling to a surface while something is trying to knock you off.
-- You try to jump an unusually long distance or pull off a stunt midjump.
-- You struggle to swim or stay afloat in treacherous currents, storm-tossed waves, or areas of thick seaweed. Or another creature tries to push or pull you underwater or otherwise interfere with your swimming.
+**การเช็คความแข็งแกร่งแบบอื่น**  
+DM อาจจะขอเช็คความแข็งแกร่งเมื่อคุณพยายามจะทำงานดังต่อไปนี้ให้สำเร็จ
 
-**Other Strength Checks**  
-The DM might also call for a Strength check when you try to accomplish tasks like the following:
+- พังประตูที่ติด ล็อคอยู่ หรือประตูกรง
+- สลัดเชือกให้หลุด
+- คลานผ่านช่องแคบ
+- เกาะรถม้าที่กำลังแล่นไปขณะที่คุณถูกลากไปด้วย
+- โค่นรูปปั้น
+- ดันไม่ให้หินกลิ้งไป
 
-- Force open a stuck, locked, or barred door
-- Break free of bonds
-- Push through a tunnel that is too small
-- Hang on to a wagon while being dragged behind it
-- Tip over a statue
-- Keep a boulder from rolling
+**การทอยโจมตีและทอยความเสียหายด้วยค่าความแข็งแกร่ง**  
+คุณสามารถเพิ่มค่าโมดิไฟเออร์ของความแข็งแกร่งลงไปในการทอยโจมตีและการทอยความเสียหายได้ เมื่อโจมตีด้วยอาวุธระยะประชิดตัวเช่นคฑา (mace) ขวานสงคราม (battleaxe) หรือหอกซัด (javelin) คุณใช้อาวุธประยะประชิดเข้าโจมตีแบบตัวต่อตัวและอาวุธบางอย่างก็สามารถขว้างได้ด้วย เป็นการโจมตีแบบระยะไกล
 
-**Strength Attack Rolls and Damage**  
-You add your Strength modifier to your attack roll and your damage roll when attacking with a melee weapon such as a mace, a battleaxe, or a javelin. You use melee weapons to make melee attacks in hand-to-hand combat, and some of them can be thrown to make a ranged attack.
+**การยกและการแบกของ**  
+คะแนนความแข็งแกร่งของคุณจะเป็นตัวบอกน้ำหนักที่คุณสามารถแบกได้ คำอธิบายด้านล่างเป็นตัวกำหนดว่าคุณสามารถยกและแบบอะไรได้บ้าง
 
-**Lifting and Carrying**  
-Your Strength score determines the amount of weight you can bear. The following terms define what you can lift or carry.
+**ปริมาณสัมภาระ** น้ำหนักสัมภาระที่คุณแบกได้จะคำนวณโดยใช้คะแนนความแข็งแกร่งคูณ 15 นี่คือน้ำหนักเป็นปอนด์ที่คุณสามารถแบกได้ซึ่งก็มากพอที่ตัวละครทั่วไปจะไม่ต้องกังวลว่าจะไม่พอ
 
-**Carrying Capacity.** Your carrying capacity is your Strength score multiplied by 15. This is the weight (in pounds) that you can carry, which is high enough that most characters don't usually have to worry about it.
+**การดัน การลาก หรือการยก** คุณสามารถดัน ลาก หรือยกสิ่งที่มีน้ำหนัก (หน่วยปอนด์) มากกว่าคุณ 2 เท่าได้ (หรือเอา 30 คูณค่าความแข็งแกร่งของคุณ) ขณะดันหรือลากสิ่งที่มีน้ำหนักมากนี้จะทำให้คุณเคลื่อนที่ช้าลง 5 ฟุต
 
-**Push, Drag, or Lift.** You can push, drag, or lift a weight in pounds up to twice your carrying capacity (or 30 times your Strength score). While pushing or dragging weight in excess of your carrying capacity, your speed drops to 5 feet.
+**ขนาดและความแข็งแกร่ง** สิ่งมีชีวิตที่ตัวใหญ่ขึ้นจะรับน้ำหนักได้มากขึ้น ซึ่งนั่นหมายความว่าสิ่งมีชีวิตตัวเล็กก็จะแบกของได้น้อย กลุ่มที่มีขนาดใหญ่กว่าขนาดกลาง (Medium) คูณ 2 ให้ปริมาณที่สามารถดัน ลาก หรือยกได้ และหารครึ่งในกรณีของสิ่งมีชีวิตขนาดจิ๋ว (Tiny)
 
-**Size and Strength.** Larger creatures can bear more weight, whereas Tiny creatures can carry less. For each size category above Medium, double the creature's carrying capacity and the amount it can push, drag, or lift. For a Tiny creature, halve these weights.
+**กฏเพิ่มเติม: ภาระถ่วงน้ำหนัก (encumbrance)**  
+กฏในการยกและแบกของนั้นตั้งใจให้ง่าย ส่วนนี้เป็นกฏเพิ่มเติมถ้าคุณมองหากฏแบบละเอียดที่เกี่ยวกับผลกระทบกับตัวละครในเรื่องน้ำหนักจากอุปกรณ์ติดตัว เมื่อใช้กฏเพิ่มเติมนี้ให้มองข้ามคอลัมภ์ความแข็งแกร่งในตารางรายการชุดเกราะ
 
-**Variant: Encumbrance**
-The rules for lifting and carrying are intentionally simple. Here is a variant if you are looking for more detailed rules for determining how a character is hindered by the weight of equipment. When you use this variant, ignore the Strength column of the Armor table.
+ถ้าคุณแบกน้ำหนักมากกว่าค่าความแข็งแกร่งของคุณไป 5 เท่า คุณตกอยู่ใน **ภาวะถูกถ่วงน้ำหนัก (encumbered)** ซึ่งหมายความว่าความเร็วจะตกลงไป 10 ฟุต
 
-If you carry weight in excess of 5 times your Strength score, you are **encumbered**, which means your speed drops by 10 feet.
-
-If you carry weight in excess of 10 times your Strength score, up to your maximum carrying capacity, you are instead **heavily encumbered**, which means your speed drops by 20 feet and you have disadvantage on ability checks, attack rolls, and saving throws that use Strength, Dexterity, or Constitution.
+ถ้าคุณแบกน้ำหนักมากกว่าค่าความแข็งแกร่งของคุณไป 10 เท่า ไปจนสุดค่าน้ำหนักที่สามารถแบกได้ คุณจะอยู่ใน **ภาวะถูกถ่วงน้ำหนักอย่างมาก (heavily encumbered)** ซึ่งหมายถึงความเร็วจะลดลงไป 20 ฟุต และการทอยเช็คความสามารถ ทอยโจมตีและทอยป้องกันที่ใช้ค่าความแข็งแกร่ง ความว่องไว (Dexterity) หรือค่าความอดทน (Constitution) จะเป็นการทอยแบบเสียเปรียบทั้งหมด 
 
 ## Dexterity
 Dexterity measures agility, reflexes, and balance.
