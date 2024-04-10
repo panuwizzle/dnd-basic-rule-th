@@ -90,17 +90,17 @@
 
 ## [บทที่ 7: การใช้คะแนนความสามารถ](./ch07-using-ability-scores.md)
 
-### คะแนนความสามารถ
+### [คะแนนความสามารถ](./ch07-using-ability-scores.md#ability)
 
-### การได้เปรียบและการเสียเปรียบ
+### [การได้เปรียบและการเสียเปรียบ](./ch07-using-ability-scores.md#advantage)
 
-### โบนัสความชำนาญ
+### [โบนัสความชำนาญ](./ch07-using-ability-scores.md#proficiency)
 
-### การเช็คความสามารถ
+### [การเช็คความสามารถ](./ch07-using-ability-scores.md#ability-check)
 
-### การใช้ความสามารถแต่ละด้าน
+### [การใช้ความสามารถแต่ละด้าน](./ch07-using-ability-scores.md#using-ability)
 
-### การทอยป้องกัน
+### [การทอยป้องกัน](./ch07-using-ability-scores.md#saving-throw)
 
 ## [บทที่ 8: การผจญภัย](./ch08-adventuring.md)
 
