@@ -1,4 +1,4 @@
-## <a name="fighter">Fighter</a>
+# <a name="fighter">Fighter</a>
 
 A human in clanging plate armor holds her shield before her as she runs toward the massed goblins. An elf behind her, clad in studded leather armor, peppers the goblins with arrows loosed from his exquisite bow. The half-orc nearby shouts orders, helping the two combatants coordinate their assault to the best advantage.
 
@@ -8,11 +8,11 @@ A gladiator fights for sport in an arena, a master with his trident and net, ski
 
 All of these heroes are fighters, perhaps the most diverse class of characters in the worlds of Dungeons & Dragons. Questing knights, conquering overlords, royal champions, elite foot soldiers, hardened mercenaries, and bandit kings — as fighters, they all share an unparalleled mastery with weapons and armor, and a thorough knowledge of the skills of combat. And they are well acquainted with death, both meting it out and staring it defiantly in the face.
 
-### Well-Rounded Specialists
+## Well-Rounded Specialists
 
-### Trained for Danger
+## Trained for Danger
 
-### Creating a Fighter
+## Creating a Fighter
 
 ## Class Features
 
@@ -30,6 +30,18 @@ All of these heroes are fighters, perhaps the most diverse class of characters i
 
 ### Indomitable
 
-## Martial Archetypes
+## Optional Class Features
 
-### Champion
+## Martial Archetypes
+## Arcane Archer
+## Battle Master
+## Cavalier
+## Champion
+## Eldritch Knight
+## Psi Warrior
+## Purple Dragon Knight
+## Rune Knight
+## Samurai
+## Echo Knight
+## Gunslinger
+## Scofflaw
