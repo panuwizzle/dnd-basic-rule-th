@@ -167,111 +167,110 @@ By its nature, adventuring involves delving into places that are dark, dangerous
 
 ยิ่งไปกว่านั้น สิ่งมีชีวิตจะสามารถมองเห็นไปในอีเธอเรียลเพลน (Ethereal Plane) อีกด้วย
 
-### Food and Water
+### อาหารและน้ำ
 
-Characters who don't eat or drink suffer the effects of exhaustion. Exhaustion caused by lack of food or water can't be removed until the character eats and drinks the full required amount.
+ตัวละครที่ไม่กินไม่ดื่มจะติดสภาวะเหนื่อยล้า (exhaustion) ความเหนื่อยล้าเกิดขึ้นจากการขาดอาหารหรือน้ำจะหายก็ต่อเมื่อกินหรือดื่มให้เต็มจำนวนที่ต้องการ
 
-#### Food
+#### อาหาร
 
-A character needs one pound of food per day and can make food last longer by subsisting on half rations. Eating half a pound of food in a day counts as half a day without food.
+ตัวละครหนึ่งจะต้องการอาหาร 1 ปอนด์ต่อวัน (0.45 กก.) และสามารถกินเพิ่มได้อีกครึ่งหนึ่งเพื่อให้อยู่ได้อีกครึ่งวัน การกินครึ่งปอนด์จะถือว่าอยู่ได้ครึ่งวันและขาดอาหารไปครึ่งวัน
 
-A character can go without food for a number of days equal to 3 + his or her Constitution modifier (minimum 1). At the end of each day beyond that limit, a character automatically suffers one level of exhaustion. A normal day of eating resets the count of days without food to zero.
+ตัวละครจะอยู่ได้โดยไม่มีอาหารเป็นจำนวนวันเท่ากับ 3 + ค่าโมดิไฟเออร์ความอดทน (Constitution modifier) น้อยสุด 1 เมื่อหมดวันที่เกินจากนั้น ตัวละครจะได้รับผลจากความเหนื่อยล้าโดยอัตโนมัติ การได้กินอาหารครบ 1 วันจะรีเซ็ตค่าความเหนื่อยล้าได้
 
-#### Water
+#### น้ำ
 
-A character needs one gallon of water per day, or two gallons per day if the weather is hot. A character who drinks only half that much water must succeed on a DC 15 Constitution saving throw or suffer one level of exhaustion at the end of the day. A character with access to even less water automatically suffers one level of exhaustion at the end of the day.
+ตัวละครจะต้องดื่มน้ำ 1 แกลลอนต่อวัน (3.78 ลิตร) หรือ 2 แกลลอนต่อวันหากอากาศร้อนจัด ตัวละครที่ดื่มน้ำแค่ครึ่งเดียวต้องทอยป้องกันความอดทน (Constitution) DC 15 ถ้าล้มเหลวจะได้รับผลจากความเหนื่อยล้า 1 ระดับ ตัวละครที่ดื่มน้ำน้อยกว่านั้นจะได้รับผลความเหนื่อยล้าทันที 1 ระดับโดยอัตโนมัติเมื่อสิ้นสุดวัน
 
-If the character already has one or more levels of exhaustion, the character takes two levels in either case.
+ถ้าตัวละครได้รับความเหนื่อยล้าระดับ 1 หรือมากกว่าอยู่แล้ว จะได้รับเพิ่มอีก 2 ระดับทันที
 
-### Interacting with Objects
+### การมีปฏิสัมพันธ์กับสิ่งของ
 
-A character's interaction with objects in an environment is often simple to resolve in the game. The player tells the DM that his or her character is doing something, such as moving a lever, and the DM describes what, if anything, happens.
+การมีปฏิสัมพันธ์ของตัวละครกับสิ่งต่าง ๆ มักจะไม่ซับซ้อนในเกม ผู้เล่นบอก DM ว่าตัวละครของเขาหรือเธอจะทำอะไร เช่นโยกคันโยก และ DM จะบรรยายถึงสิ่งที่เกิดขึ้น
 
-For example, a character might decide to pull a lever, which might, in turn, raise a portcullis, cause a room to flood with water, or open a secret door in a nearby wall. If the lever is rusted in position, though, a character might need to force it. In such a situation, the DM might call for a Strength check to see whether the character can wrench the lever into place. The DM sets the DC for any such check based on the difficulty of the task.
+ตัวอย่างเช่น ตัวละครอาจจะตัดสินใจโยกคันโยก ซึ่งอาจจะยกประตูหน้าขึ้น ทำให้ห้องถูกน้ำท่วม หรือเปิดประตูลับที่กำแพงใกล้เคียง ถ้าคันโยกขึ้นสนิมตัวละครก็อาจจะต้องใช้กำลัง DM อาจจะให้ทอยทดสอบความแข็งแรงเพื่อดูว่าตัวละครยังสามารถโยกคันโยกได้หรือไม่ DM อาจจะตั้งค่า DC ไว้ตามความยากง่ายของงาน
 
-Characters can also damage objects with their weapons and spells. Objects are immune to poison and psychic damage, but otherwise they can be affected by physical and magical attacks much like creatures can.
+ตัวละครสามารถสร้างความเสียหายให้วัตถุได้ด้วยอาวุธและเวทย์มนต์ วัตถุจะไม่เสียหาย (immune) จากพิษและความเสียหายทางจิต แต่จะเสียหายจากการโจมตีทางกายภาพและเวทย์มนต์เหมือนกับสิ่งมีชีวิต
 
-The DM determines an object's Armor Class and hit points, and might decide that certain objects have resistance or immunity to certain kinds of attacks. (It's hard to cut a rope with a club, for example.) Objects always fail Strength and Dexterity saving throws, and they are immune to effects that require other saves. When an object drops to 0 hit points, it breaks.
+DM จะกำหนดค่าการป้องกัน (Armor Class: AC) และค่า HP ของวัตถุ และอาจจะกำหนดด้วยว่าวัตถุนั้นต้านทานหรือจะไม่ได้รับความเสียหายด้วยการโจมตีบางประเภท (ตัวอย่างเช่น การจะตัดเชือกด้วยกระบองเป็นเรื่องยากมาก) วัตถุจะล้มเหลวในการทอยป้องกันด้านความแข็งแกร่ง (Strength) และความว่องไว (Dexterity) เสมอ และจะไม่ได้รับความเสียหายจากสิ่งที่ต้องใช้การทอยป้องกันด้านอื่น เมื่อ HP ลดลงจนเหลือ 0 วัตถุจะถูกทำลาย
 
-A character can also attempt a Strength check to break an object. The DM sets the DC for any such check.
+ตัวละครอาจจะลองทอยเช็คความแข็งแกร่งเพื่อทำลายวัตถุ โดย DM จะกำหนดค่า DC ให้ทดลอง
 
-## Social Interaction
+## ปฏิสัมพันธ์ทางสังคม
 
-Exploring dungeons, overcoming obstacles, and slaying monsters are key parts of D&D adventures. No less important, though, are the social interactions that adventurers have with other inhabitants of the world.
+การสำรวจดันเจี้ยน การเอาชนะอุปสรรค และการสังหารสัตว์ประหลาดเป็นส่วนสำคัญของการผจญภัย D&D สิ่งที่สำคัญไม่น้อยไปกว่านั้นคือปฏิสัมพันธ์ทางสังคมที่นักผจญภัยมีกับผู้คนทั่วโลก
 
-Interaction takes on many forms. You might need to convince an unscrupulous thief to confess to some malfeasance, or you might try to flatter a dragon so that it will spare your life. The DM assumes the roles of any characters who are participating in the interaction that don’t belong to another player at the table. Any such character is called a nonplayer character (NPC).
+ปฏิสัมพันธ์มีหลายรูปแบบ คุณอาจต้องโน้มน้าวหัวขโมยที่ไร้ยางอายให้สารภาพว่ากระทำความผิด หรือคุณอาจพยายามประจบประแจงมังกรเพื่อที่มันจะไว้ชีวิตคุณ DM จะรับบทบาทของตัวละครใดๆ ที่มีส่วนร่วมในการโต้ตอบที่ไม่ได้เป็นของผู้เล่นคนอื่นที่โต๊ะ ตัวละครดังกล่าวเรียกว่าตัวละครที่ไม่ใช่ผู้เล่น (NPC)
 
-In general terms, an NPC’s attitude toward you is described as friendly, indifferent, or hostile. Friendly NPCs are predisposed to help you, and hostile ones are inclined to get in your way. It’s easier to get what you want from a friendly NPC, of course.
+โดยทั่วไปแล้ว ทรรศนคติของ NPC ที่มีต่อคุณจะแบ่งเป็น 3 แบบคือ เป็นมิตร เฉย ๆ หรือเป็นศัตรู NPC ที่เป็นมิตรจะคอยช่วยเหลือคุณเสมอ และที่เป้นศัตรูก็จะคอยขัดแข้งขัดขาตลอด คุณมักจะได้สิ่งที่ต้องการจาก NPC ที่เป็นมิตร
 
-Social interactions have two primary aspects: roleplaying and ability checks.
+ปฏิสัมพันธ์ทางสังคมมี 2 ด้านคือการสวมบทบาทและการทอยทดสอบความสามารถ
 
-### Roleplaying
+### การสวมบทบาท
 
-Roleplaying is, literally, the act of playing out a role. In this case, it’s you as a player determining how your character thinks, acts, and talks.
+การสวมบทบาทคือการแสดงตามบทบาทของตัวละคร ในกรณีนี้คือคุณในฐานะผู้เล่นต้องคิดว่าตัวละครของคุณคิด ทำ และพูดอย่างไร
 
-Roleplaying is a part of every aspect of the game, and it comes to the fore during social interactions. Your character’s quirks, mannerisms, and personality influence how interactions resolve.
+การสวมบทบาทเป็นส่วนหนึ่งในทุก ๆ ด้านของเกม และจะเป็นส่วนหลักเมื่อต้องมีปฏิสัมพันธ์ทางสังคม พฤติกรรม มารยาทและลักษณะนิสัยของตัวละครจะส่งผลต่อผลลัพท์ของปฏิสัมพันธ์
 
-There are two styles you can use when roleplaying your character: the descriptive approach and the active approach. Most players use a combination of the two styles. Use whichever mix of the two works best for you.
+มีสไตล์การสวมบทบาท 2 รูปแบบที่คุณสามารถเล่นได้ คือแบบบรรยายและแบบแสดงด้วยตัวเอง ผู้เล่นส่วนใหญ่ใช้ทั้งสองแบบรวมกัน ลองใช้ทั้งสองแบบเพื่อดูว่าแบบไหนเหมาะกับคุณ
 
-Descriptive Approach to Roleplaying
-With this approach, you describe your character’s words and actions to the DM and the other players. Drawing on your mental image of your character, you tell everyone what your character does and how he or she does it.
+**การสวมบทบาทแบบบรรยาย**
+การสวมบทบาทแบบนี้คุณจะบรรยายายคำพูดและการกระทำของตัวละครให้ DM และผู้เล่นอื่นฟัง เป็นการวาดภาพจินตนาการให้ทุกคนเข้าใจว่าเขาหรือเธอทำอะไร
 
-For instance, Chris plays Tordek the dwarf. Tordek has a quick temper and blames the elves of the Cloakwood for his family’s misfortune. At a tavern, an obnoxious elf minstrel sits at Tordek’s table and tries to strike up a conversation with the dwarf.
+ตัวอย่างเช่น คริสเล่นเป็นคนแคระทอร์เดค ทอร์เดคเป็นคนใจร้อนและโทษว่าเอลฟ์จากคล็อควูดเป็นคนทำให้ครอบครัวของเขาโชคร้าย ที่โรงเตี๊ยม นักร้องเอลฟ์ผู้น่ารังเกียจนั่งอยู่ที่โต๊ะของทอร์เดกและพยายามเริ่มการสนทนากับคนแคระ
 
-Chris says, “Tordek spits on the floor, growls an insult at the bard, and stomps over to the bar. He sits on a stool and glares at the minstrel before ordering another drink.”
+คริสพูดว่า "ทอร์เดคถ่มน้ำลายลงพื้น คำรามและตะโกนด่าบาร์ด ทุบบาร์และนั่งลงบนเก้าอีก จ้องเขม็งไปที่เอลฟ์และสั่งเครื่องดื่มเพิ่ม"
 
-In this example, Chris has conveyed Tordek’s mood and given the DM a clear idea of his character’s attitude and actions.
+ในตัวอย่างนี้ คริสแสดงให้เห็นถึงอารมณ์ของทอร์เดคทำให้ DM และผู้เล่นอื่นเห็นภาพอารมณ์และการกระทำของตัวละครอย่างชัดเจน
 
-When using descriptive roleplaying, keep the following things in mind:
+เมื่อใช้การสวมบทบาทแบบบรรยาย จำไว้เสมอว่า:
+- อธิบายอารมณ์และท่าทางของตัวละคร
+- เน้นไปที่ความตั้งใจของตัวละครและสิ่งที่คนอื่นจะรับรู้ได้
+- อธิบายรายละเอียดเสริมจนคุณพอใจ
+- ไม่ต้องกังวลว่าทุกอย่างจะถูกต้องทั้งหมด แค่โฟกัสที่ตัวละครของคุณจะทำอะไรและอธิบายสิ่งที่คุณคิดไว้ในใจออกมา
 
-Describe your character’s emotions and attitude.
-Focus on your character’s intent and how others might perceive it.
-Provide as much embellishment as you feel comfortable with.
-Don’t worry about getting things exactly right. Just focus on thinking about what your character would do and describing what you see in your mind.
+**การสวมบทบาทแบบแสดงด้วยตัวเอง**
+ถ้าการสวมบทบาทแบบบรรยายบอก DM และผู้เล่นอื่นถึงสิ่งที่ตัวละครคุณคิดและทำ การแสดงด้วยตัวเองเป็นการแสดงให้ทุกคนเห็นเลยว่าทำอะไร
 
-Active Approach to Roleplaying
-If descriptive roleplaying tells your DM and your fellow players what your character thinks and does, active roleplaying shows them.
+เมื่อคุณสวมบทบาทแบบแสดงเอง คุณจะพูดด้วยเสียงของตัวละคร เหมือนนักแสดงที่แสดงตามบทบาท คุณอาจจะแสดงให้เห็นถึงการเคลื่อนไหวของตัวละครรวมถึงภาษากาย การแสดงแบบนี้ทำให้เห็นภาพได้อย่างชัดเจนมากกว่าแบบบรรยาย แม้ว่าคุณอาจจะยังต้องอธิบายสิ่งอื่นที่ไม่สามารถแสดงออกได้
 
-When you use active roleplaying, you speak with your character’s voice, like an actor taking on a role. You might even echo your character’s movements and body language. This approach is more immersive than descriptive roleplaying, though you still need to describe things that can’t be reasonably acted out.
+กลับไปที่ตัวอย่างของคริสแสดงเป็นทอร์เดคด้านบน นี่อาจจะเป็นฉากที่คริสน่าจะแสดงออกมา:
 
-Going back to the example of Chris roleplaying Tordek above, here’s how the scene might play out if Chris used active roleplaying:
+พูดออกมาด้วยเสียงของทอร์เดค คริสออกเสียงห้าวลึก "ข้าก็สงสัยอยู่ว่าทำไมในนี้ถึงได้เหม็นขึ้นมาซะได้ ถ้าข้าอยากจะได้ยินอะไรจากเจ้า ข้าคงจะหักแขนขาเจ้าและเพลิดเพลินกับเสียงกรีดร้องซะมากกว่า" และในเสียงปกติ คริสเพิ่มเติมว่า "ข้าลุกขึ้น จ้องไปที่เอลฟ์และตรงไปที่บาร์"
 
-Speaking as Tordek, Chris says in a gruff, deep voice, “I was wondering why it suddenly smelled awful in here. If I wanted to hear anything out of you, I’d snap your arm and enjoy your screams.” In his normal voice, Chris then adds, “I get up, glare at the elf, and head to the bar.”
+**ผลจากการสวมบทบาท**
+DM จะใช้การกระทำของตัวละครของคุณในการกำหนดว่า NPC จะมีปฏิกิริยาอย่างไร NPC ที่ขี้ขลาดถูกข่มขู่ คนแคระหัวแข็งไม่ยอมให้ใครมาวอแวกับเธอ หรือมังกรที่หลงไปกับคำเยินยอ
 
-Results of Roleplaying
-The DM uses your character’s actions and attitudes to determine how an NPC reacts. A cowardly NPC buckles under threats of violence. A stubborn dwarf refuses to let anyone badger her. A vain dragon laps up flattery.
+เมื่อต้องปฏิสัมพันธ์กับ NPC ให้ตั้งใจกับการที่ DM แสดงอารมณ์ บทสนทนา และการแสดงออกของ NPC คุณอาจจะสามารถรู้ได้ถึงลักษณะเฉพาะ อุดมคติ ข้อบกพร่องและสิ่งที่ยึดมั่นและเล่นกับสิ่งเหล่านี้เพื่อเป็นการชักจูง NPC ได้
 
-When interacting with an NPC, pay close attention to the DM’s portrayal of the NPC’s mood, dialogue, and personality. You might be able to determine an NPC’s personality traits, ideals, flaws, and bonds, then play on them to influence the NPC’s attitude.
+การปฏิสัมพันธ์ใน D&D มีส่วนคล้ายกับในชีวิตจริงอยู่มาก ถ้าคุณให้บางสิ่งที่ NPC ต้องการ ข่มขู่ด้วยสิ่งที่เขากลัว หรือเล่นกับสิ่งที่เขาสงสารหรือเป้าหมาย คุณสามารถใช้คำพูดเพื่อให้ได้ทุกสิ่งที่ต้องการ ในทางกลับกันหากคุณดูถูกนักรบผู้ทรนงหรือพูดจาไม่ดีกับพันธมิตรของราชวงศ์ ความพยายามที่จะโน้มน้าวหรือล่อลวงก็อาจจะสูญเปล่าได้
 
-Interactions in D&D are much like interactions in real life. If you can offer NPCs something they want, threaten them with something they fear, or play on their sympathies and goals, you can use words to get almost anything you want. On the other hand, if you insult a proud warrior or speak ill of a noble’s allies, your efforts to convince or deceive will fall short.
+### การทดสอบความสามารถ (Ability Checks)
 
-### Ability Checks
+ส่วนเพิ่มเติมในการสวมบทบาท การทดสอบความสามารถเป็นกุญแจหลักในการหาผลลัพท์จากการมีปฏิสัมพันธ์
 
-In addition to roleplaying, ability checks are key in determining the outcome of an interaction.
+ความพยายามในการสวมบทบาทของคุณสามารถจะเปลี่ยนทรรศนคติของ NPC ได้ แต่ก็อาจจะยังมีบางอย่างที่ต้องอาศัยโชคด้วยในบางสถานการณ์ ตัวอย่างเช่น DM ขอให้ทอยทดสอบเสน่ห์ (Charisma) ในช่วงใด ๆ ของการปฏิสัมพันธ์ถ้าเขาหรือเธอต้องการให้ลูกเต๋าเป็นตัวตัดสินว่า NPC จะมีปฏิกิริยาแบบใด การทดสอบแบบอื่นก็อาจจะเหมาะสมในแต่ละสถานการณ์ ซึ่ง DM จะเป็นคนตัดสินใจ
 
-Your roleplaying efforts can alter an NPC’s attitude, but there might still be an element of chance in the situation. For example, your DM can call for a Charisma check at any point during an interaction if he or she wants the dice to play a role in determining an NPC’s reactions. Other checks might be appropriate in certain situations, at your DM’s discretion.
+ให้พิจารณาถึงทักษะที่เชี่ยวชาญของคุณเมื่อมีความคิดว่าจะต้องปฏิสัมพันธ์กับ NPC และให้เรียงทักษะที่ชำนาญเพื่อใช้ให้เหมาะสมและได้ผลลัพท์ที่ดีที่สุด หากกลุ่มต้องการหลอกยามเฝ้าประตูให้เปิดประตูให้ การใช้โร็คที่มีความชำนาญด้านการล่อลวง (Deception) จะเป็นตัวเลือกที่ดีที่สุดที่จะเป็นคนนำการสนทนา เมื่อต้องต่อรองให้ปล่อยตัวประกัน เคลริกที่มีความชำนาญด้านการโน้มน้าว (Persuasion) น่าจะเป็นคนที่นำการเจรจา
 
-Pay attention to your skill proficiencies when thinking of how you want to interact with an NPC, and stack the deck in your favor by using an approach that relies on your best bonuses and skills. If the group needs to trick a guard into letting them into a castle, the rogue who is proficient in Deception is the best bet to lead the discussion. When negotiating for a hostage’s release, the cleric with Persuasion should do most of the talking.
+## การพักผ่อน
 
-## Resting
+แม้ว่าจะเป็นฮีโร่เพียงใด นักผจญภัยก็ไม่สามารถจะใช้ทุกชั่วโมงของวันในการสำรวจ การมีปฏิสัมพันธ์ทางสังคมและการต่อสู้ได้ พวกเขาต้องพักผ่อน เป็นเวลาของการนอนและกิน รักษาบาดแผล ผ่อนคลายจิตใจและวิญญาณสำหรับผู้ใช้เวทย์ และเตรียมตัวสำหรับการผจญภัยต่อไป
 
-Heroic though they might be, adventurers can't spend every hour of the day in the thick of exploration, social interaction, and combat. They need rest--time to sleep and eat, tend their wounds, refresh their minds and spirits for spellcasting, and brace themselves for further adventure.
+นักผจญภัย เช่นเดียวกับสิ่งมีชีวิตอื่น ๆ สามารถ "พักระยะสั้น" ระหว่างวันและ "พักยาว" เพื่อจบวัน
 
-Adventurers, as well as other creatures, can take short rests in the midst of a day and a long rest to end it.
+### การพักระยะสั้น (Short Rest)
 
-### Short Rest
+การพักระยะสั้นเป็นการหยุดพักที่ใช้เวลาอย่างน้อย 1 ชม. ระหว่างนั้นตัวละครจะไม่ทำอะไรเกินไปกว่าการกิน ดื่ม อ่านหนังสือ และรักษาอาการบาดเจ็บ
 
-A short rest is a period of downtime, at least 1 hour long, during which a character does nothing more strenuous than eating, drinking, reading, and tending to wounds.
+ตัวละครสามารถใช้ฮิตไดซ์ (Hit Dice) หนึ่งหรือหลายลูกทอยขึ้นอยู่กับจำนวนมากสุดที่มีในเลเวลนั้น ๆ เพื่อฟื้นฟู HP ในช่วงก่อนสิ้นสุดการพักระยะสั้น การทอยจะบวกค่าโมดิไฟเออร์ของความอดทน (Constitution) เข้าไปด้วย ผู้เล่นสามารถเลือกได้ว่าจะทอยเพิ่มหลังการทอยแต่ละครั้ง ตัวละครจะได้รับฮิตไดซ์กลับมาหลังการพักแบบยาว อธิบายด้านล่าง
 
-A character can spend one or more Hit Dice at the end of a short rest, up to the character's maximum number of Hit Dice, which is equal to the character's level. For each Hit Die spent in this way, the player rolls the die and adds the character's Constitution modifier to it. The character regains hit points equal to the total (minimum of 0). The player can decide to spend an additional Hit Die after each roll. A character regains some spent Hit Dice upon finishing a long rest, as explained below.
+### การพักยาว (Long Rest)
 
-### Long Rest
+การพักยาวเป็นช่วงเวลาที่ตัวละครจะได้พักอย่างน้อย 8 ชม. ในช่วงนี้ตัวละครจะต้องนอนอย่างน้อย 6 ชม. และทำกิจกรรมเบาอื่น ๆ ไม่เกิน 2 ชม. เช่นการอ่านหนังสือ การพูดคุย การกิน และการอยู่ยาม ถ้าถูกขัดจังหวะด้วยกิจกรรมหนักเช่น การเดิน 1 ชม. การต่อสู้ การร่ายเวทย์ หรือกิจกรรมการผจญภัยอื่น ๆ ตัวละครต้องเริ่มการพักใหม่เพื่อจะได้ผลจากการพักนั้น
 
-A long rest is a period of extended downtime, at least 8 hours long, during which a character sleeps for at least 6 hours and performs no more than 2 hours of light activity, such as reading, talking, eating, or standing watch. If the rest is interrupted by a period of strenuous activity - at least 1 hour of walking, fighting, casting spells, or similar adventuring activity - the characters must begin the rest again to gain any benefit from it.
+ในช่วงก่อนจบการพักยาว ตัวละครจะได้รับ HP ที่สูญเสียไปกลับคืนมาทั้งหมด ตัวละครจะได้รับฮิตไดซ์ที่ใช้ไปคืนมาด้วยเป็นจำนวนครึ่งหนึ่งของที่มีทั้งหมด ตัวอย่างเช่นถ้ามี 8 ก็จะได้คือมาเป็น 4
 
-At the end of a long rest, a character regains all lost hit points. The character also regains spent Hit Dice, up to a number of dice equal to half of the character's total number of them (minimum of one die). For example, if a character has eight Hit Dice, he or she can regain four spent Hit Dice upon finishing a long rest.
-
-A character can't benefit from more than one long rest in a 24-hour period, and a character must have at least 1 hit point at the start of the rest to gain its benefits.
+ตัวละครจะไม่ได้รับผลประโยชน์มากกว่าการพักยาว 1 ครั้งภายใน 24 ชม. และตัวละครต้องมี HP อย่างน้อย 1 ในตอนเริ่มการพักผ่อนเพื่อให้ได้ประโยชน์จากการพัก
 
 ## Between Adventures
 
