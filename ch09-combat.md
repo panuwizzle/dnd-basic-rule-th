@@ -1,48 +1,49 @@
-# Ch. 9: Combats
-The clatter of a sword striking against a shield. The terrible rending sound as monstrous claws tear through armor. A brilliant flash of light as a ball of flame blossoms from a wizard’s spell. The sharp tang of blood in the air, cutting through the stench of vile monsters. Roars of fury, shouts of triumph, cries of pain. Combat in D&D can be chaotic, deadly, and thrilling.
+# Ch. 9: การต่อสู้
+เสียงดาบกระทบกับโล่ เสียงกรีดร้องอันน่าสยดสยองเมื่อกรงเล็บมหึมาฉีกเกราะ แสงวาบอันเจิดจ้าราวกับลูกบอลเปลวไฟที่ก่อตัวจากคาถาของพ่อมด กลิ่นเลือดที่แหลมคมในอากาศ ตัดผ่านกลิ่นเหม็นของสัตว์ประหลาดที่ชั่วร้าย เสียงคำรามแห่งความโกรธ เสียงตะโกนแห่งชัยชนะ เสียงร้องแห่งความเจ็บปวด การต่อสู้ใน D&D อาจเป็นเรื่องที่วุ่นวาย อันตราย และน่าตื่นเต้น
 
-This section provides the rules you need for your characters and monsters to engage in combat, whether it is a brief skirmish or an extended conflict in a dungeon or on a field of battle. Throughout this section, the rules address you, the player or Dungeon Master. The Dungeon Master controls all the monsters and nonplayer characters involved in combat, and each other player controls an adventurer. “You” can also mean the character or monster that you control.
+ส่วนนี้จะมีข้อมูลของกฏที่คุณต้องใช้สำหรับตัวละครของคุณและมอนสเตอร์ในการสู้กัน ไม่ว่าจะเป็นการปะทะสั้น ๆ หรือความขัดแย้งในดันเจี้ยนหรือในสงคราม ตลอดส่วนนี้ กฏจะใช้กับคุณที่เป็นผู้เล่นหรือดันเจี้ยนมาสเตอร์ ดันเจี้ยนมาสเตอร์จะควบคุมมอนสเตอร์และตัวละครที่ไม่ใช่ผู้เล่นทั้งหมดที่เกี่ยวข้องกับการต่อสู้ และผู้เล่นอื่น ๆ ก็จะควบคุมตัวละครของตน "คุณ" จะหมายถึงตัวละครหรือมอนสเตอร์ที่คุณควบคุม
 
-## The Order of Combat
-A typical combat encounter is a clash between two sides, a flurry of weapon swings, feints, parries, footwork, and spellcasting. The game organizes the chaos of combat into a cycle of rounds and turns. A round represents about 6 seconds in the game world. During a round, each participant in a battle takes a turn. The order of turns is determined at the beginning of a combat encounter, when everyone rolls initiative. Once everyone has taken a turn, the fight continues to the next round if neither side has defeated the other.
+## ลำดับการต่อสู้
 
->COMBAT STEP-BY-STEP
+การต่อสู้ปกติคือการปะทะกันระหว่างสองฝ่าย การกวัดแกว่งอาวุธกันอลม่าน การขยับหลอกล่อ ปัดป้อง การเคลื่อนไหววุ่นวายและการร่ายเวทย์ เกมจัดการความโกลาหลของการต่อสู้เป็นรอบ (round) และตาเดิน (turn) ในหนึ่งรอบแทนเวลา 6 วินาทีในโลกของเกม ระหว่างรอบแต่ละฝ่ายจะใช้ตาเดินของตน ลำดับของตาเดินจะกำหนดตั้งแต่ก่อนเริ่มการต่อสู้ เมื่อทุก ๆ คนทอยหาลำดับ (initiative: อินนิทิเอทีฟ) เมื่อทุกคนใช้ตาเดินของตนไปแล้ว การต่อสู้จะดำเนินไปรอบต่อไปจนกว่าจะได้ผู้ชนะ
+
+>**การต่อสู้ทีละขั้นตอน** 
 >
->**1. Determine surprise.** The DM determines whether anyone involved in the combat encounter is surprised.
->**2. Establish positions.** The DM decides where all the characters and monsters are located. Given the adventurers' marching order or their stated positions in the room or other location, the DM figures out where the adversaries are--how far away and in what direction.
->**3. Roll initiative.** Everyone involved in the combat encounter rolls initiative, determining the order of combatants' turns.
->**4. Take turns.** Each participant in the battle takes a turn in initiative order.
->**5. Begin the next round.** When everyone involved in the combat has had a turn, the round ends. Repeat step 4 until the fighting stops.
+>**1. หาว่ามีใครประหลาดใจหรือไม่** DM จะทำการหาว่ามีใครประหลาดใจกับการเผชิญหน้าหรือไม่
+>**2. กำหนดตำแหน่งของทุคน** DM จะกำหนดว่าตัวละครทุกคนและมอนสเตอร์จะอยู่ตรงไหน อาจใช้ลำดับการเดินทางหรือให้ผู้เล่นบอกตำแหน่งของตัวเองในพื้นที่หรือบริเวณอื่น DM จะกำหนดว่ามอนสเตอร์จะอยู่ตรงไหนและห่างจากตัวละครเท่าไร ในทิศทางใด
+>**3. ทอยหาลำดับ (roll initiative)** ทุกคนที่เกี่ยวกับการต่อสู้ทอยหาลำดับ นำค่าที่ได้มาเรียงกันจากมากไปน้อยเพื่อกำหนดว่าใครจะโจมตีก่อน
+>**4. เล่นในตาของตน** แต่ละคนเล่นตามตาของตัวเองตามลำดับ
+>**5. เริ่มรอบใหม่** เมื่อทุกคนเล่นในตาของตัวเองครบแล้ว จะจบรอบ วนไปตามขั้นที่ 4 ใหม่จนการต่อสู้จบลง
 
-### Suprise
-A band of adventurers sneaks up on a bandit camp, springing from the trees to attack them. A gelatinous cube glides down a dungeon passage, unnoticed by the adventurers until the cube engulfs one of them. In these situations, one side of the battle gains surprise over the other.
+### การประหลาดใจ (surprise)
+กลุ่มนักผจญภัยลอบเข้าไปในแคมป์ของกองโจร โผล่จากแนวไม้เข้าโจมตีพวกมัน มอนสเตอร์ลูกบาศก์เจลเคลื่อนที่เงียบ ๆ ผ่านทางเดินในดันเจี้ยนโดยที่พวกนักเดินทางไม่รู้ตัว เจ้าลูกบาศก์ก็ครอบนักผจญภัยคนนึงไปเสียแล้ว ในสถานการณ์แบบนี้ ฝ่ายหนึ่งจะประหลาดใจจากการโจมตีของอีกฝ่าย
 
-The DM determines who might be surprised. If neither side tries to be stealthy, they automatically notice each other. Otherwise, the DM compares the Dexterity (Stealth) checks of anyone hiding with the passive Wisdom (Perception) score of each creature on the opposing side. Any character or monster that doesn't notice a threat is surprised at the start of the encounter.
+DM จะเป็นคนกำหนดว่าใครที่จะประหลาดใจ ถ้าไม่มีฝ่ายใดพยายามซ่อนตัวพวกเขาจะเห็นกันและกันโดยอัตโนมัติ ไม่อย่างนั้น DM จะเทียบค่าทอยทดสอบความคล่องแคล่ว [Dexterity (Stealth)] ของใครก็ตามที่พยายามซ่อนตัวกับค่าความรอบรู้เบื้องหลัง [passive Wisdom (Perception)] ของสิ่งมีชีวิตแต่ละตัวในกลุ่มฝ่ายตรงข้าม ตัวละครหรือมอนสเตอร์ที่ไม่ผ่านการรับรู้ว่ามีภัยจะประหลาดใจในช่วงเริ่มการต่อสู้
 
-If you're surprised, you can't move or take an action on your first turn of the combat, and you can't take a reaction until that turn ends. A member of a group can be surprised even if the other members aren't.
+ถ้าคุณประหลาดใจ คุณจะไม่สามารถเคลื่อนที่หรือทำแอ็คชัน (action) ใด ๆ ในตาแรกของการต่อสู้ และคุณจะไม่สามารถทำรีแอ็คชัน (reaction) ใด ๆ ได้จนจบตาเดิน สมาชิกในกลุ่มคนหนึ่งสามารถประหลาดใจได้แม้ว่าคนอื่นจะไม่ประหลาดใจ
 
-### Initiative
-Initiative determines the order of turns during combat. When combat starts, every participant makes a Dexterity check to determine their place in the initiative order. The DM makes one roll for an entire group of identical creatures, so each member of the group acts at the same time.
+### การทอยจัดลำดับต่อสู้ (Initiative)
+การทอยจัดลำดับการต่อสู้เป็นการหาลำดับว่าใครจะได้โจมตีก่อนหลัง เมื่อเริ่มการต่อสู้ ทุกคนจะทอยทดสอบความคล่องแคล่ว (Dexterity) เพื่อหาลำดับของตน DM อาจจะทอยครั้งเดียวสำหรับทั้งกลุ่มของมอนสเตอร์ชนิดเดียวกัน ดังนั้นสมาชิกในกลุ่มทุกคนจะโจมตีพร้อมกัน
 
-The DM ranks the combatants in order from the one with the highest Dexterity check total to the one with the lowest. This is the order (called the initiative order) in which they act during each round. The initiative order remains the same from round to round.
+DM จะจัดลำดับคนที่ทอยทดสอบความคล่องแคล่ว (Dexterity) ได้มากสุดไล่ไปจนถึงคนที่ได้น้อยสุด นี่คือลำดับว่าใครจะเล่นก่อนหลังในแต่ละรอบ ลำดับนี้จะใช้ไปทุกรอบจนจบการต่อสู้
 
-If a tie occurs, the DM decides the order among tied DM-controlled creatures, and the players decide the order among their tied characters. The DM can decide the order if the tie is between a monster and a player character. Optionally, the DM can have the tied characters and monsters each roll a d20 to determine the order, highest roll going first.
+ถ้าได้ค่าเสมอกัน DM จะตัดสินใจเลือกลำดับของคนที่เสมอกันในกลุ่มที่ DM ควบคุม และผู้เล่นก็ตัดสินใจกันเองในกลุ่ม DM สามารถตัดสินใจลำดับของมอนสเตอร์และผู้เล่นที่เสมอกัน หรืออาจจะตัดสินให้ทอยใหม่ระหว่างคนที่เสมอ ใครได้มากกว่าก็เล่นก่อน
 
-### Your Turn
-On your turn, you can move a distance up to your speed and take one action. You decide whether to move first or take your action first. Your speed--sometimes called your walking speed--is noted on your character sheet.
+### ตาของคุณ
+ในตาเดินของคุณ คุณสามารถเคลื่อนที่ (move) ได้ระยะทางมากสุดไม่เกินค่าความเร็วการเคลื่อนที่ของคุณ (speed) และทำแอ็คชั่น (action) ได้ 1 ครั้ง คุณตัดสินใจได้ว่าจะเคลื่อนที่ก่อนหรือทำแอ็คชั่นก่อน ความเร็วของคุณ บางทีเรียกความเร็วการเดิน จะระบุไว้ในคาแรกเตอร์ชีต
 
-The most common actions you can take are described in the Actions in Combat section. Many class features and other abilities provide additional options for your action.
+แอ็คชั่นปกติส่วนใหญ่ที่คุณจะใช้ได้มีข้อมูลอยู่ในส่วน "แอ็คชั่นในการต่อสู้" คุณลักษณะพิเศษของคลาส (class features) หลายอย่างและความสามารถบางอย่างจะเพิ่มตัวเลือกแอ็คชั่นที่ใช้ได้มากขึ้น
 
-The Movement and Position section gives the rules for your move.
+ส่วน "การเคลื่อนที่และตำแหน่ง" จะอธิบายกฏการเคลื่อนที่
 
-You can forgo moving, taking an action, or doing anything at all on your turn. If you can't decide what to do on your turn, consider taking the Dodge or Ready action, as described in "Actions in Combat."
+คุณอาจจะไม่เคลื่อนที่ ไม่ทำแอ็คชั่น หรือไม่ทำอะไรเลยในตาของคุณก็ได้ ถ้าคุณตัดสินใจไม่ได้ว่าจะทำอะไร ลองทำการ "หลบหลีก" (dodge) หรือ "เตรียมพร้อม" (ready) อย่างที่อธิบายไว้ใน "แอ็คชั่นในการต่อสู้"
 
-#### Bonus Actions
-Various class features, spells, and other abilities let you take an additional action on your turn called a bonus action. The Cunning Action feature, for example, allows a rogue to take a bonus action. You can take a bonus action only when a special ability, spell, or other feature of the game states that you can do something as a bonus action. You otherwise don't have a bonus action to take.
+#### โบนัสแอ็คชั่น (Bonus Actions)
+คุณลักษณะพิเศษของคลาส เวทย์มนต์และความสามารถอื่น ๆ จะทำให้คุณสามารถทำแอ็ตชั่นเพิ่มได้อีกในตาของคุณ เรียกว่าโบนัสแอ็คชั่น คุณสมบัติคันนิ่งแอ็คชั่น (Cunning Action) เป็นตัวอย่าง, ทำให้โร็คใช้โบนัสแอ็คชั่นได้ คุณจะสามารถใช้โบนัสแอ็คชันได้เมื่อคุณมีความสามารถพิเศษ เวทย์มนต์พิเศษ หรือคุณลักษณะอื่นในเกมที่ระบุว่าคุณสามารถทำบางอย่างด้วยโบนัสแอ็คชันได้เท่านั้น ไม่อย่างนั้นคุณจะไม่สามารถใช้โบนัสแอ็คชันได้
 
-You can take only one bonus action on your turn, so you must choose which bonus action to use when you have more than one available.
+คุณจะใช้โบนัสแอ็คชั่นได้ครั้งเดียวในแต่ละตาของคุณ ดังนั้นคุณต้องเลือกว่าจะใช้อะไรหากคุณมีตัวเลือกหลายอย่าง
 
-You choose when to take a bonus action during your turn, unless the bonus action's timing is specified, and anything that deprives you of your ability to take actions also prevents you from taking a bonus action.
+คุณสามารถเลือกได้ว่าจะใช้โบนัสแอ็คชั่นเมื่อใดในตาของคุณ หากไม่มีกฏระบุไว้ว่าต้องใช้ตอนไหน และอะไรก็ตามที่ขัดขวางคุณให้ใช้ความสามารถก็จะทำให้คุณใช้โบนัสแอ็คชั่นไม่ได้ด้วย
 
 #### Other Activity on Your Turn
 Your turn can include a variety of flourishes that require neither your action nor your move.
