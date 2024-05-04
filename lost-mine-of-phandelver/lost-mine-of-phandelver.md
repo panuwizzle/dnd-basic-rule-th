@@ -192,9 +192,9 @@ The regional map shows just a tiny part of this vast world, in a region called t
 >
 >A character can have only one inspiration at a time.
 
-[![MAP OF THE SWORD COAST](/assets/tmb_lmop01.jpg)](/assets/lmop01.jpg)
+[![MAP OF THE SWORD COAST](../assets/tmb_lmop01.jpg)](../assets/lmop01.jpg)
 
-[View Player Version](/assets/lmop2.jpg)
+[View Player Version](../assets/lmop2.jpg)
 
 ## Premade Characters
 These premade character sheets are available to claim.
