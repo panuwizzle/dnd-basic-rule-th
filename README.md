@@ -8,8 +8,19 @@
 
 ขอให้สนุกกับการเล่นเกมครับ
 
-## [กฏพื้นฐาน (Basic Rules)](/basic-rules/index.md)
-## [เหมืองที่สาบสูญแห่งแฟนเดลเวอร์ (Lost Mine of Phandelver)](/lost-mine-of-phandelver/lost-mine-of-phandelver.md)
+
+D&D แต่ละเวอร์ชันจะออกกฏเป็นชุดหนังสือ เรียกว่า ซอร์ส (sources) แบ่งเป็น หนังสือกฏหลัก ([Core rule books](https://marketplace.dndbeyond.com/core-rules)) มี 3 เล่ม เล่มหลักเรียกว่า คู่มือผู้เล่น (Player handbook) มีข้อมูลเผ่าพันธู์ อาชีพหรือคลาส กฏการเล่นรวมถึงข้อมูลอื่น ๆ เล่ม 2 เรียกว่า คู่มือของดันเจี้ยนมาสเตอร์ (Dungeon Master Guide) มีเนื้อหาเรื่องการดำเนินเกม การสร้างโลกและเรื่องราวการผจญภัยของเราเอง เล่ม 3 คือ รายการมอนสเตอร์ (Monster Manual) รวมรายการมอนสเตอร์ รายละเอียดและสแต็ตบล็อค (Stat block) ของมอนสเตอร์แต่ละตัว เอาไว้ให้ DM ไปใช้รันเกมได้
+
+อีกชุดเป็นข้อมูลเสริม ([Expanded Rules](https://marketplace.dndbeyond.com/expanded-rules)) มีหลายเล่มโดยจะออกมาเพิ่มเรื่อย ๆ เล่มที่แนะนำมี 3 เล่มคือ หม้อใหญ่แห่งสรรพสิ่งของทาร์ชาร์ (Tasha's Cauldron of Everything), คู่มือสรรพสิ่งของซาร์นาธาร์ (Xanathar's Guide to Everything) และ มอร์เดนไคเน็น เสนอ: มอนสเตอร์แห่งมัลติเวอร์ส (Mordenkainen Presents: Monsters of the Multiverse) 
+
+## กฏและข้อมูลอื่น ๆ (Sources)
+[กฏพื้นฐาน (Basic Rules)](/basic-rules/index.md)
+
+## Campaign
+[เหมืองที่สาบสูญแห่งแฟนเดลเวอร์ (Lost Mine of Phandelver)](/lost-mine-of-phandelver/lost-mine-of-phandelver.md)  
+
+## One-shot
+[หลุมมรณะแห่งโมลอค (Dead Pit of Moloch)](/assets/dead-pit-of-moloch.pdf)
 
 ---
 มอนสเตอร์บางส่วนนำมาจาก https://github.com/vitusventure/5thSRD
