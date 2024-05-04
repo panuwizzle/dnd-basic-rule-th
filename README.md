@@ -10,3 +10,6 @@
 
 ## [กฏพื้นฐาน (Basic Rules)](/basic-rules/index.md)
 ## [เหมืองที่สาบสูญแห่งแฟนเดลเวอร์ (Lost Mine of Phandelver)](/lost-mine-of-phandelver/lost-mine-of-phandelver.md)
+
+---
+มอนสเตอร์บางส่วนนำมาจาก https://github.com/vitusventure/5thSRD

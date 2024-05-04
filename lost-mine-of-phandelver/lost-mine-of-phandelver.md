@@ -299,11 +299,11 @@ If you are using the “[Meet Me in Phandalin]()” adventure hook, then any cha
 
 >The saddlebags have been looted. Nearby lies an empty leather map case.
 
-Four [goblins]() are hiding in the woods, two on each side of the road. They wait until someone approaches the bodies and then attack.
+Four [goblins](/monsters/goblin.md) are hiding in the woods, two on each side of the road. They wait until someone approaches the bodies and then attack.
 
 This will likely be the first of many combat encounters in the adventure. Here are the steps you should follow to run it effectively:
 
-- Review the [goblin]() stat block in [appendix B](). Since the goblins are hiding, you’ll need to know their [Stealth]() skill modifier: +6.
+- Review the [goblin](/monsters/goblin.md) stat block in [appendix B](). Since the goblins are hiding, you’ll need to know their [Stealth]() skill modifier: +6.
 - Check to see who, if anyone, is surprised. The party can’t surprise the goblins, but the goblins might surprise some or all of the characters. Make a Dexterity ([Stealth]()) check for the goblins: roll one d20 for all of them, add their [Stealth]() skill modifier (+6) to the roll, and compare the total to the characters’ passive Wisdom ([Perception]()) scores. A character whose score is lower than the goblins’ check total is [surprised]() and therefore can’t do anything on his or her first turn in the combat (see “[Surprise]()” in the [Basic Rules]()).
 - Use the [initiative rules]() in the Basic Rules to determine who acts first, second, third, and so on. Keep track of everyone’s initiative count on a piece of paper.
 - When the time comes for the goblins to act, two of them rush forward and make melee attacks while two goblins stand 30 feet away from the party and make ranged attacks. The goblins’ stat block contains the information you need to resolve these attacks. For more information on what the goblins can do on their turn, see [chapter 9, “Combat,”]() in the Basic Rules.
@@ -338,7 +338,7 @@ Defeating the goblin ambushers and finding the Cragmaw hideout completes a story
 >
 >If the characters capture or charm any of the goblins here, the goblins can be persuaded to divulge some useful information:
 >
->- Fewer than twenty [goblins]() currently dwell in the lair.
+>- Fewer than twenty [goblins](/monsters/goblin.md) currently dwell in the lair.
 >- Their leader is a [bugbear]() named Klarg. He answers to King Grol, chief of the Cragmaw tribe, who dwells in Cragmaw Castle. (The goblins can provide basic directions to Cragmaw Castle. It’s about twenty miles northeast of the Cragmaw hideout, in Neverwinter Wood.)
 >- Klarg received a messenger goblin from King Grol a few days ago. The messenger told him that someone named the Black Spider was paying the Cragmaws to watch out for the dwarf Gundren Rockseeker, capture him, and send him and anything he was carrying back to King Grol. Klarg followed his orders. Gundren was ambushed and taken along with his personal effects, including a map.
 >- The dwarf and his map were delivered to King Grol, as instructed. The dwarf’s human companion is being held in the “eating cave” ([area 6]()).
@@ -394,7 +394,7 @@ When the characters cross to the east side of the stream, they can see around th
 
 >On the east side of the stream flowing from the cave mouth, a small area in the briar thickets has been hollowed out to form a lookout post or blind. Wooden planks flatten out the briars and provide room for guards to lie hidden and watch the area—including a pair of goblins lurking there right now!
 
-Two [goblins]() are stationed here. If the goblins notice intruders in area 1, they open fire with their bows, shooting through the thickets and probably catching the characters by surprise. If the goblins don’t notice the adventurers in area 1, they spot them when they splash across the stream, and neither side is surprised.
+Two [goblins](/monsters/goblin.md) are stationed here. If the goblins notice intruders in area 1, they open fire with their bows, shooting through the thickets and probably catching the characters by surprise. If the goblins don’t notice the adventurers in area 1, they spot them when they splash across the stream, and neither side is surprised.
 
 Characters moving carefully or scouting ahead might be able to surprise the goblin lookouts. Have each character who moves ahead make a Dexterity ([Stealth]()) check contested by the goblins’ passive Wisdom ([Perception]()) score to avoid being [surprised](). See the [Basic Rules]() for more information on ability check contests.
 
@@ -405,7 +405,7 @@ The Cragmaws keep a kennel of foul-tempered wolves that they are training for ba
 
 >Just inside the cave mouth, a few uneven stone steps lead up to a small, dank chamber on the east side of the passage. The cave narrows to a steep fissure at the far end, and is filled with the stench of animals. Savage snarls and the sounds of rattling chains greet your ears where three wolves are chained up just inside the opening. Each wolf’s chain leads to an iron rod driven into the base of a stalagmite.
 
-Three [wolves]() are confined here. They can’t reach targets standing on the steps, but all three attack any creature except a goblin that moves into the room (see the “[Developments]()” section). Goblins in nearby caves ignore the sounds of fighting wolves, since they constantly snap and snarl at each other.
+Three [wolves](/monsters/wolf.md) are confined here. They can’t reach targets standing on the steps, but all three attack any creature except a goblin that moves into the room (see the “[Developments]()” section). Goblins in nearby caves ignore the sounds of fighting wolves, since they constantly snap and snarl at each other.
 
 A character who tries to calm the animals can attempt a DC 15 Wisdom ([Animal Handling]()) check. On a success, the wolves allow the character to move throughout the room. If the wolves are given food, the DC drops to 10.
 
@@ -442,7 +442,7 @@ If the characters didn’t spot the bridge while navigating area 4, they spot it
 
 >A rickety bridge spans the passage, connecting two tunnels that are 20 feet above the stream.
 
-One [goblin]() stands watch on the bridge. It is hiding, and characters can spot it by succeeding on a Wisdom ([Perception]()) check contested by the goblin’s Dexterity ([Stealth]()) check. This guard is lazy and inattentive. If no characters are using light sources, each character can attempt a Dexterity ([Stealth]()) check against the goblin’s passive Wisdom ([Perception]()) score to creep by without being noticed.
+One [goblin](/monsters/goblin.md) stands watch on the bridge. It is hiding, and characters can spot it by succeeding on a Wisdom ([Perception]()) check contested by the goblin’s Dexterity ([Stealth]()) check. This guard is lazy and inattentive. If no characters are using light sources, each character can attempt a Dexterity ([Stealth]()) check against the goblin’s passive Wisdom ([Perception]()) score to creep by without being noticed.
 
 If the goblin spots the adventurers, it signals the goblins in [area 7]() to release a flood (see the “[Flood!]()” section), then fire arrows down at the characters.
 
@@ -464,11 +464,11 @@ The Cragmaw raiders stationed in the hideout use this area as a common room and 
 
 >This large cave is divided in half by a ten-foot-high escarpment. A steep natural staircase leads from the lower portion to the upper ledge. The air is hazy with the smoke of a cooking fire, and pungent from the smell of poorly cured hides and unwashed goblins.
 
-Six [goblins]() inhabit this den, and one of them is a leader with 12 hit points. The five ordinary goblins tend the cooking fire in the lower (northern) part of the cave near the entrance passage, while the leader rests in the upper (southern) part of the cave.
+Six [goblins](/monsters/goblin.md) inhabit this den, and one of them is a leader with 12 hit points. The five ordinary goblins tend the cooking fire in the lower (northern) part of the cave near the entrance passage, while the leader rests in the upper (southern) part of the cave.
 
-[Sildar Hallwinter](), a human warrior, is held prisoner in this chamber. He is securely bound on the southern ledge of the cavern. The goblins have been beating and tormenting him, so he is weak and at 1 hit point.
+[Sildar Hallwinter](/monsters/sildar_hallwinter.md), a human warrior, is held prisoner in this chamber. He is securely bound on the southern ledge of the cavern. The goblins have been beating and tormenting him, so he is weak and at 1 hit point.
 
-The goblin leader, [Yeemik](), is second-in-command of the whole hideout. If he sees that the characters are getting the upper hand, he grabs Sildar and drags him over to the edge of the upper level. “Truce, or this human dies!” he shouts.
+The goblin leader, [Yeemik](/monsters/yeemik.md), is second-in-command of the whole hideout. If he sees that the characters are getting the upper hand, he grabs Sildar and drags him over to the edge of the upper level. “Truce, or this human dies!” he shouts.
 
 Yeemik wants to oust Klarg and become the new boss. If the adventurers agree to parley, Yeemik tries to convince them to kill Klarg in [area 8](), promising to release Sildar when they bring back the bugbear’s head. Sildar groggily warns the characters that they shouldn’t trust the goblin, and he’s right. If the characters take the deal, Yeemik tries to force them to pay a rich ransom for Sildar even after they complete their part of the bargain.
 
@@ -512,7 +512,7 @@ If the goblins have drained either pool to flood the passage, adjust the followi
 
 >This cavern is half filled with two large pools of water. A narrow waterfall high in the eastern wall feeds the pool, which drains out the western end of the chamber to form the stream that flows out of the cave mouth below. Low fieldstone walls serve as dams holding the water in. A wide exit stands to the south, while two smaller passages lead west. The sound of the waterfall echoes through the cavern, making it difficult to hear.
 
-Three [goblins]() guard this cave. If the goblin in [area 5]() spotted the characters and warned the goblins here, they are ready for trouble. The noise of the waterfall means that the creatures in area 8 can’t hear any fighting that takes place here, and vice versa. Therefore, as soon as a fight breaks out here, one goblin flees to area 8 to warn Klarg.
+Three [goblins](/monsters/goblin.md) guard this cave. If the goblin in [area 5]() spotted the characters and warned the goblins here, they are ready for trouble. The noise of the waterfall means that the creatures in area 8 can’t hear any fighting that takes place here, and vice versa. Therefore, as soon as a fight breaks out here, one goblin flees to area 8 to warn Klarg.
 
 **Rock Dams**. The goblins built simple dams to control the flow of water through the heart of the complex. If the goblin sentry in area 5 has called for the goblins here to release a flood, one or both of the pools are mostly empty and the stream is flowing unimpeded.
 
@@ -521,7 +521,7 @@ The leader of the goblinoids insists on keeping the bulk of the raiders’ stole
 
 >Sacks and crates of looted provisions are piled up in the south end of this large cave. To the west, the floor slopes toward a narrow opening that descends into darkness. A larger opening leads north down a set of natural stone steps, the roar of falling water echoing from beyond. In the middle of the cavern, the coals of a large fire smolder.
 
-Klarg the [bugbear]() shares this cave with his mangy pet [wolf](), Ripper, and two goblins. The bugbear is filled with delusions of grandeur and views himself as a mighty warlord just beginning his career of conquest. He is not entirely sane, referring to himself in the third person (“Who dares defy Klarg?” or “Klarg will build a throne from your bones, puny ones!”). The goblins under his command resent his bullying.
+Klarg the [bugbear](/monsters/bugbear.md) shares this cave with his mangy pet [wolf](/monsters/wolf.md), Ripper, and two [goblins](/monsters/goblin.md). The bugbear is filled with delusions of grandeur and views himself as a mighty warlord just beginning his career of conquest. He is not entirely sane, referring to himself in the third person (“Who dares defy Klarg?” or “Klarg will build a throne from your bones, puny ones!”). The goblins under his command resent his bullying.
 
 **Fire Pit**. The hot coals in the central fire pit deal 1 fire damage to any creature that enters the fire pit, or 1d6 fire damage to any creature that falls [prone]() there. A creature can take each type of damage only once per round.
 
