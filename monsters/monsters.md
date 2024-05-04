@@ -2,10 +2,10 @@
 ## A
 
 ## B
-[Bugbear - บักแบร์](/monsters/bugbear)
+[Bugbear - บักแบร์](./bugbear.md)
 
 ## G
-[Goblin - ก๊อบลิน](/monsters/goblin)  
+[Goblin - ก๊อบลิน](./goblin.md)  
 
 ## W
-[Wolf - หมาป่า](/monsters/wolf)  
+[Wolf - หมาป่า](./wolf.md)  
