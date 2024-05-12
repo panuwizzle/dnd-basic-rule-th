@@ -1,26 +1,26 @@
 # บทนำ
 
-เกมสวมบทบาท Dungeons & Dragons เป็นการเล่าเรื่องในโลกแห่งดาบและเวทมนตร์ มีองค์ประกอบร่วมกับเกมสมมุติในวัยเด็ก เช่นเดียวกับเกมเหล่านั้น D&D ขับเคลื่อนด้วยจินตนาการ เป็นเรื่องเกี่ยวกับการนึกภาพถึงปราสาทสูงตระหง่านใต้ท้องฟ้ายามค่ำคืนที่มีพายุ และจินตนาการว่านักผจญภัยในจินตนาการจะตอบสนองต่อความท้าทายในฉากนั้นได้อย่างไร
+เกมสวมบทบาทดันเจี้ยนและมังกร (Dungeons & Dragons) เป็นการเล่าเรื่องในโลกแห่งดาบและเวทมนตร์ มีองค์ประกอบร่วมกับเกมสมมุติในวัยเด็ก เช่นเดียวกับเกมเหล่านั้น D&D ขับเคลื่อนด้วยจินตนาการ เป็นเรื่องเกี่ยวกับการนึกภาพถึงปราสาทสูงตระหง่านใต้ท้องฟ้ายามค่ำคืนที่มีพายุ และจินตนาการว่านักผจญภัยในจินตนาการจะตอบสนองต่อความท้าทายในฉากนั้นได้อย่างไร
 
-> **ดันเจี้ยนมาสเตอร์ (DM)**: After passing through the craggy peaks, the road takes a sudden turn to the east and Castle Ravenloft towers before you. Crumbling towers of stone keep a silent watch over the approach. They look like abandoned guardhouses. Beyond these, a wide chasm gapes, disappearing into the deep fog below. A lowered drawbridge spans the chasm, leading to an arched entrance to the castle courtyard. The chains of the drawbridge creak in the wind, their rust-eaten iron straining with the weight. From atop the high strong walls, stone gargoyles stare at you from hollow sockets and grin hideously. A rotting wooden portcullis, green with growth, hangs in the entry tunnel. Beyond this, the main doors of Castle Ravenloft stand open, a rich warm light spilling into the courtyard.
+> **ดันเจี้ยนมาสเตอร์ (DM)**: หลังจากผ่านยอดผาสูงชัน ถนนก็หักเลี้ยวไปทางตะวันออกและที่นั่น ปราสาทราเวนลอล์ฟปรากฏอยู่เบื้องหน้าคุณ หอคอยหินที่พังทลายคอยเฝ้ามองผู้มาเยือนอย่างเงียบงัน พวกมันดูเหมือนป้อมที่ถูกทิ้งร้าง ถัดไปจากที่นั่นเป็นหุบผากว้างเบื้องล่างเลือนหายไปกับหมอกด้านล่าง สะพานชักทอดข้ามไปอีกฝั่งนำไปสู่ซุ้มโค้งทางเข้าลานหน้าปราสาท โซ่ชักสะพานกรีดเสียงเอี๊ยดอ๊าดในสายลม หนาหนักและเต็มไปด้วยสนิมเหล็ก ด้านบนของกำแพงหินสูงแข็งแรง มีการ์กอยหินจ้องมาทางคุณจากช่องว่างดูมันมีรอยยิ้มอย่างมีเลศนัย ประตูหน้าเป็นไม้ชื้นรามีเครือเถาวัลย์และไม้เลื้อยพาดไปตามทางเข้า ถัดไปจากจุดนี้ ประตูหลักของปราสาทราเวนลอร์ฟเปิดกว้าง มีแสงสว่างนวลตาลอดออกมาที่ลานด้านหน้า
 >
-> **Phillip (playing Gareth)**: I want to look at the gargoyles. I have a feeling they’re not just statues.
+> **ฟิลลิป (เล่นเป็นการ์เร็ท)**: ฉันอยากดูเจ้าการ์กอยนั่นหน่อย ฉันว่ามันแปลก ๆ ไม่น่าจะเป็นแค่รูปปั้นนะ
 >
-> **Amy (playing Riva)**: The drawbridge looks precarious? I want to see how sturdy it is. Do I think we can cross it, or is it going to collapse under our weight?
+> **เอมี่ (เล่นเป็นริวา)**: สะพานชักมันดูไม่แข็งแรงรึเปล่า ฉันอยากเห็นว่ามันจะทนทานแค่ไหน คิดว่าฉันจะรู้มั๊ยว่าเราสามารถข้ามมันได้หรือมันจะขาดแล้วพวกเราร่วงลงไปข้างล่าง?
 
-Unlike a game of make-believe, D&D gives structure to the stories, a way of determining the consequences of the adventurers’ action. Players roll dice to resolve whether their attacks hit or miss or whether their adventurers can scale a cliff, roll away from the strike of a magical lightning bolt, or pull off some other dangerous task. Anything is possible, but the dice make some outcomes more probable than others.
+ส่วนที่ไม่เหมือนกับเกมสมมติสมัยเด็กของเรา D&D มีโครงสร้างของเรื่องราว มีวิธีในการตัดสินผลจากการกระทำต่าง ๆ ของนักผจญภัย ผู้เล่นจะทอยลูกเต๋าเพื่อหาผลลัพท์ ไม่ว่าจะเป็นพวกเขาโจมตีโดนหรือไม่ หรือนักผจญภัยสามารถไต่หน้าผาไปได้หรือไม่ ม้วนตัวหลบเวทย์สายฟ้าที่กำลังโจมตีมาพ้นหรือเปล่า หรือสามารถทำภาระกิจยาก ๆ ได้สำเร็จหรือไม่ อะไรก็เป็นไปได้แต่ลูกเต๋าจะทำให้ผลลัพท์แตกต่างออกไป
 
 > ดันเจี้ยนมาสเตอร์ (DM): OK, one at a time. Phillip, you’re looking at the gargoyles?
 >
-> Phillip: Yeah. Is there any hint they might be creatures and not decorations?
+> ฟิลลิป: Yeah. Is there any hint they might be creatures and not decorations?
 >
 > DM: Make an Intelligence check.
 >
-> Phillip: Does my Investigation skill apply?
+> ฟิลลิป: Does my Investigation skill apply?
 >
 > DM: Sure!
 >
-> Phillip (rolling a d20): Ugh. Seven.
+> ฟิลลิป (rolling a d20): Ugh. Seven.
 >
 > DM: They look like decorations to you. And Amy, Riva is checking out the drawbridge?
 
