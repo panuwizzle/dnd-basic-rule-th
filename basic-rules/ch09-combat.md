@@ -503,36 +503,36 @@ Sometimes an attacker wants to incapacitate a foe, rather than deal a killing bl
 หากคุณมีแต้มพลังชีวิต 0 การได้รับแต้มเลือดชั่วคราวจะไม่ทำให้คุณฟื้นคืนสติหรือทำให้คุณอยู่ในภาวะทรงตัวได้ แต่ค่าเลือดชั่วคราวยังสามารถดูดซับความเสียหายที่ส่งตรงถึงคุณในขณะที่คุณอยู่ในสถานะนั้น แต่มีเพียงการรักษาที่แท้จริงเท่านั้นที่จะช่วยคุณได้
 เว้นแต่คุณสมบัติที่ให้พลังชีวิตชั่วคราวแก่คุณจะมีระยะเวลา คุณสมบัติเหล่านี้จะคงอยู่จนกว่าจะหมดหรือคุณพักผ่อนเป็นเวลานาน (long rest)
 
-## Mounted Combat
+## การต่อสู้บนพาหนะ (Mounted Combat)
 
-A knight charging into battle on a warhorse, a wizard casting spells from the back of a griffon, or a cleric soaring through the sky on a pegasus all enjoy the benefits of speed and mobility that a mount can provide.
+อัศวินพุ่งเข้าสมรภูมิบนหลังมาสงคราม วิซาร์ดร่ายเวทย์โจมตีจากหลังของกริฟฟอน หรือเคลอริคบินฝ่าอากาศมาบนหลังเปกาซัส ทุกคนสนุกกับความเร็วและการเคลื่อนที่ว่องไวเมื่ออยู่บนพาหนะ
 
-A willing creature that is at least one size larger than you and that has an appropriate anatomy can serve as a mount, using the following rules.
+สิ่งมีชีวิตที่เต็มใจที่มีขนาดใหญ่กว่าคุณ 1 ขนาดและมีลักษณะที่เหมาะกับการเป็นพาหนะได้ ใช้กฏตามด้านล่างนี้
 
-### Mounting and Dismounting
+### การขึ้นขี่และลงจากพาหนะ (Mounting and Dismounting)
 
-Once during your move, you can mount a creature that is within 5 feet of you or dismount. Doing so costs an amount of movement equal to half your speed. For example, if your speed is 30 feet, you must spend 15 feet of movement to mount a horse. Therefore, you can’t mount it if you don’t have 15 feet of movement left or if your speed is 0.
+ในขณะช่วงการเคลื่อนที่ของคุณ คุณสามารถขึ้นขี่หรือลงจากสิ่งมีชีวิตที่อยู่ในระยะ 5 ฟุตใกล้คุณ การทำแบบนี้จะต้องใช้ครึ่งหนึ่งของระยะเคลื่อนที่ ตัวอย่าง ถ้าคุณมีระยะเคลื่อนที่ (speed) 30 ฟุต คุณจะใช้ 15 ฟุตในการขึ้นขี่ม้า นั่นคือคุณจะขึ้นขี่มันไม่ได้ถ้ามีระยะเคลื่อนที่เหลือไม่ถึง 15 ฟุต หรือถ้าเหลือ 0
 
-If an effect moves your mount against its will while you’re on it, you must succeed on a DC 10 Dexterity saving throw or fall off the mount, landing prone in a space within 5 feet of it. If you’re knocked prone while mounted, you must make the same saving throw.
+ถ้ามีอะไรที่ทำให้พาหนะเคลื่อนที่ไปโดยไม่เต็มใจเมื่อคุณขี่อยู่ คุณจะต้องทอยป้องกันความคล่องแคล่ว (Dexterity saving) DC 10 ให้ผ่านไม่เช่นนั้นคุณจะตกจากพาหนะ ตกลงมานอนที่พื้น (prone) ในพื้นที่ 5 ฟุตใกล้ ๆ พาหนะ ถ้าคุณถูกตีจนติดสถานะล้มนอนในขณะขี่พาหนะ คุณต้องทอยป้องกันแบบเดียยวกัน
 
-If your mount is knocked prone, you can use your reaction to dismount it as it falls and land on your feet. Otherwise, you are dismounted and fall prone in a space within 5 feet it.
+ถ้าพาหนะถูกตีจนล้มนอน คุณสามารถใช้รีแอ็คชันในการลงจากพาหนะ ไม่เช่นนั้นคุณจะหลุดจากพาหนะและล้มนอนในพื้นที่ 5 ฟุตใกล้เคียง
 
-### Controlling a Mount
+### การควบคุมพาหนะ (Controlling a Mount)
 
-While you’re mounted, you have two options. You can either control the mount or allow it to act independently. Intelligent creatures, such as dragons, act independently.
+เมื่อคุณอยู่บนพาหนะ คุณมี 2 ตัวเลือก คุณสามารถควบคุมมันเองหรือปล่อยให้มันทำตามใจ สัตว์ที่มีภูมิปัญญาเช่นมังกรจะทำไปตามอิสระ
 
-You can control a mount only if it has been trained to accept a rider. Domesticated horses, donkeys, and similar creatures are assumed to have such training. The initiative of a controlled mount changes to match yours when you mount it. It moves as you direct it, and it has only three action options: Dash, Disengage, and Dodge. A controlled mount can move and act even on the turn that you mount it.
+คุณสามารถควบคุมสัตว์ที่ได้รับการฝึกและยอมรับคนขี่ ม้าที่ฝึกแล้ว ลา และสิ่งมีชีวิตอื่นที่ได้รับการฝึก ลำดับในการต่อสู้ของพาหนะจะเปลี่ยนให้เหมือนคุณ มันจะเคลื่อนที่ตามที่คุณสั่งและมันจะมีแอ็คชันแค่ 3 อย่างคือ แดช (Dash), ผละออก (Disengage) และหลบหลีก (Dodge) พาหนะจะเคลื่อนที่และทำแอ็คชันแม้ในตาเดินที่คุณขึ้นขี่
 
-An independent mount retains its place in the initiative order. Bearing a rider puts no restrictions on the actions the mount can take, and it moves and acts as it wishes. It might flee from combat, rush to attack and devour a badly injured foe, or otherwise act against your wishes.
+พาหนะที่เป็นอิสระจะใช้ลำดับการต่อสู้เดิมและเพราะคนขี่ไม่ได้ควบคุมให้ทำแอ็คชันใด ๆ มันจะสามารถเคลื่อนที่และทำแอ็คชันของตัวเองอย่างอิสระ มันอาจจะหนีไปจากการต่อสู้ พุ่งเข้าไปกินศัตรูที่บาดเจ็บหรืออาจจะไม่ทำตามที่คุณขอให้ทำ
 
-In either case, if the mount provokes an opportunity attack while you’re on it, the attacker can target you or the mount.
+ไม่ว่าในกรณีใด ถ้าพาหนะทำให้เกิดการโจมตีตามโอกาส (opportunity attack) ในขณะที่คุณขี่อยู่ ผู้โจมตีสามารถจะโจมตีคุณหรือพาหนะได้
 
-## Underwater Combat
+## การต่อสู้ใต้น้ำ (Underwater Combat)
 
-When adventurers pursue sahuagin back to their undersea homes, fight off sharks in an ancient shipwreck, or find themselves in a flooded dungeon room, they must fight in a challenging environment. Underwater the following rules apply.
+เมื่อนักผจญภัยไล่ตามซาฮัวกิ้น (sahuagin) ไปถึงรังของมันใต้ทะเล สู้กับปลาฉลามในซากเรือโบราณ หรือพบว่าติดอยู่ในดันเจี้ยนที่น้ำกำลังท่วมขึ้นมา พวกเขาต้องต่อสู้ในสิ่งแวดล้อมที่ท้าทาย การต่อสู้ใต้น้ำมีกฏดังนี้
 
-When making a **melee weapon attack**, a creature that doesn't have a swimming speed (either natural or granted by magic) has disadvantage on the attack roll unless the weapon is a dagger, javelin, shortsword, spear, or trident.
+เมื่อคุณโจมตีด้วยอาวุธระยะประชิด สิ่งมีชีวิตไม่มีความเร็วในการว่ายน้ำ (ไม่ว่าจะโดยธรรมชาติหรือโดยเวทย์มนต์) ทำให้ต้องทอยโจมตีแบบเสียเปรียบ ยกเว้นอาวุธเป็นมีดสั้น (dagger) หอกซัด (javelin) ดาบสั้น (shortsword), หอก (spear) หรือสามง่าม (trident)
 
-A **ranged weapon attack** automatically misses a target beyond the weapon's normal range. Even against a target within normal range, the attack roll has disadvantage unless the weapon is a crossbow, a net, or a weapon that is thrown like a javelin (including a spear, trident, or dart).
+อาวุธโจมตีระยะไกลจะพลาดเป้าหมดหากศัตรูอยู่เกินระยะโจมตีปกติ และแม้ว่าจะอยู่ในระยะ การโจมตีก็จะทอยแบบเสียเปรียบ ยกเว้นอาวุธเป็นครอสโบว์ (crossbow) ตาข่าย (net) และอาวุธที่ใช้ขว้างเช่น หอกซัด (javelin) (รวมถึงหอก สามง่ามและลูกดอก (dart))
 
-Creatures and objects that are fully immersed in water have resistance to fire damage.
+สิ่งมีชีวิตหรือวัตถุที่จมอยู่ในน้ำทั้งตัวจะมีความต้านทานต่อความเสียหายจากไฟ (resistance to fire damage)
