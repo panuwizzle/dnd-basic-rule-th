@@ -2,35 +2,35 @@
 
 เกมสวมบทบาทดันเจี้ยนและมังกร (Dungeons & Dragons) เป็นการเล่าเรื่องในโลกแห่งดาบและเวทมนตร์ มีองค์ประกอบร่วมกับเกมสมมุติในวัยเด็ก เช่นเดียวกับเกมเหล่านั้น D&D ขับเคลื่อนด้วยจินตนาการ เป็นเรื่องเกี่ยวกับการนึกภาพถึงปราสาทสูงตระหง่านใต้ท้องฟ้ายามค่ำคืนที่มีพายุ และจินตนาการว่านักผจญภัยในจินตนาการจะตอบสนองต่อความท้าทายในฉากนั้นได้อย่างไร
 
-> **ดันเจี้ยนมาสเตอร์ (DM)**: หลังจากผ่านยอดผาสูงชัน ถนนก็หักเลี้ยวไปทางตะวันออกและที่นั่น ปราสาทราเวนลอล์ฟปรากฏอยู่เบื้องหน้าคุณ หอคอยหินที่พังทลายคอยเฝ้ามองผู้มาเยือนอย่างเงียบงัน พวกมันดูเหมือนป้อมที่ถูกทิ้งร้าง ถัดไปจากที่นั่นเป็นหุบผากว้างเบื้องล่างเลือนหายไปกับหมอกด้านล่าง สะพานชักทอดข้ามไปอีกฝั่งนำไปสู่ซุ้มโค้งทางเข้าลานหน้าปราสาท โซ่ชักสะพานกรีดเสียงเอี๊ยดอ๊าดในสายลม หนาหนักและเต็มไปด้วยสนิมเหล็ก ด้านบนของกำแพงหินสูงแข็งแรง มีการ์กอยหินจ้องมาทางคุณจากช่องว่างดูมันมีรอยยิ้มอย่างมีเลศนัย ประตูหน้าเป็นไม้ชื้นรามีเครือเถาวัลย์และไม้เลื้อยพาดไปตามทางเข้า ถัดไปจากจุดนี้ ประตูหลักของปราสาทราเวนลอร์ฟเปิดกว้าง มีแสงสว่างนวลตาลอดออกมาที่ลานด้านหน้า
+> **ดันเจี้ยนมาสเตอร์ (DM)**: หลังจากผ่านยอดผาสูงชัน ถนนก็หักเลี้ยวไปทางตะวันออกและที่นั่น ปราสาทราเวนลอล์ฟปรากฏอยู่เบื้องหน้าคุณ หอคอยหินที่พังทลายคอยเฝ้ามองผู้มาเยือนอย่างเงียบงัน พวกมันดูเหมือนป้อมที่ถูกทิ้งร้าง ถัดไปจากที่นั่นเป็นหุบผากว้างเบื้องล่างเลือนหายไปกับหมอกด้านล่าง สะพานชักทอดข้ามไปอีกฝั่งนำไปสู่ซุ้มโค้งทางเข้าลานหน้าปราสาท โซ่ชักสะพานกรีดเสียงเอี๊ยดอ๊าดในสายลม หนาหนักและเต็มไปด้วยสนิมเหล็ก ด้านบนของกำแพงหินสูงแข็งแรง มีการ์กอยหินจ้องมาทางคุณจากช่องว่างดูมันมีรอยยิ้มอย่างมีเลศนัย ประตูหน้าเป็นไม้ชื้นรามีเครือเถาวัลย์และไม้เลื้อยพาดไปตามทางเข้า ถัดไปจากจุดนี้ ประตูหลักของปราสาทราเวนลอร์ฟเปิดกว้างออก มีแสงสว่างนวลตาลอดออกมาที่ลานด้านหน้า
 >
 > **ฟิลลิป (เล่นเป็นการ์เร็ท)**: ฉันอยากดูเจ้าการ์กอยนั่นหน่อย ฉันว่ามันแปลก ๆ ไม่น่าจะเป็นแค่รูปปั้นนะ
 >
 > **เอมี่ (เล่นเป็นริวา)**: สะพานชักมันดูไม่แข็งแรงรึเปล่า ฉันอยากเห็นว่ามันจะทนทานแค่ไหน คิดว่าฉันจะรู้มั๊ยว่าเราสามารถข้ามมันได้หรือมันจะขาดแล้วพวกเราร่วงลงไปข้างล่าง?
 
-ส่วนที่ไม่เหมือนกับเกมสมมติสมัยเด็กของเรา D&D มีโครงสร้างของเรื่องราว มีวิธีในการตัดสินผลจากการกระทำต่าง ๆ ของนักผจญภัย ผู้เล่นจะทอยลูกเต๋าเพื่อหาผลลัพท์ ไม่ว่าจะเป็นพวกเขาโจมตีโดนหรือไม่ หรือนักผจญภัยสามารถไต่หน้าผาไปได้หรือไม่ ม้วนตัวหลบเวทย์สายฟ้าที่กำลังโจมตีมาพ้นหรือเปล่า หรือสามารถทำภาระกิจยาก ๆ ได้สำเร็จหรือไม่ อะไรก็เป็นไปได้แต่ลูกเต๋าจะทำให้ผลลัพท์แตกต่างออกไป
+ส่วนที่ไม่เหมือนกับเกมสมมติสมัยเด็กของเราคือ D&D มีโครงสร้างของเรื่องราว มีวิธีในการตัดสินผลจากการกระทำต่าง ๆ ของนักผจญภัย ผู้เล่นจะทอยลูกเต๋าเพื่อหาผลลัพท์ ไม่ว่าจะเป็นพวกเขาโจมตีโดนหรือไม่ หรือนักผจญภัยสามารถไต่หน้าผาไปได้หรือไม่ ม้วนตัวหลบเวทย์สายฟ้าที่กำลังโจมตีมาพ้นหรือเปล่า หรือสามารถทำภาระกิจยาก ๆ ได้สำเร็จหรือไม่ อะไรก็เป็นไปได้แต่ลูกเต๋าจะทำให้ผลลัพท์แตกต่างออกไป
 
-> ดันเจี้ยนมาสเตอร์ (DM): OK, one at a time. Phillip, you’re looking at the gargoyles?
+> ดันเจี้ยนมาสเตอร์ (DM): OK ทีละคนนะ ฟิลลิป นายมองไปที่การ์กอยใช่มั๊ย
 >
-> ฟิลลิป: Yeah. Is there any hint they might be creatures and not decorations?
+> ฟิลลิป: ใช่ มันมีอะไรให้สังเกตุได้มั๊ยว่ามันเป็นสิ่งมีชีวิตไม่ใช่ของตกแต่งน่ะ?
 >
-> DM: Make an Intelligence check.
+> DM: ทอยทดสอบความฉลาด (Inteligence) หน่อย
 >
-> ฟิลลิป: Does my Investigation skill apply?
+> ฟิลลิป: ใช้ทักษะการสืบสวน (Investigation) ได้มั๊ย?
 >
-> DM: Sure!
+> DM: จัดมา!
 >
-> ฟิลลิป (rolling a d20): Ugh. Seven.
+> ฟิลลิป (ทอยลูกเต๋า d20 1 ลูก): ฮึ่ยย ได้เจ็ด
 >
-> DM: They look like decorations to you. And Amy, Riva is checking out the drawbridge?
+> DM: พวกการ์กอยดูเป็นของประดับธรรมดาสำหรับนาย และเอมี ริวากำลังตรวจดูสะพานใช่มั๊ย?
 
-In the Dungeons & Dragons game, each player creates an adventurer (also called a character) and teams up with other adventurers (played by friends). Working together, the group might explore a dark dungeon, a ruined city, a haunted castle, a lost temple deep in a jungle, or a lava-filled cavern beneath a mysterious mountain. The adventurers can solve puzzles, talk with other characters, battle fantastic monsters, and discover fabulous magic items and other treasure.
+ในเกมดันเจี้ยนแอนด์ดราก้อน ผู้เล่นแต่ละคนจะสร้างนักผจญภัย (เรียกว่าตัวละคร (character) ก็ได้) และจัดทีมกับนักผจญภัยคนอื่น (เล่นโดยเพื่อนคนอื่น) เมื่อไปด้วยกัน ทั้งกลุ่มจะลงสำรวจดันเจี้ยนมืดมิด เมืองโบราณ ปราสาทผีสิง วิหารที่สาปสูญกลางป่าดงดิบ หรือถ้ำที่เต็มไปด้วยลาวาในภูเขาลึกลับ นักผจญภัยสามารถแก้ปริศนา คุยกับตัวละครอื่น ต่อสู้กับมอนสเตอร์ และค้นพบของวิเศษและสมบัติมากมาย
 
-One player, however, takes on the role of the ดันเจี้ยนมาสเตอร์ (DM), the game’s lead storyteller and referee. The DM creates adventures for the characters, who navigate its hazards and decide which paths to explore. The DM might describe the entrance to Castle Ravenloft, and the players decide what they want their adventurers to do. Will they walk across the dangerously weathered drawbridge? Tie themselves together with rope to minimize the chance that someone will fall if the drawbridge gives way? Or cast a spell to carry them over the chasm? Then the DM determines the results of the adventurers’ actions and narrates what they experience. Because the DM can improvise to react to anything the players attempt, D&D is infinitely flexible, and each adventure can be exciting and unexpected.
+ผู้เล่นหนึ่งคนต้องรับหน้าที่เป็น ดันเจี้ยนมาสเตอร์ (DM) เป็นผู้นำเล่าเรื่องและเป็นกรรมการ โดย DM จะสร้างการผจญภัยให้ตัวละครได้ออกสำรวจและตัดสินใจว่าจะเลือกทางไหน DM อาจจะอธิบายถึงทางเข้าของปราสาทราเวนลอร์ฟ และผู้เล่นตัดสินใจว่าจะทำอะไรกับมัน พวกเขาจะเดินข้ามสะพานอันตรายไปมั๊ย หรือจะเอาเชือกผูกตัวติดกันไว้เผื่อว่ามีใครหล่นลงไปจะได้ช่วยได้ หรือจะร่ายคาถาเพื่อให้ลอยข้ามหุบผาไปเลย ตัดสินใจได้แล้ว DM จะตัดสินผลจากการตัดสินใจนั้นและเล่าว่าเกิดอะไรขึ้น และเพราะว่า DM สามารถจะด้นสดได้ว่าเกิดเหตุการณ์อะไรขึ้น D&D จึงเป็นเกมที่ยืดหยุ่นและมีความเป็นไปได้มากมาย และนักผจญภัยแต่ละคนก็สามารถสนุกตื่นเต้นและเจอเรื่องไม่คาดฝันได้ไม่จำกัด
 
-The game has no real end; when one story or quest wraps up, another one can begin, creating an ongoing story called a campaign. Many people who play the game keep their campaigns going for months or years, meeting with their friends every week or so to pick up the story where they left off. The adventurers grow in might as the campaign continues. Each monster defeated, each adventure completed, and each treasure recovered not only adds to the continuing story, but also earns the adventurers new capabilities. This increase in power is reflected by an adventurer’s level.
+D&D เป็นเกมที่ไม่มีตอนจบที่แท้จริง เมื่อเรื่องราวหรือเควสหนึ่งจบลง อีกเรื่องหนึ่งก็เริ่มต้นได้อีก การสร้างเรื่องราวต่อเนื่องไปเราเรียกว่า แคมเปญ (campaign) หลายคนที่เล่นเกมมักจะดำเนินเรื่องไปเรื่อย ๆ เป็นเดือนเป็นปี พบปะกับเพื่อน ๆ ทุกสัปดาห์เพื่อเล่นเกมต่อเนื่องไปจากคราวก่อน นักผจญภัยก็แข็งแกร่งขึ้นตามเรื่องราวที่ดำเนินไป แต่ละมอนสเตอร์ที่ถูกโค่นลงได้ แต่ละการผจญภัยที่สำเร็จลุล่วง และสมบัติที่เก็บกลับมาได้ไม่ใช่แค่เติมต่อเรื่องราวแต่ยังเพิ่มความสามารถให้กับนักผจญภัยอีกด้วย การเติบโตนี้สะท้อนให้เห็นจากเลเวลของนักผจญภัยที่เพิ่มขึ้น
 
-There’s no winning and losing in the Dungeons & Dragons game—at least, not the way those terms are usually understood. Together, the DM and the players create an exciting story of bold adventurers who confront deadly perils. Sometimes an adventurer might come to a grisly end, torn apart by ferocious monsters or done in by a nefarious villain. Even so, the other adventurers can search for powerful magic to revive their fallen comrade, or the player might choose to create a new character to carry on. The group might fail to complete an adventure successfully, but if everyone had a good time and created a memorable story, they all win.
+ไม่มีการแพ้หรือชนะในเกมดันเจี้ยนแอนด์ดราก้อน อย่างน้อยก็ไม่ใช่ในแบบที่พบในเกมทั่วไป เมื่อ DM และผู้เล่นช่วยกันสร้างเรื่องราวที่น่าตื่นใจของนักผจญภัยผู้ต่อกรกับศัตรูตัวฉกาจ บางครั้งนักผจญภัยอาจจะพบจุดจบที่น่าเศร้า ถูกฆ่าตายโดยมอนสเตอร์หรืออาชญากรร้าย แม้เป็นดังนั้นนักผจญภัยคนอื่นก็หาทางช่วยเพื่อนด้วยคาถาชุบชีวิตได้ หรือผู้เล่นอาจจะเลือกสร้างตัวละครใหม่เลยก็ได้ ทั้งกลุ่มอาจจะล้มเหลวในการผจญภัย แต่หากทุกคนมีช่วงเวลาและความทรงจำที่ดีแล้ว นั่นหมายถึงทุกคนชนะ
 
 ## Worlds of Adventure
 
