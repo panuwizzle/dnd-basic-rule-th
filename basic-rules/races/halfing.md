@@ -1,20 +1,20 @@
-## <a name="halfling">Halfling</a>
+## <a name="halfling">ฮาล์ฟลิ่ง</a>
 
-> Regis the halfling, the only one of his kind for hundreds of miles in any direction, locked his fingers behind his head and leaned back against the mossy blanket of the tree trunk. Regis was short, even by the standards of his diminutive race, with the fluff of his curly brown locks barely cresting the three-foot mark, but his belly was amply thickened by his love of a good meal, or several, as the opportunities presented themselves. The crooked stick that served as his fishing pole rose up above him, clenched between two of his toes, and hung out over the quiet lake, mirrored perfectly in the glassy surface of Maer Dualdon.
+> ฮาล์ฟลิ่งเรกิส เป็นฮาล์ฟลิ่งคนเดียวในรัศมีร้อยไมล์ ผสานมือกันรองหัวไว้แล้วเอนนอนไปบนต้นไม้ล้มที่มีมอสขึ้นหนานุ่ม เรกิสตัวเตี้ย แม้จะตามมาตรฐานของเผ่าพันธุ์ที่ตัวเล็กของเขา ผมหยิกสีน้ำตาลบนร่างที่สูงไม่ถึง 3 ฟุต แต่พุงของเขาก็ใหญ่หนาจากความชื่นชอบอาหารโอชะตามโอกาสจะอำนวย กิ่งไม้คดเคี้ยวที่ใช้เป็นคันเบ็ดพาดอยู่เหนือลำตัวโดยเอาหัวแม่เท้าทั้งสองหนีบไว้ เบ็ดหย่อนลงในทะเลสาปอันเงียบสงบ น้ำใสสะท้อนดั่งกระจกแห่งเมียร์ดูอัลดอน
 >
-> — R.A. Salvatore, The Crystal Shard
+> — อาร์.เอ. ซัลวาทอร์, เดอะ คริสตัลชาร์ด (The Crystal Shard)
 
-The comforts of home are the goals of most halflings’ lives: a place to settle in peace and quiet, far from marauding monsters and clashing armies; a blazing fire and a generous meal; fine drink and fine conversation. Though some halflings live out their days in remote agricultural communities, others form nomadic bands that travel constantly, lured by the open road and the wide horizon to discover the wonders of new lands and peoples. But even these wanderers love peace, food, hearth, and home, though home might be a wagon jostling along an dirt road or a raft floating downriver.
+ความเป็นอยู่อย่างสบายเป็นเป้าหมายหลักของชีวิตฮาล์ฟลิ่ง บนดินแดนที่สงบและสันติ ห่างไกลจากมอนสเตอร์บ้าคลั่งและการรบพุ่ง กองไฟสว่างไสวและอาหารชั้นเลิศ เครื่องดื่มรสนุ่มและการสนทนาที่ครื้นเครง แม้ฮาล์ฟลิ่งบางคนจะใช้ชีวิตอยู่แต่ในชุมชนชนบททำเกษตร บางกลุ่มก็ออกเดินทางเร่ร่อนไปเรื่อย ถูกล่อด้วยถนนทอดยาวสุดขอบฟ้าออกเดินทางค้นหาสิ่งมหัศจรรย์ ผู้คนและสถานที่แปลกใหม่ แม้จะเป็นนักเดินทางเช่นนั้นแต่ก็ยังชอบความสงบสุข อาหาร ความอบอุ่นและบ้าน แม้ว่าบ้านจะเป็นรถลากที่เคลื่อนที่ไปบนถนนดินขรุขระหรือแพที่ลอยไปตามกระแสน้ำ
 
-### Small and Practical
+### ตัวเล็กและและนักปฏิบัติ
 
-The diminutive halflings survive in a world full of larger creatures by avoiding notice or, barring that, avoiding offense. Standing about 3 feet tall, they appear relatively harmless and so have managed to survive for centuries in the shadow of empires and on the edges of wars and political strife. They are inclined to be stout, weighing between 40 and 45 pounds.
+ฮาล์ฟลิ่งตัวเล็กเอาตัวรอดในโลกที่มีแต่สิ่งมีชีวิตตัวใหญ่กว่าด้วยการหลบเลี่ยงหรือหลีกหนีการเผชิญหน้า ความสูงเมื่อยืนประมาณ 3 ฟุต พวกเขาดูไม่มีพิษภัยและนั่นทำให้อยู่รอดมาได้หลายศตวรรษภายใต้เงาของจักรวรรดิ อยู่รอดพ้นสงครามและความขัดแย้งทางการเมือง พวกเขามักจะมีร่างท้วม น้ำหนักระหว่าง 40 - 45 ปอนด์
 
-Halflings’ skin ranges from tan to pale with a ruddy cast, and their hair is usually brown or sandy brown and wavy. They have brown or hazel eyes. Halfling men often sport long sideburns, but beards are rare among them and mustaches even more so. They like to wear simple, comfortable, and practical clothes, favoring bright colors.
+สีผิวของฮาล์ฟลิ่งอยู่ระหว่างสีแทนจนถึงขาวมีสีเลือดฝาด และผมมักจะเป็นสีน้ำตาลหรือน้ำตาลอ่อนเป็นลอน มีตาสีน้ำตาลหรือสีเฮเซล ผู้ชายไว้จอนยาวแต่มักไม่ไว้เคราแต่ไว้หนวดกัน พวกเขาชอบใส่เสื้อผ้าสบาย ๆ ง่าย ๆ ใส่ทำงานสะดวก และชอบสีสดใส
 
-Halfling practicality extends beyond their clothing. They’re concerned with basic needs and simple pleasures and have little use for ostentation. Even the wealthiest of halflings keep their treasures locked in a cellar rather than on display for all to see. They have a knack for finding the most straightforward solution to a problem, and have little patience for dithering.
+การเป็นนักปฏิบัติของฮาล์ฟลิ่งไม่ได้แสดงออกทางเสื้อผ้าอย่างเดียว พวกเขามักคิดถึงความต้องการพื้นฐานและชอบความสุขเรียบง่าย และไม่ชอบโอ้อวด แม้แต่ฮาล์ฟลิ่งที่ร่ำรวยก็เก็บสมบัติเอาไว้แต่ในห้องใต้ดินมากกว่าจะนำมาแสดงให้คนอื่นเห็น พวกเขามักจะมุ่งเน้นไปที่การหาทางแก้ไขที่ง่ายที่สุดให้กับทุกปัญหา ไม่ชอบให้อะไรค้างคา
 
-### Kind and Curious
+### ใจดีและใฝ่รู้
 
 Halflings are an affable and cheerful people. They cherish the bonds of family and friendship as well as the comforts of hearth and home, harboring few dreams of gold or glory. Even adventurers among them usually venture into the world for reasons of community, friendship, wanderlust, or curiosity. They love discovering new things, even simple things, such as an exotic food or an unfamiliar style of clothing.
 
