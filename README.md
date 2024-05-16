@@ -20,7 +20,7 @@ D&D แต่ละเวอร์ชันจะออกกฏเป็นช�
 [เหมืองที่สาบสูญแห่งแฟนเดลเวอร์ (Lost Mine of Phandelver)](/lost-mine-of-phandelver/lost-mine-of-phandelver.md)  
 
 ## One-shot
-[หลุมมรณะแห่งโมลอค (Dead Pit of Moloch)](/assets/dead-pit-of-moloch.pdf)
+[หลุมมรณะแห่งโมลอค (Dead Pit of Moloch)](/one-shot/dead-pit-of-moloch.pdf)
 
 ---
 มอนสเตอร์บางส่วนนำมาจาก https://github.com/vitusventure/5thSRD
