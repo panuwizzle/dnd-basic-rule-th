@@ -16,45 +16,45 @@
 
 ### ใจดีและใฝ่รู้
 
-Halflings are an affable and cheerful people. They cherish the bonds of family and friendship as well as the comforts of hearth and home, harboring few dreams of gold or glory. Even adventurers among them usually venture into the world for reasons of community, friendship, wanderlust, or curiosity. They love discovering new things, even simple things, such as an exotic food or an unfamiliar style of clothing.
+ฮาล์ฟลิ่งเป็นคนสุภาพและร่าเริ่ง พวกเขาทะนุถนอมสายสัมพันธ์ของครอบครัวและมิตรสหายเช่นเดียวกับความสบายและอบอุ่นในบ้าน มีบ้างที่ฝันถึงทองและความรุ่งโรจน์ แม้แต่นักผจญภัยในหมู่พวกเขาก็ออกผจญภัยด้วยเหตุผลของชุมชน มิตรภาพ อยากไปท่องเที่ยวหรือแค่อยากรู้อยากเห็น พวกเขารักในการค้นพบสิ่งใหม่ ๆ แม้แต่ของพื้น ๆ อย่างอาหารที่ไม่เคยกินหรือเสื้อผ้าที่แปลกตาก็ทำให้ตื่นเต้นได้แล้ว
 
-Halflings are easily moved to pity and hate to see any living thing suffer. They are generous, happily sharing what they have even in lean times.
+ฮาล์ฟลิ่งจะอารมณ์อ่อนไหว ขี้สงสารและไม่ชอบที่จะเห็นสิ่งมีชีวิตต้องเจ็บปวด พวกเขาเอื้อเฟื้อเผื่อแผ่ ยินดีที่จะแบ่งปันสิ่งที่มีแม้ในยามยากลำบาก
 
-### Blend into the Crowd
+### ผสมผสานเข้ากับชุมชน
 
-Halflings are adept at fitting into a community of humans, dwarves, or elves, making themselves valuable and welcome. The combination of their inherent stealth and their unassuming nature helps halflings to avoid unwanted attention.
+ฮาล์ฟลิ่งสามารถปรับตัวให้เข้ากับชุมชนของมนุษย์ ดวอร์ฟ หรือเอลฟ์ ทำตนเองให้มีคุณค่าและเป็นที่ยอมรับ ด้วยความที่สามารถหลบซ่อนได้เก่งและรอบคอบเสมอเป็นธรรมชาติ สิ่งนี้ช่วยให้ฮาล์ฟลิ่งหลีกเลี่ยงการตกเป็นที่สนใจได้
 
-Halflings work readily with others, and they are loyal to their friends, whether halfling or otherwise. They can display remarkable ferocity when their friends, families, or communities are threatened.
+ฮาล์ฟลิ่งทำงานอย่างขยันขันแข็งกับคนอื่น และพวกเขาซื่อสัตย์กับเพื่อนไม่ว่าจะเป็นฮาล์ฟลิ่งด้วยกันหรือเผ่าพันธุ์อื่น พวกเขาจะแสดงออกถึงความกล้าหาญอย่างน่าประทับใจเมื่อเพื่อน ครอบครัว หรือชุมชนตกอยู่ในอันตราย
 
-### Pastoral Pleasantries
+### ความสุขแบบชาวบ้าน
 
-Most halflings live in small, peaceful communities with large farms and well-kept groves. They rarely build kingdoms of their own or even hold much land beyond their quiet shires. They typically don’t recognize any sort of halfling nobility or royalty, instead looking to family elders to guide them. Families preserve their traditional ways despite the rise and fall of empires.
+ฮาล์ฟลิ่งส่วนใหญ่จะอาศัยอยู่ในชุมชนเล็กที่สงบสุข มีฟาร์มขนาดใหญ่และสวนผลไม้ที่ได้รับการดูแลอย่างดี น้อยมากที่จะสร้างอาณาจักรขนาดใหญ่ของตนเองหรือแม้จะครอบครองที่ดินกว้างเกินกว่าหมู่บ้านที่สงบของพวกเขา ปกติแล้วจะไม่สนใจเรื่องชนชั้นหรือราชวงศ์ แต่จะให้ความสำคัญกับผู้อาวุโสในครอบครัว ครอบครัวเป็นสิ่งที่รักษาประเพณีไว้แม้จักรวรรดิ์จะรุ่งเรืองหรือล่มสลาย
 
-Many halflings live among other races, where the halflings’ hard work and loyal outlook offer them abundant rewards and creature comforts. Some halfling communities travel as a way of life, driving wagons or guiding boats from place to place and maintaining no permanent home.
+ฮาล์ฟลิ่งมากมายอาศัยอยู่กับเผ่าพันธุ์อื่น การทำงานหนักและซื่อสัตย์ทำให้พวกเขาได้รับรางวัลอย่างสมน้ำสมเนื้อพร้อมด้วยความสะดวกสะบาย ชุมชนฮาล์ฟลิ่งบางกลุ่มถือเอาการเดินทางเป็นวิถีของชีวิต ขับรถลากหรือล่องเรือไปจากที่หนึ่งสู่ที่หนึ่งโดยไม่ได้ลงหลักปักฐานที่ใด
 
-### Exploring Opportunities
+### โอกาสในการท่องโลก
 
-Halflings usually set out on the adventurer’s path to defend their communities, support their friends, or explore a wide and wonder-filled world. For them, adventuring is less a career than an opportunity or sometimes a necessity.
+ฮาล์ฟลิ่งมักจะเลือกออกผจญภัยเพื่อป้องกันชุมชนของตน ช่วยเหลือเพื่อน หรือเพื่อการท่องโลก สำหรับพวกเขา การผจญภัยไม่ได้เป็นอาชีพจริงจัง จะถือเป็นโอกาสในการทำสิ่งที่จำเป็นมากกว่า
 
-> AFFABLE AND POSITIVE
+> สุภาพและคิดบวก
 >
-> Halflings try to get along with everyone else and are loath to make sweeping generalizations — especially negative ones.
+> ฮาล์ฟลิ่งพยายามจะเข้ากับทุกคนให้ได้และมักจะพูดแบบอ้อม ๆ ถ้าไม่ชอบใคร
 >
-> Dwarves. “Dwarves make loyal friends, and you can count on them to keep their word. But would it hurt them to smile once in a while?”
+> ดวอร์ฟ "ดวอร์ฟเป็นเพื่อนที่ดีนะ และท่านมั่นใจในคำสัตย์ของพวกเขาได้เลย แต่ถ้ายิ้มสักครั้งก็น่าจะดี"
 >
-> Elves. “They’re so beautiful! Their faces, their music, their grace and all. It’s like they stepped out of a wonderful dream. But there’s no telling what’s going on behind their smiling faces — surely more than they ever let on.”
+> เอลฟ์ "พวกเขาสวยงามมาก! ใบหน้า ดนตรี การวางตัวและทั้งหมด เหมือนว่าพวกเขาก้าวออกมาจากความฝัน แต่ก็บอกไม่ได้ว่ามีอะไรซ่อนอยู่หลังใบหน้ายิ้มแย้มนั่นรึเปล่า ข้าแน่ใจว่าพวกเขามีอะไรแน่"
 >
-> Humans. “Humans are a lot like us, really. At least some of them are. Step out of the castles and keeps, go talk to the farmers and herders and you’ll find good, solid folk. Not that there’s anything wrong with the barons and soldiers — you have to admire their conviction. And by protecting their own lands, they protect us as well.”
+> มนุษย์ "มนุษย์มีอะไรเหมือนพวกเราหลายอย่าง จริงนะ อย่างน้อยบางคนก็เหมือนหละ ต้องออกมาจากปราสาทและป้อมปราการ ไปคุยกับชาวนาและคนเลี้ยงสัตว์ ท่านจะเจอคนดี ๆ จริงใจ ก็ใช่ว่ามีอะไรไม่ดีกับพวกบารอนหรือทหารหรอกนะ ท่านต้องชื่นชมความกล้าหาญ และจากการที่พวกเขามุ่งมันป้องกันบ้านเมืองของเขา พวกเราก็ได้รับการปกป้องเช่นกัน"
 
-### Halfling Names
+### ชื่อของฮาลฟ์ลิ่ง
 
-A halfling has a given name, a family name, and possibly a nickname. Family names are often nicknames that stuck so tenaciously they have been passed down through the generations.
+ฮาล์ฟลิ่งจะมีชื่อ นามสกุล และอาจจะมีชื่อเล่น นามสกุลจริงแล้วมักจะเป็นชื่อเล่นที่เรียกต่อกันมาหลายชั่วคน
 
-Male Names: Alton, Ander, Cade, Corrin, Eldon, Errich, Finnan, Garret, Lindal, Lyle, Merric, Milo, Osborn, Perrin, Reed, Roscoe, Wellby
+ชื่อผู้ชาย: อัลตัน, แอนเดอร์, เคด, คอริน, เอลดอน, เออริช, ฟินนาน, การ์เร็ท, ลินดัล, ไลน์, เมอร์ริค, ไมโล, ออสบอร์น, เพอร์ริน, รีด, รอสโค, เวลบี้
 
-Female Names: Andry, Bree, Callie, Cora, Euphemia, Jillian, Kithri, Lavinia, Lidda, Merla, Nedda, Paela, Portia, Seraphina, Shaena, Trym, Vani, Verna
+ชื่อผู้หญิง: แอนดรี, บรี, แคลลี่, โคร่า, ยูฟีเมีย, จิลเลี่ยน, คิทรี, ลาวิเนีย, ลินดา, เมอลา, เน็ดด้า, พีล่า, พอร์เทีย, เซราฟีนา, ชีน่า, ไทรม, วานี่, เวอร์น่า
 
-Family Names: Brushgather, Goodbarrel, Greenbottle, High-hill, Hilltopple, Leagallow, Tealeaf, Thorngage, Tosscobble, Underbough
+ชื่อสกุล: บุชเกเธอร์, กู๊ดบาเรลล์, กรีนบอทเทิล, ไฮ-ฮิล, ฮิลท็อปเปิล, ลีกัลโล, ทีลีฟ, ธอร์นเกจ, ทอสโคเบิล, อันเดอร์บอจฮ์
 
 ### Halfling Traits
 

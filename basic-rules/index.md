@@ -218,10 +218,10 @@
 
 # ภาคผนวก
 
-## [ภาคผนวก A: สภาวะ (Condition)](./appendice-a.md)
+## [ภาคผนวก A: สภาวะ (Condition)](./appendice-a-condition.md)
 
-## [ภาคผนวก B: เทพเจ้าในมัลติเวอร์ส](./appendice-b.md)
+## [ภาคผนวก B: เทพเจ้าในมัลติเวอร์ส](./appendice-b-god-of-multiverse.md)
 
-## [ภาคผนวก C: กลุ่มอำนาจทั้ง 5](./appendice-c.md)
+## [ภาคผนวก C: กลุ่มอำนาจทั้ง 5](./appendice-c-5-factions.md)
 
-## [ภาคผนวก D: The Planes of Existence](./appendice-d.md)
+## [ภาคผนวก D: The Planes of Existence](./appendice-d-plane-of-existence.md)
