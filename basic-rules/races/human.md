@@ -1,10 +1,10 @@
-## <a name="human">Human</a>
+## <a name="human">มนุษย์</a>
 
-> These were the stories of a restless people who long ago took to the seas and rivers in longboats, first to pillage and terrorize, then to settle. Yet there was an energy, a love of adventure, that sang from every page. Long into the night Liriel read, lighting candle after precious candle.
+> นี่เป็นเรื่องราวของผู้คนที่ไม่เคยหยุดนิ่งผู้ซึ่งมานานมาแล้วได้ล่องเรือสู่ทะเลและแม่น้ำในเรือใหญ่ แรกเริ่มเต็มไปด้วยการปล้นสดมและสร้างความหวาดกลัวต่อมาจึงลงหลักปักฐาน ยังมีพลังมีความรักต่อการผจญภัยในทุกหน้า จนดึกดื่น ลิริเอลยังคงอ่านอยู่ หมดเทียนไขเล่มแล้ว เล่มเล่า
 >
-> She’d never given much thought to humans, but these stories fascinated her. In these yellowed pages were tales of bold heroes, strange and fierce animals, mighty primitive gods, and a magic that was part and fabric of that distant land.
+> เธอไม่เคยสนใจมนุษย์นัก แต่เรื่องราวเหล่านี้ทำให้เธอประหลาดใจ ในหน้าหนังสือกระดาษสีเหลืองนี้มีเรื่องราวของผู้กล้า สัตว์ดุร้ายแปลกประหลาด เทพเจ้าโบราณทรงอำนาจ และเวทย์มนต์ที่เป็นส่วนหนึ่งและเครื่องยึดโยกของดินแดนอันไกลโพ้นนั้น
 >
-> — Elaine Cunningham, Daughter of the Drow
+> — เอเลน คันนิ่งแฮม, ธิดาแห่งชาวดราว (Daughter of the Drow)
 
 In the reckonings of most worlds, humans are the youngest of the common races, late to arrive on the world scene and short-lived in comparison to dwarves, elves, and dragons. Perhaps it is because of their shorter lives that they strive to achieve as much as they can in the years they are given. Or maybe they feel they have something to prove to the elder races, and that’s why they build their mighty empires on the foundation of conquest and trade. Whatever drives them, humans are the innovators, the achievers, and the pioneers of the worlds.
 
