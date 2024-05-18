@@ -56,42 +56,42 @@
 
 ชื่อสกุล: บุชเกเธอร์, กู๊ดบาเรลล์, กรีนบอทเทิล, ไฮ-ฮิล, ฮิลท็อปเปิล, ลีกัลโล, ทีลีฟ, ธอร์นเกจ, ทอสโคเบิล, อันเดอร์บอจฮ์
 
-### Halfling Traits
+### ลักษณะพิเศษของฮาล์ฟลิ่ง (Halfling Traits)
 
-Your halfling character has a number of traits in common with all other halflings.
+ตัวละครฮาล์ฟลิ่งของคุณมีลักษณะพิเศษร่วมกันในหมู่ฮาล์ฟลิ่ง
 
-Ability Score Increase. Your Dexterity score increases by 2.
+คะแนนความสามารถเพิ่ม คะแนนความคล่องแคล่วของคุณจะเพิ่ม 2 แต้ม
 
-Age. A halfling reaches adulthood at the age of 20 and generally lives into the middle of his or her second century.
+อายุ ฮาล์ฟลิ่งจะเข้าสู่วัยผู้ใหญ่เมื่ออายุ 20 และปกติจะอยู่จนอายุ 150 ปี
 
-Size. Halflings average about 3 feet tall and weigh about 40 pounds. Your size is Small.
+ขนาด ฮาล์ฟลิ่งสูงเฉลี่ย 3 ฟุต หนักราว 40 ปอนด์ มีขนาดเล็ก (Small)
 
-Speed. Your base walking speed is 25 feet.
+ระยะเคลื่อนที่ ความเร็วในการเดินของคุณคือ 25 ฟุต
 
-Lucky. When you roll a 1 on the d20 for an attack roll, ability check, or saving throw, you can reroll the die and must use the new roll.
+โชคดี เมื่อคุณทอยได้ 1 ในการทอยโจมตี ทอยทดสอบความสามารถ หรือทอยป้องกัน คุณสามารถทอยใหม่ได้และต้องใช้ค่าจากการทอยใหม่นั้น
 
-Brave. You have advantage on saving throws against being frightened.
+กล้าหาญ คุณจะได้ทอยป้องกันแบบได้เปรียบ เมื่อต้องป้องกันจากความกลัว (frightened)
 
-Halfling Nimbleness. You can move through the space of any creature that is of a size larger than yours.
+ความว่องไวของฮาล์ฟลิ่ง คุณสามารถเคลื่อนที่ผ่านช่องว่างของสิ่งมีชีวิตอื่นที่มีขนาดใหญ่กว่าคุณ
 
-Languages. You can speak, read, and write Common and Halfling. The Halfling language isn’t secret, but halflings are loath to share it with others. They write very little, so they don’t have a rich body of literature. Their oral tradition, however, is very strong. Almost all halflings speak Common to converse with the people in whose lands they dwell or through which they are traveling.
+ภาษา คุณสามารถพูด อ่าน และเขียนภาษาคอมมอน (Common) และฮาล์ฟลิ่ง (Halfling) ภาษาฮาล์ฟลิ่งไม่ได้เป็นความลับแต่ชาวฮาล์ฟลิ่งก็ไม่ได้สอนคนอื่นมากนัก พวกเขาเขียนน้อยเลยไม่มีตัวอักษรซับซ้อน อย่างไรก็ตามพวกเขามีภาษาพูดที่ชัดเจนมาก ฮาล์ฟลิ่งทั่วไปจะใช้ภาษาคอมมอนในการสื่อสารกับผู้คนในพื้นที่หรือที่พบเจอตลอดการเดินทางเสมอ
 
-Subrace. The two main kinds of halfling, lightfoot and stout, are more like closely related families than true subraces. Choose one of these subraces.
+เผ่าพันธุ์ย่อย มีเผ่าพันธุ์ย่อย 2 เผ่า ไลท์ฟุตและสเต๊าท แต่ก็เป็นเหมือนครอบครัวใกล้ชิดมากกว่าจะเป็นเผ่าพันธุ์ย่อย คุณสามารถเลือกใช้ได้
 
-### <a name="lightfoot">Lightfoot</a>
+### <a name="lightfoot">ไลท์ฟุต (Lightfoot)</a>
 
-As a lightfoot halfling, you can easily hide from notice, even using other people as cover. You’re inclined to be affable and get along well with others. In the Forgotten Realms, lightfoot halflings have spread the farthest and thus are the most common variety.
+เมื่อเป็นไลท์ฟุตฮาล์ฟลิ่ง คุณสามารถซ่อนตัวโดยไม่ให้สังเกตเห็นได้อย่างง่ายดาย แม้กระทั่งใช้ผู้อื่นเป็นที่กำบังก็ตาม คุณมีแนวโน้มที่จะมีอัธยาศัยดีและเข้ากับผู้อื่นได้ดี ในอาณาจักรที่ถูกลืม ไลท์ฟุตฮาล์ฟลิ่งจะแพร่กระจายไปไกลที่สุดและเป็นพันธุ์ที่พบได้บ่อยที่สุด
 
-Lightfoots are more prone to wanderlust than other halflings, and often dwell alongside other races or take up a nomadic life. In the world of Greyhawk, these halflings are called hairfeet or tallfellows.
+ไลท์ฟุตเป็นพวกที่ชอบท่องเที่ยวมากกว่าฮาล์ฟลิ่งทั่วไป และมักจะอาศัยอยู่ร่วมกับเผ่าพันธุ์อื่นหรือใช้ชีวิตแบบชาวเผ่าเร่ร่อน ในโลกของเกรย์ฮอว์ค ฮาล์ฟลิ่งเหล่านี้จะถูกเรียกว่าแฮร์ฟีท (hairfeet) หรือทอลเฟลโลว์ (tallfellows)
 
-Ability Score Increase. Your Charisma score increases by 1.
+คะแนนความสามารถเพิ่ม คะแนนเสน่ห์ (Charisma) จะเพิ่มขึ้น 1 แต้ม
 
-Naturally Stealthy. You can attempt to hide even when you are obscured only by a creature that is at least one size larger than you.
+ล่องหนโดยธรรมชาติ คุณสามารถลองพยายามซ่อนตัวได้แค่เพียงคุณอยู่หลังสิ่งมีชีวิตที่ใหญ่กว่าคุณอย่างน้อย 1 ขนาด
 
-### <a name="stout">Stout</a>
+### <a name="stout">สเต๊าท (Stout)</a>
 
-As a stout halfling, you’re hardier than average and have some resistance to poison. Some say that stouts have dwarven blood. In the Forgotten Realms, these halflings are called stronghearts, and they’re most common in the south.
+ในฐานะสเต๊าทฮาล์ฟลิ่ง คุณจะแข็งแกร่งกว่าฮาล์ฟลิ่งทั่วไปและมีความต้านทานพิษอยู่ระดับหนึ่ง บ้างก็ว่าพวกสเต๊าทมีเลือดของดวอร์ฟอยู่ ในโลกของอาณาจักรที่ถูกลืม ฮาล์ฟลิ่งนี้เรียกว่าสตรองฮาร์ท (stronghearts) และพวกเขามีอยู่มากในตอนใต้
 
-Ability Score Increase. Your Constitution score increases by 1.
+คะแนนความสามารถเพิ่ม คะแนนความอดทน (Constitution) เพิ่มขึ้น 1
 
-Stout Resilience. You have advantage on saving throws against poison, and you have resistance against poison damage.
+ความอึดของสเต๊าท คุณจะได้ทอยป้องกันพิษแบบได้เปรียบ และคุณจะมีความต้านทานความเสียหายด้วยพิษ (poison resistance)
