@@ -2,52 +2,52 @@
 
 > นี่เป็นเรื่องราวของผู้คนที่ไม่เคยหยุดนิ่งผู้ซึ่งมานานมาแล้วได้ล่องเรือสู่ทะเลและแม่น้ำในเรือใหญ่ แรกเริ่มเต็มไปด้วยการปล้นสดมและสร้างความหวาดกลัวต่อมาจึงลงหลักปักฐาน ยังมีพลังมีความรักต่อการผจญภัยในทุกหน้า จนดึกดื่น ลิริเอลยังคงอ่านอยู่ หมดเทียนไขเล่มแล้ว เล่มเล่า
 >
-> เธอไม่เคยสนใจมนุษย์นัก แต่เรื่องราวเหล่านี้ทำให้เธอประหลาดใจ ในหน้าหนังสือกระดาษสีเหลืองนี้มีเรื่องราวของผู้กล้า สัตว์ดุร้ายแปลกประหลาด เทพเจ้าโบราณทรงอำนาจ และเวทย์มนต์ที่เป็นส่วนหนึ่งและเครื่องยึดโยกของดินแดนอันไกลโพ้นนั้น
+> เธอไม่เคยสนใจมนุษย์นัก แต่เรื่องราวเหล่านี้ทำให้เธอประหลาดใจ ในหน้ากระดาษสีเหลืองนวลนี้มีเรื่องราวของผู้กล้า สัตว์ดุร้ายแปลกประหลาด เทพเจ้าโบราณทรงอำนาจ และเวทย์มนต์ที่เป็นส่วนหนึ่งและเครื่องยึดโยงของดินแดนอันไกลโพ้นนั้น
 >
 > — เอเลน คันนิ่งแฮม, ธิดาแห่งชาวดราว (Daughter of the Drow)
 
-In the reckonings of most worlds, humans are the youngest of the common races, late to arrive on the world scene and short-lived in comparison to dwarves, elves, and dragons. Perhaps it is because of their shorter lives that they strive to achieve as much as they can in the years they are given. Or maybe they feel they have something to prove to the elder races, and that’s why they build their mighty empires on the foundation of conquest and trade. Whatever drives them, humans are the innovators, the achievers, and the pioneers of the worlds.
+ในประวัติศาสตร์ของโลกนั้น มนุษย์เป็นเผ่าพันธุ์ที่ยังเยาว์ เริ่มมีบทบาทในเวทีโลกในช่วงท้ายและมีอายุสั้นเมื่อเทียบกับดวอร์ฟ เอลฟ์ และมังกร บางทีอาจเพราะช่วงอายุที่สั้นนี้ที่เป็นตัวผลักดันให้พวกเขาไขว่คว้าทุกสิ่งอย่างเท่าที่เวลาจะเอื้ออำนวย หรืออาจเพราะพวกเขาต้องการจะพิสูจน์ให้เผ่าพันธุ์ที่เก่าแก่เห็นถึงความสามารถ ซึ่งทำให้พวกเขาสร้างจักรวรรดิที่แข็งแกร่งบนรากฐานของการยึดครองและการค้า อะไรก็ตามที่ผลักดันพวกเขา มนุษย์เป็นนักประดิษฐ์ ผู้สร้างสรรค์และผู้บุกเบิกโลกทั้งหลายนี้
 
-### A Broad Spectrum
+### ความหลากหลายทางเชื้อชาติ
 
-With their penchant for migration and conquest, humans are more physically diverse than other common races. There is no typical human. An individual can stand from 5 feet to a little over 6 feet tall and weigh from 125 to 250 pounds. Human skin shades range from nearly black to very pale, and hair colors from black to blond (curly, kinky, or straight); males might sport facial hair that is sparse or thick. A lot of humans have a dash of nonhuman blood, revealing hints of elf, orc, or other lineages. Humans reach adulthood in their late teens and rarely live even a single century.
+ด้วยความชื่นชอบในการย้ายถิ่นฐานและยึดครอง มนุษย์มีรูปลักษณ์ที่หลากหลายกว่าเผ่าพันธุ์อื่น ไม่มีสิ่งที่เรียกได้ว่ามนุษย์ทั่วไป แต่ละคนอาจจะสูงได้ตั้งแต่ 5 ฟุตถึงเกิน 6 ฟุตไปเล็กน้อย และมีน้ำหนักตั้งแต่ 125 ถึง 250 ปอนด์ สีผิวมีตั้งแต่เกือบดำสนิทไปจนถึงขาวซีด สีผมตั้งแต่ดำขลับไปจนถึงบลอนด์ (เป็นลอนหยักศก, หยิกติดหัว หรือผมตรง) ผู้ชายอาจจะไว้หนวดเคราบาง ๆ หรือดกหนา มนุษย์บางส่วนมีเลือดผสมกับอมนุษย์ทำให้มีลักษณะเด่นของเผ่าพันธุ์นั้นติดมาให้เห็นได้ มนุษย์เข้าสู่วัยผู้ใหญ่ในช่วงปลาย 20 และอยู่ได้ราวหนึ่งศตวรรษ
 
-### Variety in All Things
+### ความหลากหลายในทุกสิ่ง
 
-Humans are the most adaptable and ambitious people among the common races. They have widely varying tastes, morals, and customs in the many different lands where they have settled. When they settle, though, they stay: they build cities to last for the ages, and great kingdoms that can persist for long centuries. An individual human might have a relatively short life span, but a human nation or culture preserves traditions with origins far beyond the reach of any single human’s memory. They live fully in the present — making them well suited to the adventuring life — but also plan for the future, striving to leave a lasting legacy. Individually and as a group, humans are adaptable opportunists, and they stay alert to changing political and social dynamics.
+มนุษย์เป็นคนที่ปรับตัวได้และมีความทะเยอทะยานมากที่สุดในบรรดาเผ่าพันธุ์ทั่วไป พวกเขามีรสนิยม ศีลธรรม และประเพณีที่แตกต่างกันอย่างกว้างขวางในดินแดนต่าง ๆ มากมายที่พวกเขาได้ตั้งถิ่นฐาน เมื่อพวกเขาตั้งถิ่นฐาน พวกเขาจะปักหลักอยู่: พวกเขาสร้างเมืองให้คงอยู่ตลอดไป และอาณาจักรอันยิ่งใหญ่ที่สามารถดำรงอยู่ได้ยาวนานหลายศตวรรษ มนุษย์แต่ละคนอาจมีอายุขัยค่อนข้างสั้น แต่ชาติหรือวัฒนธรรมของมนุษย์ยังคงรักษาประเพณีที่มีต้นกำเนิดไว้ไกลเกินกว่าความทรงจำของมนุษย์คนใดคนหนึ่ง พวกเขาใช้ชีวิตอยู่กับปัจจุบันอย่างเต็มที่ — ทำให้พวกเขาเหมาะสมกับชีวิตนักผจญภัย — แต่ยังวางแผนสำหรับอนาคตด้วยมุ่งมั่นที่จะทิ้งมรดกที่ยั่งยืนไว้ มนุษย์เป็นนักฉวยโอกาสที่ปรับตัวได้ ทั้งในระดับบุคคลและเป็นกลุ่ม และพวกเขาตื่นตัวต่อการเปลี่ยนแปลงทางการเมืองและสังคม
 
-### Lasting Institutions
+### สถาบันที่ยั่งยืน
 
-Where a single elf or dwarf might take on the responsibility of guarding a special location or a powerful secret, humans found sacred orders and institutions for such purposes. While dwarf clans and halfling elders pass on the ancient traditions to each new generation, human temples, governments, libraries, and codes of law fix their traditions in the bedrock of history. Humans dream of immortality, but (except for those few who seek undeath or divine ascension to escape death’s clutches) they achieve it by ensuring that they will be remembered when they are gone.
+ในขณะที่เอลฟ์หรือดวอร์ฟคนหนึ่งจะทำหน้าที่เฝ้าสถานที่หรือความลับที่สำคัญ มนุษย์จะก่อตั้งลัทธิและองค์กรสำหรับจุดประสงค์นั้น ในขณะที่ชนเผ่าดวอร์ฟและผู้อาวุโสฮาล์ฟลิ่งจะส่งประเพณีโบราณจากรุ่นสู่รุ่น มนุษย์เลือกจะสร้างวิหาร รัฐบาล หอสมุด และตรากฏหมายเพื่อให้ประเพณีนิยมได้ฝังรากลงในประวัติศาสตร์ มนุษย์ฝันอยากเป็นอมตะเสมอ แต่ (ยกเว้นพวกที่เดินในหนทางอันเดดหรือขึ้นเป็นเทพเพื่อหลบหนีจากความตาย) พวกเขาบรรลุเป้าหมายนั้นด้วยการเป็นที่จดจำแก่คนรุ่นหลังเมื่อพวกเขาจากไป
 
-Although some humans can be xenophobic, in general their societies are inclusive. Human lands welcome large numbers of nonhumans compared to the proportion of humans who live in nonhuman lands.
+แม้มนุษย์บางพวกจะไม่ชอบเผ่าพันธุ์อื่น แต่โดยทั่วไปแล้วสังคมของพวกเขาก็เปิดรับทุกคน เมืองของมนุษย์ต้อนรับเผ่าพันธุ์อื่นเป็นจำนวนมากกว่าเมื่อเทียบกับจำนวนมนุษย์ในเมืองของเผ่าพันธุ์อื่น
 
-### Exemplars of Ambition
+### แบบอย่างแห่งความทะเยอทะยาน
 
-Humans who seek adventure are the most daring and ambitious members of a daring and ambitious race. They seek to earn glory in the eyes of their fellows by amassing power, wealth, and fame. More than other people, humans champion causes rather than territories or groups.
+มนุษย์ที่ออกผจญภัยมีความกล้าหาญและทะเยอะทะยาน พวกเขาแสวงหาความรุ่งโรจน์ในสายตาของผู้ติดตามด้วยอำนาจ ความมั่งคั่ง และชื่อเสียง มนุษย์จะให้ค่ากับแนวความคิดมากกว่าดินแดนหรือกลุ่ม
 
-> EVERYONE'S SECOND-BEST FRIENDS
+> เพื่อนที่ดีที่สุดคนที่สองของทุกคน
 >
-> Just as readily as they mix with each other, humans mingle with members of other races. They get along with almost everyone, though they might not be close to many. Humans serve as ambassadors, diplomats, magistrates, merchants, and functionaries of all kinds.
+> เช่นเดียวกับที่พวกเขามีสังคมมนุษย์ร่วมกัน มนุษย์ก็ปะปนกับสมาชิกของเผ่าพันธุ์อื่น เข้ากับคนได้เกือบทุกคน ถึงแม้จะไม่ได้สนิทกันมากนักก็ตาม มนุษย์ทำหน้าที่เป็นทูต นักการทูต ผู้พิพากษา พ่อค้า และผู้ปฏิบัติงานทุกประเภท
 >
-> Dwarves. “They’re stout folk, stalwart friends, and true to their word. Their greed for gold is their downfall, though.”
+> ดวอร์ฟ "พวกเขาเตี้ยล่ำ เป็นเพื่อนที่เชื่อถือได้ และซื่อสัตย์ แต่ความโลภในทองคำเป็นจุดอ่อนของพวกเขา"
 >
-> Elves. “It’s best not to wander into elven woods. They don’t like intruders, and you’ll as likely be bewitched as peppered with arrows. Still, if an elf can get past that damned racial pride and actually treat you like an equal, you can learn a lot from them.”
+> เอลฟ์ "มันจะดีมากถ้าไม่เข้าไปเพ่นพ่านในป่าของพวกเอลฟ์ พวกเขาไม่ชอบผู้บุกรุก และเจ้าจะพรุนเป็นรังผึ้งด้วยลูกธนูของพวกนั้นแน่ แต่ก็นะ ถ้าพวกเอลฟ์จะลืมเรื่องเกียรติและศักดิ์ศรีไปบ้างและปฏิบัติต่อเจ้าอย่างเท่าเทียมแล้วหละก็ เจ้าจะได้เรียนรู้อะไรเยอะเลยหละ"
 >
-> Halflings. “It’s hard to beat a meal in a halfling home, as long as you don’t crack your head on the ceiling—good food and good stories in front of a nice, warm fire. If halflings had a shred of ambition, they might really amount to something.”
+> ฮาล์ฟลิ่ง "มันยากมากที่จะปฏิเสธอาหารมากมายสูงเท่าเพดานกับเรื่องราวสนุกสนานหน้าเตาผิงอันอบอุ่นนั่น ถ้าฮาล์ฟลิ่งมีความทะเยอะทะยานแม้สักน้อย พวกเขาอาจจะทำอะไรมากมายเลยทีเดียว"
 
-### Human Names and Ethnicities
+### ชื่อของมนุษย์และวัฒนธรรม
 
-Having so much more variety than other cultures, humans as a whole have no typical names. Some human parents give their children names from other languages, such as Dwarvish or Elvish (pronounced more or less correctly), but most parents give names that are linked to their region’s culture or to the naming traditions of their ancestors.
+ด้วยการที่มีความหลากหลายในวัฒนธรรม มนุษย์โดยรวมแล้วไม่มีระบบชื่อเป็นของตัวเอง พ่อแม่บางคนก็ให้ลูกใช้ชื่อจากภาษาอื่น เช่นดวาฟวิชหรือเอลวิช (ออกเสียงถูกบ้างผิดบ้าง) แต่พ่อแม่ส่วนใหญ่จะใช้ชื่อที่เกี่ยวข้องกับวัฒนธรรมในพื้นที่หรือชื่อจากประเพณีของบรรพบุรุษของตน
 
-The material culture and physical characteristics of humans can change wildly from region to region. In the Forgotten Realms, for example, the clothing, architecture, cuisine, music, and literature are different in the northwestern lands of the Silver Marches than in distant Turmish or Impiltur to the east — and even more distinctive in far-off Kara-Tur. Human physical characteristics, though, vary according to the ancient migrations of the earliest humans, so that the humans of the Silver Marches have every possible variation of coloration and features.
+วัฒนธรรมและรูปลักษณ์ของมนุษย์อาจแตกต่างกันมากในแต่ละท้องถิ่น ในดินแดนที่ถูกลืม (Forgotten Realms) เป็นตัวอย่าง เสื้อผ้า สถาปัตยกรรม อาหาร ดนตรีและวรรณกรรมจะแนกต่างกันระหว่างดินแดนทางตะวันตกเฉียงเหนือของซิลเวอร์มาร์ช กับดินแดนห่างไกลอย่างเทอร์มิช หรืออิมพิลเจอร์ทางตะวันออก และยิ่งแตกต่างออกไปมากในพื้นที่ห่างไกลอย่างคารา-เทอร์ รูปลักษณ์ของมนุษย์ก็เช่นกัน แตกต่างกันจากการอพยพย้ายถิ่นของมนุษย์ในยุคแรกซึ่งนั่นทำให้มนุษย์ในซิลเวอร์มาร์ชมีรูปร่างแตกต่างกับที่อื่นทั้งสีผิวและร่างกาย
 
-In the Forgotten Realms, nine human ethnic groups are widely recognized, though over a dozen others are found in more localized areas of Faerûn. These groups, and the typical names of their members, can be used as inspiration no matter which world your human is in.
+ในดินแดนที่ถูกลืม (Forgotten Realms) มีกลุ่มชาติพันธุ์ 9 กลุ่มที่เป็นที่รู้จักหลัก ๆ แม้ว่าจะมีมากกว่าโหลที่พบในเฟรูน แต่กลุ่มเหล่านี้และลักษณะชื่อของสมาชิกก็สามารถใช้เป็นแรงบันดาลใจได้ไม่ว่ามนุษย์ของคุณจะอยู่ในโลกไหน
 
-Calishite  
-Shorter and slighter in build than most other humans, Calishites have dusky brown skin, hair, and eyes. They’re found primarily in southwest Faerûn.
+คาลิไชท์ Calishite  
+ร่างเล็กและเพรียวกว่ามนุษย์กลุ่มอื่น คาชิไชท์มีผิว ผม และตาสีน้ำตาลหม่น พบได้ในบริเวณตะวันตกเฉียงใต้ของเฟรูน
 
-Calishite Names: (Male) Aseir, Bardeid, Haseid, Khemed, Mehmen, Sudeiman, Zasheir; (female) Atala, Ceidil, Hama, Jasmal, Meilil, Seipora, Yasheira, Zasheida; (surnames) Basha, Dumein, Jassan, Khalid, Mostana, Pashar, Rein
+ชื่อคาลิไชท์: (ชาย) เอเซีย, บาร์เดอิด, ฮาเซอิด, เคฮ์เมด, เมฮ์เมด, ซูไดมาฮ์น, ซาเชีย (หญิง) อะตาลา, เซดิล, ฮามา, แจสมาล, เมย์ลิล, เซโพรา, ยาเชียรา, ซาเชียดา (สกุล) บาซา, ดูเมอิน, แจสซัน, คาฮ์ลิด, มอสตานา, พาชาร์, เรน
 
 Chondathan  
 Chondathans are slender, tawny-skinned folk with brown hair that ranges from almost blond to almost black. Most are tall and have green or brown eyes, but these traits are hardly universal. Humans of Chondathan descent dominate the central lands of Faerûn, around the Inner Sea.
