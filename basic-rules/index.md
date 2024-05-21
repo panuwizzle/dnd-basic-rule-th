@@ -24,32 +24,32 @@
 
 ### ลักษณะเด่นของแต่ละเผ่า
 
-- [ดวอร์ฟ (Dwarf) คนแคระ](./ch02-races.md#dwarf)
-- [เอลฟ์ (Elf)](./ch02-races.md#elf)
-- [ฮาล์ฟลิ่ง (Halfling)](./ch02-races.md#halfling)
-- [มนุษย์ (Human)](./ch02-races.md#human)
-- [ดรากอนบอร์น (Dragonborn: ลูกครึ่งมังกร)](./ch02-races.md#dragonborn)
-- [โนม (Gnome)](./ch02-races.md#gnome)
-- [ฮาล์ฟเอลฟ์ (Half-Elf: ลูกครึ่งเอลฟ์)](./ch02-races.md#half-elf)
-- [ฮาล์ฟอ็อค (Half-Orc: ลูกครึ่งอ็อค)](./ch02-races.md#half-orc)
-- [ทีฟลิ่ง (Tiefling: ลูกครึ่งปีศาจ)](./ch02-races.md#tiefling)
+- [ดวอร์ฟ (Dwarf) คนแคระ](./races/dwarf.md)
+- [เอลฟ์ (Elf)](./races/elf.md)
+- [ฮาล์ฟลิ่ง (Halfling)](./races/halfing.md)
+- [มนุษย์ (Human)](./races/human.md)
+- [ดรากอนบอร์น (Dragonborn: ลูกครึ่งมังกร)](./races/dragonborn.md)
+- [โนม (Gnome)](./races/gnome.md)
+- [ฮาล์ฟเอลฟ์ (Half-Elf: ลูกครึ่งเอลฟ์)](./races/half-elf.md)
+- [ฮาล์ฟอ็อค (Half-Orc: ลูกครึ่งอ็อค)](./races/half-orc.md)
+- [ทีฟลิ่ง (Tiefling: ลูกครึ่งปีศาจ)](./races/tiefling.md)
 
 ## [บทที่ 3: คลาส (อาชีพ)](./ch03-classes.md)
 
 ### คลาสโดยสรุป
 
-- [บาบาเรี่ยน Barbarian - คนเถื่อน](./ch03-classes.md#barbarian)
-- [บาร์ด Bard - นักกวี](./ch03-classes.md#bard)
-- [เคลริค Cleric - นักบวช](./ch03-classes.md#cleric)
-- [ดรูอิด Druid - ฤษี](./ch03-classes.md#druid)
-- [ไฟท์เตอร์ Fighter - นักสู้](./ch03-classes.md#fighter)
-- [มองค์ Monk - พระ](./ch03-classes.md#monk)
-- [พาลาดิน Paladin - อัศวิน](./ch03-classes.md#paladin)
-- [เรนเจอร์ Ranger - พรานนักล่า](./ch03-classes.md#ranger)
-- [โร๊ค Rogue - โจร](./ch03-classes.md#rogue)
-- [ซอเซอร์เรอร์ Sorcerer - ผู้วิเศษ](./ch03-classes.md#sorcerer)
-- [วอร์ล็อค Warlock - แม่มด](./ch03-classes.md#warlock)
-- [วิซาร์ด Wizard - พ่อมด](./ch03-classes.md#wizard)
+- [บาบาเรี่ยน Barbarian - คนเถื่อน](./classes/barbarian.md)
+- [บาร์ด Bard - นักกวี](./classes/bard.md)
+- [เคลอริค Cleric - นักบวช](./classes/cleric.md)
+- [ดรูอิด Druid - ฤษี](./classes/druid.md)
+- [ไฟท์เตอร์ Fighter - นักสู้](./classes/fighter.md)
+- [มองค์ Monk - พระ](./classes/monk.md)
+- [พาลาดิน Paladin - อัศวิน](./classes/paladin.md)
+- [เรนเจอร์ Ranger - พรานนักล่า](./classes/ranger.md)
+- [โร๊ค Rogue - โจร](./classes/rogue.md)
+- [ซอเซอร์เรอร์ Sorcerer - ผู้วิเศษ](./classes/sorcerer.md)
+- [วอร์ล็อค Warlock - แม่มด](./classes/warlock.md)
+- [วิซาร์ด Wizard - พ่อมด](./classes/wizard.md)
 
 ## [บทที่ 4: ลักษณะตัวละครและภูมิหลัง](./ch04-personality-and-background.md)
 
