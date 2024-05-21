@@ -49,64 +49,64 @@
 
 ชื่อคาลิไชท์: (ชาย) เอเซีย, บาร์เดอิด, ฮาเซอิด, เคฮ์เมด, เมฮ์เมด, ซูไดมาฮ์น, ซาเชีย (หญิง) อะตาลา, เซดิล, ฮามา, แจสมาล, เมย์ลิล, เซโพรา, ยาเชียรา, ซาเชียดา (สกุล) บาซา, ดูเมอิน, แจสซัน, คาฮ์ลิด, มอสตานา, พาชาร์, เรน
 
-Chondathan  
-Chondathans are slender, tawny-skinned folk with brown hair that ranges from almost blond to almost black. Most are tall and have green or brown eyes, but these traits are hardly universal. Humans of Chondathan descent dominate the central lands of Faerûn, around the Inner Sea.
+ชนดาธาน Chondathan  
+ชนดาธานมีรูปร่างผอมเพรียว ผิวสีน้ำตาลอ่อนผมสีน้ำตาลเป็นส่วนใหญ่ มีผมบลอนด์ถึงดำด้วย ส่วนใหญ่จะตัวสูงและมีตาสีเขียวหรือสีน้ำตาล ชนชาวชนดาธานครอบครองดินแดนตอนกลางของเฟรูน บริเวณทะเลด้านใน (Inner Sea)
 
-Chondathan Names: (Male) Darvin, Dorn, Evendur, Gorstag, Grim, Helm, Malark, Morn, Randal, Stedd; (female) Arveene, Esvele, Jhessail, Kerri, Lureene, Miri, Rowan, Shandri, Tessele; (surnames) Amblecrown, Buckman, Dundragon, Evenwood, Greycastle, Tallstag
+ชื่อของชาวชนดาธาน: (ชาย) ดาร์วิน, ดอร์น, เอฟเวนเดอร์, กอร์สแต็ก, กริม, เฮล์ม, มาลาร์ค, มอร์น, แรนดัล, สเต็ด (หญิง) อาร์วีเน่, เอสเวล, เจสเซล, เคอรี่, ลูรีเน่, มิริ, โรวาน, แชนดริ, เทสเซล (สกุล) แอมเบิลคราวน์, บัคแมน, ดันดรากอน, เอเวนวูด, เกรย์แคสเซิล, ทอลสแต็ก
 
-Damaran  
-Found primarily in the northwest of Faerûn, Damarans are of moderate height and build, with skin hues ranging from tawny to fair. Their hair is usually brown or black, and their eye color varies widely, though brown is most common.
+ดามารัน Damaran  
+มีหลักแหล่งอยู่ในแถบตะวันตกเฉียงเหนือของเฟรูน ชาวดามารันมีรูปร่างปานกลางและล่ำสัน สีผิวมีตั้งแต่น้ำตาลออกส้มจนถึงขาว ผมมักจะสีน้ำตาลหรือดำ สีตาหลากหลายส่วนมากจะสีน้ำตาล
 
-Damaran Names: (Male) Bor, Fodel, Glar, Grigor, Igan, Ivor, Kosef, Mival, Orel, Pavel, Sergor; (female) Alethra, Kara, Katernin, Mara, Natali, Olma, Tana, Zora; (surnames) Bersk, Chernin, Dotsk, Kulenov, Marsk, Nemetsk, Shemov, Starag
+ชื่อชาวดามารัน: (ชาย) บอร์, โฟเดล, กลาร์, กริกอร์, อิกาน, อิวอร์, โคเซฟ, มิวาล, โอเรล, พาเวล, เซอร์กอร์ (หญิง) อาเลธรา, คารา, คาเทอนิน, มารา, นาตาลี, ออลมา, ทานา, โซรา (สกุล) เบิส์ค, เชอร์นิน, โดส์ค, คุเลนอฟ, มาสค์, เนเมทส์, เชมอฟ, สตารัก
 
-Illuskan  
-Illuskans are tall, fair-skinned folk with blue or steely gray eyes. Most have raven-black hair, but those who inhabit the extreme northwest have blond, red, or light brown hair.
+อิลลัสคาน Illuskan  
+ชาวอิลลัสคานมีร่างกายสูงใหญ่ ผิวขาว ตาสีฟ้าหรือสีเทาเหล็ก มักจะมีผมสีดำเหมือนขนกา แต่พวกที่อาศัยอยู่สุดดินแดนทางเหนือจะมผลบลอนด์ แดง หรือน้ำตาลอ่อน
 
-Illuskan Names: (Male) Ander, Blath, Bran, Frath, Geth, Lander, Luth, Malcer, Stor, Taman, Urth; (female) Amafrey, Betha, Cefrey, Kethra, Mara, Olga, Silifrey, Westra; (surnames) Brightwood, Helder, Hornraven, Lackman, Stormwind, Windrivver
+ชื่อชาวอิลลัสคาน: (ชาย) แอนเดอร์, บลาธ, แบรน, ฟราธ, เก็ธ, แลนเดอร์, ลูธ, มัลเซอร์, สตอร์, ทามัน, เอิร์ธ (หญิง) อามาเฟรย์, เบธา, เซเฟรย์, เคธรา, มารา, โอลกา, สิริเฟรย์, เวสตรา (สกุล) ไบรทวูด, เฮลดาร์, ฮอร์นราเวน, แล็คแมน, สตอร์มวินด์, วินดริฟเวอร์
 
-Mulan  
-Dominant in the eastern and southeastern shores of the Inner Sea, the Mulan are generally tall, slim, and amber-skinned, with eyes of hazel or brown. Their hair ranges from black to dark brown, but in the lands where the Mulan are most prominent, nobles and many other Mulan shave off all their hair.
+มูลาน Mulan  
+ครองพื้นที่แถบตะวันออกและตะวันออกเฉียงใต้ชายฝั่งของทะเลด้านใน (Inner Sea) ชาวมูลานทั่วไปจะสูง ผอม และมีผิวสีอัมพัน ตาสีเฮเซลหรือน้ำตาล สีผมมีตั้งแต่ดำจนถึงน้ำตาลเข้ม แต่ในพื้นที่มีชาวมูลานอาศัยอยู่มาก ชนชั้นสูงและที่เกี่ยวข้องมักจะโกนหัว
 
-Mulan Names: (Male) Aoth, Bareris, Ehput-Ki, Kethoth, Mumed, Ramas, So-Kehur, Thazar-De, Urhur; (female) Arizima, Chathi, Nephis, Nulara, Murithi, Sefris, Thola, Umara, Zolis; (surnames) Ankhalab, Anskuld, Fezim, Hahpet, Nathandem, Sepret, Uuthrakt
+ชื่อชาวมูลาน: (ชาย) โอธ, บาเรริส, เอพุต-ไค, เคธอท, มูเม็ด, รามาส, โซ-เคเฮอร์, ธาซา-เด, อูร์เฮอร์ (หญิง) อาริซิมา, ชาธี, เนฟิส, นูลาร่า, มูริธิ, เซฟริส, โธลา, อูมาร่า, โซลิส (สกุล) อังคาลับ, อันสคูลด์, เฟซิม, ฮาเพ็ต, นาธาเดม, เซเพรท, อูธราค
 
-Rashemi  
-Most often found east of the Inner Sea and often intermingled with the Mulan, Rashemis tend to be short, stout, and muscular. They usually have dusky skin, dark eyes, and thick black hair.
+ราเชมี Rashemi  
+ส่วนใหญ่จะพบในแถบตะวันออกของทะเลด้านใน (Inner Sea) และมักจะอยู่ร่วมกับชาวมูลาน ราเชมีมักจะตัวเตี้ยล่ำและมีกล้ามเนื้อ พวกเขามักจะมีผิวสีเข้ม ตาสีดำและมีผมหนาสีดำ
 
-Rashemi Names: (Male) Borivik, Faurgar, Jandar, Kanithar, Madislak, Ralmevik, Shaumar, Vladislak; (female) Fyevarra, Hulmarra, Immith, Imzel, Navarra, Shevarra, Tammith, Yuldra; (surnames) Chergoba, Dyernina, Iltazyara, Murnyethara, Stayanoga, Ulmokina
+ชื่อราเชมี: (ชาย) บอริวิค, เฟอการ์, จันดาร์, คนิฐา, มาดิสลัค, รัลเมวิค, เชามาร์, วลาดิสลาค (หญิง) เฟย์วารา, ฮัลมารา, อิมมิธ, อิมเซล, นาวารา, เชวารา, ทัมมิธ, ยูลดรา (สกุล) เชอร์โกบาร์, ไดเออร์นีนา, อิลทาซิลรา, เมอนิเอ็ททรา, สตายาโนกา, อูลโมคินา
 
-Shou  
-The Shou are the most numerous and powerful ethnic group in Kara-Tur, far to the east of Faerûn. They are yellowish-bronze in hue, with black hair and dark eyes. Shou surnames are usually presented before the given name.
+โช Shou  
+ชาวโชมีจำนวนมากที่สุดและเป็นชาติพันธุ์ที่มีอำนาจมากในคารา-เทอ (Kara-Tur), ดินแดนห่างไกลทางตะวันออกของเฟรูน พวกเขามีผิวสีทองเหลือง ผมดำ ตาสีเข้ม ชื่อจะใช้นามสกุลนำ
 
-Shou Names: (Male) An, Chen, Chi, Fai, Jiang, Jun, Lian, Long, Meng, On, Shan, Shui, Wen; (female) Bai, Chao, Jia, Lei, Mei, Qiao, Shui, Tai; (surnames) Chien, Huang, Kao, Kung, Lao, Ling, Mei, Pin, Shin, Sum, Tan, Wan
+ชื่อของชาวโช: (ชาย) อัน, เชง, ชิ, ไฟ, เจียง, จุน, เหลียน, หลง, เม็ง, ออน, ซาน, ซุย, เว็น (หญิง) ไบ๋, โฉ, เจี่ย, เหลย, เหมย, เคียว, ซุย, ไท (สกุล) เฉียน, หวง, เกา, คุง, เหลา, หลิง, เหม, พิน, ชิน, ซัม, ตัน, วาน
 
-Tethyrian  
-Widespread along the entire Sword Coast at the western edge of Faerûn, Tethyrians are of medium build and height, with dusky skin that tends to grow fairer the farther north they dwell. Their hair and eye color varies widely, but brown hair and blue eyes are the most common. Tethyrians primarily use Chondathan names.
+เทธีเรียน Tethyrian  
+กระจายอยู่ตลอดทั้งชายฝั่งดาบ (Sword Coast) สุดขอบตะวันตกของเฟรูน เทธีเรียนมีรูปร่างขนาดกลางผิวคล้ำแต่ก็เริ่มขาวขึ้นเมื่ออาศัยอยู่ทางเหนือขึ้นไป สีผมและสีตาแตกต่างกันไปแต่ส่วนใหญ่จะผมสีน้ำตาลและตาสีฟ้า เทธีเรียนใช้ชื่อแบบเดียวกับชาวชนดาธาน
 
-Turami  
-Native to the southern shore of the Inner Sea, the Turami people are generally tall and muscular, with dark mahogany skin, curly black hair, and dark eyes.
+ทูรามิ Turami  
+เป็นชนพื้นเมืองแถบชายฝั่งทางใต้ของทะเลด้านใน (Inner Sea) ชาวทูรามิตัวสูงใหญ่มีกล้าม ผิวเข้มสีมะฮ็อคกานี ผมเป็นลอนสีดำและมีตาสีเข้ม
 
-Turami Names: (Male) Anton, Diero, Marcon, Pieron, Rimardo, Romero, Salazar, Umbero; (female) Balama, Dona, Faila, Jalana, Luisa, Marta, Quara, Selise, Vonda; (surnames) Agosto, Astorio, Calabra, Domine, Falone, Marivaldi, Pisacar, Ramondo
+ชื่อชาวทูรามิ: (ชาย) แอนทอน, ดิเอโร, มาร์คอน, ปิเอรอน, ริมาร์โด, โรเมโร, ซาลาซา, อัมเบโร (หญิง) บาลามา, โดนา, ไฟลา, จาลานา, หลุยซา, มาร์ตา, ควารา, เซลิเซ, วอนดา (สกุล) อากอสโต, แอสโตริโอ, คาลาบรา, โดมิเน, ฟาโลเน, มาริวาลดิ, พิซาคาร์, รามอนโด
 
-> VARIANT HUMAN TRAITS
+> คุณลักษณะของมนุษย์อีกแบบ VARIANT HUMAN TRAITS
 >
-> If your campaign uses the optional feat rules from chapter 6, your Dungeon Master might allow these variant traits, all of which replace the human’s Ability Score Increase trait.
+> ถ้าแคมเปญของคุณใช้กฏเสริมของคุณลักษณะพิเศษจากบทที่ 6 DM ของคุณอาจจะอนุญาตให้ใช้คุณลักษณะ (traits) พิเศษนี้แทนคะแนนความสามารถปกติของเผ่าพันธุ์มนุษย์
 >
-> Ability Score Increase. Two different ability scores of your choice increase by 1.
+> คะแนนความสามารถเพิ่มขึ้น ให้ความสามารถที่ต่างกัน 2 ชนิดตามที่คุณเลือกมีคะแนนเพิ่มขึ้น 1 แต้ม
 >
-> Skills. You gain proficiency in one skill of your choice.
+> ทักษะ คุณได้ความเชี่ยวชาญในทักษะที่คุณเลือก 1 ทักษะ
 >
-> Feat. You gain one feat of your choice.
+> คุณลักษณะพิเศษ (feat) คุณได้รับคุณลักษณะพิเศษเพิ่ม 1 อย่างตามที่คุณเลือก
 
-### Human Traits
+### คุณลักษณะของมนุษย์ Human Traits
 
-It’s hard to make generalizations about humans, but your human character has these traits.
+มันยากที่จะระบุได้ชัดเจนเกี่ยวกับมนุษย์ แต่ตัวละครมนุษย์ของคุณมีคุณลักษณะพิเศษดังนี้
 
-Ability Score Increase. Your ability scores each increase by 1.
+คะแนนความสามารถเพิ่มขึ้น คะแนนความสามารถทุกด้านของคุณเพิ่ม 1 แต้ม
 
-Age. Humans reach adulthood in their late teens and live less than a century.
+อายุ มนุษย์จะเข้าสู่วัยผู้ใหญ่เมื่อเข้า 20 และมีชีวิตอยู่เกือบศตวรรษ
 
-Size. Humans vary widely in height and build, from barely 5 feet to well over 6 feet tall. Regardless of your position in that range, your size is Medium.
+ขนาด มนุษย์มีความสูงและรูปร่างต่างกันไป จาก 5 ฟุตถึงเกิน 6 ฟุตเล็กน้อย ตัวละครจะมีขนาดกลาง (Medium)
 
-Speed. Your base walking speed is 30 feet.
+ความเร็ว ความเร็วในการเดินปกติของคุณคือ 30 ฟุต
 
-Languages. You can speak, read, and write Common and one extra language of your choice. Humans typically learn the languages of other peoples they deal with, including obscure dialects. They are fond of sprinkling their speech with words borrowed from other tongues: Orc curses, Elvish musical expressions, Dwarvish military phrases, and so on.
+ภาษา คุณสามารถพูด อ่าน และเขียนภาษาคอมมอน และภาษาอื่นอีก 1 ภาษา มนุษย์มักจะเรียนภาษาอื่นจากคนที่ต้องติดต่อด้วย พวกเขาชอบจะเอาภาษาอื่นมาใช้เวลาพูดคุย คำสบถของอ็อค การอธิบายดนตรีแบบเอลฟ์ วลีทางทหารของดวอร์ฟ และอื่น ๆ
