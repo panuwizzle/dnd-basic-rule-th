@@ -1,79 +1,79 @@
-## <a name="dragonborn">Dragonborn</a>
+## <a name="dragonborn">ดรากอนบอร์น Dragonborn</a>
 
-> Her father stood on the first of the three stairs that led down from the portal, unmoving. The scales of his face had grown paler around the edges, but Clanless Mehen still looked as if he could wrestle down a dire bear himself. His familiar well-worn armor was gone, replaced by violet-tinted scale armor with bright silvery tracings. There was a blazon on his arm as well, the mark of some foreign house. The sword at his back was the same, though, the one he had carried since even before he had found the twins left in swaddling at the gates of Arush Vayem.
+> พ่อของเธอยืนอยู่บนบันไดแรกของบันไดสามจุดที่เป็นทางลงมาจากพอร์ทัล เกล็ดบนใบหน้าของเขาสีเริ่มซีดลงไล่ไปตามขอบ แต่เมเฮน แคลนเลส ยังคงดูราวกับว่าเขาสามารถต่อสู้กับหมีที่น่ากลัวได้ ชุดเกราะที่สวมใส่ได้ดีของเขาหายไป มีเกราะสเกลอาเมอร์สีม่วงแวววาวมีขลิบสีเงินมาแทนที่ ที่แขนเคยมีตราประจำตระกูลเป็นสัญลักษณะของตระกูลหนึ่งที่ห่างไกล ดาบที่อยู่ข้างหลังยังเป็นเล่มเดิม เล่มเดียวกับที่เขาใช้ตั้งแต่ก่อนจะเจอกับฝาแฝดที่ถูกห่อผ้าทิ้งไว้ที่หน้าประตูเมืองอารุธ วาเยม
 >
-> For all her life, Farideh had known that reading her father’s face was a skill she’d been fortunate to learn. A human who couldn’t spot the shift of her eyes or Havilar’s would certainly see only the indifference of a dragon in Clanless Mehen’s face. But the shift of scales, the arch of a ridge, the set of his eyes, the gape of his teeth — her father’s face spoke volumes.
+> ตลอดชีวิตของเธอ ฟาริเดฮ์ได้เรียนรู้ว่าการอ่านใบหน้าของพ่อเธอนั้นเป็นทักษะที่โชคดีที่ได้เรียนรู้ มนุษย์ที่ไม่สามารถจะมองเห็นดวงตาของเธอหรือของฮาวิลาขยับ จะไม่เห็นว่าใบหน้าของเมเฮน แคลนเลสแตกต่างอะไรจากมังกร แต่การเลื่อนขึ้นลงของเกล็ด ความโค้งของสันบนหน้า ตำแหน่งของดวงตา ระดับการอ้าปากค้างเห็นฟัน - ใบหน้าของพ่อเธอบอกอะไรได้มากมาย
 >
-> But every scale of it, this time, seemed completely still — the indifference of a dragon, even to Farideh.
+> แต่ในเวลานี้ สัญลักษณ์ทุกระดับดูเหมือนจะหยุดนิ่งไปหมด ดูไม่ต่างจากมังกร แม้กับเฟริเดฮ์
 >
-> — Erin M. Evans, The Adversary
+> — เอริน เอ็ม. อีวานส์, เหล่าปรปักษ์ (The Adversary)
 
-Born of dragons, as their name proclaims, the dragonborn walk proudly through a world that greets them with fearful incomprehension. Shaped by draconic gods or the dragons themselves, dragonborn originally hatched from dragon eggs as a unique race, combining the best attributes of dragons and humanoids. Some dragonborn are faithful servants to true dragons, others form the ranks of soldiers in great wars, and still others find themselves adrift, with no clear calling in life.
+กำเนิดจากมังกรดังเช่นชื่อของพวกเขา ดรากอนบอร์นอาศัยอยู่อย่างภาคภูมิในโลกที่หวาดกลัวและไม่เข้าใจพวกเขา สร้างขึ้นโดยเทพมังกรหรือด้วยตัวมังกรเอง เหล่าดรากอนบอร์นฟักออกจากไข่มังกรออกมาเป็นเผ่าพันธุ์พิเศษ ผสานข้อดีของทั้งมังกรและสิ่งคล้ายมนุษย์ ดรากอนบอร์นบางตนเป็นสาวกผู้ศรัทธาของมังกร บ้างเป็นทหารในสงครามยิ่งใหญ่ และบ้างก็พบว่าตัวเองไร้ที่ทางไร้จุดหมายของตนเอง
 
-### Proud Dragon Kin
+### ชาวมังกรผู้ภาคภูมิ
 
-Dragonborn look very much like dragons standing erect in humanoid form, though they lack wings or a tail. The first dragonborn had scales of vibrant hues matching the colors of their dragon kin, but generations of interbreeding have created a more uniform appearance. Their small, fine scales are usually brass or bronze in color, sometimes ranging to scarlet, rust, gold, or copper-green. They are tall and strongly built, often standing close to 6½ feet tall and weighing 300 pounds or more. Their hands and feet are strong, talonlike claws with three fingers and a thumb on each hand.
+ดรากอนบอร์นมีลักษณะคล้ายมังกรที่ยืนตัวตรง แต่จะไม่มีปีกและหาง ดรากอนบอร์นพวกแรกมีสีเหมือนกับมังกรที่สร้างพวกเขา แต่หลายชั่วอายุคนผ่านมา การผสมข้ามพันธุ์ทำให้เกิดความหลากหลายมากมาย เกล็ดเล็กและเรียงตัวสวยของพวกเขามักจะเป็นสีทองเหลืองหรือสัมฤทธ์ บางครั้งมีเฉดสีแดงสด สีสนิม สีทอง หรือทองแดงแกมเขียว พวกเขามีร่างกายสูงใหญ่แข็งแรง มักจะสูงราว 6 ฟุตครึ่ง และหนักราว 300 ปอนด์หรือมากกว่า มือและเท้าแข็งแรง มีกรงเล็บและนิ้ว 3 นิ้วกับ 1 หัวแม่มือ
 
-The blood of a particular type of dragon runs very strong through some dragonborn clans. These dragonborn often boast scales that more closely match those of their dragon ancestor — bright red, green, blue, or white, lustrous black, or gleaming metallic gold, silver, brass, copper, or bronze.
+สายเลือดของมังกรเข้มข้นมากในดรากอนบอร์นบางเผ่า พวกเขามักจะมีสีเกล็ดเหมือนกับมังกรที่เป็นบรรพบุรุษ - สีแดงสด, เขียว, ฟ้า หรือขาว, ดำสนิท หรือเป็นโลหะทองแวววาว, สีเงินยวง, ทองเหลือง, ทองแดงหรือสัมฤทธ์
 
-### Self-Sufficient Clans
+### เผ่าที่อยู่ได้ด้วยตัวเอง (Self-Sufficient Clans)
 
-To any dragonborn, the clan is more important than life itself. Dragonborn owe their devotion and respect to their clan above all else, even the gods. Each dragonborn’s conduct reflects on the honor of his or her clan, and bringing dishonor to the clan can result in expulsion and exile. Each dragonborn knows his or her station and duties within the clan, and honor demands maintaining the bounds of that position.
+สำหรับดรากอนบอร์นทุกตน เผ่ามีความสำคัญยิ่งกว่าชีวิต ดรากอนบอร์นจะอุทิตตนและเคารพเผ่าเหนือสิ่งอื่นใด แม้กับเทพเจ้า ความประพฤติของดรากอนบอร์นแต่ละคนจะถือเป็นเกียรติของเผ่าของเขาหรือเธอ การนำความอัปยศมาสู่เผ่าจะทำให้ถูกลงโทษหรือเนรเทศ แต่ละคนจะรู้ถึงตำแหน่งและหน้าที่ของตนในเผ่า และจะปฏิบัติหน้าที่ด้วยเกียรติสูงสุดในตำแหน่งนั้น
 
-A continual drive for self-improvement reflects the self-sufficiency of the race as a whole. Dragonborn value skill and excellence in all endeavors. They hate to fail, and they push themselves to extreme efforts before they give up on something. A dragonborn holds mastery of a particular skill as a lifetime goal. Members of other races who share the same commitment find it easy to earn the respect of a dragonborn.
+ความต้องการที่จะพัฒนาตนเองอยู่เสมอเป็นตัวผลักดันให้เกิดการอยู่ได้ด้วยตนเองของเผ่าพันธุ์โดยรวม ดรากอนบอร์นจะให้คุณค่ากับทักษะและความเป็นเลิศในทุก ๆ ด้าน พวกเขาเกลียดความล้มเหลวและจะพยายามอยากสุดชีวิตก่อนที่จะล้มเลิกกับบางสิ่ง ดรากอนบอร์นที่ถึงจุดสูงสุดของทักษะถือเป็นเป้าหมายสูงสุดของชีวิต สมาชิกของเผ่าพันธุ์อื่นที่มุ่งมั่นในลักษณะเดียวกันมักจะได้รับความนับถือจากดรากอนบอร์น
 
-Though all dragonborn strive to be self-sufficient, they recognize that help is sometimes needed in difficult situations. But the best source for such help is the clan, and when a clan needs help, it turns to another dragonborn clan before seeking aid from other races — or even from the gods.
+แม้ว่าส่วนใหญ่จะมุ่งเน้นไปที่การอยู่ได้ด้วยตนเอง แต่พวกเขาก็ยอมรับว่าในบางสถานการณ์ความช่วยเหลือก็เป็นสิ่งจำเป็น แต่แหล่งความช่วยเหลือมักจะมาจากเผ่าของตนเอง และเมื่อใดที่เผ่าต้องการความช่วยเหลือ พวกเขาจะขอจากดรากอนบอร์นเผ่าอื่นก่อนที่จะขอจากเผ่าพันธุ์อื่น - หรือแม้จากเทพเจ้า
 
-> DRACONIANS
+> ดราโกเนียน DRACONIANS
 >
-> In the Dragonlance setting, the followers of the evil goddess Takhisis learned a dark ritual that let them corrupt the eggs of metallic dragons, producing evil dragonborn called draconians. Five types of draconians, corresponding to the five types of metallic dragons, fought for Takhisis in the War of the Lance: auraks (gold), baaz (brass), bozak (bronze), kapak (copper), and sivak (silver). In place of their draconic breath weapons, they have unique magical abilities.
+> ในโลกของดรากอนแลนซ์ (Dragonlance setting) สาวกของเทพธิดาผู้ชั่วร้าย ทาคิทิส ได้เรียนรู้ถึงพิธีกรรมมืดที่ทำให้พวกเขาเปลี่ยนไข่ของมังกรโลหะ ทำให้เกิดเป็นดรากอนบอร์นชั่วร้ายชื่อว่า ดราโกเนียน มีดราโกเนียน 5 ชนิดที่ต่อสู้เพื่อทาคิทิสในสงครามแห่งหอก (War of the Lance): ออรัค (ทอง), บาซ (ทองเหลือง), โบซัค (สัมฤทธ์), คาพัค (ทองแดง), และซิวัค (เงิน) และแทนที่อาวุธลมหายใจด้วยความสามารถเวทย์มนต์เฉพาะตัว
 
-### Dragonborn Names
+### ชื่อของดรากอนบอร์น Dragonborn Names
 
-Dragonborn have personal names given at birth, but they put their clan names first as a mark of honor. A childhood name or nickname is often used among clutchmates as a descriptive term or a term of endearment. The name might recall an event or center on a habit.
+ดรากอนบอร์นมีชื่อส่วนตัวที่ได้รับตอนเกิด แต่พวกเขาจะใช้ชื่อเผ่านำก่อนเพื่อให้เกียรติ ชื่อในวัยเด็กหรือชื่อเล่นมักจะใช้เรียกกันในกลุ่มเพื่อน เป็นตัวบอกถึงลักษณะหรือความรักที่มีต่อผู้นั้น ชื่ออาจจะเรียกจากเหตุการณ์หรือใช้ลักษณะนิสัย
 
-Male Names: Arjhan, Balasar, Bharash, Donaar, Ghesh, Heskan, Kriv, Medrash, Mehen, Nadarr, Pandjed, Patrin, Rhogar, Shamash, Shedinn, Tarhun, Torinn
+ชื่อผู้ชาย: อาจาน, บาลาซา, บาราช, โดนาร์, เกช, เฮสคาน, คริฟ, เมดราส, เมเฮน, นาดาร์, พานเจด, พาทริน, โรการ์, ชามาช, เซดินน, ทาร์ฮุน, โทริน
 
-Female Names: Akra, Biri, Daar, Farideh, Harann, Havilar, Jheri, Kava, Korinn, Mishann, Nala, Perra, Raiann, Sora, Surina, Thava, Uadjit
+ชื่อผู้หญิง: อักครา, บิริ, ดาร์, ฟาริเดฮ์, ฮาราน, ฮาวิลาร์, เจริ, คาวา, โคริน, มิชาน, นาลา, เพอร่า, ไรอาน, โซรา, ซูรินา, ธาวา, อุดจิต
 
-Childhood Names: Climber, Earbender, Leaper, Pious, Shieldbiter, Zealous
+ชื่อวัยเด็ก: คลิมบา, เอียเบนเดอร์, ลีพเปอร์, ไพอัส, ชิลด์ไบเตอร์, ซีเลียส
 
-Clan Names: Clethtinthiallor, Daardendrian, Delmirev, Drachedandion, Fenkenkabradon, Kepeshkmolik, Kerrhylon, Kimbatuul, Linxakasendalor, Myastan, Nemmonis, Norixius, Ophinshtalajiir, Prexijandilin, Shestendeliath, Turnuroth, Verthisathurgiesh, Yarjerit
+ชื่อเผ่า: เคลธทินธิอัลลอร์, ดาอาเดนเดรียน, เดลมิเรฟ, ดราเชดันเดียน, เฟนเคนคาบราดอน, เคเปชคโมลิค, เคอไลลอน, คิมบาทูล, ลินซาคาเซนดาลอร์, ไมแอสตัน, เนมโมนิส, นอริเซียส, โอฟินสตาลาเจอร์, เพรกซิจันดิลิน, เชสเทนเดลิแอท, เทอนูรอธ, เอวธิสาเทอกิเอส, ยาเจอริต
 
-### Dragonborn Traits
+### คุณลักษณะของดรากอนบอร์น Dragonborn Traits
 
-Your draconic heritage manifests in a variety of traits you share with other dragonborn.
+สายเลือดมังกรของคุณให้คุณลักษณะพิเศษหลากหลายตามชนิดของมังกรที่คุณสืบเชื้อสายมา
 
-Ability Score Increase. Your Strength score increases by 2, and your Charisma score increases by 1.
+คะแนนความสามารถเพิ่มขึ้น คะแนนความแข็งแกร่ง (Strength) เพิ่มขึ้น 2 และคะแนนสเน่ห์เพิ่มขึ้น 1
 
-Age. Young dragonborn grow quickly. They walk hours after hatching, attain the size and development of a 10-year-old human child by the age of 3, and reach adulthood by 15. They live to be around 80.
+อายุ ดรากอนบอร์นเด็กจะโตเร็ว ฟักจากไข่ชั่วโมงเดียวก็เดินได้แล้ว โตเท่าเด็กมนุษย์ 10 ขวบใน 3 ปี และเข้าสู่วัยผู้ใหญ่เมื่ออายุ 15 จะอยู่ได้ถึงอายุ 80 xu
 
-Size. Dragonborn are taller and heavier than humans, standing well over 6 feet tall and averaging almost 250 pounds. Your size is Medium.
+ขนาด ดรากอนบอร์นสูงและน้ำหนักมากกว่ามนุษย์ สูงเกิน 6 ฟุตและน้ำหนักเฉลี่ยราว 250 ปอนด์ เป็นสิ่งมีชีวิตขนาดกลาง (Medium)
 
-Speed. Your base walking speed is 30 feet.
+ความเร็ว ความเร็วในการเดินอยู่ที่ 30 ฟุต
 
-Draconic Ancestry
-| DRAGON | DAMAGE TYPE | BREATH WEAPON |
+บรรพบุรุษมังกร Draconic Ancestry
+| มังกร | ชนิดความเสียหาย | อาวุธลมหายใจ |
 | ------ | ----------- | ---------------------------- |
-| Black | Acid | 5 by 30 ft. line (Dex. save) |
-| Blue | Lightning | 5 by 30 ft. line (Dex. save) |
-| Brass | Fire | 5 by 30 ft. line (Dex. save) |
-| Bronze | Lightning | 5 by 30 ft. line (Dex. save) |
-| Copper | Acid | 5 by 30 ft. line (Dex. save) |
-| Gold | Fire | 15 ft. cone (Dex. save) |
-| Green | Poison | 15 ft. cone (Con. save) |
-| Red | Fire | 15 ft. cone (Dex. save) |
-| Silver | Cold | 15 ft. cone (Con. save) |
-| White | Cold | 15 ft. cone (Con. save) |
+| ดำ | กรด | 5 x 30 ft. เส้นตรง (Dex. save) |
+| น้ำเงิน | สายฟ้า | 5 x 30 ft. เส้นตรง (Dex. save) |
+| ทองเหลือง | ไฟ | 5 x 30 ft. เส้นตรง (Dex. save) |
+| สัมฤทธิ์ | สายฟ้า | 5 x 30 ft. เส้นตรง (Dex. save) |
+| ทองแดง | กรด | 5 x 30 ft. เส้นตรง (Dex. save) |
+| ทอง | ไฟ | 15 ft. รูปกรวย (Dex. save) |
+| เขียว | พิษ | 15 ft. รูปกรวย (Con. save) |
+| แดง | ไฟ | 15 ft. รูปกรวย (Dex. save) |
+| เงิน | ความเย็น | 15 ft. รูปกรวย (Con. save) |
+| ขาว | ความเย็น | 15 ft. รูปกรวย (Con. save) |
 
-Draconic Ancestry. You have draconic ancestry. Choose one type of dragon from the Draconic Ancestry table. Your breath weapon and damage resistance are determined by the dragon type, as shown in the table.
+บรรพบุรุษมังกร คุณมีบรรพบุรุษเป็นมังกร เลือกชนิดของมังกรจากตารางด้านบน อาวุธลมหายใจและค่าความต้านทานความเสียหายของคุณจะขึ้นอยู่กับมังกรที่คุณเลือก
 
-Breath Weapon. You can use your action to exhale destructive energy. Your draconic ancestry determines the size, shape, and damage type of the exhalation.
+อาวุธลมหายใจ คุณสามารถใช้แอ็กชันในการพ่นลมหายใจโจมตีได้ บรรพบุรุษมังกรของคุณจะเป็นตัวกำหนดขนาด รูปร่างและชนิดความเสียหายเมื่อพ่นลมหายใจออกไป
 
-When you use your breath weapon, each creature in the area of the exhalation must make a saving throw, the type of which is determined by your draconic ancestry. The DC for this saving throw equals 8 + your Constitution modifier + your proficiency bonus. A creature takes 2d6 damage on a failed save, and half as much damage on a successful one. The damage increases to 3d6 at 6th level, 4d6 at 11th level, and 5d6 at 16th level.
+เมื่อคุณใช้อาวุธลมหายใจ สิ่งมีชีวิตทุกตัวที่อยู่ในพื้นที่โจมตีต้องทอยป้องกัน ใช้คะแนนใดขึ้นอยู่กับบรรพบุรุษมังกรที่คุณเลือก ค่า DC สำหรับการทอยป้องกันจะเท่ากับ 8 + ค่าโมดิไฟเออร์ความอดทน (Constitution) + โบนัสความเชี่ยวชาญของคุณ สิ่งมีชีวิตจะได้รับความเสียหาย 2d6 หากทอยพลาด และเสียหายครึ่งหนึ่งถ้าทอยผ่าน ความเสียหายจะเพิ่มขึ้นเป็น 3d6 เมื่อเลเวล 6, 4d6 เมื่อเลเวล 11 และ 5d6 เมื่อเลเวล 16
 
-After you use your breath weapon, you can’t use it again until you complete a short or long rest.
+หลังจากที่คุณใช้อาวุธลมหายใจแล้ว คุณจะใช้ไม่ได้อีกจนกระทั่งได้รับการพักสั้นหรือพักยาว (short or long rest)
 
-Damage Resistance. You have resistance to the damage type associated with your draconic ancestry.
+ความต้านทานความเสียหาย คุณจะมีความต้านทานต่อชนิดความเสียหายที่ผูกโยงอยู่กับชนิดบรรพบุรุษมังกรที่คุณเลือก
 
-Languages. You can speak, read, and write Common and Draconic. Draconic is thought to be one of the oldest languages and is often used in the study of magic. The language sounds harsh to most other creatures and includes numerous hard consonants and sibilants.
+ภาษา คุณสามารถพูด อ่าน และเขียนภาษาคอมมอนและดราโกนิค ดราโกนิกถือเป็นหนึ่งในภาษาเก่าแก่และมักจะใช้ในการเรียนเวทย์มนต์ เสียงในภาษานี้จะฟังดูสาก ไม่นุ่มนวลสำหรับสิ่งมีชีวิตอื่นและมีพยัญชนะเสียงแข็งและพ่นออกตามไรฟัน
