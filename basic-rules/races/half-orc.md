@@ -1,51 +1,49 @@
-## <a name="half-orc">Half-Orc</a>
+## <a name="half-orc">ฮาล์ฟอ็อค Half-Orc</a>
 
-> The warchief Mhurren roused himself from his sleeping-furs and his women and pulled a short hauberk of heavy steel rings over his thick, well-muscled torso. He usually rose before most of his warriors, since he had a strong streak of human blood in him, and he found the daylight less bothersome than most of his tribe did. Among the Bloody Skulls, a warrior was judged by his strength, his fierceness, and his wits. Human ancestry was no blemish against a warrior — provided he was every bit as strong, enduring, and bloodthirsty as his full-blooded kin. Half-orcs who were weaker than their orc comrades didn’t last long among the Bloody Skulls or any other orc tribe for that matter. But it was often true that a bit of human blood gave a warrior just the right mix of cunning, ambition, and self-discipline to go far indeed, as Mhurren had. He was master of a tribe that could muster two thousand spears, and the strongest chief in Thar.
+> หัวหน้าเผ่าเมอเรนปลุกตัวเองให้ตื่นจากที่นอนขนนุ่มและบรรดาผู้หญิงของเขา ดึงเกราะห่วงเหล็กขึ้นมาสวมใส่บนลำตัวที่แน่นไปด้วยกล้ามเนื้อ เขามักจะตื่นก่อนนักรบของเขาเสมอ เพราะเขามีเลือดมนุษย์ผสมอยู่เข้มข้นในตัว และเขาพบว่าแสงตะวันไม่ได้รบกวนเขามากเท่าคนอื่น ๆ ในเผ่า ในหมู่เผ่าบลัดดี้สคัล นักรบจะถูกตัดสินกันจากความแข็งแกร่ง ความกล้าบ้าบิ่น และภูมิปัญญา บรรพบุรุษมนุษย์ในตัวเขาไม่ได้เป็นปัญหาต่อการเป็นนักรบแต่อย่างใด ยังมีความแข็งแกร่ง ทนทาน และกระหายเลือดเหมือนเช่นพี่น้องเลือดแท้ในเผ่า ฮาล์ฟอ็อคที่อ่อนแอกว่าคนอื่น ๆ มักจะอยู่ได้ไม่นานในสังคมบลัดดี้สกัล หรือในเผ่าอ็อคอื่น แต่มันมักจะจริงที่ความเป็นมนุษย์ในสายเลือดนั้นทำให้เป็นนักรบที่เป็นส่วนผสมกันของความเจ้าเล่ห์ ความทะเยอทะยาน และความมีวินัย อย่างที่เมอเรนมี เขาเป็นหัวหน้าของเผ่าที่รวบรวมหอกได้ถึงสองพันเล่ม เป็นหัวหน้าเผ่าที่แข็งแกร่งที่สุดในธาร์
 >
-> — Richard Baker, Swordmage
+> — ริชาร์ด เบเกอร์ Richard Baker, ซอร์ดเมจ Swordmage
 
-Whether united under the leadership of a mighty warlock or having fought to a standstill after years of conflict, orc and human communities, sometimes form alliances. When these alliances are sealed by marriages, half-orcs are born. Some half-orcs rise to become proud leaders of orc communities. Some venture into the world to prove their worth. Many of these become adventurers, achieving greatness for their mighty deeds.
+ไม่ว่าจะรวมตัวกันภายใต้การนำของวอร์ล็อคผู้ทรงอำนาจ หรือสู้กันจนแตกหักหลายปี ชุมชนอ็อคกับมนุษย์บางคราวก็ผนึกกำลังกันเป็นพันธมิตร เมื่อการร่วมมือเป็นพันธมิตรกันถูกผนึกตราด้วยการแต่งงาน ฮาร์ฟอ็อคก็เกิดขึ้น บางคนก็ไต่เต้าขึ้นไปจนเป็นผู้นำที่น่าภูมิใจในเผ่าอ็อค บ้างก็ออกท่องโลกเพื่อพิสูจน์คุณค่าของตน หลายคนกลายมาเป็นนักผจญภัย สร้างความสำเร็จเป็นเกียรติประวัติ
 
-### Scarred and Strong
+### รอยแผลเป็นและความแข็งแกร่ง Scarred and Strong
 
-Half-orcs exhibit a blend of orcish and human characteristics, and their appearance varies widely. Grayish skin tones and prominent teeth are the most common shared elements among these folk. Half-orcs stand between 5 and 7 feet tall and usually weigh between 180 and 250 pounds.
+ฮาล์ฟอ็อคแสดงให้เห็นถึงการผสานรวมกันระหว่างลักษณะของอ็อคและมนุษย์ รูปลักษณ์ของพวกเขาแตกต่างหลากหลาย ผิวสีออกเทาและฟันที่ยื่นออกมาเป็นลักษณะเด่นที่ชัดเจน ฮาล์ฟอ็อคจะสูงระหว่าง 5 ถึง 7 ฟุต หนักราว 180 ถึง 250 ปอนด์
 
-Orcs regard battle scars as tokens of pride and ornamental scars as things of beauty. Other scars, though, mark an orc or half-orc as a former prisoner or a disgraced exile. Any half-orc who has lived among or near orcs has scars, whether they are marks of humiliation or of pride, recounting their past exploits and injuries.
+อ็อคจะนับถือรอยแผลเป็นจากการรบเป็นสัญลักษณ์ที่น่าภาคภูมิใจและจะตบแต่งรอยแผลเป็นเหมือนเป็นสิ่งสวยงาม แต่แผลเป็นแบบอื่น เป็นเครื่องหมายตีตราอ็อคหรือฮาล์ฟอ็อคว่าเคยเป็นนักโทษหรือถูกเนรเทศ ฮาล์ฟอ็อคคนใดที่อาศัยอยู่ในหมู่อ็อค ไม่ว่าแผลเป็นจะได้มายังไง ก็จะนับว่าเป็นความทรงจำในอดีตที่น่าจดจำ
 
-### The Mark of Gruumsh
+### สัญลักษณ์แห่งกรูมส์ The Mark of Gruumsh
 
-The one-eyed god Gruumsh—lord of war and fury—created the first orcs, and even those orcs who turn away from his worship carry his blessings of might and endurance. The same is true of half-orcs. Some half-orcs hear the whispers of Gruumsh in their dreams, calling them to unleash the rage that simmers within them. Others feel Gruumsh’s exultation when they join in melee combat — and either exult along with him or shiver with fear and loathing.
+เทพตาเดียว กรูมส์ (Gruumsh) เจ้าแห่งสงครามและความพิโรธได้สร้างอ็อคพวกแรกขึ้นมา และแม้ว่าอ็อคเหล่านั้นจะเลิกนับถือไปแล้ว ความแข็งแกร่งและความอดทนที่ได้รับพรมาก็ยังคงอยู่ เช่นเดียวกับฮาล์ฟอ็อค บางคนได้ยินเสียงกระซิบของกรูมส์ในความฝัน เรียกให้พวกเขาปลดปล่อยความบ้าคลั่งที่ซ่อนอยู่ตัวตัวออกมา บางคนรับรู้ถึงความปิติยินดีของกรูมส์เมื่อพวกเขาเข้าต่อสู้ตะลุมบอนกับศัตรู บ้างก็ร่วมกับความบ้าเลือดนั้น บ้างเกิดความกลัวและหนีห่าง
 
-Beyond the rage of Gruumsh, half-orcs feel emotion powerfully. Rage doesn’t just quicken their pulse, it makes their bodies burn. An insult stings like acid, and sadness saps their strength. But they laugh loudly and heartily, and simple pleasures — feasting, drinking, wrestling, drumming, and wild dancing — fill their hearts with joy. They tend to be short-tempered and sometimes sullen, more inclined to action than contemplation and to fighting than arguing. And when their hearts swell with love, they leap to perform acts of great kindness and compassion.
+นอกเหนือจากความบ้าคลั่งของกรูมส์แล้ว ฮาล์ฟอ็อคยังรับรู้อารมณ์ได้อย่างรุนแรง ความบ้าคลั่งไม่ได้แค่ทำให้ชีพจรเต้นเร็วขึ้น แต่ยังทำให้ร่างกายร้อนเป็นไฟ การดูถูกเหยียดหยามทิ่มแทงเหมือนกรดกัด และความโศกเศร้าทำให้ความแข็งแกร่งเหือดหาย แต่พวกเขาหัวเราะดังสนั่นและจริงใจ มีความสุขกับเรื่องง่าย ๆ เช่นการกิน การดื่ม เล่นมวยปล้ำ ตีกลอง และเต้นรำแบบชนเผ่า แค่นี้ก็ทำให้พวกเขามีความสุขได้ พวกเขามักจะโมโหง่ายและหน้าตาบึ้งตึง มักจะลุยก่อนแล้วค่อยคุยทีหลัง และเมื่อพวกเขาตกหลุมรักพวกเขาจะโดดเข้าไปแสดงความรักทันที
 
-### Half-Orc Names
+### ชื่อของฮาล์ฟอ็อค Half-Orc Names
 
-Half-orcs usually have names appropriate to the culture in which they were raised. A half-orc who wants to fit in among humans might trade an orc name for a human name. Some half-orcs with human names decide to adopt a guttural orc name because they think it makes them more intimidating.
+ฮาล์ฟอ็อคมักจะได้ชื่อที่เหมาะกับวัฒนธรรมที่พวกเขาถูกเลี้ยงดูมา ฮาล์ฟอ็อคที่ต้องการจะเข้ากับสังคมมนุษย์อาจจะใช้ชื่อแบบมนุษย์ บางคนที่เคยใช้ชื่อมนุษย์ก็เปลี่ยนมาใช้ชื่ออ็อคเพราะทำให้ดูน่าเกรงขาม
 
-Male Orc Names: Dench, Feng, Gell, Henk, Holg, Imsh, Keth, Krusk, Mhurren, Ront, Shump, Thokk
+ชื่ออ็อคชาย: เดนช์, เฟง, เกล, เฮง, โฮล์ก, อิมช์, เคธ, ครัชค์, เมอเรน, รอนท์, ชัมพ์, ธอคค์
 
-Female Orc Names: Baggi, Emen, Engong, Kansif, Myev, Neega, Ovak, Ownka, Shautha, Sutha, Vola, Volen, Yevelda
+ชื่ออ็อคหญิง: แบ็คกี, อีเมน, เอ็นกอง, คานชิฟ, เมอีฟ, นีกา, โอวัค, โอนกา, เชาธาร์, ซูธา, โวลา, โวเลน, เยเวลดา
 
-### Half-Orc Traits
+### คุณลักษณธของฮาล์ฟอ็อค Half-Orc Traits
 
-Your half-orc character has certain traits deriving from your orc ancestry.
+ตัวละครฮาล์ฟอ็อคของคุณจะมีคุณลักษณะ (trait) ที่ได้มาจากบรรพบุรุษอ็อค
 
-Ability Score Increase. Your Strength score increases by 2, and your Constitution score increases by 1.
+คะแนนความสามารถเพิ่มขึ้น คะแนนความแข็งแกร่ง (Strength) เพิ่มขึ้น 2 และคะแนนความอดทน (Constitution) เพิ่มขึ้น 1
 
-Age. Half-orcs mature a little faster than humans, reaching adulthood around age 14. They age noticeably faster and rarely live longer than 75 years.
+อายุ ฮาล์ฟอ็อคจะโตเป็นผู้ใหญ่เร็วกว่ามนุษย์ จะเข้าสู่วัยผู้ใหญ่เมื่ออายุ 14 จะโตอย่างรวดเร็วและมีอายุอยู่ได้เกิน 75 ปี
 
-Size. Half-orcs are somewhat larger and bulkier than humans, and they range from 5 to well over 6 feet tall. Your size is Medium.
+ขนาด ฮาลฟ์อ็อคจะมีขนาดตัวใหญ่และหนากว่ามนุษย์ และสูงระหว่าง 5 - 6 ฟุต เป็นสิ่งมีชีวิตขนาดกลาง (Medium)
 
-Speed. Your base walking speed is 30 feet.
+ความเร็ว ความเร็วในการเดินปกติอยู่ที่ 30 ฟุต
 
-Darkvision. Thanks to your orc blood, you have superior vision in dark and dim conditions. You can see in dim light within 60 feet of you as if it were bright light, and in darkness as if it were dim light. You can’t discern color in darkness, only shades of gray.
+ดาร์กวิชัน ต้องขอบคุณเลือดอ็อคในตัวคุณ คุณมีการมองเห็นที่ยอดเยี่ยมในความมืดและภาวะแสงน้อย คุณสามารถมองเห็นในที่แสงน้อย (dim light) ในระยะ 60 ฟุตรอบตัวคุณเหมือนคุณมองเห็นในที่แสงปกติ และในความมืดสนิท (darkness) คุณจะมองเห็นเหมือนอยู่ในที่แสงน้อย คุณไม่สามารถแยกแยะสีได้ในความมืดสนิท ได้แค่เป็นระดับสีเทา
 
-Menacing. You gain proficiency in the Intimidation skill.
+ข่มขู่เก่ง คุณมีความเชี่ยวชาญในทักษะการข่มขู่ (Intimidation skill)
 
-Relentless Endurance. When you are reduced to
-0 hit points but not killed outright, you can drop to 1 hit point instead. You can’t use this feature again until you finish a long rest.
+ความอดทนไร้ขีดจำกัด เมื่อคุณเลือดลดจนเหลือ 0 แต่ไม่ได้ถูกฆ่าทันที คุณจะได้ HP เป็น 1 แทน คุณจะไม่สามารถใช้ความสามารถ (feature) นี้ได้อีกจนกว่าจะได้พักยาว (long rest)
 
-Savage Attacks. When you score a critical hit with
-a melee weapon attack, you can roll one of the weapon’s damage dice one additional time and add it to the extra damage of the critical hit.
+โจมตีแบบสัตว์ป่า เมื่อคุณทอยได้คริติคัลในการทอยโจมตีด้วยอาวุธระยะประชิดตัว คุณสามารถทอยความเสียหายเพิ่มได้อีก 1 ลูก 1 ครั้ง และเพิ่มเป็นความเสียหายพิเศษในการโจมตี
 
-Languages. You can speak, read, and write Common and Orc. Orc is a harsh, grating language with hard consonants. It has no script of its own but is written in the Dwarvish script.
+ภาษา คุณสามารถพูด อ่าน และเขียนภาษาคอมมอนและภาษาอ็อค ภาษาอ็อคจะกระด้าง มีเสียงงึมงัม ไม่มีตัวอักษรเป็นของตัวเองโดยจะใช้ตัวเขียนของภาษาดวาฟวิช
