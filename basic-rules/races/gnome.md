@@ -1,10 +1,10 @@
-## <a name="gnome">Gnome</a>
+## <a name="gnome">โนม Gnome</a>
 
-> Skinny and flaxen-haired, his skin walnut brown and his eyes a startling turquoise, Burgell stood half as tall as Aeron and had to climb up on a stool to look out the peephole. Like most habitations in Oeble, that particular tenement had been built for humans, and smaller residents coped with the resulting awkwardness as best they could.
+> ร่างผอมบางและเส้นผมเหมือนต้นลินิน ผิวของเขาเป็นสีน้ำตาลวอลนัทและตาของเขาเป็นสีเทอควอยส์เป็นประกาย เบอเกลยืนอยู่ด้วยความสูงแค่ครึ่งเดียวของเอรอนแและต้องปีนขึ้นไปบนเก้าอี้เพื่อจะให้สูงถึงช่องแอบดู เช่นเดียวกับที่อยู่อาศัยทั่วไปในโอเอเบิ้ล ห้องแถวนี้สร้างขึ้นเพื่อให้มนุษย์อาศัยอยู่ และผู้อาศัยที่ตัวเล็กกว่าก็ต้องทำอย่างสุดความสามารถในการอาศัยอยู่ร่วมได้
 >
-> But at least the relative largeness of the apartment gave Burgell room to pack in all his gnome-sized gear. The front room was his workshop, and it contained a bewildering miscellany of tools: hammers, chisels, saws, lockpicks, tinted lenses, jeweler’s loupes, and jars of powdered and shredded ingredients for casting spells. A fat gray cat, the mage’s familiar, lay curled atop a grimoire. It opened its eyes, gave Aeron a disdainful yellow stare, then appeared to go back to sleep.
+> แต่อย่างน้อยพื้นที่อพาทเมนท์ก็กว้างขวางพอที่จะให้เบอเกลเก็บของต่าง ๆ ของเขาได้อย่างสะดวก ห้องด้านหน้าเป็นห้องทำงาน และมันมีเครื่องไม้เครื่องมือจุกจิกมากมาย ทั้งฆ้อน สิ่ว เลื่อย อุปกรณ์งัดแงะ เลนส์สะท้อนแสง เครื่องมือช่างอัญมณี และขวดบรรจุดผงส่วนประกอบเวทย์มนต์ต่าง ๆ สัตว์เลี้ยงของนักเวทย์เป็นแมวอ้วนสีเทานอนขดอยู่บนหนังสือหนา มันนอนลืมตามองมาทางเอรอนด้วยตาสีเหลืองเรือง และกลับไปนอนหลับต่อ
 >
-> — Richard Lee Byers, The Black Bouquet
+> — ริชาร์ด ลี เบเยอร์ Richard Lee Byers, The Black Bouquet
 
 A constant hum of busy activity pervades the warrens and neighborhoods where gnomes form their close-knit communities. Louder sounds punctuate the hum: a crunch of grinding gears here, a minor explosion there, a yelp of surprise or triumph, and especially bursts of laughter. Gnomes take delight in life, enjoying every moment of invention, exploration, investigation, creation, and play.
 
