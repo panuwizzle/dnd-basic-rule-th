@@ -28,21 +28,21 @@
 
 โนมที่อาศัยอยู่กับชุมชนมนุษย์มักจะเป็นคนเจียรไนพลอย ช่างยนต์ ปราชญ์ หรือช่างเชื่อม บางครอบครัวของมนุษย์จะรับโนมมาสอนหนังสือ ทำให้ลูกศิษย์ได้ความรู้ที่เข้มข้นและความสนุกสนานอย่างไม่รู้เบื่อ โนมอาจจะเป็นอาจารย์ให้กับคนหลายรุ่นในครอบครัวจากอายุที่ยืนยาวของพวกเขา
 
-> ALWAYS APPRECIATIVE
+> ยินดีอยู่เสมอ ALWAYS APPRECIATIVE
 >
-> It’s rare for a gnome to be hostile or malicious unless he or she has suffered a grievous injury. Gnomes know that most races don’t share their sense of humor, but they enjoy anyone’s company just as they enjoy everything else they set out to do.
+> น้อยครั้งมากที่โนมจะเป็นศัตรูหรือคิดร้ายกับใครเว้นแต่ว่าเขาหรือเธอจะถูกให้บาดเจ็บเจียนตาย โนมรู้ว่าเผ่าพันธุ์อื่นส่วนใหญ่จะไม่ค่อยเข้าใจมุกตลกของพวกเขา แต่ยังไงก็ตามพวกเขาก็สนุกสนานเมื่อได้ร่วมคณะเดินทางเหมือนกับที่มักจะมีความสุขกับสิ่งอื่น ๆ ที่พวกเขาตัดสินใจทำ
 
-### Gnome Names
+### ชื่อของโนม Gnome Names
 
-Gnomes love names, and most have half a dozen or so. A gnome’s mother, father, clan elder, aunts, and uncles each give the gnome a name, and various nicknames from just about everyone else might or might not stick over time. Gnome names are typically variants on the names of ancestors or distant relatives, though some are purely new inventions. When dealing with humans and others who are “stuffy” about names, a gnome learns to use no more than three names: a personal name, a clan name, and a nickname, choosing the one in each category that’s the most fun to say.
+โนมเป็นพวกชอบชื่อมาก และส่วนใหญ่จะมีชื่อกันคนละครึ่งโหลหรือมากกว่านั้น แม่ พ่อ ผู้อาวุโสในเผ่า บรรดาน้าป้าและลุงต่างก็จะตั้งชื่อให้โนมแต่ละคน ยังมีชื่อเล่นที่ได้จากคนอื่น ๆ อีกที่อาจจะใช้อยู่หรือเปลี่ยนไปตามเวลา ชื่อของโนมมักจะต่างกันออกไปตามชื่อของบรรพบุรุษหรือญาติห่าง ๆ บางทีก็คิดกันขึ้นมาใหม่เลย เมื่อต้องพบปะกับมนุษย์และเผ่าอื่นที่ "จู้จี้" เรื่องชื่อ โนมจึงเรียนรู้ที่จะเลือกใช้ชื่อแค่ 3 คือ ชื่อตัว ชื่อเผ่า และชื่อเล่น เลือกจากแต่ละหมวดที่ดูจะสนุกเวลาพูดออกมา
 
-Male Names: Alston, Alvyn, Boddynock, Brocc, Burgell, Dimble, Eldon, Erky, Fonkin, Frug, Gerbo, Gimble, Glim, Jebeddo, Kellen, Namfoodle, Orryn, Roondar, Seebo, Sindri, Warryn, Wrenn, Zook
+ชื่อชาย: อัลสตัน, อัลวีน, บ็อดดี้น็อค, บรอคค์, เบอร์เกล, ดิมเบิล, เอลดอน, เออกี้, ฟ็องคิน, ฟรุก, เจอโบ, กิมเบิล, กลิม, เจเบ็ดโด, เคลเลน, นัมฟูเดิล, ออริน, รูนดาร์, ซีโบ, ซินดริ, วาร์ริน, เวรน, ซุค
 
-Female Names: Bimpnottin, Breena, Caramip, Carlin, Donella, Duvamil, Ella, Ellyjobell, Ellywick, Lilli, Loopmottin, Lorilla, Mardnab, Nissa, Nyx, Oda, Orla, Roywyn, Shamil, Tana, Waywocket, Zanna
+ชื่อหญิง: บิมน็อททิน, บรีนา, คารามิพ, คาร์ลิน, ดอนเนลล่า, ดูวามิล, เอลลา, เอลลี่โจเบล, เอลลี่วิค, ลิลลิ, ลูพม็อททิน, ลอริลล่า, มาร์ดแน็บ, นิสซา, นิกส์, โอดา, ออลา, รอยวิน, ชามิล, ทานา, เวย์ว็อคเค็ท, ซานนา
 
-Clan Names: Beren, Daergel, Folkor, Garrick, Nackle, Murnig, Ningel, Raulnor, Scheppen, Timbers, Turen
+ชื่อเผ่า: เบเรน, ดาเออเกล, โฟล์คกอ, การ์ริค, แน็คเคิล, เมอร์นิก, นิงเกิล, ราอูนอร์, เชพเพน, ทิมเบอร์ส, ทูเรน
 
-Nicknames: Aleslosh, Ashhearth, Badger, Cloak, Doublelock, Filchbatter, Fnipper, Ku, Nim, Oneshoe, Pock, Sparklegem, Stumbleduck
+ชื่อเล่น: อะเลสล็อช, แอชฮาร์ธ, แบดเจอร์, โคลค, ดับเบิลล็อค, ฟลิชแบทเทอร์, ฟนิพเปอร์, คู, นิม, วันชู, พ็อค, สปาร์คเคิลเจม, สตัมเบิลดัก
 
 ### Seeing the World
 
