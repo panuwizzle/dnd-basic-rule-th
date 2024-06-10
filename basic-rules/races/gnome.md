@@ -44,48 +44,57 @@
 
 ชื่อเล่น: อะเลสล็อช, แอชฮาร์ธ, แบดเจอร์, โคลค, ดับเบิลล็อค, ฟลิชแบทเทอร์, ฟนิพเปอร์, คู, นิม, วันชู, พ็อค, สปาร์คเคิลเจม, สตัมเบิลดัก
 
-### Seeing the World
+### ออกไปท่องโลกกว้าง Seeing the World
 
-Curious and impulsive, gnomes might take up adventuring as a way to see the world or for the love of exploring. As lovers of gems and other fine items, some gnomes take to adventuring as a quick, if dangerous, path to wealth. Regardless of what spurs them to adventure, gnomes who adopt this way of life eke as much enjoyment out of it as they do out of any other activity they undertake, sometimes to the great annoyance of their adventuring companions.
+ด้วยความที่ขี้สงสัยและใจเร็ว โนมอาจจะออกผจญภัยด้วยความอยากออกไปท่องโลกหรือเพราะความรักในการสำรวจสิ่งต่าง ๆ ความรักในอัญมณีและไอเท็มสวยงาม โนมบางคนถือเอาการผจญภัยที่อันตรายเป็นหนทางสู่ความร่ำรวย ไม่ว่าอะไรกระตุ้นให้พวกเขาออกผจญภัย โนมใช้ชีวิตแบบนี้ก็เพื่อหาความเพลิดเพลินพอ ๆ กับที่พวกเขาทำกิจกรรมอื่น ๆ ซึ่งบางครั้งก็สร้างความรำคาญให้กับเพื่อนร่วมผจญภัยของพวกเขา
 
-### Gnome Traits
+### คุณลักษณะของโนม Gnome Traits
 
-Your gnome character has certain characteristics in common with all other gnomes.
+ตัวละครโนมของคุณจะมีลักษณะคล้ายกับโนมอื่น ๆ ทั่วไป
 
-Ability Score Increase. Your Intelligence score increases by 2.
+คะแนนความสามารถเพิ่มขึ้น คะแนนความฉลาด (Intelligence) เพิ่มขึ้น 2
 
-Age. Gnomes mature at the same rate humans do, and most are expected to settle down into an adult life by around age 40. They can live 350 to almost 500 years.
+อายุ โนมจะเป็นผู้ใหญ่ในอัตราเดียวกับมนุษย์ ส่วนใหญ่จะถือว่าเป็นผู้ใหญ่ตอนที่อายุ 40 พวกเขาอยู่ได้ถึง 350 และเกือบ 500 ปีเลยทีเดียว
 
-Size. Gnomes are between 3 and 4 feet tall and average about 40 pounds. Your size is Small.
+ขนาด โนมสูงราว 3 - 4 ฟุต หนักโดยเฉลี่ย 40 ปอนด์ มีขนาดเล็ก (Small)
 
-Speed. Your base walking speed is 25 feet.
+ความเร็ว ความเร็วการเดินปกติอยู่ที่ 25 ฟุต
 
-Darkvision. Accustomed to life underground, you have superior vision in dark and dim conditions. You can see in dim light within 60 feet of you as if it were bright light, and in darkness as if it were dim light. You can’t discern color in darkness, only shades of gray.
+ดาร์กวิชัน ความคุ้นเคยในการอาศัยอยู่ใต้ดิน คุณจะมีวิสัยทรรศ์ที่ยอดเยี่ยมในที่มืดและแสงสลัว คุณสามารถมองในที่แสงสลัวในระยะ 60 ฟุตรอบตัวคุณชัดเจนเหมือนอยู่ในที่แสงปกติ และในความมืดคุณจะมองเห็นได้เหมือนอยู่ในที่แสงสลัว คุณจะไม่สามารถแยกแยะสีได้ในความมืด จะเห็นเป็นเฉดสีเทาเท่านั้น
 
-Gnome Cunning. You have advantage on all Intelligence, Wisdom, and Charisma saving throws against magic.
+ความเจ้าเล่ห์แบบโนม คุณจะได้ทอยแบบได้เปรียบเมื่อต้องทอยป้องกันเวทย์มนต์ด้วยค่าความฉลาด (Intelligence) ความรอบรู้ (Wisdom) และเสน่ห์ (Charisma)
 
-Languages. You can speak, read, and write Common and Gnomish. The Gnomish language, which uses the Dwarvish script, is renowned for its technical treatises and its catalogs of knowledge about the natural world.
+ภาษา คุณสามารถพูด อ่าน และเขียนภาษาคอมมอน และภาษาโนมิช (Gnomish) ภาษาโนมิชนี้ ซึ่งใช้ตัวเขียนจากภาษาดวาร์วิช มีชื่อเสียงมากในงานเขียนตำราด้านเทคนิคและการจัดหมวดหมู่ความรู้เกี่ยวกับธรรมชาติของโลก
 
-Subrace. Two subraces of gnomes are found among the worlds of D&D: forest gnomes and rock gnomes. Choose one of these subraces.
+เผ่าพันธุ์ย่อย มีเผ่าพันธุ์ย่อยสองเผ่าของโนมที่พบเห็นได้ในโลกของ D&D คือโนมป่า (forest gnomes) และโนมหิน (rock gnomes) คุณสามารถเลือกใช้ได้
 
-> DEEP GNOMES
+> ดีพโนม DEEP GNOMES
 >
-> A third subrace of gnomes, the deep gnomes (or svirfneblin), live in small communities scattered in the Underdark. Unlike the duergar and the drow, svirfneblin are as good as their surface cousins. However, their humor and enthusiasm are dampened by their oppressive environment, and their inventive expertise is directed mostly toward stonework.
+> เป็นเผ่าพันธุ์ย่อยที่สามของเหล่าโนม ดีพโนม (หรือ สเวิร์ฟเนบลิน svirfneblin) อาศัยอยู่เป็นชุมชนเล็ก ๆ ในอันเดอร์ดาร์ก ที่ผิดจากพวกดูเออการ์และพวกดราว สเวิร์ฟเนบลินเป็นฝ่ายดีเหมือนญาติของพวกเขาบนพื้นโลก อย่างไรก็ตามความตลกร่าเริงและความมุ่งมั่นก็เหือดหายไปเพราะสภาพแวดล้อมที่กดทับ และความเชี่ยวชาญด้านงานประดิษฐ์ของพวกเขาก็มุ่งเน้นไปที่งานหินเป็นส่วนใหญ่
 
-### Rock Gnome
+### โนมป่า Forest Gnome
+เมื่อเป็นโนมป่า คุณจะมีความสามารถพิเศษโดยธรรมชาติในการใช้การลวงตา มีความว่องไวและการหลบซ่อนเก่ง ในโลกของ D&D โนมป่าเป็นสิ่งพบได้ยากและลึกลับ พวกเขารวมตัวเป็นกลุ่มซ่อนตัวอยู่ในป่าซิลแวน ใช้การลวงตาและมายากลในการปกปิดตัวตนจากภัยอันตราย หรือซ่อนเส้นทางการหลบหนีหากถูกพบตัว โนมป่ามักจะเป็นมิตรกับชาวป่าฝ่ายดีอื่น ๆ พวกเขาถือว่าเอลฟ์และเหล่าเฟย์ฝ่ายดีเป็นพันธมิตรที่สำคัญ พวกโนมเหล่านี้เป็นเพื่อนกับสัตว์เล็ก ๆ ในป่าและใช้พวกมันเป็นแหล่งข่าวเกี่ยวกับภัยอันตรายที่อาจจะรุกล้ำเข้ามาในเขตแดน
 
-As a rock gnome, you have a natural inventiveness and hardiness beyond that of other gnomes. Most gnomes in the worlds of D&D are rock gnomes, including the tinker gnomes of the Dragonlance setting.
+คะแนนความสามารถเพิ่มขึ้น คะแนนความว่องไว (Dexterity) เพิ่มขึ้น 1
 
-Ability Score Increase. Your Constitution score increases by 1.
+นักลวงตาโดยธรรมชาติ คุณจะรู้เวทย์การลวงตาเบื้องต้น (minor illusion cantrip) คะแนนความฉลาด (Intelligence) จะเป็นค่าความสามารถที่ใช้ในการร่ายเวทย์
 
-Artificer’s Lore. Whenever you make an Intelligence (History) check related to magic items, alchemical objects, or technological devices, you can add twice your proficiency bonus, instead of any proficiency bonus you normally apply.
+คุยกับสัตว์เล็กได้ ด้วยเสียงและท่าทาง คุณสามารถสื่อสารง่าย ๆ กับสัตว์ขนาดเล็ก (Small) หรือเล็กกว่าได้ โนมป่าเป็นพวกรักสัตว์และมักจะเลี้ยงกะรอก แบดเจอร์ กระต่าย ตุ่น นกหัวขวานและสัตว์เล็กอื่น ๆ เป็นสัตว์เลี้ยง
 
-Tinker. You have proficiency with artisan’s tools (tinker’s tools). Using those tools, you can spend 1 hour and 10 gp worth of materials to construct a Tiny clockwork device (AC 5, 1 hp). The device ceases to function after 24 hours (unless you spend 1 hour repairing it to keep the device functioning), or when you use your action to dismantle it; at that time, you can reclaim the materials used to create it. You can have up to three such devices active at a time.
+### โนมหิน Rock Gnome
 
-When you create a device, choose one of the following options:
+เมื่อเป็นโนมหิน คุณจะมีความสามารถในการประดิษฐ์และความแข็งแกร่งเหนือกว่าโนมอื่น โนมส่วนใหญ่ในโลกของ D&D เป็นโนมหิน รวมถึงโนมนักประดิษฐ์ในโลกของดรากอนแลนซ์ด้วย
 
-Clockwork Toy. This toy is a clockwork animal, monster, or person, such as a frog, mouse, bird, dragon, or soldier. When placed on the ground, the toy moves 5 feet across the ground on each of your turns in a random direction. It makes noises as appropriate to the creature it represents.
+คะแนนความสามารถเพิ่มขึ้น คะแนนความอดทน (Constitution) เพิ่มขึ้น 1
 
-Fire Starter. The device produces a miniature flame, which you can use to light a candle, torch, or campfire. Using the device requires your action.
+ตำนานนักประดิษฐ์ (Artificer's Lore) เมื่อคุณต้องทอยทดสอบคะแนนความฉลาด (Intelligence) ด้านประวัติศาสตร์ (History) คุณสามารถบวกค่าโบนัสความชำนาญ (proficiency bonus) เพิ่มเป็น 2 เท่าได้
 
-Music Box. When opened, this music box plays a single song at a moderate volume. The box stops playing when it reaches the song’s end or when it is closed.
+ช่างบัดกรี (Tinker) คุณจะมีความเชี่ยวชาญในการใช้เครื่องมือช่าง (เครื่องมือช่างบัดกรี) เมื่อใช้เครื่องมือนั้น คุณสามารถใช้เวลา 1 ชม. และวัสดุที่มีมูลค่า 10 gp ในการสร้างอุปกรณ์กลไก (Tiny clockwork device) (AC 5, 1 hp) อุปกรณ์จะหยุดทำงานเมื่อผ่านไป 24 ชม. (มิเช่นนั้นคุณต้องใช้เวลา 1 ชม. ในการซ่อมแซมเพื่อให้มันกลับมาทำงานต่อ) หรือเมื่อคุณใช้แอ็คชันในการรื้อมัน คุณสามารถเก็บชิ้นส่วนเพื่อนำมาสร้างใหม่ได้ คุณสามารถมีอุปกรณ์กลไกที่ทำงานพร้อมกันอยู่ได้มากสุด 3 ชิ้น
+
+เมื่อคุณสร้างอุปกรณ์ ให้เลือกจากรายการต่อไปนี้
+
+ของเล่นกลไก ของเล่นนี้จะเป็นตุ๊กตาสัตว์ไขลาน มอนสเตอร์ หรือคน เช่น กบ หนู นก มังกร หรือทหาร เมื่อวางบนพื้นแล้วของเล่นจะเคลื่อนที่ได้ 5 ฟุตในแต่ละตาเดินของคุณในทิศทางแบบสุ่ม มันจะส่งเสียงเหมือนกับชนิดของสัตว์ที่มันเป็น
+
+ไฟแช็ค อุปกรณ์นี้จะสร้างเปลวไฟเล็ก ๆ ซึ่งคุณสามารถใช้ในการจุดเทียน คบไฟ หรือก่อกองไฟได้ การใช้อุปกรณ์นี้ต้องใช้แอ็กชัน
+
+กล่องดนตรี เมื่อเปิดออก กล่องดนตรีนี้จะเล่นเพลงหนึ่งด้วยความดังปานกลาง กล่องจะหยุดเล่นเพลงเมื่อจบเพลงหรือเมื่อมันถูกปิดฝา
