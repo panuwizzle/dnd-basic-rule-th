@@ -30,43 +30,42 @@
 
 ### ชื่อของทีฟลิ่ง Tiefling Names
 
-Tiefling names fall into three broad categories. Tieflings born into another culture typically have names reflective of that culture. Some have names derived from the Infernal language, passed down through generations, that reflect their fiendish heritage. And some younger tieflings, striving to find a place in the world, adopt a name that signifies a virtue or other concept and then try to embody that concept. For some, the chosen name is a noble quest. For others, it’s a grim destiny.
-ชื่อของทีฟลิ่งจะมีอยู่สามกลุ่ม 
+ชื่อของทีฟลิ่งจะมีอยู่สามกลุ่ม ทีฟลิ่งที่เกิดในวัฒนธรรมอื่นโดยทั่วไปจะได้ชื่อจากวัฒนธรรมนั้น บางคนได้ชื่อที่มาจากภาษาอินเฟอร์นัล ส่งต่อกันมาหลายชั่วคน ซึ่งสะท้อนถึงบรรพบุรุษเลือดปีศาจของพวกเขา ทีฟลิ่งวัยเยาว์บางคนพยายามหาที่ทางของตนในโลกนี้ เลือกใช้ชื่อที่สื่อถึงคุณธรรมหรือแนวคิดอื่นและพยายามปฏิบัติให้สมกับชื่อนั้น บางคนการเลือกชื่อเป็นความท้าทายอันทรงเกียรติ และกับบางคนก็กลายเป็นโชคชะตาที่น่าเศร้า
 
-Male Infernal Names: Akmenos, Amnon, Barakas, Damakos, Ekemon, Iados, Kairon, Leucis, Melech, Mordai, Morthos, Pelaios, Skamos, Therai
+ชื่อผู้ชายในภาษาอินเฟอร์นัล: อัคเมนอส, อัมน่อน, บาราคาส, ดามาคอส, เอเคมอน, อิอาดอส, ไครอน, ลิวซิส, เมเลค, มอร์ได, มอร์ธอส, เพลาอิออส, สกามอส, ธีไร
 
-Female Infernal Names: Akta, Anakis, Bryseis, Criella, Damaia, Ea, Kallista, Lerissa, Makaria, Nemeia, Orianna, Phelaia, Rieta
+ชื่อผู้หญิงในภาษาอินเฟอร์นัล: อัคทา, อะนาคิส, ไบรเซอิส, คริเอลล่า, ดาไมอา, อีอา, คาลิสตา, เลริสสา, มาคาเรีย, เนเมไออา, โอริอันนา, ฟีไลอา, ริเอตตา
 
-“Virtue” Names: Art, Carrion, Chant, Creed, Despair, Excellence, Fear, Glory, Hope, Ideal, Music, Nowhere, Open, Poetry, Quest, Random, Reverence, Sorrow, Temerity, Torment, Weary
+ชื่อ "คุณธรรม": อาร์ท, แคริออน, แชนท์, ครีด, เดสแปร์, เอ็กเซลเลนซ์, เฟียร์, กลอรี่, โฮป, ไอเดียล, มิวสิค, โนแวร์, โอเพน, โพเอททรี, เควส, แรนดอม, เรฟเวอเรนซ์, ซอร์โรว, เทเมริตี้, ทอร์เมนท์, เวรี่
 
-### Tiefling Traits
+### คุณลักษณะของทีฟลิ่ง Tiefling Traits
 
-Tieflings share certain racial traits as a result of their infernal descent.
+ชาวทีฟลิ่งจะมีคุณลักษณะที่คล้ายกันเนื่องมาจากการสืบสายเลือดจากปีศาจ
 
-Ability Score Increase. Your Intelligence score increases by 1, and your Charisma score increases by 2.
+คะแนนความสามารถเพิ่มขึ้น คะแนนความฉลาด (Intelligence) เพิ่มขึ้น 1 และคะแนนเสน่ห์เพิ่มขึ้น 2
 
-Age. Tieflings mature at the same rate as humans but live a few years longer.
+อายุ ทีฟลิ่งจะโตเป็นผู้ใหญ่ในอัตราเดียวกับมนุษย์ แต่จะอายุยืนกว่าเล็กน้อย
 
-Size. Tieflings are about the same size and build as humans. Your size is Medium.
+ขนาด ทีฟลิ่งมีขนาดตัวเช่นเดียวกับมนุษย์ เป็นสิ่งมีชีวิตขนาดกลาง (Medium)
 
-Speed. Your base walking speed is 30 feet.
+ความเร็ว ความเร็วในการเดินปกติคือ 30 ฟุต
 
-Darkvision. Thanks to your infernal heritage, you have superior vision in dark and dim conditions. You can see in dim light within 60 feet of you as if it were bright light, and in darkness as if it were dim light. You can’t discern color in darkness, only shades of gray.
+ดาร์กวิชัน ความคุ้นเคยในการอาศัยอยู่ใต้ดิน คุณจะมีวิสัยทรรศ์ที่ยอดเยี่ยมในที่มืดและแสงสลัว คุณสามารถมองในที่แสงสลัวในระยะ 60 ฟุตรอบตัวคุณชัดเจนเหมือนอยู่ในที่แสงปกติ และในความมืดคุณจะมองเห็นได้เหมือนอยู่ในที่แสงสลัว คุณจะไม่สามารถแยกแยะสีได้ในความมืด จะเห็นเป็นเฉดสีเทาเท่านั้น
 
-Hellish Resistance. You have resistance to fire damage.
+ความต้านทานจากนรก คุณมีความต้านทาน (resistance) ต่อความเสียหายจากไฟ
 
-Infernal Legacy. You know the thaumaturgy cantrip. When you reach 3rd level, you can cast the hellish rebuke spell as a 2nd-level spell once with this trait and regain the ability to do so when you finish a long rest. When you reach 5th level, you can cast the darkness spell once with this trait and regain the ability to do so when you finish a long rest. Charisma is your spellcasting ability for these spells.
+มรดกจากนรก (Infernal Legacy) คุณสามารถใช้คาถาแสดงปาฏิหาริย์ (thaumaturgy cantrip) ได้ เมื่อคุณถึงเลเวล 3 คุณสามารถใช้คาถาคำสาปจากนรก (hellish rebuke spell) โดยใช้สล็อตคาถาเลเวล 2 ได้หนึ่งครั้งจากคุณลักษณะ (trait) นี้ และจะใช้ได้อีกครั้งเมื่อจบการพักผ่อนยาว (long rest) เมื่อคุณถึงเลเวล 5 คุณจะสามารถใช้คาถาความมืด (darkness spell) ได้หนึ่งครั้งจากคุณลักษณะ (trait) นี้ และจะใช้ได้อีกครั้งเมื่อจบการพักผ่อนยาว (long rest) คุณจะใช้คะแนนเสน่ห์ (Charisma) เป็นความสามารถที่ใช้ในการร่ายคาถาสำหรับคาถาเหล่านี้
 
-Languages. You can speak, read, and write Common and Infernal.
+ภาษา คุณสามารถพูด อ่าน และเขียนภาษาคอมมอนและภาษาอินเฟอร์นัล
 
-#### Variant Tiefling
-Since not all tieflings are of the blood of Asmodeus, some have traits that differ from those in the Player’s Handbook. The Dungeon Master may permit the following variants for your tiefling character, although Devil’s Tongue, Hellfire, and Winged are mutually exclusive.
+#### ทีฟลิ่งเผ่าพันย่อย Variant Tiefling
+จากการที่ไม่ใช่ทีฟลิ่งทุกคนจะสืบสายเลือดมาจากแอสโมดิอุส บางคนมีคุณลักษณะบางอย่างที่แตกต่างไปจากใน "คู่มือผู้เล่น (Player's Handbook)" DM อาจจะอนุญาตให้ใช้ทีฟลิ่งเผ่าพันธุ์ย่อยนี้เป็นตัวละครได้ แม้ว่าความสามารถลิ้นปีศาจ (Devil's Tongue), ไฟนรก (Hellfire) และปีก (Winged) จะเป็นความสามารถพิเศษ
 
-Appearance. Your tiefling might not look like other tieflings. Rather than having the physical characteristics described in the Player’s Handbook, choose 1d4 + 1 of the following features: small horns; fangs or sharp teeth; a forked tongue; catlike eyes; six fingers on each hand; goat-like legs; cloven hoofs; a forked tail; leathery or scaly skin; red or dark blue skin; cast no shadow or reflection; exude a smell of brimstone.
+ลักษณะภายนอก ทีฟลิ่งของคุณอาจจะไม่เหมือนทีฟลิ่งอื่น นอกเหนือจากที่มีระบุลักษณะไว้ในคู่มือผู้เล่นแล้ว ให้คุณทอย 1d4 + 1 เพื่อเลือกลักษณะพิเศษดังนี้: เขาเล็ก, มีเขี้ยวหรือฟันคม, ลิ้นสองแฉก, ตาเหมือนแมว, มือมี 6 นิ้ว, มีขาเหมือนแพะ, เท้ากีบ, สองหาง, ผิวเป็นแบบหนังสัตว์หรือมีเกล็ด, ผิวสีแดงหรือน้ำเงินเข้ม, ไม่มีเงาแดดหรือเงาสะท้อนในกระจก, มีกลิ่นเหมือนกำมะถัน
 
-Variant Tiefling
-Devil’s Tongue. You know the vicious mockery cantrip. When you reach 3rd level, you can cast the charm person spell as a 2nd-level spell once with this trait. When you reach 5th level, you can cast the enthrall spell once with this trait. You must finish a long rest to cast these spells once again with this trait. Charisma is your spellcasting ability for them. This trait replaces the Infernal Legacy trait.
+**ทีฟลิ่งเผ่าพันธุ์ย่อย Variant Tiefling**
+ลิ้นปีศาจ คุณสามารถใช้คาถาด่าเสียผู้เสียคน (vicious mockery cantrip) ได้ เมื่อคุณถึงเลเวล 3 คุณสามารถใช้คาถามหาเสน่ห์ (charm person spell) โดยใช้สล็อตคาถาเลเวล 2 ได้หนึ่งครั้งจากคุณลักษณะนี้ เมื่อคุณถึงเลเวล 5 คุณสามารถใช้คาถาตรึงใจ (enthrall spell) ได้หนึ่งครั้งด้วยคุณลักษณะนี้ คุณต้องพักยาวก่อนเพื่อจะใช้คาถาได้อีกครั้ง คะแนนเสน่ห์จะเป็นความสามารถที่ใช้ในการร่ายคาถา คุณลักษณะนี้จะแทนที่คุณลักษณะ "มรดกนรก (Infernal Legacy trait)"
 
-Hellfire. Once you reach 3rd level, you can cast the burning hands spell once per day as a 2nd-level spell. This trait replaces the hellish rebuke spell of the Infernal Legacy trait.
+ไฟนรถ เมื่อคุณถึงเลเวล 3 คุณจะสามารถใช้คาถาฝ่ามือเพลิง (burning hands spell) หนึ่งครั้งในหนึ่งวันโดยใช้สล็อตคาถาเลเวล 2 คุณลักษณะนี้จะแทนที่คาถาคำสาปจากนรก (hellish rebuke spell) จากคุณลักษณะมรดกจากนรก (Infernal Legacy)
 
-Winged. Bat-like wings jut from your shoulder blades. You have a flying speed of 30 feet while you aren’t wearing heavy armor.
+ปีก ปีกเหมือนค้างคาวจะงอกจากไหล่ของคุณ คุณสามารถบินได้ด้วยความเร็ว 30 ฟุตในขณะที่ไม่ได้ใส่เกราะหนัก
