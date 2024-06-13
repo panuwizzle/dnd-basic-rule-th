@@ -1,49 +1,50 @@
-## <a name="half-elf">Half-Elf</a>
+## <a name="half-elf">ฮาล์ฟเอลฟ์ Half-Elf</a>
 
-> Flint squinted into the setting sun. He thought he saw the figure of a man striding up the path. Standing, Flint drew back into the shadow of a tall pine to see better. The man’s walk was marked by an easy grace — an elvish grace, Flint would have said; yet the man’s body had the thickness and tight muscles of a human, while the facial hair was definitely humankind’s. All the dwarf could see of the man’s face beneath a green hood was tan skin and a brownish-red beard. A longbow was slung over one shoulder and a sword hung at his left side. He was dressed in soft leather, carefully tooled in the intricate designs the elves loved. But no elf in the world of Krynn could grow a beard . . . no elf, but . . .
+> ฟลินต์หรี่ตามองไปทางตะวันตกขณะอาทิตย์อัสดง เขาคิดว่าเขาเห็นคนเดินมาตามทาง ฟลินต์ถอยเข้าร่มต้นไพน์สูงเพื่อจะได้เห็นได้ถนัด ชายคนนั้นเดินมาด้วยท่วงท่าสบาย ๆ อย่างงามสง่า ท่วงท่าแบบเอลฟ์ หากแต่ชายผู้นั้นร่างกำยำมีมัดกล้ามและหนวดเคราแบบมนุษย์ ดวอร์ฟทั้งหมดคงเห็นใบหน้าภายใต้ฮู้ดสีเขียวว่ามีผิวสีแทนและเคราสีน้ำตาลแดง มีธนูยาวพาดอยู่ที่ไหล่ด้านหนึ่งและดาบห้อยอยู่ด้านซ้าย เขาแต่งตัวด้วยชุดหนังนุ่มที่ตัดเย็บอย่างปราณีตมีรูปแบบสวยงามเหมือนที่พวกเอลฟ์ชอบ แต่ไม่มีเอลฟ์ใดในโลกของครินน์ที่มีหนวดเคราหรอก ... ไม่ใช่เอลฟ์แน่ ๆ แต่...
 >
-> “Tanis?” said Flint hesitantly as the man neared.
+> "ทานิส?" ฟลินต์กล่าวอย่างลังเลเมื่อชายคนนั้นเดินมาใกล้
 >
-> “The same.” The newcomer’s bearded face split in a wide grin. He held open his arms and, before the dwarf could stop him, engulfed Flint in a hug that lifted him off the ground. The dwarf clasped his old friend close for a brief instant, then, remembering his dignity, squirmed and freed himself from the half-elf’s embrace.
+> "คนเดิมเลย" เจ้าหน้าหนวดฉีกยิ้มกว้าง อ้าแขนออกสุดและก่อนที่ดวอร์ฟจะได้ทำอะไรเขาก็กอดแน่นและยกตัวฟลินต์ขึ้นจากพื้น ดวอร์ฟตบหลังเพื่อนเก่าพอเป็นพิธี และเมื่อนึกถึงศักด์ศรี ก็บิดตัวไปมาให้เป็นอิสระจากการทักทายของฮาล์ฟเอลฟ์
 >
-> — Margaret Weis and Tracy Hickman, Dragons of Autumn Twilight
+> — มากาเรต เวส และ เทรซี่ ฮิกแมน มังกรแห่งอาทิตย์อัศดงในฤดูใบไม้ร่วง 
+> Margaret Weis and Tracy Hickman, Dragons of Autumn Twilight
 
-Walking in two worlds but truly belonging to neither, half-elves combine what some say are the best qualities of their elf and human parents: human curiosity, inventiveness, and ambition tempered by the refined senses, love of nature, and artistic tastes of the elves. Some half-elves live among humans, set apart by their emotional and physical differences, watching friends and loved ones age while time barely touches them. Others live with the elves, growing restless as they reach adulthood in the timeless elven realms, while their peers continue to live as children. Many half-elves, unable to fit into either society, choose lives of solitary wandering or join with other misfits and outcasts in the adventuring life.
+ใช้ชีวิตอยู่ในสองโลกแต่ไม่ได้เป็นของฝั่งใดจริง ๆ ฮาล์ฟเอลฟ์เป็นส่วนผสมที่บางคนเรียกว่าเป็นส่วนที่ดีที่สุดของพ่อแม่ที่เป็นเอลฟ์และมนุษย์ ความสงสัยใครรู้ของมนุษย์ การประดิษฐ์สร้างสรรค์ และความทะเยอทะยานที่เติมด้วยประสาทสัมผัสที่เฉียบคม ความรักในธรรมชาติ และความชอบในงานศิลปะแบบเอลฟ์ ฮาล์ฟเอลฟ์บางคนอาศัยอยู่กับมนุษย์ แตกต่างไปโดยอารมณ์และร่างกายที่แตกต่าง มองดูเพื่อนและคนรักอายุมากขึ้นโดยที่พวกเขาไม่แก่ลงเลย บ้างก็อยู่ร่วมกับเอลฟ์ เติบโตขึ้นทุกวันจนเป็นผู้ใหญ่ในขณะที่เพื่อน ๆ ยังคงเป็นเด็กกันอยู่ ฮาล์ฟเอล์หลายคนไม่สามารถอยู่ในทั้งสองสังคมนี้ได้ จึงเลือกจะท่องเที่ยวไปตามลำพังหรือร่วมกับเผ่าพันธุ์อื่น ๆ ในชีวิตการผจญภัย
 
-### Of Two Worlds
+### จากสองโลก Of Two Worlds
 
-To humans, half-elves look like elves, and to elves, they look human. In height, they’re on par with both parents, though they’re neither as slender as elves nor as broad as humans. They range from under 5 feet to about 6 feet tall, and from 100 to 180 pounds, with men only slightly taller and heavier than women. Half-elf men do have facial hair, and sometimes grow beards to mask their elven ancestry. Half-elven coloration and features lie somewhere between their human and elf parents, and thus show a variety even more pronounced than that found among either race. They tend to have the eyes of their elven parents.
+สำหรับมนุษย์ ฮาล์ฟเอลฟ์ดูเหมือนเอลฟ์ และสำหรับเอลฟ์พวกเขาก็ดูเหมือนมนุษย์ ในเรื่องความสูง พวกเขาสูงพอ ๆ กับพ่อแม่ เพียงแต่จะไม่เพรียวเท่าเอลฟ์หรือหนาเหมือนมนุษย์ พวกเขาสูงระหว่าง 5 - 6 ฟุต หนักราว 100 - 180 ปอนด์ โดยผู้ชายจะสูงกว่าและหนักกว่าผู้หญิงเล็กน้อย ฮาล์ฟเอลฟ์ชายจะมีหนวดเครา และบางครั้งก็ไว้หนวดเพื่อปิดบังความเป็นเอลฟ์ สีผิวและลักษณะร่างกาจจะอยู่ระหว่างพ่อแม่ที่เป็นมนุษย์และเอลฟ์ ซึ่งนั่นทำให้มีความหลากหลายมาก พวกเขามักจะมีสีตาเหมือนเอลฟ์
 
-### Diplomats or Wanderers
+### เป็นฑูตหรือคนจร
 
-Half-elves have no lands of their own, though they are welcome in human cities and somewhat less welcome in elven forests. In large cities in regions where elves and humans interact often, half-elves are sometimes numerous enough to form small communities of their own. They enjoy the company of other half-elves, the only people who truly understand what it is to live between these two worlds.
+ฮาล์ฟเอลฟ์ไม่มีดินแดนเป็นของตัวเอง แม้ว่าพวกเขาจะได้รับการต้อนรับในเมืองของมนุษย์และอาจจะไม่ค่อยเป็นที่ต้อนรับเท่าใดในป่าของพวกเอลฟ์ ในเมืองใหญ่ในเขตที่เอลฟ์และมนุษย์มีปฏิสัมพันธ์กันบ่อย จำนวนฮาล์ฟเอลฟ์ก็อาจจะมากพอที่จะเกิดเป็นชุมชนเล็ก ๆ ของพวกเขาเองได้ พวกเขามีความสุขในการอยู่ร่วมกับฮาล์ฟเอลฟ์อื่น ซึ่งเป็นผู้คนเพียงกลุ่มเดียวที่เขาใจถึงชีวิตที่ต้องอยู่ระหว่างสองโลกนี้
 
-In most parts of the world, though, half-elves are uncommon enough that one might live for years without meeting another. Some half-elves prefer to avoid company altogether, wandering the wilds as trappers, foresters, hunters, or adventurers and visiting civilization only rarely. Like elves, they are driven by the wanderlust that comes of their longevity. Others, in contrast, throw themselves into the thick of society, putting their charisma and social skills to great use in diplomatic roles or as swindlers.
+ในส่วนอื่นของโลก ฮาล์ฟเอลฟ์ก็พิเศษพอที่จะพบเห็นได้น้อย บางคนจะเลี่ยงการพบปะผู้คน ท่องไปในป่าเป็นนักดักสัตว์ ผู้ดูแลป่า นักล่า หรือเป็นนักผจญภัยที่จะออกมาเจอความศิวิไลซ์นาน ๆ ครั้ง เหมือนกับพวกเอลฟ์ พวกเขามักจะถูกผลักดันด้วยความอยากออกสำรวจโลกที่เกิดจากอายุที่ยืนนาน คนอื่นในทางกลับกันก็เข้าไปอยู่ในสังคมเมืองใช้เสน่ห์และทักษะทางสังคมให้เป็นประโยชน์ในการเป็นฑูตหรือนักต้มตุ๋น
 
-> EXCELLENT AMBASSADORS
+> เป็นฑูตที่ดีเยี่ยม EXCELLENT AMBASSADORS
 >
-> Many half-elves learn at an early age to get along with everyone, defusing hostility and finding common ground. As a race, they have elven grace without elven aloofness and human energy without human boorishness. They often make excellent ambassadors and go-betweens (except between elves and humans, since each side suspects the half-elf of favoring the other).
+> ฮาล์ฟเอลฟ์หลายคนเรียนรู้ในช่วงแรกของชีวิตในการอยู่ร่วมกับผู้อื่น เลี่ยงความขัดแย้งและหาจุดสมดุลย์ ในด้านของเผ่าพันธุ์ พวกเขามีสง่าราศีเหมือนเอลฟ์แต่ไม่มีท่าทีหยิ่งยโส และมีพลังแบบมนุษย์แต่ก็ไม่หยาบคาย พวกเขามักจะเป็นฑูตที่ดีเยี่ยมและเหมาะจะเป็นคนกลางในการเจรจา (ยกเว้นระหว่างเอลฟ์และมนุษย์เพราะมักจะถูกคิดว่าจะลำเอียงไปด้านใดด้านหนึ่ง)
 
-### Half-Elf Names
+### ชื่อของฮาล์ฟเอลฟ์ Half-Elf Names
 
-Half-elves use either human or elven naming conventions. As if to emphasize that they don’t really fit in to either society, half-elves raised among humans are often given elven names, and those raised among elves often take human names.
+ฮาล์ฟเอลฟ์ใช้วิธีการตั้งชื่อทั้งแบบของมนุษย์และเอลฟ์ เป็นการบอกว่าพวกเขาไม่ได้ยึดโยงกับฝ่ายใดเป็นหลัก ฮาลฟ์เอลฟ์ที่ถูกเลี้ยงโดยมนุษย์มักจะได้รับชื่อแบบเอลฟ์ และพวกที่ถูกเลี้ยงด้วยเอลฟ์มักจะชื่อแบบมนุษย์
 
-### Half-Elf Traits
+### คุณลักษณะของฮาล์ฟเอลฟ์ Half-Elf Traits
 
-Your half-elf character has some qualities in common with elves and some that are unique to half-elves.
+ตัวละครฮาล์ฟเอลฟ์ของคุณจะมีลักษณะที่คล้ายกับเอลฟ์และบางอย่างก็มีเฉพาะในฮาล์ฟเอลฟ์
 
-Ability Score Increase. Your Charisma score increases by 2, and two other ability scores of your choice increase by 1.
+คะแนนความสามารถเพิ่มขึ้น คะแนนเสน่ห์ (Charisma) จะเพิ่มขึ้น 2 และความสามารถอื่นอีกสองอย่างตามที่คุณเลือกจะเพิ่มขึ้น 1
 
-Age. Half-elves mature at the same rate humans do and reach adulthood around the age of 20. They live much longer than humans, however, often exceeding 180 years.
+อายุ ฮาล์ฟเอลฟ์จะเติบโตในอัตราเดียวกับมนุษย์ เป็นผู้ใหญ่เมื่ออายุ 20 พวกเขาอยู่ได้นานกว่ามนุษย์มาก อย่างไรก็ตาม ส่วนใหญ่จะเกิน 180 ปี
 
-Size. Half-elves are about the same size as humans, ranging from 5 to 6 feet tall. Your size is Medium.
+ขนาด ฮาล์ฟเอลฟ์มีขนาดเท่ากับมนุษย์ สูงระหว่าง 5 - 6 ฟุต เป็นสิ่งมีชีวิตขนาดกลาง (Medium)
 
-Speed. Your base walking speed is 30 feet.
+ความเร็ว ความเร็วพื้นฐานในการเคลื่อนที่คือ 30 ฟุต
 
-Darkvision. Thanks to your elf blood, you have superior vision in dark and dim conditions. You can see in dim light within 60 feet of you as if it were bright light, and in darkness as if it were dim light. You can’t discern color in darkness, only shades of gray.
+ดาร์กวิชัน ความคุ้นเคยในการอาศัยอยู่ใต้ดิน คุณจะมีวิสัยทรรศ์ที่ยอดเยี่ยมในที่มืดและแสงสลัว คุณสามารถมองในที่แสงสลัวในระยะ 60 ฟุตรอบตัวคุณชัดเจนเหมือนอยู่ในที่แสงปกติ และในความมืดคุณจะมองเห็นได้เหมือนอยู่ในที่แสงสลัว คุณจะไม่สามารถแยกแยะสีได้ในความมืด จะเห็นเป็นเฉดสีเทาเท่านั้น
 
-Fey Ancestry. You have advantage on saving throws against being charmed, and magic can’t put you to sleep.
+บรรพบุรุษชาวเฟย์ คุณจะได้ทอยแบบได้เปรียบในการทอยป้องกันการถูกทำให้หลงใหล (charmed) และไม่มีเวทย์มนต์ใดทำให้คุณหลับได้
 
-Skill Versatility. You gain proficiency in two skills of your choice.
+ทักษะที่หลากหลาย คุณจะมีความเชี่ยวชาญในทักษะที่คณเลือก 2 อย่าง
 
-Languages. You can speak, read, and write Common, Elvish, and one extra language of your choice.
+ภาษา คุณสามารถพูด อ่าน และเขียนภาษาคอมมอน เอลวิช และอีกภาษาหนึ่งตามที่คุณเลือกได้
