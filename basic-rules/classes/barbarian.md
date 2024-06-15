@@ -37,25 +37,25 @@ You can make a barbarian quickly by following these suggestions. First, put your
 | Level | Proficiency <br>Bonus | Features                                                                                                                                                            | Rages     | Rage <br>Damage |
 | ----- | --------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------- | --------- | --------------- |
 | 1st   | +2                    | [Rage](#Rage), [Unarmored Defense](#Unarmored Defense)        | 2         | +2              |
-| 2nd   | +2                    | [Reckless Attack](https://www.dndbeyond.com/sources/phb/barbarian#RecklessAttack), [Danger Sense](https://www.dndbeyond.com/sources/phb/barbarian#DangerSense)      | 2         | +2              |
-| 3rd   | +2                    | [Primal Path](https://www.dndbeyond.com/sources/phb/barbarian#PrimalPath)                                                                                           | 3         | +2              |
-| 4th   | +2                    | [Ability Score Improvement](https://www.dndbeyond.com/sources/phb/barbarian#BarbarianAbilityScoreImprovement)                                                       | 3         | +2              |
-| 5th   | +3                    | [Extra Attack](https://www.dndbeyond.com/sources/phb/barbarian#BarbarianExtraAttack), [Fast Movement](https://www.dndbeyond.com/sources/phb/barbarian#FastMovement) | 3         | +2              |
-| 6th   | +3                    | [Path Feature](https://www.dndbeyond.com/sources/phb/barbarian#PrimalPaths)                                                                                         | 4         | +2              |
-| 7th   | +3                    | [Feral Instinct](https://www.dndbeyond.com/sources/phb/barbarian#FeralInstinct)                                                                                     | 4         | +2              |
-| 8th   | +3                    | [Ability Score Improvement](https://www.dndbeyond.com/sources/phb/barbarian#BarbarianAbilityScoreImprovement)                                                       | 4         | +2              |
-| 9th   | +4                    | [Brutal Critical](https://www.dndbeyond.com/sources/phb/barbarian#BrutalCritical) (1 die)                                                                           | 4         | +3              |
-| 10th  | +4                    | [Path Feature](https://www.dndbeyond.com/sources/phb/barbarian#PrimalPaths)                                                                                         | 4         | +3              |
-| 11th  | +4                    | [Relentless Rage](https://www.dndbeyond.com/sources/phb/barbarian#RelentlessRage)                                                                                   | 4         | +3              |
-| 12th  | +4                    | [Ability Score Improvement](https://www.dndbeyond.com/sources/phb/barbarian#BarbarianAbilityScoreImprovement)                                                       | 5         | +3              |
-| 13th  | +5                    | [Brutal Critical](https://www.dndbeyond.com/sources/phb/barbarian#BrutalCritical) (2 dice)                                                                          | 5         | +3              |
-| 14th  | +5                    | [Path Feature](https://www.dndbeyond.com/sources/phb/barbarian#PrimalPaths)                                                                                         | 5         | +3              |
-| 15th  | +5                    | [Persistent Rage](https://www.dndbeyond.com/sources/phb/barbarian#PersistentRage)                                                                                   | 5         | +3              |
-| 16th  | +5                    | [Ability Score Improvement](https://www.dndbeyond.com/sources/phb/barbarian#BarbarianAbilityScoreImprovement)                                                       | 5         | +4              |
-| 17th  | +6                    | [Brutal Critical](https://www.dndbeyond.com/sources/phb/barbarian#BrutalCritical) (3 dice)                                                                          | 6         | +4              |
-| 18th  | +6                    | [Indomitable Might](https://www.dndbeyond.com/sources/phb/barbarian#IndomitableMight)                                                                               | 6         | +4              |
-| 19th  | +6                    | [Ability Score Improvement](https://www.dndbeyond.com/sources/phb/barbarian#BarbarianAbilityScoreImprovement)                                                       | 6         | +4              |
-| 20th  | +6                    | [Primal Champion](https://www.dndbeyond.com/sources/phb/barbarian#PrimalChampion)                                                                                   | Unlimited | +4              |
+| 2nd   | +2                    | [Reckless Attack](#Reckless Attack), [Danger Sense](#Danger Sense)      | 2         | +2              |
+| 3rd   | +2                    | [Primal Path](#Primal Path)                                                                                           | 3         | +2              |
+| 4th   | +2                    | [Ability Score Improvement](#Ability Score Improvement)                                                       | 3         | +2              |
+| 5th   | +3                    | [Extra Attack](#Extra Attack), [Fast Movement](#Fast Movement) | 3         | +2              |
+| 6th   | +3                    | [Path Feature](#Path Feature)                                                                                         | 4         | +2              |
+| 7th   | +3                    | [Feral Instinct](#Feral Instinct)                                                                                     | 4         | +2              |
+| 8th   | +3                    | [Ability Score Improvement](#Ability Score Improvement)                                                       | 4         | +2              |
+| 9th   | +4                    | [Brutal Critical](#Brutal Critical) (1 die)                                                                           | 4         | +3              |
+| 10th  | +4                    | [Path Feature](#Path Feature)                                                                                         | 4         | +3              |
+| 11th  | +4                    | [Relentless Rage](#Relentless Rage)                                                                                   | 4         | +3              |
+| 12th  | +4                    | [Ability Score Improvement](#Ability Score Improvement)                                                       | 5         | +3              |
+| 13th  | +5                    | [Brutal Critical](#Brutal Critical) (2 dice)                                                                          | 5         | +3              |
+| 14th  | +5                    | [Path Feature](#Path Feature)                                                                                         | 5         | +3              |
+| 15th  | +5                    | [Persistent Rage](#Persistent Rage)                                                                                   | 5         | +3              |
+| 16th  | +5                    | [Ability Score Improvement](#Ability Score Improvement)                                                       | 5         | +4              |
+| 17th  | +6                    | [Brutal Critical](#Brutal Critical) (3 dice)                                                                          | 6         | +4              |
+| 18th  | +6                    | [Indomitable Might](#Indomitable Might)                                                                               | 6         | +4              |
+| 19th  | +6                    | [Ability Score Improvement](#Ability Score Improvement)                                                       | 6         | +4              |
+| 20th  | +6                    | [Primal Champion](#Primal Champion)                                                                                   | Unlimited | +4              |
 
 ## Class Features
 
@@ -79,7 +79,7 @@ As a barbarian, you gain the following class features.
 
 **Saving Throws:** Strength, Constitution
 
-**Skills:** Choose two from [Animal Handling](), [Athletics](), [Intimidation](), [Nature](), [Perception](), and [Survival]()
+**Skills:** Choose two from [Animal Handling](../ch07-using-ability-scores.md#ทักษะการจัดการสัตว์-animal-handling), [Athletics](../ch07-using-ability-scores.md#ทักษะทางกรีฑา-athletics), [Intimidation](../ch07-using-ability-scores.md#ทักษะการข่มขู่-intimidation), [Nature](../ch07-using-ability-scores.md#ทักษะความรู้ทางธรรมชาติ-nature-เนเจอร์), [Perception](../ch07-using-ability-scores.md#ทักษะการรับรู้-perception), and [Survival](../ch07-using-ability-scores.md#ทักษะการเอาตัวรอด-survival)
 
 ### Equipment
 
@@ -95,13 +95,13 @@ In battle, you fight with primal ferocity. On your turn, you can enter a rage as
 
 While raging, you gain the following benefits if you aren’t wearing heavy armor:
 
-- You have [advantage]() on Strength checks and Strength saving throws.
+- You have [advantage](../ch07-using-ability-scores.md#การทอยแบบได้เปรียบ-advantage-แอดแวนเทจ-และการทอยแบบเสียเปรียบ-disadvantage-ดิสแอดแวนเทจ) on Strength checks and Strength saving throws.
 - When you make a melee weapon attack using Strength, you gain a bonus to the damage roll that increases as you gain levels as a barbarian, as shown in the Rage Damage column of the Barbarian table.
 - You have resistance to bludgeoning, piercing, and slashing damage.
 
 If you are able to cast spells, you can’t cast them or concentrate on them while raging.
 
-Your rage lasts for 1 minute. It ends early if you are knocked [unconscious]() or if your turn ends and you haven’t attacked a hostile creature since your last turn or taken damage since then. You can also end your rage on your turn as a bonus action.
+Your rage lasts for 1 minute. It ends early if you are knocked [unconscious](../appendice-a-condition.md#unconscious) or if your turn ends and you haven’t attacked a hostile creature since your last turn or taken damage since then. You can also end your rage on your turn as a bonus action.
 
 Once you have raged the number of times shown for your barbarian level in the Rages column of the Barbarian table, you must finish a long rest before you can rage again.
 
@@ -111,13 +111,13 @@ While you are not wearing any armor, your Armor Class equals 10 + your Dexterity
 
 ### <a name="Reckless Attack">Reckless Attack
 
-Starting at 2nd level, you can throw aside all concern for defense to attack with fierce desperation. When you make your first attack on your turn, you can decide to attack recklessly. Doing so gives you [advantage]() on melee weapon attack rolls using Strength during this turn, but attack rolls against you have [advantage]() until your next turn.
+Starting at 2nd level, you can throw aside all concern for defense to attack with fierce desperation. When you make your first attack on your turn, you can decide to attack recklessly. Doing so gives you [advantage](../ch07-using-ability-scores.md#การทอยแบบได้เปรียบ-advantage-แอดแวนเทจ-และการทอยแบบเสียเปรียบ-disadvantage-ดิสแอดแวนเทจ) on melee weapon attack rolls using Strength during this turn, but attack rolls against you have [advantage](../ch07-using-ability-scores.md#การทอยแบบได้เปรียบ-advantage-แอดแวนเทจ-และการทอยแบบเสียเปรียบ-disadvantage-ดิสแอดแวนเทจ) until your next turn.
 
 ### <a name="Danger Sense">Danger Sense
 
 At 2nd level, you gain an uncanny sense of when things nearby aren’t as they should be, giving you an edge when you dodge away from danger.
 
-You have [advantage]() on Dexterity saving throws against effects that you can see, such as traps and spells. To gain this benefit, you can’t be [blinded](), [deafened](), or [incapacitated]().
+You have [advantage](../ch07-using-ability-scores.md#การทอยแบบได้เปรียบ-advantage-แอดแวนเทจ-และการทอยแบบเสียเปรียบ-disadvantage-ดิสแอดแวนเทจ) on Dexterity saving throws against effects that you can see, such as traps and spells. To gain this benefit, you can’t be [blinded](), [deafened](), or [incapacitated]().
 
 ### <a name="Primal Path">Primal Path
 
@@ -191,7 +191,7 @@ If the creature succeeds on its saving throw, you can’t use this feature on th
 
 Starting at 14th level, when you take damage from a creature that is within 5 feet of you, you can use your reaction to make a melee weapon attack against that creature.
 
-### <a name="Path of the Totem Warrior">Path of the Totem Warrior
+### <a name="Path of the Totem Warrior">Path of the Totem Warrior [PHB]
 
 The Path of the Totem Warrior is a spiritual journey, as the barbarian accepts a spirit animal as guide, protector, and inspiration. In battle, your totem spirit fills you with supernatural might, adding magical fuel to your barbarian rage.
 
