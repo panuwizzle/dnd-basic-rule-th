@@ -121,7 +121,7 @@ You have [advantage](../ch07-using-ability-scores.md#การทอยแบบ
 
 ### <a name="Primal Path">Primal Path
 
-At 3rd level, you choose a path that shapes the nature of your rage. Choose the [Path of the Berserker]() or the [Path of the Totem Warrior](), both detailed at the end of the class description. Your choice grants you features at 3rd level and again at 6th, 10th, and 14th levels.
+At 3rd level, you choose a path that shapes the nature of your rage. Choose the [Path of the Berserker](#Path of the Berserker) or the [Path of the Totem Warrior](#Path of the Totem Warrior), both detailed at the end of the class description. Your choice grants you features at 3rd level and again at 6th, 10th, and 14th levels.
 
 ### <a name="Ability Score Improvement">Ability Score Improvement
 
@@ -133,17 +133,17 @@ Beginning at 5th level, you can attack twice, instead of once, whenever you take
 
 ### <a name="Fast Movement">Fast Movement
 
-Starting at 5th level, your [speed]() increases by 10 feet while you aren’t wearing heavy armor.
+Starting at 5th level, your speed increases by 10 feet while you aren’t wearing heavy armor.
 
 ### <a name="Feral Instinct">Feral Instinct
 
-By 7th level, your instincts are so honed that you have advantage on [initiative]() rolls.
+By 7th level, your instincts are so honed that you have advantage on initiative rolls.
 
-Additionally, if you are [surprised]() at the beginning of combat and aren’t [incapacitated](), you can act normally on your first turn, but only if you enter your rage before doing anything else on that turn.
+Additionally, if you are surprised at the beginning of combat and aren’t [incapacitated](), you can act normally on your first turn, but only if you enter your rage before doing anything else on that turn.
 
 ### <a name="Brutal Critical">Brutal Critical
 
-Beginning at 9th level, you can roll one additional weapon damage die when determining the extra damage for a [critical hit]() with a melee attack.
+Beginning at 9th level, you can roll one additional weapon damage die when determining the extra damage for a critical hit with a melee attack.
 
 This increases to two additional dice at 13th level and three additional dice at 17th level.
 
