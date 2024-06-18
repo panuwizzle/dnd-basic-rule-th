@@ -97,61 +97,70 @@ Sometimes what’s happening in the adventure makes things easier for a characte
 > Advantage and disadvantage are powerful game tools. They make d20 rolls more likely to succeed or fail, so use them wisely. They are best used as a reward for clever play by the players, or to represent good or bad luck affecting the story. In the full version of the D&D rules, certain rules automatically give a character advantage or dis advantage. For this adventure, the DM can decide when to apply advantage or disadvantage to rolls. If a character has both advantage and disadvantage on a roll, they cancel each other out, and the roll is made normally.
 
 #### Advantage
- If Shalefire attacks a monster with a handaxe while the monster is distracted by another character, the monster can’t see the attack coming. The DM might decide the monster is easier to hit while distracted, so Shalefire would make the attack roll with advantage.
 
- Advantage means that instead of rolling the d20 once for the attack roll, Shalefire’s player rolls the d20 twice and uses the higher roll. They then add the normal modifier (+6 for Shalefire’s handaxe) to get a final attack result.
+If Shalefire attacks a monster with a handaxe while the monster is distracted by another character, the monster can’t see the attack coming. The DM might decide the monster is easier to hit while distracted, so Shalefire would make the attack roll with advantage.
+
+Advantage means that instead of rolling the d20 once for the attack roll, Shalefire’s player rolls the d20 twice and uses the higher roll. They then add the normal modifier (+6 for Shalefire’s handaxe) to get a final attack result.
 
 #### Disadvantage
- Disadvantage works like advantage in reverse. If something in the game makes it harder to take an action, the roll for that action is made with disadvantage. For example, as Shalefire climbs a cliff using a rope, a monster at the top of the cliff shakes the rope. Because it’s now harder to climb, Shalefire makes the d20 roll to climb the rope with disadvantage.
 
- Disadvantage means that instead of rolling the d20 once to make the Athletics check to climb, Shalefire’s player rolls the d20 twice and uses the lower roll. They then add the normal modifier (+6 for Shalefire’s Athletics skill) to get a final result.
+Disadvantage works like advantage in reverse. If something in the game makes it harder to take an action, the roll for that action is made with disadvantage. For example, as Shalefire climbs a cliff using a rope, a monster at the top of the cliff shakes the rope. Because it’s now harder to climb, Shalefire makes the d20 roll to climb the rope with disadvantage.
 
- ### Hit Points
- Every creature in D&D has a number of “hit points.” This number reflects the damage a creature can take before it falls unconscious or is defeated. When a character or creature is damaged by an attack roll or a hazard in the game, the amount of damage dealt is subtracted from the character’s or creature’s hit points.
+Disadvantage means that instead of rolling the d20 once to make the Athletics check to climb, Shalefire’s player rolls the d20 twice and uses the lower roll. They then add the normal modifier (+6 for Shalefire’s Athletics skill) to get a final result.
 
- If a creature reaches 0 hit points, they are defeated. The players can decide if this means a creature is dead or unconscious or if they run away.
+### Hit Points
 
- When a character reaches 0 hit points, they are unconscious. In this adventure, a character at 0 hit points remains unconscious until they regain hit points through healing or until the end of the encounter, when they regain 1 hit point automatically. The adventure details ways to regain hit points.
+Every creature in D&D has a number of “hit points.” This number reflects the damage a creature can take before it falls unconscious or is defeated. When a character or creature is damaged by an attack roll or a hazard in the game, the amount of damage dealt is subtracted from the character’s or creature’s hit points.
 
- ## Running an Adventure
- A DM gets to use their imagination while presenting the adventure to the other players. The DM can add excitement to the game as they describe the situations and help players navigate their way through the action.
+If a creature reaches 0 hit points, they are defeated. The players can decide if this means a creature is dead or unconscious or if they run away.
 
-###  Presenting Encounters
- This adventure is divided into “encounters,” which are like scenes from a movie or show. Each encounter has specific challenges. Once the players complete the challenges, move on to the next scene. The flow of the game is described below.
+When a character reaches 0 hit points, they are unconscious. In this adventure, a character at 0 hit points remains unconscious until they regain hit points through healing or until the end of the encounter, when they regain 1 hit point automatically. The adventure details ways to regain hit points.
+
+## Running an Adventure
+
+A DM gets to use their imagination while presenting the adventure to the other players. The DM can add excitement to the game as they describe the situations and help players navigate their way through the action.
+
+### Presenting Encounters
+
+This adventure is divided into “encounters,” which are like scenes from a movie or show. Each encounter has specific challenges. Once the players complete the challenges, move on to the next scene. The flow of the game is described below.
+
 ### Game Flow
- A D&D session begins with the DM and the other players having a conversation. The DM explains the situation the characters are in. The players can ask questions about the situation, and the DM answers those questions to further explain what’s happening.
 
- Then the DM asks the most important question in the DM’s toolbox:
+A D&D session begins with the DM and the other players having a conversation. The DM explains the situation the characters are in. The players can ask questions about the situation, and the DM answers those questions to further explain what’s happening.
 
- _"What do you do?"_
+Then the DM asks the most important question in the DM’s toolbox:
 
- At this point, players should explain what they want their characters to do. (If what they want to do is impossible, the DM says so and asks the player to choose a different action. For example, a character can't walk through a wall unless they have some special ability or magic that allows them to do so.)
+_"What do you do?"_
 
- If the action is possible and very easy to do, the character automatically succeeds. Opening an unlocked door or lifting a light object doesn’t require heroic effort, so no d20 roll is necessary.
+At this point, players should explain what they want their characters to do. (If what they want to do is impossible, the DM says so and asks the player to choose a different action. For example, a character can't walk through a wall unless they have some special ability or magic that allows them to do so.)
 
- When the action is somewhere between easy and impossible, trying to do it could lead to success or failure. That’s when the DM calls for a d20 roll. See the "d20 Rolls" section earlier in this document.
+If the action is possible and very easy to do, the character automatically succeeds. Opening an unlocked door or lifting a light object doesn’t require heroic effort, so no d20 roll is necessary.
 
- The d20 roll, plus its modifiers, determines whether the action succeeds or fails. What does success or failure mean for an adventure? This is where you and the players get to tell a story together!
+When the action is somewhere between easy and impossible, trying to do it could lead to success or failure. That’s when the DM calls for a d20 roll. See the "d20 Rolls" section earlier in this document.
 
- ### Narrating Successes and Failures
- When a d20 roll succeeds or fails, the DM and the players can turn that result into a part of the ongoing story. What does it look like when a monster is defeated? What does Shalefire say or do if the heavy boulder blocking the cave doesn’t budge? These points in the game can spark great storytelling and acting moments.
+The d20 roll, plus its modifiers, determines whether the action succeeds or fails. What does success or failure mean for an adventure? This is where you and the players get to tell a story together!
 
- Remember, though, that part of the DM’s job is to keep the game’s story moving forward. If describing every single attack roll in a long combat gets boring, just say how much damage the attack deals and get to the next exciting moment.
+### Narrating Successes and Failures
 
- ### Tips for Dungeon Masters
- Here are some tips for DMs that can help them run great games:
+When a d20 roll succeeds or fails, the DM and the players can turn that result into a part of the ongoing story. What does it look like when a monster is defeated? What does Shalefire say or do if the heavy boulder blocking the cave doesn’t budge? These points in the game can spark great storytelling and acting moments.
 
- **Rule 0.** Rule 0 of D&D is simple: Have fun. It’s fine if everyone agrees to change the rules as long as doing so means the game is more fun for everyone.
+Remember, though, that part of the DM’s job is to keep the game’s story moving forward. If describing every single attack roll in a long combat gets boring, just say how much damage the attack deals and get to the next exciting moment.
 
- **Be Supportive.** The players and the DM are all on the same team. DMs aren’t playing against the characters. The  DM wins when the players have fun and the story is exciting and memorable.
+### Tips for Dungeon Masters
+
+Here are some tips for DMs that can help them run great games:
+
+**Rule 0.** Rule 0 of D&D is simple: Have fun. It’s fine if everyone agrees to change the rules as long as doing so means the game is more fun for everyone.
+
+**Be Supportive.** The players and the DM are all on the same team. DMs aren’t playing against the characters. The DM wins when the players have fun and the story is exciting and memorable.
 
 **Use “Yes, and …” or “No, but …”** Allow the players to succeed as much as possible, and let them participate in the telling of the story. If they want to try something unexpected, try to say “yes” and then work their ideas into the story. If you have to say “no” to a player’s idea, suggest options that let them do something similar.
 
- **Use Your Imagination.** Peril in Pinebrook is an outline for your game. Change or make up anything you need to if it makes the game more fun. The text can’t cover everything players might want to do. What does a monster smell like? That’s up to you, or you can ask the players what they think!
+**Use Your Imagination.** Peril in Pinebrook is an outline for your game. Change or make up anything you need to if it makes the game more fun. The text can’t cover everything players might want to do. What does a monster smell like? That’s up to you, or you can ask the players what they think!
 
- **NPCs Are Your Voice.** While the players determine what their characters do, the DM controls all the other characters in the game. Nonplayer characters (also known as NPCs) are a great tool for the DM to help the characters understand the game and the story, and to work information into the story smoothly.
+**NPCs Are Your Voice.** While the players determine what their characters do, the DM controls all the other characters in the game. Nonplayer characters (also known as NPCs) are a great tool for the DM to help the characters understand the game and the story, and to work information into the story smoothly.
 
- **Allow Alternatives.** D&D is a game of fantasy, where heroes use wits, skill, and determination to overcome obstacles. Sometimes those obstacles are defeated with weapons and spells. But characters can succeed in other ways. Communicating with monsters, tricking them or frightening them away, or avoiding a fight while cleverly sneaking past a challenge can be just as much fun. Such options are ideal if anyone playing the game wants to avoid violence. 
+**Allow Alternatives.** D&D is a game of fantasy, where heroes use wits, skill, and determination to overcome obstacles. Sometimes those obstacles are defeated with weapons and spells. But characters can succeed in other ways. Communicating with monsters, tricking them or frightening them away, or avoiding a fight while cleverly sneaking past a challenge can be just as much fun. Such options are ideal if anyone playing the game wants to avoid violence.
 
 **Listen to Your Players.** Encourage your players to speak to you, publicly or privately, if something in the game upsets them. Then respond appropriately. For instance, you can move past upsetting topics by quickly narrating a resolution to a scene, then quickly move to the next part of the story.
 
