@@ -1,3 +1,7 @@
+---
+layout: default
+title: Basic Rules
+---
 # [บทนำ](./introduction.md)
 
 # ส่วนที่ 1 การสร้างตัวละคร
