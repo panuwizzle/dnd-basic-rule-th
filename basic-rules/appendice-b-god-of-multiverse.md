@@ -1,3 +1,6 @@
+---
+layout: default
+---
 # ภาคผนวก B: เทพเจ้าในมัลติเวอร์ส
 Religion is an important part of life in the worlds of the D&D multiverse. When gods walk the world, clerics channel divine power, evil cults perform dark sacrifices in subterranean lairs, and shining paladins stand like beacons against the darkness, it’s hard to be ambivalent about the deities and deny their existence.
 

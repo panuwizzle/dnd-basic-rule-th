@@ -1,3 +1,6 @@
+---
+layout: default
+---
 # Ch. 11: คาถา (Spells)
 
 This chapter describes the most common spells in the worlds of Dungeons & Dragons. The chapter begins with the spell lists of the spellcasting classes. The remainder contains spell descriptions, presented in alphabetical order by the name of the spell.

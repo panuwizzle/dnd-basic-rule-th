@@ -1,3 +1,6 @@
+---
+layout: default
+---
 # บทที่ 5: อุปกรณ์
 
 The marketplace of a large city teems with buyers and sellers of many sorts: dwarf smiths and elf woodcarvers, halfling farmers and gnome jewelers, not to mention humans of every shape, size, and color drawn from a spectrum of nations and cultures. In the largest cities, almost anything imaginable is offered for sale, from exotic spices and luxurious clothing to wicker baskets and practical swords.

@@ -1,3 +1,6 @@
+---
+layout: default
+---
 # ภาคผนวก C: กลุ่มอำนาจทั้ง 5
 Many characters created in the Forgotten Realms setting, especially those for organized D&D play, belong to one of five factions that have risen to prominence in the Realms. Each faction has its own motivations, goals, and philosophy. Some are more heroic than others, but all band together in times of trouble to thwart major threats.
 

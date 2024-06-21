@@ -1,3 +1,6 @@
+---
+layout: default
+---
 # Ch. 10: Spellcasting
 Magic permeates the worlds of D&D and most often appears in the form of a spell.
 

@@ -2,60 +2,60 @@
 layout: default
 title: Basic Rules
 ---
-# [บทนำ](./introduction.md)
+# [บทนำ](./introduction)
 
 # ส่วนที่ 1 การสร้างตัวละคร
 
-## [บทที่ 1: สร้างตัวละครทีละขั้น](./ch01-step-by-step-character.md)
+## [บทที่ 1: สร้างตัวละครทีละขั้น](./ch01-step-by-step-character)
 
-### [1. เลือกเผ่าพันธุ์](./ch01-step-by-step-character.md#step1)
+### [1. เลือกเผ่าพันธุ์](./ch01-step-by-step-character#step1)
 
-### [2. เลือกอาชีพ](./ch01-step-by-step-character.md#step2)
+### [2. เลือกอาชีพ](./ch01-step-by-step-character#step2)
 
-### [3. กำหนดคะแนนความสามารถ (Ability)](./ch01-step-by-step-character.md#step3)
+### [3. กำหนดคะแนนความสามารถ (Ability)](./ch01-step-by-step-character#step3)
 
-### [4. อธิบายลักษณะตัวละคร](./ch01-step-by-step-character.md#step4)
+### [4. อธิบายลักษณะตัวละคร](./ch01-step-by-step-character#step4)
 
-### [5. เลือกอุปกรณ์](./ch01-step-by-step-character.md#step5)
+### [5. เลือกอุปกรณ์](./ch01-step-by-step-character#step5)
 
-### [6. จัดปาร์ตี้](./ch01-step-by-step-character.md#step6)
+### [6. จัดปาร์ตี้](./ch01-step-by-step-character#step6)
 
-### [เมื่อเลเวลขึ้น](./ch01-step-by-step-character.md#levelup)
+### [เมื่อเลเวลขึ้น](./ch01-step-by-step-character#levelup)
 
-## [บทที่ 2: เผ่าพันธุ์](./ch02-races.md)
+## [บทที่ 2: เผ่าพันธุ์](./ch02-races)
 
 ### เลือกเผ่าพันธุ์
 
 ### ลักษณะเด่นของแต่ละเผ่า
 
-- [ดวอร์ฟ (Dwarf) คนแคระ](./races/dwarf.md)
-- [เอลฟ์ (Elf)](./races/elf.md)
-- [ฮาล์ฟลิ่ง (Halfling)](./races/halfing.md)
-- [มนุษย์ (Human)](./races/human.md)
-- [ดรากอนบอร์น (Dragonborn: ลูกครึ่งมังกร)](./races/dragonborn.md)
-- [โนม (Gnome)](./races/gnome.md)
-- [ฮาล์ฟเอลฟ์ (Half-Elf: ลูกครึ่งเอลฟ์)](./races/half-elf.md)
-- [ฮาล์ฟอ็อค (Half-Orc: ลูกครึ่งอ็อค)](./races/half-orc.md)
-- [ทีฟลิ่ง (Tiefling: ลูกครึ่งปีศาจ)](./races/tiefling.md)
+- [ดวอร์ฟ (Dwarf) คนแคระ](./races/dwarf)
+- [เอลฟ์ (Elf)](./races/elf)
+- [ฮาล์ฟลิ่ง (Halfling)](./races/halfing)
+- [มนุษย์ (Human)](./races/human)
+- [ดรากอนบอร์น (Dragonborn: ลูกครึ่งมังกร)](./races/dragonborn)
+- [โนม (Gnome)](./races/gnome)
+- [ฮาล์ฟเอลฟ์ (Half-Elf: ลูกครึ่งเอลฟ์)](./races/half-elf)
+- [ฮาล์ฟอ็อค (Half-Orc: ลูกครึ่งอ็อค)](./races/half-orc)
+- [ทีฟลิ่ง (Tiefling: ลูกครึ่งปีศาจ)](./races/tiefling)
 
-## [บทที่ 3: คลาส (อาชีพ)](./ch03-classes.md)
+## [บทที่ 3: คลาส (อาชีพ)](./ch03-classes)
 
 ### คลาสโดยสรุป
 
-- [บาบาเรี่ยน Barbarian - คนเถื่อน](./classes/barbarian.md)
-- [บาร์ด Bard - นักกวี](./classes/bard.md)
-- [เคลอริค Cleric - นักบวช](./classes/cleric.md)
-- [ดรูอิด Druid - ฤษี](./classes/druid.md)
-- [ไฟท์เตอร์ Fighter - นักสู้](./classes/fighter.md)
-- [มองค์ Monk - พระ](./classes/monk.md)
-- [พาลาดิน Paladin - อัศวิน](./classes/paladin.md)
-- [เรนเจอร์ Ranger - พรานนักล่า](./classes/ranger.md)
-- [โร๊ค Rogue - โจร](./classes/rogue.md)
-- [ซอเซอร์เรอร์ Sorcerer - ผู้วิเศษ](./classes/sorcerer.md)
-- [วอร์ล็อค Warlock - แม่มด](./classes/warlock.md)
-- [วิซาร์ด Wizard - พ่อมด](./classes/wizard.md)
+- [บาบาเรี่ยน Barbarian - คนเถื่อน](./classes/barbarian)
+- [บาร์ด Bard - นักกวี](./classes/bard)
+- [เคลอริค Cleric - นักบวช](./classes/cleric)
+- [ดรูอิด Druid - ฤษี](./classes/druid)
+- [ไฟท์เตอร์ Fighter - นักสู้](./classes/fighter)
+- [มองค์ Monk - พระ](./classes/monk)
+- [พาลาดิน Paladin - อัศวิน](./classes/paladin)
+- [เรนเจอร์ Ranger - พรานนักล่า](./classes/ranger)
+- [โร๊ค Rogue - โจร](./classes/rogue)
+- [ซอเซอร์เรอร์ Sorcerer - ผู้วิเศษ](./classes/sorcerer)
+- [วอร์ล็อค Warlock - แม่มด](./classes/warlock)
+- [วิซาร์ด Wizard - พ่อมด](./classes/wizard)
 
-## [บทที่ 4: ลักษณะตัวละครและภูมิหลัง](./ch04-personality-and-background.md)
+## [บทที่ 4: ลักษณะตัวละครและภูมิหลัง](./ch04-personality-and-background)
 
 ### รายละเอียดของตัวละคร
 
@@ -65,7 +65,7 @@ title: Basic Rules
 
 ### ภูมิหลัง
 
-## [บทที่ 5: อุปกรณ์](./ch05-equipment.md)
+## [บทที่ 5: อุปกรณ์](./ch05-equipment)
 
 ### อุปกรณ์เริ่มต้นและทรัพย์สิน
 
@@ -81,7 +81,7 @@ title: Basic Rules
 
 ### ของเล็ก ๆ น้อย ๆ
 
-## [บทที่ 6: ตัวเลือกเพิ่มเติมในการตบแต่งตัวละคร](./ch06-customization-options.md)
+## [บทที่ 6: ตัวเลือกเพิ่มเติมในการตบแต่งตัวละคร](./ch06-customization-options)
 
 ### มัลติคลาส (หลายอาชีพ)
 
@@ -92,21 +92,21 @@ title: Basic Rules
 
 # ส่วนที่ 2: การเล่นเกม
 
-## [บทที่ 7: การใช้คะแนนความสามารถ](./ch07-using-ability-scores.md)
+## [บทที่ 7: การใช้คะแนนความสามารถ](./ch07-using-ability-scores)
 
-### [คะแนนความสามารถ](./ch07-using-ability-scores.md#ability)
+### [คะแนนความสามารถ](./ch07-using-ability-scores#ability)
 
-### [การได้เปรียบและการเสียเปรียบ](./ch07-using-ability-scores.md#advantage)
+### [การได้เปรียบและการเสียเปรียบ](./ch07-using-ability-scores#advantage)
 
-### [โบนัสความชำนาญ](./ch07-using-ability-scores.md#proficiency)
+### [โบนัสความชำนาญ](./ch07-using-ability-scores#proficiency)
 
-### [การเช็คความสามารถ](./ch07-using-ability-scores.md#ability-check)
+### [การเช็คความสามารถ](./ch07-using-ability-scores#ability-check)
 
-### [การใช้ความสามารถแต่ละด้าน](./ch07-using-ability-scores.md#using-ability)
+### [การใช้ความสามารถแต่ละด้าน](./ch07-using-ability-scores#using-ability)
 
-### [การทอยป้องกัน](./ch07-using-ability-scores.md#saving-throw)
+### [การทอยป้องกัน](./ch07-using-ability-scores#saving-throw)
 
-## [บทที่ 8: การผจญภัย](./ch08-adventuring.md)
+## [บทที่ 8: การผจญภัย](./ch08-adventuring)
 
 ### เวลา
 
@@ -122,7 +122,7 @@ title: Basic Rules
 
 ### ระหว่างการผจญภัย
 
-## [บทที่ 9: การต่อสู้](./ch09-combat.md)
+## [บทที่ 9: การต่อสู้](./ch09-combat)
 
 ### ลำดับการต่อสู้
 
@@ -140,7 +140,7 @@ title: Basic Rules
 
 # ส่วนที่ 3: กฏของเวทย์มนต์
 
-## [บทที่ 10: การร่ายคาถา](./ch10-spellcasting.md)
+## [บทที่ 10: การร่ายคาถา](./ch10-spellcasting)
 
 ### มนต์คาถา (spell) คืออะไร
 
@@ -150,7 +150,7 @@ title: Basic Rules
 
 ### การร่ายคาถา
 
-## [บทที่ 11: คาถา](./ch11-spells.md)
+## [บทที่ 11: คาถา](./ch11-spells)
 
 ### คาถาของบาร์ด
 
@@ -172,7 +172,7 @@ title: Basic Rules
 
 # ส่วนที่ 4: เครื่องมือสำหรับดันเจียนมาสเตอร์
 
-## [บทที่ 12: มอนสเตอร์](./ch12-monsters.md)
+## [บทที่ 12: มอนสเตอร์](./ch12-monsters)
 
 ### จะใช้กฏเหล่านี้อย่างไร
 
@@ -186,7 +186,7 @@ title: Basic Rules
 
 ### ตัวละครที่ไม่ใช่เพลเยอร์
 
-## [บทที่ 13: การจัดการต่อสู้](./ch13-building-combat-encounters.md)
+## [บทที่ 13: การจัดการต่อสู้](./ch13-building-combat-encounters)
 
 ### ระดับความยากของการต่อสู้
 
@@ -196,7 +196,7 @@ title: Basic Rules
 
 ### การต่อสู้ที่สนุก
 
-## [บทที่ 14: ไอเทมเวทมนต์](./ch14-magic-items.md)
+## [บทที่ 14: ไอเทมเวทมนต์](./ch14-magic-items)
 
 ### การเชื่อมประสาน
 
@@ -208,7 +208,7 @@ title: Basic Rules
 
 ### คำอธิบายไอเทมเวทมนต์
 
-## [บทที่ 15: การรันเกม](./ch15-running-the-game.md)
+## [บทที่ 15: การรันเกม](./ch15-running-the-game)
 
 ### สิ่งของ
 
@@ -222,10 +222,10 @@ title: Basic Rules
 
 # ภาคผนวก
 
-## [ภาคผนวก A: สภาวะ (Condition)](./appendice-a-condition.md)
+## [ภาคผนวก A: สภาวะ (Condition)](./appendice-a-condition)
 
-## [ภาคผนวก B: เทพเจ้าในมัลติเวอร์ส](./appendice-b-god-of-multiverse.md)
+## [ภาคผนวก B: เทพเจ้าในมัลติเวอร์ส](./appendice-b-god-of-multiverse)
 
-## [ภาคผนวก C: กลุ่มอำนาจทั้ง 5](./appendice-c-5-factions.md)
+## [ภาคผนวก C: กลุ่มอำนาจทั้ง 5](./appendice-c-5-factions)
 
-## [ภาคผนวก D: The Planes of Existence](./appendice-d-plane-of-existence.md)
+## [ภาคผนวก D: The Planes of Existence](./appendice-d-plane-of-existence)

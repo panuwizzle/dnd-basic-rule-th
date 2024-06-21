@@ -1,3 +1,6 @@
+---
+layout: default
+---
 # [บทที่ 15: การรันเกม](./ch15-running-the-game.md)
 This section contains rules that help will help Dungeon Masters run the game. For more information to help with being a Dungeon Master, see the Dungeon Master's Guide.
 
