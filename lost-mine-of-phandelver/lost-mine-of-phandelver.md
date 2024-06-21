@@ -1,4 +1,4 @@
-# Lost Mine of Phandelver
+# Lost Mine of Phandelver ([1491 DR](https://forgottenrealms.fandom.com/wiki/1491_DR))
 
 ## Contents
 ## Introduction
