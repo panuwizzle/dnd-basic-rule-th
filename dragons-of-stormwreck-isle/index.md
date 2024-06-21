@@ -1,3 +1,6 @@
+---
+layout: default
+---
 # DRAGONS OF STORMWRECK ISLE
 
 # Running the Adventure

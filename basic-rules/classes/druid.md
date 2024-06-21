@@ -1,3 +1,6 @@
+---
+layout: default
+---
 ## <a name="druid">Druid</a>
 
 Holding high a gnarled staff wreathed with holly, an elf summons the fury of the storm and calls down explosive bolts of lightning to smite the torch-carrying orcs who threaten her forest.

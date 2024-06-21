@@ -1,3 +1,6 @@
+---
+layout: default
+---
 # <a name="babarian">บาบาเรียน Barbarian</a>
 
 A tall human tribesman strides through a blizzard, draped in fur and hefting his axe. He laughs as he charges toward the frost giant who dared poach his people’s elk herd.

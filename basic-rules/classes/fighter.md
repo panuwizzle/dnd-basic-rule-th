@@ -1,3 +1,6 @@
+---
+layout: default
+---
 # <a name="fighter">Fighter</a>
 
 A human in clanging plate armor holds her shield before her as she runs toward the massed goblins. An elf behind her, clad in studded leather armor, peppers the goblins with arrows loosed from his exquisite bow. The half-orc nearby shouts orders, helping the two combatants coordinate their assault to the best advantage.

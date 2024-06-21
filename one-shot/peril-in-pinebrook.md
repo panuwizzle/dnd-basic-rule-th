@@ -1,3 +1,6 @@
+---
+layout: default
+---
 # Peril in Pinebrook
 
 An Introductory Adventure for The World’s Greatest Roleplaying Game

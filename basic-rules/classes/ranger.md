@@ -1,3 +1,6 @@
+---
+layout: default
+---
 ## <a name="ranger">Ranger</a>
 
 Rough and wild looking, a human stalks alone through the shadows of trees, hunting the orcs he knows are planning a raid on a nearby farm. Clutching a shortsword in each hand, he becomes a whirlwind of steel, cutting down one enemy after another.

@@ -1,4 +1,7 @@
-# <a name="warlock">Warlock</a>
+---
+layout: default
+---
+## <a name="warlock">Warlock</a>
 
 With a pseudodragon curled on his shoulder, a young elf in golden robes smiles warmly, weaving a magical charm into his honeyed words and bending the palace sentinel to his will.
 
