@@ -1,5 +1,6 @@
 ---
 layout: default
+tags: basic-rule
 ---
 # บทนำ
 

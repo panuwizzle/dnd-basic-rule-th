@@ -31,7 +31,8 @@ twitter_username: jekyllrb
 github_username:  jekyll
 
 # Build settings
-theme: minima
+#theme: 5e-blog
+remote_theme: panuwizzle/5e-blog-theme
 #plugins:
 #  - jekyll-feed
 
