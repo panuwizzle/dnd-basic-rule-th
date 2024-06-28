@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: page
 ---
 # บทที่ 6: ตัวเลือกเพิ่มเติมในการพัฒนาตัวละคร
 Multiclassing

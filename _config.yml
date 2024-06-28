@@ -31,10 +31,12 @@ twitter_username: jekyllrb
 github_username:  jekyll
 
 # Build settings
-#theme: 5e-blog
-remote_theme: panuwizzle/5e-blog-theme
+theme: 5e-blog-theme
+#remote_theme: panuwizzle/5e-blog-theme
 plugins:
  - jekyll-remote-theme
+ - jekyll-feed
+ - jekyll-seo-tag
 
 # Exclude from processing.
 # The following items will not be processed, by default.

@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: page
 ---
 ## <a name="halfling">ฮาล์ฟลิ่ง</a>
 

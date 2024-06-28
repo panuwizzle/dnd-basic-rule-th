@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: page
 ---
 # [บทที่ 14: ไอเทมเวทมนต์](./ch14-magic-items.md)
 ## การเชื่อมประสาน

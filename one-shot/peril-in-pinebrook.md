@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: page
 ---
 # Peril in Pinebrook
 

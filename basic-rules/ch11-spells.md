@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: page
 ---
 # Ch. 11: คาถา (Spells)
 

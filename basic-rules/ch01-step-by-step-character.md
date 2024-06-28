@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: page
 ---
 # <a name="step-by-step">บทที่ 1: สร้างตัวละครทีละขั้น</a>
 

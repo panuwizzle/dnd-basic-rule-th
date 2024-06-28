@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: page
 ---
 # Ch. 7: การใช้คะแนนความสามารถ (Using Ability Scores)
 

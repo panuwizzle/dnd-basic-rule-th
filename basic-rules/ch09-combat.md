@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: page
 ---
 # Ch. 9: การต่อสู้
 

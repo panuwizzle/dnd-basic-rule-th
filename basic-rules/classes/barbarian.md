@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: page
 ---
 # <a name="babarian">บาบาเรียน Barbarian</a>
 

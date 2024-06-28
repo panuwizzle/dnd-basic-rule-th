@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: page
 ---
 name: Zombie
 type: undead

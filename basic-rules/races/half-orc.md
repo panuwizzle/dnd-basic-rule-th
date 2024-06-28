@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: page
 ---
 ## <a name="half-orc">ฮาล์ฟอ็อค Half-Orc</a>
 

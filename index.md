@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: page
 title: Home
 ---
 # ดันเจี้ยนและมังกร (Dungeons & Dragons)

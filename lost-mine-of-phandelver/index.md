@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: page
 ---
 # เหมืองที่สาปสูญแห่งภาคีแฟนเดลเวอร์ ([1491 DR](https://forgottenrealms.fandom.com/wiki/1491_DR))
 

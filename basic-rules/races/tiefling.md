@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: page
 ---
 ## <a name="tiefling">ทิฟลิง Tiefling</a>
 
