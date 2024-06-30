@@ -1,0 +1,35 @@
+- name: blog
+  title: Blog
+  url: /blog/
+  icon: fa fa-home
+  child: 
+  
+- name: books
+  title: Books
+  url: /books/
+  icon: fa fa-book
+  child: 
+    - name: basic-rules
+      title: Basic Rules
+      url: /basic-rules/
+      icon: fa fa-book
+
+- name: adventures
+  title: Adventures
+  url: /adventures/
+  icon: fa fa-map
+  child: 
+    - name: lost-mine-of-phandelver
+      title: Lost Mine of Phandelver
+      url: /lost-mine-of-phandelver/
+      icon: fa fa-map
+
+    - name: dragon-of-icespire-peak
+      title: Dragon of Icespire Peak
+      url: /dragon-of-icespire-peak/
+      icon: fa fa-map
+
+    - name: dragon-of-stormwreck-isle
+      title: Dragon of Stormwreck Isle
+      url: /dragons-of-stormwreck-isle/
+      icon: fa fa-map
