@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: book
 tags: basic-rule
 ---
 # บทนำ
