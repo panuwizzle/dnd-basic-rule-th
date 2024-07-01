@@ -1,0 +1,4 @@
+---
+layout: page
+---
+Adventure list
