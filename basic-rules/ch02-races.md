@@ -1,5 +1,6 @@
 ---
-layout: page
+layout: book
+menu: menu-basic-rules
 ---
 # บทที่ 2: เผ่าพันธุ์
 

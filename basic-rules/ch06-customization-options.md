@@ -1,5 +1,6 @@
 ---
-layout: page
+layout: book
+menu: menu-basic-rules
 ---
 # บทที่ 6: ตัวเลือกเพิ่มเติมในการพัฒนาตัวละคร
 Multiclassing

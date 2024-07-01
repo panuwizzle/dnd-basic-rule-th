@@ -1,5 +1,6 @@
 ---
-layout: page
+layout: book
+menu: menu-basic-rules
 ---
 # <a name="step-by-step">บทที่ 1: สร้างตัวละครทีละขั้น</a>
 

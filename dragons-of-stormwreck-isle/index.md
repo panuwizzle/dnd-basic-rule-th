@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: book
 ---
 # DRAGONS OF STORMWRECK ISLE
 

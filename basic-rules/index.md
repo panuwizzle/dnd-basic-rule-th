@@ -1,7 +1,9 @@
 ---
 layout: page
 title: Basic Rules
+menu: menu-basic-rules
 ---
+
 # [บทนำ](./introduction)
 
 # ส่วนที่ 1 การสร้างตัวละคร
@@ -228,4 +230,4 @@ title: Basic Rules
 
 ## [ภาคผนวก C: กลุ่มอำนาจทั้ง 5](./appendice-c-5-factions)
 
-## [ภาคผนวก D: The Planes of Existence](./appendice-d-plane-of-existence)
+## [ภาคผนวก D: การผจญภัยในมัลติเวิร์ส](./appendice-d-plane-of-existence)

@@ -1,5 +1,6 @@
 ---
-layout: page
+layout: book
+menu: menu-basic-rules
 ---
 # ภาคผนวก A: สภาวะ (Condition)
 

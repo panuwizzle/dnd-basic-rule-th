@@ -1,5 +1,6 @@
 ---
-layout: page
+layout: book
+menu: menu-basic-rules
 ---
 # [บทที่ 14: ไอเทมเวทมนต์](./ch14-magic-items.md)
 ## การเชื่อมประสาน

@@ -1,0 +1,11 @@
+- name: aaa
+  url: /aaa/
+
+- name: bbb
+  url: /bbb/
+
+- name: ccc
+  url: /ccc/
+
+- name: ddd
+  url: /ddd/
