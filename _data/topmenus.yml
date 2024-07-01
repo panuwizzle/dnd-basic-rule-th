@@ -11,7 +11,7 @@
   child: 
     - name: basic-rules
       title: Basic Rules
-      url: /basic-rules/
+      url: /basic-rules/introduction/
       icon: fa fa-book
 
 - name: adventures

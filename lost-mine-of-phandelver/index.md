@@ -2,7 +2,7 @@
 layout: book
 menu: menu-lmop
 ---
-# เหมืองที่สาปสูญแห่งภาคีแฟนเดลเวอร์ ([1491 DR](https://forgottenrealms.fandom.com/wiki/1491_DR))
+# เหมืองที่สาปสูญแห่งแฟนเดลเวอร์ ([1491 DR](https://forgottenrealms.fandom.com/wiki/1491_DR))
 
 ## Contents
 ## Introduction
