@@ -1,5 +1,6 @@
 ---
-layout: page
+layout: book
+menu: menu-basic-rules
 ---
 ## <a name="warlock">Warlock</a>
 
