@@ -1,63 +1,69 @@
 - name: บทนำ
   url: /basic-rules/introduction/
   children:
-  - name: โลกแห่งการผจญภัย
-  - name: การใช้กฏในเล่มนี้
-  - name: เล่นยังไง
-  - name: การผจญภัย
-    children:
-    - name: เสาหลัก 3 ต้นของการผจญภัย
-  - name: ความมหัศจรรย์ของเวทย์มนต์
+    - name: โลกแห่งการผจญภัย
+      url: /basic-rules/introduction/#world-of-adventure
+    - name: การใช้กฏในเล่มนี้
+      url: /basic-rules/introduction/#using-these-rules
+    - name: เล่นยังไง
+      url: /basic-rules/introduction/#how-to-play
+    - name: การผจญภัย
+      url: /basic-rules/introduction/#adventures
+      children:
+        - name: 3 เสาหลักของการผจญภัย
+          url: /basic-rules/introduction/#three-pillars
+    - name: ความมหัศจรรย์ของเวทย์มนต์
+      url: /basic-rules/introduction/#the-wonders-of-magic
 
 - name: ส่วนที่ 1 การสร้างตัวละคร
   children:
-  - name: "บทที่ 1: สร้างตัวละครทีละขั้น"
-    url: /basic-rules/ch01-step-by-step-character/
-  - name: "บทที่ 2: เผ่าพันธุ์"
-    url: /basic-rules/ch02-races/
-  - name: "บทที่ 3: คลาส (อาชีพ)"
-    url: /basic-rules/ch03-classes/
-  - name: "บทที่ 4: ลักษณะตัวละครและภูมิหลัง"
-    url: /basic-rules/ch04-personality-and-background/
-  - name: "บทที่ 5: อุปกรณ์"
-    url: /basic-rules/ch05-equipment/
-  - name: "บทที่ 6: ตัวเลือกเพิ่มเติมในการตบแต่งตัวละคร"
-    url: /basic-rules/ch06-customization-options/
+    - name: "บทที่ 1: สร้างตัวละครทีละขั้น"
+      url: /basic-rules/ch01-step-by-step-character/
+    - name: "บทที่ 2: เผ่าพันธุ์"
+      url: /basic-rules/ch02-races/
+    - name: "บทที่ 3: คลาส (อาชีพ)"
+      url: /basic-rules/ch03-classes/
+    - name: "บทที่ 4: ลักษณะตัวละครและภูมิหลัง"
+      url: /basic-rules/ch04-personality-and-background/
+    - name: "บทที่ 5: อุปกรณ์"
+      url: /basic-rules/ch05-equipment/
+    - name: "บทที่ 6: ตัวเลือกเพิ่มเติมในการตบแต่งตัวละคร"
+      url: /basic-rules/ch06-customization-options/
 
 - name: "ส่วนที่ 2: การเล่นเกม"
   children:
-  - name: "บทที่ 7: การใช้คะแนนความสามารถ"
-    url: /basic-rules/ch07-using-ability-scores/
-  - name: "บทที่ 8: การผจญภัย"
-    url: /basic-rules/ch08-adventuring/
-  - name: "บทที่ 9: การต่อสู้"
-    url: /basic-rules/ch09-combat/
+    - name: "บทที่ 7: การใช้คะแนนความสามารถ"
+      url: /basic-rules/ch07-using-ability-scores/
+    - name: "บทที่ 8: การผจญภัย"
+      url: /basic-rules/ch08-adventuring/
+    - name: "บทที่ 9: การต่อสู้"
+      url: /basic-rules/ch09-combat/
 
 - name: "ส่วนที่ 3: กฏของเวทย์มนต์"
   children:
-  - name: "บทที่ 10: การร่ายคาถา"
-    url: /basic-rules/ch10-spellcasting/
-  - name: "บทที่ 11: คาถา"
-    url: /basic-rules/ch11-spells/
+    - name: "บทที่ 10: การร่ายคาถา"
+      url: /basic-rules/ch10-spellcasting/
+    - name: "บทที่ 11: คาถา"
+      url: /basic-rules/ch11-spells/
 
 - name: "ส่วนที่ 4: เครื่องมือสำหรับดันเจียนมาสเตอร์"
   children:
-  - name: "บทที่ 12: มอนสเตอร์"
-    url: /basic-rules/ch12-monsters/
-  - name: "บทที่ 13: การจัดการต่อสู้"
-    url: /basic-rules/ch13-building-combat-encounters/
-  - name: "บทที่ 14: ไอเทมเวทมนต์"
-    url: /basic-rules/ch14-magic-items/
-  - name: "บทที่ 15: การดำเนินเกม"
-    url: /basic-rules/ch15-running-the-game/
+    - name: "บทที่ 12: มอนสเตอร์"
+      url: /basic-rules/ch12-monsters/
+    - name: "บทที่ 13: การจัดการต่อสู้"
+      url: /basic-rules/ch13-building-combat-encounters/
+    - name: "บทที่ 14: ไอเทมเวทมนต์"
+      url: /basic-rules/ch14-magic-items/
+    - name: "บทที่ 15: การดำเนินเกม"
+      url: /basic-rules/ch15-running-the-game/
 
 - name: "ภาคผนวก"
   children:
-  - name: "ภาคผนวก A: สภาวะ (Condition)"
-    url: /basic-rules/appendice-a-condition/
-  - name: "ภาคผนวก B: เทพเจ้าในมัลติเวอร์ส"
-    url: /basic-rules/appendice-b-god-of-multiverse/
-  - name: "ภาคผนวก C: กลุ่มอำนาจทั้ง 5"
-    url: /basic-rules/appendice-c-5-factions/
-  - name: "ภาคผนวก E: การผจญภัยในมัลติเวอร์ส"
-    url: /basic-rules/appendice-d-plane-of-existence/
+    - name: "ภาคผนวก A: สภาวะ (Condition)"
+      url: /basic-rules/appendice-a-condition/
+    - name: "ภาคผนวก B: เทพเจ้าในมัลติเวอร์ส"
+      url: /basic-rules/appendice-b-god-of-multiverse/
+    - name: "ภาคผนวก C: กลุ่มอำนาจทั้ง 5"
+      url: /basic-rules/appendice-c-5-factions/
+    - name: "ภาคผนวก E: การผจญภัยในมัลติเวอร์ส"
+      url: /basic-rules/appendice-d-plane-of-existence/

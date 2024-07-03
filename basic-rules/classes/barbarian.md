@@ -11,80 +11,81 @@ menu: menu-basic-rules
 
 ด้วยความเมามันน้ำลายแตกฟอง ดวอร์ฟฟาดหมวกเหล็กของเขาเข้าที่หน้าของศัตรูชาวดราว และหันไปพุ่งศอกใส่เข้าท้องของอีกคนอย่างจัง
 
-คนเถื่อนเหล่านี้ แม้แตกต่างกันตามแต่จะเป็น ก็ถูกกำหนดด้วยความคลั่งของพวกเขา: ไร้การควบคุม ความโกรธที่ยากจะดับ และความเดือดดาลไร้การควบคุม มันมากกว่าแค่อารมณ์ ความโกรธของพวกเขาเป็นดั่งความดุร้ายของสัตว์นักล่าที่จนมุม เป็นความรุนแรงเหมือนพายุ ถาโถมดั่งคลื่นทะเลคลั่ง
+คนเถื่อนเหล่านี้ แม้แตกต่างกันตามแต่จะเป็น ก็เหมือนกันที่ความคลั่งของพวกเขา: ไร้การควบคุม ความโกรธที่ยากจะดับ และความเดือดดาลไร้การควบคุม มันมากกว่าแค่อารมณ์ ความโกรธของพวกเขาเป็นดั่งความดุร้ายของสัตว์นักล่าที่จนมุม เป็นความรุนแรงเหมือนพายุ ถาโถมดั่งคลื่นทะเลคลั่ง
 
 กับบางคน ความคลั่งเกิดจากการเชื่อมต่อกับวิญญาณสัตว์ร้าย และบางคนดึงพลังมาจากความโกรธแค้นต่อโลกที่มีแต่ความเจ็บปวด สำหรับบาบาเรียนทุกคน ความคลั่ง (rage) เป็นพลังที่เป็นเชื้อไฟไม่ใช่แค่ความรุนแรงในการต่อสู้แต่ยังใช้ในการตอบสนอง ความอดทน และเพิ่มความแข็งแกร่ง
 
-## Primal Instinct
+## สัญชาตญาณสัตว์ป่า Primal Instinct
 
-People of towns and cities take pride in their settled ways, as if denying one’s connection to nature were a mark of superiority. To a barbarian, though, a settled life is no virtue, but a sign of weakness. The strong embrace nature—valuing keen instincts, primal physicality, and ferocious rage. Barbarians are uncomfortable when hedged in by walls and crowds. They thrive in the wilds of their homelands: the tundra, jungle, or grasslands where their tribes live and hunt.
+คนทั่วไปที่อาศัยในหมู่บ้านและในเมืองมีความทรนงในวิถีการสร้างบ้านแปงเมือง เหมือนจะเป็นการตัดขาดจากธรรมชาติรอบนอกให้เห็นว่าตนอยู่เหนือกว่า แต่สำหรับคนเถื่อนบาบาเรียนแล้ววิถีชีวิตเช่นนั้นกลับไม่มีคุณค่าใด ๆ หากแต่เป็นเครื่องหมายของความอ่อนแอ ผู้เข้มแข็งจะโอบรับธรรมชาติและน้อมรับสัญชาตญาณดั้งเดิม ร่างกายที่แข็งแรงดุจสัตว์ป่าและความดุร้ายเดือดดาล บาบาเรียนจะรู้สึกไม่ชอบเมื่อต้องอยู่หลังกำแพงหรือในหมู่ชน พวกเขารักอิสระในพงไพรบ้านเกิด พื้นที่หนาวเหน็บทางเหนือ ในป่าลึก หรือทุ่งหญ้าที่ชาวเผ่าของพวกเขาจะอาศัยอยู่และล่าสัตว์ได้
 
-Barbarians come alive in the chaos of combat. They can enter a berserk state where rage takes over, giving them superhuman strength and resilience. A barbarian can draw on this reservoir of fury only a few times without resting, but those few rages are usually sufficient to defeat whatever threats arise.
+บาบาเรียนจะมีชีวิตชีวาเมื่ออยู่ท่ามกลางสงครามการต่อสู้ พวกเขาสามารถเข้าสถานะบ้าคลั่งเมื่อความคลั่งเข้าครอบงำ ทำให้พวกเขามีพลังและความทนทานเหนือมนุษย์ บาบาเรียนจะสามารถดึงเอาพลังความคุ้มคลั่งออกมาใช้ได้ไม่กี่ครั้งเท่านั้นหากไม่ได้พัก แต่แค่ไม่กี่ครั้งก็มักจะเพียงพอในการจัดการภัยอันตรายที่ต้องต่อสู้ด้วย
 
-## A Life of Danger
+## ชีวิตอันตราย A Life of Danger
 
-A barbarian plays an important role as a protector of their people and a leader in times of war. Life in the wild places of the world is fraught with peril: rival tribes, deadly weather, and terrifying monsters. Barbarians charge headlong into that danger so that their people don’t have to.
+บาบาเรียนจะเป็นกำลังหลักในการปกป้องผู้คนของพวกเขาและเป็นผู้นำในช่วยเวลาที่มีสงคราม ชีวิตในดินแดนเถื่อนในโลกนี้เต็มไปด้วยตัวปัญหามากมาย ศัตรูของเผ่า อากาศที่โหดร้าย และมอนสเตอร์ที่น่ากลัว บาบาเรียนจะเป็นด่านหน้าเข้าต่อสู้กับอันตรายเสมอเพื่อไม่ให้ผู้คนของพวกเขาต้องเผชิญกับมัน
 
-Their courage in the face of danger makes barbarians perfectly suited for adventuring. Wandering is often a way of life for their native tribes, and the rootless life of the adventurer is little hardship for a barbarian. Some barbarians miss the close-knit family structures of the tribe, but eventually find them replaced by the bonds formed among the members of their adventuring parties.
+ความกล้าหาญในการเผชิญกับอันตรายทำให้บาบาเรียนเหมาะกับการออกผจญภัย การเร่ร่อนมักจะเป็นวิถีชีวิตของเผ่าของพวกเขาอยู่แล้ว และชีวิตที่ไร้สิ่งยึดติดของนักผจญภัยก็เหมาะกับบาบาเรียนเป็นอย่างมาก บาบาเรียนบางคนไม่ได้มีสายสัมพันธ์ที่ดีกับคนในเผ่านัก แต่ก็มักจะพบว่ามันชดเชยได้จากสายสัมพันธ์ของเพื่อนร่วมคณะผจญภัย
 
-## Creating a Barbarian
+## การสร้างบาบาเรียน Creating a Barbarian
 
-When creating a barbarian character, think about where your character comes from and his or her place in the world. Talk with your DM about an appropriate origin for your barbarian. Did you come from a distant land, making you a stranger in the area of the campaign? Or is the campaign set in a rough-and-tumble frontier where barbarians are common?
+ในการสร้างตัวละครบาบาเรียน ให้นึกถึงว่าตัวละครของคุณมาจากที่ไหนหรือเกิดที่ไหนในโลก ลองปรึกษา DM เกี่ยวกับจุดเริ่มต้นที่เหมาะสมของบาบาเรียนของคุณ มากจากดินแดนห่างไกลเลยทำให้เป็นคนแปลกหน้าในพื้นที่การผจญภัยหรือไม่ หรือแคมเปญที่จะเล่นมีพื้นที่อยู่ในบริเวณที่รกร้างที่มีบาบาเรียนอยู่กันเป็นปกติ
 
-What led you to take up the adventuring life? Were you lured to settled lands by the promise of riches? Did you join forces with soldiers of those lands to face a shared threat? Did monsters or an invading horde drive you out of your homeland, making you a rootless refugee? Perhaps you were a prisoner of war, brought in chains to another land and only now able to win your freedom. Or you might have been cast out from your people because of a crime you committed, a taboo you violated, or a coup that removed you from a position of authority.
+อะไรที่นำให้คุณมาใช้ชีวิตเป็นนักผจญภัย คุณถูกล่อหลอกด้วยเงินทองความร่ำรวย? คุณเข้าร่วมกับกองกำลังเพื่อต่อต้านภัยอันตรายในพื้นที่ร่วมกันหรือ? มีมอนสเตอร์หรือกลุ่มสัตว์ประหลาดมารุกรานดินแดนบ้านเกิด จึงทำให้กลายเป็นผู้ลี้ภัย? หรือบางทีคุณอาจจะเป็นนักโทษสงคราม โดนจับล่ามมาจนถึงดินแดนนี้และสามารถหลุดรอดมาได้ หรือคุณอาจจะถูกเนรเทศโดยคนในเผ่าเพราะความผิดที่ทำลงไป ข้อห้ามที่คุณละเมิด หรือการกบฏที่ทำให้คุณหลุดจากตำแหน่งอำนาจที่เคยมี
 
-### Quick Build
+### การสร้างอย่างไว Quick Build
 
-You can make a barbarian quickly by following these suggestions. First, put your highest ability score in Strength, followed by Constitution. Second, choose the outlander background.
+คุณสามารถสร้างบาบาเรียนได้อย่างรวดเร็ว โดยใช้คำแนะนำดังนี้ อย่างแรก ให้ใส่ค่าคะแนนความสามารถที่มากที่สุดในความแข็งแกร่ง (Strength) ตามด้วยค่าความอดทน (Constitution) อย่างที่สอง ให้เลือกภูมิหลังเป็น "[คนแปลกหน้า](../../backgrounds/outlander)" (outlander background)
 
-#### The Barbarian
 
-| Level | Proficiency <br>Bonus | Features                                                           | Rages     | Rage <br>Damage |
+| เลเลว | โบนัสความชำนาญ <br/>(Proficiency Bonus) | ความสามารถ <br/>(Features)                                                           | จำนวนครั้งที่คลั่งได้ <br/>(Rages)     | ความเสียหายจากการคลั่ง |
 | ----- | --------------------- | ------------------------------------------------------------------ | --------- | --------------- |
-| 1st   | +2                    | [Rage](#Rage), [Unarmored Defense](#UnarmoredDefense)             | 2         | +2              |
-| 2nd   | +2                    | [Reckless Attack](#RecklessAttack), [Danger Sense](#DangerSense) | 2         | +2              |
-| 3rd   | +2                    | [Primal Path](#PrimalPath)                                        | 3         | +2              |
-| 4th   | +2                    | [Ability Score Improvement](#AbilityScoreImprovement)            | 3         | +2              |
-| 5th   | +3                    | [Extra Attack](#ExtraAttack), [Fast Movement](#FastMovement)     | 3         | +2              |
-| 6th   | +3                    | [Path Feature](#PathFeature)                                      | 4         | +2              |
-| 7th   | +3                    | [Feral Instinct](#FeralInstinct)                                  | 4         | +2              |
-| 8th   | +3                    | [Ability Score Improvement](#AbilityScoreImprovement)            | 4         | +2              |
-| 9th   | +4                    | [Brutal Critical](#BrutalCritical) (1 die)                        | 4         | +3              |
-| 10th  | +4                    | [Path Feature](#PathFeature)                                      | 4         | +3              |
-| 11th  | +4                    | [Relentless Rage](#RelentlessRage)                                | 4         | +3              |
-| 12th  | +4                    | [Ability Score Improvement](#AbilityScoreImprovement)            | 5         | +3              |
-| 13th  | +5                    | [Brutal Critical](#BrutalCritical) (2 dice)                       | 5         | +3              |
-| 14th  | +5                    | [Path Feature](#PathFeature)                                      | 5         | +3              |
-| 15th  | +5                    | [Persistent Rage](#PersistentRage)                                | 5         | +3              |
-| 16th  | +5                    | [Ability Score Improvement](#AbilityScoreImprovement)            | 5         | +4              |
-| 17th  | +6                    | [Brutal Critical](#BrutalCritical) (3 dice)                       | 6         | +4              |
-| 18th  | +6                    | [Indomitable Might](#IndomitableMight)                            | 6         | +4              |
-| 19th  | +6                    | [Ability Score Improvement](#AbilityScoreImprovement)            | 6         | +4              |
-| 20th  | +6                    | [Primal Champion](#PrimalChampion)                                | Unlimited | +4              |
+| 1st   | +2                    | [คุ้มคลั่ง (Rage)](#Rage), [การป้องกันแบบไร้เกราะ (Unarmored Defense)](#UnarmoredDefense)             | 2         | +2              |
+| 2nd   | +2                    | [โจมตีไม่ยั้ง (Reckless Attack)](#RecklessAttack), [สัมผัสถึงอันตราย (Danger Sense)](#DangerSense) | 2         | +2              |
+| 3rd   | +2                    | [วิถีสัตว์ป่า (Primal Path)](#PrimalPath)                                        | 3         | +2              |
+| 4th   | +2                    | [เพิ่มคะแนนความสามารถ (Ability Score Improvement)](#AbilityScoreImprovement)            | 3         | +2              |
+| 5th   | +3                    | [โจมตีเพิ่มพิเศษ (Extra Attack)](#ExtraAttack), [เคลื่อนที่รวดเร็ว (Fast Movement)](#FastMovement)     | 3         | +2              |
+| 6th   | +3                    | [ความสามารถเพิ่มในวิถี (Path Feature)](#PathFeature)                                      | 4         | +2              |
+| 7th   | +3                    | [สัญขาตญาณสัตว์ป่า (Feral Instinct)](#FeralInstinct)                                  | 4         | +2              |
+| 8th   | +3                    | [เพิ่มคะแนนความสามารถ (Ability Score Improvement)](#AbilityScoreImprovement)            | 4         | +2              |
+| 9th   | +4                    | [คริติคัลอย่างโหด (Brutal Critical)](#BrutalCritical) (1 die)                        | 4         | +3              |
+| 10th  | +4                    | [ความสามารถเพิ่มในวิถี (Path Feature)](#PathFeature)                                      | 4         | +3              |
+| 11th  | +4                    | [คุ้มคลั่งไร้ปราณี (Relentless Rage)](#RelentlessRage)                                | 4         | +3              |
+| 12th  | +4                    | [เพิ่มคะแนนความสามารถ (Ability Score Improvement)](#AbilityScoreImprovement)            | 5         | +3              |
+| 13th  | +5                    | [คริติคัลอย่างโหด (Brutal Critical)](#BrutalCritical) (2 dice)                       | 5         | +3              |
+| 14th  | +5                    | [ความสามารถเพิ่มในวิถี (Path Feature)](#PathFeature)                                      | 5         | +3              |
+| 15th  | +5                    | [คุ้มคลั่งไร้ประมาณ (Persistent Rage)](#PersistentRage)                                | 5         | +3              |
+| 16th  | +5                    | [เพิ่มคะแนนความสามารถ (Ability Score Improvement)](#AbilityScoreImprovement)            | 5         | +4              |
+| 17th  | +6                    | [คริติคัลอย่างโหด (Brutal Critical)](#BrutalCritical) (3 dice)                       | 6         | +4              |
+| 18th  | +6                    | [พลังไร้พ่าย (Indomitable Might)](#IndomitableMight)                            | 6         | +4              |
+| 19th  | +6                    | [เพิ่มคะแนนความสามารถ (Ability Score Improvement)](#AbilityScoreImprovement)            | 6         | +4              |
+| 20th  | +6                    | [แชมเปียนแห่งสัตว์ป่า (Primal Champion)](#PrimalChampion)                                | Unlimited | +4              |
+{: .table .is-fullwidth}
 
-## Class Features
+## ความสามารถของคลาส Class Features
 
-As a barbarian, you gain the following class features.
+เมื่อเป็นบาบาเรียน คุณจะได้รับความสามารถประจำคลาสดังนี้
 
-### Hit Points
+### ค่าเลือด Hit Points
 
-**Hit Dice:** 1d12 per barbarian level
+**ฮิทไดซ์:** 1d12 ต่อเลเวลของบาบาเรียน
 
-**Hit Points at 1st Level:** 12 + your Constitution modifier
+**ค่าเลือดที่เลเวล 1:** 12 + ค่าโมดิไฟเออร์ของคะแนนความอดทน (Constitution modifier)
 
-**Hit Points at Higher Levels:** 1d12 (or 7) + your Constitution modifier per barbarian level after 1st
+**ค่าเลือดเมื่อเลเวลสูงขึ้น:** 1d12 (หรือ 7) + ค่าโมดิไฟเออร์ของคะแนนความอดทน (Constitution modifier) ต่อเลเวลของบาบาเรียนหลังเลเวล 1  
+*เช่น เมื่อเลเวลขึ้นเป็น 2 ทอย 1d12 ได้ 8 + 3 (CON-modifier) = 11 ให้เพิ่มค่าเลือดเป็น 12 + 11 = 23 เป็นต้น
 
-### Proficiencies
+### ความชำนาญ Proficiencies
 
-**Armor:** Light armor, medium armor, shields
+**เกราะ:** เกราะเบา (light armor), เกราะกลาง (medium armor), โล่ (shields)
 
-**Weapons:** Simple weapons, martial weapons
+**อาวุธ:** อาวุธอย่างง่าย (simple weapons), อาวุธประชิดตัว (martial weapons)
 
-**Tools:** None
+**เครื่องมือ:** ไม่มี
 
-**Saving Throws:** Strength, Constitution
+**ทอยป้องกัน:** ความแข็งแกร่ง (Strength), ความอดทน (Constitution)
 
-**Skills:** Choose two from [Animal Handling](../ch07-using-ability-scores.md#ทักษะการจัดการสัตว์-animal-handling), [Athletics](../ch07-using-ability-scores.md#ทักษะทางกรีฑา-athletics), [Intimidation](../ch07-using-ability-scores.md#ทักษะการข่มขู่-intimidation), [Nature](../ch07-using-ability-scores.md#ทักษะความรู้ทางธรรมชาติ-nature-เนเจอร์), [Perception](../ch07-using-ability-scores.md#ทักษะการรับรู้-perception), and [Survival](../ch07-using-ability-scores.md#ทักษะการเอาตัวรอด-survival)
+**ทักษะ:** เลือก 2 ทักษะจาก [การจัดการสัตว์ (Animal Handling)](../../ch07-using-ability-scores#ทักษะการจัดการสัตว์-animal-handling), [กรีฑา (Athletics)](../../ch07-using-ability-scores#ทักษะทางกรีฑา-athletics), [การข่มขู่ (Intimidation)](../../ch07-using-ability-scores#ทักษะการข่มขู่-intimidation), [ธรรมชาติ (Nature)](../../ch07-using-ability-scores#ทักษะความรู้ทางธรรมชาติ-nature-เนเจอร์), [การหยั่งรู้ (Perception)](../../ch07-using-ability-scores#ทักษะการรับรู้-perception), และ [การเอาตัวรอด (Survival)](../../ch07-using-ability-scores#ทักษะการเอาตัวรอด-survival)
 
 ### Equipment
 
@@ -100,13 +101,13 @@ In battle, you fight with primal ferocity. On your turn, you can enter a rage as
 
 While raging, you gain the following benefits if you aren’t wearing heavy armor:
 
-- You have [advantage](../ch07-using-ability-scores.md#การทอยแบบได้เปรียบ-advantage-แอดแวนเทจ-และการทอยแบบเสียเปรียบ-disadvantage-ดิสแอดแวนเทจ) on Strength checks and Strength saving throws.
+- You have [advantage](../ch07-using-ability-scores#การทอยแบบได้เปรียบ-advantage-แอดแวนเทจ-และการทอยแบบเสียเปรียบ-disadvantage-ดิสแอดแวนเทจ) on Strength checks and Strength saving throws.
 - When you make a melee weapon attack using Strength, you gain a bonus to the damage roll that increases as you gain levels as a barbarian, as shown in the Rage Damage column of the Barbarian table.
 - You have resistance to bludgeoning, piercing, and slashing damage.
 
 If you are able to cast spells, you can’t cast them or concentrate on them while raging.
 
-Your rage lasts for 1 minute. It ends early if you are knocked [unconscious](../appendice-a-condition.md#unconscious) or if your turn ends and you haven’t attacked a hostile creature since your last turn or taken damage since then. You can also end your rage on your turn as a bonus action.
+Your rage lasts for 1 minute. It ends early if you are knocked [unconscious](../../appendice-a-condition#unconscious) or if your turn ends and you haven’t attacked a hostile creature since your last turn or taken damage since then. You can also end your rage on your turn as a bonus action.
 
 Once you have raged the number of times shown for your barbarian level in the Rages column of the Barbarian table, you must finish a long rest before you can rage again.
 
@@ -116,13 +117,13 @@ While you are not wearing any armor, your Armor Class equals 10 + your Dexterity
 
 ### Reckless Attack {#RecklessAttack}
 
-Starting at 2nd level, you can throw aside all concern for defense to attack with fierce desperation. When you make your first attack on your turn, you can decide to attack recklessly. Doing so gives you [advantage](../ch07-using-ability-scores.md#การทอยแบบได้เปรียบ-advantage-แอดแวนเทจ-และการทอยแบบเสียเปรียบ-disadvantage-ดิสแอดแวนเทจ) on melee weapon attack rolls using Strength during this turn, but attack rolls against you have [advantage](../ch07-using-ability-scores.md#การทอยแบบได้เปรียบ-advantage-แอดแวนเทจ-และการทอยแบบเสียเปรียบ-disadvantage-ดิสแอดแวนเทจ) until your next turn.
+Starting at 2nd level, you can throw aside all concern for defense to attack with fierce desperation. When you make your first attack on your turn, you can decide to attack recklessly. Doing so gives you [advantage](../ch07-using-ability-scores#การทอยแบบได้เปรียบ-advantage-แอดแวนเทจ-และการทอยแบบเสียเปรียบ-disadvantage-ดิสแอดแวนเทจ) on melee weapon attack rolls using Strength during this turn, but attack rolls against you have [advantage](../ch07-using-ability-scores#การทอยแบบได้เปรียบ-advantage-แอดแวนเทจ-และการทอยแบบเสียเปรียบ-disadvantage-ดิสแอดแวนเทจ) until your next turn.
 
 ### Danger Sense {#DangerSense}
 
 At 2nd level, you gain an uncanny sense of when things nearby aren’t as they should be, giving you an edge when you dodge away from danger.
 
-You have [advantage](../ch07-using-ability-scores.md#การทอยแบบได้เปรียบ-advantage-แอดแวนเทจ-และการทอยแบบเสียเปรียบ-disadvantage-ดิสแอดแวนเทจ) on Dexterity saving throws against effects that you can see, such as traps and spells. To gain this benefit, you can’t be [blinded](), [deafened](), or [incapacitated]().
+You have [advantage](../ch07-using-ability-scores#การทอยแบบได้เปรียบ-advantage-แอดแวนเทจ-และการทอยแบบเสียเปรียบ-disadvantage-ดิสแอดแวนเทจ) on Dexterity saving throws against effects that you can see, such as traps and spells. To gain this benefit, you can’t be [blinded](), [deafened](), or [incapacitated]().
 
 ### Primal Path {#PrimalPath}
 
