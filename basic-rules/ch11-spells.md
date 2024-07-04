@@ -1728,9 +1728,44 @@ Available For: `CLERIC` `PALADIN` `ARTIFICER` `PEACE DOMAIN` `COMMUNITY DOMAIN`
 
 ## คาถา B
 
+### Beast Sense {#beast-sense}
+2nd-level divination (ritual)
+
+**Casting Time:** 1 action
+
+**Range:** Touch
+
+**Components:** S
+
+**Duration:** Concentration, up to 1 hour
+
+You touch a willing beast. For the duration of the spell, you can use your action to see through the beast’s eyes and hear what it hears, and continue to do so until you use your action to return to your normal senses. While perceiving through the beast’s senses, you gain the benefits of any special senses possessed by that creature, though you are [blinded] and [deafened] to your own surroundings.
+
 ### <a name="Bless">Bless
 
 ## คาถา C
+### Commune with Nature {#commune-with-nature}
+5th-level divination (ritual)
+
+**Casting Time:** 1 minute
+
+**Range:** Self
+
+**Components:** V, S
+
+**Duration:** Instantaneous
+
+You briefly become one with nature and gain knowledge of the surrounding territory. In the outdoors, the spell gives you knowledge of the land within 3 miles of you. In caves and other natural underground settings, the radius is limited to 300 feet. The spell doesn’t function where nature has been replaced by construction, such as in dungeons and towns.
+
+You instantly gain knowledge of up to three facts of your choice about any of the following subjects as they relate to the area:
+
+- terrain and bodies of water
+- prevalent plants, minerals, animals, or peoples
+- powerful celestials, fey, fiends, elementals, or undead
+- influence from other planes of existence
+- buildings
+
+For example, you could determine the location of powerful undead in the area, the location of major sources of safe drinking water, and the location of any nearby towns.
 
 ### <a name="Cure Wounds">Cure Wounds
 
@@ -1787,6 +1822,18 @@ Available For: `BARD` `SORCERER` `WIZARD` `ARTIFICER`
 ## คาถา R
 
 ## คาถา S
+### Speak with Animals {#speak-with-animals}
+1st-level divination (ritual)
+
+**Casting Time:** 1 action
+
+**Range:** Self
+
+**Components:** V, S
+
+**Duration:** 10 minutes
+
+You gain the ability to comprehend and verbally communicate with beasts for the duration. The knowledge and awareness of many beasts is limited by their intelligence, but at minimum, beasts can give you information about nearby locations and monsters, including whatever they can perceive or have perceived within the past day. You might be able to persuade a beast to perform a small favor for you, at the DM’s discretion.
 
 ## คาถา T
 

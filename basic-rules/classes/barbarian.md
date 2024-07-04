@@ -19,17 +19,17 @@ menu: menu-basic-rules
 
 คนทั่วไปที่อาศัยในหมู่บ้านและในเมืองมีความทรนงในวิถีการสร้างบ้านแปงเมือง เหมือนจะเป็นการตัดขาดจากธรรมชาติรอบนอกให้เห็นว่าตนอยู่เหนือกว่า แต่สำหรับคนเถื่อนบาบาเรียนแล้ววิถีชีวิตเช่นนั้นกลับไม่มีคุณค่าใด ๆ หากแต่เป็นเครื่องหมายของความอ่อนแอ ผู้เข้มแข็งจะโอบรับธรรมชาติและน้อมรับสัญชาตญาณดั้งเดิม ร่างกายที่แข็งแรงดุจสัตว์ป่าและความดุร้ายเดือดดาล บาบาเรียนจะรู้สึกไม่ชอบเมื่อต้องอยู่หลังกำแพงหรือในหมู่ชน พวกเขารักอิสระในพงไพรบ้านเกิด พื้นที่หนาวเหน็บทางเหนือ ในป่าลึก หรือทุ่งหญ้าที่ชาวเผ่าของพวกเขาจะอาศัยอยู่และล่าสัตว์ได้
 
-บาบาเรียนจะมีชีวิตชีวาเมื่ออยู่ท่ามกลางสงครามการต่อสู้ พวกเขาสามารถเข้าสถานะบ้าคลั่งเมื่อความคลั่งเข้าครอบงำ ทำให้พวกเขามีพลังและความทนทานเหนือมนุษย์ บาบาเรียนจะสามารถดึงเอาพลังความคุ้มคลั่งออกมาใช้ได้ไม่กี่ครั้งเท่านั้นหากไม่ได้พัก แต่แค่ไม่กี่ครั้งก็มักจะเพียงพอในการจัดการภัยอันตรายที่ต้องต่อสู้ด้วย
+บาบาเรียนจะมีชีวิตชีวาเมื่ออยู่ท่ามกลางสงครามการต่อสู้ พวกเขาสามารถเข้าสถานะบ้าคลั่งเมื่อความคลั่งเข้าครอบงำ ทำให้พวกเขามีพลังและความทนทานเหนือมนุษย์ บาบาเรียนจะสามารถดึงเอาพลังความคลุ้มคลั่งออกมาใช้ได้ไม่กี่ครั้งเท่านั้นหากไม่ได้พัก แต่แค่ไม่กี่ครั้งก็มักจะเพียงพอในการจัดการภัยอันตรายที่ต้องต่อสู้ด้วย
 
 ## ชีวิตอันตราย A Life of Danger
 
-บาบาเรียนจะเป็นกำลังหลักในการปกป้องผู้คนของพวกเขาและเป็นผู้นำในช่วยเวลาที่มีสงคราม ชีวิตในดินแดนเถื่อนในโลกนี้เต็มไปด้วยตัวปัญหามากมาย ศัตรูของเผ่า อากาศที่โหดร้าย และมอนสเตอร์ที่น่ากลัว บาบาเรียนจะเป็นด่านหน้าเข้าต่อสู้กับอันตรายเสมอเพื่อไม่ให้ผู้คนของพวกเขาต้องเผชิญกับมัน
+บาบาเรียนจะเป็นกำลังหลักในการปกป้องผู้คนของพวกเขาและเป็นผู้นำในช่วงเวลาที่มีสงคราม ชีวิตในดินแดนเถื่อนในโลกนี้เต็มไปด้วยตัวปัญหามากมาย ศัตรูของเผ่า อากาศที่โหดร้าย และมอนสเตอร์ที่น่ากลัว บาบาเรียนจะเป็นด่านหน้าเข้าต่อสู้กับอันตรายเสมอเพื่อไม่ให้ผู้คนของพวกเขาต้องเผชิญกับมัน
 
 ความกล้าหาญในการเผชิญกับอันตรายทำให้บาบาเรียนเหมาะกับการออกผจญภัย การเร่ร่อนมักจะเป็นวิถีชีวิตของเผ่าของพวกเขาอยู่แล้ว และชีวิตที่ไร้สิ่งยึดติดของนักผจญภัยก็เหมาะกับบาบาเรียนเป็นอย่างมาก บาบาเรียนบางคนไม่ได้มีสายสัมพันธ์ที่ดีกับคนในเผ่านัก แต่ก็มักจะพบว่ามันชดเชยได้จากสายสัมพันธ์ของเพื่อนร่วมคณะผจญภัย
 
 ## การสร้างบาบาเรียน Creating a Barbarian
 
-ในการสร้างตัวละครบาบาเรียน ให้นึกถึงว่าตัวละครของคุณมาจากที่ไหนหรือเกิดที่ไหนในโลก ลองปรึกษา DM เกี่ยวกับจุดเริ่มต้นที่เหมาะสมของบาบาเรียนของคุณ มากจากดินแดนห่างไกลเลยทำให้เป็นคนแปลกหน้าในพื้นที่การผจญภัยหรือไม่ หรือแคมเปญที่จะเล่นมีพื้นที่อยู่ในบริเวณที่รกร้างที่มีบาบาเรียนอยู่กันเป็นปกติ
+ในการสร้างตัวละครบาบาเรียน ให้นึกถึงว่าตัวละครของคุณมาจากที่ไหนหรือเกิดที่ไหนในโลก ลองปรึกษา DM เกี่ยวกับจุดเริ่มต้นที่เหมาะสมของบาบาเรียนของคุณ มาจากดินแดนห่างไกลเลยทำให้เป็นคนแปลกหน้าในพื้นที่การผจญภัยหรือไม่ หรือแคมเปญที่จะเล่นมีพื้นที่อยู่ในบริเวณที่รกร้างที่มีบาบาเรียนอยู่กันเป็นปกติ
 
 อะไรที่นำให้คุณมาใช้ชีวิตเป็นนักผจญภัย คุณถูกล่อหลอกด้วยเงินทองความร่ำรวย? คุณเข้าร่วมกับกองกำลังเพื่อต่อต้านภัยอันตรายในพื้นที่ร่วมกันหรือ? มีมอนสเตอร์หรือกลุ่มสัตว์ประหลาดมารุกรานดินแดนบ้านเกิด จึงทำให้กลายเป็นผู้ลี้ภัย? หรือบางทีคุณอาจจะเป็นนักโทษสงคราม โดนจับล่ามมาจนถึงดินแดนนี้และสามารถหลุดรอดมาได้ หรือคุณอาจจะถูกเนรเทศโดยคนในเผ่าเพราะความผิดที่ทำลงไป ข้อห้ามที่คุณละเมิด หรือการกบฏที่ทำให้คุณหลุดจากตำแหน่งอำนาจที่เคยมี
 
@@ -40,8 +40,8 @@ menu: menu-basic-rules
 
 | เลเลว | โบนัสความชำนาญ <br/>(Proficiency Bonus) | ความสามารถ <br/>(Features)                                                           | จำนวนครั้งที่คลั่งได้ <br/>(Rages)     | ความเสียหายจากการคลั่ง |
 | ----- | --------------------- | ------------------------------------------------------------------ | --------- | --------------- |
-| 1st   | +2                    | [คุ้มคลั่ง (Rage)](#Rage), [การป้องกันแบบไร้เกราะ (Unarmored Defense)](#UnarmoredDefense)             | 2         | +2              |
-| 2nd   | +2                    | [โจมตีไม่ยั้ง (Reckless Attack)](#RecklessAttack), [สัมผัสถึงอันตราย (Danger Sense)](#DangerSense) | 2         | +2              |
+| 1st   | +2                    | [คลุ้มคลั่ง (Rage)](#Rage), [การป้องกันแบบไร้เกราะ (Unarmored Defense)](#UnarmoredDefense)             | 2         | +2              |
+| 2nd   | +2                    | [โจมตีแบบสุดตัว (Reckless Attack)](#RecklessAttack), [สัมผัสถึงอันตราย (Danger Sense)](#DangerSense) | 2         | +2              |
 | 3rd   | +2                    | [วิถีสัตว์ป่า (Primal Path)](#PrimalPath)                                        | 3         | +2              |
 | 4th   | +2                    | [เพิ่มคะแนนความสามารถ (Ability Score Improvement)](#AbilityScoreImprovement)            | 3         | +2              |
 | 5th   | +3                    | [โจมตีเพิ่มพิเศษ (Extra Attack)](#ExtraAttack), [เคลื่อนที่รวดเร็ว (Fast Movement)](#FastMovement)     | 3         | +2              |
@@ -50,11 +50,11 @@ menu: menu-basic-rules
 | 8th   | +3                    | [เพิ่มคะแนนความสามารถ (Ability Score Improvement)](#AbilityScoreImprovement)            | 4         | +2              |
 | 9th   | +4                    | [คริติคัลอย่างโหด (Brutal Critical)](#BrutalCritical) (1 die)                        | 4         | +3              |
 | 10th  | +4                    | [ความสามารถเพิ่มในวิถี (Path Feature)](#PathFeature)                                      | 4         | +3              |
-| 11th  | +4                    | [คุ้มคลั่งไร้ปราณี (Relentless Rage)](#RelentlessRage)                                | 4         | +3              |
+| 11th  | +4                    | [คลุ้มคลั่งทรหด (Relentless Rage)](#RelentlessRage)                                | 4         | +3              |
 | 12th  | +4                    | [เพิ่มคะแนนความสามารถ (Ability Score Improvement)](#AbilityScoreImprovement)            | 5         | +3              |
 | 13th  | +5                    | [คริติคัลอย่างโหด (Brutal Critical)](#BrutalCritical) (2 dice)                       | 5         | +3              |
 | 14th  | +5                    | [ความสามารถเพิ่มในวิถี (Path Feature)](#PathFeature)                                      | 5         | +3              |
-| 15th  | +5                    | [คุ้มคลั่งไร้ประมาณ (Persistent Rage)](#PersistentRage)                                | 5         | +3              |
+| 15th  | +5                    | [คลุ้มคลั่งไร้ประมาณ (Persistent Rage)](#PersistentRage)                                | 5         | +3              |
 | 16th  | +5                    | [เพิ่มคะแนนความสามารถ (Ability Score Improvement)](#AbilityScoreImprovement)            | 5         | +4              |
 | 17th  | +6                    | [คริติคัลอย่างโหด (Brutal Critical)](#BrutalCritical) (3 dice)                       | 6         | +4              |
 | 18th  | +6                    | [พลังไร้พ่าย (Indomitable Might)](#IndomitableMight)                            | 6         | +4              |
@@ -87,158 +87,158 @@ menu: menu-basic-rules
 
 **ทักษะ:** เลือก 2 ทักษะจาก [การจัดการสัตว์ (Animal Handling)](../../ch07-using-ability-scores#ทักษะการจัดการสัตว์-animal-handling), [กรีฑา (Athletics)](../../ch07-using-ability-scores#ทักษะทางกรีฑา-athletics), [การข่มขู่ (Intimidation)](../../ch07-using-ability-scores#ทักษะการข่มขู่-intimidation), [ธรรมชาติ (Nature)](../../ch07-using-ability-scores#ทักษะความรู้ทางธรรมชาติ-nature-เนเจอร์), [การหยั่งรู้ (Perception)](../../ch07-using-ability-scores#ทักษะการรับรู้-perception), และ [การเอาตัวรอด (Survival)](../../ch07-using-ability-scores#ทักษะการเอาตัวรอด-survival)
 
-### Equipment
+### อุปกรณ์ Equipment
 
-You start with the following equipment, in addition to the equipment granted by your background:
+คุณจะเริ่มเกมด้วยอุปกรณ์เหล่านี้เพิ่มเติมนอกเหนือจากที่ได้รับจากภูมิหลัง
 
-- (a) a [greataxe]() or (b) any martial melee weapon
-- (a) two [handaxes]() or (b) any simple weapon
-- An [explorer’s pack]() and four [javelins]()
+- ขวานใหญ่ (greataxe) หรือ อาวุธประชิดตัว (martial melee weapon) ใด ๆ หนึ่งชิ้น
+- ขวานมือ (handaxe) 2 เล่ม หรือ อาวุธเบื้องต้น (simple weapon)
+- ชุดของใช้นักสำรวจ (explorer's pack) และหอกซัด (javelin) 4 เล่ม
 
-### Rage {#Rage}
+### คลุ้มคลั่ง (Rage) {#Rage}
 
-In battle, you fight with primal ferocity. On your turn, you can enter a rage as a bonus action.
+ในการต่อสู้ คุณจะต่อสู้ด้วยความดุร้ายแบบสัตว์ป่า ในเทิร์นของคุณ คุณสามารถเข้าสู่สภาพวะคลุ้มคลั่งโดยใช้โบนัสแอ็คชัน
 
-While raging, you gain the following benefits if you aren’t wearing heavy armor:
+ในขณะคลุ้มคลั่ง คุณจะได้รับผลประโยชน์หากไม่ได้สวมใส่เกราะหนักดังนี้:
 
-- You have [advantage](../ch07-using-ability-scores#การทอยแบบได้เปรียบ-advantage-แอดแวนเทจ-และการทอยแบบเสียเปรียบ-disadvantage-ดิสแอดแวนเทจ) on Strength checks and Strength saving throws.
-- When you make a melee weapon attack using Strength, you gain a bonus to the damage roll that increases as you gain levels as a barbarian, as shown in the Rage Damage column of the Barbarian table.
-- You have resistance to bludgeoning, piercing, and slashing damage.
+- คุณจะได้ทอยเช็คความสามารถและทอยป้องกันด้านความแข็งแกร่งแบบ[ได้เปรียบ](../../ch07-using-ability-scores#advantage-disadvantage)
+- เมื่อคุณโจมตีด้วยอาวุธในระยะประชิดโดยใช้คะแนนความแข็งแกร่ง (strength) คุณจะได้รับโบนัสเมื่อทอยหาความเสียหายซึ่งจะเพิ่มขึ้นตามเลเวลของบาบาเรียน ดังที่แสดงไว้ในคอลัมน์ความเสียหายจากการคลั่ง 
+- คุณจะมีความต้านทาน (resistance) ความเสียหายแบบกระแทก (bludgeoning) แบบแทง (piercing) และแบบเฉือน (slashing)
 
-If you are able to cast spells, you can’t cast them or concentrate on them while raging.
+ถ้าคุณสามารถใช้คาถาได้ คุณจะร่ายคาถาไม่ได้หรือไม่สามารถเพ่งสมาธิในขณะคลุ้มคลั่ง
 
-Your rage lasts for 1 minute. It ends early if you are knocked [unconscious](../../appendice-a-condition#unconscious) or if your turn ends and you haven’t attacked a hostile creature since your last turn or taken damage since then. You can also end your rage on your turn as a bonus action.
+ความคลุ้มคลั่งของคุณจะคงอยู่ 1 นาที (10 ราวนด์) จะจบเร็วกว่านั้นหากคุณถูกน็อคจน[สลบ](../../appendice-a-condition#unconscious) (unconscious) หรือถ้าคุณจบเทิร์นและคุณไม่ได้โจมตีใครตั้งแต่เทิร์นที่แล้วหรือไม่ได้รับความเสียหายใด ๆ คุณสามารถจะจบความคลุ้มคลั่งได้โดยใช้โบนัสแอ็คชัน
 
-Once you have raged the number of times shown for your barbarian level in the Rages column of the Barbarian table, you must finish a long rest before you can rage again.
+เมื่อคุณใช้ความคลุ้มคลั่งไปเป็นจำนวนที่มีระบุในแต่ละเลเวลในคอลัมน์ "จำนวนครั้งที่คลุ้มคลั่งได้" แล้ว คุณต้องได้รับการพักผ่อนยาว (long rest) ก่อนถึงจะกลับมาใช้ได้อีก
 
-### Unarmored Defense {#UnarmoredDefense}
+### การป้องกันแบบไร้เกราะ (Unarmored Defense) {#UnarmoredDefense}
 
-While you are not wearing any armor, your Armor Class equals 10 + your Dexterity modifier + your Constitution modifier. You can use a shield and still gain this benefit.
+ขณะที่คุณไม่ได้ใส่เกราะใด ๆ อาเมอร์คลาส (AC) ของคุณจะเท่ากับ 10 + ค่าโมดิไฟเออร์ความคล่องแคล่ว (DEX modifier) + ค่าโมดิไฟเออร์ความอดทน (CON modifier) คุณจะสามารถใช้โล่ได้และยังได้รับผลประโยชน์นี้
 
-### Reckless Attack {#RecklessAttack}
+### โจมตีแบบสุดตัว (Reckless Attack) {#RecklessAttack}
 
-Starting at 2nd level, you can throw aside all concern for defense to attack with fierce desperation. When you make your first attack on your turn, you can decide to attack recklessly. Doing so gives you [advantage](../ch07-using-ability-scores#การทอยแบบได้เปรียบ-advantage-แอดแวนเทจ-และการทอยแบบเสียเปรียบ-disadvantage-ดิสแอดแวนเทจ) on melee weapon attack rolls using Strength during this turn, but attack rolls against you have [advantage](../ch07-using-ability-scores#การทอยแบบได้เปรียบ-advantage-แอดแวนเทจ-และการทอยแบบเสียเปรียบ-disadvantage-ดิสแอดแวนเทจ) until your next turn.
+เริ่มที่เลเวล 2 คุณสามารถเลิกคิดเกี่ยวกับการป้องกันแล้วทุ่มสุดตัวไปกับการโจมตีได้ เมื่อคุณทำการโจมตีครั้งแรกในเทิร์นของคุณ คุณสามารถเลือกได้ว่าจะโจมตีแบบทุ่มสุดตัว โดยคุณจะได้ทอยโจมตีแบบ[ได้เปรียบ](../../ch07-using-ability-scores#advantage-disadvantage)โดยใช้อาวุธประชิดตัวโดยใช้คะแนนความแข็งแกร่ง (Strength) ในเทิร์นนี้ แต่การทอยโจมตีที่จะโจมตีคุณจะเป็นการทอยแบบ[ได้เปรียบ](../../ch07-using-ability-scores#advantage-disadvantage)จนกว่าจะถึงเทิร์นถัดไปของคุณ
 
-### Danger Sense {#DangerSense}
+### สัมผัสถึงอันตราย (Danger Sense) {#DangerSense}
 
-At 2nd level, you gain an uncanny sense of when things nearby aren’t as they should be, giving you an edge when you dodge away from danger.
+เริ่มที่เลเวล 2 คุณจะมีสัมผัสเฉียบคมถึงสิ่งที่อยู่รอบตัวที่ไม่น่าจะอยู่ตรงนั้น ทำให้คุณสามารถหลบหลีกจากอันตรายได้อย่างฉิวเฉียด
 
-You have [advantage](../ch07-using-ability-scores#การทอยแบบได้เปรียบ-advantage-แอดแวนเทจ-และการทอยแบบเสียเปรียบ-disadvantage-ดิสแอดแวนเทจ) on Dexterity saving throws against effects that you can see, such as traps and spells. To gain this benefit, you can’t be [blinded](), [deafened](), or [incapacitated]().
+คุณจะได้ทอยป้องกันด้วยคะแนนความคล่องแคล่ว (Dexterity saving throws) แบบ[ได้เปรียบ](../../ch07-using-ability-scores#advantage-disadvantage) เมื่อคุณต้องเจอกับกับดักและคาถา แต่ในการได้ผลประโยชน์นี้คคุณต้องไม่อยู่ในสถานะ[มืดบอด](../../appendice-a-condition#blinded) (blinded) [หูหนวก](../../appendice-a-condition#deafened) (deafened) หรือ[ไร้ความสามารถ](../../appendice-a-condition#incapacitated) (incapacitated)
 
-### Primal Path {#PrimalPath}
+### วิถีสัตว์ป่า (Primal Path) {#PrimalPath}
 
-At 3rd level, you choose a path that shapes the nature of your rage. Choose the [Path of the Berserker](#PathoftheBerserker) or the [Path of the Totem Warrior](#PathoftheTotemWarrior), both detailed at the end of the class description. Your choice grants you features at 3rd level and again at 6th, 10th, and 14th levels.
+เมื่อถึงเลเวล 3 คุณจะได้เลือกวิถีที่จะระบุธรรมชาติของความคลุ้มคลั่งของคุณ เลือก "[วิถีแห่งเบอเซิร์กเกอร์](#PathoftheBerserker)" หรือ "[วิถีนักรบโทเทม](#PathoftheTotemWarrior)" ทั้งสองมีรายละเอียดอยู่ด้านล่าง สิ่งที่เลือกจะให้ความสามารถเพิ่มเมื่อเลเวล 3 และอีกครั้งเมื่อเลเวล 6, 10 และ 14
 
-### Ability Score Improvement {#AbilityScoreImprovement}
+### เพิ่มคะแนนความสามารถ (Ability Score Improvement) {#AbilityScoreImprovement}
 
-When you reach 4th level, and again at 8th, 12th, 16th, and 19th level, you can increase one ability score of your choice by 2, or you can increase two ability scores of your choice by 1. As normal, you can’t increase an ability score above 20 using this feature.
+เมื่อถึงเลเวล 4 และอีกครั้งเมื่อเลเวล 8, 12, 16 และ 19 คุณจะสามารถเพิ่มคะแนนความสามารถตามที่คุณเลือกได้ 2 คะแนน หรืออาจจะเลือกเพิ่มความสามารถ 2 อย่าง อย่างละ 1 คะแนนก็ได้ โดยปกติแล้วคุณจะไม่สามารถเพิ่มคะแนนความสามารถใด ๆ ได้เกิน 20 เมื่อใช้ฟีเจอร์นี้
 
-### Extra Attack {#ExtraAttack}
+### โจมตีเพิ่มพิเศษ (Extra Attack) {#ExtraAttack}
 
-Beginning at 5th level, you can attack twice, instead of once, whenever you take the [Attack]() action on your turn.
+เริ่มที่เลเวล 5 คุณสามารถโจมตีได้ 2 ครั้งแทนที่จะเป็นครั้งเดียวในการใช้แอ็คชัน[โจมตี](../../ch09-combat#attack) ในเทิร์นของคุณ
 
-### Fast Movement {#FastMovement}
+### เคลื่อนที่รวดเร็ว (Fast Movement) {#FastMovement}
 
-Starting at 5th level, your speed increases by 10 feet while you aren’t wearing heavy armor.
+เริ่มที่เลเวล 5 ความเร็วของคุณจะเพิ่มขึ้น 10 ฟุต เมื่อคุณไม่ได้สวมใส่เกราะหนัก
 
-### Feral Instinct {#FeralInstinct}
+### สัญขาตญาณสัตว์ป่า (Feral Instinct) {#FeralInstinct}
 
-By 7th level, your instincts are so honed that you have advantage on initiative rolls.
+เมื่อเลเวล 7 สัญชาตญาณของคุณจะเฉียบคมมากทำให้คุณได้ทอยจัดลำดับต่อสู้แบบได้เปรียบ (initiative roll)
 
-Additionally, if you are surprised at the beginning of combat and aren’t [incapacitated](), you can act normally on your first turn, but only if you enter your rage before doing anything else on that turn.
+ยิ่งกว่านั้น ถ้าคุณตกใจในช่วงเริ่มต้นการต่อสู้และไม่ติดสถานะ[ไร้ความสามารถ](../../appendice-a-condition#incapacitated) (incapacitated) คุณสามารถทำเป็นปกติได้ในเทิร์นแรกของคุณเพียงแต่คุณต้องเข้าสถานะคลุ้มคลั่งก่อนที่จะทำอะไรในเทิร์นนั้น
 
-### Brutal Critical {#BrutalCritical}
+### คริติคัลอย่างโหด (Brutal Critical) {#BrutalCritical}
 
-Beginning at 9th level, you can roll one additional weapon damage die when determining the extra damage for a critical hit with a melee attack.
+เริ่มที่เลเวล 9 คุณสามารถเพิ่มลูกเต๋าอีก 1 ลูกในการทอยความเสียหายเมื่อต้องทอยเวลาได้โจมตีแบบคริติคัลในการโจมตีประชิดตัว
 
-This increases to two additional dice at 13th level and three additional dice at 17th level.
+คุณจะเพิ่มได้ 2 ลูกเมื่อเลเวล 13 และ 3 ลูกเมื่อเลเวล 17
 
-### Relentless Rage {#RelentlessRage}
+### คลุ้มคลั่งทรหด (Relentless Rage) {#RelentlessRage}
 
-Starting at 11th level, your rage can keep you fighting despite grievous wounds. If you drop to 0 hit points while you’re raging and don’t die outright, you can make a DC 10 Constitution saving throw. If you succeed, you drop to 1 hit point instead.
+เริ่มที่เลเวล 11 ความคลุ้มคลั่งของคุณจะทำให้คุณยังต่อสู้ต่อไปได้แม้ว่าจะได้รับบาดเจ็บรุนแรง ถ้าคุณเลือดลดจนเป็น 0 ในขณะที่อยู่ในสถานะคลุ้มคลั่งและไม่ได้ตายในทันที คุณสามารถทอยป้องกันด้วยความอดทน (CON saving) ระดับความยาก (DC) 10 ถ้าทอยผ่านเลือดคุณจะเป็น 1
 
-Each time you use this feature after the first, the DC increases by 5. When you finish a short or long rest, the DC resets to 10.
+ในแต่ละครั้งที่คุณใช้ความสามารถนี้หลังจากใช้ไปแล้วครั้งแรก DC จะเพิ่มขึ้นทีละ 5 เมื่อคุณพักแบบสั้นหรือแบบยาวเสร็จ DC จะกลับมาเป็น 10
 
-### Persistent Rage {#PersistentRage}
+### คลุ้มคลั่งไร้ประมาณ (Persistent Rage) {#PersistentRage}
 
-Beginning at 15th level, your rage is so fierce that it ends early only if you fall [unconscious]() or if you choose to end it.
+เริ่มที่เลเวล 15 ความคุ้มคลั่งของคุณมันรุนแรงจนมันจะจบได้ก็ต่อเมื่อคุณ[สลบ](../../appendice-a-condition#unconcious)หรือคุณเลือกจากจบเท่านั้น
 
-### Indomitable Might {#IndomitableMight}
+### พลังไร้พ่าย (Indomitable Might) {#IndomitableMight}
 
-Beginning at 18th level, if your total for a Strength check is less than your Strength score, you can use that score in place of the total.
+เริ่มที่เลเวล 18 ถ้าผลจากการทอยทดสอบความแข็งแกร่งออกมาได้ค่าน้อยกว่าคะแนนความแข็งแกร่งของคุณ คุณสามารถใช้คะแนนความแข็งแกร่งแทนได้เลย
 
-### Primal Champion {#PrimalChampion}
+### แชมเปียนแห่งสัตว์ป่า (Primal Champion) {#PrimalChampion}
 
-At 20th level, you embody the power of the wilds. Your Strength and Constitution scores increase by 4. Your maximum for those scores is now 24.
+เมื่อเลเวล 20 คุณสวมวิญญาณสัตว์ป่า คะแนนความแข็งแกร่ง (STR) และความอดทน (CON) ของคุณจะเพิ่มขึ้นอีก 4 ค่าสูงสุดของคะแนนทั้งสองจะเป็น 24
 
-## Primal Paths {#PrimalPaths}
+## วิถีสัตว์ป่า (Primal Paths) {#PrimalPaths}
 
-Rage burns in every barbarian’s heart, a furnace that drives him or her toward greatness. Different barbarians attribute their rage to different sources, however. For some, it is an internal reservoir where pain, grief, and anger are forged into a fury hard as steel. Others see it as a spiritual blessing, a gift of a totem animal.
+ความคลุ้มคลั่งลุกโชนอยู่ในหัวใจของบาบาเรียนทุกคน เป็นเตาหลอมที่ผลักดันให้เขาหรือเธอมุ่งไปข้างหน้า ต่างคนต่างมีแหล่งกำเนิดความเกรี้ยวกราดต่างกันไป อย่างไรก็ตาม บางคนมันออกมาจากข้างในจากความเจ็บปวด ความคับแค้นและความโกรธที่หล่อหลอมให้ความเดือดดาลแข็งแกร่งดั่งเหล็กกล้า บางคนก็มองว่าเป็นพรจากวิญญาณ เป็นของขวัญจากเหล่าสรรพสัตว์
 
-### Path of the Berserker {#PathoftheBerserker}
+### วิถีแห่งคนคลั่งเบอร์เซิร์กเกอร์ (Path of the Berserker) {#PathoftheBerserker}
 
-For some barbarians, rage is a means to an end — that end being violence. The Path of the Berserker is a path of untrammeled fury, slick with blood. As you enter the berserker’s rage, you thrill in the chaos of battle, heedless of your own health or well-being.
+ในบาบาเรียนบางคน ความคลุ้มคลั่งคือหนทางสู่จุดจบ - ซึ่งจุดจบคือความรุนแรง วิถีแห่งคนคลั่งเบอร์เซิร์กเกอร์เป็นเส้นทางแห่งความโกรธเกรี้ยวที่ไร้จุดจบ ฉาบไปด้วยเลือด เมื่อคุณเข้าสู่สภาวะคลุ้มคลั่งคุณจะตื่นเต้นกับความสับสนวุ่นวายในการต่อสู้ โดยไม่ใส่ใจชีวิตของตัวเอง
 
-#### Frenzy {#Frenzy}
+#### ความบ้าระห่ำ (Frenzy) {#Frenzy}
 
-Starting when you choose this path at 3rd level, you can go into a frenzy when you rage. If you do so, for the duration of your rage you can make a single melee weapon attack as a bonus action on each of your turns after this one. When your rage ends, you suffer one level of [exhaustion]() (as described in [appendix A]).
+เริ่มต้นเมื่อคุณเลือกวิถีนี้เมื่อเลเวล 3 คุณสามารถเข้าสภาวะบ้าระห่ำเมื่อคุณคลุ้มคลั่ง เมื่อคุณเข้าสภาวะนี้ ในช่วงที่คลุ้มคลั่ง คุณสามารถใช้โบนัสแอ็คชันในการโจมตีด้วยอาวุธประชิดตัวในแต่ละเทิร์นของคุณหลังจากเทิร์นนี้ เมื่อความคลุ้มคลั่งจบลง คุณจะติดสภาวะ[เหนื่อยล้า](../../appendice-a-condition#exhaustion) (exhaustion) 1 ระดับ
 
-#### Mindless Rage {#MindlessRage}
+#### คลุ้มคลั่งไร้ใจ (Mindless Rage) {#MindlessRage}
 
-Beginning at 6th level, you can’t be [charmed]() or [frightened]() while raging. If you are [charmed]() or [frightened]() when you enter your rage, the effect is suspended for the duration of the rage.
+เริ่มที่เลเวล 6 คุณจะไม่ติดสถานะ[หลงใหล](../../appendice-a-condition#charmed) (charmed) หรือ[ตื่นกลัว](../../appendice-a-condition#frightened) (frightened) เมื่ออยู่ในสภาวะคลุ้มคลั่ง ถ้าคุณติดสถานะ[หลงใหล](../../appendice-a-condition#charmed) (charmed) หรือ[ตื่นกลัว](../../appendice-a-condition#frightened) (frightened) ก่อนเขาสภาวะคลุ้มคลั่ง ผลเหล่านั้นจะถูกหยุดไว้ในระหว่างคลุ้มคลั่ง
 
-#### Intimidating Presence {#IntimidatingPresence}
+#### การปรากฏตัวอย่างน่าเกรงขาม (Intimidating Presence) {#IntimidatingPresence}
 
-Beginning at 10th level, you can use your action to frighten someone with your menacing presence. When you do so, choose one creature that you can see within 30 feet of you. If the creature can see or hear you, it must succeed on a Wisdom saving throw (DC equal to 8 + your proficiency bonus + your Charisma modifier) or be [frightened]() of you until the end of your next turn. On subsequent turns, you can use your action to extend the duration of this effect on the [frightened]() creature until the end of your next turn. This effect ends if the creature ends its turn out of line of sight or more than 60 feet away from you.
+เริ่มที่เลเวล 10 คุณสามารถใช้แอ็คชันในการทำให้ใครสักคนกลัวจากรูปลักษณ์ที่น่าเกรงขามของคุณ เมื่อคุณทำดังนั้น เลือกสิ่งมีชีวิตหนึ่งที่คุณสามารถมองเห็นได้ในระยะ 30 ฟุต ถ้าสิ่งมีชีวิตนั้นสามารถมองเห็นหรือได้ยินคุณ มันต้องทอยป้องกันเสน่ห์ (Wisdom saving throw) ให้ผ่าน โดยระดับความยาก (DC) เท่ากับ 8 + โบนัสความเชี่ยวชาญของคุณ + ค่าโมดิไฟเออร์คะแนนเสน่ห์ (Wisdom modifier) หรือต้องติดสภาวะ[ตื่นกลัว](../../appendice-a-condition#frightened) (frightened) จนถึงสิ้นสุดเทิร์นต่อไปของคุณ ในเทิร์นต่อไป คุณสามารถใช้แอ็คชันในการยืดระยะเวลาของสภาวะ[ตื่นกลัว](../../appendice-a-condition#frightened)ออกไปได้จนถึงสิ้นสุดเทิร์นต่อไป ผลกระทบนี้จะจบลงหากสิ่งมีชีวิตจบเทิร์นของตนโดยออกจากเส้นทางการมองเห็นหรืออยู่ห่างจากคุณเกิน 60 ฟุต
 
-If the creature succeeds on its saving throw, you can’t use this feature on that creature again for 24 hours.
+ถ้าสิ่งมีชีวิตทอยป้องกันผ่าน คุณจะไม่สามารถใช้ความสามารถนี้กับสิ่งมีชีวิตนั้นได้อีกเป็นระยะเวลา 24 ชม.
 
-#### Retaliation {#Retaliation}
+#### ตอบโต้ทันควัน (Retaliation) {#Retaliation}
 
-Starting at 14th level, when you take damage from a creature that is within 5 feet of you, you can use your reaction to make a melee weapon attack against that creature.
+เริ่มที่เลเวล 14 เมื่อคุณได้รับความเสียหายจากสิ่งมีชีวิตที่อยู่ในระยะ 5 ฟุตของคุณ คุณสามารถใช้รีแอ็คชันในการโจมตีกลับสิ่งมีชีวิตนั้นด้วยอาวุธประชิดตัว
 
-### Path of the Totem Warrior {#PathoftheTotemWarrior}
+### วิถีนักรบโทเทม (Path of the Totem Warrior) {#PathoftheTotemWarrior}
 
-The Path of the Totem Warrior is a spiritual journey, as the barbarian accepts a spirit animal as guide, protector, and inspiration. In battle, your totem spirit fills you with supernatural might, adding magical fuel to your barbarian rage.
+วิถีแห่งนักรบโทเทมเป็นเส้นทางสายจิตวิญญาณ เมื่อบาบาเรียนได้รับเอาวิญญาณสรรพสัตว์มาเป็นผู้นำทาง ผู้ปกป้องและแรงบันดาลใจ ในการต่อสู้ สัญลักษณ์โทเทมวิญญาณจะมอบพลังเหนือมนุษย์ให้ เพิ่มพลังทางเวทย์มนต์ให้กับความคลุ้มคลั่งของคุณ
 
-In some barbarians’ tribes, a totem animal is considered to be kin to a particular clan. In such cases, it is unusual for an individual to have more than one totem animal spirit, though exceptions exist.
+ในเผ่าของบาบาเรียน โทเทมสัตว์ถือเป็นสัญลักษณ์เฉพาะของแต่ละเผ่า ดังนั้นหากใครมีโทเทมมากกว่าหนึ่งจะถือเป็นเรื่องแปลก แต่ก็ใช่ว่าจะไม่มี
 
-#### Spirit Seeker {#SpiritSeeker}
+#### ผู้ตามหาวิญญาณ (Spirit Seeker) {#SpiritSeeker}
 
-Yours is a path that seeks attunement with the natural world, giving you a kinship with beasts. At 3rd level when you adopt this path, you gain the ability to cast the [beast sense]() and [speak with animals]() spells, but only as rituals, as described in chapter 10, “[Spellcasting]().”
+เส้นทางของคุณคือการรวมผสานกับโลกของธรรมชาติ ทำให้คุณเป็นพวกพ้องกับเหล่าสัตว์ ที่เลเวล 3 เมื่อคุณเลือกวิถีนี้ คุณจะได้รับความสามารถในการใช้คาถา [สัมผัสแห่งสัตว์ป่า bease sense](../../ch11-spells#beast-sense) และ [คุยกับเหล่าสัตว์ speak with animals](../../ch11-spells#speak-with-animals) แต่จะทำได้โดยผ่านพิธีกรรมเท่านั้น มีอธิบายในบนที่ 10 "[การใช้เวทย์มนต์คาถา](../../ch10-spellcasting)"
 
-#### Totem Spirit {#TotemSpirit}
+#### โทเทมวิญญาณ (Totem Spirit) {#TotemSpirit}
 
-At 3rd level, when you adopt this path, you choose a totem spirit and gain its feature. You must make or acquire a physical totem object — an amulet or similar adornment — that incorporates fur or feathers, claws, teeth, or bones of the totem animal. At your option, you also gain minor physical attributes that are reminiscent of your totem spirit. For example, if you have a bear totem spirit, you might be unusually hairy and thick-skinned, or if your totem is the eagle, your eyes turn bright yellow.
+ที่เลเวล 3 เมื่อคุณเลือกวิถีนี้ คุณจะได้เลือกโทเทมวิญญาณและได้รับความสามารถจากมัน คุณต้องสร้างหรือไปหาโทเทมที่เป็นวัตถุจริงให้ได้ก่อน เป็นเครืองรางหรือเครื่องประดับที่คล้ายกัน ที่มีส่วนประกอบเป็นขนสัตว์หรือขนนก, กรงเล็บ, เขี้ยว, หรือกระดูกของสัตว์ที่จะเป็นวิญญาณของโทเทม คุณสามารถเลือกได้ว่าคคุณจะได้รับผลทางกายภาพพิเศษเล็กน้อยจากการเชื่อมต่อกับโทเทมนี้ ตัวอย่างเช่น ถ้าคุณมีโทเทมวิญญาณหมี คุณอาจจะมีขนดกหรือมีผิวหนังหนา หรือถ้าโทเทมเป็นนกอินทรี ดวงตาคุณจะมีสีเหลืองแวววาว
 
-Your totem animal might be an animal related to those listed here but more appropriate to your homeland. For example, you could choose a hawk or vulture in place of an eagle.
+สัตว์โทเทมของคุณอาจจะเป็นสัตว์ที่มีในลิสด้านล่างแต่อาจจะเหมาะสมกว่าหากเป็นสัตว์จากพื้นที่บ้านเกิดของคุณ ตัวอย่างเช่นคุณอาจจะเลือกเป็นเหยี่ยวหรือนกแร้งแทนที่นกอินทรี
 
-**_Bear._** While raging, you have resistance to all damage except psychic damage. The spirit of the bear makes you tough enough to stand up to any punishment.
+**_หมี_** เมื่อคลุ้มคลั่ง คุณจะมีความต้านทาน (resistance) ต่อความเสียหายทั้งหมดยกเว้นความเสียหายทางจิต วิญญาณหมีทำให้คุณอึดถึกต่อความเสียหายทั้งมวล
 
-**_Eagle._** While you’re raging, other creatures have [disadvantage]() on opportunity attack rolls against you, and you can use the Dash action as a bonus action on your turn. The spirit of the eagle makes you into a predator who can weave through the fray with ease.
+**_นกอินทรี_** เมื่อคุณคลุ้มคลั่ง สิ่งมีชีวิตอื่นจะต้องทอยแบบ[เสียเปรียบ](../../ch07-using-ability-scores#advantage-disadvantage)เมื่อจะทอยโจมตีคุณแบบสบโอกาส (opportunity attack) และคุณสามารถใช้แอ็คชัน แดช ด้วยโบนัสแอ็คชันในเทิร์นของคุณ วิญญาณของนกอินทรีทำให้คุณเป็นสัตว์นักล่าที่เคลื่อนที่อย่างพริ้วไหวในการโจมตีเหยื่อ
 
-**_Wolf._** While you’re raging, your friends have [advantage]() on melee attack rolls against any creature within 5 feet of you that is hostile to you. The spirit of the wolf makes you a leader of hunters.
+**_หมาป่า_** เมื่อคลุ้มคลั่ง เพื่อนของคุณจะได้ทอยโจมตีประชิดตัวแบบ[ได้เปรียบ](../../ch07-using-ability-scores#advantage-disadvantage)ต่อศัตรูที่อยู่ในระยะ 5 ฟุตของคุณ วิญญาณหมาป่าทำให้คุณเป็นผู้นำในกลุ่มล่า
 
-#### Aspect of the Beast {#AspectoftheBeast}
+#### ภาพสะท้อนของสัตว์ป่า (Aspect of the Beast) {#AspectoftheBeast}
 
-At 6th level, you gain a magical benefit based on the totem animal of your choice. You can choose the same animal you selected at 3rd level or a different one.
+เมื่อเลเวล 6 คุณจะได้รับผลประโยชน์ทางเวทย์มนต์ตามโทเทมสัตว์ที่คุณเลือก คุณสามารถเลือกสัตว์ชนิดเดิมที่เลือกตั้งแต่เลเวล 3 หรือจะเปลี่ยนก็ได้
 
-**_Bear._** You gain the might of a bear. Your carrying capacity (including maximum load and maximum lift) is doubled, and you have [advantage]() on Strength checks made to push, pull, lift, or break objects.
+**_หมี_** คุณได้รับพลังของหมี น้ำหนักของที่คุณสามารถแบกได้จะเพิ่มเป็น 2 เท่า และคุณจะได้ทอยทดสอบความแข็งแกร่ง (STR check) แบบ[ได้เปรียบ](../../ch07-using-ability-scores#advantage-disadvantage) (advantage) เมื่อต้องทดสอบการดัน ดึง ยก หรือทำลายข้าวของ
 
-**_Eagle._** You gain the eyesight of an eagle. You can see up to 1 mile away with no difficulty, able to discern even fine details as though looking at something no more than 100 feet away from you. Additionally, dim light doesn’t impose disadvantage on your Wisdom ([Perception]()) checks.
+**_นกอินทรี_** คุณจะได้รับสายตาของนกอินทรี คุณสามารถมองเห็นได้ชัดเจนในระยะ 1 ไมล์ สามารถแยกแยะรายละเอียดเล็กน้อยได้เมื่อมองดูสิ่งที่อยู่ในระยะ 100 ฟุตจากตำแหน่งของคุณ ยิ่งกว่านั้น ภาวะแสงน้อย (dim light) จะไม่ทำให้เกิดความ[เสียเปรียบ](../../ch07-using-ability-scores#advantage-disadvantage) (disadvantage) เมื่อคุณต้องทอยเช็คทักษะการรับรู้ (Perception check)
 
-**_Wolf._** You gain the hunting sensibilities of a wolf. You can track other creatures while traveling at a fast pace, and you can move stealthily while traveling at a normal pace (see chapter 8, [“Adventuring](),” for rules on travel pace).
+**_หมาป่า_** คุณได้ประสาทสัมผัสในการล่าของหมาป่า่ คุณสามารถตามรอยสัตว์ในขณะเดินทางด้วยความเร็วสูง (fast pace) และคุณสามารถซ่อนตัว (stealth) ในขณะเดินทางด้วยความเร็วปกติ (ดูบทที่ 8 "[การผจญภัย](../../ch08-adventuring)" สำหรับกฏในการเดินทาง)
 
-#### Spirit Walker {#SpiritWalker}
+#### ถอดจิต (Spirit Walker) {#SpiritWalker}
 
-At 10th level, you can cast the [commune with nature]() spell, but only as a ritual. When you do so, a spiritual version of one of the animals you chose for Totem Spirit or Aspect of the Beast appears to you to convey the information you seek.
+ที่เลเวล 10 คุณสามารถใช้คาถา "[สื่อสารกับธรรมชาติ](../../ch11-spells#commune-with-nature)" (commune with nature) แต่ต้องใช้ผ่านพิธีกรรมเท่านั้น เมื่อคุณถอดจิต ร่างวิญญาณของสัตว์โทเทมที่คุณเลือกจะปรากฏตัวต่อหน้าคุณเพื่อตอบคำถามที่คุณสงสัย
 
-#### Totemic Attunement {#TotemicAttunement}
+#### การเชื่อมประสานกับโทเทม (Totemic Attunement) {#TotemicAttunement}
 
-At 14th level, you gain a magical benefit based on a totem animal of your choice. You can choose the same animal you selected previously or a different one.
+ที่เลเวล 14 คุณจะได้รับผลพิเศษทางเวทย์มนต์จากโทเทมวิญญาณที่คุณเลือก คุณสามารถเลือกสัตว์ชนิดเดิมที่เลือกไว้หรือจะเปลี่ยนก็ได้
 
-**_Bear._** While you’re raging, any creature within 5 feet of you that’s hostile to you has [disadvantage]() on attack rolls against targets other than you or another character with this feature. An enemy is immune to this effect if it can’t see or hear you or if it can’t be [frightened]().
+**_หมี_** เมื่อคุณคลุ้มคลั่ง ศัตรูที่อยู่ในระยะ 5 ฟุตของคุณจะต้องทอยโจมตีแบบเสียเปรียบเมื่อโจมตีเป้าหมายอื่นนอกเหนือจากคุณหรือตัวละครอื่นที่มีความสามารถนี้ ศัตรูจะไม่ได้รับผลนี้ (immune) ถ้ามันไม่สามารถมองเห็นหรือได้ยินคุณหรือมันไม่สามารถจะถูกทำให้[ตื่นกลัว](../../appendice-a-condition#frightened)ได้
 
-**_Eagle._** While raging, you have a [flying]() speed equal to your current walking speed. This benefit works only in short bursts; you fall if you end your turn in the air and nothing else is holding you aloft.
+**_นกอินทรี_** เมื่อคุณคลุ้มคลั่ง คุณสามารถจะบินได้ด้วยความเร็วเท่ากับการเดินปกติ ผลพิเศษนี้จะอยู่ได้ชั่วคราว คุณจะตกลงมาถ้าคุณจบเทิร์นเมื่ออยู่ในอากาศและไม่มีสิ่งใดทำให้คุณลอยอยู่ได้
 
-**_Wolf._** While you’re raging, you can use a bonus action on your turn to knock a Large or smaller creature [prone]() when you hit it with melee weapon attack.
+**_หมาป่า_** เมื่อคุณคลุ้มคลั่ง คุณสามารถใช้โบนัสแอ็คชันในเทิร์นของคุณในการน็อคสิ่งมีชีวิตขนาดใหญ่ (Large) หรือที่ขนาดเล็กกว่า ให้นอนลงพื้น (prone) ได้ เมื่อคุณโจมตีมันด้วยอาวุธประชิดตัว
