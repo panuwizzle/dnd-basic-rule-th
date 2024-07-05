@@ -4,14 +4,18 @@
   icon: fa fa-home
   child: 
   
-- name: books
-  title: Books
-  url: /books/
+- name: sources
+  title: Sources
+  url: /sources/
   icon: fa fa-book
   child: 
     - name: basic-rules
       title: Basic Rules
       url: /basic-rules/introduction/
+      icon: fa fa-book
+    - name: sage-advice-compendium
+      title: Sage Advice Compendium
+      url: /sage-advice-compendium/
       icon: fa fa-book
 
 - name: adventures
