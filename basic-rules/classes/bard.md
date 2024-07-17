@@ -33,7 +33,6 @@ menu: menu-basic-rules
 
 ### สร้างอย่างเร็ว (Quick Build)
 
-You can make a bard quickly by following these suggestions. First, Charisma should be your highest ability score, followed by Dexterity. Second, choose the entertainer background. Third, choose the [dancing lights]() and [vicious mockery]() cantrips, along with the following 1st-level spells: [charm person](), [detect magic](), [healing word](), and [thunderwave]().
 คุณสามารถสร้างบาร์ดได้อย่างรวดเร็วโดยทำตามคำแนะนำดังนี้ อย่างแรก คะแนนเสน่ห์ (Charisma) ควรเป็นคะแนนความสามารถที่สูงที่สุด ตามมาด้วยความคล่องแคล่ว (Dexterity) อย่างที่สอง เลือกภูมิหลังเป็นผู้ให้ความบันเทิง (entertainer background) อย่างที่สาม เลือกใช้แคนทริป [ระบำแสง (dancing lights)]() และ [วิเชียสม็อคเคอรี่ (vicious mockery)]() ร่วมกับคาถาเลเวล 1 อย่าง [คาถามหาเสน่ห์ (charm person)](), [ค้นหารอยเวทย์ (detect magic)](), [วาจาสมานแผล (healing word)]() และ [คลื่นเสียงฟ้าคะนอง (thunderwave)]()
 
 | เลเวล | โบนัสความชำนาญ <br/>(Proficiency Bonus) | ความสามารถ <br/>(Features) | แคนทริปที่รู้จัก | คาถาที่รู้จัก | | | |สล็อตคาถา | ต่อ |เลเวลของคาถา | | | |
