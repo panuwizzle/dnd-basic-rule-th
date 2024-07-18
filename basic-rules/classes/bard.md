@@ -109,23 +109,23 @@ menu: menu-basic-rules
 
 ### คาถาที่รู้จักตั้งแต่เลเวล 1 และที่สูงกว่า
 
-You know four 1st-level spells of your choice from the bard spell list.
+คุณจะรู้คาถาเลเวล 1 จำนวน 4 คาถาเลือกได้อิสระจากรายการคาถาบาร์ด
 
-The Spells Known column of the Bard table shows when you learn more bard spells of your choice. Each of these spells must be of a level for which you have spell slots, as shown on the table. For instance, when you reach 3rd level in this class, you can learn one new spell of 1st or 2nd level.
+คอลัมภ์คาถาที่รู้จักจากตารางด้านบนจะบอกว่าเมื่อไรคุณถึงจะเรียนรู้คาถาได้มากขึ้น คาถาเหล่านี้ต้องการสล็อตคาถาในเลเวลเดียวกันอย่างที่แสดงในตาราง ตัวอย่างเช่น เมื่อคุณถึงเลเวล 3 ในคลาสนี้ คุณสามารถเรียนรู้คาถาใหม่จากคาถาเลเวล 1 และเลเวล 2 ได้
 
-Additionally, when you gain a level in this class, you can choose one of the bard spells you know and replace it with another spell from the bard spell list, which also must be of a level for which you have spell slots.
+นอกจากนั้น เมื่อคุณเลื่อนเลเวลในคลาสนี้ คุณจะสามารถเลือกหนึ่งในคาถาบาร์ดที่คุณรู้และแทนที่ด้วยคาถาใหม่ ซึ่งต้องเป็นเลเวลเดียวกับสล็อตคาถาที่คุณมี
 
-### Spellcasting Ability
+### คะแนนความสามารถที่ใช้ในการร่ายคาถา (Spellcasting Ability)
 
-Charisma is your spellcasting ability for your bard spells. Your magic comes from the heart and soul you pour into the performance of your music or oration. You use your Charisma whenever a spell refers to your spellcasting ability. In addition, you use your Charisma modifier when setting the saving throw DC for a bard spell you cast and when making an attack roll with one.
+เสน่ห์ (Charisma) เป็นความสามารถที่ใช้ในการร่ายคาถาบาร์ด เวทย์มนต์ของคุณมาจากหัวใจและวิญญาณที่คุณใส่ลงไปในการแสดงดนตรีหรือการขับร้องของคุณ คุณจะใช้เสน่ห์ของคุณเมื่อไรก็ตามที่คาถาต้องใช้ค่าความสามารถในการร่าย นอกจากนี้ คุณจะใช้ค่าโมดิไฟเออร์ของเสน่ห์ (Charisma modifier) เมื่อต้องกำหนดค่าความยากในการทอยป้องกัน (saving throw DC) สำหรับคาถาบาร์ดที่คุณใช้และเมื่อใช้คาถาที่ต้องทอยโจมตี
 
-**Spell save DC** = 8 + your proficiency bonus + your Charisma modifier
+**ค่าความยากในการทอยป้องกันคาถา (Spell save DC)** = 8 + โบนัสความเชี่ยวชาญ + ค่าโมดิไฟเออร์เสน่ห์ (Charisma)
 
-**Spell attack modifier** = your proficiency bonus + your Charisma modifier
+**ค่าโมดิไฟเออร์การโจมตีด้วยคาถา (Spell attack modifier)** = โบนัสความเชี่ยวชาญ + ค่าโมดิไฟเออร์เสน่ห์ (Charisma)
 
-### Ritual Casting
+### การประกอบพิธีกรรม (Ritual Casting)
 
-You can cast any bard spell you know as a ritual if that spell has the ritual tag.
+คุณสามารถร่ายคาถาบาร์ดที่คุณรู้แบบพิธีกรรมถ้าคาถานั้นมีแท็กพิธีกรรม (ritual) กำกับไว้
 
 ### Spellcasting Focus
 
