@@ -38,75 +38,76 @@ menu: menu-basic-rules
 | เลเวล | โบนัสความชำนาญ <br/>(Proficiency Bonus) | ความสามารถ <br/>(Features) | แคนทริปที่รู้จัก | คาถาที่รู้จัก | | | |สล็อตคาถา | ต่อ |เลเวลของคาถา | | | |
 | | | | | | 1st | 2nd | 3rd | 4th | 5th | 6th | 7th | 8th | 9th |
 | ----- | --------------------- | ------------------------------------------------------------------------------------------------------------- | -------------------- | ------------------ | ------------------------------- | --- | --- | --- | --- | --- | --- | --- | --- |
-| 1st | +2 | [Spellcasting](#spellcasting), [Bardic Inspiration](#bardic-inspiration) (d6) | 2 | 4 | 2 | — | — | — | — | — | — | — | — |
-| 2nd | +2 | [Jack of All Trades](#jack-of-all-trades), [Song of Rest](#song-of-rest) (d6) | 2 | 5 | 3 | — | — | — | — | — | — | — | — |
-| 3rd | +2 | [Bard College](#bard-college), [Expertise](#expertise) | 2 | 6 | 4 | 2 | — | — | — | — | — | — | — |
-| 4th | +2 | [Ability Score Improvement](#ability-score-improvement) | 3 | 7 | 4 | 3 | — | — | — | — | — | — | — |
-| 5th | +3 | [Bardic Inspiration](#bardic-inspiration) (d8), [Font of Inspiration](#font-of-inspiration) | 3 | 8 | 4 | 3 | 2 | — | — | — | — | — | — |
-| 6th | +3 | [Countercharm](#countercharm) | 3 | 9 | 4 | 3 | 3 | — | — | — | — | — | — |
+| 1st | +2 | [การใช้คาถา (Spellcasting)](#spellcasting), <br />[กวีบันดาลใจ (Bardic Inspiration)](#bardic-inspiration) (d6) | 2 | 4 | 2 | — | — | — | — | — | — | — | — |
+| 2nd | +2 | [สามารถรอบตัว (Jack of All Trades)](#jack-of-all-trades), <br />[ลำนำหย่อนใจ (Song of Rest)](#song-of-rest) (d6) | 2 | 5 | 3 | — | — | — | — | — | — | — | — |
+| 3rd | +2 | [สำนักกวี (Bard College)](#bard-college), <br />[ผู้เชี่ยวชาญ (Expertise)](#expertise) | 2 | 6 | 4 | 2 | — | — | — | — | — | — | — |
+| 4th | +2 | [เพิ่มคะแนนความสามารถ (Ability Score Improvement)](#ability-score-improvement) | 3 | 7 | 4 | 3 | — | — | — | — | — | — | — |
+| 5th | +3 | [กวีบันดาลใจ (Bardic Inspiration)](#bardic-inspiration) (d8), <br />[อ่างน้ำมนต์แห่งแรงบันดาลใจ (Font of Inspiration)](#font-of-inspiration) | 3 | 8 | 4 | 3 | 2 | — | — | — | — | — | — |
+| 6th | +3 | [ต้านการควบคุมจิตใจ (Countercharm)](#countercharm) | 3 | 9 | 4 | 3 | 3 | — | — | — | — | — | — |
 | 7th | +3 | — | 3 | 10 | 4 | 3 | 3 | 1 | — | — | — | — | — |
-| 8th | +3 | [Ability Score Improvement](#ability-score-improvement) | 3 | 11 | 4 | 3 | 3 | 2 | — | — | — | — | — |
-| 9th | +4 | [Song of Rest](#song-of-rest) (d8) | 3 | 12 | 4 | 3 | 3 | 3 | 1 | — | — | — | — |
-| 10th | +4 | [Bardic Inspiration](#bardic-inspiration) (d10), [Expertise](#expertise), [Magical Secrets](#magical-secrets) | 4 | 14 | 4 | 3 | 3 | 3 | 2 | — | — | — | — |
+| 8th | +3 | [เพิ่มคะแนนความสามารถ (Ability Score Improvement)](#ability-score-improvement) | 3 | 11 | 4 | 3 | 3 | 2 | — | — | — | — | — |
+| 9th | +4 | [ลำนำหย่อนใจ (Song of Rest)](#song-of-rest) (d8) | 3 | 12 | 4 | 3 | 3 | 3 | 1 | — | — | — | — |
+| 10th | +4 | [กวีบันดาลใจ (Bardic Inspiration)](#bardic-inspiration) (d10), <br />[ผู้เชี่ยวชาญ (Expertise)](#expertise), <br />[ความลับแห่งเวทย์มนต์ (Magical Secrets)](#magical-secrets) | 4 | 14 | 4 | 3 | 3 | 3 | 2 | — | — | — | — |
 | 11th | +4 | — | 4 | 15 | 4 | 3 | 3 | 3 | 2 | 1 | — | — | — |
-| 12th | +4 | [Ability Score Improvement](#ability-score-improvement) | 4 | 15 | 4 | 3 | 3 | 3 | 2 | 1 | — | — | — |
-| 13th | +5 | [Song of Rest](#song-of-rest) (d10) | 4 | 16 | 4 | 3 | 3 | 3 | 2 | 1 | 1 | — | — |
-| 14th | +5 | [Magical Secrets](#magical-secrets), [Bard College Feature](#bard-college-feature) | 4 | 18 | 4 | 3 | 3 | 3 | 2 | 1 | 1 | — | — |
-| 15th | +5 | [Bardic Inspiration](#bardic-inspiration) (d12) | 4 | 19 | 4 | 3 | 3 | 3 | 2 | 1 | 1 | 1 | — |
-| 16th | +5 | [Ability Score Improvement](#ability-score-improvement) | 4 | 19 | 4 | 3 | 3 | 3 | 2 | 1 | 1 | 1 | — |
-| 17th | +6 | [Song of Rest](#song-of-rest) (d12) | 4 | 20 | 4 | 3 | 3 | 3 | 2 | 1 | 1 | 1 | 1 |
-| 18th | +6 | [Magical Secrets](#magical-secrets) | 4 | 22 | 4 | 3 | 3 | 3 | 3 | 1 | 1 | 1 | 1 |
-| 19th | +6 | [Ability Score Improvement](#ability-score-improvement) | 4 | 22 | 4 | 3 | 3 | 3 | 3 | 2 | 1 | 1 | 1 |
-| 20th | +6 | [Superior Inspiration](#superior-inspiration) | 4 | 22 | 4 | 3 | 3 | 3 | 3 | 2 | 2 | 1 | 1 |
+| 12th | +4 | [เพิ่มคะแนนความสามารถ (Ability Score Improvement)](#ability-score-improvement) | 4 | 15 | 4 | 3 | 3 | 3 | 2 | 1 | — | — | — |
+| 13th | +5 | [ลำนำหย่อนใจ (Song of Rest)](#song-of-rest) (d10) | 4 | 16 | 4 | 3 | 3 | 3 | 2 | 1 | 1 | — | — |
+| 14th | +5 | [Magical Secrets](#magical-secrets), <br />[Bard College Feature](#bard-college-feature) | 4 | 18 | 4 | 3 | 3 | 3 | 2 | 1 | 1 | — | — |
+| 15th | +5 | [กวีบันดาลใจ (Bardic Inspiration)](#bardic-inspiration) (d12) | 4 | 19 | 4 | 3 | 3 | 3 | 2 | 1 | 1 | 1 | — |
+| 16th | +5 | [เพิ่มคะแนนความสามารถ (Ability Score Improvement)](#ability-score-improvement) | 4 | 19 | 4 | 3 | 3 | 3 | 2 | 1 | 1 | 1 | — |
+| 17th | +6 | [ลำนำหย่อนใจ (Song of Rest)](#song-of-rest) (d12) | 4 | 20 | 4 | 3 | 3 | 3 | 2 | 1 | 1 | 1 | 1 |
+| 18th | +6 | [ความลับแห่งเวทย์มนต์ (Magical Secrets)](#magical-secrets) | 4 | 22 | 4 | 3 | 3 | 3 | 3 | 1 | 1 | 1 | 1 |
+| 19th | +6 | [เพิ่มคะแนนความสามารถ (Ability Score Improvement)](#ability-score-improvement) | 4 | 22 | 4 | 3 | 3 | 3 | 3 | 2 | 1 | 1 | 1 |
+| 20th | +6 | [แรงบันดาลใจขั้นสูง (Superior Inspiration)](#superior-inspiration) | 4 | 22 | 4 | 3 | 3 | 3 | 3 | 2 | 2 | 1 | 1 |
+{:.table}
 
 ## ความสามารถของคลาส (Class Features)
 
-As a bard, you gain the following class features.
+เมื่อเป็นบาร์ด คุณจะได้รับคุณสมบัติประจำคลาสดังนี้
 
-### Hit Points
+### ค่าเลือด (Hit Points)
 
-**Hit Dice:** 1d8 per bard level
+**ฮิทไดซ์:** 1d8 ต่อเลเวลบาร์ด
 
-**Hit Points at 1st Level:** 8 + your Constitution modifier
+**ค่าเลือดที่เลเวล 1:** 8 + ค่าโมดิไฟเออร์ความอดทน (Constitution) ของคุณ
 
-**Hit Points at Higher Levels:** 1d8 (or 5) + your Constitution modifier per bard level after 1st
+**ค่าเลือดเมื่อเลเวลสูงขึ้น:** 1d8 (หรือ 5) + ค่าโมดิไฟเออร์ความอดทน (Constitution) ของคุณต่อเลเวลบาร์ดหลังเลเวล 1
 
 ### ความชำนาญ (Proficiencies)
 
-**Armor:** Light armor
+**เกราะ:** เกราะเบา (Light armor)
 
-**Weapons:** Simple weapons, hand crossbows, longswords, rapiers, shortswords
+**อาวุธ:** อาวุธพื้นฐาน (Simple weapons), ครอสโบวมือ (hand crossbows), ดาบยาว (longswords), กระบี่ (rapiers), ดาบสั้น (shortswords)
 
-**Tools:** Three musical instruments of your choice
+**เครื่องมือ:** เครื่องดนตรี 3 ชนิดตามที่คุณเลือก
 
-**Saving Throws:** Dexterity, Charisma
+**Sทอยป้องกัน:** ความคล่องแคล่ว (Dexterity), เสน่ห์ (Charisma)
 
-**Skills:** Choose any three
+**ทักษะ:** เลือกทักษะใด ๆ 3 ทักษะ
 
 ### อุปกรณ์ (Equipment)
 
-You start with the following equipment, in addition to the equipment granted by your background:
+คุณจะเริ่มเกมด้วยอุปกรณ์เหล่านี้เพิ่มเติมนอกเหนือจากที่ได้รับจากภูมิหลัง:
 
-- (a) a rapier, (b) a longsword, or (c) any simple weapon
-- (a) a diplomat’s pack or (b) an entertainer’s pack
-- (a) a lute or (b) any other musical instrument
-- Leather armor and a dagger
+- (a) กระบี่ (rapier) 1 เล่ม, (b) ดาบยาว (longsword) 1 เล่ม, หรือ (c) อาวุธพื้นฐาน 1 ชิ้น
+- (a) ชุดอุปกรณ์การฑูต (diplomat’s pack) 1 ชุด หรือ (b) ชุดอุปกรณ์ผู้ให้ความบันเทิง (entertainer’s pack) 1 ชุด
+- (a) ลูต (lute) 1 ตัว หรือ (b) เครื่องดนตรีอื่น ๆ 1 ชิ้น
+- เกราะหนัง (Leather armor) และ กริช (dagger) 1 เล่ม
 
-## Spellcasting {#spellcasting}
+## การใช้คาถา (Spellcasting) {#spellcasting}
 
-You have learned to untangle and reshape the fabric of reality in harmony with your wishes and music. Your spells are part of your vast repertoire, magic that you can tune to different situations. See [chapter 10](../ch10-spellcasting.md) for the general rules of spellcasting and [chapter 11](../ch11-spells.md) for the bard spell list.
+คุณได้เรียนรู้ถึงการแยกแยะและเปลี่ยนโครงสร้างความเป็นจริงได้อย่างกลมกลืนกับความปรารถนาและดนตรีของคุณ คาถาของคุณเป็นส่วนหนึ่งของละครอันกว้างใหญ่ของคุณ เวทมนตร์ที่คุณสามารถปรับแต่งให้เข้ากับสถานการณ์ต่าง ๆ ดู [บทที่ 10](../../ch10-spellcasting) สำหรับกฏทั่วไปของการใช้คาถา และ [บทที่ 11](../../ch11-spells) สำหรับรายการคาถาของบาร์ด
 
-### Cantrips
+### แคนทริป (Cantrips) คาถาที่ใช้ได้โดยไม่ต้องเสียสล็อตคาถา (spell slot)
 
-You know two cantrips of your choice from the bard spell list. You learn additional bard cantrips of your choice at higher levels, as shown in the Cantrips Known column of the Bard table.
+คุณจะรู้จักคาถาแบบแคนทริป 2 คาถา เลือกได้จากรายการคาถาของบาร์ด คุณจะเรียนรู้คาถาเพิ่มเติมได้เมื่อเลเวลสูงขึ้น ดังที่แสดงในคอลัมภ์ "แคนทริปที่รู้จัก" จากตารางด้านบน
 
-### Spell Slots
+### สล็อตคาถา (Spell Slots)
 
-The Bard table shows how many spell slots you have to cast your bard spells of 1st level and higher. To cast one of these spells, you must expend a slot of the spell’s level or higher. You regain all expended spell slots when you finish a long rest.
+ตารางบาร์ดด้านบนแสดงถึงจำนวนสล็อตคาถาที่คุณสามารถใช้ร่ายคาถาของบาร์ดที่เลเวล 1 และที่สูงขึ้น ในการใช้คาถาเหล่านี้ คุณต้องใช้สล็อตของคาถาในเลเวลของมันหรือที่สูงกว่า คุณจะฟื้นฟูสล็อตคาถาคืนมามาได้เมื่อจบการพักผ่อนแบบยาว (long rest)
 
-For example, if you know the 1st-level spell cure wounds and have a 1st-level and a 2nd-level spell slot available, you can cast [cure wounds]() using either slot.
+ตัวอย่างเช่น ถ้าคุณรู้คาถาเลเวล 1 คือคาถารักษาบาดแผล (cure wounds) และมีสล็อตคาถาเลเวล 1 และเลเวล 2 เหลือใช้ได้ คุณสามารถร่าย[คาถารักษาบาดแผล (cure wounds)]() โดยใช้สล็อตใดสล็อตหนึ่งก็ได้
 
-### Spells Known of 1st Level and Higher
+### คาถาที่รู้จักตั้งแต่เลเวล 1 และที่สูงกว่า
 
 You know four 1st-level spells of your choice from the bard spell list.
 
