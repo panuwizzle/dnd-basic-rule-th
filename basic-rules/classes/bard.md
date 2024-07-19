@@ -95,7 +95,7 @@ menu: menu-basic-rules
 
 ## การใช้คาถา (Spellcasting) {#spellcasting}
 
-คุณได้เรียนรู้ถึงการแยกแยะและเปลี่ยนโครงสร้างความเป็นจริงได้อย่างกลมกลืนกับความปรารถนาและดนตรีของคุณ คาถาของคุณเป็นส่วนหนึ่งของละครอันกว้างใหญ่ของคุณ เวทมนตร์ที่คุณสามารถปรับแต่งให้เข้ากับสถานการณ์ต่าง ๆ ดู [บทที่ 10](../../ch10-spellcasting) สำหรับกฏทั่วไปของการใช้คาถา และ [บทที่ 11](../../ch11-spells) สำหรับรายการคาถาของบาร์ด
+คุณได้เรียนรู้ถึงการแยกแยะและเปลี่ยนโครงสร้างความเป็นจริงได้อย่างกลมกลืนกับความปรารถนาและดนตรีของคุณ คาถาของคุณเป็นส่วนหนึ่งของละครอันกว้างใหญ่ เวทมนตร์ที่คุณสามารถปรับแต่งให้เข้ากับสถานการณ์ต่าง ๆ ดู [บทที่ 10](../../ch10-spellcasting) สำหรับกฏทั่วไปของการใช้คาถา และ [บทที่ 11](../../ch11-spells) สำหรับรายการคาถาของบาร์ด
 
 ### แคนทริป (Cantrips) คาถาที่ใช้ได้โดยไม่ต้องเสียสล็อตคาถา (spell slot)
 
@@ -133,23 +133,23 @@ menu: menu-basic-rules
 
 ### กวีบันดาลใจ (Bardic Inspiration) {#bardic-inspiration}
 
-You can inspire others through stirring words or music. To do so, you use a bonus action on your turn to choose one creature other than yourself within 60 feet of you who can hear you. That creature gains one Bardic Inspiration die, a d6.
+คุณสามารถให้กำลังใจผู้อื่นด้วยถ้อยคำหรือดนตรี ในการทำเช่นนั้น คุณจะใช้โบนัสแอ็คชันในเทิร์นของคุณเลือกสิ่งมีชีวิตที่ไม่ใช้ตัวคุณเองในระยะ 60 ฟุตรอบตัวคุณที่สามารถได้ยินคุณได้ สิ่งมีชีวิตนั้นจะได้ เต๋ากวีบันดาลใจ คือ d6 1 ลูก
 
-Once within the next 10 minutes, the creature can roll the die and add the number rolled to one ability check, attack roll, or saving throw it makes. The creature can wait until after it rolls the d20 before deciding to use the Bardic Inspiration die, but must decide before the DM says whether the roll succeeds or fails. Once the Bardic Inspiration die is rolled, it is lost. A creature can have only one Bardic Inspiration die at a time.
+ภายในระยะเวลา 10 นาที สิ่งมีชีวิตจะสามารถทอยลูกเต๋านั้นหนึ่งครั้ง และนำค่าที่ได้ไปรวมกับการทอยทดสอบความสามารถ, การทอยโจมตี หรือการทอยป้องกันได้ สิ่งมีชีวิตนั้นสามารถรอจนทอย d20 เสร็จแล้วค่อยตัดสินใจทอยเต๋ากวีบันดาลใจก็ได้ แต่ต้องตัดสินใจก่อนที่ DM จะตัดสินว่าการทอยนั้นสำเร็จหรือล้มเหลว เมื่อทอยเต๋ากวีบันดาลใจไปแล้วจะหายไปเลย และสามารถใช้ลูกเต๋าได้เพียง 1 ลูกต่อครั้ง
 
-You can use this feature a number of times equal to your Charisma modifier (a minimum of once). You regain any expended uses when you finish a long rest.
+คุณสามารถใช้คุณสมบัตินี้เป็นจำนวนเท่ากับค่าโมดิไฟเออร์เสน่ห์ (charisma modifier) อย่างน้อยที่สุด 1 ครั้ง คุณจะกลับมาใช้ได้อีกหลังคุณพักยาวเรียบร้อยแล้ว (long rest)
 
-Your Bardic Inspiration die changes when you reach certain levels in this class. The die becomes a d8 at 5th level, a d10 at 10th level, and a d12 at 15th level.
+ลูกเต๋ากวีบันดาลใจของคุณจะเปลี่ยนไปเมื่อคุณเลื่อนเลเวลถึงจุดหนึ่งในคลาสนี้ ลูกเต๋าจะเปลี่ยนเป็น d8 ที่เลเวล 5, เป็น d10 ที่เลเวล 10 และเป็น d12 ที่เลเวล 15
 
 ### สามารถรอบตัว (Jack of All Trades) {#jack-of-all-trades}
 
-Starting at 2nd level, you can add half your proficiency bonus, rounded down, to any ability check you make that doesn’t already include your proficiency bonus.
+เริ่มที่เลเวล 2 คุณสามารถใช้ครึ่งหนึ่งของค่าความเชี่ยวชาญ ปัดเศษลง เพิ่มลงไปในการทอยทดสอบความสามารถ (ability check) ในทักษะที่ไม่ได้ใช้ค่าโบนัสความเชี่ยวชาญ
 
 ### ลำนำหย่อนใจ (Song of Rest) {#song-of-rest}
 
-Beginning at 2nd level, you can use soothing music or oration to help revitalize your wounded allies during a short rest. If you or any friendly creatures who can hear your performance regain hit points at the end of the short rest by spending one or more Hit Dice, each of those creatures regains an extra 1d6 hit points.
+เริ่มที่เลเวล 2 คุณสามารถใช้ดนตรีที่นุ่มนวลหรือการขับร้องในการช่วยรักษาพันธมิตรที่บาดเจ็บในช่วงการพักสั้น (short rest) ถ้าคุณหรือสิ่งมีชีวิตที่เป็นมิตรใด ๆ ที่ได้ยินการแสดงของคุณ ใช้ฮิตไดซ์ในการฟื้นฟูค่าเลือดในช่วงท้ายของการพักสั้น สิ่งมีชีวิตเหล่านั้นจะได้รับค่าเลือดเพิ่มพิเศษอีก 1d6
 
-The extra hit points increase when you reach certain levels in this class: to 1d8 at 9th level, to 1d10 at 13th level, and to 1d12 at 17th level.
+ค่าเลือดเพิ่มพิเศษที่ได้รับจะเพิ่มขึ้น เมื่อคุณเลื่อนเลเวลในคลาสนี้ เป็น 1d8 เมื่อคุณเลเวล 9, เป็น 1d10 เมื่อคุณเลเวล 13 และเป็น 1d12 เมื่อคุณเลเวล 17
 
 ## วิทยาลัยบาร์ด (Bard College)
 
@@ -195,7 +195,7 @@ The way of a bard is gregarious. Bards seek each other out to swap songs and sto
 
 ### College of Glamour
 
-### College of Lore
+### วิทยาลัยแห่งตำนาน (College of Lore)
 
 Bards of the College of Lore know something about most things, collecting bits of knowledge from sources as diverse as scholarly tomes and peasant tales. Whether singing folk ballads in taverns or elaborate compositions in royal courts, these bards use their gifts to hold audiences spellbound. When the applause dies down, the audience members might find themselves questioning everything they held to be true, from their faith in the priesthood of the local temple to their loyalty to the king.
 
