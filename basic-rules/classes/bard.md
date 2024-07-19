@@ -131,7 +131,7 @@ menu: menu-basic-rules
 
 You can use a musical instrument (see chapter 5, “[Equip­ment]()”) as a spellcasting focus for your bard spells.
 
-### Bardic Inspiration {#bardic-inspiration}
+## Bardic Inspiration {#bardic-inspiration}
 
 You can inspire others through stirring words or music. To do so, you use a bonus action on your turn to choose one creature other than yourself within 60 feet of you who can hear you. That creature gains one Bardic Inspiration die, a d6.
 
@@ -141,11 +141,11 @@ You can use this feature a number of times equal to your Charisma modifier (a mi
 
 Your Bardic Inspiration die changes when you reach certain levels in this class. The die becomes a d8 at 5th level, a d10 at 10th level, and a d12 at 15th level.
 
-### Jack of All Trades {#jack-of-all-trades}
+## Jack of All Trades {#jack-of-all-trades}
 
 Starting at 2nd level, you can add half your proficiency bonus, rounded down, to any ability check you make that doesn’t already include your proficiency bonus.
 
-### Song of Rest {#song-of-rest}
+## Song of Rest {#song-of-rest}
 
 Beginning at 2nd level, you can use soothing music or oration to help revitalize your wounded allies during a short rest. If you or any friendly creatures who can hear your performance regain hit points at the end of the short rest by spending one or more Hit Dice, each of those creatures regains an extra 1d6 hit points.
 
@@ -189,6 +189,12 @@ At 20th level, when you roll initiative and have no uses of Bardic Inspiration l
 
 The way of a bard is gregarious. Bards seek each other out to swap songs and stories, boast of their accomplishments, and share their knowledge. Bards form loose associations, which they call colleges, to facilitate their gatherings and preserve their traditions.
 
+### College of Creation
+
+### College of Eloquence
+
+### College of Glamour
+
 ### College of Lore
 
 Bards of the College of Lore know something about most things, collecting bits of knowledge from sources as diverse as scholarly tomes and peasant tales. Whether singing folk ballads in taverns or elaborate compositions in royal courts, these bards use their gifts to hold audiences spellbound. When the applause dies down, the audience members might find themselves questioning everything they held to be true, from their faith in the priesthood of the local temple to their loyalty to the king.
@@ -212,3 +218,9 @@ At 6th level, you learn two spells of your choice from any class. A spell you ch
 #### Peerless Skill
 
 Starting at 14th level, when you make an ability check, you can expend one use of Bardic Inspiration. Roll a Bardic Inspiration die and add the number rolled to your ability check. You can choose to do so after you roll the die for the ability check, but before the DM tells you whether you succeed or fail.
+
+### College of Swords
+
+### College of Valor
+
+### College of Whispers
