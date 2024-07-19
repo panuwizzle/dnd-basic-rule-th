@@ -189,6 +189,12 @@ At 20th level, when you roll initiative and have no uses of Bardic Inspiration l
 
 The way of a bard is gregarious. Bards seek each other out to swap songs and stories, boast of their accomplishments, and share their knowledge. Bards form loose associations, which they call colleges, to facilitate their gatherings and preserve their traditions.
 
+### College of Creation
+
+### College of Eloquence
+
+### College of Glamour
+
 ### College of Lore
 
 Bards of the College of Lore know something about most things, collecting bits of knowledge from sources as diverse as scholarly tomes and peasant tales. Whether singing folk ballads in taverns or elaborate compositions in royal courts, these bards use their gifts to hold audiences spellbound. When the applause dies down, the audience members might find themselves questioning everything they held to be true, from their faith in the priesthood of the local temple to their loyalty to the king.
@@ -212,3 +218,9 @@ At 6th level, you learn two spells of your choice from any class. A spell you ch
 #### Peerless Skill
 
 Starting at 14th level, when you make an ability check, you can expend one use of Bardic Inspiration. Roll a Bardic Inspiration die and add the number rolled to your ability check. You can choose to do so after you roll the die for the ability check, but before the DM tells you whether you succeed or fail.
+
+### College of Swords
+
+### College of Valor
+
+### College of Whispers
