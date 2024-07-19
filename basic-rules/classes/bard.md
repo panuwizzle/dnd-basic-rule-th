@@ -51,7 +51,7 @@ menu: menu-basic-rules
 | 11th | +4 | — | 4 | 15 | 4 | 3 | 3 | 3 | 2 | 1 | — | — | — |
 | 12th | +4 | [เพิ่มคะแนนความสามารถ (Ability Score Improvement)](#ability-score-improvement) | 4 | 15 | 4 | 3 | 3 | 3 | 2 | 1 | — | — | — |
 | 13th | +5 | [ลำนำหย่อนใจ (Song of Rest)](#song-of-rest) (d10) | 4 | 16 | 4 | 3 | 3 | 3 | 2 | 1 | 1 | — | — |
-| 14th | +5 | [Magical Secrets](#magical-secrets), <br />[Bard College Feature](#bard-college-feature) | 4 | 18 | 4 | 3 | 3 | 3 | 2 | 1 | 1 | — | — |
+| 14th | +5 | [ความลับแห่งเวทย์มนต์ Magical Secrets](#magical-secrets), <br />[วิทยาลัยบาร์ด (Bard College Feature)](#bard-college-feature) | 4 | 18 | 4 | 3 | 3 | 3 | 2 | 1 | 1 | — | — |
 | 15th | +5 | [กวีบันดาลใจ (Bardic Inspiration)](#bardic-inspiration) (d12) | 4 | 19 | 4 | 3 | 3 | 3 | 2 | 1 | 1 | 1 | — |
 | 16th | +5 | [เพิ่มคะแนนความสามารถ (Ability Score Improvement)](#ability-score-improvement) | 4 | 19 | 4 | 3 | 3 | 3 | 2 | 1 | 1 | 1 | — |
 | 17th | +6 | [ลำนำหย่อนใจ (Song of Rest)](#song-of-rest) (d12) | 4 | 20 | 4 | 3 | 3 | 3 | 2 | 1 | 1 | 1 | 1 |
@@ -80,7 +80,7 @@ menu: menu-basic-rules
 
 **เครื่องมือ:** เครื่องดนตรี 3 ชนิดตามที่คุณเลือก
 
-**Sทอยป้องกัน:** ความคล่องแคล่ว (Dexterity), เสน่ห์ (Charisma)
+**ทอยป้องกัน:** ความคล่องแคล่ว (Dexterity), เสน่ห์ (Charisma)
 
 **ทักษะ:** เลือกทักษะใด ๆ 3 ทักษะ
 
@@ -127,11 +127,11 @@ menu: menu-basic-rules
 
 คุณสามารถร่ายคาถาบาร์ดที่คุณรู้แบบพิธีกรรมถ้าคาถานั้นมีแท็กพิธีกรรม (ritual) กำกับไว้
 
-### Spellcasting Focus
+### สิ่งรวมสมาธิในการร่ายคาถา (Spellcasting Focus)
 
-You can use a musical instrument (see chapter 5, “[Equip­ment]()”) as a spellcasting focus for your bard spells.
+คุณสามารถใช้เครื่องดนตรี (ดูบทที่ 5 "[อุปกรณ์](../../ch05-equipment)") เป็นสิ่งรวมสมาธิในการร่ายคาถาของบาร์ดได้
 
-### Bardic Inspiration {#bardic-inspiration}
+### กวีบันดาลใจ (Bardic Inspiration) {#bardic-inspiration}
 
 You can inspire others through stirring words or music. To do so, you use a bonus action on your turn to choose one creature other than yourself within 60 feet of you who can hear you. That creature gains one Bardic Inspiration die, a d6.
 
@@ -141,39 +141,39 @@ You can use this feature a number of times equal to your Charisma modifier (a mi
 
 Your Bardic Inspiration die changes when you reach certain levels in this class. The die becomes a d8 at 5th level, a d10 at 10th level, and a d12 at 15th level.
 
-### Jack of All Trades {#jack-of-all-trades}
+### สามารถรอบตัว (Jack of All Trades) {#jack-of-all-trades}
 
 Starting at 2nd level, you can add half your proficiency bonus, rounded down, to any ability check you make that doesn’t already include your proficiency bonus.
 
-### Song of Rest {#song-of-rest}
+### ลำนำหย่อนใจ (Song of Rest) {#song-of-rest}
 
 Beginning at 2nd level, you can use soothing music or oration to help revitalize your wounded allies during a short rest. If you or any friendly creatures who can hear your performance regain hit points at the end of the short rest by spending one or more Hit Dice, each of those creatures regains an extra 1d6 hit points.
 
 The extra hit points increase when you reach certain levels in this class: to 1d8 at 9th level, to 1d10 at 13th level, and to 1d12 at 17th level.
 
-## Bard College
+## วิทยาลัยบาร์ด (Bard College)
 
 At 3rd level, you delve into the advanced techniques of a bard college of your choice: the College of Lore or the College of Valor, both detailed at the end of the class description. Your choice grants you features at 3rd level and again at 6th and 14th level.
 
-## Expertise
+## ผู้เชี่ยวชาญ (Expertise)
 
 At 3rd level, choose two of your skill proficiencies. Your proficiency bonus is doubled for any ability check you make that uses either of the chosen proficiencies.
 
 At 10th level, you can choose another two skill proficiencies to gain this benefit.
 
-## Ability Score Improvement
+## เพิ่มคะแนนความสามารถ (Ability Score Improvement)
 
 When you reach 4th level, and again at 8th, 12th, 16th, and 19th level, you can increase one ability score of your choice by 2, or you can increase two ability scores of your choice by 1. As normal, you can’t increase an ability score above 20 using this feature.
 
-## Font of Inspiration
+## อ่างน้ำมนต์แห่งแรงบันดาลใจ (Font of Inspiration)
 
 Beginning when you reach 5th level, you regain all of your expended uses of Bardic Inspiration when you finish a short or long rest.
 
-## Countercharm
+## ต้านการควบคุมจิตใจ (Countercharm)
 
 At 6th level, you gain the ability to use musical notes or words of power to disrupt mind-influencing effects. As an action, you can start a performance that lasts until the end of your next turn. During that time, you and any friendly creatures within 30 feet of you have advantage on saving throws against being [frightened]() or [charmed](). A creature must be able to hear you to gain this benefit. The performance ends early if you are [incapacitated]() or silenced or if you voluntarily end it (no action required).
 
-## Magical Secrets
+## ความลับแห่งเวทย์มนต์ (Magical Secrets)
 
 By 10th level, you have plundered magical knowledge from a wide spectrum of disciplines. Choose two spells from any classes, including this one. A spell you choose must be of a level you can cast, as shown on the Bard table, or a cantrip.
 
@@ -181,11 +181,11 @@ The chosen spells count as bard spells for you and are included in the number in
 
 You learn two additional spells from any classes at 14th level and again at 18th level.
 
-## Superior Inspiration
+## แรงบันดาลใจขั้นสูง (Superior Inspiration)
 
 At 20th level, when you roll initiative and have no uses of Bardic Inspiration left, you regain one use.
 
-## Bard Colleges
+## วิทยาลัยบาร์ด (Bard Colleges)
 
 The way of a bard is gregarious. Bards seek each other out to swap songs and stories, boast of their accomplishments, and share their knowledge. Bards form loose associations, which they call colleges, to facilitate their gatherings and preserve their traditions.
 
