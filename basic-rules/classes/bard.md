@@ -33,7 +33,7 @@ menu: menu-basic-rules
 
 ### สร้างอย่างเร็ว (Quick Build)
 
-คุณสามารถสร้างบาร์ดได้อย่างรวดเร็วโดยทำตามคำแนะนำดังนี้ อย่างแรก คะแนนเสน่ห์ (Charisma) ควรเป็นคะแนนความสามารถที่สูงที่สุด ตามมาด้วยความคล่องแคล่ว (Dexterity) อย่างที่สอง เลือกภูมิหลังเป็นผู้ให้ความบันเทิง (entertainer background) อย่างที่สาม เลือกใช้แคนทริป [ระบำแสง (dancing lights)]() และ [วิเชียสม็อคเคอรี่ (vicious mockery)]() ร่วมกับคาถาเลเวล 1 อย่าง [คาถามหาเสน่ห์ (charm person)](), [ค้นหารอยเวทย์ (detect magic)](), [วาจาสมานแผล (healing word)]() และ [คลื่นเสียงฟ้าคะนอง (thunderwave)]()
+คุณสามารถสร้างบาร์ดได้อย่างรวดเร็วโดยทำตามคำแนะนำดังนี้ อย่างแรก คะแนนเสน่ห์ (Charisma) ควรเป็นคะแนนความสามารถที่สูงที่สุด ตามมาด้วยความคล่องแคล่ว (Dexterity) อย่างที่สอง เลือกภูมิหลังเป็นผู้ให้ความบันเทิง (entertainer background) อย่างที่สาม เลือกใช้แคนทริป [ระบำแสง (dancing lights)](../../ch11-spells/#dancing-light) และ [วาจาเชือดเฉือน (vicious mockery)](../../ch11-spells/#vicious-mockery) ร่วมกับคาถาเลเวล 1 อย่าง [คาถามหาเสน่ห์ (charm person)](../../ch11-spells/#charm-person), [ค้นหารอยเวทย์ (detect magic)](../../ch11-spells/#detect-magic), [วาจาสมานแผล (healing word)](../../ch11-spells/#healing-word) และ [คลื่นเสียงฟ้าคะนอง (thunderwave)](../../ch11-spells/#thunderwave)
 
 | เลเวล | โบนัสความชำนาญ <br/>(Proficiency Bonus) | ความสามารถ <br/>(Features) | แคนทริปที่รู้จัก | คาถาที่รู้จัก | | | |สล็อตคาถา | ต่อ |เลเวลของคาถา | | | |
 | | | | | | 1st | 2nd | 3rd | 4th | 5th | 6th | 7th | 8th | 9th |
@@ -105,7 +105,7 @@ menu: menu-basic-rules
 
 ตารางบาร์ดด้านบนแสดงถึงจำนวนสล็อตคาถาที่คุณสามารถใช้ร่ายคาถาของบาร์ดที่เลเวล 1 และที่สูงขึ้น ในการใช้คาถาเหล่านี้ คุณต้องใช้สล็อตของคาถาในเลเวลของมันหรือที่สูงกว่า คุณจะฟื้นฟูสล็อตคาถาคืนมามาได้เมื่อจบการพักผ่อนแบบยาว (long rest)
 
-ตัวอย่างเช่น ถ้าคุณรู้คาถาเลเวล 1 คือคาถารักษาบาดแผล (cure wounds) และมีสล็อตคาถาเลเวล 1 และเลเวล 2 เหลือใช้ได้ คุณสามารถร่าย[คาถารักษาบาดแผล (cure wounds)]() โดยใช้สล็อตใดสล็อตหนึ่งก็ได้
+ตัวอย่างเช่น ถ้าคุณรู้คาถาเลเวล 1 คือคาถารักษาบาดแผล (cure wounds) และมีสล็อตคาถาเลเวล 1 และเลเวล 2 เหลือใช้ได้ คุณสามารถร่าย[คาถารักษาบาดแผล (cure wounds)](../../ch11-spells/#cure-wounds) โดยใช้สล็อตใดสล็อตหนึ่งก็ได้
 
 ### คาถาที่รู้จักตั้งแต่เลเวล 1 และที่สูงกว่า
 
@@ -153,74 +153,94 @@ menu: menu-basic-rules
 
 ## วิทยาลัยบาร์ด (Bard College)
 
-At 3rd level, you delve into the advanced techniques of a bard college of your choice: the College of Lore or the College of Valor, both detailed at the end of the class description. Your choice grants you features at 3rd level and again at 6th and 14th level.
+เมื่อเลเวล 3 คุณจะลงลึกในเทคนิคขั้นสูงของวิทยาลัยบาร์ดที่คุณเลือก: วิทยาลัยแห่งตำนานหรือวิทยาลัยแห่งความกล้าหาญ ทั้งสองมีรายละเอียดอยู่ในส่วนท้ายของคำอธิบายคลาส สิ่งที่คุณเลือกจะให้คุณลักษณะ (features) เมื่อเลเวล 3 และได้รับอีกเมื่อเลเวล 6 และ 14
 
 ## ผู้เชี่ยวชาญ (Expertise)
 
-At 3rd level, choose two of your skill proficiencies. Your proficiency bonus is doubled for any ability check you make that uses either of the chosen proficiencies.
+เมื่อเลเวล 3 ให้เลือกทักษะที่คุณเชี่ยวชาญ 2 ทักษะ ค่าโบนัสความเชี่ยวชาญจะเป็น 2 เท่าเมื่อคุณต้องทอยทดสอบความสามารถด้วยทั้งษะทั้งสองอย่างนั้น
 
-At 10th level, you can choose another two skill proficiencies to gain this benefit.
+ที่เลเวล 10 คุณสามารถเลือกเพิ่มได้อีก 2 ทักษะเพื่อให้ได้ผลพิเศษนี้
 
 ## เพิ่มคะแนนความสามารถ (Ability Score Improvement)
 
-When you reach 4th level, and again at 8th, 12th, 16th, and 19th level, you can increase one ability score of your choice by 2, or you can increase two ability scores of your choice by 1. As normal, you can’t increase an ability score above 20 using this feature.
+เมื่อคุณถึงเลเวล 4 และอีกครั้งเมื่อเลเวล 8, 12, 16 และ 19 คุณสามารถเพิ่มคะแนนความสามารถหนึ่งอย่างตามที่คุณเลือกได้ 2 คะแนน หรือเพิ่ม 1 คะแนนให้กับสองทักษะก็ได้ โดยปกติแล้วคุณจะไม่สามารถเพิ่มคะแนนความสามารถได้มากกว่า 20 หากใช้คุณลักษณะนี้
 
 ## อ่างน้ำมนต์แห่งแรงบันดาลใจ (Font of Inspiration)
 
-Beginning when you reach 5th level, you regain all of your expended uses of Bardic Inspiration when you finish a short or long rest.
+เริ่มเมื่อคุณเลเวล 5 คุณจะฟื้นฟูการใช้งานกวีบันดาลใจ (bardic inspiration) ได้ทั้งหมด เมื่อคุณจบการพักระยะสั้นหรือพักระยะยาว
 
 ## ต้านการควบคุมจิตใจ (Countercharm)
 
-At 6th level, you gain the ability to use musical notes or words of power to disrupt mind-influencing effects. As an action, you can start a performance that lasts until the end of your next turn. During that time, you and any friendly creatures within 30 feet of you have advantage on saving throws against being [frightened]() or [charmed](). A creature must be able to hear you to gain this benefit. The performance ends early if you are [incapacitated]() or silenced or if you voluntarily end it (no action required).
+เมื่อเลเวล 6 คุณจะได้รับความสามารถในการใช้โน๊ตดนตรีหรือถ้อยคำที่มีอำนาจในการต่อต้านการควบคุมจิตใจ โดยการใช้แอ็คชัน คุณสามารถเริ่มแสดงดนตรีหรือขับร้องที่จะคงสภาวะอยู่จนจบเทิร์นต่อไปของคุณ ในช่วงเวลานั้นคุณและเพื่อนในรัศมี 30 ฟุตรอบตัวคุณจะได้ทอยป้องกัน[สถานะหวาดกลัว (frightened)](../../appendice-a-condition/#frightened) หรือ [สถานะหลงใหล (charmed)](../../appendice-a-condition/#charmed) แบบได้เปรียบ (advantage) สิ่งมีชีวิตจะต้องได้ยินคุณเพื่อที่จะได้ผลพิเศษนี้ การแสดงจะจบลงหากคุณถูกทำให้[ไร้ความสามารถ (incapacitated)](../../appendice-a-condition/#incpacitated) หรือถูกทำให้เงียบ (silenced) หรือถ้าคุณจบการแสดงด้วยตัวเอง (ไม่เสียแอ็คชัน)
 
 ## ความลับแห่งเวทย์มนต์ (Magical Secrets)
 
-By 10th level, you have plundered magical knowledge from a wide spectrum of disciplines. Choose two spells from any classes, including this one. A spell you choose must be of a level you can cast, as shown on the Bard table, or a cantrip.
+เมื่อถึงเลเวล 10 คุณได้ปล้นเอาความรู้ทางเวทย์มนต์จากสาขาวิชาที่หลากหลาย เลือกคาถา 2 คาถาจากคลาสใด ๆ ก็ได้รวมถึงบาร์ด คาถาที่คุณเลือกต้องมีเลเวลที่คุณสามารถร่ายได้ เช่นที่แสดงในตารางของบาร์ดหรือแคนทริป
 
-The chosen spells count as bard spells for you and are included in the number in the Spells Known column of the Bard table.
+คาถาที่คุณเลือกจะถูกนับเป็นคาถาของบาร์ดและจะถูกเพิ่มลงไปในคอลัมภ์คาถาที่รู้จักในตารางของบาร์ด
 
-You learn two additional spells from any classes at 14th level and again at 18th level.
+คุณจะเรียนรู้คาถาเพิ่มได้อีก 2 คาถาจากคลาสใด ๆ เมื่อเลเวล 14 และอีกครั้งเมื่อเลเวล 18
 
 ## แรงบันดาลใจขั้นสูง (Superior Inspiration)
 
-At 20th level, when you roll initiative and have no uses of Bardic Inspiration left, you regain one use.
+ที่เลเวล 20 เมื่อคุณทอยจัดลำดับการต่อสู้ (initiative) และคุณใช้กวีบันดาลใจ (bardic inspiration) หมดไปแล้ว คุณจะได้รับเพิ่ม 1 ครั้ง
 
 ## วิทยาลัยบาร์ด (Bard Colleges)
 
-The way of a bard is gregarious. Bards seek each other out to swap songs and stories, boast of their accomplishments, and share their knowledge. Bards form loose associations, which they call colleges, to facilitate their gatherings and preserve their traditions.
+วิถีของบาร์ดนั้นเน้นการเข้าสังคม เหล่าบาร์ดจะค้นหากันและกันเพื่อแลกเปลี่ยนบทเพลงและเรื่องราว คุยโวโอ้อวดกันถึงความสำเร็จและแบ่งปันความรู้ บาร์ดสร้างองค์กรแบบไม่เป็นทางการ ซึ่งเรียกว่าวิทยาลัย (colleges) เป็นตัวกลางในการรวบรวมและรักษาประเพณีของพวกเขา
 
-### College of Creation
+### วิทยาลัยแห่งการสร้างสรรค์ (College of Creation)
 
-### College of Eloquence
+### วิทยาลัยแห่งโวหาร (College of Eloquence)
 
-### College of Glamour
+### วิทยาลัยแห่งเสน่ห์ (College of Glamour)
 
 ### วิทยาลัยแห่งตำนาน (College of Lore)
 
-Bards of the College of Lore know something about most things, collecting bits of knowledge from sources as diverse as scholarly tomes and peasant tales. Whether singing folk ballads in taverns or elaborate compositions in royal courts, these bards use their gifts to hold audiences spellbound. When the applause dies down, the audience members might find themselves questioning everything they held to be true, from their faith in the priesthood of the local temple to their loyalty to the king.
+บาร์ดแห่งวิทยาลัยแห่งตำนานจะรู้ถึงสิ่งแปลกเล็ก ๆ ในสิ่งต่าง ๆ เป็นผู้รวบรวมเกร็ดดความรู้จากแหล่งที่มาหลากหลาย ตั้งแต่หนังสือวิชาการไปจนถึงตำนานของชาวบ้าน ไม่ว่าจะร้องเพลงพื้นบ้านในโรงเตี๊ยมหรือบทเพลงวิจิตรที่แสดงในท้องพระโรง บาร์ดเหล่านี้ใช้พรสวรรค์ในการสะกดผู้ชมเหมือนมีมนต์ขลัง เมื่อเสียงปรบมือจางลง เหล่าผู้ชมอาจจะพบว่าพวกเขากำลังตั้งคำถามกับทุกสิ่งที่คิดว่าเป็นเรื่องจริง จากความศรัทธาในนักบวชของวิหารประจำเมืองจนถึงความภัคดีต่อกษัตริย์ของพวกเขา
 
-The loyalty of these bards lies in the pursuit of beauty and truth, not in fealty to a monarch or following the tenets of a deity. A noble who keeps such a bard as a herald or advisor knows that the bard would rather be honest than politic.
+ความภักดีของบาร์ดเหล่านี้มีอยู่ในการไขว่คว้าความสวยงามและความจริง หาใช้ความจงรักภักดีในกษัตริย์หรือศรัทธาในคำสอนของสาวกของเหล่าเทพ ชนชั้นสูงที่มีบาร์ดเหล่านี้เป็นสมาชิกหรือที่ปรึกษารู้ว่าบาร์ดจะบอกแต่ความจริงแทนที่จะเป็นเรื่องการเมือง
 
-The college’s members gather in libraries and sometimes in actual colleges, complete with classrooms and dormitories, to share their lore with one another. They also meet at festivals or affairs of state, where they can expose corruption, unravel lies, and poke fun at self-important figures of authority.
+สมาชิกของวิทยาลัยจะรวมตัวกันในหอสมุดและบางครั้งในวิทยาลัยจริง ๆ ที่มีห้องเรียนและหอพัก ในการมาแบ่งปันตำนานให้กับผู้อื่น พวกเขายังพบปะกันในงานเทศกาลหรือวันสำคัญของรัฐ ที่ที่พวกเขาจะเปิดเผยความฉ้อโกง ทำลายคำโกหก และเล่นตลกกับอำนาจของพวกที่ตั้งตนเป็นใหญ่
 
-#### Bonus Proficiencies
+#### โบนัสความเชี่ยวชาญ (Bonus Proficiencies)
 
-When you join the College of Lore at 3rd level, you gain proficiency with three skills of your choice.
+เมื่อคุณเข้าร่วมกับวิทยาลัยแห่งตำนานเมื่อเลเวล 3 คุณจะได้ความเชี่ยวชาญในทักษะ 3 อย่างตามที่คุณเลือก
 
-#### Cutting Words
+#### การขัดคอให้เสียจังหวะ (Cutting Words)
 
-Also at 3rd level, you learn how to use your wit to distract, confuse, and otherwise sap the confidence and competence of others. When a creature that you can see within 60 feet of you makes an attack roll, an ability check, or a damage roll, you can use your reaction to expend one of your uses of Bardic Inspiration, rolling a Bardic Inspiration die and subtracting the number rolled from the creature’s roll. You can choose to use this feature after the creature makes its roll, but before the DM determines whether the attack roll or ability check succeeds or fails, or before the creature deals its damage. The creature is immune if it can’t hear you or if it’s immune to being [charmed]().
+ความสามารถที่ได้เพิ่มเติมเมื่อเลเวล 3 คุณจะเรียนรู้การใช้ไหวพริบในการเบี่ยงเบนความสนใจ ทำให้สับสน และนอกจากนั้นยังดูดเอาความมั่นใจและความสามารถของศัตรู เมื่อสิ่งมีชีวิตที่คุณสามารถเห็นได้ในระยะ 60 ฟุตทำการทอยโจมตี ทอยทดสอบความสามารถ หรือทอยหาค่าความเสียหาย คุณสามารถใช้รีแอ็คชันเพื่อใช้กวีบันดาลใจ (bardic inspiration) ทอย 1 ครั้งและใช้ค่านั้นลบค่าที่สิ่งมีชีวิตนั้นทอยได้ คุณสามารถเลือกที่จะใช้คุณลักษณะนี้หลังจากสิ่งมีชีวิตทำการทอยเต๋า แต่ต้องก่อนที่ DM จะตัดสินว่าการทอยนั้นสำเร็จหรือล้มเหลว หรือก่อนที่สิ่งมีชีวิตจะทำให้เกิดความเสียหาย สิ่งมีชีวิตจะไม่ได้รับผลหากมันไม่ได้ยินคุณหรือมีความต่อต้าน (immuned) ต่อ[การถูกควบคุมจิตใจ (charmed)](../../appendice-a-condition/#charmed)
 
-#### Additional Magical Secrets
+#### ความลับของเวทย์มนต์เพิ่มเติม (Additional Magical Secrets)
 
-At 6th level, you learn two spells of your choice from any class. A spell you choose must be of a level you can cast, as shown on the Bard table, or a cantrip. The chosen spells count as bard spells for you but don’t count against the number of bard spells you know.
+เมื่อเลเวล 6 คุณจะเรียนรู้คาถาจากคลาสอื่นได้เพิ่มอีก 2 คาถา คาถาที่คุณเลือกต้องมีเลเวลเดียวกับที่คุณสามารถใช้ได้ดังที่แสดงในตารางบาร์ดหรือเป็นแคนทริป คาถาจะถูกนับเป็นคาถาของบาร์ดสำหรับคุณ แต่จะไม่นับรวมกับจำนวนคาถาของบาร์ดที่คุณรู้
 
-#### Peerless Skill
+#### ผู้มีทักษะหาใครเทียบ (Peerless Skill)
 
-Starting at 14th level, when you make an ability check, you can expend one use of Bardic Inspiration. Roll a Bardic Inspiration die and add the number rolled to your ability check. You can choose to do so after you roll the die for the ability check, but before the DM tells you whether you succeed or fail.
+เริ่มที่เลเวล 14 เมื่อคุณทอยทดสอบความสามารถ คุณสามารถใช้เต๋ากวีบันดาลใจ (bardic inspiration) 1 ลูก ทอยหาค่าและบวกค่าที่ได้ไปในค่าที่ทอยทดสอบความสามารถ คุณสามารถเลือกทำได้หลังจากที่ทอยทดสอบความสามารถแล้ว แต่ต้องก่อนที่ DM จะประกาศว่าการทอยสำเร็จหรือล้มเหลว
 
-### College of Swords
+### วิทยาลัยแห่งดาบ (College of Swords)
 
-### College of Valor
+### วิทยาลัยแห่งเกียรติยศ (College of Valor)
 
-### College of Whispers
+บาร์ดแห่งวิทยาลัยแห่งเกียรติยศเป็นเหล่า *สกัลด์ผู้กล้าหาญที่เรื่องราวของพวกเขาเก็บรักษาความทรงจำของเหล่าฮีโร่ผู้ยิ่งใหญ่จากครั้งโบราณ และเป็นสิ่งบันดาลใจให้กับผู้กล้ารุ่นหลัง บาร์ดเหล่านี้รวมตัวกันในโรงเหล้ามี๊ดหรือรอบ ๆ งานรอบกองไฟใหญ่เพื่อร้องเพลงถึงวีรกรรมของเหล่าผู้ทรงพลัง ทั้งในอดีตและปัจจุบัน พวกเขาท่องไปในโลกกว้างเพื่อเป็นพยานในเหตุการณ์สำคัญด้วยตัวเองและเพื่อให้ความทรงจำเหล่านั้นไม่สูญหายไปจากโลกนี้ ด้วยเพลงของพวกเขา พวกเขาสร้างแรงบันดาลใจให้กับผู้อื่นเพื่อให้พวกเขาขึ้นสู่จุดที่สูงสุดได้เท่ากับผู้กล้าในยุคโบราณ
+
+*สกัลด์คือนักเล่าตำนานของชาวไวกิ้ง
+
+#### โบนัสความเชี่ยวชาญ (Bonus Proficiencies)
+
+เมื่อคุณเข้าร่วมกับวิทยาลัยให้เกียรติยศเมื่อเลเวล 3 คุณจะได้รับความเชี่ยวชาญในการใช้เกราะกลาง (medium armor), โล่ (shields), และอาวุธประชิดตัว (matial weapons)
+
+#### แรงบันดาลใจในการต่อสู้ (Combat Inspiration)
+
+เมื่อเลเวล 3 เช่นกัน คุณจะได้เรียนรู้การเสริมแรงบันดาลใจผู้อื่นในการต่อสู้ สิ่งมีชีวิตที่ได้รับเต๋ากวีบันดาลใจ (bardic inspiration) หนึ่งลูกจากคุณ สามารถทอยลูกเต๋าและเพิ่มค่าที่ทอยได้ไปในค่าความเสียหายจากอาวุธที่เพิ่งทอยได้ หรือในการใช้งานอีกแบบ คือเมื่อมีการทอยโจมตีเข้าใส่สิ่งมีชีวิตนั้น มันสามารถใช้รีแอ็คชันเพื่อทอยเต๋ากวีบันดาลใจและนำเค่าที่ได้ไปเพิ่มค่า AC เพื่อป้องกันจากการโจมตีนั้น โดยต้องทำหลังจากเห็นว่ามีการทอยเกิดขึ้นไม่ว่าจะรู้ผลลัพท์ว่าโจมตีโดนหรือไม่
+
+#### การโจมตีพิเศษ (Extra Attack)
+
+เริ่มที่เลเวล 6 คุณสามารถโจมตีได้ 2 ครั้ง แทนที่จะเป็นครั้งเดียว เมื่อคุณใช้แอ็คชันโจมตีในเทิร์นของคุณ
+
+#### เวทย์มนต์สงคราม (Battle Magic)
+
+ที่เลเวล 14 คุณจะสำเร็จศิลปะของการผสานรวมการใช้เวทย์มนต์กับการใช้อาวุธให้สอดคล้องกันไปได้ เมื่อคุณใช้แอ็คชันในการร่างคาถาบาร์ด คุณสามารถโจมตีด้วยอาวุธได้โดยการใช้โบนัสแอ็คชัน
+
+### วิทยาลัยแห่งเสียงกระซิบ (College of Whispers)

@@ -2,6 +2,7 @@
 layout: book
 menu: menu-basic-rules
 ---
+
 # บทที่ 11: คาถา (Spells)
 
 This chapter describes the most common spells in the worlds of Dungeons & Dragons. The chapter begins with the spell lists of the spellcasting classes. The remainder contains spell descriptions, presented in alphabetical order by the name of the spell.
@@ -1690,9 +1691,9 @@ Wish
 
 ### Acid Splash
 
-**LEVEL:** Cantrip  
-**CASTING TIME:** 1 Action  
-**RANGE/AREA:** 60 ft  
+**เลเวล:** Cantrip  
+**เวลาในการร่าย:** 1 Action  
+**ระยะ/พื้นที่:** 60 ft  
 **COMPONENTS:** V, S  
 **DURATION:** Instantaneous
 **SCHOOL:** Conjuration  
@@ -1708,9 +1709,9 @@ Available For: `SORCERER` `WIZARD` `ARTIFICER`
 
 ### Aid
 
-**LEVEL:** 2nd  
-**CASTING TIME:** 1 Action  
-**RANGE/AREA:** 30 ft  
+**เลเวล:** 2nd  
+**เวลาในการร่าย:** 1 Action  
+**ระยะ/พื้นที่:** 30 ft  
 **COMPONENTS:** V, S, M \*  
 **DURATION:** 8 Hours  
 **SCHOOL:** Abjuration  
@@ -1729,6 +1730,7 @@ Available For: `CLERIC` `PALADIN` `ARTIFICER` `PEACE DOMAIN` `COMMUNITY DOMAIN`
 ## คาถา B
 
 ### Beast Sense {#beast-sense}
+
 2nd-level divination (ritual)
 
 **Casting Time:** 1 action
@@ -1741,10 +1743,14 @@ Available For: `CLERIC` `PALADIN` `ARTIFICER` `PEACE DOMAIN` `COMMUNITY DOMAIN`
 
 You touch a willing beast. For the duration of the spell, you can use your action to see through the beast’s eyes and hear what it hears, and continue to do so until you use your action to return to your normal senses. While perceiving through the beast’s senses, you gain the benefits of any special senses possessed by that creature, though you are [blinded] and [deafened] to your own surroundings.
 
-### <a name="Bless">Bless
+### Bless {#bless}
 
 ## คาถา C
+
+### Charm Person {#charm-person}
+
 ### Commune with Nature {#commune-with-nature}
+
 5th-level divination (ritual)
 
 **Casting Time:** 1 minute
@@ -1767,29 +1773,31 @@ You instantly gain knowledge of up to three facts of your choice about any of th
 
 For example, you could determine the location of powerful undead in the area, the location of major sources of safe drinking water, and the location of any nearby towns.
 
-### <a name="Cure Wounds">Cure Wounds
+### Cure Wounds {#cure-wounds}
 
 ## คาถา D
 
-### <a name="Dancing Light">Dancing Light
+### ระบำแสง Dancing Light {#dancing-light}
 
-**LEVEL:** Cantrip  
-**CASTING TIME:** 1 Action  
-**RANGE/AREA:** 120 ft  
-**COMPONENTS:** V, S, M \*  
-**DURATION:** _Concentration_ 1 Minute  
-**SCHOOL:** Evocation  
-**ATTACK/SAVE:** None  
-**DAMAGE/EFFECT:** Utility
+**เลเวล:** แคนทริป  
+**เวลาในการร่าย:** 1 Action  
+**ระยะ/พื้นที่:** 120 ft  
+**วิธีการร่าย:** V, S, M \*  
+**ระยะเวลา:** _การตั้งสมาธิ_ 1 นาที  
+**กลุ่มเวทย์:** การเรียกปลุก (Evocation)  
+**ทอยโจมตี/ทอยป้องกัน:** ไม่มี  
+**ความเสียหาย/ผลกระทบ:** อัตถประโยชน์ (Utility)
 
-You create up to four torch-sized lights within range, making them appear as torches, lanterns, or glowing orbs that hover in the air for the duration. You can also combine the four lights into one glowing vaguely humanoid form of Medium size. Whichever form you choose, each light sheds dim light in a 10-foot radius.
+คุณสร้างกลุ่มแสงขนาดเท่าคบไฟสูงสุด 4 กลุ่มภายในระยะ ใช้พวกมันแทนคบไฟ ตะเกียง หรือลูกแก้วเรืองแสงที่ลอยขึ้นเหนือหัวเป็นระยะเวลาหนึ่ง คุณยังสามารถรวมกลุ่มแสงทั้งสี่มาเป็นรูปทรงเหมือนมนุษย์ส่องแสงและมีขนาดกลาง (Medium) ไม่ว่าจะอยู่ในรูปแบบไหนกลุ่มแสงแต่ละกลุ่มจะให้แสงสลัว (dim light) เป็นรัศมี 10 ฟุต
 
-As a bonus action on your turn, you can move the lights up to 60 feet to a new spot within range. A light must be within 20 feet of another light created by this spell, and a light winks out if it exceeds the spell's range.
+โดยใช้โบนัสแอ็คชันในเทิร์นของคุณ คุณสามารถบังคับให้กลุ่มแสงเคลื่อนที่ไปตำแหน่งใหม่ได้ในระยะ 60 ฟุตภายในระยะ กลุ่มแสงจะต้องอยู่ห่างกันไม่เกิน 20 ฟุตจากกลุ่มที่ถูกสร้างด้วยคาถานี้ และกลุ่มแสงจะหลายไปหามันอยู่นอกระยะคาถา
 
-_\*- (a bit of phosphorus or wychwood, or a glowworm)_
+_\*- (ฟอสฟอรัสหรือไม้วิชวู๊ดเล็กน้อย หรือหนอนเรืองแสง)_
 
-Spell Tags: `UTILITY`  
-Available For: `BARD` `SORCERER` `WIZARD` `ARTIFICER`
+แท็กคาถา: `อัตถประโยชน์ (Utility)`{:.tag}  
+สามารถใช้ได้โดย: `บาร์ด`{:.tag} `ซอเซอร์เรอร์`{:.tag} `วิซาร์ด`{:.tag} `อาร์ติฟิเซอร์`{:.tag}
+
+### Detect Magic {#detect-magic}
 
 ## คาถา E
 
@@ -1798,6 +1806,8 @@ Available For: `BARD` `SORCERER` `WIZARD` `ARTIFICER`
 ## คาถา G
 
 ## คาถา H
+
+### Healing Word {#healing-word}
 
 ## คาถา I
 
@@ -1822,7 +1832,9 @@ Available For: `BARD` `SORCERER` `WIZARD` `ARTIFICER`
 ## คาถา R
 
 ## คาถา S
+
 ### Speak with Animals {#speak-with-animals}
+
 1st-level divination (ritual)
 
 **Casting Time:** 1 action
@@ -1837,9 +1849,13 @@ You gain the ability to comprehend and verbally communicate with beasts for the 
 
 ## คาถา T
 
+### Thunderwave {#thunderwave}
+
 ## คาถา U
 
 ## คาถา V
+
+### Vicious Mockery {#vicious-mockery}
 
 ## คาถา W
 
