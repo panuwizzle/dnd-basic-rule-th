@@ -11,57 +11,57 @@ menu: menu-basic-rules
 
 เรียกคำสาปลงมาสู่กองกำลังอันเดด มนุษย์ผู้หนึ่งชูสัญลักษณ์ศักดิ์สิทธิ์ขึ้นพร้อมกับลำแสงที่พุ่งออกมาจากมัน ขับไล่พวกซอมบี้ที่รุมกินโต๊ะพวกพ้องอยู่
 
-Clerics are intermediaries between the mortal world and the distant planes of the gods. As varied as the gods they serve, clerics strive to embody the handiwork of their deities. No ordinary priest, a cleric is imbued with divine magic.
+เคลอริกเป็นตัวกลางระหว่างโลกคนเป็นและมิติที่ห่างไกลของเหล่าทวยเทพ แม้จะมีความหลากหลายดั่งเทพที่พวกเขารับใช้ เคลอริกมุ่งมั่นที่จะเป็นดั่งตัวแทนเจตนาของเหล่าเทพที่พวกเขาบูชา ไม่ใช่เป็นแค่นักบวชทั่วไปแต่เคลอริกได้ผสานเข้ากับเวทย์มนต์อันศักดิ์สิทธิ์
 
-## Healers and Warriors
+## เป็นผู้เยียวยาและเป็นนักรบ
 
-Divine magic, as the name suggests, is the power of the gods, flowing from them into the world. Clerics are conduits for that power, manifesting it as miraculous effects. The gods don’t grant this power to everyone who seeks it, but only to those chosen to fulfill a high calling.
+เวทย์มนต์ศักดิ์สิทธิ์ ดังเช่นความหมายของชื่อ เป็นพลังของเทพเจ้าที่ส่งมอบมาจากพวกเขาโดยตรงมาสู่โลก เคลอริกเป็นเหมือนเส้นทางส่งพลังนั้น นำมาใช้สร้างปาฏิหาริย์ต่าง ๆ เหล่าทวยเทพมิได้ให้พลังนี้แก่ทุกคนที่ร้องขอ จะมีแต่ผู้ที่ถูกเลือกเท่านั้นที่จะได้รับ
 
-Harnessing divine magic doesn’t rely on study or training. A cleric might learn formulaic prayers and ancient rites, but the ability to cast cleric spells relies on devotion and an intuitive sense of a deity’s wishes.
+การควบคุมเวทย์มนต์ศักดิ์สิทธิ์ไม่ได้ต้องใช้การเรียนหรือการฝึกฝน เคลอริกต้องเรียนรูปแบบการสวดภาวนาและพิธีกรรมโบราณ แต่ความสามารถในการใช้คาถานั้นจะขึ้นอยู่กับความอุทิตตนและการหยั่งรู้ถึงความต้องการของเหล่าเทพ
 
-Clerics combine the helpful magic of healing and inspiring their allies with spells that harm and hinder foes. They can provoke awe and dread, lay curses of plague or poison, and even call down flames from heaven to consume their enemies. For those evildoers who will benefit most from a mace to the head, clerics depend on their combat training to let them wade into melee with the power of the gods on their side.
+เคลอริกผสมผสานเวทย์มนต์ช่วยเหลือและสร้างแรงบันดาลใจแก่พันธมิตรด้วยคาถาที่สร้างความเสียหายและขัดขวางศัตรู พวกเขาสร้างความน่าเกรงขามและความหวาดกลัว ใช้คำสาปโรคร้ายหรือพิษ และแม้แต่เรียกเปลวไปจากสวรรค์มาเผาผลาญศัตรูได้ และสำหรับพวกชั่วที่จะใช้ได้ผลแค่คทาฟาดที่หัว เคลอริกก็ฝึกฝนการต่อสู้ประชิดตัวเตรียมรับพวกนี้ไว้แล้วโดยมีพลังของเหล่าเทพอยู่เคียงข้างพวกเขา
 
-## Divine Agents
+## ตัวแทนศักดิ์สิทธิ์
 
-Not every acolyte or officiant at a temple or shrine is a cleric. Some priests are called to a simple life of temple service, carrying out their gods’ will through prayer and sacrifice, not by magic and strength of arms. In some cities, priesthood amounts to a political office, viewed as a stepping stone to higher positions of authority and involving no communion with a god at all. True clerics are rare in most hierarchies.
+ไม่ใช่สาวกหรือผู้ประกอบพิธีกรรมในวิหารหรือศาลเจ้าจะเป็นเคลอริก นักบวชบางคนก็เพียงต้องการชีวิตเรียบง่ายในการรับใช้ชุมชนในวิหาร ส่งผ่านพระประสงค์ของเทพเจ้าผ่านการสวนภาวนาและการบัดพลีบูชา ไม่ใช่โดยการใช้เวทย์มนต์และการต่อสู้ ในบางเมือง การออกบวชเป็นกิจกรรมทางการเมือง ถูกมองว่าเป็นบันไดสู่ตำแหน่งและอำนาจที่สูงขึ้นโดยไม่มีการติดต่อกับเทพแต่อย่างใด เคลอริกที่แท้จริงนั้นหาได้ยากยิ่งในสังคมเช่นนั้น
 
-When a cleric takes up an adventuring life, it is usually because his or her god demands it. Pursuing the goals of the gods often involves braving dangers beyond the walls of civilization, smiting evil or seeking holy relics in ancient tombs. Many clerics are also expected to protect their deities’ worshipers, which can mean fighting rampaging orcs, negotiating peace between warring nations, or sealing a portal that would allow a demon prince to enter the world.
+เมื่อเคลอริกหันหน้าเข้าสู่ชีวิตนักผจญภัย มันมักจะเป็นเพราะเทพเจ้าของเขาหรือเธอเรียกร้องให้เป็นไป การไล่ตามเป้าหมายจากเหล่าเทพมักจะต้องอาศัยความกล้าในการฝ่าฟันอันตรายนอกพื้นที่ถิ่นเจริญ ลงทัณฑ์ความชั่วร้ายหรือค้นหาวัตถุศักดิ์สิทธิ์ในสุสานโบราณ เคลอริกมากมายยังมีเป้าหมายในการปกป้องผู้นับถือเทพเจ้าของพวกเขา ซึ่งอาจจะหมายถึงต้องต่อสู้กับพวกออร์ค เจรจาสันติภาพระหว่างสองประเทศ หรือปิดผนึกประตูมิติป้องกันเจ้าชายปีศาจไม่ให้ขึ้นมาบนพื้นโลก
 
-Most adventuring clerics maintain some connection to established temples and orders of their faiths. A temple might ask for a cleric’s aid, or a high priest might be in a position to demand it.
+เคลอริกนักผจญภัยส่วนใหญ่จะมีสายสัมพันธ์กับเหล่าวิหารและลัทธิของตน วิหารอาจจะร้องขอความช่วยเหลือจากเคลอริก หรือนักบวชอาวุโสอาจจะเป็นผู้ร้องขอ
 
-## Creating a Cleric
+## การสร้างเคลอริก
 
-As you create a cleric, the most important question to consider is which deity to serve and what principles you want your character to embody. [Appendix B]() includes lists of many of the gods of the multiverse. Check with your DM to learn which deities are in your campaign.
+ในการสร้างเคลอริก คำถามที่สำคัญที่ต้องพิจารณาคือคุณรับใช้เทพองค์ใด และหลักการใดที่คุณต้องการให้ตัวละครยึดถือ [ภาคผนวก B](../../appendice-b-god-of-multiverse) มีรายการของเทพเจ้ามากมายในมัลติเวอร์ส ลองสอบถาม DM ของคุณเพื่อเรียนรู้ว่าเทพองค์ใดมีอยู่ในแคมเปญ
 
-Once you’ve chosen a deity, consider your cleric’s relationship to that god. Did you enter this service willingly? Or did the god choose you, impelling you into service with no regard for your wishes? How do the temple priests of your faith regard you: as a champion or a troublemaker? What are your ultimate goals? Does your deity have a special task in mind for you? Or are you striving to prove yourself worthy of a great quest?
+เมื่อคุณเลือกเทพที่คุณนับถือแล้ว ให้พิจารณาถึงความสัมพันธ์ของเคลอริกของคุณกับเทพเจ้าองค์นั้น คุณเข้ามารับใช้ด้วยความสมัครใจหรือไม่? หรือเทพเจ้าเป็นคนเลือกคุณมา ดึงคุณมาใช้งานโดยไม่ได้สนใจความต้องการของคุณหรือไม่? เหล่านักบวชในวิหารของลัทธิที่คุณศรัทธารู้สึกและปฏิบัติต่อคุณอย่างไร? เป็นแชมเปี้ยนหรือเป็นตัวปัญหา อะไรเป็นเป้าหมายสูงสุดของคุณ เทพเจ้าของคุณมีงานสำคัญเตรียมจะให้คุณทำหรือเปล่า? หรือคุณพยายามจะพิสูจน์ตัวเองให้เห็นว่าคุณเหมาะกับงานสำคัญที่กำลังจะมา?
 
-### Quick Build
+### สร้างอย่างเร็ว
 
-You can make a cleric quickly by following these suggestions. First, Wisdom should be your highest ability score, followed by Strength or Constitution. Second, choose the acolyte background.
+คุณสามารถสร้างเคลอริกอย่างรวดเร็วโดยทำตามคำแนะนำดังนี้ อย่างแรก ความรอบรู้ (Wisdom) ควรจะเป็นคะแนนความสามารถที่มากที่สุด ตามมาด้วยความแข็งแกร่ง (Strength) หรือความอดทน (Constitution) อย่างที่สอง เลือกภูมิหลังเป็น สาวก (acolyte)
 
-| Level | Proficiency Bonus | Features                                                                                                                                      | Cantrips <br>Known | —Spell Slots per Spell Level— |     |     |     |     |     |     |     |     |
-| ----- | ----------------- | --------------------------------------------------------------------------------------------------------------------------------------------- | ------------------ | ----------------------------- | --- | --- | --- | --- | --- | --- | --- | --- |
-|       |                   |                                                                                                                                               |                    | 1st                           | 2nd | 3rd | 4th | 5th | 6th | 7th | 8th | 9th |
-| 1st   | +2                | [Spellcasting](#ClericSpellcasting), [Divine Domain](#DivineDomain)                                                                           | 3                  | 2                             | —   | —   | —   | —   | —   | —   | —   | —   |
-| 2nd   | +2                | [Channel Divinity](#ChannelDivinity) (1/rest), [Divine Domain Feature](#DivineDomains)                                                        | 3                  | 3                             | —   | —   | —   | —   | —   | —   | —   | —   |
-| 3rd   | +2                | —                                                                                                                                             | 3                  | 4                             | 2   | —   | —   | —   | —   | —   | —   | —   |
-| 4th   | +2                | [Ability Score Improvement](#ClericAbilityScoreImprovement)                                                                                   | 4                  | 4                             | 3   | —   | —   | —   | —   | —   | —   | —   |
-| 5th   | +3                | [Destroy Undead](#DestroyUndead) (CR 1/2)                                                                                                     | 4                  | 4                             | 3   | 2   | —   | —   | —   | —   | —   | —   |
-| 6th   | +3                | [Channel Divinity](#ChannelDivinity) (2/rest), [Divine Domain Feature](#DivineDomains)                                                        | 4                  | 4                             | 3   | 3   | —   | —   | —   | —   | —   | —   |
-| 7th   | +3                | —                                                                                                                                             | 4                  | 4                             | 3   | 3   | 1   | —   | —   | —   | —   | —   |
-| 8th   | +3                | [Ability Score Improvement](#ClericAbilityScoreImprovement), [Destroy Undead](#DestroyUndead) (CR 1), [Divine Domain Feature](#DivineDomains) | 4                  | 4                             | 3   | 3   | 2   | —   | —   | —   | —   | —   |
-| 9th   | +4                | —                                                                                                                                             | 4                  | 4                             | 3   | 3   | 3   | 1   | —   | —   | —   | —   |
-| 10th  | +4                | [Divine Intervention](#DivineIntervention)                                                                                                    | 5                  | 4                             | 3   | 3   | 3   | 2   | —   | —   | —   | —   |
-| 11th  | +4                | [Destroy Undead](#DestroyUndead) (CR 2)                                                                                                       | 5                  | 4                             | 3   | 3   | 3   | 2   | 1   | —   | —   | —   |
-| 12th  | +4                | [Ability Score Improvement](#ClericAbilityScoreImprovement)                                                                                   | 5                  | 4                             | 3   | 3   | 3   | 2   | 1   | —   | —   | —   |
-| 13th  | +5                | —                                                                                                                                             | 5                  | 4                             | 3   | 3   | 3   | 2   | 1   | 1   | —   | —   |
-| 14th  | +5                | [Destroy Undead](#DestroyUndead) (CR 3)                                                                                                       | 5                  | 4                             | 3   | 3   | 3   | 2   | 1   | 1   | —   | —   |
-| 15th  | +5                | —                                                                                                                                             | 5                  | 4                             | 3   | 3   | 3   | 2   | 1   | 1   | 1   | —   |
-| 16th  | +5                | [Ability Score Improvement](#ClericAbilityScoreImprovement)                                                                                   | 5                  | 4                             | 3   | 3   | 3   | 2   | 1   | 1   | 1   | —   |
-| 17th  | +6                | [Destroy Undead](#DestroyUndead) (CR 4), [Divine Domain Feature](#DivineDomains)                                                              | 5                  | 4                             | 3   | 3   | 3   | 2   | 1   | 1   | 1   | 1   |
-| 18th  | +6                | [Channel Divinity](#ChannelDivinity) (3/rest)                                                                                                 | 5                  | 4                             | 3   | 3   | 3   | 3   | 1   | 1   | 1   | 1   |
-| 19th  | +6                | [Ability Score Improvement](#ClericAbilityScoreImprovement)                                                                                   | 5                  | 4                             | 3   | 3   | 3   | 3   | 2   | 1   | 1   | 1   |
-| 20th  | +6                | [Divine Intervention Improvement](#DivineIntervention)                                                                                        | 5                  | 4                             | 3   | 3   | 3   | 3   | 2   | 2   | 1   | 1   |
+| เลเวล | โบนัสความเชี่ยวชาญ | ความสามารถ                                                                                                                                         | แคนทริปที่รู้ |     |     | —   | สล็อต | คาถา | ต่อ | เลเวล | คาถา | —   |
+| ----- | ------------------ | -------------------------------------------------------------------------------------------------------------------------------------------------- | ------------- | --- | --- | --- | ----- | ---- | --- | ----- | ---- | --- |
+|       |                    |                                                                                                                                                    |               | 1st | 2nd | 3rd | 4th   | 5th  | 6th | 7th   | 8th  | 9th |
+| 1st   | +2                 | [การใช้คาถา (Spellcasting)](#spellcasting), [อาณาเขตศักดิ์สิทธิ์ (Divine Domain)](#divine-domain)                                                                                     | 3             | 2   | —   | —   | —     | —    | —   | —     | —    | —   |
+| 2nd   | +2                 | [การเชื่อมต่อพลังศักดิ์สิทธิ์ (Channel Divinity)](#channel-divinity) (1/rest), [Divine Domain Feature](#divine-domain-feature)                                                    | 3             | 3   | —   | —   | —     | —    | —   | —     | —    | —   |
+| 3rd   | +2                 | —                                                                                                                                                  | 3             | 4   | 2   | —   | —     | —    | —   | —     | —    | —   |
+| 4th   | +2                 | [Ability Score Improvement](#ability-score-improvement)                                                                                            | 4             | 4   | 3   | —   | —     | —    | —   | —     | —    | —   |
+| 5th   | +3                 | [Destroy Undead](#destroy-undead) (CR 1/2)                                                                                                         | 4             | 4   | 3   | 2   | —     | —    | —   | —     | —    | —   |
+| 6th   | +3                 | [Channel Divinity](#channel-divinity) (2/rest), [Divine Domain Feature](#divine-domain-feature)                                                    | 4             | 4   | 3   | 3   | —     | —    | —   | —     | —    | —   |
+| 7th   | +3                 | —                                                                                                                                                  | 4             | 4   | 3   | 3   | 1     | —    | —   | —     | —    | —   |
+| 8th   | +3                 | [Ability Score Improvement](#ability-score-improvement), [Destroy Undead](#destroy-undead) (CR 1), [Divine Domain Feature](#divine-domain-feature) | 4             | 4   | 3   | 3   | 2     | —    | —   | —     | —    | —   |
+| 9th   | +4                 | —                                                                                                                                                  | 4             | 4   | 3   | 3   | 3     | 1    | —   | —     | —    | —   |
+| 10th  | +4                 | [Divine Intervention](#DivineIntervention)                                                                                                         | 5             | 4   | 3   | 3   | 3     | 2    | —   | —     | —    | —   |
+| 11th  | +4                 | [Destroy Undead](#destroy-undead) (CR 2)                                                                                                           | 5             | 4   | 3   | 3   | 3     | 2    | 1   | —     | —    | —   |
+| 12th  | +4                 | [Ability Score Improvement](#ability-score-improvement)                                                                                            | 5             | 4   | 3   | 3   | 3     | 2    | 1   | —     | —    | —   |
+| 13th  | +5                 | —                                                                                                                                                  | 5             | 4   | 3   | 3   | 3     | 2    | 1   | 1     | —    | —   |
+| 14th  | +5                 | [Destroy Undead](#destroy-undead) (CR 3)                                                                                                           | 5             | 4   | 3   | 3   | 3     | 2    | 1   | 1     | —    | —   |
+| 15th  | +5                 | —                                                                                                                                                  | 5             | 4   | 3   | 3   | 3     | 2    | 1   | 1     | 1    | —   |
+| 16th  | +5                 | [Ability Score Improvement](#ability-score-improvement)                                                                                            | 5             | 4   | 3   | 3   | 3     | 2    | 1   | 1     | 1    | —   |
+| 17th  | +6                 | [Destroy Undead](#destroy-undead) (CR 4), [Divine Domain Feature](#divine-domain-feature)                                                          | 5             | 4   | 3   | 3   | 3     | 2    | 1   | 1     | 1    | 1   |
+| 18th  | +6                 | [Channel Divinity](#channel-divinity) (3/rest)                                                                                                     | 5             | 4   | 3   | 3   | 3     | 3    | 1   | 1     | 1    | 1   |
+| 19th  | +6                 | [Ability Score Improvement](#ability-score-improvement)                                                                                            | 5             | 4   | 3   | 3   | 3     | 3    | 2   | 1     | 1    | 1   |
+| 20th  | +6                 | [Divine Intervention Improvement](#divine-intervention)                                                                                            | 5             | 4   | 3   | 3   | 3     | 3    | 2   | 2     | 1    | 1   |
 
 ## Class Features
 
@@ -97,7 +97,7 @@ You start with the following equipment, in addition to the equipment granted by 
 - (a) a priest’s pack or (b) an explorer’s pack
 - A shield and a holy symbol
 
-## Spellcasting
+## Spellcasting {#spellcasting}
 
 As a conduit for divine power, you can cast cleric spells. See [chapter 10] for the general rules of spellcasting and [chapter 11] for the cleric spell list.
 
@@ -131,7 +131,7 @@ You can cast a cleric spell as a ritual if that spell has the ritual tag and you
 
 You can use a holy symbol (see chapter 5, “Equipment”) as a spellcasting focus for your cleric spells.
 
-## Divine Domain
+## Divine Domain {#divine-domain}
 
 Choose one domain related to your deity: Knowledge, Life, Light, Nature, Tempest, Trickery, or War. Each domain is detailed at the end of the class description, and each one provides examples of gods associated with it. Your choice grants you domain spells and other features when you choose it at 1st level. It also grants you additional ways to use Channel Divinity when you gain that feature at 2nd level, and additional benefits at 6th, 8th, and 17th levels.
 
@@ -141,7 +141,7 @@ Each domain has a list of spells — its domain spells — that you gain at the 
 
 If you have a domain spell that doesn’t appear on the cleric spell list, the spell is nonetheless a cleric spell for you.
 
-## Channel Divinity
+## Channel Divinity {#channel-divinity}
 
 At 2nd level, you gain the ability to channel divine energy directly from your deity, using that energy to fuel magical effects. You start with two such effects: Turn Undead and an effect determined by your domain. Some domains grant you additional effects as you advance in levels, as noted in the domain description.
 
@@ -157,11 +157,11 @@ As an action, you present your holy symbol and speak a prayer censuring the unde
 
 A turned creature must spend its turns trying to move as far away from you as it can, and it can’t willingly move to a space within 30 feet of you. It also can’t take reactions. For its action, it can use only the Dash action or try to escape from an effect that prevents it from moving. If there’s nowhere to move, the creature can use the Dodge action.
 
-## Ability Score Improvement
+## Ability Score Improvement {#ability-score-improvement}
 
 When you reach 4th level, and again at 8th, 12th, 16th, and 19th level, you can increase one ability score of your choice by 2, or you can increase two ability scores of your choice by 1. As normal, you can’t increase an ability score above 20 using this feature.
 
-## Destroy Undead
+## Destroy Undead {#destroy-undead}
 
 Starting at 5th level, when an undead fails its saving throw against your Turn Undead feature, the creature is instantly destroyed if its challenge rating is at or below a certain threshold, as shown in the Destroy Undead table.
 
@@ -175,7 +175,7 @@ Starting at 5th level, when an undead fails its saving throw against your Turn U
 | 14th         | 3 or lower                  |
 | 17th         | 4 or lower                  |
 
-## Divine Intervention
+## Divine Intervention {#divine-intervention}
 
 Beginning at 10th level, you can call on your deity to intervene on your behalf when your need is great.
 
@@ -185,7 +185,7 @@ If your deity intervenes, you can’t use this feature again for 7 days. Otherwi
 
 At 20th level, your call for intervention succeeds automatically, no roll required.
 
-## Divine Domains
+## Divine Domains {#divine-domain-feature}
 
 In a pantheon, every deity has influence over different aspects of mortal life and civilization, called a deity’s domain. All the domains over which a deity has influence are called the deity’s portfolio. For example, the portfolio of the Greek god Apollo includes the domains of Knowledge, Life, and Light. As a cleric, you choose one aspect of your deity’s portfolio to emphasize, and you are granted powers related to that domain.
 
