@@ -2,7 +2,7 @@
 layout: book
 menu: menu-basic-rules
 ---
-## <a name="paladin">Paladin</a>
+# Paladin
 
 Clad in plate armor that gleams in the sunlight despite the dust and grime of long travel, a human lays down her sword and shield and places her hands on a mortally wounded man. Divine radiance shines from her hands, the man’s wounds knit closed, and his eyes open wide with amazement.
 

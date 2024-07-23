@@ -2,7 +2,7 @@
 layout: book
 menu: menu-basic-rules
 ---
-## <a name="monk">Monk</a>
+# Monk
 
 Her fists a blur as they deflect an incoming hail of arrows, a half-elf springs over a barricade and throws herself into the massed ranks of hobgoblins on the other side. She whirls among them, knocking their blows aside and sending them reeling, until at last she stands alone.
 

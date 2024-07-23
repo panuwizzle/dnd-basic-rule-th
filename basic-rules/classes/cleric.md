@@ -3,13 +3,13 @@ layout: book
 menu: menu-basic-rules
 ---
 
-# Cleric
+# เคลอริก (Cleric)
 
-Arms and eyes upraised toward the sun and a prayer on his lips, an elf begins to glow with an inner light that spills out to heal his battle-worn companions.
+ด้วยสองแขนและสองตาที่ยกขึ้นไปสู่ดวงอาทิตย์และการสวดภาวนาจากปากของเขา เอลฟ์ผู้หนึ่งเริ่มจะมีแสงเรืองจากภายในและกระจายออกมาเพื่อรักษาบาดแผลของเหล่าเพื่อนร่วมรบ
 
-Chanting a song of glory, a dwarf swings his axe in wide swaths to cut through the ranks of orcs arrayed against him, shouting praise to the gods with every foe’s fall.
+ร้องสวดเพลงแห่งชัยชนะไปด้วย ดวอร์ฟกวัดแกว่งขวานในมือเข้าห้ำหั่นกับกลุ่มออร์คที่ประจันหน้ากับเขา พร้อมตะโกนสรรเสริญถึงเหล่าทวยเทพในทุก ๆ ศัตรูที่ร่วงล้มตาย
 
-Calling down a curse upon the forces of undeath, a human lifts her holy symbol as light pours from it to drive back the zombies crowding in on her companions.
+เรียกคำสาปลงมาสู่กองกำลังอันเดด มนุษย์ผู้หนึ่งชูสัญลักษณ์ศักดิ์สิทธิ์ขึ้นพร้อมกับลำแสงที่พุ่งออกมาจากมัน ขับไล่พวกซอมบี้ที่รุมกินโต๊ะพวกพ้องอยู่
 
 Clerics are intermediaries between the mortal world and the distant planes of the gods. As varied as the gods they serve, clerics strive to embody the handiwork of their deities. No ordinary priest, a cleric is imbued with divine magic.
 
@@ -211,7 +211,7 @@ The Life domain focuses on the vibrant positive energy — one of the fundamenta
 
 | Cleric Level | Spells                                                                                                                                           |
 | ------------ | ------------------------------------------------------------------------------------------------------------------------------------------------ |
-| 1st          | [bless](../../ch11-spells.md#bless), [cure wounds](../../ch11-spells.md#cure-wounds)                                                                   |
+| 1st          | [bless](../../ch11-spells.md#bless), [cure wounds](../../ch11-spells.md#cure-wounds)                                                             |
 | 3rd          | [lesser restoration](https://www.dndbeyond.com/spells/lesser-restoration), [spiritual weapon](https://www.dndbeyond.com/spells/spiritual-weapon) |
 | 5th          | [beacon of hope](https://www.dndbeyond.com/spells/beacon-of-hope), [revivify](https://www.dndbeyond.com/spells/revivify)                         |
 | 7th          | [death ward](https://www.dndbeyond.com/spells/death-ward), [guardian of faith](https://www.dndbeyond.com/spells/guardian-of-faith)               |

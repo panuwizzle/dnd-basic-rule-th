@@ -2,7 +2,7 @@
 layout: book
 menu: menu-basic-rules
 ---
-## <a name="druid">Druid</a>
+# Druid
 
 Holding high a gnarled staff wreathed with holly, an elf summons the fury of the storm and calls down explosive bolts of lightning to smite the torch-carrying orcs who threaten her forest.
 

@@ -2,7 +2,7 @@
 layout: book
 menu: menu-basic-rules
 ---
-## <a name="rogue">Rogue</a>
+# Rogue
 
 Signaling for her companions to wait, a halfling creeps forward through the dungeon hall. She presses an ear to the door, then pulls out a set of tools and picks the lock in the blink of an eye. Then she disappears into the shadows as her fighter friend moves forward to kick the door open.
 
