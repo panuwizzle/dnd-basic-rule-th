@@ -42,219 +42,219 @@ menu: menu-basic-rules
 | เลเวล | โบนัสความเชี่ยวชาญ | ความสามารถ                                                                                                                                         | แคนทริปที่รู้ |     |     | —   | สล็อต | คาถา | ต่อ | เลเวล | คาถา | —   |
 | ----- | ------------------ | -------------------------------------------------------------------------------------------------------------------------------------------------- | ------------- | --- | --- | --- | ----- | ---- | --- | ----- | ---- | --- |
 |       |                    |                                                                                                                                                    |               | 1st | 2nd | 3rd | 4th   | 5th  | 6th | 7th   | 8th  | 9th |
-| 1st   | +2                 | [การใช้คาถา (Spellcasting)](#spellcasting), [อาณาเขตศักดิ์สิทธิ์ (Divine Domain)](#divine-domain)                                                                                     | 3             | 2   | —   | —   | —     | —    | —   | —     | —    | —   |
-| 2nd   | +2                 | [การเชื่อมต่อพลังศักดิ์สิทธิ์ (Channel Divinity)](#channel-divinity) (1/rest), [Divine Domain Feature](#divine-domain-feature)                                                    | 3             | 3   | —   | —   | —     | —    | —   | —     | —    | —   |
+| 1st   | +2                 | [การใช้คาถา (Spellcasting)](#spellcasting), [เขตอำนาจศักดิ์สิทธิ์ (Divine Domain)](#divine-domain)                                                                                     | 3             | 2   | —   | —   | —     | —    | —   | —     | —    | —   |
+| 2nd   | +2                 | [การเชื่อมต่อพลังศักดิ์สิทธิ์ (Channel Divinity)](#channel-divinity) (1/rest), [คุณลักษณะเขตอำนาจศักดิ์สิทธิ์ (Divine Domain Feature)](#divine-domain-feature)                                                    | 3             | 3   | —   | —   | —     | —    | —   | —     | —    | —   |
 | 3rd   | +2                 | —                                                                                                                                                  | 3             | 4   | 2   | —   | —     | —    | —   | —     | —    | —   |
-| 4th   | +2                 | [Ability Score Improvement](#ability-score-improvement)                                                                                            | 4             | 4   | 3   | —   | —     | —    | —   | —     | —    | —   |
-| 5th   | +3                 | [Destroy Undead](#destroy-undead) (CR 1/2)                                                                                                         | 4             | 4   | 3   | 2   | —     | —    | —   | —     | —    | —   |
-| 6th   | +3                 | [Channel Divinity](#channel-divinity) (2/rest), [Divine Domain Feature](#divine-domain-feature)                                                    | 4             | 4   | 3   | 3   | —     | —    | —   | —     | —    | —   |
+| 4th   | +2                 | [เพิ่มคะแนนความสามารถ (Ability Score Improvement)](#ability-score-improvement)                                                                                            | 4             | 4   | 3   | —   | —     | —    | —   | —     | —    | —   |
+| 5th   | +3                 | [ทำลายผีดิบ (Destroy Undead)](#destroy-undead) (CR 1/2)                                                                                                         | 4             | 4   | 3   | 2   | —     | —    | —   | —     | —    | —   |
+| 6th   | +3                 | [การเชื่อมต่อพลังศักดิ์สิทธิ์ (Channel Divinity)](#channel-divinity) (2/rest), [คุณลักษณะเขตอำนาจศักดิ์สิทธิ์ (Divine Domain Feature)](#divine-domain-feature)                                                    | 4             | 4   | 3   | 3   | —     | —    | —   | —     | —    | —   |
 | 7th   | +3                 | —                                                                                                                                                  | 4             | 4   | 3   | 3   | 1     | —    | —   | —     | —    | —   |
-| 8th   | +3                 | [Ability Score Improvement](#ability-score-improvement), [Destroy Undead](#destroy-undead) (CR 1), [Divine Domain Feature](#divine-domain-feature) | 4             | 4   | 3   | 3   | 2     | —    | —   | —     | —    | —   |
+| 8th   | +3                 | [เพิ่มคะแนนความสามารถ (Ability Score Improvement)](#ability-score-improvement), [ทำลายผีดิบ (Destroy Undead)](#destroy-undead) (CR 1), [คุณลักษณะเขตอำนาจศักดิ์สิทธิ์ (Divine Domain Feature)](#divine-domain-feature) | 4             | 4   | 3   | 3   | 2     | —    | —   | —     | —    | —   |
 | 9th   | +4                 | —                                                                                                                                                  | 4             | 4   | 3   | 3   | 3     | 1    | —   | —     | —    | —   |
-| 10th  | +4                 | [Divine Intervention](#DivineIntervention)                                                                                                         | 5             | 4   | 3   | 3   | 3     | 2    | —   | —     | —    | —   |
-| 11th  | +4                 | [Destroy Undead](#destroy-undead) (CR 2)                                                                                                           | 5             | 4   | 3   | 3   | 3     | 2    | 1   | —     | —    | —   |
-| 12th  | +4                 | [Ability Score Improvement](#ability-score-improvement)                                                                                            | 5             | 4   | 3   | 3   | 3     | 2    | 1   | —     | —    | —   |
+| 10th  | +4                 | [การแทรกแซงจากเทพเจ้า (Divine Intervention)](#DivineIntervention)                                                                                                         | 5             | 4   | 3   | 3   | 3     | 2    | —   | —     | —    | —   |
+| 11th  | +4                 | [ทำลายผีดิบ (Destroy Undead)](#destroy-undead) (CR 2)                                                                                                           | 5             | 4   | 3   | 3   | 3     | 2    | 1   | —     | —    | —   |
+| 12th  | +4                 | [เพิ่มคะแนนความสามารถ (Ability Score Improvement)](#ability-score-improvement)                                                                                            | 5             | 4   | 3   | 3   | 3     | 2    | 1   | —     | —    | —   |
 | 13th  | +5                 | —                                                                                                                                                  | 5             | 4   | 3   | 3   | 3     | 2    | 1   | 1     | —    | —   |
-| 14th  | +5                 | [Destroy Undead](#destroy-undead) (CR 3)                                                                                                           | 5             | 4   | 3   | 3   | 3     | 2    | 1   | 1     | —    | —   |
+| 14th  | +5                 | [ทำลายผีดิบ (Destroy Undead)](#destroy-undead) (CR 3)                                                                                                           | 5             | 4   | 3   | 3   | 3     | 2    | 1   | 1     | —    | —   |
 | 15th  | +5                 | —                                                                                                                                                  | 5             | 4   | 3   | 3   | 3     | 2    | 1   | 1     | 1    | —   |
-| 16th  | +5                 | [Ability Score Improvement](#ability-score-improvement)                                                                                            | 5             | 4   | 3   | 3   | 3     | 2    | 1   | 1     | 1    | —   |
-| 17th  | +6                 | [Destroy Undead](#destroy-undead) (CR 4), [Divine Domain Feature](#divine-domain-feature)                                                          | 5             | 4   | 3   | 3   | 3     | 2    | 1   | 1     | 1    | 1   |
-| 18th  | +6                 | [Channel Divinity](#channel-divinity) (3/rest)                                                                                                     | 5             | 4   | 3   | 3   | 3     | 3    | 1   | 1     | 1    | 1   |
-| 19th  | +6                 | [Ability Score Improvement](#ability-score-improvement)                                                                                            | 5             | 4   | 3   | 3   | 3     | 3    | 2   | 1     | 1    | 1   |
-| 20th  | +6                 | [Divine Intervention Improvement](#divine-intervention)                                                                                            | 5             | 4   | 3   | 3   | 3     | 3    | 2   | 2     | 1    | 1   |
+| 16th  | +5                 | [เพิ่มคะแนนความสามารถ (Ability Score Improvement)](#ability-score-improvement)                                                                                            | 5             | 4   | 3   | 3   | 3     | 2    | 1   | 1     | 1    | —   |
+| 17th  | +6                 | [ทำลายผีดิบ (Destroy Undead)](#destroy-undead) (CR 4), [คุณลักษณะเขตอำนาจศักดิ์สิทธิ์ (Divine Domain Feature)](#divine-domain-feature)                                                          | 5             | 4   | 3   | 3   | 3     | 2    | 1   | 1     | 1    | 1   |
+| 18th  | +6                 | [การเชื่อมต่อพลังศักดิ์สิทธิ์ (Channel Divinity)](#channel-divinity) (3/rest)                                                                                                     | 5             | 4   | 3   | 3   | 3     | 3    | 1   | 1     | 1    | 1   |
+| 19th  | +6                 | [เพิ่มคะแนนความสามารถ (Ability Score Improvement)](#ability-score-improvement)                                                                                            | 5             | 4   | 3   | 3   | 3     | 3    | 2   | 1     | 1    | 1   |
+| 20th  | +6                 | [การแทรกแซงจากเทพเจ้า (Divine Intervention Improvement)](#divine-intervention)                                                                                            | 5             | 4   | 3   | 3   | 3     | 3    | 2   | 2     | 1    | 1   |
 
-## Class Features
+## ความสามารถของคลาส (Class Features)
 
-As a cleric, you gain the following class features.
+เมื่อเป็นเคลอริก คุณจะได้รับคุณสมบัติประจำคลาสดังนี้
 
-### Hit Points
+### ค่าเลือด (Hit Points)
 
-**Hit Dice:** 1d8 per cleric level
+**ฮิทไดซ์:** 1d8 ต่อเลเวลเคลอริก
 
-**Hit Points at 1st Level:** 8 + your Constitution modifier
+**ค่าเลือดที่เลเวล 1:** 8 + ค่าโมดิไฟเออร์ความอดทน (Constitution)
 
-**Hit Points at Higher Levels:** 1d8 (or 5) + your Constitution modifier per cleric level after 1st
+**ค่าเลือดเมื่อเลเวลสูงขึ้น:** 1d8 (หรือ 5) + ค่าโมดิไฟเออร์ความอดทน (Constitution) ต่อเลเวลเคลอริกหลังเลเวล 1
 
-### Proficiencies
+### ความชำนาญ (Proficiencies)
 
-**Armor:** Light armor, medium armor, shields
+**เกราะ:** เกราะเบา, เกราะกลาง, โล่
 
-**Weapons:** Simple weapons
+**อาวุธ:** อาวุธพื้นฐาน (Simple weapons)
 
-**Tools:** None
+**เครื่องมือ:** ไม่มี
 
-**Saving Throws:** Wisdom, Charisma
+**ทอยป้องกัน:** ความรอบรู้ (Wisdom), เสน่ห์ (Charisma)
 
-**Skills:** Choose two from [History], [Insight], [Medicine], [Persuasion], and [Religion]
+**ทักษะ:** เลือก 2 ทักษะจาก [ประวัติศาสตร์ (History)](../../ch07-using-ability-scores#history), [การมองทะลุ (Insight)](../../ch07-using-ability-scores#insight), [การรักษาพยาบาล (Medicine)](../../ch07-using-ability-scores#medicine), [การชักจูงใจ (Persuasion)](../../ch07-using-ability-scores#persuasion), and [ศาสนา (Religion)](../../ch07-using-ability-scores#religion)
 
-### Equipment
+### อุปกรณ์ (Equipment)
 
-You start with the following equipment, in addition to the equipment granted by your background:
+คุณจะเริ่มเกมด้วยอุปกรณ์เหล่านี้เพิ่มเติมนอกเหนือจากที่ได้รับจากภูมิหลัง:
 
-- (a) a mace or (b) a warhammer (if proficient)
-- (a) scale mail, (b) leather armor, or (c) chain mail (if proficient)
-- (a) a light crossbow and 20 bolts or (b) any simple weapon
-- (a) a priest’s pack or (b) an explorer’s pack
-- A shield and a holy symbol
+- (a) คฑา (mace) 1 ด้าม หรือ (b) ฆ้อนสงคราม (warhammer) 1 ด้าม (ถ้ามีความชำนาญในการใช้)
+- (a) เกราะเกล็ด (scale mail), (b) เกราะหนัง (leather armor), หรือ (c) เกราะโซ่ (chain mail) (ถ้ามีความชำนาญในการใช้)
+- (a) ครอสโบวเบา (light crossbow) และ ลูกดอก 20 (bolt) ดอก หรือ (b) อาวุธพื้นฐานใด ๆ (simple weapon)
+- (a) ชุดอุปกรณ์นักบวช (priest’s pack) หรือ (b) ชุดอุปกรณ์นักสำรวจ (explorer’s pack)
+- โล่และสัญลักษณ์ศักดิ์สิทธิ์ (shield and a holy symbol)
 
-## Spellcasting {#spellcasting}
+## การใช้คาถา (Spellcasting) {#spellcasting}
 
-As a conduit for divine power, you can cast cleric spells. See [chapter 10] for the general rules of spellcasting and [chapter 11] for the cleric spell list.
+เมื่อเป็นทางผ่านของพลังศักดิสิทธิ์ คุณสามารถใช้คาถาของเคลอริกได้ ดู [บทที่ 10](../../ch10-spellcasting) สำหรับกฏทั่วไปของการใช้คาถา และ [บทที่ 11](../../ch11-spells) สำหรับรายการคาถาของเคลอริก
 
-### Cantrips
+### แคนทริป (Cantrips) คาถาที่ใช้ได้โดยไม่ต้องเสียสล็อตคาถา (spell slot)
 
-At 1st level, you know three cantrips of your choice from the cleric spell list. You learn additional cleric cantrips of your choice at higher levels, as shown in the Cantrips Known column of the Cleric table.
+ที่เลเวล 1 คุณจะรู้แคนทริป 3 คาถาตามที่คุณเลือกจากรายการคาถาเคลอริก คุณจะเรียนรู้ได้เพิ่มขึ้นเมื่อเลเวลสูงขึ้นตามจำนวนที่ระบุในคอลัมภ์ "แคนทริปที่รู้" ในตารางความสามารถเคลอริก
 
-### Preparing and Casting Spells
+### การเตรียมและการร่ายคาถา
 
-The Cleric table shows how many spell slots you have to cast your cleric spells of 1st level and higher. To cast one of these spells, you must expend a slot of the spell’s level or higher. You regain all expended spell slots when you finish a long rest.
+ตารางเคลอริกแสดงจำนวนสล็อตคาถาที่คุณมีเพื่อใช้ในการร่ายคาถาเลเวล 1 และมากกว่า การจะร่ายคาถาเหล่านี้คุณต้องจ่ายเป็นสล็อตคาถาตามเลเวลของมันหรือเลเวลสูงกว่า คุณจะได้รับสล็อตทั้งหมดที่ใช้ไปกลับคืนมาเมื่อคุณจบการพักยาว
 
-You prepare the list of cleric spells that are available for you to cast, choosing from the cleric spell list. When you do so, choose a number of cleric spells equal to your Wisdom modifier + your cleric level (minimum of one spell). The spells must be of a level for which you have spell slots.
+คุณสามารถเตรียมรายการคาถาที่จะใช้ในการร่ายโดยเลือกจากรายการคาถาเคลอริก โดยจำนวนที่เตรียมได้จะได้มากจากค่าโมดิไฟเออร์ความรอบรู้ (Wisdom) + เลเวลเคลอริก (น้อยที่สุด 1 คาถา) โดยคาถาจะต้องมีเลเวลเดียวกับสล็อตคาถาที่คุณมี
 
-For example, if you are a 3rd-level cleric, you have four 1st-level and two 2nd-level spell slots. With a Wisdom of 16, your list of prepared spells can include six spells of 1st or 2nd level, in any combination. If you prepare the 1st-level spell cure wounds, you can cast it using a 1st-level or 2nd-level slot. Casting the spell doesn’t remove it from your list of prepared spells.
+ตัวอย่างเช่น ถ้าคุณเป็นเคลอริกเลเวล 3 คุณจะมีสล็อตคาถาเลเวล 1 จำนวน 4 ช่อง และเลเวล 2 จำนวน 2 ช่อง คุณมีค่าความรอบรู้ 16 (ค่าโมดิไฟเออร์เป็น 3) ฉะนั้นรายการคาถาของคุณจะมี 6 คาถา โดยเป็นคาถาเลเวล 1 และ 2 รวมกัน ถ้าคุณเตรียมคาถารักษาบาดแผล (cure wounds) เลเวล 1 มา คุณสามารถร่ายคาถาโดยใช้สล็อตเลเวล 1 หรือ 2 ก็ได้ การร่ายคาถาไม่ได้เป็นการเสียคาถาไปจากรายการที่เตรียมมา
 
-You can change your list of prepared spells when you finish a long rest. Preparing a new list of cleric spells requires time spent in prayer and meditation: at least 1 minute per spell level for each spell on your list.
+คุณสามารถจะปรับเปลี่ยนรายการคาถาที่เตรียมมาได้หลังการพักยาว การเตรียมรายการใหม่ต้องใช้เวลาในการสวดภาวนาและการทำสมาธิ อย่างน้อย 1 นาทีต่อเลเวลคาถาในแต่ละคาถาในรายการ
 
-### Spellcasting Ability
+### ความสามารถที่ใช้ในการร่ายคาถา (Spellcasting Ability)
 
-Wisdom is your spellcasting ability for your cleric spells. The power of your spells comes from your devotion to your deity. You use your Wisdom whenever a cleric spell refers to your spellcasting ability. In addition, you use your Wisdom modifier when setting the saving throw DC for a cleric spell you cast and when making an attack roll with one.
+ความรอบรู้ (Wisdom) เป็นความสามารถที่ใช้ในการใช้คาถาสำหรับคาถาเคลอริกของคุณ พลังของคาถาของคุณจะมาจากการอุทิตตนให้กับเทพเจ้า คุณจะใช้ค่าความรอบรู้เมื่อไรก็ตามที่คาถาระบุถึงความสามารถที่ใช้ในการร่ายคาถา นอกจากนั้นแล้วคุณยังจะใช้ค่าโมดิไฟเออร์ของความรอบรู้เพื่อกำหนดค่าความยากในการทอยป้องกันคาถา (Spell save DC) และเมื่อคุณต้องทอยโจมตีด้วยคาถา
 
-**Spell save DC** = 8 + your proficiency bonus + your Wisdom modifier
+**ค่าความยากในการทอยป้องกันคาถา (Spell save DC)** = 8 + ค่าโบนัสความเชี่ยวชาญ + ค่าโมดิไฟเออร์ความรอบรู้
 
-**Spell attack modifier** = your proficiency bonus + your Wisdom modifier
+**ค่าโมดิไฟเออร์การทอยโจมตีด้วยคาถา (Spell attack modifier)** = ค่าโบนัสความเชี่ยวชาญ + ค่าโมดิไฟเออร์ความรอบรู้
 
-#### Ritual Casting
+#### การประกอบพิธีกรรม (Ritual Casting)
 
-You can cast a cleric spell as a ritual if that spell has the ritual tag and you have the spell prepared.
+คุณสามารถร่ายคาถาเคลอริกแบบพิธีกรรมได้ หากคาถานั้นมีแท็ก "พิธีกรรม (ritual)" และคุณเตรียมคาถานั้นมา
 
-#### Spellcasting Focus
+#### สิ่งรวมสมาธิในการร่ายคาถา (Spellcasting Focus)
 
-You can use a holy symbol (see chapter 5, “Equipment”) as a spellcasting focus for your cleric spells.
+คุณสามารถใช้เครื่องดนตรี (ดูบทที่ 5 "[อุปกรณ์](../../ch05-equipment)") เป็นสิ่งรวมสมาธิในการร่ายคาถาของเคลอริกได้
 
-## Divine Domain {#divine-domain}
+## เขตอำนาจศักดิ์สิทธิ์ (Divine Domain) {#divine-domain}
 
-Choose one domain related to your deity: Knowledge, Life, Light, Nature, Tempest, Trickery, or War. Each domain is detailed at the end of the class description, and each one provides examples of gods associated with it. Your choice grants you domain spells and other features when you choose it at 1st level. It also grants you additional ways to use Channel Divinity when you gain that feature at 2nd level, and additional benefits at 6th, 8th, and 17th levels.
+เลือกหนึ่งในเขตอำนาจที่เกี่ยวเนื่องกับเทพเจ้าของคุณ ความรู้ (Knowledge), ชีวิต (Life), แสง (Light), ธรรมชาติ (Nature), พายุพิโรธ (Tempest), กลอุบาย (Trickery) หรือสงคราม (War) แต่ละเขตอำนาจมีคำอธิบายในส่วนท้ายของคำธิบายคลาส และแต่ละอย่างจะมีตัวอย่างของเทพเจ้าที่ผูกโยงกับเขตอำนาจต่าง ๆ นี้ ตัวเลือกที่คุณเลือกจะให้คาถาประจำเขตอำนาจและคุณลักษณะอื่น ๆ เมื่อคุณเลือกตั้งแต่เลเวล 1 และจะเพิ่มทางเลือกให้คุณใช้งาน การเชื่อมต่อพลังศักดิ์สิทธิ์ (Channel Divinity) เมื่อคุณได้รับความสามารถนี้เมื่อเลเวล 2 และมีคุณลักษณะเพิ่มเติมอีกเมื่อเลเวล 6, 8 และ 17
 
-### Domain Spells
+### คาถาประจำเขตอำนาจ (Domain Spells)
 
-Each domain has a list of spells — its domain spells — that you gain at the cleric levels noted in the domain description. Once you gain a domain spell, you always have it prepared, and it doesn’t count against the number of spells you can prepare each day.
+แต่ละเขตอำนาจจะมีรายการคาถาประจำเขตอำนาจที่คุณจะได้รับและใช้ได้ มีรายละเอียดในคำอธิบายเขตอำนาจ เมื่อคุณได้รับคาถาประจำเขตอำนาจ คุณจะมีมันประจำอยู่ในรายการเสมอและมันจะไม่ถูกนับรวมกับจำนวนคาถาที่คุณสามารถเตรียมได้ในแต่ละวัน
 
-If you have a domain spell that doesn’t appear on the cleric spell list, the spell is nonetheless a cleric spell for you.
+ถ้าคุณมีคาถาประจำเขตอำนาจที่ไม่ได้อยู่ในรายการคาถาของเคลอริก ให้ถือว่าคาถานั้นเป็นคาถาของเคลอริกโดยปริยาย
 
-## Channel Divinity {#channel-divinity}
+## การเชื่อมต่อพลังศักดิ์สิทธิ์ (Channel Divinity) {#channel-divinity}
 
-At 2nd level, you gain the ability to channel divine energy directly from your deity, using that energy to fuel magical effects. You start with two such effects: Turn Undead and an effect determined by your domain. Some domains grant you additional effects as you advance in levels, as noted in the domain description.
+เมื่อคุณเลเวล 2 คุณจะได้รับความสามารถในการเชื่อมต่อพลังศักดิสิทธิ์โดยตรงจากเทพเจ้าของคุณ ใช้พลังนั้นในการสร้างผลของคาถา คุณจะเริ่มใช้ได้ 2 อย่างคือ ขับไล่ผีดิบ (Turn Undead) และอีกอย่างจากเขตอำนาจที่คุณเลือก เขตอำนาจบางอย่างจะให้ผลพิเศษเพิ่มขึ้นเมื่อคุณเลเวลสูงขึ้น ตามที่มีระบุในคำอธิบายเขตอำนาจ
 
-When you use your Channel Divinity, you choose which effect to create. You must then finish a short or long rest to use your Channel Divinity again.
+เมื่อคุณใช้ความสามารถเชื่อมต่อพลังศักดิ์สิทธิ์ คุณเลือกผลที่เกิดขึ้น คุณต้องจบการพักสั้นหรือพักยาวก่อนที่จะใช้ได้อีกครั้ง
 
-Some Channel Divinity effects require saving throws. When you use such an effect from this class, the DC equals your cleric spell save DC.
+ผลจากการใช้พลังศักดิ์สิทธิ์บางอย่างต้องมีการทอยป้องกัน เมื่อคุณเลือกใช้ผลดังนั้น ระดับความยากในการป้องกันจะเท่ากับระดับความยากในการทอยป้องกันคาถาของเคลอริก (Spell save DC)
 
-Beginning at 6th level, you can use your Channel Divinity twice between rests, and beginning at 18th level, you can use it three times between rests. When you finish a short or long rest, you regain your expended uses.
+เริ่มที่เลเวล 6 คุณสามารถใช้การเชื่อมต่อพลังศักดิ์สิทธิ์ได้ 2 ครั้งต่อการพัก 1 ครั้ง และเริ่มที่เลเวล 18 คุณจะสามารถใช้ได้ 3 ครั้ง เมื่อคุณจบการพักสั้นหรือพักยาวแล้วคุณจะได้รับส่วนที่ใช้ไปคืนกลับมา
 
-### Channel Divinity: Turn Undead
+### การเชื่อมต่อพลังศักดิ์สิทธิ์ (Channel Divinity): ขับไล่ผีดิบ (Turn Undead)
 
-As an action, you present your holy symbol and speak a prayer censuring the undead. Each undead that can see or hear you within 30 feet of you must make a Wisdom saving throw. If the creature fails its saving throw, it is turned for 1 minute or until it takes any damage.
+ใช้ 1 แอ็คชัน คุณแสดงสัญลักษณ์ศักดิ์สิทธิ์ของคุณขึ้นมาและสวดขับไล่ผีดิบอันเด๊ด ผีดิบแต่ละตัวที่สามารถเห็นหรือได้ยินคุณในระยะ 30 ฟุตต้องทอยป้องกันด้วยค่าความรอบรู้ ถ้าทอยไม่ผ่าน มันจะถูกขับไล่ไปเป็นเวลา 1 นาที หรือจนกว่าจะได้รับความเสียหาย
 
-A turned creature must spend its turns trying to move as far away from you as it can, and it can’t willingly move to a space within 30 feet of you. It also can’t take reactions. For its action, it can use only the Dash action or try to escape from an effect that prevents it from moving. If there’s nowhere to move, the creature can use the Dodge action.
+สิ่งมีชีวิตที่ถูกขับไล่จะต้องใช้เทิร์นของมันในการพยายามออกห่างจากคุณเท่าที่สามารถทำได้ และมันจะไม่สามารถเข้าใกล้ได้ในระยะ 30 ฟุต และยังไม่สามารถใช้รีแอ็คชันได้ด้วย ในแอ็คชันของมัน มันจะสามารถใช้ได้เพียง "การวิ่งเร็ว (Dash)" หรือพยายามหนีจากสิ่งที่ยับยั้งไม่ให้มันเคลื่อนที่ได้เท่านั้น ถ้าไม่มีที่ให้ไปไหนได้ สิ่งมีชีวิตนั้นจะใช้ได้เพียง "การหลบหลีก (Dodge)"
 
-## Ability Score Improvement {#ability-score-improvement}
+## เพิ่มคะแนนความสามารถ (Ability Score Improvement) {#ability-score-improvement}
 
-When you reach 4th level, and again at 8th, 12th, 16th, and 19th level, you can increase one ability score of your choice by 2, or you can increase two ability scores of your choice by 1. As normal, you can’t increase an ability score above 20 using this feature.
+เมื่อคุณถึงเลเวล 4 และอีกครั้งเมื่อเลเวล 8, 12, 16 และ 19 คุณสามารถเพิ่มคะแนนความสามารถหนึ่งอย่างตามที่คุณเลือกได้ 2 คะแนน หรือเพิ่ม 1 คะแนนให้กับสองทักษะก็ได้ โดยปกติแล้วคุณจะไม่สามารถเพิ่มคะแนนความสามารถได้มากกว่า 20 หากใช้คุณลักษณะนี้
 
-## Destroy Undead {#destroy-undead}
+## ทำลายผีดิบ (Destroy Undead) {#destroy-undead}
 
-Starting at 5th level, when an undead fails its saving throw against your Turn Undead feature, the creature is instantly destroyed if its challenge rating is at or below a certain threshold, as shown in the Destroy Undead table.
+เริ่มที่เลเวล 5 เมื่อผีดิบทอยป้องกันการขับไล่ผีดิบ (Turn Undead) ของคุณไม่ผ่าน พวกมันจะถูกทำลายทันทีถ้าระดับความท้าทาย (challenge rate) ของมันมีระดับเดียวกันหรือต่ำกว่าที่ระบุในตารางด้านล่างนี้
 
-## Destroy Undead
+## ตารางการทำลายผีดิบ (Destroy Undead)
 
-| Cleric Level | Destroys Undead of CR . . . |
+| เลเวลเคลอริก | สามารถทำลายผีดิบได้ที่ CR . . . |
 | ------------ | --------------------------- |
-| 5th          | 1/2 or lower                |
-| 8th          | 1 or lower                  |
-| 11th         | 2 or lower                  |
-| 14th         | 3 or lower                  |
-| 17th         | 4 or lower                  |
+| 5th          | 1/2 or ต่ำกว่า                |
+| 8th          | 1 or ต่ำกว่า                  |
+| 11th         | 2 or ต่ำกว่า                  |
+| 14th         | 3 or ต่ำกว่า                  |
+| 17th         | 4 or ต่ำกว่า                  |
 
-## Divine Intervention {#divine-intervention}
+## การแทรกแซงจากเทพเจ้า (Divine Intervention) {#divine-intervention}
 
-Beginning at 10th level, you can call on your deity to intervene on your behalf when your need is great.
+เริ่มที่เลเวล 10 เมื่อเข้าตาจนคุณสามารถอ้อนวอนเพื่ออัญเชิญเทพเจ้าของคุณให้มาแทรกแซงเหตุการณ์เบื้องหน้าได้
 
-Imploring your deity’s aid requires you to use your action. Describe the assistance you seek, and roll percentile dice. If you roll a number equal to or lower than your cleric level, your deity intervenes. The DM chooses the nature of the intervention; the effect of any cleric spell or cleric domain spell would be appropriate.
+ในการอัญเชิญเทพเจ้าต้องใช้แอ็คชัน อธิบายสิ่งที่คุณอยากให้เทพเจ้าช่วยเหลือ และทอยลูกเต๋าเปอเซ็นไทล์ ถ้าคุณทอยได้เท่ากับหรือน้อยกว่าเลเวลเคลอริกของคุณ เทพเจ้าจะลงมาช่วยเหลือ โดย DM จะเลือกลักษณะการช่วยเหลือนั้นจากคาถาเคลอริกหรือจากคาถาประจำเขตอำนาจที่เหมาะสม
 
-If your deity intervenes, you can’t use this feature again for 7 days. Otherwise, you can use it again after you finish a long rest.
+ถ้าเทพเจ้าของคนช่วยเหลือแล้ว คุณจะไม่สามารถใช้ความสามารถนี้ได้อีกเป็นเวลา 7 วัน หรือสามารถใช้ได้อีกครั้งเมื่อจบการพักยาว
 
-At 20th level, your call for intervention succeeds automatically, no roll required.
+ที่เลเวล 20 คุณสามารถอัญเชิญสำเร็จได้โดยอัตโนมัติ ไม่ต้องทอยลูกเต๋าใด ๆ
 
-## Divine Domains {#divine-domain-feature}
+## เขตอำนาจศักดิ์สิทธิ์ (Divine Domains) {#divine-domain-feature}
 
-In a pantheon, every deity has influence over different aspects of mortal life and civilization, called a deity’s domain. All the domains over which a deity has influence are called the deity’s portfolio. For example, the portfolio of the Greek god Apollo includes the domains of Knowledge, Life, and Light. As a cleric, you choose one aspect of your deity’s portfolio to emphasize, and you are granted powers related to that domain.
+ในบรรดาเหล่าเทพทั้งหลาย เทพทุกองค์จะมีอิทธิพลที่แตกต่างกันต่อการดำเนินชีวิตของเหล่าสิ่งมีชีวิตและอารยธรรมต่าง ๆ สิ่งนี้เรียกว่า เขตอำนาจแห่งทวยเทพ เขตอำนาจทั้งหมดที่เทพองค์หนึ่งจะมีอิทธิพลได้จะเรียกว่า อาณาเขตอำนาจของเทพเจ้า ตัวอย่างเช่น อาณาเขตอำนาจของเทพเจ้ากรีก อพอลโล่ จะรวมถึงเขตอำนาจด้านความรู้, ชีวิต และแสงสว่าง เมื่อเป็นเคลอริก คุณได้เลือกหนึ่งในอาณาเขตอำนาจนี้เป็นพลังหลักของคุณ และคุณจะได้รับพลังที่เกี่ยวเนื่องกับเขตอำนาจนั้น
 
-Your choice might correspond to a particular sect dedicated to your deity. Apollo, for example, could be worshiped in one region as Phoebus (“radiant”) Apollo, emphasizing his influence over the Light domain, and in a different place as Apollo Acesius (“healing”), emphasizing his association with the Life domain. Alternatively, your choice of domain could simply be a matter of personal preference, the aspect of the deity that appeals to you most.
+ตัวเลือกของคุณอาจจะเป็นลัทธิหนึ่งที่อุทิตตนแก่เทพเจ้าของคุณ ตัวอย่างเช่น อพอลโล่ อาจจะได้รับการบูชาในภาคหนึ่งชื่อ ฟีบัส อพอลโล่ (Phoebus แปลว่าแสงรัศมี) ซึ่งเน้นไปในอิทธิพลของเขาที่มีในเขตอำนาจแห่งแสงสว่าง และในพื้นที่อื่นจะถูกบูชาในชื่อ อพอลโล่ เอเซียส (Apollo Acesus การรักษาพยาบาล) โดยเน้นไปในอิทธิพลในเขตอำนาจแห่งชีวิต หรือคุณอาจจะเลือกเขตอำนาจใด ๆ ที่คุณถูกใจที่เทพของคุณมีอำนาจอยู่ก็ได้
 
-Each domain’s description gives examples of deities who have influence over that domain. Gods are included from the worlds of the Forgotten Realms, Greyhawk, Dragonlance, and Eberron campaign settings, as well as from the Celtic, Greek, Norse, and Egyptian pantheons of antiquity.
+คำอธิบายของแต่ละเขตอำนาจจะให้ตัวอย่างของเทพเจ้าที่มีอิทธิพลในเขตอำนาจนั้น ๆ โดยจะรวมเอาเทพเจ้าทั้งในโลกของอาณาจักรที่ถูกลืมเลือน (Forgotten Realms), เกรย์ฮ็อค (Greyhawk), ดรากอนแลนซ์ (Dragonlance), และเอเบอรอน (Eberron) และยังมีจากเคลติก กรีก นอร์ส และเทพอียิปต์ อีกด้วย
 
-### Arcana Domain
+### เขตอำนาจแห่งเวทย์มนต์ (Arcana Domain)
 
-### Death Domain
+### เขตอำนาจแห่งความตาย (Death Domain)
 
-### Forge Domain
+### เขตอำนาจแห่งการหลอมตีโลหะ (Forge Domain)
 
-### Grave Domain
+### เขตอำนาจแห่งสุสาน (Grave Domain)
 
-### Knowledge Domain
+### เขตอำนาจแห่งความรู้ (Knowledge Domain)
 
-### Life Domain
+### เขตอำนาจแห่งชีวิต (Life Domain)
 
-The Life domain focuses on the vibrant positive energy — one of the fundamental forces of the universe — that sustains all life. The gods of life promote vitality and health through healing the sick and wounded, caring for those in need, and driving away the forces of death and undeath. Almost any non-evil deity can claim influence over this domain, particularly agricultural deities (such as Chauntea, Arawai, and Demeter), sun gods (such as Lathander, Pelor, and Re-Horakhty), gods of healing or endurance (such as Ilmater, Mishakal, Apollo, and Diancecht), and gods of home and community (such as Hestia, Hathor, and Boldrei).
+เขตอำนาจแห่งชีวิตเน้นไปที่การส่งพลังบวกซึ่งเป็นพลังพื้นฐานของจักรวาลที่สร้างและรักษาสิ่งมีชีวิตทั้งมวล เทพเจ้าแห่งชีวิตจะส่งเสริมพลังชีวิตและสุขภาพจากการรักษาอาการเจ็บป่วยและบาดแผล การดูแลผู้ที่ต้องการการดูแล และขับไล่ปัดเป่าพลังแห่งความตายและเหล่าผีดิบ เรียกได้ว่าเทพใด ๆ ที่ไม่ชั่วร้ายสามารถอยู่ในเขตอำนาจนี้ได้หมด โดยเฉพาะเทพแห่งการเพาะปลูก เช่น ชวนที (Chuantea), อราไว (Arawai) และดีมีเทอร์ (Demeter), เทพแห่งดวงอาทิตย์ เช่น ลาแธนเดอร์ (Lathander), เพลอร์ (Pelor) และ เร-โฮราคฮที (Re-Horakhty), เทพเจ้าแห่งการรักษาหรือความทนทาน เช่น อิลมาเตอร์ (Ilmater), มิชาคาล (Mishakal), อพอลโล่ (Apollo) และไดอันเซลคฺ (Diancecht) และเทพเจ้าแห่งบ้านเรือนและชุมชน เช่นเฮสเทีย (Hestia), เฮธอร์ (Hathor) และโบลเดร (Boldrei)
 
-#### Life Domain Spells
+#### คาถาประจำเขตอำนาจแห่งชีวิต (Life Domain Spells)
 
-| Cleric Level | Spells                                                                                                                                           |
+| เลเวลเคลอริก | คาถา                                                                                                                                           |
 | ------------ | ------------------------------------------------------------------------------------------------------------------------------------------------ |
-| 1st          | [bless](../../ch11-spells.md#bless), [cure wounds](../../ch11-spells.md#cure-wounds)                                                             |
-| 3rd          | [lesser restoration](https://www.dndbeyond.com/spells/lesser-restoration), [spiritual weapon](https://www.dndbeyond.com/spells/spiritual-weapon) |
-| 5th          | [beacon of hope](https://www.dndbeyond.com/spells/beacon-of-hope), [revivify](https://www.dndbeyond.com/spells/revivify)                         |
-| 7th          | [death ward](https://www.dndbeyond.com/spells/death-ward), [guardian of faith](https://www.dndbeyond.com/spells/guardian-of-faith)               |
-| 9th          | [mass cure wounds](https://www.dndbeyond.com/spells/mass-cure-wounds), [raise dead](https://www.dndbeyond.com/spells/raise-dead)                 |
+| 1st          | [bless](../../ch11-spells#bless), [cure wounds](../../ch11-spells#cure-wounds)                                                             |
+| 3rd          | [lesser restoration](../../ch11-spells#lesser-restoration), [spiritual weapon](../../ch11-spells#spiritual-weapon) |
+| 5th          | [beacon of hope](../../ch11-spells#beacon-of-hope), [revivify](../../ch11-spells#revivify)                         |
+| 7th          | [death ward](../../ch11-spells#death-ward), [guardian of faith](../../ch11-spells#guardian-of-faith)               |
+| 9th          | [mass cure wounds](../../ch11-spells#mass-cure-wounds), [raise dead](../../ch11-spells#raise-dead)                 |
 
-#### Bonus Proficiency
+#### โบนัสความเชี่ยวชาญ (Bonus Proficiency)
 
-When you choose this domain at 1st level, you gain proficiency with heavy armor.
+เมื่อคุณเลือกเขตอำนาจนี้ตอนเลเวล 1 คุณจะได้ความเชี่ยวชาญในการใช้เกราะหนัก (heavy armor)
 
-#### Disciple of Life
+#### สานุศิษย์แห่งชีวิต (Disciple of Life)
 
-Also starting at 1st level, your healing spells are more effective. Whenever you use a spell of 1st level or higher to restore hit points to a creature, the creature regains additional hit points equal to 2 + the spell’s level.
+เริ่มตั้งแต่เลเวล 1 เช่นเดียวกัน คาถาในการรักษาของคุณจะมีประสิทธิภาพมากขึ้น เมื่อใดก็ตามที่คุณใช้คาถาไม่ว่าจะเป็นเลเวล 1 หรือสูงกว่าในการฟื้นฟูฮิทพอยท์ของสิ่งมีชีวิต สิ่งมีชีวิตจะได้รับแต้มเพิ่มเป็นจำนวน 2 + เลเวลของคาถา
 
-#### Channel Divinity: Preserve Life
+#### การเชื่อมต่อพลังศักดิ์สิทธิ์: การสงวนชีวิต (Channel Divinity: Preserve Life)
 
-Starting at 2nd level, you can use your Channel Divinity to heal the badly injured.
+เริ่มที่เลเวล 2 คุณสามารถใช้การเชื่อมต่อพลังศักดิ์สิทธิ์ในการรักษาการบาดเจ็บรุนแรง
 
-As an action, you present your holy symbol and evoke healing energy that can restore a number of hit points equal to five times your cleric level. Choose any creatures within 30 feet of you, and divide those hit points among them. This feature can restore a creature to no more than half of its hit point maximum. You can’t use this feature on an undead or a construct.
+โดยใช้แอ็คชัน คุณจะแสดงสัญลักษณ์ศักดิ์สิทธิ์และใช้พลังในการรักษาที่สามารถฟื้นฟูค่าฮิทพอยท์ได้เป็นจำนวน 5 เท่าของเลเวลของเคลอริก เลือกสิ่งมีชีวิตใด ๆ ในระยะ 30 ฟุตรอบตัวคุณ และหารค่าฮิทพอยท์ดังกล่าวแจกจ่ายให้ทุกคนเท่า ๆ กัน ความสามารถนี้สามารถฟื้นฟูฮิทพอยท์ให้กับสิ่งมีชีวิตได้ไม่เกินครึ่งหนึ่งของค่าฮิทพอยท์สูงสุด คุณไม่สามารถใช้ความสามารถนี้กับผีดิบอันเดดหรือหุ่นกลคอนสตรักได้
 
-#### Blessed Healer
+#### ผู้รักษาที่ได้รับพร (Blessed Healer)
 
-Beginning at 6th level, the healing spells you cast on others heal you as well. When you cast a spell of 1st level or higher that restores hit points to a creature other than you, you regain hit points equal to 2 + the spell’s level.
+เริ่มที่เลเวล 6 คาถารักษาที่คุณร่ายให้ผู้อื่นจะรักษาคุณด้วยเช่นกัน เมื่อคุณร่ายคาถาเลเวล 1 หรือสูงกว่าเพื่อทำการฟื้นฟูฮิทพอยท์ให้กับสิ่งมีชีวิตอื่นนอกเหนือจากตัวคุณ คุณจะได้รับการฟื้นฟูฮิทพอยท์ด้วยเป็นจำนวน 2 + เลเวลของคาถา
 
-#### Divine Strike
+#### การโจมตีอันศักดิ์สิทธิ์ (Divine Strike)
 
-At 8th level, you gain the ability to infuse your weapon strikes with divine energy. Once on each of your turns when you hit a creature with a weapon attack, you can cause the attack to deal an extra 1d8 radiant damage to the target. When you reach 14th level, the extra damage increases to 2d8.
+ที่เลเวล 8 คุณจะได้รับความสามารถในการผสานการโจมตีด้วยอาวุธของคุณเข้ากับพลังศักดิ์สิทธิ์ ในการโจมตีในเทิร์นของคุณแต่ละเทิร์น เมื่อคุณโจมตีสิ่งมีชีวิตด้วยอาวุธ คุณสามารถจะสร้างความเสียหายพิเศษเป็นความเสียหายด้วยแสงรัศมี (radiant damage) 1d8 ให้กับเป้าหมาย เมื่อคุณถึงเลเวล 14 ความเสียหายพิเศษนี้จะเพิ่มเป็น 2d8
 
-#### Supreme Healing
+#### การรักษาระดับสูงสุด (Supreme Healing)
 
-Starting at 17th level, when you would normally roll one or more dice to restore hit points with a spell, you instead use the highest number possible for each die. For example, instead of restoring 2d6 hit points to a creature, you restore 12.
+เริ่มที่เลเวล 17 เมื่อคุณจะทำการทอยลูกเต๋าหนึ่งหรือหลายลูกเพื่อหาค่าการฟื้นฟูฮิทพอยท์ด้วยคาถาตามปกติ คุณสามารถใช้ค่าสูงสุดของลูกเต๋านั้นในแต่ละลูกได้เลย ตัวอย่างเช่น แทนที่จะต้องทอย 2d6 เพื่อหาค่าการฟื้นฟูที่ได้ คุณสามารถใช้ค่า 12 ได้เลย
 
-### Light Domain
+### เขตอำนาจแห่งแสง (Light Domain)
 
-### Nature Domain
+### เขตอำนาจแห่งธรรมชาติ (Nature Domain)
 
-### Order Domain
+### เขตอำนาจแห่งระเบียบ (Order Domain)
 
-### Peace Domain
+### เขตอำนาจแห่งสันติ (Peace Domain)
 
-### Tempest Domain
+### เขตอำนาจแห่งพายุพิโรธ (Tempest Domain)
 
-### Trickery Domain
+### เขตอำนาจแห่งเล่ห์อุบาย (Trickery Domain)
 
-### Twilight Domain
+### เขตอำนาจแห่งยามสนธยา (Twilight Domain)
 
-### War Domain
+### เขตอำนาจแห่งสงคราม (War Domain)
