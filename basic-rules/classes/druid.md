@@ -79,23 +79,31 @@ Have you always been an adventurer as part of your druidic calling, or did you f
 >
 > The druids of Eberron hold animistic beliefs completely unconnected to the Sovereign Host, the Dark Six, or any of the other religions of the world. They believe that every living thing and every natural phenomenon—sun, moon, wind, fire, and the world itself—has a spirit. Their spells, then, are a means to communicate with and command these spirits. Different druidic sects, though, hold different philosophies about the proper relationship of these spirits to each other and to the forces of civilization. The Ashbound, for example, believe that arcane magic is an abomination against nature, the Children of Winter venerate the forces of death, and the Gatekeepers preserve ancient traditions meant to protect the world from the incursion of aberrations.
 
-## Class Features
+## ความสามารถของคลาส (Class Features)
 
 As a druid, you gain the following class features.
+เมื่อเป็นดรูอิด คุณจะได้รับความสามารถประจำคลาสดังต่อไปนี้
 
-Hit Points
+ฮิตพอยท์ Hit Points
 Hit Dice: 1d8 per druid level
+ฮิตไดส์: 1d8 ต่อเลเวลกรูอิด
 
 Hit Points at 1st Level: 8 + your Constitution modifier
+ฮิตพอยท์เมื่อเลเวล 1: 8 + ค่าโมดิไฟเออร์ความอดทน  (Constitution)
 
 Hit Points at Higher Levels: 1d8 (or 5) + your Constitution modifier per druid level after 1st
+ฮิตพอยท์เมื่อเลเวลสูงขึ้น: 1d8 (หรือ 5) + ค่าโมดิไฟเออร์ความอดทน (Constitution) ต่อเลเวลดรูอิดที่มากกว่าเลเวล 1
 
 Proficiencies
+ความเชี่ยวชาญ
 Armor: Light armor, medium armor, shields (druids will not wear armor or use shields made of metal)
+เกราะ: เกราะเบา, เกราะกลาง, โล่ (ดรูอิดจะไม่ใส่เกราะหรืใช้โล่ที่ทำจากโลหะ)
 
 Weapons: Clubs, daggers, darts, javelins, maces, quarterstaffs, scimitars, sickles, slings, spears
+อาวุธ: ตระบอง, กริช, ลูกดอก, หอกซัด, คฑา, กระบองยาว, ดาบโค้ง, เคียว, สลิง, หอก
 
 Tools: Herbalism kit
+เครื่องมือ: ชุดอุปกรณ์
 
 Saving Throws: Intelligence, Wisdom
 
