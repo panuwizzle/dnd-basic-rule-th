@@ -3,81 +3,82 @@ layout: book
 menu: menu-basic-rules
 ---
 
-# Druid
+# ดรูอิด (Druid)
 
-Holding high a gnarled staff wreathed with holly, an elf summons the fury of the storm and calls down explosive bolts of lightning to smite the torch-carrying orcs who threaten her forest.
+เอลฟ์สาวยืนชูไม้เท้ากิ่งไม้ตะปุ่มตะปั่มประดับด้วยกิ่งฮอลลี่ อัญเชิญพายุที่โกรธเกรี้ยวและเรียกสายฟ้าระเบิดมหาประลัยลงมาฟาดพวกออร์คถือคบเพลิงที่มุ่งหน้าเข้ามาคุกคามป่าของเธอ
 
-Crouching out of sight on a high tree branch in the form of a leopard, a human peers out of the jungle at the strange construction of a temple of Evil Elemental Air, keeping a close eye on the cultists’ activities.
+คืบคลานช้า ๆ ซ่อนตัวอยู่หลังแนวกิ่งไม้ใหญ่ในร่างของเสือดาว มนุษย์ผู้หนึ่งหลบเร้นอยู่ในแนวป่าสายตาจับจ้องอยู่ที่สิ่งประดิษฐ์ประหลาดของวิหารแห่งวิญญาณธาตุลมอันชั่วร้าย คอยเฝ้าดูกิจกรรมของเหล่าสาวกของมัน
 
-Swinging a blade formed of pure fire, a half-elf charges into a mass of skeletal soldiers, sundering the unnatural magic that gives the foul creatures the mocking semblance of life.
+ฮาล์ฟเอลฟ์กวัดแกว่งดาบเปลวไฟ พุ่งเข้าปะทะกับกองทหารโครงกระดูก ฟาดฟันเวทย์มนต์ผิดธรรมชาติที่ทำให้เหล่าสิ่งน่ารังเกียจนี้เคลื่อนไหวได้ให้แตกกระจายไป
 
-Whether calling on the elemental forces of nature or emulating the creatures of the animal world, druids are an embodiment of nature’s resilience, cunning, and fury. They claim no mastery over nature. Instead, they see themselves as extensions of nature’s indomitable will.
+ไม่ว่าจะเป็นการเรียกพลังงานจากธาตุต่าง ๆ ในธรรมชาติ หรือการจำแลงกายเป็นสัตว์ต่าง ๆ ดรูอิดคือตัวแทนของความยืดหยุ่น ความหลักแหลม และความโกรธเกรี้ยวของธรรมชาติ พวกเขาไม่เคยอ้างว่าเป็นนายของสรรพสิ่ง ในทางกลับกันพวกเขามองตัวเองว่าเป็นส่วนขยายของเจตจำนงที่ยิ่งใหญ่ของธรรมชาติ
 
-## Power of Nature
+## พลังแห่งธรรมชาติ (Power of Nature)
 
-Druids revere nature above all, gaining their spells and other magical powers either from the force of nature itself or from a nature deity. Many druids pursue a mystic spirituality of transcendent union with nature rather than devotion to a divine entity, while others serve gods of wild nature, animals, or elemental forces. The ancient druidic traditions are sometimes called the Old Faith, in contrast to the worship of gods in temples and shrines.
+ดรูอิดให้ความเคารพธรรมชาติเหนือสิ่งอื่นใด พวกเขาได้รับคาถาและพลังเวทย์มนต์ต่าง ๆ ทั้งจากพลังของธรรมชาติเองหรือจากเทพสายธรรมชาติ ดรูอิดหลายคนแสวงหาความลึกลับทางจิตวิญญาณที่จะหลอมรวมเป็นหนึ่งเดียวกับธรรมชาติ มากกว่าที่จะอุทิตตนให้กับเทพเจ้าใด ๆ ในขณะที่อีกหลายคนรับใช้เทพเจ้าแห่งธรรมชาติ เทพสัตว์ป่า หรือพลังงานจากธาตุ ประเพณีโบราณของเหล่าดรูอิดบางครั้งเรียกว่า ศรัทธาเดิม (Old Faith) ซึ่งแตกต่างจากการบูชาเทพเข้าในวิหารหรือศาลเจ้า
 
-Druid spells are oriented toward nature and animals—the power of tooth and claw, of sun and moon, of fire and storm. Druids also gain the ability to take on animal forms, and some druids make a particular study of this practice, even to the point where they prefer animal form to their natural form.
+คาถาของดรูอิดจะอิงกับธรรมชาติและสัตว์ป่าที่เป็นพลังของเขี้ยวและกรงเล็บ พลังจากดวงอาทิตย์และดวงจันทร์ พลังจากไฟและพายุ ดรูอิดยังสามารถแปลงกายเป็นสัตว์ บางคนศึกษาลงลึกไปถึงขั้นที่คงอยู่ในสภาพสัตว์ป่าจนเป็นปกติแทนที่จะอยู่ในร่างมนุษย์
 
-## Preserve the Balance
+## ผู้สงวนรักษาสมดุลย์ (Preserve the Balance)
 
-For druids, nature exists in a precarious balance. The four elements that make up a world—air, earth, fire, and water—must remain in equilibrium. If one element were to gain power over the others, the world could be destroyed, drawn into one of the elemental planes and broken apart into its component elements. Thus, druids oppose cults of Elemental Evil and others who promote one element to the exclusion of others.
+สำหรับดรูอิดแล้ว ธรรมชาตินั้นอยู่บนสมดุลย์ที่เปราะบางมาก ธาตุทั้งสี่ที่ประกอบขึ้นเป็นโลกโดยมีดิน น้ำ ลม ไฟ นั้น จำเป็นต้องอยู่บนจุดสมดุลย์ หากหนึ่งในธาตุนั้นมีพลังมากกว่าธาตุอื่น โลกอาจจะถึงกาลอวสาร จะถูกดึงดูดไปยังมิติธาตุ (elemental plane) และถูกแยกส่วนประกอบจนเป็นอณู ดังนั้น ดรูอิดถือเป็นศัตรูโดยตรงกับลัทธิวิญญาณธาตุชั่วร้ายและใครก็ตามที่บูชาธาตุเดียวเพื่อแบ่งแยกธาตุอื่น
 
-Druids are also concerned with the delicate ecological balance that sustains plant and animal life, and the need for people to live in harmony with nature, not in opposition to it. Druids accept that which is cruel in nature, and they hate that which is unnatural, including aberrations (such as beholders and mind flayers) and undead (such as zombies and vampires). Druids sometimes lead raids against such creatures, especially when the monsters encroach on the druids’ territory.
+ดรูอิดยังห่วงใยสมดุลย์สภาพแวดล้อมที่เปราะบางที่เป็นแหล่งอาศัยของพืชและสัตว์ และความต้องการของผู้คนที่จะอยู่อย่างกลมกลืนกับธรรมชาติ ไม่ใช่อยู่ตรงข้าม ดรูอิดยอมรับถึงสิ่งที่โหดเหี้ยมในธรรมชาติ และพวกเขารังเกียจสิ่งที่ไม่เป็นธรรมชาติ พวกสิ่งมีชีวิตผิดธรรมชาติ (aberrations) เช่น บีโฮลเดอร์และมายด์เฟลเยอร์ และพวกผีดิบ (เช่น ซอมบี้และแวมไพร์) บางครั้งดรูอิดก็นำพวกไปถล่มสิ่งมีชีวิตเหล่านี้ โดยเฉพาะเมื่อพวกมันรุกล้ำเข้ามาในอาณาเขตของพวกเขา
 
-Druids are often found guarding sacred sites or watching over regions of unspoiled nature. But when a significant danger arises, threatening nature’s balance or the lands they protect, druids take on a more active role in combating the threat, as adventurers.
+เรามักจะพบเจอดรูอิดคอยปกป้องสถานที่ศักดิ์สิทธิ์หรือคอยเฝ้าระวังอยู่ในบริเวณที่ธรรมชาติอุดมสมบูรณ์ แต่เมื่อมีภัยอันตรายมาถึง สร้างความเสียหายให้สมดุลย์ธรรมชาติ ดรูอิดจะสวมบทบาทที่นอกเหนือจากปกติเข้าต่อสู้กับอันตรายนั้นด้วยการเป็นนักผจญภัย
 
-## Creating a Druid
+## การสร้างดรูอิด (Creating a Druid)
 
-When making a druid, consider why your character has such a close bond with nature. Perhaps your character lives in a society where the Old Faith still thrives, or was raised by a druid after being abandoned in the depths of a forest. Perhaps your character had a dramatic encounter with the spirits of nature, coming face to face with a giant eagle or dire wolf and surviving the experience. Maybe your character was born during an epic storm or a volcanic eruption, which was interpreted as a sign that becoming a druid was part of your character’s destiny.
+เมื่อจะสร้างดรูอิด ให้คุณพิจารณาว่าทำไมตัวละครของคุณถึงได้มีความใกล้ชิดแนบแน่นกับธรรมชาติขนาดนั้น บางทีตัวละครของคุณอาจจะใช้ชีวิตอยู่ในสังคมที่ศรัทธาเดิมยังเป็นที่เคารพอยู่ หรือถูกเลี้ยงดูโดยดรูอิดหลังจากถูกทิ้งไว้ในป่าลึก หรืออาจจะมีประสบการณ์การพบเจอกับวิญญาณธรรมชาติอย่างเผชิญหน้ากับนกอินทรียักษ์หรือหมาป่าโลกันต์และรอดตายมาได้ บางทีตัวละครของคุณอาจจะเกิดในช่วงที่มีเหตุการณ์พายุรุนแรง หรือช่วงภูเขาไฟระเบิด ซึ่งทำให้แปลความหมายได้ว่าเป็นสัญญาณของการเกิดดรูอิดที่ยิ่งใหญ่ซึ่งเป็นส่วนหนึ่งของชะตาชีวิตของตัวละครของคุณ
 
-Have you always been an adventurer as part of your druidic calling, or did you first spend time as a caretaker of a sacred grove or spring? Perhaps your homeland was befouled by evil, and you took up an adventuring life in hopes of finding a new home or purpose.
+การเป็นนักผจญภัยเป็นส่วนหนึ่งของการเป็นดรูอิดของคุณหรือเปล่า หรือคุณเริ่มต้นด้วยการเป็นผู้ดูแลป่าศักดิ์สิทธิ์หรือสระน้ำสำคัญ บางทีบ้านเกิดของคุณอาจจะถูกทำลายโดยปีศาจและคุณเลือกเป็นนักผจญภัยโดยหวังว่าจะพบกับบ้านใหม่หรือจุดมุ่งหมายใหม่
 
-> QUICK BUILD
+> **สร้างอย่างเร็ว**
 >
 > You can make a druid quickly by following these suggestions. First, Wisdom should be your highest ability score, followed by Constitution. Second, choose the hermit background.
+> คุณสามารถสร้างดรูอิดอย่างรวดเร็วโดยทำตามคำแนะนำนี้ อย่างแรก ความรอบรู็ (Wisdom) ควรเป็นคะแนนความสามารถที่สูงที่สุด ตามมาด้วยความอดทน (Constitution) สอง เลือกภูมิหลังเป็นผู้ถือสันโดษ (hermit background)
 
-### The Druid Table
+### ตารางดรูอิด
 
-| Level | Proficiency <br>Bonus | Features                                                                                                       | Cantrips <br>Known |     | —   | Spell | Slots | per | Spell | Level | —   |     |
-| ----- | --------------------- | -------------------------------------------------------------------------------------------------------------- | ------------------ | --- | --- | ----- | ----- | --- | ----- | ----- | --- | --- |
-|       |                       |                                                                                                                |                    | 1st | 2nd | 3rd   | 4th   | 5th | 6th   | 7th   | 8th | 9th |
-| 1st   | +2                    | [Druidic](#Druidic-165), [Spellcasting](#Spellcasting-166)                                                     | 2                  | 2   | —   | —     | —     | —   | —     | —     | —   | —   |
-| 2nd   | +2                    | [Wild Shape](#WildShape-167), [Druid Circle](#DruidCircle-170)                                                 | 2                  | 3   | —   | —     | —     | —   | —     | —     | —   | —   |
-| 3rd   | +2                    | —                                                                                                              | 2                  | 4   | 2   | —     | —     | —   | —     | —     | —   | —   |
-| 4th   | +2                    | [Wild Shape Improvement](#WildShapeImprovement-168), [Ability Score Improvement](#AbilityScoreImprovement-171) | 3                  | 4   | 3   | —     | —     | —   | —     | —     | —   | —   |
-| 5th   | +3                    | —                                                                                                              | 3                  | 4   | 3   | 2     | —     | —   | —     | —     | —   | —   |
-| 6th   | +3                    | [Druid Circle Feature](#DruidCircles)                                                                          | 3                  | 4   | 3   | 3     | —     | —   | —     | —     | —   | —   |
-| 7th   | +3                    | —                                                                                                              | 3                  | 4   | 3   | 3     | 1     | —   | —     | —     | —   | —   |
-| 8th   | +3                    | [Wild Shape Improvement](#WildShapeImprovement-169), [Ability Score Improvement](#AbilityScoreImprovement-171) | 3                  | 4   | 3   | 3     | 2     | —   | —     | —     | —   | —   |
-| 9th   | +4                    | —                                                                                                              | 3                  | 4   | 3   | 3     | 3     | 1   | —     | —     | —   | —   |
-| 10th  | +4                    | [Druid Circle Feature](#DruidCircles)                                                                          | 4                  | 4   | 3   | 3     | 3     | 2   | —     | —     | —   | —   |
-| 11th  | +4                    | —                                                                                                              | 4                  | 4   | 3   | 3     | 3     | 2   | 1     | —     | —   | —   |
-| 12th  | +4                    | [Ability Score Improvement](#AbilityScoreImprovement-171)                                                      | 4                  | 4   | 3   | 3     | 3     | 2   | 1     | —     | —   | —   |
-| 13th  | +5                    | —                                                                                                              | 4                  | 4   | 3   | 3     | 3     | 2   | 1     | 1     | —   | —   |
-| 14th  | +5                    | [Druid Circle Feature](#DruidCircles)                                                                          | 4                  | 4   | 3   | 3     | 3     | 2   | 1     | 1     | —   | —   |
-| 15th  | +5                    | —                                                                                                              | 4                  | 4   | 3   | 3     | 3     | 2   | 1     | 1     | 1   | —   |
-| 16th  | +5                    | [Ability Score Improvement](#AbilityScoreImprovement-171)                                                      | 4                  | 4   | 3   | 3     | 3     | 2   | 1     | 1     | 1   | —   |
-| 17th  | +6                    | —                                                                                                              | 4                  | 4   | 3   | 3     | 3     | 2   | 1     | 1     | 1   | 1   |
-| 18th  | +6                    | [Timeless Body](#TimelessBody-172), [Beast Spells](#BeastSpells-173)                                           | 4                  | 4   | 3   | 3     | 3     | 3   | 1     | 1     | 1   | 1   |
-| 19th  | +6                    | [Ability Score Improvement](#AbilityScoreImprovement-171)                                                      | 4                  | 4   | 3   | 3     | 3     | 3   | 2     | 1     | 1   | 1   |
-| 20th  | +6                    | [Archdruid](#Archdruid-174)                                                                                    | 4                  | 4   | 3   | 3     | 3     | 3   | 2     | 2     | 1   | 1   |
+| เลเวล | โบนัสความชำนาญ | คุณลักษณะ                                                                                                  | แคนทริปที่รู้ |     | —   | สล็อต | คาถา | ต่อ | เลเวล | คาถา | —   |     |
+| ----- | -------------- | ---------------------------------------------------------------------------------------------------------- | ------------- | --- | --- | ----- | ---- | --- | ----- | ---- | --- | --- |
+|       |                |                                                                                                            |               | 1st | 2nd | 3rd   | 4th  | 5th | 6th   | 7th  | 8th | 9th |
+| 1st   | +2             | [Druidic](#druidic), [Spellcasting](#spellcasting)                                                         | 2             | 2   | —   | —     | —    | —   | —     | —    | —   | —   |
+| 2nd   | +2             | [Wild Shape](#wild-shape), [Druid Circle](#druid-circle)                                                   | 2             | 3   | —   | —     | —    | —   | —     | —    | —   | —   |
+| 3rd   | +2             | —                                                                                                          | 2             | 4   | 2   | —     | —    | —   | —     | —    | —   | —   |
+| 4th   | +2             | [Wild Shape Improvement](#wild-shape-improvement), [Ability Score Improvement](#ability-score-improvement) | 3             | 4   | 3   | —     | —    | —   | —     | —    | —   | —   |
+| 5th   | +3             | —                                                                                                          | 3             | 4   | 3   | 2     | —    | —   | —     | —    | —   | —   |
+| 6th   | +3             | [Druid Circle Feature](#druid-circles)                                                                     | 3             | 4   | 3   | 3     | —    | —   | —     | —    | —   | —   |
+| 7th   | +3             | —                                                                                                          | 3             | 4   | 3   | 3     | 1    | —   | —     | —    | —   | —   |
+| 8th   | +3             | [Wild Shape Improvement](#wild-shape-improvement), [Ability Score Improvement](#ability-score-improvement) | 3             | 4   | 3   | 3     | 2    | —   | —     | —    | —   | —   |
+| 9th   | +4             | —                                                                                                          | 3             | 4   | 3   | 3     | 3    | 1   | —     | —    | —   | —   |
+| 10th  | +4             | [Druid Circle Feature](#druid-circles)                                                                     | 4             | 4   | 3   | 3     | 3    | 2   | —     | —    | —   | —   |
+| 11th  | +4             | —                                                                                                          | 4             | 4   | 3   | 3     | 3    | 2   | 1     | —    | —   | —   |
+| 12th  | +4             | [Ability Score Improvement](#ability-score-improvement)                                                    | 4             | 4   | 3   | 3     | 3    | 2   | 1     | —    | —   | —   |
+| 13th  | +5             | —                                                                                                          | 4             | 4   | 3   | 3     | 3    | 2   | 1     | 1    | —   | —   |
+| 14th  | +5             | [Druid Circle Feature](#druid-circles)                                                                     | 4             | 4   | 3   | 3     | 3    | 2   | 1     | 1    | —   | —   |
+| 15th  | +5             | —                                                                                                          | 4             | 4   | 3   | 3     | 3    | 2   | 1     | 1    | 1   | —   |
+| 16th  | +5             | [Ability Score Improvement](#ability-score-improvement)                                                    | 4             | 4   | 3   | 3     | 3    | 2   | 1     | 1    | 1   | —   |
+| 17th  | +6             | —                                                                                                          | 4             | 4   | 3   | 3     | 3    | 2   | 1     | 1    | 1   | 1   |
+| 18th  | +6             | [Timeless Body](#timeless-body), [Beast Spells](#beast-spells)                                             | 4             | 4   | 3   | 3     | 3    | 3   | 1     | 1    | 1   | 1   |
+| 19th  | +6             | [Ability Score Improvement](#ability-score-improvement)                                                    | 4             | 4   | 3   | 3     | 3    | 3   | 2     | 1    | 1   | 1   |
+| 20th  | +6             | [Archdruid](#archdruid)                                                                                    | 4             | 4   | 3   | 3     | 3    | 3   | 2     | 2    | 1   | 1   |
 
-> SACRED PLANTS AND WOOD
+> **ต้นไม้และป่าศักดิ์สิทธิ์**
 >
-> A druid holds certain plants to be sacred, particularly alder, ash, birch, elder, hazel, holly, juniper, mistletoe, oak, rowan, willow, and yew. Druids >often use such plants as part of a spellcasting focus, incorporating lengths of oak or yew or sprigs of mistletoe.
+> ดรูอิดจะถือเอาต้นไม้บางชนิดเป็นสิ่งศักดิ์สิทธิ์ โดยเฉพาะ ต้นอัลเดอร์ ต้นแอช ต้นเบิร์ช ต้นเอลเดอร์ ต้นเฮเซล ต้นฮอลลี่ ต้นจูนิเปอร์ ต้นมิสเซิลโท ต้นโอ๊ก ต้นโรวัน ต้นวิลโลว์ และต้นยู พวกเขามักจะใช้ต้นไม้เหล่านี้เป็นสิ่งรวมสมาธิในการร่ายคาถาโดยนำกิ่งก้านของต้นโอ๊กหรือต้นยูหรือก้านใบของมิสเซิลโทมาประกอบกัน
 >
-> Similarly, a druid uses such woods to make other objects, such as weapons and shields. Yew is associated with death and rebirth, so weapon handles for >scimitars or sickles might be fashioned from it. Ash is associated with life and oak with strength. These woods make excellent hafts or whole weapons, >such as clubs or quarterstaffs, as well as shields. Alder is associated with air, and it might be used for thrown weapons, such as darts or javelins.
+> และดรูอิดยังนำไม้เหล่านี้มาสร้างเป็นวัตถุอื่น เช่นอาวุธและโล่ ต้นยูมีความเกี่ยวเนื่องกับการตายและการเกิดใหม่ ดังนั้นด้ามจับของอาวุธอย่างดาบโค้ง (scimitar) หรือเคียวก็อาจใช้ไม้นี้ได้ ต้นแอชมีความเกี่ยวเนื่องกับชีวิตและความแข็งแกร่ง ไม้นี้ใช้ทำอาวุธอย่างตระบอง (club) หรือกระบองยาว (quarterstaff) ได้ดี รวมถึงใช้ทำโล่ก็ได้ ไม้อัลเดอร์เกี่ยวเนื่องกับลมและมันสามารถนำมาใช้สร้างอาวุธขว้างได้ เช่นลูกดอก (dart) หรือหอกซัด (javelin) 
 >
-> Druids from regions that lack the plants described here have chosen other plants to take on similar uses. For instance, a druid of a desert region might value the yucca tree and cactus plants.
+> ดรูอิดจากดินแดนที่มีต้นไม้ดังกล่าวน้อย จะเลือกใช้ไม้อื่นมาทำเป็นด้ามอาวุธ ตัวอย่างเช่น ดรูอิดจากแถบทะเลทรายจะใช้ไม้ยุคคาและกระบองเพชร
 
-> DRUIDS AND THE GODS
+> **ดรูอิดและเทพเจ้า**
 >
-> Some druids venerate the forces of nature themselves, but most druids are devoted to one of the many nature deities worshiped in the multiverse (the >lists of gods in appendix B include many such deities). The worship of these deities is often considered a more ancient tradition than the faiths of >clerics and urbanized peoples. In fact, in the world of Greyhawk, the druidic faith is called the Old Faith, and it claims many adherents among farmers, >foresters, fishers, and others who live closely with nature. This tradition includes the worship of Nature as a primal force beyond personification, but >also encompasses the worship of Beory, the Oerth Mother, as well as devotees of Obad-Hai, Ehlonna, and Ulaa.
+> ดรูอิดบางคนจะบูชาพลังของธรรมชาติโดยตรง แต่ส่วนใหญ่จะอุทิตตนให้กับเทพแห่งธรรมชาติที่มีในพหุจักรวาล (รายการเทพเจ้ามีในภาคผนวก B) การบูชาเทพเหล่านี้ถือว่าเป็นประเพณีโบราณกว่าความศรัทธาของเหล่าเคลอริกและชาวเมืองที่เจริญแล้ว ที่จริงแล้ว ในโลกของเกรฮอว์ค ลัทธิดรูอิดจะถูกเรียกว่า ศรัทธาเดิม และพบได้ในเหล่าชาวนา คนตัดไม้ ชาวประมง และชุมชนอื่นที่ใช้ชีวิตอยู่ใกล้กับธรรมชาติ ประเพณีเหล่านี้รวมไปถึงการบูชาธรรมชาติที่เป็นพลังปฐมภูมิที่เหนือไปจากแบบบุคลาธิษฐาน แต่ก็รวมไปถึงการบูชาเทพบีโอรีหรือพระแม่ธรณี (Beory, the Oerth Mother) และบูชาเทพโอบัด-ไฮ (Obad-Hai), เอฮฺลอนน่า (Ehlonna) และอูลาอา (Ulaa)
 >
-> In the worlds of Greyhawk and the Forgotten Realms, druidic circles are not usually connected to the faith of a single nature deity. Any given circle in >the Forgotten Realms, for example, might include druids who revere Silvanus, Mielikki, Eldath, Chauntea, or even the harsh Gods of Fury: Talos, Malar, >Auril, and Umberlee. These nature gods are often called the First Circle, the first among the druids, and most druids count them all (even the violent >ones) as worthy of veneration.
+> ในโลกของเกรย์ฮอว์คและอาณาจักรที่ถูกลืมเลือน เซอร์เคิลดรูอิดจะไม่ค่อยยึดโยงศรัทธากับเทพองค์ใดองค์หนึ่ง เซอร์เคิลหนึ่งมักจะมีดรูอิดที่นับถือเทพซิลวานัส มิเอลิคกิ เอลดาร์ธ ชวนที หรือแม้แต่เทพเจ้าแห่งความป่าเถื่อนอย่างทาลอส มาลาร์ เออริลและอัมเบอลี เทพแห่งธรรมชาติเหล่านี้มักถูกเรียกว่า เฟิร์สเซอเคิล เป็นเทพกลุ่มแรกของชาวดรูอิด และดรูอิดส่วนใหญ่ก็นับว่าเป็นเทพที่นับถือได้ (แม้จะเป็นเทพที่ใช้ความรุนแรง) 
 >
-> The druids of Eberron hold animistic beliefs completely unconnected to the Sovereign Host, the Dark Six, or any of the other religions of the world. They believe that every living thing and every natural phenomenon—sun, moon, wind, fire, and the world itself—has a spirit. Their spells, then, are a means to communicate with and command these spirits. Different druidic sects, though, hold different philosophies about the proper relationship of these spirits to each other and to the forces of civilization. The Ashbound, for example, believe that arcane magic is an abomination against nature, the Children of Winter venerate the forces of death, and the Gatekeepers preserve ancient traditions meant to protect the world from the incursion of aberrations.
+> ดรูอิดแห่งเอเบอร์รอนมีความเชื่อเกี่ยวกับวิญญาณนิยมซึ่งไม่เกี่ยวข้องกับ Sovereign Host, Dark Six หรือศาสนาอื่นใดในโลกเลย พวกเขาเชื่อว่าสิ่งมีชีวิตทุกชนิดและปรากฏการณ์ทางธรรมชาติทุกอย่าง ไม่ว่าจะเป็นดวงอาทิตย์ ดวงจันทร์ ลม ไฟ และโลกทั้งใบ ล้วนมีวิญญาณ ดังนั้นคาถาของพวกเขาจึงเป็นวิธีการสื่อสารและสั่งการวิญญาณเหล่านี้ อย่างไรก็ตาม นิกายดรูอิดแต่ละนิกายมีปรัชญาที่แตกต่างกันเกี่ยวกับความสัมพันธ์ที่เหมาะสมระหว่างวิญญาณเหล่านี้กับกันและกันและกับพลังแห่งอารยธรรม ตัวอย่างเช่น แอชบาวด์เชื่อว่าเวทมนตร์ลึกลับเป็นสิ่งน่ารังเกียจต่อธรรมชาติ บุตรแห่งฤดูหนาวเคารพบูชาพลังแห่งความตาย และผู้ดูแลประตูรักษาประเพณีโบราณที่มุ่งหมายเพื่อปกป้องโลกจากการบุกรุกของอสุรกาย
 
 ## Class Features
 
