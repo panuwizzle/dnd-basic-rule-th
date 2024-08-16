@@ -80,23 +80,31 @@ menu: menu-basic-rules
 >
 > ดรูอิดแห่งเอเบอร์รอนมีความเชื่อเกี่ยวกับวิญญาณนิยมซึ่งไม่เกี่ยวข้องกับ Sovereign Host, Dark Six หรือศาสนาอื่นใดในโลกเลย พวกเขาเชื่อว่าสิ่งมีชีวิตทุกชนิดและปรากฏการณ์ทางธรรมชาติทุกอย่าง ไม่ว่าจะเป็นดวงอาทิตย์ ดวงจันทร์ ลม ไฟ และโลกทั้งใบ ล้วนมีวิญญาณ ดังนั้นคาถาของพวกเขาจึงเป็นวิธีการสื่อสารและสั่งการวิญญาณเหล่านี้ อย่างไรก็ตาม นิกายดรูอิดแต่ละนิกายมีปรัชญาที่แตกต่างกันเกี่ยวกับความสัมพันธ์ที่เหมาะสมระหว่างวิญญาณเหล่านี้กับกันและกันและกับพลังแห่งอารยธรรม ตัวอย่างเช่น แอชบาวด์เชื่อว่าเวทมนตร์ลึกลับเป็นสิ่งน่ารังเกียจต่อธรรมชาติ บุตรแห่งฤดูหนาวเคารพบูชาพลังแห่งความตาย และผู้ดูแลประตูรักษาประเพณีโบราณที่มุ่งหมายเพื่อปกป้องโลกจากการบุกรุกของอสุรกาย
 
-## Class Features
+## ความสามารถของคลาส (Class Features)
 
 As a druid, you gain the following class features.
+เมื่อเป็นดรูอิด คุณจะได้รับความสามารถประจำคลาสดังต่อไปนี้
 
-Hit Points
+ฮิตพอยท์ Hit Points
 Hit Dice: 1d8 per druid level
+ฮิตไดส์: 1d8 ต่อเลเวลกรูอิด
 
 Hit Points at 1st Level: 8 + your Constitution modifier
+ฮิตพอยท์เมื่อเลเวล 1: 8 + ค่าโมดิไฟเออร์ความอดทน  (Constitution)
 
 Hit Points at Higher Levels: 1d8 (or 5) + your Constitution modifier per druid level after 1st
+ฮิตพอยท์เมื่อเลเวลสูงขึ้น: 1d8 (หรือ 5) + ค่าโมดิไฟเออร์ความอดทน (Constitution) ต่อเลเวลดรูอิดที่มากกว่าเลเวล 1
 
 Proficiencies
+ความเชี่ยวชาญ
 Armor: Light armor, medium armor, shields (druids will not wear armor or use shields made of metal)
+เกราะ: เกราะเบา, เกราะกลาง, โล่ (ดรูอิดจะไม่ใส่เกราะหรืใช้โล่ที่ทำจากโลหะ)
 
 Weapons: Clubs, daggers, darts, javelins, maces, quarterstaffs, scimitars, sickles, slings, spears
+อาวุธ: ตระบอง, กริช, ลูกดอก, หอกซัด, คฑา, กระบองยาว, ดาบโค้ง, เคียว, สลิง, หอก
 
 Tools: Herbalism kit
+เครื่องมือ: ชุดอุปกรณ์
 
 Saving Throws: Intelligence, Wisdom
 
