@@ -64,14 +64,6 @@ menu: menu-basic-rules
 | 19th  | +6             | [Ability Score Improvement](#ability-score-improvement)                                                    | 4             | 4   | 3   | 3     | 3    | 3   | 2     | 1    | 1   | 1   |
 | 20th  | +6             | [Archdruid](#archdruid)                                                                                    | 4             | 4   | 3   | 3     | 3    | 3   | 2     | 2    | 1   | 1   |
 
-> **ต้นไม้และป่าศักดิ์สิทธิ์**
->
-> ดรูอิดจะถือเอาต้นไม้บางชนิดเป็นสิ่งศักดิ์สิทธิ์ โดยเฉพาะ ต้นอัลเดอร์ ต้นแอช ต้นเบิร์ช ต้นเอลเดอร์ ต้นเฮเซล ต้นฮอลลี่ ต้นจูนิเปอร์ ต้นมิสเซิลโท ต้นโอ๊ก ต้นโรวัน ต้นวิลโลว์ และต้นยู พวกเขามักจะใช้ต้นไม้เหล่านี้เป็นสิ่งรวมสมาธิในการร่ายคาถาโดยนำกิ่งก้านของต้นโอ๊กหรือต้นยูหรือก้านใบของมิสเซิลโทมาประกอบกัน
->
-> และดรูอิดยังนำไม้เหล่านี้มาสร้างเป็นวัตถุอื่น เช่นอาวุธและโล่ ต้นยูมีความเกี่ยวเนื่องกับการตายและการเกิดใหม่ ดังนั้นด้ามจับของอาวุธอย่างดาบโค้ง (scimitar) หรือเคียวก็อาจใช้ไม้นี้ได้ ต้นแอชมีความเกี่ยวเนื่องกับชีวิตและความแข็งแกร่ง ไม้นี้ใช้ทำอาวุธอย่างตระบอง (club) หรือกระบองยาว (quarterstaff) ได้ดี รวมถึงใช้ทำโล่ก็ได้ ไม้อัลเดอร์เกี่ยวเนื่องกับลมและมันสามารถนำมาใช้สร้างอาวุธขว้างได้ เช่นลูกดอก (dart) หรือหอกซัด (javelin)
->
-> ดรูอิดจากดินแดนที่มีต้นไม้ดังกล่าวน้อย จะเลือกใช้ไม้อื่นมาทำเป็นด้ามอาวุธ ตัวอย่างเช่น ดรูอิดจากแถบทะเลทรายจะใช้ไม้ยุคคาและกระบองเพชร
-
 > **ดรูอิดและเทพเจ้า**
 >
 > ดรูอิดบางคนจะบูชาพลังของธรรมชาติโดยตรง แต่ส่วนใหญ่จะอุทิตตนให้กับเทพแห่งธรรมชาติที่มีในพหุจักรวาล (รายการเทพเจ้ามีในภาคผนวก B) การบูชาเทพเหล่านี้ถือว่าเป็นประเพณีโบราณกว่าความศรัทธาของเหล่าเคลอริกและชาวเมืองที่เจริญแล้ว ที่จริงแล้ว ในโลกของเกรฮอว์ค ลัทธิดรูอิดจะถูกเรียกว่า ศรัทธาเดิม และพบได้ในเหล่าชาวนา คนตัดไม้ ชาวประมง และชุมชนอื่นที่ใช้ชีวิตอยู่ใกล้กับธรรมชาติ ประเพณีเหล่านี้รวมไปถึงการบูชาธรรมชาติที่เป็นพลังปฐมภูมิที่เหนือไปจากแบบบุคลาธิษฐาน แต่ก็รวมไปถึงการบูชาเทพบีโอรีหรือพระแม่ธรณี (Beory, the Oerth Mother) และบูชาเทพโอบัด-ไฮ (Obad-Hai), เอฮฺลอนน่า (Ehlonna) และอูลาอา (Ulaa)
@@ -105,74 +97,87 @@ menu: menu-basic-rules
 **ทักษะ:** เลือก 2 ทักษะจาก [ตำนานเวทย์มนต์ (Arcana)](../../ch07-using-ability-scores#arcana), [การจัดการสัตว์ (Animal Handling)](../../ch07-using-ability-scores#animal-handling), [การมองทะลุ (Insight)](../../ch07-using-ability-scores#insight), [การรักษาพยาบาล (Medicine)](../../ch07-using-ability-scores#medicine), [ธรรมชาติ (Nature)](../../ch07-using-ability-scores#nature), [การหยั่งรู้ (Perception)](../../ch07-using-ability-scores#perception), [การศาสนา (Religion)](../../ch07-using-ability-scores#religion), and [การเอาชีวิตรอด (Survival)](../../ch07-using-ability-scores#survival)
 
 ### อุปกรณ์ (Equipment)
+
 คุณจะเริ่มด้วยอุปกรณ์ดังต่อไปนี้ เพิ่มเติมจากอุปกรณ์ที่ได้รับจากภูมิหลัง
 
 - (a) โล่ไม้ 1 ชิ้น หรือ (b) อาวุธพื้นฐาน
 - (a) ดาบโค้งหนึ่งเล่ม หรือ (b) อาวุธประชิดตัวพื้นฐาน
 - เกราะหนัง, ชุดอุปกรณ์นักสำรวจ (explorer’s pack) และสิ่งรวมสมาธิของดรูอิด (druidic focus)
 
-### ดรูอิดดิค (Druidic) ภาษาดรูอิด 
+### ดรูอิดดิค (Druidic) ภาษาดรูอิด
 
 คุณรู้ภาษาดรูอิดดิค ภาษาลับของชาวดรูอิด คุณสามารถพูดภาษานี้ได้และใช้มันในการทิ้งข้อความลับ คุณและคนอื่นที่รู้ภาษานี้จะสังเกตุพบข้อความได้โดยอัตโนมัติ คนที่ไม่รู้ภาษาจะสังเกตุพบได้โดยการทอยทดสอบ[การหยั่งรู้ (Perception)](../../ch07-using-ability-scores#perception) DC 15 แต่จะไม่สามารถถอดรหัสได้หากไม่ใช้คาถาช่วย
 
-### Spellcasting
+## การใช้คาถา (Spellcasting)
 
-Drawing on the divine essence of nature itself, you can cast spells to shape that essence to your will. See chapter 10 for the general rules of spellcasting and chapter 11 for the druid spell list.
-Cantrips
-At 1st level, you know two cantrips of your choice from the druid spell list. You learn additional druid cantrips of your choice at higher levels, as shown in the Cantrips Known column of the Druid table.
+จากการดึงพลังจากธรรมชาติโดยตรง คุณสามารถใช้คาถาจากพลังนั้นได้ดั่งใจ
+ดู [บทที่ 10](../../ch10-spellcasting) สำหรับกฏทั่วไปของการใช้คาถา และ [บทที่ 11](../../ch11-spells) สำหรับรายการคาถาของเคลอริก
 
-Preparing and Casting Spells
-The Druid table shows how many spell slots you have to cast your spells of 1st level and higher. To cast one of these druid spells, you must expend a slot of the spell’s level or higher. You regain all expended spell slots when you finish a long rest.
+### แคนทริป (Cantrips) คาถาที่ใช้ได้โดยไม่ต้องเสียสล็อตคาถา (spell slot)
 
-You prepare the list of druid spells that are available for you to cast, choosing from the druid spell list. When you do so, choose a number of druid spells equal to your Wisdom modifier + your druid level (minimum of one spell). The spells must be of a level for which you have spell slots.
+ที่เลเวล 1 คุณจะรู้แคนทริป 2 คาถาตามที่คุณเลือกจากรายการคาถาของดรูอิด คุณจะเรียนรู้เพิ่มเติมได้เมื่อคุณเลเวลสูงขึ้นตามที่แสดงไว้ในตาราง
 
-For example, if you are a 3rd-level druid, you have four 1st-level and two 2nd-level spell slots. With a Wisdom of 16, your list of prepared spells can include six spells of 1st or 2nd level, in any combination. If you prepare the 1st-level spell [cure wounds], you can cast it using a 1st-level or 2nd-level slot. Casting the spell doesn’t remove it from your list of prepared spells.
+### การเตรียมและการร่ายคาถา
 
-You can also change your list of prepared spells when you finish a long rest. Preparing a new list of druid spells requires time spent in prayer and meditation: at least 1 minute per spell level for each spell on your list.
+ตารางดรูอิดแสดงจำนวนสล็อตคาถาที่คุณสามารถใช้ในการร่ายคาถาเลเวล 1 และสูงกว่า ในการร่ายคาถานี้คุณต้องจ่ายเป็นสล็อตของคาถาในเลเวลนั้นหรือสูงกว่า คุณจะได้รับสล็อตที่คุณได้ใช้ไปคืนมาเมื่อคุณจบการพักยาว
 
-Spellcasting Ability
-Wisdom is your spellcasting ability for your druid spells, since your magic draws upon your devotion and attunement to nature. You use your Wisdom whenever a spell refers to your spellcasting ability. In addition, you use your Wisdom modifier when setting the saving throw DC for a druid spell you cast and when making an attack roll with one.
+คุณสามารถเตรียมรายการคาถาที่คุณจะใช้โดยเลือกจากรายการหลัก เมื่อเตรียมเรียบร้อยแล้ว เลือกจำนวนคาถาเท่ากับค่าโมดิไฟเออร์ + เลเวลของดรูอิด (น้อยสุด 1) คาถาจะต้องมีเลเวลเดียวกับสล็อตคาถาที่คุณมี
 
-Spell save DC = 8 + your proficiency bonus + your Wisdom modifier
+ตัวอย่างเช่นถ้าคุณเป็นดรูอิดเลเวล 3 คุณจะมีสล็อตคาถาเลเวล 1 จำนวน 4 ช่องและเลเวล 2 จำนวน 2 ช่อง เมื่อคุณมีค่าความรอบรู้ (Wisdom) 16 รายการคาถาที่เตรียมได้ของคุณจะมี 6 คาถาโดยเลือกจากคาถาเลเวล 1 หรือ 2 รวมกัน ถ้าคุณเตรียมคาถาเลเวล 1 [cure wounds] คุณสามารถใช้คาถาได้โดยใช้สล็อตเลเวล 1 หรือ 2 ก็ได้ การร่ายคาถาไม่ได้เป็นการเสียคาถาไปจากรายการที่เตรียมมา
 
-Spell attack modifier = your proficiency bonus + your Wisdom modifier
+คุณสามารถจะปรับเปลี่ยนรายการคาถาที่เตรียมมาได้หลังการพักยาว การเตรียมรายการใหม่ต้องใช้เวลาในการสวดภาวนาและการทำสมาธิ อย่างน้อย 1 นาทีต่อเลเวลคาถาในแต่ละคาถาในรายการ
 
-Ritual Casting
-You can cast a druid spell as a ritual if that spell has the ritual tag and you have the spell prepared.
+### ความสามารถที่ใช้ในการร่ายคาถา (Spellcasting Ability)
 
-Spellcasting Focus
-You can use a druidic focus (see chapter 5, “Equip­ment”) as a spellcasting focus for your druid spells.
+ความรอบรู้ (Wisdom) เป็นความสามารถที่ใช้ในการใช้คาถาสำหรับดรูอิดเพราะเวทย์มนต์ของคุณเป็นการดึงพลังมาจากการอุทิตตนและการผสานรวมกับธรรมชาติ
+คุณจะใช้ค่าความรอบรู้เมื่อไรก็ตามที่คาถาระบุถึงความสามารถที่ใช้ในการร่ายคาถา นอกจากนั้นแล้วคุณยังจะใช้ค่าโมดิไฟเออร์ของความรอบรู้เพื่อกำหนดค่าความยากในการทอยป้องกันคาถา (Spell save DC) และเมื่อคุณต้องทอยโจมตีด้วยคาถา
 
-> SACRED PLANTS AND WOOD
+**ค่าความยากในการทอยป้องกันคาถา (Spell save DC)** = 8 + ค่าโบนัสความเชี่ยวชาญ + ค่าโมดิไฟเออร์ความรอบรู้
+
+**ค่าโมดิไฟเออร์การทอยโจมตีด้วยคาถา (Spell attack modifier)** = ค่าโบนัสความเชี่ยวชาญ + ค่าโมดิไฟเออร์ความรอบรู้
+
+#### การประกอบพิธีกรรม (Ritual Casting)
+
+คุณสามารถร่ายคาถาเคลอริกแบบพิธีกรรมได้ หากคาถานั้นมีแท็ก "พิธีกรรม (ritual)" และคุณเตรียมคาถานั้นมา
+
+#### สิ่งรวมสมาธิในการร่ายคาถา (Spellcasting Focus)
+
+คุณสามารถใช้เครื่องดนตรี (ดูบทที่ 5 "[อุปกรณ์](../../ch05-equipment)") เป็นสิ่งรวมสมาธิในการร่ายคาถาของเคลอริกได้
+
+> **ต้นไม้และป่าศักดิ์สิทธิ์**
 >
-> A druid holds certain plants to be sacred, particularly alder, ash, >birch, elder, hazel, holly, juniper, mistletoe, oak, rowan, willow, >and yew. Druids often use such plants as part of a spellcasting >focus, incorporating lengths of oak or yew or sprigs of mistletoe.
+> ดรูอิดจะถือเอาต้นไม้บางชนิดเป็นสิ่งศักดิ์สิทธิ์ โดยเฉพาะ ต้นอัลเดอร์ ต้นแอช ต้นเบิร์ช ต้นเอลเดอร์ ต้นเฮเซล ต้นฮอลลี่ ต้นจูนิเปอร์ ต้นมิสเซิลโท ต้นโอ๊ก ต้นโรวัน ต้นวิลโลว์ และต้นยู พวกเขามักจะใช้ต้นไม้เหล่านี้เป็นสิ่งรวมสมาธิในการร่ายคาถาโดยนำกิ่งก้านของต้นโอ๊กหรือต้นยูหรือก้านใบของมิสเซิลโทมาประกอบกัน
 >
-> Similarly, a druid uses such woods to make other objects, such as >weapons and shields. Yew is associated with death and rebirth, so >weapon handles for scimitars or sickles might be fashioned from it. >Ash is associated with life and oak with strength. These woods make >excellent hafts or whole weapons, such as clubs or quarterstaffs, >as well as shields. Alder is associated with air, and it might be >used for thrown weapons, such as darts or javelins.
+> และดรูอิดยังนำไม้เหล่านี้มาสร้างเป็นวัตถุอื่น เช่นอาวุธและโล่ ต้นยูมีความเกี่ยวเนื่องกับการตายและการเกิดใหม่ ดังนั้นด้ามจับของอาวุธอย่างดาบโค้ง (scimitar) หรือเคียวก็อาจใช้ไม้นี้ได้ ต้นแอชมีความเกี่ยวเนื่องกับชีวิตและความแข็งแกร่ง ไม้นี้ใช้ทำอาวุธอย่างตระบอง (club) หรือกระบองยาว (quarterstaff) ได้ดี รวมถึงใช้ทำโล่ก็ได้ ไม้อัลเดอร์เกี่ยวเนื่องกับลมและมันสามารถนำมาใช้สร้างอาวุธขว้างได้ เช่นลูกดอก (dart) หรือหอกซัด (javelin)
 >
-> Druids from regions that lack the plants described here have chosen other plants to take on similar uses. For instance, a druid of a desert region might value the yucca tree and cactus plants.
+> ดรูอิดจากดินแดนที่มีต้นไม้ดังกล่าวน้อย จะเลือกใช้ไม้อื่นมาทำเป็นด้ามอาวุธ ตัวอย่างเช่น ดรูอิดจากแถบทะเลทรายจะใช้ไม้ยุคคาและกระบองเพชร
 
-### Wild Shape
+### ร่างสัตว์ป่า (Wild Shape)
 
-Starting at 2nd level, you can use your action to magically assume the shape of a beast that you have seen before. You can use this feature twice. You regain expended uses when you finish a short or long rest.
+เริ่มที่เลเวล 2 คุณสามารถใช้แอ็คชันในการแปลงร่างเป็นสัตว์ป่าที่คุณเคยเห็นมาก่อน คุณสามารถใช้ความสามารถนี้ได้ 2 ครั้ง คุณจะได้รับจำนวนที่ใช้ไปคืนมาเมื่อคุณจบการพักสั้นหรือพักยาว
 
-Your druid level determines the beasts you can transform into, as shown in the Beast Shapes table. At 2nd level, for example, you can transform into any beast that has a challenge rating of 1/4 or lower that doesn’t have a flying or swimming speed.
+เลเวลดรูอิดของคุณจะเป็นตัวกำหนดสัตว์ที่คุณสามารถแปลงร่างได้ ดังแสดงในตารางด้านล่าง ตัวอย่างเช่น ที่เลเวล 2 คุณจะสามารถแปลงร่างเป็นสัตว์ที่มีอัตราความท้าทาย (challenge rating) ที่ 1/4 หรือต่ำกว่าที่ไม่มีความสามารถในการบินหรือว่ายน้ำ
 
-**Beast Shapes**
+**ร่างสัตว์ที่แปลงได้**
 
-| Level | Max. CR | Limitations                 | Example     |
-| ----- | ------- | --------------------------- | ----------- |
-| 2nd   | 1/4     | No flying or swimming speed | Wolf        |
-| 4th   | 1/2     | No flying speed             | Crocodile   |
-| 8th   | 1       | —                           | Giant eagle |
+| เลเวล | CR มากสุด | ข้อจำกัด             | ตัวอย่าง    |
+| ----- | --------- | -------------------- | ----------- |
+| 2nd   | 1/4       | บินหรือว่ายน้ำไม่ได้ | หมาป่า      |
+| 4th   | 1/2       | บินไม่ได้            | จระเข้      |
+| 8th   | 1         | —                    | อินทรียักษ์ |
 
-You can stay in a beast shape for a number of hours equal to half your druid level (rounded down). You then revert to your normal form unless you expend another use of this feature. You can revert to your normal form earlier by using a bonus action on your turn. You automatically revert if you fall [unconscious], drop to 0 hit points, or die.
+คุณสามารถอยู่ในร่างสัตว์ได้นานเท่ากับครึ่งหนึ่งของเลเวลดรูอิด (ปัดเศษลง) หลังจากนั้นคุณจะกลับสู่ร่างปกติหรืออาจจะใช้อีกครั้งเพื่อยืดเวลาไปได้ คุณสามารถกลับสู่ร่างปกติได้ก่อนหมดเวลาโดยใช้โบนัสแอ็คชันในเทิร์นของคุณ คุณจะกลับสู่ร่างเดิมหากคุณ [หมดสติ (unconcious)](), เลือดเหลือ 0 หรือตาย 
 
-While you are transformed, the following rules apply:
+เมื่อคุณเปลี่ยนร่าง กฏเหล่านี้จะถูกนำมาใช้
 
-- Your game statistics are replaced by the statistics of the beast, but you retain your alignment, personality, and Intelligence, Wisdom, and Charisma scores. You also retain all of your skill and saving throw proficiencies, in addition to gaining those of the creature. If the creature has the same proficiency as you and the bonus in its stat block is higher than yours, use the creature’s bonus instead of yours. If the creature has any legendary or lair actions, you can’t use them.
-- When you transform, you assume the beast’s hit points and Hit Dice. When you revert to your normal form, you return to the number of hit points you had before you transformed. However, if you revert as a result of dropping to 0 hit points, any excess damage carries over to your normal form. For example, if you take 10 damage in animal form and have only 1 hit point left, you revert and take 9 damage. As long as the excess damage doesn’t reduce your normal form to 0 hit points, you aren’t knocked unconscious.
-- You can’t cast spells, and your ability to speak or take any action that requires hands is limited to the capabilities of your beast form. Transforming doesn’t break your concentration on a spell you’ve already cast, however, or prevent you from taking actions that are part of a spell, such as [call lightning], that you’ve already cast.
-- You retain the benefit of any features from your class, race, or other source and can use them if the new form is physically capable of doing so. However, you can’t use any of your special senses, such as darkvision, unless your new form also has that sense.
+- ค่าสถานะต่าง ๆ ของคุณจะถูกเปลี่ยนไปเป็นสถานะของสัตว์ชนิดนั้น แต่ค่าความดีเลว, บุคลิก, และคะแนนความฉลาด, ความรอบรู้ และเสน่ห์ จะไม่เปลี่ยน ทักษะและความเชี่ยวชาญในการทอยป้องกันของคุณก็ไม่เปลี่ยน ยิ่งกว่านั้นยังจะได้รับค่าเพิ่มเติมจากชนิดสัตว์นั้นด้วย ถ้าสิ่งมีชีวิตนั้นมีค่าความเชี่ยวชาญเท่าคุณและมีค่าโบนัสในตารางสถานะที่มากกว่า ให้คุณใช้ค่าที่มากกว่านั้น ถ้าสิ่งมีชีวิตนั้นมีแอ็คชันเลเจนดารี่ (legendary action) หรือแอ็คชันเฉพาะพื้นที่ (lair action) คุณจะไม่่สามารถใช้ได้
+
+- เมื่อคุณเปลี่ยนร่าง คุณจะใช้ฮิตพอยท์และฮิตไดส์ของสัตว์นั้น เมื่อคุณกลับมาเป็นร่างเดิม คุณจะกลับไปใช้ฮิตพอยท์เดิมก่อนที่คุณจะเปลี่ยนร่าง อย่างไรก็ตาม หากคุณกลับร่างเดิมเพราะฮิตพอยท์ลดลงจนเป็น 0 ความเสียหายใด ๆ จะถูกนำไปคำนวนต่อในร่างเดิมของคุณ ตัวอย่างเช่น ถ้าคุณได้รับความเสียหาย 10 ในร่างสัตว์และมีฮิตพอยท์เหลือ 1 คุณเปลี่ยนร่างกลับและได้รับความเสียหาย 9 ตราบใดก็ตามที่ความเสียหายที่เกินมาไม่ได้ทำให้ฮิตพอยท์ร่างปกติของคุณเป็น 0 คุณจะไม่ติดสถานะหมดสติ
+
+- คุณจะใช้คาถาไม่ได้ และความสามารถที่ใช้การพูดหรือแอ็คชันใด ๆ ที่ต้องใช้มือจะถูกจำกัดด้วยร่างสัตว์ที่คุณเปลี่ยนไปเป็น การเปลี่ยนร่างจะไม่ทำให้การใช้คาถาที่ต้องเพ่งสมาธิที่คุณใช้ไปแล้วล้มเหลว เช่นคาถา [เรียกสายฟ้า (call lightning)]() ที่คุณใช้ไปแล้ว
+
+- คุณจะยังได้รับผลพิเศษจากคุณลักษณะใด ๆ จากคลาส เผ่าพันธุ์ หรือจากแหล่งอื่น และสามารถใช้มันในร่างใหม่ถ้าร่างนั้นสามารถใช้ความสามารถนั้นได้ อย่างไรก็ตาม คุณจะไม่สามารถใช้การรับรู้บางอย่างได้ เช่น ดาร์กวิชัน ยกเว้นถ้าร่างใหม่มีความสามารถนั้นอยู่แล้ว
+
 - You choose whether your equipment falls to the ground in your space, merges into your new form, or is worn by it. Worn equipment functions as normal, but the DM decides whether it is practical for the new form to wear a piece of equipment, based on the creature’s shape and size. Your equipment doesn’t change size or shape to match the new form, and any equipment that the new form can’t wear must either fall to the ground or merge with it. Equipment that merges with the form has no effect until you leave the form.
 
 ### Druid Circle
