@@ -166,7 +166,7 @@ menu: menu-basic-rules
 | 4th   | 1/2       | บินไม่ได้            | จระเข้      |
 | 8th   | 1         | —                    | อินทรียักษ์ |
 
-คุณสามารถอยู่ในร่างสัตว์ได้นานเท่ากับครึ่งหนึ่งของเลเวลดรูอิด (ปัดเศษลง) หลังจากนั้นคุณจะกลับสู่ร่างปกติหรืออาจจะใช้อีกครั้งเพื่อยืดเวลาไปได้ คุณสามารถกลับสู่ร่างปกติได้ก่อนหมดเวลาโดยใช้โบนัสแอ็คชันในเทิร์นของคุณ คุณจะกลับสู่ร่างเดิมหากคุณ [หมดสติ (unconcious)](), เลือดเหลือ 0 หรือตาย 
+คุณสามารถอยู่ในร่างสัตว์ได้นานเท่ากับครึ่งหนึ่งของเลเวลดรูอิด (ปัดเศษลง) หลังจากนั้นคุณจะกลับสู่ร่างปกติหรืออาจจะใช้อีกครั้งเพื่อยืดเวลาไปได้ คุณสามารถกลับสู่ร่างปกติได้ก่อนหมดเวลาโดยใช้โบนัสแอ็คชันในเทิร์นของคุณ คุณจะกลับสู่ร่างเดิมหากคุณ [หมดสติ (unconcious)](), เลือดเหลือ 0 หรือตาย
 
 เมื่อคุณเปลี่ยนร่าง กฏเหล่านี้จะถูกนำมาใช้
 
@@ -178,146 +178,181 @@ menu: menu-basic-rules
 
 - คุณจะยังได้รับผลพิเศษจากคุณลักษณะใด ๆ จากคลาส เผ่าพันธุ์ หรือจากแหล่งอื่น และสามารถใช้มันในร่างใหม่ถ้าร่างนั้นสามารถใช้ความสามารถนั้นได้ อย่างไรก็ตาม คุณจะไม่สามารถใช้การรับรู้บางอย่างได้ เช่น ดาร์กวิชัน ยกเว้นถ้าร่างใหม่มีความสามารถนั้นอยู่แล้ว
 
-- You choose whether your equipment falls to the ground in your space, merges into your new form, or is worn by it. Worn equipment functions as normal, but the DM decides whether it is practical for the new form to wear a piece of equipment, based on the creature’s shape and size. Your equipment doesn’t change size or shape to match the new form, and any equipment that the new form can’t wear must either fall to the ground or merge with it. Equipment that merges with the form has no effect until you leave the form.
+- คุณเลือกได้ว่าอุปกรณ์ของคุณจะหล่นอยู่รอบตัวคุณ, รวมไปกับร่างใหม่ หรือสวมใส่ให้กับร่างใหม่ด้วย อุปกรณ์ที่สวมใส่จะยังทำงานเหมือนปกติ แต่ DM จะตัดสินใจให้ว่ามันสมเหตุสมผลที่จะใส่กับร่างใหม่หรือไม่ โดยอ้างอิงกับรูปร่างและขนาดของสิ่งมีชีวิตที่คุณแปลงร่างไปเป็น อุปกรณ์ของคุณจะไม่เปลี่ยนรูปร่างไปด้วย และอุปกรณ์ใดที่ร่างใหม่ไม่สามารถสวมใส่ได้จะตกลงพื้นหรอไม่ก็ผสานรวมไปกับร่างใหม่ อุปกรณ์ที่ผสานไปกับร่างจะไร้ผลพิเศษจนกระทั่งคุณแปลงร่างกลับมาเป็นปกติ
 
-### Druid Circle
+### เซอร์เคิลของดรูอิด (Druid Circle)
 
-At 2nd level, you choose to identify with a circle of druids: the Circle of the Land or the Circle of the Moon, both detailed at the end of the class description. Your choice grants you features at 2nd level and again at 6th, 10th, and 14th level.
+เมื่อเลเวล 2 คุณจะเลือกเข้าสังกัดเซอร์เคิลของดรูอิด เซอร์เคิลแห่งภิภพ (Circle of the Land) หรือเซอร์เคิลแห่งจันทรา (Circle of the Moon) ทั้งสองมีรายละเอียดอยู่ในคำอธิบายคลาสด้านล่าง สิ่งที่คุณเลือกจะให้ความสามารถเพิ่มที่เลเวล 2 และอีกครั้งที่เลเวล 6, 10 และ 14
 
-### Ability Score Improvement
+### เพิ่มคะแนนความสามารถ (Ability Score Improvement)
 
-When you reach 4th level, and again at 8th, 12th, 16th, and 19th level, you can increase one ability score of your choice by 2, or you can increase two ability scores of your choice by 1. As normal, you can’t increase an ability score above 20 using this feature.
+เมื่อคุณถึงเลเวล 4 และอีกครั้งเมื่อเลเวล 8, 12, 16 และ 19 คุณสามารถเพิ่มคะแนนความสามารถหนึ่งอย่างตามที่คุณเลือกได้ 2 คะแนน หรือเพิ่ม 1 คะแนนให้กับสองทักษะก็ได้ โดยปกติแล้วคุณจะไม่สามารถเพิ่มคะแนนความสามารถได้มากกว่า 20 หากใช้คุณลักษณะนี้
 
-### Timeless Body
+### ร่างไร้กาล (Timeless Body)
 
-Starting at 18th level, the primal magic that you wield causes you to age more slowly. For every 10 years that pass, your body ages only 1 year.
+เริ่มที่เลเวล 18 พลังเวทย์บรรพกาลที่ไหลอยู่ในตัวคุณจะทำให้คุณแก่ช้าลง ทุก 10 ปี คุณจะแก่ลงเพียง 1 ปี
 
-### Beast Spells
+### คาถาแห่งสัตว์ป่า (Beast Spells)
 
-Beginning at 18th level, you can cast many of your druid spells in any shape you assume using Wild Shape. You can perform the somatic and verbal components of a druid spell while in a beast shape, but you aren’t able to provide material components.
+เริ่มที่เลเวล 18 คุณสามารถใช้คาถาดรูอิดได้ในทุกร่างที่คุณใช้ความสามารถร่างสัตว์ป่า (Wild Shape) คุณสามารถใช้คาถาดรูอิดที่ใช้ท่าจากร่างกาย (somatic) และการสวดออกเสียง (verbal) ในขณะอยู่ในร่างสัตว์ป่า แต่คุณจะไม่สามารถใช้คาถาที่ต้องใช้วัตถุคาถาได้
 
-### Archdruid
+### อาร์คดรูอิด (Archdruid)
 
-At 20th level, you can use your Wild Shape an unlimited number of times.
+ที่เลเวล 20 คุณสามารถใช้ร่างสัตว์ป่า (Wild Shape) ได้โดยไม่จำกัดจำนวนครั้ง
 
-Additionally, you can ignore the verbal and somatic components of your druid spells, as well as any material components that lack a cost and aren’t consumed by a spell. You gain this benefit in both your normal shape and your beast shape from Wild Shape.
+นอกจากนั้น คุณจะสามารถใช้คาถาดรูอิดโดยไม่ต้องใช้ท่าทางหรือการออกเสียงและไม่ต้องใช้วัตถุคาถาใด ๆ ที่ไม่มีค่าใช้จ่ายและไม่สลายไปหลังการร่ายคาถา คุณจะได้ความสามารถนี้ทั้งในร่างปกติและร่างสัตว์ป่า
 
-## Druid Circles
+## เซอร์เคอลของดรูอิด (Druid Circles)
 
-Though their organization is invisible to most outsiders, druids are part of a society that spans the land, ignoring political borders. All druids are nominally members of this druidic society, though some individuals are so isolated that they have never seen any high-ranking members of the society or participated in druidic gatherings. Druids recognize each other as brothers and sisters. Like creatures of the wilderness, however, druids sometimes compete with or even prey on each other.
+แม้ว่าองค์กรของพวกเขาจะซ่อนอยู่จากคนภายนอก ดรูอิดก็เป็นส่วนหนึ่งของสังคมที่กระจายอยู่ทั่วไปโดยไม่สนใจกับขอบเขตทางการเมือง ดรูอิดทั้งหมดล้วนเป็นส่วนหนึ่งของสังคมดรูอิดนี้ แม้ว่าบางคนจะปลีกตัวสันโดษมากจนไม่เคยพบกับสมาชิกระดับสูงของสังคมหรือไม่เคยมาร่วมชุมนุมเลย ดรูอิดถือว่าดรูอิดคนอื่นเป็นพี่น้องกัน เหมือนกับเหล่าสัตว์ในที่ต่าง ๆ อย่างไรก็ตามบางครั้งดรูอิดก็แข่งขันกันหรือแม้แต่ล่ากันและกัน
 
-At a local scale, druids are organized into circles that share certain perspectives on nature, balance, and the way of the druid.
+ในระดับท้องถิ่น ดรูอิดจะรวมตัวกันเป็นเซอร์เคิลที่จะแบ่งปันมุมมองเกี่ยวกับธรรมชาติ สมดุลย์ และแนวทางของกลุ่มตนเอง
 
-### Circle of Dreams
+### เซอร์เคิลแห่งฝัน (Circle of Dreams)
 
-### Circle of Spores
+### เซอร์เคิลแห่งสปอร์ (Circle of Spores)
 
-### Circle of Stars
+### เซอร์เคิลแห่งดวงดาว (Circle of Stars)
 
-### Circle of the Land
+### เซอร์เคิลแห่งภิภพ (Circle of the Land)
 
-The Circle of the Land is made up of mystics and sages who safeguard ancient knowledge and rites through a vast oral tradition. These druids meet within sacred circles of trees or standing stones to whisper primal secrets in Druidic. The circle’s wisest members preside as the chief priests of communities that hold to the Old Faith and serve as advisors to the rulers of those folk. As a member of this circle, your magic is influenced by the land where you were initiated into the circle’s mysterious rites.
+เซอร์เคิลแห่งภิภพ เป็นการรวมตัวกันของเหล่าผู้วิเศษและนักปราชญ์ผู้ปกป้องความรู้และพิธีกรรมโบราณผ่านการเล่าสืบทอดกันตามประเพณี ดรูอิดเหล่านี้จะชุมนุมกันรอบต้นไม้ศักดิ์สิทธิ์หรือก้อนหินพิธีกรรมเพื่อร่วมกันสวดทวนความรู้โบราณในภาษาดรูอิดิคอันลี้ลับ ผู้นำที่ปราดเปรื่องที่สุดในกลุ่มจะทำหน้าที่เป็นประธานของพิธีกรรมตามแบบศรัทธาเดิม และทำหน้าที่เป็นที่ปรึกษาให้กับผู้ปกครองของชุมชน เมื่อเป็นสมาชิกของกลุ่ม เวทย์มนต์ของคุณจะได้รับอิทธิพลจากพื้นภิภพที่พิธีกรรมแรกเข้าของคุณสังกัดอยู่
 
-Bonus Cantrip
-When you choose this circle at 2nd level, you learn one additional druid cantrip of your choice. This cantrip doesn’t count against the number of druid cantrips you know.
+#### แคนทริปพิเศษ (Bonus Cantrip)
 
-Natural Recovery
-Starting at 2nd level, you can regain some of your magical energy by sitting in meditation and communing with nature. During a short rest, you choose expended spell slots to recover. The spell slots can have a combined level that is equal to or less than half your druid level (rounded up), and none of the slots can be 6th level or higher. You can’t use this feature again until you finish a long rest.
+เมื่อคุณเลือกเซอร์เคิลนี้เมื่อเลเวล 2 คุณจะเลือกเรียนรู้คาถาแคนทริปของดรูอิดเพิ่มได้อีก 1 คาถา แคนทริปนี้จะไม่นับรวมกับจำนวนแคนทริปที่คุณรู้จากตาราง
 
-For example, when you are a 4th-level druid, you can recover up to two levels worth of spell slots. You can recover either a 2nd-level slot or two 1st-level slots.
+#### การฟื้นฟูตามธรรมชาติ (Natural Recovery)
 
-Circle Spells
-Your mystical connection to the land infuses you with the ability to cast certain spells. At 3rd, 5th, 7th, and 9th level you gain access to circle spells connected to the land where you became a druid. Choose that land — arctic, coast, desert, forest, grassland, mountain, swamp, or Underdark — and consult the associated list of spells.
+เริ่มที่เลเวล 2 คุณสามารถฟื้นฟูพลังงานเวทย์มนต์บางส่วนได้โดยการนั่งสมาธิและเชื่อมต่อกับธรรมชาติ ระหว่างการพักสั้น คุณสามารถเลือกฟื้นฟูสล็อตคาถาที่ใช้ไปแล้วได้ สล็อตคาถาที่สามารถฟื้นฟูได้จะมีเลเวลรวมเท่ากับหรือน้อยกว่าครึ่งหนึ่งของเลเวลดรูอิด (ปัดเศษขึ้น) และไม่สามารถฟื้นฟูสล็อตเลเวล 6 ขึ้นไปได้ด้วยวิธีนี้ คุณจะใช้ความสามารถนี้ได้อีกครั้งเมื่อคุณจบการพักยาว
 
-Once you gain access to a circle spell, you always have it prepared, and it doesn’t count against the number of spells you can prepare each day. If you gain access to a spell that doesn’t appear on the druid spell list, the spell is nonetheless a druid spell for you.
+ตัวอย่างเช่น เมื่อคุณเลเวล 4 คุณสามารถฟื้นฟูได้มากสุด 2 เลเวล คุณสามารถฟื้นฟูสล็อตเลเวล 2 ได้ 1 สล็อต หรือสล็อตเลเวล 1 ได้ 2 สล็อต
 
-##### Arctic
+#### คาถาประจำเซอร์เคิล (Circle Spells)
 
-| Druid Level | Spells                                                                                                       |
+สายสัมพันธ์ของคุณกับพื้นภิภพได้มอบความสามารถในการใช้คาถาเฉพาะกับคุณ ที่เลเวล 3, 5, 7 และ 9 คุณจะสามารถใช้คาถาประจำเซอร์เคิลที่คุณเชื่อมต่ออยู่เมื่อครั้งแรกที่คุณเลือกเป็นดรูอิด ให้คุณเลือกพื้นที่ - ขั้วโลกเหนือ (arctic), ชายฝั่ง (coast), ทะเลทราย (desert), ป่า (forest), ทุ่งหญ้า (grassland), ภูเขา (mountain), บึง (swarm), หรือใต้ภิภพ (Underdark) - และตรวจสอบคาถาที่ใช้ได้จากรายการด้านล่าง
+
+เมื่อคุณเข้าถึงคาถาประจำเซอร์เคิล คุณจะมีคาถานี้เตรียมไว้ตลอดเวลา และจะไม่นับรวมกับจำนวนคาถาที่คุณเตรียมในแต่ละวัน ถ้าคุณเข้าถึงคาถาที่ไม่ได้อยู่ในรายการคาถาดรูอิด ให้ถือว่าเป็นคาถาดรูอิดสำหรับคุณ
+
+##### ขั้วโลกเหนือ (Arctic)
+
+| เลเวลดรูอิด | คาถา                                                                                                       |
 | ----------- | ------------------------------------------------------------------------------------------------------------ |
 | 3rd         | [hold person](../../ch11-spells#hold-person), [spike growth](../../ch11-spells#spike-growth)                 |
 | 5th         | [sleet storm](../../ch11-spells#sleet-storm), [slow](../../ch11-spells#slow)                                 |
 | 7th         | [freedom of movement](../../ch11-spells#freedom-of-movement), [ice storm](../../ch11-spells#ice-storm)       |
 | 9th         | [commune with nature](../../ch11-spells#commune-with-nature), [cone of cold](../../ch11-spells#cone-of-cold) |
 
-##### Coast
+##### ชายฝั่ง (Coast)
 
-| Druid Level | Spells                                                                                                         |
+| เลเวลดรูอิด | คาถา                                                                                                         |
 | ----------- | -------------------------------------------------------------------------------------------------------------- |
 | 3rd         | [mirror image](../../ch11-spells#mirror-image), [misty step](../../ch11-spells#misty-step)                     |
 | 5th         | [water breathing](../../ch11-spells#water-breathing), [water walk](../../ch11-spells#water-walk)               |
 | 7th         | [control water](../../ch11-spells#control-water), [freedom of movement](../../ch11-spells#freedom-of-movement) |
 | 9th         | [conjure elemental](../../ch11-spells#conjure-elemental), [scrying](../../ch11-spells#scrying)                 |
 
-##### Desert
+##### ทะเลทราย (Desert)
 
-| Druid Level | Spells                                                                                                                               |
+| เลเวลดรูอิด | คาถา                                                                                                                               |
 | ----------- | ------------------------------------------------------------------------------------------------------------------------------------ |
 | 3rd         | [blur](../../ch11-spells#blur), [silence](../../ch11-spells#silence)                                                                 |
 | 5th         | [create food and water](../../ch11-spells#create-food-and-water), [protection from energy](../../ch11-spells#protection-from-energy) |
 | 7th         | [blight](../../ch11-spells#blight), [hallucinatory terrain](../../ch11-spells#hallucinatory-terrain)                                 |
 | 9th         | [insect plague](../../ch11-spells#insect-plague), [wall of stone](../../ch11-spells#wall-of-stone)                                   |
 
-##### Forest
+##### ป่า (Forest)
 
-| Druid Level | Spells                                                                                                     |
+| เลเวลดรูอิด | คาถา                                                                                                     |
 | ----------- | ---------------------------------------------------------------------------------------------------------- |
 | 3rd         | [barkskin](../../ch11-spells#barkskin), [spider climb](../../ch11-spells#spider-climb)                     |
 | 5th         | [call lightning](../../ch11-spells#call-lightning), [plant growth](../../ch11-spells#plant-growth)         |
 | 7th         | [divination](../../ch11-spells#divination), [freedom of movement](../../ch11-spells#freedom-of-movement)   |
 | 9th         | [commune with nature](../../ch11-spells#commune-with-nature), [tree stride](../../ch11-spells#tree-stride) |
 
-##### Grassland
+##### ทุ่งหญ้า (Grassland)
 
-| Druid Level | Spells                                                                                                     |
+| เลเวลดรูอิด | คาถา                                                                                                     |
 | ----------- | ---------------------------------------------------------------------------------------------------------- |
 | 3rd         | [invisibility](../../ch11-spells#invisibility), [pass without trace](../../ch11-spells#pass-without-trace) |
 | 5th         | [daylight](../../ch11-spells#daylight), [haste](../../ch11-spells#haste)                                   |
 | 7th         | [divination](../../ch11-spells#divination), [freedom of movement](../../ch11-spells#freedom-of-movement)   |
 | 9th         | [dream](../../ch11-spells#dream), [insect plague](../../ch11-spells#insect-plague)                         |
 
-##### Mountain
+##### ภูเขา (Mountain)
 
-| Druid Level | Spells                                                                                                   |
+| เลเวลดรูอิด | คาถา                                                                                                   |
 | ----------- | -------------------------------------------------------------------------------------------------------- |
 | 3rd         | [spider climb](../../ch11-spells#spider-climb), [spike growth](../../ch11-spells#spike-growth)           |
 | 5th         | [lightning bolt](../../ch11-spells#lightning-bolt), [meld into stone](../../ch11-spells#meld-into-stone) |
 | 7th         | [stone shape](../../ch11-spells#stone-shape), [stoneskin](../../ch11-spells#stoneskin)                   |
 | 9th         | [passwall](../../ch11-spells#passwall), [wall of stone](../../ch11-spells#wall-of-stone)                 |
 
-##### Swamp
+##### บึง (Swarm)
 
-| Druid Level | Spells                                                                                                             |
+| เลเวลดรูอิด | คาถา                                                                                                             |
 | ----------- | ------------------------------------------------------------------------------------------------------------------ |
 | 3rd         | [darkness](../../ch11-spells#darkness), [Melf's acid arrow](../../ch11-spells#melfs-acid-arrow)                    |
 | 5th         | [water walk](../../ch11-spells#water-walk), [stinking cloud](../../ch11-spells#stinking-cloud)                     |
 | 7th         | [freedom of movement](../../ch11-spells#freedom-of-movement), [locate creature](../../ch11-spells#locate-creature) |
 | 9th         | [insect plague](../../ch11-spells#insect-plague), [scrying](../../ch11-spells#scrying)                             |
 
-##### Underdark
+##### ใต้ภิภพ (Underdark)
 
-| Druid Level | Spells                                                                                                       |
+| เลเวลดรูอิด | คาถา                                                                                                       |
 | ----------- | ------------------------------------------------------------------------------------------------------------ |
 | 3rd         | [spider climb](../../ch11-spells#spider-climb), [web](../../ch11-spells#web)                                 |
 | 5th         | [gaseous form](../../ch11-spells#gaseous-form), [stinking cloud](../../ch11-spells#stinking-cloud)           |
 | 7th         | [greater invisibility](../../ch11-spells#greater-invisibility), [stone shape](../../ch11-spells#stone-shape) |
 | 9th         | [cloudkill](../../ch11-spells#cloudkill), [insect plague](../../ch11-spells#insect-plague)                   |
 
-Land’s Stride
-Starting at 6th level, moving through nonmagical difficult terrain costs you no extra movement. You can also pass through nonmagical plants without being slowed by them and without taking damage from them if they have thorns, spines, or a similar hazard.
+### Land’s Stride
+เริ่มที่เลเวล 6 การเคลื่อนที่ผ่านพื้นที่ทุรกันดาร (difficult terrain) จะใช้ค่าการเคลื่อนที่เท่ากับการเดินทางในพื้นที่ปกติ คุณยังสามารถผ่านป่าไม้ที่ไม่เป็นป่าเวทย์มนต์โดยการเคลื่อนที่จะไม่ช้าลงและจะไม่ได้รับความเสียหายจากหนาม กิ่งคม หรืออุปสรรคอย่างอื่น
 
-In addition, you have advantage on saving throws against plants that are magically created or manipulated to impede movement, such those created by the entangle spell.
+นอกจากนี้ คุณจะได้ทอยป้องกันแบบได้เปรียบหากป่าไม้นั้นสร้างขึ้นจากเวทย์มนต์หรือมีคุณสมบัติในการขัดขวางการเคลื่อนที่ เช่นป่าที่สร้างขึ้นโดยคาถา [entangle]
 
-Nature’s Ward
-When you reach 10th level, you can’t be charmed or frightened by elementals or fey, and you are immune to poison and disease.
+### ห้องพยาบาลธรรมชาติ (Nature’s Ward)
+เมื่อถึงเลเวล 10 คุณจะไม่ถูกทำให้หลงใหล (charmed) หรือหวาดกลัว (frightened) จากมอนสเตอร์ธาตุ (elementals) หรือจากสัตว์มายา (fey) และจะมีภูมิคุ้มกัน (immune) พิษ (poison) และโรคติดต่อ (disease)
 
-Nature’s Sanctuary
-When you reach 14th level, creatures of the natural world sense your connection to nature and become hesitant to attack you. When a beast or plant creature attacks you, that creature must make a Wisdom saving throw against your druid spell save DC. On a failed save, the creature must choose a different target, or the attack automatically misses. On a successful save, the creature is immune to this effect for 24 hours.
+### Nature’s Sanctuary
+เมื่อคุณถึงเลเวล 14 สิ่งมีชีวิตจากโลกธรรมชาติจะรับรู้ถึงความสัมพันธ์ของคุณกับธรรมชาติและจะลังเลที่จะโจมตีคุณ เมื่อสิ่งมีชีวิตประเภทสัตว์ป่า (beast) หรือพืช (plant) จะโจมตีคุณ สิ่งมีชีวิตนั้นต้องทอยป้องกันด้วยคะแนนความรอบรู้ (Wisdom) เทียบกับค่าระดับความยากในการป้องกันคาถา (spell save DC) ของคุณ ถ้าทอยไม่ผ่าน สิ่งมีชีวิตนั้นจะต้องเลือกเป้าหมายอื่น หรือการโจมตีนั้นจะพลาดไปโดยอัตโนมัติ ถ้าทอยผ่าน สิ่งมีชีวิตนั้นจะไม่ได้รับผลจากความสามารถนี้เป็นเวลา 24 ชั่วโมง
 
-The creature is aware of this effect before it makes its attack against you.
+สิ่งมีชีวิตจะรับรู้ถึงความสามารถนี้ก่อนที่มันจะโจมตีคุณ
 
-### Circle of the Moon
+### เซอร์เคิลแห่งจันทรา (Circle of the Moon)
 
-### Circle of the Sheperd
+Druids of the Circle of the Moon are fierce guardians of the wilds. Their order gathers under the full moon to share news and trade warnings. They haunt the deepest parts of the wilderness, where they might go for weeks on end before crossing paths with another humanoid creature, let alone another druid.
 
-### Circle of Wildfire
+Changeable as the moon, a druid of this circle might prowl as a great cat one night, soar over the treetops as an eagle the next day, and crash through the undergrowth in bear form to drive off a trespassing monster. The wild is in the druid’s blood.
+
+#### Combat Wild Shape
+
+When you choose this circle at 2nd level, you gain the ability to use Wild Shape on your turn as a bonus action, rather than as an action.
+
+Additionally, while you are transformed by Wild Shape, you can use a bonus action to expend one spell slot to regain 1d8 hit points per level of the spell slot expended.
+
+#### Circle Forms
+
+The rites of your circle grant you the ability to transform into more dangerous animal forms. Starting at 2nd level, you can use your Wild Shape to transform into a beast with a challenge rating as high as 1 (you ignore the Max. CR column of the Beast Shapes table, but must abide by the other limitations there).
+
+Starting at 6th level, you can transform into a beast with a challenge rating as high as your druid level divided by 3, rounded down.
+
+#### Primal Strike
+
+Starting at 6th level, your attacks in beast form count as magical for the purpose of overcoming resistance and immunity to nonmagical attacks and damage.
+
+#### Circle Forms
+
+The rites of your circle grant you the ability to transform into more dangerous animal forms. Starting at 6th level, you can transform into a beast with a challenge rating as high as your druid level divided by 3, rounded down.
+
+#### Elemental Wild Shape
+
+At 10th level, you can expend two uses of Wild Shape at the same time to transform into an [air elemental], an [earth elemental], a [fire elemental], or a [water elemental].
+
+#### Thousand Forms
+
+By 14th level, you have learned to use magic to alter your physical form in more subtle ways. You can cast the [alter self] spell at will.
+
+### เซอร์เคิลแห่งผู้พิทักษ์ (Circle of the Sheperd)
+
+### เซอร์เคิลแห่งไฟป่า (Circle of Wildfire)
