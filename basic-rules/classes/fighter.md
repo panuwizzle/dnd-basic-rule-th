@@ -3,17 +3,17 @@ layout: book
 menu: menu-basic-rules
 ---
 
-# Fighter
+# ไฟท์เตอร์ (Fighter)
 
-A human in clanging plate armor holds her shield before her as she runs toward the massed goblins. An elf behind her, clad in studded leather armor, peppers the goblins with arrows loosed from his exquisite bow. The half-orc nearby shouts orders, helping the two combatants coordinate their assault to the best advantage.
+ร่างมนุษย์ในเกราะเต็มตัวกระชับโล่ในมือของเธออย่างมั่นคงก่อนที่เธอจะพุ่งทะยานเข้าสู่ฝูงก๊อบลิน เอลฟ์ที่อยู่ด้านหลังในชุดเกราะหนัง โรยลูกศรลงบนหัวของเหล่าก๊อบลินจากธนูอันว่องไวของเขา ฮาล์ฟออร์คที่อยู่ใกล้ ๆ ตะโกนให้คำสั่ง ช่วยให้ทั้งนักรบทั้งสองร่วมมือกันอย่างมีประสิทธิภาพในการโจมตีศัตรู
 
-A dwarf in chain mail interposes his shield between the ogre’s club and his companion, knocking the deadly blow aside. His companion, a half-elf in scale armor, swings two scimitars in a blinding whirl as she circles the ogre, looking for a blind spot in its defenses.
+ดวอร์ฟในเกราะโซ่แทรกโล่ของเขาเข้าป้องกันเพื่อนจากกระบองของโอเกอร์ ปัดการโจมตีได้อย่างฉิวเฉียด เพื่อนฮาล์ฟเอลฟ์ในเกราะเกล็ด ควงดาบโค้งคู่รวดเร็วจนแทบมองไม่ทัน เธอก้าวย่างวนรอบเจ้าโอเกอร์มองหาจุดบอดในการป้องกันของมันเพื่อเข้าโจมตี
 
-A gladiator fights for sport in an arena, a master with his trident and net, skilled at toppling foes and moving them around for the crowd’s delight — and his own tactical advantage. His opponent’s sword flares with blue light an instant before she sends lightning flashing forth to smite him.
+กลาดิเอเตอร์ต่อสู้เพื่อการกีฬาในสนามประลอง นักสู้ผู้เชี่ยวชาญที่ใช้สามง่ามและตาข่าย ผู้มากทักษะในการโค่นศัตรูและล่อหลอกไปทั่วลานประลองให้ผู้ชมดู ดาบของคู่ต่อสู้ของเขาเรืองแสงสีน้ำเงินขึ้นชั่วพริบตาก่อนที่เธอจะส่งสายฟ้าฟาดไปที่เขา
 
-All of these heroes are fighters, perhaps the most diverse class of characters in the worlds of Dungeons & Dragons. Questing knights, conquering overlords, royal champions, elite foot soldiers, hardened mercenaries, and bandit kings — as fighters, they all share an unparalleled mastery with weapons and armor, and a thorough knowledge of the skills of combat. And they are well acquainted with death, both meting it out and staring it defiantly in the face.
+เหล่าฮีโร่เหล่านี้คือไฟท์เตอร์ น่าจะเป็นคลาสที่มีความหลากหลายมากที่สุดในโลกของดันเจียนแอนด์ดรากอน อัศวินผู้ทำภาระกิจ หัวหน้ากองกำลัง แชมเปี้ยนของราชวงศ์ ทหารเจนศึก ทหารรับจ้างผ่านศึก และราชาของกองโจร เมื่อเป็นไฟท์เตอร์ พวกเขาทั้งหลายมีทักษะการใช้อาวุธและเกราะอย่างหาตัวจับยากรวมถึงจากความรู้และทักษะในการต่อสู้ และพวกเขาคุ้นเคยกับความตายเป็นอย่างดี ทั้งเป็นผู้มอบความตายและต้องจ้องหน้ากับมันด้วยตัวเอง
 
-## Well-Rounded Specialists
+## ผู้เชี่ยวชาญรอบด้าน (Well-Rounded Specialists)
 
 Fighters learn the basics of all combat styles. Every fighter can swing an axe, fence with a rapier, wield a longsword or a greatsword, use a bow, and even trap foes in a net with some degree of skill. Likewise, a fighter is adept with shields and every form of armor. Beyond that basic degree of familiarity, each fighter specializes in a certain style of combat. Some concentrate on archery, some on fighting with two weapons at once, and some on augmenting their martial skills with magic. This combination of broad general ability and extensive specialization makes fighters superior combatants on battlefields and in dungeons alike.
 
