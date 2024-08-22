@@ -7,9 +7,9 @@ menu: menu-basic-rules
 
 This chapter describes the most common spells in the worlds of Dungeons & Dragons. The chapter begins with the spell lists of the spellcasting classes. The remainder contains spell descriptions, presented in alphabetical order by the name of the spell.
 
-## คาถาของบาร์ด
+### คาถาของบาร์ด
 
-### Cantrips (0 Level)
+#### Cantrips (0 Level)
 
 Dancing Lights
 Light
@@ -21,7 +21,7 @@ Prestidigitation
 True Strike
 Vicious Mockery
 
-#### 1st Level {#1st level}
+#### 1st Level
 
 Animal Friendship
 Bane
@@ -43,7 +43,7 @@ Speak with Animals
 Thunderwave
 Unseen Servant
 
-#### 2nd Level {#2nd level}
+#### 2nd Level
 
 Animal Messenger
 Blindness/Deafness
@@ -65,7 +65,7 @@ Silence
 Suggestion
 Zone of Truth
 
-#### 3rd Level {#3rd level}
+#### 3rd Level
 
 Bestow Curse
 Clairvoyance
@@ -82,7 +82,7 @@ Speak with Plants
 Stinking Cloud
 Tongues
 
-#### 4th Level {#4th level}
+#### 4th Level
 
 Compulsion
 Confusion
@@ -93,7 +93,7 @@ Hallucinatory Terrain
 Locate Creature
 Polymorph
 
-#### 5th Level {#5th level}
+#### 5th Level
 
 Animate Objects
 Awaken
@@ -112,7 +112,7 @@ Scrying
 Seeming
 Teleportation Circle
 
-#### 6th Level {#6th level}
+#### 6th Level
 
 Eyebite
 Find the Path
@@ -122,7 +122,7 @@ Otto’s Irresistible Dance
 Programmed Illusion
 True Seeing
 
-#### 7th Level {#7th level}
+#### 7th Level
 
 Etherealness
 Forcecage
@@ -134,7 +134,7 @@ Resurrection
 Symbol
 Teleport
 
-#### 8th Level {#8th level}
+#### 8th Level
 
 Dominate Monster
 Feeblemind
@@ -142,15 +142,15 @@ Glibness
 Mind Blank
 Power Word Stun
 
-#### 9th Level {#9th level}
+#### 9th Level
 
 Foresight
 Power Word Kill
 True Polymorph
 
-### Cleric Spells {#cleric spells}
+### Cleric Spells
 
-### Cantrips (0 Level) {#cantrips (0 level)}
+#### Cantrips (0 Level)
 
 Guidance
 Light
@@ -160,7 +160,7 @@ Sacred Flame
 Spare the Dying
 Thaumaturgy
 
-#### 1st Level {#1st level}
+#### 1st Level
 
 Bane
 Bless
@@ -178,7 +178,7 @@ Purify Food and Drink
 Sanctuary
 Shield of Faith
 
-#### 2nd Level {#2nd level}
+#### 2nd Level
 
 Aid
 Augury
@@ -198,7 +198,7 @@ Spiพิธีกรรม Weapon
 Warding Bond
 Zone of Truth
 
-#### 3rd Level {#3rd level}
+#### 3rd Level
 
 Animate Dead
 Beacon of Hope
@@ -220,7 +220,7 @@ Spirit Guardians
 Tongues
 Water Walk
 
-#### 4th Level {#4th level}
+#### 4th Level
 
 Banishment
 Control Water
@@ -231,7 +231,7 @@ Guardian of Faith
 Locate Creature
 Stone Shape
 
-#### 5th Level {#5th level}
+#### 5th Level
 
 Commune
 Contagion
@@ -247,7 +247,7 @@ Planar Binding
 Raise Dead
 Scrying
 
-#### 6th Level {#6th level}
+#### 6th Level
 
 Blade Barrier
 Create Undead
@@ -260,7 +260,7 @@ Planar Ally
 True Seeing
 Word of Recall
 
-#### 7th Level {#7th level}
+#### 7th Level
 
 Conjure Celestial
 Divine Word
@@ -271,23 +271,23 @@ Regenerate
 Resurrection
 Symbol
 
-#### 8th Level {#8th level}
+#### 8th Level
 
 Antimagic Field
 Control Weather
 Earthquake
 Holy Aura
 
-#### 9th Level {#9th level}
+#### 9th Level
 
 Astral Projection
 Gate
 Mass Heal
 True Resurrection
 
-### Druid Spells {#druid spells}
+### Druid Spells
 
-### Cantrips (0 Level) {#cantrips (0 level)}
+#### Cantrips (0 Level)
 
 Druidcraft
 Guidance
@@ -297,7 +297,7 @@ Produce Flame
 Resistance
 Shillelagh
 
-#### 1st Level {#1st level}
+#### 1st Level
 
 Animal Friendship
 Charm Person
@@ -316,7 +316,7 @@ Purify Food and Drink
 Speak with Animals
 Thunderwave
 
-#### 2nd Level {#2nd level}
+#### 2nd Level
 
 Animal Messenger
 Barkskin
@@ -336,7 +336,7 @@ Pass without Trace
 Protection from Poison
 Spike Growth
 
-#### 3rd Level {#3rd level}
+#### 3rd Level
 
 Call Lightning
 Conjure Animals
@@ -351,7 +351,7 @@ Water Breathing
 Water Walk
 Wind Wall
 
-#### 4th Level {#4th level}
+#### 4th Level
 
 Blight
 Confusion
@@ -369,7 +369,7 @@ Stone Shape
 Stoneskin
 Wall of Fire
 
-#### 5th Level {#5th level}
+#### 5th Level
 
 Antilife Shell
 Awaken
@@ -386,7 +386,7 @@ Scrying
 Tree Stride
 Wall of Stone
 
-#### 6th Level {#6th level}
+#### 6th Level
 
 Conjure Fey
 Find the Path
@@ -398,7 +398,7 @@ Transport via Plants
 Wall of Thorns
 Wind Walk
 
-#### 7th Level {#7th level}
+#### 7th Level
 
 Fire Storm
 Mirage Arcane
@@ -406,7 +406,7 @@ Plane Shift
 Regenerate
 Reverse Gravity
 
-#### 8th Level {#8th level}
+#### 8th Level
 
 Animal Shapes
 Antipathy/Sympathy
@@ -415,16 +415,16 @@ Earthquake
 Feeblemind
 Sunburst
 
-#### 9th Level {#9th level}
+#### 9th Level
 
 Foresight
 Shapechange
 Storm of Vengeance
 True Resurrection
 
-### Paladin Spells {#paladin spells}
+### Paladin Spells
 
-### 1st Level {#1st level}
+#### 1st Level
 
 Bless
 Command
@@ -438,7 +438,7 @@ Protection from Evil and Good
 Purify Food and Drink
 Shield of Faith
 
-#### 2nd Level {#2nd level}
+#### 2nd Level
 
 Aid
 Branding Smite
@@ -449,7 +449,7 @@ Magic Weapon
 Protection from Poison
 Zone of Truth
 
-#### 3rd Level {#3rd level}
+#### 3rd Level
 
 Create Food and Water
 Daylight
@@ -458,21 +458,21 @@ Magic Circle
 Remove Curse
 Revivify
 
-#### 4th Level {#4th level}
+#### 4th Level
 
 Banishment
 Death Ward
 Locate Creature
 
-#### 5th Level {#5th level}
+#### 5th Level
 
 Dispel Evil and Good
 Geas
 Raise Dead
 
-### Ranger Spells {#ranger spells}
+### Ranger Spells
 
-### 1st Level {#1st level}
+#### 1st Level
 
 Alarm
 Animal Friendship
@@ -486,7 +486,7 @@ Jump
 Longstrider
 Speak with Animals
 
-#### 2nd Level {#2nd level}
+#### 2nd Level
 
 Animal Messenger
 Barkskin
@@ -500,7 +500,7 @@ Protection from Poison
 Silence
 Spike Growth
 
-#### 3rd Level {#3rd level}
+#### 3rd Level
 
 Conjure Animals
 Daylight
@@ -512,21 +512,21 @@ Water Breathing
 Water Walk
 Wind Wall
 
-#### 4th Level {#4th level}
+#### 4th Level
 
 Conjure Woodland Beings
 Freedom of Movement
 Locate Creature
 Stoneskin
 
-#### 5th Level {#5th level}
+#### 5th Level
 
 Commune with Nature
 Tree Stride
 
-### Sorcerer Spells {#sorcerer spells}
+### Sorcerer Spells
 
-### Cantrips (0 Level) {#cantrips (0 level)}
+#### Cantrips (0 Level)
 
 Acid Splash
 Chill Touch
@@ -543,7 +543,7 @@ Ray of Frost
 Shocking Grasp
 True Strike
 
-#### 1st Level {#1st level}
+#### 1st Level
 
 Burning Hands
 Charm Person
@@ -563,7 +563,7 @@ Silent Image
 Sleep
 Thunderwave
 
-#### 2nd Level {#2nd level}
+#### 2nd Level
 
 Alter Self
 Blindness/Deafness
@@ -587,7 +587,7 @@ Spider Climb
 Suggestion
 Web
 
-#### 3rd Level {#3rd level}
+#### 3rd Level
 
 Blink
 Clairvoyance
@@ -610,7 +610,7 @@ Tongues
 Water Breathing
 Water Walk
 
-#### 4th Level {#4th level}
+#### 4th Level
 
 Banishment
 Blight
@@ -623,7 +623,7 @@ Polymorph
 Stoneskin
 Wall of Fire
 
-#### 5th Level {#5th level}
+#### 5th Level
 
 Animate Objects
 Cloudkill
@@ -637,7 +637,7 @@ Telekinesis
 Teleportation Circle
 Wall of Stone
 
-#### 6th Level {#6th level}
+#### 6th Level
 
 Chain Lightning
 Circle of Death
@@ -649,7 +649,7 @@ Move Earth
 Sunbeam
 True Seeing
 
-#### 7th Level {#7th level}
+#### 7th Level
 
 Delayed Blast Fireball
 Etherealness
@@ -660,7 +660,7 @@ Prismatic Spray
 Reverse Gravity
 Teleport
 
-#### 8th Level {#8th level}
+#### 8th Level
 
 Dominate Monster
 Earthquake
@@ -668,7 +668,7 @@ Incendiary Cloud
 Power Word Stun
 Sunburst
 
-#### 9th Level {#9th level}
+#### 9th Level
 
 Gate
 Meteor Swarm
@@ -676,9 +676,9 @@ Power Word Kill
 Time Stop
 Wish
 
-### Warlock Spells {#warlock spells}
+### Warlock Spells
 
-### Cantrips (0 Level) {#cantrips (0 level)}
+#### Cantrips (0 Level)
 
 Chill Touch
 Eldritch Blast
@@ -688,7 +688,7 @@ Poison Spray
 Prestidigitation
 True Strike
 
-#### 1st Level {#1st level}
+#### 1st Level
 
 Charm Person
 Comprehend Languages
@@ -698,7 +698,7 @@ Illusory Script
 Protection from Evil and Good
 Unseen Servant
 
-#### 2nd Level {#2nd level}
+#### 2nd Level
 
 Darkness
 Enthrall
@@ -711,7 +711,7 @@ Shatter
 Spider Climb
 Suggestion
 
-#### 3rd Level {#3rd level}
+#### 3rd Level
 
 Counterspell
 Dispel Magic
@@ -725,21 +725,21 @@ Remove Curse
 Tongues
 Vampiric Touch
 
-#### 4th Level {#4th level}
+#### 4th Level
 
 Banishment
 Blight
 Dimension Door
 Hallucinatory Terrain
 
-#### 5th Level {#5th level}
+#### 5th Level
 
 Contact Other Plane
 Dream
 Hold Monster
 Scrying
 
-#### 6th Level {#6th level}
+#### 6th Level
 
 Circle of Death
 Conjure Fey
@@ -749,14 +749,14 @@ Flesh to Stone
 Mass Suggestion
 True Seeing
 
-#### 7th Level {#7th level}
+#### 7th Level
 
 Etherealness
 Finger of Death
 Forcecage
 Plane Shift
 
-#### 8th Level {#8th level}
+#### 8th Level
 
 Demiplane
 Dominate Monster
@@ -764,7 +764,7 @@ Feeblemind
 Glibness
 Power Word Stun
 
-#### 9th Level {#9th level}
+#### 9th Level
 
 Astral Projection
 Foresight
@@ -772,9 +772,9 @@ Imprisonment
 Power Word Kill
 True Polymorph
 
-### Wizard Spells {#wizard spells}
+### Wizard Spells
 
-### Cantrips (0 Level) {#cantrips (0 level)}
+#### Cantrips (0 Level)
 
 Acid Splash
 Chill Touch
@@ -791,7 +791,7 @@ Ray of Frost
 Shocking Grasp
 True Strike
 
-#### 1st Level {#1st level}
+#### 1st Level
 
 Alarm
 Burning Hands
@@ -819,7 +819,7 @@ Sleep
 Thunderwave
 Unseen Servant
 
-#### 2nd Level {#2nd level}
+#### 2nd Level
 
 Alter Self
 Arcane Lock
@@ -852,7 +852,7 @@ Spider Climb
 Suggestion
 Web
 
-#### 3rd Level {#3rd level}
+#### 3rd Level
 
 Animate Dead
 Bestow Curse
@@ -882,7 +882,7 @@ Tongues
 Vampiric Touch
 Water Breathing
 
-#### 4th Level {#4th level}
+#### 4th Level
 
 Arcane Eye
 Banishment
@@ -903,7 +903,7 @@ Stone Shape
 Stoneskin
 Wall of Fire
 
-#### 5th Level {#5th level}
+#### 5th Level
 
 Animate Objects
 Cloudkill
@@ -927,7 +927,7 @@ Teleportation Circle
 Wall of Force
 Wall of Stone
 
-#### 6th Level {#6th level}
+#### 6th Level
 
 Chain Lightning
 Circle of Death
@@ -947,7 +947,7 @@ Sunbeam
 True Seeing
 Wall of Ice
 
-#### 7th Level {#7th level}
+#### 7th Level
 
 Delayed Blast Fireball
 Etherealness
@@ -964,7 +964,7 @@ Simulacrum
 Symbol
 Teleport
 
-#### 8th Level {#8th level}
+#### 8th Level
 
 Antimagic Field
 Antipathy/Sympathy
@@ -979,7 +979,7 @@ Mind Blank
 Power Word Stun
 Sunburst
 
-#### 9th Level {#9th level}
+#### 9th Level
 
 Astral Projection
 Foresight
@@ -1002,86 +1002,117 @@ The spells are presented in alphabetical order.
 
 ### Acid Splash {#acid-splash}
 
-Conjuration cantrip
-**เวลาในการร่ายคาถา:** 1 แอ็คชัน
-**ระยะ:** 60 ฟุต
-**วิธีการร่ายและวัตถุคาถา:** V, S
+Conjuration cantrip  
+**เวลาในการร่ายคาถา:** 1 แอ็คชัน  
+**ระยะ:** 60 ฟุต  
+**วิธีการร่ายและวัตถุคาถา:** V, S  
 **ระยะเวลาคงคาถา:** โดยทันที
+
 You hurl a bubble of acid. Choose one or two creatures you can see within range. If you choose two, they must be within 5 ฟุต of each other. A target must succeed on a Dexterity saving throw or take 1d6 acid damage.
+
 This spell’s damage increases by 1d6 when you reach 5th level (2d6), 11th level (3d6), and 17th level (4d6).
+
+---
 
 ### Aid {#aid}
 
-2nd-level abjuration
-**เวลาในการร่ายคาถา:** 1 แอ็คชัน
-**ระยะ:** 30 ฟุต
-**วิธีการร่ายและวัตถุคาถา:** V, S, M (a tiny strip of white cloth)
+2nd-level abjuration  
+**เวลาในการร่ายคาถา:** 1 แอ็คชัน  
+**ระยะ:** 30 ฟุต  
+**วิธีการร่ายและวัตถุคาถา:** V, S, M (a tiny strip of white cloth)  
 **ระยะเวลาคงคาถา:** 8 ชั่วโมง
+
 Your spell bolsters your allies with toughness and resolve. Choose up to three creatures within range. Each target’s hit point maximum and current hit points increase by 5 for the duration.
+
 At Higher Levels. When you cast this spell using a spell slot of 3rd level or higher, a target’s hit points increase by an additional 5 for each slot level above 2nd.
+
+---
 
 ### Alarm {#alarm}
 
-1st-level abjuration (พิธีกรรม)
-**เวลาในการร่ายคาถา:** 1 นาที
-**ระยะ:** 30 ฟุต
-**วิธีการร่ายและวัตถุคาถา:** V, S, M (a tiny bell and a piece of fine silver wire)
+1st-level abjuration (พิธีกรรม)  
+**เวลาในการร่ายคาถา:** 1 นาที  
+**ระยะ:** 30 ฟุต  
+**วิธีการร่ายและวัตถุคาถา:** V, S, M (a tiny bell and a piece of fine silver wire)  
 **ระยะเวลาคงคาถา:** 8 ชั่วโมง
+
 You set an alarm against unwanted intrusion. Choose a door, a window, or an area within range that is no larger than a 20-foot cube. Until the spell ends, an alarm alerts you whenever a Tiny or larger creature touches or enters the warded area. When you cast the spell, you can designate creatures that won’t set off the alarm. You also choose whether the alarm is mental or audible.
+
 A mental alarm alerts you with a ping in your mind if you are within 1 mile of the warded area. This ping awakens you if you are sleeping.
+
 An audible alarm produces the sound of a hand bell for 10 seconds within 60 ฟุต.
+
+---
 
 ### Alter Self {#alter-self}
 
-2nd-level transmutation
-**เวลาในการร่ายคาถา:** 1 แอ็คชัน
-**ระยะ:** Self
-**วิธีการร่ายและวัตถุคาถา:** V, S
+2nd-level transmutation  
+**เวลาในการร่ายคาถา:** 1 แอ็คชัน  
+**ระยะ:** Self  
+**วิธีการร่ายและวัตถุคาถา:** V, S  
 **ระยะเวลาคงคาถา:** เพ่งสมาธิ, up to 1 hour
+
 You assume a different form. When you cast the spell, choose one of the following options, the effects of which last for the duration of the spell. While the spell lasts, you can end one option as an action to gain the benefits of a different one.
+
 Aquatic Adaptation. You adapt your body to an aquatic environment, sprouting gills and growing webbing between your fingers. You can breathe underwater and gain a swimming speed equal to your walking speed.
+
 Change Appearance. You transform your appearance. You decide what you look like, including your height, weight, facial features, sound of your voice, hair length, coloration, and distinguishing characteristics, if any. You can make yourself appear as a member of another race, though none of your statistics change. You also can’t appear as a creature of a different size than you, and your basic shape stays the same; if you’re bipedal, you can’t use this spell to become quadrupedal, for instance. At any time for the duration of the spell, you can use your action to change your appearance in this way again.
+
 Natural Weapons. You grow claws, fangs, spines, horns, or a different natural weapon of your choice. Your unarmed strikes deal 1d6 bludgeoning, piercing, or slashing damage, as appropriate to the natural weapon you chose, and you are proficient with your unarmed strikes. Finally, the natural weapon is magic and you have a +1 bonus to the attack and damage rolls you make using it.
+
+---
 
 ### Animal Friendship {#animal-friendship}
 
-1st-level enchantment
-**เวลาในการร่ายคาถา:** 1 แอ็คชัน
-**ระยะ:** 30 ฟุต
-**วิธีการร่ายและวัตถุคาถา:** V, S, M (a morsel of food)
+1st-level enchantment  
+**เวลาในการร่ายคาถา:** 1 แอ็คชัน  
+**ระยะ:** 30 ฟุต  
+**วิธีการร่ายและวัตถุคาถา:** V, S, M (a morsel of food)  
 **ระยะเวลาคงคาถา:** 24 ชั่วโมง
+
 This spell lets you convince a beast that you mean it no harm. Choose a beast that you can see within range. It must see and hear you. If the beast’s Intelligence is 4 or higher, the spell fails. Otherwise, the beast must succeed on a Wisdom saving throw or be charmed by you for the spell’s duration. If you or one of your companions harms the target, the spell ends.
+
 At Higher Levels. When you cast this spell using a spell slot of 2nd level or higher, you can affect one additional beast for each slot level above 1st.
+
+---
 
 ### Animal Messenger {#animal-messenger}
 
-2nd-level enchantment (พิธีกรรม)
-**เวลาในการร่ายคาถา:** 1 แอ็คชัน
-**ระยะ:** 30 ฟุต
-**วิธีการร่ายและวัตถุคาถา:** V, S, M (a morsel of food)
+2nd-level enchantment (พิธีกรรม)  
+**เวลาในการร่ายคาถา:** 1 แอ็คชัน  
+**ระยะ:** 30 ฟุต  
+**วิธีการร่ายและวัตถุคาถา:** V, S, M (a morsel of food)  
 **ระยะเวลาคงคาถา:** 24 ชั่วโมง
+
 By means of this spell, you use an animal to deliver a message. Choose a Tiny beast you can see within range, such as a squirrel, a blue jay, or a bat. You specify a location, which you must have visited, and a recipient who matches a general description, such as “a man or woman dressed in the uniform of the town guard” or “a red-haired dwarf wearing a pointed hat.” You also speak a message of up to twenty-five words. The target beast travels for the duration of the spell toward the specified location, covering about 50 miles per 24 ชั่วโมง for a flying messenger, or 25 miles for other animals.
+
 When the messenger arrives, it delivers your message to the creature that you described, replicating the sound of your voice. The messenger speaks only to a creature matching the description you gave. If the messenger doesn’t reach its destination before the spell ends, the message is lost, and the beast makes its way back to where you cast this spell.
 At Higher Levels. If you cast this spell using a spell slot of 3nd level or higher, the duration of the spell increases by 48 ชั่วโมง for each slot level above 2nd.
 
+---
+
 ### Animal Shapes {#animal-shapes}
 
-8th-level transmutation
-**เวลาในการร่ายคาถา:** 1 แอ็คชัน
-**ระยะ:** 30 ฟุต
-**วิธีการร่ายและวัตถุคาถา:** V, S
+8th-level transmutation  
+**เวลาในการร่ายคาถา:** 1 แอ็คชัน  
+**ระยะ:** 30 ฟุต  
+**วิธีการร่ายและวัตถุคาถา:** V, S  
 **ระยะเวลาคงคาถา:** เพ่งสมาธิ, up to 24 ชั่วโมง
+
 Your magic turns others into beasts. Choose any number of willing creatures that you can see within range. You transform each target into the form of a Large or smaller beast with a challenge rating of 4 or lower. On subsequent turns, you can use your action to transform affected creatures into new forms.
-The transformation lasts for the duration for each target, or until the target drops to 0 hit points or dies. You can choose a different form for each target. A target’s game statistics are replaced by the statistics of the chosen beast, though the target retains its alignment and Intelligence, Wisdom, and Charisma scores. The target assumes the hit points of its new form, and when it reverts to its normal form, it returns to the number of hit points it had before it transformed. If it reverts as a result of dropping to 0 hit points, any excess damage carries over to its normal form. As long as the excess damage doesn’t reduce the creature’s normal form to 0 hit points, it isn’t knocked unconscious. The creature is limited in the actions it can perform by the nature of its new form, and it can’t speak or cast spells.
+
+The transformation lasts for the duration for each target, or until the target drops to 0 hit points or dies. You can choose a different form for each target. A target’s game statistics are replaced by the statistics of the chosen beast, though the target retains its alignment and Intelligence, Wisdom, and Charisma scores. The target assumes the hit points of its new form, and when it reverts to its normal form, it returns to the number of hit points it had before it transformed. If it reverts as a result of dropping to 0 hit points, any excess damage carries over to its normal form.
+
+As long as the excess damage doesn’t reduce the creature’s normal form to 0 hit points, it isn’t knocked unconscious. The creature is limited in the actions it can perform by the nature of its new form, and it can’t speak or cast spells.
 The target’s gear melds into the new form. The target can’t activate, wield, or otherwise benefit from any of its equipment.
 
 ### Animate Dead {#animate-dead}
 
-3rd-level necromancy
-**เวลาในการร่ายคาถา:** 1 นาที
-**ระยะ:** 10 ฟุต
-**วิธีการร่ายและวัตถุคาถา:** V, S, M (a drop of blood, a piece of flesh, and a pinch of bone dust)
-**ระยะเวลาคงคาถา:** โดยทันที
+3rd-level necromancy  
+**เวลาในการร่ายคาถา:** 1 นาที  
+**ระยะ:** 10 ฟุต  
+**วิธีการร่ายและวัตถุคาถา:** V, S, M (a drop of blood, a piece of flesh, and a pinch of bone dust)  
+**ระยะเวลาคงคาถา:** โดยทันที  
 This spell creates an undead servant. Choose a pile of bones or a corpse of a Medium or Small humanoid within range. Your spell imbues the target with a foul mimicry of life, raising it as an undead creature. The target becomes a skeleton if you chose bones or a zombie if you chose a corpse (the DM has the creature’s game statistics).
 On each of your turns, you can use a bonus action to mentally command any creature you made with this spell if the creature is within 60 ฟุต of you (if you control multiple creatures, you can command any or all of them at the same time, issuing the same command to each one). You decide what action the creature will take and where it will move during its next turn, or you can issue a general command, such as to guard a particular chamber or corridor. If you issue no commands, the creature only defends itself against hostile creatures. Once given an order, the creature continues to follow it until its task is complete.
 The creature is under your control for 24 ชั่วโมง, after which it stops obeying any command you’ve given it. To maintain control of the creature for another 24 ชั่วโมง, you must cast this spell on the creature again before the current 24-hour period ends. This use of the spell reasserts your control over up to four creatures you have animated with this spell, rather than animating a new one.
@@ -1089,91 +1120,46 @@ At Higher Levels. When you cast this spell using a spell slot of 4th level or hi
 
 ### Animate Objects {#animate-objects}
 
-5th-level transmutation
-**เวลาในการร่ายคาถา:** 1 แอ็คชัน
-**ระยะ:** 120 ฟุต
-**วิธีการร่ายและวัตถุคาถา:** V, S
-**ระยะเวลาคงคาถา:** เพ่งสมาธิ, up to 1 นาที
+5th-level transmutation  
+**เวลาในการร่ายคาถา:** 1 แอ็คชัน  
+**ระยะ:** 120 ฟุต  
+**วิธีการร่ายและวัตถุคาถา:** V, S  
+**ระยะเวลาคงคาถา:** เพ่งสมาธิ, up to 1 นาที  
 Objects come to life at your command. Choose up to ten nonmagical objects within range that are not being worn or carried. Medium targets count as two objects, Large targets count as four objects, Huge targets count as eight objects. You can’t animate any object larger than Huge. Each target animates and becomes a creature under your control until the spell ends or until reduced to 0 hit points.
 As a bonus action, you can mentally command any creature you made with this spell if the creature is within 500 ฟุต of you (if you control multiple creatures, you can command any or all of them at the same time, issuing the same command to each one). You decide what action the creature will take and where it will move during its next turn, or you can issue a general command, such as to guard a particular chamber or corridor. If you issue no commands, the creature only defends itself against hostile creatures. Once given an order, the creature continues to follow it until its task is complete.
 
-<h4 id="AnimatedObjectStatistics" class="Table-Styles_Table-Title quick-menu-exclude heading-anchor" data-content-chunk-id="88570bd0-dd6e-4203-870c-4d487410d6be">Animated Object Statistics</h4>
-<div class="table-overflow-wrapper"><table class="compendium-horizontal-scroll-table compendium-no-left-right-padding-table" data-content-chunk-id="537d2710-fb14-4346-95c8-52e4582dd156">
-<thead>
-<tr>
-<th>Size</th>
-<th>HP</th>
-<th>AC</th>
-<th>Attack</th>
-<th>Str</th>
-<th>Dex</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td>Tiny</td>
-<td>20</td>
-<td>18</td>
-<td>+8 to hit, 1d4 + 4 damage</td>
-<td>4</td>
-<td>18</td>
-</tr>
-<tr>
-<td>Small</td>
-<td>25</td>
-<td>16</td>
-<td>+6 to hit, 1d8 + 2 damage</td>
-<td>6</td>
-<td>14</td>
-</tr>
-<tr>
-<td>Medium</td>
-<td>40</td>
-<td>13</td>
-<td>+5 to hit, 2d6 + 1 damage</td>
-<td>10</td>
-<td>12</td>
-</tr>
-<tr>
-<td>Large</td>
-<td>50</td>
-<td>10</td>
-<td>+6 to hit, 2d10 + 2 damage</td>
-<td>14</td>
-<td>10</td>
-</tr>
-<tr>
-<td>Huge</td>
-<td>80</td>
-<td>10</td>
-<td>+8 to hit, 2d12 + 4 damage</td>
-<td>18</td>
-<td>6</td>
-</tr>
-</tbody>
-</table></div>
+#### Animated Object Statistics
+
+| Size   | HP  | AC  | Attack                     | Str | Dex |
+| ------ | --- | --- | -------------------------- | --- | --- |
+| Tiny   | 20  | 18  | +8 to hit, 1d4 + 4 damage  | 4   | 18  |
+| Small  | 25  | 16  | +6 to hit, 1d8 + 2 damage  | 6   | 14  |
+| Medium | 40  | 13  | +5 to hit, 2d6 + 1 damage  | 10  | 12  |
+| Large  | 50  | 10  | +6 to hit, 2d10 + 2 damage | 14  | 10  |
+| Huge   | 80  | 10  | +8 to hit, 2d12 + 4 damage | 18  | 6   |
+
 An animated object is a construct with AC, hit points, attacks, Strength, and Dexterity determined by its size. Its Constitution is 10 and its Intelligence and Wisdom are 3, and its Charisma is 1. Its speed is 30 ฟุต; if the object lacks legs or other appendages it can use for locomotion, it instead has a flying speed of 30 ฟุต and can hover. If the object is securely attached to a surface or a larger object, such as a chain bolted to a wall, its speed is 0. It has blindsight with a radius of 30 ฟุต and is blind beyond that distance. When the animated object drops to 0 hit points, it reverts to its original object form, and any remaining damage carries over to its original object form.
 If you command an object to attack, it can make a single melee attack against a creature within 5 ฟุต of it. It makes a slam attack with an attack bonus and bludgeoning damage determined by its size. The DM might rule that a specific object inflicts slashing or piercing damage based on its form.
 At Higher Levels. If you cast this spell using a spell slot of 6th level or higher, you can animate two additional objects for each slot level above 5th.
 
 ### Antilife Shell {#antilife-shell}
 
-5th-level abjuration
-**เวลาในการร่ายคาถา:** 1 แอ็คชัน
-**ระยะ:** Self (10-foot radius)
-**วิธีการร่ายและวัตถุคาถา:** V, S
-**ระยะเวลาคงคาถา:** เพ่งสมาธิ, up to 1 hour
+5th-level abjuration  
+**เวลาในการร่ายคาถา:** 1 แอ็คชัน  
+**ระยะ:** Self (10-foot radius)  
+**วิธีการร่ายและวัตถุคาถา:** V, S  
+**ระยะเวลาคงคาถา:** เพ่งสมาธิ, up to 1 hour  
 A shimmering barrier extends out from you in a 10-foot radius and moves with you, remaining centered on you and hedging out creatures other than undead and constructs. The barrier lasts for the duration.
 The barrier prevents an affected creature from passing or reaching through. An affected creature can cast spells or make attacks with ranged or reach weapons through the barrier.
 If you move so that an affected creature is forced to pass through the barrier, the spell ends.
 
 ### Antimagic Field {#antimagic-field}
 
-8th-level abjuration
-**เวลาในการร่ายคาถา:** 1 แอ็คชัน
-**ระยะ:** Self (10-foot-radius sphere)
-**วิธีการร่ายและวัตถุคาถา:** V, S, M (a pinch of powdered iron or iron filings)
-**ระยะเวลาคงคาถา:** เพ่งสมาธิ, up to 1 hour
+8th-level abjuration  
+**เวลาในการร่ายคาถา:** 1 แอ็คชัน  
+**ระยะ:** Self (10-foot-radius sphere)  
+**วิธีการร่ายและวัตถุคาถา:** V, S, M (a pinch of powdered iron or iron filings)  
+**ระยะเวลาคงคาถา:** เพ่งสมาธิ, up to 1 hour  
 A 10-foot-radius invisible sphere of antimagic surrounds you. This area is divorced from the magical energy that suffuses the multiverse. Within the sphere, spells can’t be cast, summoned creatures disappear, and even magic items become mundane. Until the spell ends, the sphere moves with you, centered on you.
 Spells and other magical effects, except those created by an artifact or a deity, are suppressed in the sphere and can’t protrude into it. A slot expended to cast a suppressed spell is consumed. While an effect is suppressed, it doesn’t function, but the time it spends suppressed counts against its duration.
 Targeted Effects. Spells and other magical effects, such as magic missile and charm person, that target a creature or an object in the sphere have no effect on that target.
@@ -1187,11 +1173,11 @@ Dispel Magic. Spells and magical effects such as dispel magic have no effect on 
 
 ### Antipathy/Sympathy {#antipathy-sympathy}
 
-8th-level enchantment
-**เวลาในการร่ายคาถา:** 1 hour
-**ระยะ:** 60 ฟุต
-**วิธีการร่ายและวัตถุคาถา:** V, S, M (either a lump of alum soaked in vinegar for the antipathy effect or a drop of honey for the sympathy effect)
-**ระยะเวลาคงคาถา:** 10 days
+8th-level enchantment  
+**เวลาในการร่ายคาถา:** 1 hour  
+**ระยะ:** 60 ฟุต  
+**วิธีการร่ายและวัตถุคาถา:** V, S, M (either a lump of alum soaked in vinegar for the antipathy effect or a drop of honey for the sympathy effect)  
+**ระยะเวลาคงคาถา:** 10 days  
 This spell attracts or repels creatures of your choice. You target something within range, either a Huge or smaller object or creature or an area that is no larger than a 200-foot cube. Then specify a kind of intelligent creature, such as red dragons, goblins, or vampires. You invest the target with an aura that either attracts or repels the specified creatures for the duration. Choose antipathy or sympathy as the aura’s effect.
 Antipathy. The enchantment causes creatures of the kind you designated to feel an intense urge to leave the area and avoid the target. When such a creature can see the target or comes within 60 ฟุต of it, the creature must succeed on a Wisdom saving throw or become frightened. The creature remains frightened while it can see the target or is within 60 ฟุต of it. While frightened by the target, the creature must use its movement to move to the nearest safe spot from which it can’t see the target. If the creature moves more than 60 ฟุต from the target and can’t see it, the creature is no longer frightened, but the creature becomes frightened again if it regains sight of the target or moves within 60 ฟุต of it.
 Sympathy. The enchantment causes the specified creatures to feel an intense urge to approach the target while within 60 ฟุต of it or able to see it. When such a creature can see the target or comes within 60 ฟุต of it, the creature must succeed on a Wisdom saving throw or use its movement on each of its turns to enter the area or move within reach of the target. When the creature has done so, it can’t willingly move away from the target.
