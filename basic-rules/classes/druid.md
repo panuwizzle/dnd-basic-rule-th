@@ -35,8 +35,7 @@ menu: menu-basic-rules
 
 > **สร้างอย่างเร็ว**
 >
-> You can make a druid quickly by following these suggestions. First, Wisdom should be your highest ability score, followed by Constitution. Second, choose the hermit background.
-> คุณสามารถสร้างดรูอิดอย่างรวดเร็วโดยทำตามคำแนะนำนี้ อย่างแรก ความรอบรู็ (Wisdom) ควรเป็นคะแนนความสามารถที่สูงที่สุด ตามมาด้วยความอดทน (Constitution) สอง เลือกภูมิหลังเป็นผู้ถือสันโดษ (hermit background)
+> คุณสามารถสร้างดรูอิดอย่างรวดเร็วโดยทำตามคำแนะนำนี้ อย่างแรก ความรอบรู้ (Wisdom) ควรเป็นคะแนนความสามารถที่สูงที่สุด ตามมาด้วยความอดทน (Constitution) สอง เลือกภูมิหลังเป็นผู้ถือสันโดษ (hermit background)
 
 ### ตารางดรูอิด
 
