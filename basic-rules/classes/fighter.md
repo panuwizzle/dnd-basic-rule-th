@@ -13,27 +13,27 @@ menu: menu-basic-rules
 
 เหล่าฮีโร่เหล่านี้คือไฟท์เตอร์ น่าจะเป็นคลาสที่มีความหลากหลายมากที่สุดในโลกของดันเจียนแอนด์ดรากอน อัศวินผู้ทำภาระกิจ หัวหน้ากองกำลัง แชมเปี้ยนของราชวงศ์ ทหารเจนศึก ทหารรับจ้างผ่านศึก และราชาของกองโจร เมื่อเป็นไฟท์เตอร์ พวกเขาทั้งหลายมีทักษะการใช้อาวุธและเกราะอย่างหาตัวจับยากรวมถึงจากความรู้และทักษะในการต่อสู้ และพวกเขาคุ้นเคยกับความตายเป็นอย่างดี ทั้งเป็นผู้มอบความตายและต้องจ้องหน้ากับมันด้วยตัวเอง
 
-## ผู้เชี่ยวชาญรอบด้าน (Well-Rounded Specialists)
+## ผู้เชี่ยวชาญรอบด้าน
 
-Fighters learn the basics of all combat styles. Every fighter can swing an axe, fence with a rapier, wield a longsword or a greatsword, use a bow, and even trap foes in a net with some degree of skill. Likewise, a fighter is adept with shields and every form of armor. Beyond that basic degree of familiarity, each fighter specializes in a certain style of combat. Some concentrate on archery, some on fighting with two weapons at once, and some on augmenting their martial skills with magic. This combination of broad general ability and extensive specialization makes fighters superior combatants on battlefields and in dungeons alike.
+ไฟท์เตอร์เรียนรู้พื้นฐานการต่อสู้ทุกชนิด ไฟท์เตอร์ทุกคนสามารถเหวี่ยงขวาน ใช้กระบี่เรเปีย กวัดแกว่งดาบยาวหรือดาบใหญ่ ใช้ธนูและแม้แต่ใช้ตาข่ายกับศัตรูด้วยทักษะพิเศษ และไฟท์เตอร์ยังปรับใช้โล่และเกราะต่าง ๆ อย่างมีประสิทธิภาพ นอกเหนือจากความสามารถพื้นฐานแล้ว ไฟท์เตอร์แต่ละคนยังฝึกฝนสไตล์การต่อสู้เฉพาะ บางคนเน้นที่การใช้ธนู บางคนใช้ทักษะดาบสองมือ และบางคนก็ผสมผสานศิลปะการต่อสู้ประชิดตัวเข้ากับเวทย์มนต์ การรวมกันของทักษะพื้นฐานและการฝึกฝนจนชำนาญทำให้ไฟท์เตอร์เป็นนักสู้ที่เหนือชั้นในสนามรบและในดันเจียน
 
-## Trained for Danger
+## ฝึกมาเพื่อเจออันตราย
 
-Not every member of the city watch, the village militia, or the queen’s army is a fighter. Most of these troops are relatively untrained soldiers with only the most basic combat knowledge. Veteran soldiers, military officers, trained bodyguards, dedicated knights, and similar figures are fighters.
+ไม่ใช่ทุกคนที่เป็นสมาชิกของกองกำลังป้องกันเมือง ยามหมู่บ้าน หรือทหารรักษาพระองค์ของราชินีจะเป็นไฟท์เตอร์ ทหารส่วนใหญ่เหล่านี้มักจะไม่ได้รับการฝึกฝนและรู้เพียงแค่ความรู้ในการต่อสู้พื้นฐาน เหล่าทหารผ่านศึก ทหารบังคับบัญชา บอดี้การ์ดมืออาชีพ อัศวินในกองกำลังพิเศษ นักรบในระดับนี้เป็นไฟท์เตอร์
 
-Some fighters feel drawn to use their training as adventurers. The dungeon delving, monster slaying, and other dangerous work common among adventurers is second nature for a fighter, not all that different from the life he or she left behind. There are greater risks, perhaps, but also much greater rewards — few fighters in the city watch have the opportunity to discover a magic [flame tongue](../magic-items/flame-tongue.md) sword, for example.
+ไฟท์เตอร์บางคนรู้สึกว่าความสามารถของพวกเขาเหมาะกับการเป็นนักผจญภัย การตะลุยดันเจี้ยน ล่ามอนสเตอร์ และงานอันตรายอื่น ๆ เป็นสิ่งธรรมดาของนักผจญภัยเป็นเหมือนธรรมชาติที่สองของเหล่าไฟท์เตอร์ ซึ่งก็ไม่ได้แตกต่างจากชีวิตของเขาหรือเธอที่ผ่านมา มันมีความเสี่ยงสูง ก็อาจจะ แต่รางวัลก็สูงเหมือนกัน ตัวอย่างเช่นไฟท์เตอร์น้อยคนในกองกำลังป้องกันเมืองจะมีโอกาสค้นพบกับดาบเวทย์มนต์ [เฟลมทังค์ (flame tongue)](../magic-items/flame-tongue)
 
-## Creating a Fighter
+## การสร้างไฟท์เตอร์ (Creating a Fighter)
 
-As you build your fighter, think about two related elements of your character’s background: Where did you get your combat training, and what set you apart from the mundane warriors around you? Were you particularly ruthless? Did you get extra help from a mentor, perhaps because of your exceptional dedication? What drove you to this training in the first place? A threat to your homeland, a thirst for revenge, or a need to prove yourself might all have been factors.
+เมื่อคุณสร้างไฟท์เตอร์ของคุณ ให้คิดถึงสองสิ่งจากภูมิหลัง (background) ของตัวละครนั้น หนึ่งคือคคุณได้รับการฝึกต่อสู้มาจากไหน และสองอะไรที่ทำให้คุณแตกต่างจากนักรบรอบตัวคุณ คุณป่าเถื่อนไร้ความปราณีหรือเปล่า? คุณได้รับการช่วยเหลือพิเศษจากครูฝึกหรือไม่? อาจเป็นเพราะคุณมีความทุ่มเทอย่างเป็นพิเศษกับการฝึก อะไรที่ทำให้คุณเข้ารับการฝึกนี้แต่แรก? เกิดอันตรายกับบ้านเกิด, อยากแก้แค้น หรือต้องการพิสูจน์ตนเอง
 
-You might have enjoyed formal training in a noble’s army or in a local militia. Perhaps you trained in a war academy, learning strategy, tactics, and military history. Or you might be self-taught — unpolished but well tested. Did you take up the sword as a way to escape the limits of life on a farm, or are you following a proud family tradition? Where did you acquire your weapons and armor? They might have been military issue or family heirlooms, or perhaps you scrimped and saved for years to buy them. Your armaments are now among your most important possessions — the only things that stand between you and death’s embrace.
+คุณอาจจะชอบการฝึกแบบมีแบบแผนในกองทัพของขุนนางหรือในกองกำลังหมู่บ้าน บางทีคุณอาจจะได้รับการฝึกในโรงเรียนการสงคราม ได้เรียนรู้ยุทธวิธี กลวิธี และประวัติศาสตร์ทางทหาร หรือคุณอาจจะฝึกฝนด้วยตนเอง ไม่ได้ขัดเกลาแต่ก็ได้รับการทดสอบมานับครั้งไม่ถ้วน คุณจับดาบเพราะเป็นหนทางในการหนีจากชีวิตจำเจของชาวไร่ชาวนาหรือเปล่า? หรือคุณดำเนินรอยตามประเพณีของครอบครัว คุณได้เกราะและอาวุธจากไหนมา อาจจะได้มาจากการเป็นทหารหรือเป็นมรดกของครอบครัว หรืออาจจะเก็บตังเป็นปีกว่าจะซื้อมาได้ อาวุธยุทโธปกรณ์ของคุณเป็นสิ่งสำคัญในครอบครอง เป็นสิ่งเดียวที่กั้นคุณไม่ให้พบกับความตาย
 
-### Quick Build
+### สร้างอย่างเร็ว (Quick Build)
 
-You can make a fighter quickly by following these suggestions. First, make Strength or Dexterity your highest ability score, depending on whether you want to focus on melee weapons or on archery (or finesse weapons). Your next-highest score should be Constitution, or Intelligence if you plan to adopt the Eldritch Knight martial archetype. Second, choose the soldier background.
+คุณสามารถสร้างไฟท์เตอร์อย่างเร็วโดยทำตามคำแนะนำดังนี้ อย่างแรก เลือกความแข็งแกร่ง (Strength) หรือความคล่องแคล่ว (Dexterity) เป็นคะแนนความสามารถสูงสุด โดยขึ้นอยู่กับว่าคุณจะเลือกเน้นที่การใช้อาวุธประชิดตัวหรือกลุ่มธนู (หรืออาวุธเบา) ค่าต่อมาควรเป็นความอดทน (Constitution) หรือความฉลาด (Intelligence) หากคุณวางแผนจะพัฒนาไปเป็นอัศวินเอลดริช (Eldritch Knight) อย่างที่สอง ให้เลือกภูมิหลังเป็นทหาร (soldier background)
 
-| Level | Proficiency Bonus | Features                                                                          |
+| เลเวล | โบนัสความเชี่ยวชาญ | ความสามารถ                                                                          |
 | ----- | --------------------- | --------------------------------------------------------------------------------- |
 | 1st   | +2                    | [Fighting Style](#FightingStyle), [Second Wind](#SecondWind)                      |
 | 2nd   | +2                    | [Action Surge](#ActionSurge) (one use)                                            |
@@ -56,60 +56,61 @@ You can make a fighter quickly by following these suggestions. First, make Stren
 | 19th  | +6                    | [Ability Score Improvement](#AbilityScoreImprovement)                             |
 | 20th  | +6                    | [Extra Attack](#ExtraAttack) (3)                                                  |
 
-## Class Features
+## คุณสมบัติของคลาส Class Features
 
 As a fighter, you gain the following class features.
+เมื่อเป็นไฟท์เตอร์ คุณจะได้รับคุณสมบัติของคลาสดังนี้
 
-#### Hit Points
+#### ฮิตพอยท์
 
-**Hit Dice:** 1d10 per fighter level
+**ฮิตไดส์:** 1d10 ต่อเลเวลไฟท์เตอร์
 
-**Hit Points at 1st Level:** 10 + your Constitution modifier
+**ฮิตพอยท์เมื่อเลเวล 1:** 10 + ค่าโมดิไฟเออร์ความอดทน (Constitution) ของคุณ
 
-**Hit Points at Higher Levels:** 1d10 (or 6) + your Constitution modifier per fighter level after 1st
+**ฮิตพอยท์เมื่อเลเวลสูงขึ้น:** 1d10 (หรือ 6) + ค่าโมดิไฟเออร์ความอดทน (Constitution) ต่อเลเวลไฟท์เตอร์หลังจากเลเวล 1
 
-#### Proficiencies
+### ความชำนาญ (Proficiencies)
 
-**Armor:** All armor, shields
+**เกราะ:** เกราะทุกชนิด, โล่
 
-**Weapons:** Simple weapons, martial weapons
+**อาวุธ:** อาวุธพื้นฐาน, อาวุธประชิดตัว
 
-**Tools:** None
+**เครื่องมือ:** ไม่มี
 
-**Saving Throws:** Strength, Constitution
+**การทอยป้องกัน:** คะแนนความแข็งแกร่ง (Strength), คะแนนความอดทน (Constitution)
 
-Skills: Choose two skills from Acrobatics, Animal Handling, Athletics, History, Insight, Intimidation, Perception, and Survival
+**ทักษะ:** เลือกสองทักษะจาก ทักษะกายกรรม (Acrobatics), การจัดการสัตว์ (Animal Handling), การกรีฑา (Athletics), ประวัติศาสตร์ (History), การมองทะลุ (Insight), การข่มขู่ (Intimidation), การรับรู้ (Perception), และการเอาตัวรอด (Survival)
 
-#### Equipment
+#### อุปกรณ์
 
-You start with the following equipment, in addition to the equipment granted by your background:
+คุณจะเริ่มต้นด้วยอุปกรณ์เหล่านี้ เพิ่มจากอุปกรณ์ที่คุณได้จากภูมิหลัง
 
-- (a) chain mail or (b) leather armor, longbow, and 20 arrows
-- (a) a martial weapon and a shield or (b) two martial weapons
-- (a) a light crossbow and 20 bolts or (b) two handaxes
-- (a) a dungeoneer’s pack or (b) an explorer’s pack
+- (a) เกราะโซ๋ (chain mail) หรือ (b) เกราะหนัง (leather armor), ธนูยาว (longbow), และลูกศร 20 ดอก
+- (a) อาวุธประชิดตัว (martial weapon) และโล่อย่างละหนึ่งชิ้น หรือ (b) อาวุธประชิดตัว 2 ชิ้น
+- (a) ครอสโบวเบา (light crossbow) และลูกดอก 20 ลูก หรือ (b) ขวานมือ (handaxe) 2 เล่ม
+- (a) ชุดอุปกรณ์ตะลุยดันเจียน (a dungeoneer’s pack) หรือ (b) ชุดอุปกรณ์นักสำรวจ (explorer’s pack)
 
-### Fighting Style {#FightingStyle}
+### สไตล์การต่อสู้ (Fighting Style) {#FightingStyle}
 
-You adopt a particular style of fighting as your specialty. Choose one of the following options. You can’t take a Fighting Style option more than once, even if you later get to choose again.
+คุณจะเลือกสไตล์การต่อสู้เป็นความสามารถพิเศษของคุณ เลือกจากตัวเลือกด้านล่างนี้ คุณจะไม่ได้สามารถเลือกสไตล์การต่อสู้ได้เกิน 1 ครั้ง แม้ว่าภายหลังจะต้องเลือกอีกก็ตาม
 
-**Archery**
-You gain a +2 bonus to attack rolls you make with ranged weapons.
+**การใช้ธนู (Archery)**
+คุณจะได้โบนัส +2 ในการทอยโจมตีเมื่อคุณโจมตีด้วยอาวุธยิงระยะไกล
 
-**Defense**
-While you are wearing armor, you gain a +1 bonus to AC.
+**การป้องกัน (Defense)**
+เมื่อคุณสวมเกราะ คุณจะได้โบนัส +1 ให้ AC
 
-**Dueling**
-When you are wielding a melee weapon in one hand and no other weapons, you gain a +2 bonus to damage rolls with that weapon.
+**การดวลดาบ (Dueling)**
+เมื่อคุณถืออาวุธระยะประชิดในมือข้างหนึ่งและไม่ได้ถืออาวุธใดอีก คุณจะได้รับโบนัส +2 ให้กับการทอยหาความเสียหายด้วยอาวุธนั้น
 
-**Great Weapon Fighting**
-When you roll a 1 or 2 on a damage die for an attack you make with a melee weapon that you are wielding with two hands, you can reroll the die and must use the new roll, even if the new roll is a 1 or a 2. The weapon must have the two-handed or versatile property for you to gain this benefit.
+**การต่อสู้ด้วยอาวุธขนาดใหญ่ (Great Weapon Fighting)**
+เมื่อคุณทอยเต๋าความเสียหายได้ 1 หรือ 2 สำหรับการโจมตีของคุณจากอาวุธประชิดตัวที่ต้องถือสองมือ คุณสามารถเลือกทอยใหม่ได้และจะต้องใช้ค่าที่ทอยได้ใหม่นั้น แม้ว่าจะทอยได้ 1 หรือ 2 อีกก็ตาม อาวุธที่ใช้ต้องมีคุณสมบัติ ใช้สองมือ (two-hand) หรือ อเนกประสงค์ (versatile) ถึงจะใช้ความสามารถนี้ได้
 
-**Protection**
-When a creature you can see attacks a target other than you that is within 5 feet of you, you can use your reaction to impose disadvantage on the attack roll. You must be wielding a shield.
+**การปกป้อง (Protection)**
+เมื่อสิ่งมีชีวิตที่คุณสามารถเห็นได้ทำการโจมตีเป้าหมายที่ไม่ใช่คุณที่อยู่ในระยะ 5 ฟุตจากตัวคุณ คุณสามารถใช้รีแอ็คชัน (reaction) ในการบังคับให้ทอยโจมตีแบบเสียเปรียบ (disadvantage) ได้ และคุณต้องถือโล่ในมือ
 
-**Two-Weapon Fighting**
-When you engage in two-weapon fighting, you can add your ability modifier to the damage of the second attack.
+**การสู้ด้วยอาวุธคู่ (Two-Weapon Fighting)**
+เมื่อคุณเลือกสไตล์การต่อสู้แบบอาวุธคู่ คุณสามารถเพิ่มค่าโมดิไฟเออร์ของคะแนนความสามารถของคุณให้กับความเสียหายที่เกิดขึ้นในการโจมตีครั้งที่สองได้
 
 ### Second Wind {#SecondWind}
 
