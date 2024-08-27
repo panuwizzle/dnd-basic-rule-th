@@ -206,6 +206,30 @@ Additionally, you can spend 8 ki points to cast the [astral projection] spell, w
 
 At 20th level, when you roll for initiative and have no ki points remaining, you regain 4 ki points.
 
+## Optional Class Features
+
+### Dedicated Weapon
+_2nd-level monk feature_
+You train yourself to use a variety of weapons as monk weapons, not just simple melee weapons and shortswords. Whenever you finish a short or long rest, you can touch one weapon, focus your ki on it, and then count that weapon as a monk weapon until you use this feature again.
+
+The chosen weapon must meet these criteria:
+
+- The weapon must be a simple or martial weapon.
+- You must be proficient with it.
+- It must lack the heavy and special properties.
+
+### Ki-Fueled Attack
+3rd-level monk feature
+If you spend 1 ki point or more as part of your action on your turn, you can make one attack with an unarmed strike or a monk weapon as a bonus action before the end of the turn.
+
+### Quickened Healing
+4th-level monk feature
+As an action, you can spend 2 ki points and roll a Martial Arts die. You regain a number of hit points equal to the number rolled plus your proficiency bonus.
+
+### Focused Aim
+5th-level monk feature
+When you miss with an attack roll, you can spend 1 to 3 ki points to increase your attack roll by 2 for each of these ki points you spend, potentially turning the miss into a hit.
+
 ## Monastic Traditions
 
 Three traditions of monastic pursuit are common in the monasteries scattered across the multiverse. Most monasteries practice one tradition exclusively, but a few honor the three traditions and instruct each monk according to his or her aptitude and interest. All three traditions rely on the same basic techniques, diverging as the student grows more adept. Thus, a monk need choose a tradition only upon reaching 3rd level.

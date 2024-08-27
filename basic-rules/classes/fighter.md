@@ -141,6 +141,39 @@ menu: menu-basic-rules
 
 คุณสามารถใช้ความสามารถนี้ได้ 2 ครั้งระหว่างการพักยาวเมื่อถึงเลเวล 13 และ 3 ครั้งระหว่างการพักยาวเมื่อถึงเลเวล 17
 
+## Optional Class Features
+### Fighting Style Options
+1st-level fighter feature
+When you choose a fighting style, the following styles are added to your list of options.
+
+#### Blind Fighting
+You have [blindsight] with a range of 10 feet. Within that range, you can effectively see anything that isn’t behind total cover, even if you’re [blinded] or in darkness. Moreover, you can see an [invisible] creature within that range, unless the creature successfully hides from you.
+
+#### Interception
+When a creature you can see hits a target, other than you, within 5 feet of you with an attack, you can use your reaction to reduce the damage the target takes by 1d10 + your proficiency bonus (to a minimum of 0 damage). You must be wielding a shield or a simple or martial weapon to use this reaction.
+
+#### Superior Technique
+You learn one maneuver of your choice from among those available to the Battle Master archetype. If a maneuver you use requires your target to make a saving throw to resist the maneuver’s effects, the saving throw DC equals 8 + your proficiency bonus + your Strength or Dexterity modifier (your choice).
+
+You gain one superiority die, which is a d6 (this die is added to any superiority dice you have from another source). This die is used to fuel your maneuvers. A superiority die is expended when you use it. You regain your expended superiority dice when you finish a short or long rest.
+
+#### Thrown Weapon Fighting
+You can draw a weapon that has the thrown property as part of the attack you make with the weapon.
+
+In addition, when you hit with a ranged attack using a thrown weapon, you gain a +2 bonus to the damage roll.
+
+#### Unarmed Fighting
+Your unarmed strikes can deal bludgeoning damage equal to 1d6 + your Strength modifier on a hit. If you aren’t wielding any weapons or a shield when you make the attack roll, the d6 becomes a d8.
+
+At the start of each of your turns, you can deal 1d4 bludgeoning damage to one creature [grappled] by you.
+
+### Martial Versatility
+4th-level fighter feature
+Whenever you reach a level in this class that grants the Ability Score Improvement feature, you can do one of the following, as you shift the focus of your martial practice:
+
+- Replace a fighting style you know with another fighting style available to fighters.
+- If you know any maneuvers from the Battle Master archetype, you can replace one maneuver you know with a different maneuver.
+
 ## แม่แบบการต่อสู้ (Martial Archetypes) {#MartialArchetypesFeature}
 
 ไฟท์เตอร์แต่ละคนจะเลือกแนวทางที่แตกต่างกันในการพัฒนาทักษะการต่อสู้ของตนเอง แม่แบบการต่อสู้ที่คุณเลือกเจริญรอยตามจะสะท้อนถึงแนวทางของคุณ
