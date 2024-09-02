@@ -2895,10 +2895,15 @@ You unleash a virulent disease on a creature that you can see within range. The 
 3rd-level transmutation
 **เวลาในการร่ายคาถา:** 1 แอ็คชัน
 **ระยะ:** 30 ฟุต
-**วิธีการร่ายและวัตถุคาถา:** V, S, M (a shaving of licorice root)
+**วิธีการร่ายและวัตถุคาถา:** V, S, M (รากชะเอมเทศขูดฝอย)
 **ระยะเวลาคงคาถา:** เพ่งสมาธิ, up to 1 นาที
-Choose a willing creature that you can see within range. Until the spell ends, the target’s speed is doubled, it gains a +2 bonus to AC, it has advantage on Dexterity saving throws, and it gains an additional action on each of its turns. That action can be used only to take the Attack (one weapon attack only), Dash, Disengage, Hide, or Use an Object action.
-When the spell ends, the target can’t move or take actions until after its next turn, as a wave of lethargy sweeps over it.
+เลือกสิ่งมีชีวิตที่อยู่ในระยะที่คุณมองเห็น จนกว่าคาถาจะหมดเวลา 
+- ความเร็วของเป้าหมายจะเพิ่มขึ้นเป็น 2 เท่า 
+- ได้โบนัส AC +2
+- ได้ทอยป้องกันความคล่องแคล่ว (Dex saving throw) แบบ advantage
+- ได้แอ็คชันเพิ่มอีก 1 ครั้งในเทิร์นของตัวเอง แต่ต้องใช้โจมตี (ด้วยอาวุธเท่านั้น), วิ่งเร็ว (dash), ผละหนี (disengage), ซ่อนตัว (hide) หรือใช้สิ่งของ (use an object) เท่านั้น
+
+เมื่อจบคาถา เป้าหมายจะไม่สามารถเคลื่อนที่หรือทำแอ็คชันได้จนกว่าจะจบเทิร์นต่อไป เพราะโดนความเฉื่อยหมดแรงเข้าเล่นงาน
 
 ### Heal {#heal}
 
