@@ -3,23 +3,23 @@ layout: book
 menu: menu-basic-rules
 ---
 
-# Monk
+# มองค์ (Monk)
 
-Her fists a blur as they deflect an incoming hail of arrows, a half-elf springs over a barricade and throws herself into the massed ranks of hobgoblins on the other side. She whirls among them, knocking their blows aside and sending them reeling, until at last she stands alone.
+หมัดของเธอเป็นภาพพร่ามัวในขณะที่ปัดลูกธนูที่พุ่งเข้ามาเป็นสายฝน ฮาล์ฟเอลฟ์สาวโดดลอยข้ามเครื่องกีดขวาง ลอยเข้าสู่ฝูงฮอบก๊อบลิน ท่วงท่าการต่อสู้หมุนวนในอากาศอยู่ท่ามกลางพวกมัน ซัดจนล้มคว่ำไปด้านข้าง บ้างก็หมุนกลิ้งไป จนสุดท้ายเหลือแค่เธอที่ยืนอยู่ผู้เดียว
 
-Taking a deep breath, a human covered in tattoos settles into a battle stance. As the first charging orcs reach him, he exhales and a blast of fire roars from his mouth, engulfing his foes.
+สูดหายใจเข้าเต็มปอด มนุษย์ที่สักเต็มตัวผู้หนึ่งยืนสงบอยู่ในท่าพร้อมรบ พร้อมกับที่อ็อคตัวแรกพุ่งตัวเข้าโจมตีเขา เขาพ่นลมหายใจออก คำรามดังก้องพร้อมกับระเบิดไฟออกจากปาก ไฟครอกศัตรูของเขาอย่างฉับพลัน
 
-Moving with the silence of the night, a black-clad halfling steps into a shadow beneath an arch and emerges from another inky shadow on a balcony a stone’s throw away. She slides her blade free of its cloth-wrapped scabbard and peers through the open window at the tyrant prince, so vulnerable in the grip of sleep.
+เคลื่อนที่อย่างเงียบเชียบในยามสนธยา ฮาล์ฟลิ่งในชุดพรางดำย่างกรายไปในเงามืดใต้ซุ้มประตูและปรากฏตัวขึ้นจากอีกด้านของระเบียงมืด เธอสไลด์ดาบของเธอให้เป็นอิสระจากผ้าที่พันไว้และแง้มหน้าต่างดูเจ้าชายทรราช ที่เปิดช่องโหว่ก่อนจะหลับใหล
 
-Whatever their discipline, monks are united in their ability to magically harness the energy that flows in their bodies. Whether channeled as a striking display of combat prowess or a subtler focus of defensive ability and speed, this energy infuses all that a monk does.
+ไม่ว่าวัตรปฏิบัติของพวกเขาจะเป็นอย่างไร มองค์หลอมรวมเป็นหนึ่งกับความสามารถของพวกเขาในการควบคุมพลังที่ไหลเวียนในร่างกายได้อย่างวิเศษ ไม่ว่าจะเป็นการควบคุมเพื่อใช้เป็นพลังโจมตีในการต่อสู้ หรือเน้นไปในการป้องกันและความเร็ว พลังนี้เป็นตัวขับเคลื่อนกิจกรรมทุกอย่างของมองค์
 
-### The Magic of Ki
+### เวทย์มนต์แห่งคิ (Ki)
 
-Monks make careful study of a magical energy that most monastic traditions call ki. This energy is an element of the magic that suffuses the multiverse — specifically, the element that flows through living bodies. Monks harness this power within themselves to create magical effects and exceed their bodies’ physical capabilities, and some of their special attacks can hinder the flow of ki in their opponents. Using this energy, monks channel uncanny speed and strength into their unarmed strikes. As they gain experience, their martial training and their mastery of ki gives them more power over their bodies and the bodies of their foes.
+มองค์ศึกษาพลังงานเวทย์มนต์อย่างระมัดระวัง พลังงานที่สำนักส่วนใหญ่เรียกว่า "คิ" พลังงานนี้เป็นองค์ประกอบของเวทย์มนต์ที่มีอยู่ในมัลติเวอร์ส โดยเฉพาะอย่างยิ่ง องค์ประกอบที่ไหลเวียนอยู่ในร่างกายของสิ่งมีชีวิต มองค์ควบคุมพลังเหล่านี้ไว้ในร่างกายของพวกเขา ใช้สร้างผลพิเศษต่าง ๆ ที่เหนือกว่าร่างเนื้อของพวกเขาจะทำได้ และการโจมตีพิเศษบางอย่างของพวกเขายังสามารถควบคุมกระแสคิของคู่ต่อสู้ได้อีกด้วย เมื่อใช้พลังนี้ มองค์สามารถใช้ความเร็วเหนือมนุษย์และความแข็งแกร่งในการโจมตีด้วยมือเปล่า และเมื่อพวกเขามีประสบการณ์มากขึ้น การฝึกฝนการต่อสู้และความสามารถในการควบคุมคิยังมอบพลังอันมากมายแก่ร่างกายพวกเขาและรวมไปถึงการควบคุมคู่ต่อสู้อีกด้วย
 
-### Training and Asceticism
+### การฝึกฝนและการบำเพ็ญพรต (Training and Asceticism)
 
-Small walled cloisters dot the landscapes of the worlds of D&D, tiny refuges from the flow of ordinary life, where time seems to stand still. The monks who live there seek personal perfection through contemplation and rigorous training. Many entered the monastery as children, sent to live there when their parents died, when food couldn’t be found to support them, or in return for some kindness that the monks had performed for their families.
+อารามขนาดเล็กที่มีกำแพงล้อมรอบกระจายตัวอยู่ทั่วไปในดินแดนของโลกของ D&D ผู้คนจำนวนหนึ่งหลบเร้นจากกระแสของชีวิตฆารวาส เป็นที่ที่เวลาเหมือนจะหยุดนิ่ง มองค์ผู้ซึ่งอาศัยอยู่ที่นั่นเพื่อค้นหาจุดสมบูรณ์ผ่านการพิจารณาจิตและการฝึกฝนที่เข้มข้น หลายคนเข้าอารามมาตั้งแต่เด็ก ถูกส่งให้มาอยู่หลังจากที่พ่อแม่เสียชีวิต หรือเมื่อไม่มีอาหารพอจะเลี้ยงดู หรือเพื่อฝากเป็นศิษย์เพราะอาจารย์เคยมีบุญคุณกับครอบครัว
 
 Some monks live entirely apart from the surrounding population, secluded from anything that might impede their spiritual progress. Others are sworn to isolation, emerging only to serve as spies or assassins at the command of their leader, a noble patron, or some other mortal or divine power.
 
