@@ -39,28 +39,28 @@ As a result of the structured life of a monastic community and the discipline re
 
 You can make a monk quickly by following these suggestions. First, make Dexterity your highest ability score, followed by Wisdom. Second, choose the hermit background.
 
-| Level | Proficiency <br>Bonus | Martial <br>Arts | Ki <br>Points | Unarmored <br>Movement | Features                                                                                                                                                                                                                   |
-| ----- | --------------------- | ---------------- | ------------- | ---------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| 1st   | +2                    | 1d4              | —             | —                      | [Unarmored Defense](https://www.dndbeyond.com/sources/dnd/basic-rules-2014/classes#MonkUnarmoredDefense), [Martial Arts](https://www.dndbeyond.com/sources/dnd/basic-rules-2014/classes#MartialArts)                       |
-| 2nd   | +2                    | 1d4              | 2             | +10 ft.                | [Ki](https://www.dndbeyond.com/sources/dnd/basic-rules-2014/classes#Ki), [Unarmored Movement](https://www.dndbeyond.com/sources/dnd/basic-rules-2014/classes#UnarmoredMovement)                                            |
-| 3rd   | +2                    | 1d4              | 3             | +10 ft.                | [Monastic Tradition](https://www.dndbeyond.com/sources/dnd/basic-rules-2014/classes#MonasticTradition), [Deflect Missiles](https://www.dndbeyond.com/sources/dnd/basic-rules-2014/classes#DeflectMissiles)                 |
-| 4th   | +2                    | 1d4              | 4             | +10 ft.                | [Ability Score Improvement](https://www.dndbeyond.com/sources/dnd/basic-rules-2014/classes#MonkAbilityScoreImprovement), [Slow Fall](https://www.dndbeyond.com/sources/dnd/basic-rules-2014/classes#SlowFall)              |
-| 5th   | +3                    | 1d6              | 5             | +10 ft.                | [Extra Attack](https://www.dndbeyond.com/sources/dnd/basic-rules-2014/classes#MonkExtraAttack), [Stunning Strike](https://www.dndbeyond.com/sources/dnd/basic-rules-2014/classes#StunningStrike)                           |
-| 6th   | +3                    | 1d6              | 6             | +15 ft.                | [Ki-Empowered Strikes](https://www.dndbeyond.com/sources/dnd/basic-rules-2014/classes#KiEmpoweredStrikes), [Monastic Tradition Feature](https://www.dndbeyond.com/sources/dnd/basic-rules-2014/classes#MonasticTraditions) |
-| 7th   | +3                    | 1d6              | 7             | +15 ft.                | [Evasion](https://www.dndbeyond.com/sources/dnd/basic-rules-2014/classes#Evasion), [Stillness of Mind](https://www.dndbeyond.com/sources/dnd/basic-rules-2014/classes#StillnessofMind)                                     |
-| 8th   | +3                    | 1d6              | 8             | +15 ft.                | [Ability Score Improvement](https://www.dndbeyond.com/sources/dnd/basic-rules-2014/classes#MonkAbilityScoreImprovement)                                                                                                    |
-| 9th   | +4                    | 1d6              | 9             | +15 ft.                | [Unarmored Movement Improvement](https://www.dndbeyond.com/sources/dnd/basic-rules-2014/classes#UnarmoredMovement)                                                                                                         |
-| 10th  | +4                    | 1d6              | 10            | +20 ft.                | [Purity of Body](https://www.dndbeyond.com/sources/dnd/basic-rules-2014/classes#PurityofBody)                                                                                                                              |
-| 11th  | +4                    | 1d8              | 11            | +20 ft.                | [Monastic Tradition Feature](https://www.dndbeyond.com/sources/dnd/basic-rules-2014/classes#MonasticTraditions)                                                                                                            |
-| 12th  | +4                    | 1d8              | 12            | +20 ft.                | [Ability Score Improvement](https://www.dndbeyond.com/sources/dnd/basic-rules-2014/classes#MonkAbilityScoreImprovement)                                                                                                    |
-| 13th  | +5                    | 1d8              | 13            | +20 ft.                | [Tongue of the Sun and Moon](https://www.dndbeyond.com/sources/dnd/basic-rules-2014/classes#TongueoftheSunandMoon)                                                                                                         |
-| 14th  | +5                    | 1d8              | 14            | +25 ft.                | [Diamond Soul](https://www.dndbeyond.com/sources/dnd/basic-rules-2014/classes#DiamondSoul)                                                                                                                                 |
-| 15th  | +5                    | 1d8              | 15            | +25 ft.                | [Timeless Body](https://www.dndbeyond.com/sources/dnd/basic-rules-2014/classes#TimelessBody)                                                                                                                               |
-| 16th  | +5                    | 1d8              | 16            | +25 ft.                | [Ability Score Improvement](https://www.dndbeyond.com/sources/dnd/basic-rules-2014/classes#MonkAbilityScoreImprovement)                                                                                                    |
-| 17th  | +6                    | 1d10             | 17            | +25 ft.                | [Monastic Tradition Feature](https://www.dndbeyond.com/sources/dnd/basic-rules-2014/classes#MonasticTraditions)                                                                                                            |
-| 18th  | +6                    | 1d10             | 18            | +30 ft.                | [Empty Body](https://www.dndbeyond.com/sources/dnd/basic-rules-2014/classes#EmptyBody)                                                                                                                                     |
-| 19th  | +6                    | 1d10             | 19            | +30 ft.                | [Ability Score Improvement](https://www.dndbeyond.com/sources/dnd/basic-rules-2014/classes#MonkAbilityScoreImprovement)                                                                                                    |
-| 20th  | +6                    | 1d10             | 20            | +30 ft.                | [Perfect Self](https://www.dndbeyond.com/sources/dnd/basic-rules-2014/classes#PerfectSelf)                                                                                                                                 |
+| Level | Proficiency <br>Bonus | Martial <br>Arts | Ki <br>Points | Unarmored <br>Movement | Features                                                                                       |
+| ----- | --------------------- | ---------------- | ------------- | ---------------------- | ---------------------------------------------------------------------------------------------- |
+| 1st   | +2                    | 1d4              | —             | —                      | [Unarmored Defense](#MonkUnarmoredDefense), [Martial Arts](#MartialArts)                       |
+| 2nd   | +2                    | 1d4              | 2             | +10 ft.                | [Ki](#Ki), [Unarmored Movement](#UnarmoredMovement)                                            |
+| 3rd   | +2                    | 1d4              | 3             | +10 ft.                | [Monastic Tradition](#MonasticTradition), [Deflect Missiles](#DeflectMissiles)                 |
+| 4th   | +2                    | 1d4              | 4             | +10 ft.                | [Ability Score Improvement](#MonkAbilityScoreImprovement), [Slow Fall](#SlowFall)              |
+| 5th   | +3                    | 1d6              | 5             | +10 ft.                | [Extra Attack](#MonkExtraAttack), [Stunning Strike](#StunningStrike)                           |
+| 6th   | +3                    | 1d6              | 6             | +15 ft.                | [Ki-Empowered Strikes](#KiEmpoweredStrikes), [Monastic Tradition Feature](#MonasticTraditions) |
+| 7th   | +3                    | 1d6              | 7             | +15 ft.                | [Evasion](#Evasion), [Stillness of Mind](#StillnessofMind)                                     |
+| 8th   | +3                    | 1d6              | 8             | +15 ft.                | [Ability Score Improvement](#MonkAbilityScoreImprovement)                                      |
+| 9th   | +4                    | 1d6              | 9             | +15 ft.                | [Unarmored Movement Improvement](#UnarmoredMovement)                                           |
+| 10th  | +4                    | 1d6              | 10            | +20 ft.                | [Purity of Body](#PurityofBody)                                                                |
+| 11th  | +4                    | 1d8              | 11            | +20 ft.                | [Monastic Tradition Feature](#MonasticTraditions)                                              |
+| 12th  | +4                    | 1d8              | 12            | +20 ft.                | [Ability Score Improvement](#MonkAbilityScoreImprovement)                                      |
+| 13th  | +5                    | 1d8              | 13            | +20 ft.                | [Tongue of the Sun and Moon](#TongueoftheSunandMoon)                                           |
+| 14th  | +5                    | 1d8              | 14            | +25 ft.                | [Diamond Soul](#DiamondSoul)                                                                   |
+| 15th  | +5                    | 1d8              | 15            | +25 ft.                | [Timeless Body](#TimelessBody)                                                                 |
+| 16th  | +5                    | 1d8              | 16            | +25 ft.                | [Ability Score Improvement](#MonkAbilityScoreImprovement)                                      |
+| 17th  | +6                    | 1d10             | 17            | +25 ft.                | [Monastic Tradition Feature](#MonasticTraditions)                                              |
+| 18th  | +6                    | 1d10             | 18            | +30 ft.                | [Empty Body](#EmptyBody)                                                                       |
+| 19th  | +6                    | 1d10             | 19            | +30 ft.                | [Ability Score Improvement](#MonkAbilityScoreImprovement)                                      |
+| 20th  | +6                    | 1d10             | 20            | +30 ft.                | [Perfect Self](#PerfectSelf)                                                                   |
 
 ## Class Features
 
@@ -209,6 +209,7 @@ At 20th level, when you roll for initiative and have no ki points remaining, you
 ## Optional Class Features
 
 ### Dedicated Weapon
+
 _2nd-level monk feature_
 You train yourself to use a variety of weapons as monk weapons, not just simple melee weapons and shortswords. Whenever you finish a short or long rest, you can touch one weapon, focus your ki on it, and then count that weapon as a monk weapon until you use this feature again.
 
@@ -219,14 +220,17 @@ The chosen weapon must meet these criteria:
 - It must lack the heavy and special properties.
 
 ### Ki-Fueled Attack
+
 3rd-level monk feature
 If you spend 1 ki point or more as part of your action on your turn, you can make one attack with an unarmed strike or a monk weapon as a bonus action before the end of the turn.
 
 ### Quickened Healing
+
 4th-level monk feature
 As an action, you can spend 2 ki points and roll a Martial Arts die. You regain a number of hit points equal to the number rolled plus your proficiency bonus.
 
 ### Focused Aim
+
 5th-level monk feature
 When you miss with an attack roll, you can spend 1 to 3 ki points to increase your attack roll by 2 for each of these ki points you spend, potentially turning the miss into a hit.
 

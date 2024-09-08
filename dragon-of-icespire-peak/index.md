@@ -17,25 +17,25 @@ The adventure is set a short distance from the city of Neverwinter in the Sword 
 
 If this is your first time running a D&D adventure, read the “Role of the Dungeon Master” section.
 
-### Role of the Dungeon Master
+### หน้าที่ของดันเจียนมาสเตอร์ (Role of the Dungeon Master)
 
-The Dungeon Master (also called “the DM”) has a special role in the D&D game.
+ดันเจียนมาสเตอร์ (หรือเรียกว่า "DM") มีบทบาทพิเศษในเกม D&D
 
-The DM is a **referee**. When it’s not clear what ought to happen next, the DM decides how to apply the rules and keep the story going.
+DM เป็น **กรรมการ** เมื่อเกิดความไม่แน่ชัดว่าอะไรควรจะเกิดขึ้นต่อไป DM จะเป็นคนตัดสินใจว่าจะนำกฏใดมาใช้เพื่อให้ดำเนินเรื่องต่อไปได้
 
-The DM is a **storyteller**. The DM sets the pace of the story and presents the various challenges and encounters that the players must overcome. The DM is the players’ interface to the D&D world, as well as the one who reads (and sometimes also writes) the adventure and describes what happens in response to the characters’ actions.
+DM เป็น **คนเล่าเรื่อง** DM จะเป็นคนกำหนดความเร็วของเนื้อเรื่องและจัดเตรียมความท้าทายและการเผชิญหน้าต่าง ๆ ที่ผู้เล่นต้องก้าวข้ามให้ได้ DM เป็นเหมือนจุดเชื่อมต่อระหว่างผู้เล่นและโลกของ D&D เช่นเดียวกับที่เป็นผู้อ่าน (บางครั้งก็เขียน) การผจญภัยและอธิบายว่าเกิดอะไรขึ้นเพื่อตอบสนองต่อการกระทำของผู้เช่น
 
-The DM is a **roleplayer**. The DM plays the monsters and villains in the adventure, choosing their actions and rolling dice for their attacks. The DM also plays the parts of all the other characters who the adventurers meet, including helpful ones.
+DM เป็น **ผู้สวมบทบาท** DM จะเล่นเป็นมอนสเตอร์และตัวร้ายในเรื่องราวการผจญภัย เลือกว่าพวกเขาจะทำอะไรและทอยลูกเต๋าสำหรับการโจมตี DM ยังเล่นเป็นส่วนหนึ่งของตัวละคนอื่นที่นักผจญภัยจะได้พบเจอ รวมถึงคนที่ให้การช่วยเหลือ
 
-The most important thing to remember about being a good DM is that the rules are a tool to help you and the players have fun. The rules aren’t in charge. You’re the DM — you’re in charge of the game.
+สิ่งสำคัญที่ต้องจำไว้ในการเป็น DM ที่ดีคือ กฏนั้นเป็นเครื่องมือที่จะช่วยให้คุณและผู้เล่นสนุก กฏไม่ใช่ตัวตัดสินทุกอย่าง คุณที่เป็น DM ต่างหากที่เป็นคนตัดสินในเกม
 
-#### Choosing a Dungeon Master
+#### เลือกดันเจียนมาสเตอร์ Choosing a Dungeon Master
 
-Who should be the DM for your gaming group? Whoever wants to be! The person who has the most drive to pull a group together and start up a game often ends up being the DM by default, but that doesn’t have to be the case.
+ใครควรจะเป็น DM สำหรับก๊วนเล่นเกมของคุณ ใครก็ได้! คนที่กระตือรือร้นที่จะดึงทุกคนมาเล่นด้วยกันมักจะเป็น DM โดยปริยาย แต่ก็ไม่แน่เสมอไป
 
-#### DM Tips
+#### ทิปสำหรับ DM DM Tips
 
-As the DM, you are the final authority when it comes to rules questions or disputes during the game. Here are some guidelines to help you arbitrate issues as they arise.
+เมื่อเป็น DM คุณจะเป็นผู้ตัดสินสุดท้ายเมื่อเกิดคำถามหรือข้อขัดแย้งในเกม นี่เป็นไกด์ไลน์ที่จะช่วยให้คุณจัดการปัญหาเมื่อเกิดขึ้น
 
 **When in doubt, make it up.** It’s better to keep the game moving than to get bogged down in the rules.
 
