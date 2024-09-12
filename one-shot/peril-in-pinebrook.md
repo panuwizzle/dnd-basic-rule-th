@@ -1,6 +1,7 @@
 ---
 layout: page
 ---
+
 # Peril in Pinebrook
 
 An Introductory Adventure for The World’s Greatest Roleplaying Game
@@ -168,3 +169,47 @@ Here are some tips for DMs that can help them run great games:
 **Listen to Your Players.** Encourage your players to speak to you, publicly or privately, if something in the game upsets them. Then respond appropriately. For instance, you can move past upsetting topics by quickly narrating a resolution to a scene, then quickly move to the next part of the story.
 
 ## Adventure Introduction
+
+If you are a player, stop reading here! The rest of this document is for the Dungeon Master only.
+
+In Peril in Pinebrook, the characters find a newborn dragon and must return the infant to its mother’s lair. The lair, however, is under attack by hostile forces. As the DM, you'll present the challenges the characters face as they take the baby dragon home.
+
+> Text that appears in a box like this is meant to be read aloud to the players. You can read boxed text word-for-word, or use your own words.
+
+To begin the adventure, show your players the character sheets. Then read the following passage aloud to your players:
+
+> We’re going to play a short game of Dungeons & Dragons. These character sheets have information about your characters on them. You can each have one character to play.
+
+You can let the players choose their characters, but if you're time is limited, consider choosing characters for them.
+
+Once each player has a character sheet, read the following:
+
+> Write your name in the space where it says “Player Name.”
+>
+> Your character already has a name, which you can use if you want, or you can change the name. There's space below the name where you can give your character a nickname and add your character's pronouns.
+>
+> Each character sheet has a “Description” area for your character’s appearance, personality, and attitude. Choose from the options there or make up your own. You can act out how your character behaves based on their description and personality.
+
+Offer to help the players fill out these parts of their character sheets if needed. Do your best to answer questions from players, but some questions are best answered as they come up during play. Let the players know that you'll give them more information along the way. Still, you may need to pause between each section to answer questions as you present the following information:
+
+> Let’s go over other parts of the character sheet. There is some information you should know before we start playing.
+>
+> **Race and Class**. Each character in D&D has a race and a class that help determine what things a character does best. Some of the other information on a character sheet is based on a character’s race and class.
+>
+> **Armor Class and Hit Points**. Each character has an Armor Class (also called AC) and hit points. Armor Class tells how hard it is to hit a character with an attack roll. The higher the AC, the harder it is to hit a character. Hit points determine how much damage a character can take. When a character takes damage, subtract that damage from the character’s hit points. If a character’s hit points reach 0, they are unconscious. You'll learn how to regain hit points later in the game.
+>
+> **Attacks**. Each character can make attacks with melee or ranged weapons, or with melee or ranged spells. “Melee” means an attack that is used when a character is right next to a monster. “Ranged” means an attack that is used when a character isn't near a monster. The number after the attack on a character sheet is added to a d20 roll (a roll of a 20-sided die) when a character attacks. The higher the number, the more likely the attack succeeds.
+>
+> **Skills**. Each character can use the skills listed on their character sheet. The number after a skill shows what the player adds to a d20 roll. The higher the number, the better the character is at that skill. If a character wants to use a skill that isn't on their character sheet, the player rolls a 20-sided die but doesn’t add a number to the roll.
+>
+> **Equipment**. A character has equipment they can use to overcome challenges during adventures. They also might find more equipment during adventures.
+>
+> **Special Ability**. Each character has a special ability. This ability lets a character do something during the adventure that other characters can’t do. You get to choose when your character uses their special ability, but a character can use a special ability only a limited number of times or under special circumstances.
+
+Explain how d20 rolls work with the following example:
+
+> The character Noorah Eldenfield has a shortbow attack that says “+5 to hit.” When Noorah attacks with a shortbow, Noorah's player rolls a d20 and adds 5 to the number rolled on the die. I’ll tell you if that attack hits the monster. If it does, Noorah’s shortbow attack also says “Damage 1d6 + 3.” The player rolls a 6-sided die and adds 3 to determine the damage dealt by the attack.
+
+A “Player Reference Sheet” also details some of the terms on the character sheets.
+
+Now let’s get on with the game!

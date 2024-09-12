@@ -13,7 +13,7 @@ menu: menu-basic-rules
 
 ไม่ว่าวัตรปฏิบัติของพวกเขาจะเป็นอย่างไร มองค์หลอมรวมเป็นหนึ่งกับความสามารถของพวกเขาในการควบคุมพลังที่ไหลเวียนในร่างกายได้อย่างวิเศษ ไม่ว่าจะเป็นการควบคุมเพื่อใช้เป็นพลังโจมตีในการต่อสู้ หรือเน้นไปในการป้องกันและความเร็ว พลังนี้เป็นตัวขับเคลื่อนกิจกรรมทุกอย่างของมองค์
 
-### เวทย์มนต์แห่งคิ (Ki)
+### เวทย์มนต์แห่งลมปราณ (คิ) (Ki)
 
 มองค์ศึกษาพลังงานเวทย์มนต์อย่างระมัดระวัง พลังงานที่สำนักส่วนใหญ่เรียกว่า "คิ" พลังงานนี้เป็นองค์ประกอบของเวทย์มนต์ที่มีอยู่ในมัลติเวอร์ส โดยเฉพาะอย่างยิ่ง องค์ประกอบที่ไหลเวียนอยู่ในร่างกายของสิ่งมีชีวิต มองค์ควบคุมพลังเหล่านี้ไว้ในร่างกายของพวกเขา ใช้สร้างผลพิเศษต่าง ๆ ที่เหนือกว่าร่างเนื้อของพวกเขาจะทำได้ และการโจมตีพิเศษบางอย่างของพวกเขายังสามารถควบคุมกระแสคิของคู่ต่อสู้ได้อีกด้วย เมื่อใช้พลังนี้ มองค์สามารถใช้ความเร็วเหนือมนุษย์และความแข็งแกร่งในการโจมตีด้วยมือเปล่า และเมื่อพวกเขามีประสบการณ์มากขึ้น การฝึกฝนการต่อสู้และความสามารถในการควบคุมคิยังมอบพลังอันมากมายแก่ร่างกายพวกเขาและรวมไปถึงการควบคุมคู่ต่อสู้อีกด้วย
 
@@ -21,154 +21,154 @@ menu: menu-basic-rules
 
 อารามขนาดเล็กที่มีกำแพงล้อมรอบกระจายตัวอยู่ทั่วไปในดินแดนของโลกของ D&D ผู้คนจำนวนหนึ่งหลบเร้นจากกระแสของชีวิตฆารวาส เป็นที่ที่เวลาเหมือนจะหยุดนิ่ง มองค์ผู้ซึ่งอาศัยอยู่ที่นั่นเพื่อค้นหาจุดสมบูรณ์ผ่านการพิจารณาจิตและการฝึกฝนที่เข้มข้น หลายคนเข้าอารามมาตั้งแต่เด็ก ถูกส่งให้มาอยู่หลังจากที่พ่อแม่เสียชีวิต หรือเมื่อไม่มีอาหารพอจะเลี้ยงดู หรือเพื่อฝากเป็นศิษย์เพราะอาจารย์เคยมีบุญคุณกับครอบครัว
 
-Some monks live entirely apart from the surrounding population, secluded from anything that might impede their spiritual progress. Others are sworn to isolation, emerging only to serve as spies or assassins at the command of their leader, a noble patron, or some other mortal or divine power.
+มองค์บางคนใช้ชีวิตอยู่อย่างสันโดษห่างจากผู้คน หลีกหนีทุกสิ่งที่จะรบกวนการฝึกจิตใจ บางคนเก็บตัวเงียบจะออกมาเมื่อต้องทำงานเป็นสายลับหรือนักฆ่าเมื่อได้รับคำสั่งจากหัวหน้าของพวกเขา, ขุนนางต้นสังกัด หรือองค์กรอำนาจหรือเทพเจ้าเท่านั้น
 
-The majority of monks don’t shun their neighbors, making frequent visits to nearby towns or villages and exchanging their service for food and other goods. As versatile warriors, monks often end up protecting their neighbors from monsters or tyrants.
+มองค์ส่วนใหญ่ไม่ได้เพิกเฉยต่อเพื่อนบ้าน พวกเขาไปมาหาสู่เมืองหรือหมู่บ้านข้างเคียงเสมอ เพื่อทำงานแลกอาหารหรือสิ่งจำเป็นอื่น ๆ และเพราะเป็นนักรบที่คล่องแคล่ว มองค์มักจะได้รับหน้าที่เป็นผู้ปกป้องเพื่อนบ้านจากมอนสเตอร์หรือผู้รุกรานเสมอ
 
-For a monk, becoming an adventurer means leaving a structured, communal lifestyle to become a wanderer. This can be a harsh transition, and monks don’t undertake it lightly. Those who leave their cloisters take their work seriously, approaching their adventures as personal tests of their physical and spiritual growth. As a rule, monks care little for material wealth and are driven by a desire to accomplish a greater mission than merely slaying monsters and plundering their treasure.
+สำหรับมองค์แล้วการมาเป็นนักผจญภัยหมายถึงการออกจากชีวิตที่เป็นระเบียบและเรียบง่ายมาเป็นผู้เร่ร่อน นี่อาจจะเป็นการเปลี่ยนแปลงที่ลำบากและมองค์ก็ไม่ได้ตัดสินใจอย่างฉาบฉวย ผู้ที่จากอารามมาจริงจังกับงานของพวกเขาเสมอ เป็นนักผจญภัยเพื่อขัดเกลาทั้งจิตวิญญาณและร่างกาย ตามกฏแล้วมองค์จะไม่สนใจความมั่งคั่งทางโลกและมักจะถูกผลักดันโดยความต้องการจะบรรลุภาระกิจที่สำคัญ มากกว่าการฆ่ามอนสเตอร์หรือสมบัติที่พบเจอ
 
-### Creating a Monk
+### การสร้างมองค์
 
-As you make your monk character, think about your connection to the monastery where you learned your skills and spent your formative years. Were you an orphan or a child left on the monastery’s threshold? Did your parents promise you to the monastery in gratitude for a service performed by the monks? Did you enter this secluded life to hide from a crime you committed? Or did you choose the monastic life for yourself?
+เมื่อคุณสร้างตัวละครมองค์ ให้คิดถึงความเชื่อมโยงของตัวละครกับอารมที่คุณได้เรียนรู้ทักษะและใช้ชีวิตอยู่ในช่วงก่อนออกผจญภัย คุณเป็นเด็กกำพร้าหรือเด็กที่ถูกทิ้งไว้หน้าอารามหรือไม่ พ่อแม่ของคุณสัญญาไว้กับอารามว่าจะให้คุณมาอยู่เพื่อตอบแทนบุญคุณหรือเปล่า คุณมาบวชเพราะหนีคดีหรือเปล่า หรือคุณแค่เลือกเส้นทางนี้เอง
 
-Consider why you left. Did the head of your monastery choose you for a particularly important mission beyond the cloister? Perhaps you were cast out because of some violation of the community’s rules. Did you dread leaving, or were you happy to go? Is there something you hope to accomplish outside the monastery? Are you eager to return to your home?
+พิจารณาว่าทำไมคุณถึงออกมาเป็นนักผจญภัย เจ้าอาวาสของอารามเลือกคุณเพื่อให้รับภาระกิจสำคัญหรือ? คุณอาจจะถูกไล่ออกมาเพราะทำอะไรผิดกฏ คุณออกมาด้วยความหวาดกลัวหรือออกมาอย่างมีความสุข มีอะไรที่คุณหวังจะทำให้สำเร็จนอกอารามหรือเปล่า คุณอยากจะกลับบ้านหรือไม่
 
-As a result of the structured life of a monastic community and the discipline required to harness ki, monks are almost always lawful in alignment.
+ด้วยผลจากวัตรปฏิบัติของสังคมในอารามรวมถึงการฝึกฝนเพื่อเพิ่มลมปราณ มองค์เกือบจะทั้งหมดจะอุปนิสัย (alignment) เป็นถือระเบียบ (lawful)
 
-#### Quick Build
+#### สร้างอย่างเร็ว
 
-You can make a monk quickly by following these suggestions. First, make Dexterity your highest ability score, followed by Wisdom. Second, choose the hermit background.
+คุณสามารถสร้างมองค์อย่างเร็วโดยทำตามคำแนะนำดังนี้ อย่างแรก ให้ความคล่องแคล่ว (Dexterity) เป็นคะแนนความสามารถสูงสุด ตามมาด้วยความรอบรู้ (Wisdom) อย่างที่สองเลือกภูมิหลังเป็นผู้สันโดษ (hermit background)
 
-| Level | Proficiency <br>Bonus | Martial <br>Arts | Ki <br>Points | Unarmored <br>Movement | Features                                                                                       |
-| ----- | --------------------- | ---------------- | ------------- | ---------------------- | ---------------------------------------------------------------------------------------------- |
-| 1st   | +2                    | 1d4              | —             | —                      | [Unarmored Defense](#MonkUnarmoredDefense), [Martial Arts](#MartialArts)                       |
-| 2nd   | +2                    | 1d4              | 2             | +10 ft.                | [Ki](#Ki), [Unarmored Movement](#UnarmoredMovement)                                            |
-| 3rd   | +2                    | 1d4              | 3             | +10 ft.                | [Monastic Tradition](#MonasticTradition), [Deflect Missiles](#DeflectMissiles)                 |
-| 4th   | +2                    | 1d4              | 4             | +10 ft.                | [Ability Score Improvement](#MonkAbilityScoreImprovement), [Slow Fall](#SlowFall)              |
-| 5th   | +3                    | 1d6              | 5             | +10 ft.                | [Extra Attack](#MonkExtraAttack), [Stunning Strike](#StunningStrike)                           |
-| 6th   | +3                    | 1d6              | 6             | +15 ft.                | [Ki-Empowered Strikes](#KiEmpoweredStrikes), [Monastic Tradition Feature](#MonasticTraditions) |
-| 7th   | +3                    | 1d6              | 7             | +15 ft.                | [Evasion](#Evasion), [Stillness of Mind](#StillnessofMind)                                     |
-| 8th   | +3                    | 1d6              | 8             | +15 ft.                | [Ability Score Improvement](#MonkAbilityScoreImprovement)                                      |
-| 9th   | +4                    | 1d6              | 9             | +15 ft.                | [Unarmored Movement Improvement](#UnarmoredMovement)                                           |
-| 10th  | +4                    | 1d6              | 10            | +20 ft.                | [Purity of Body](#PurityofBody)                                                                |
-| 11th  | +4                    | 1d8              | 11            | +20 ft.                | [Monastic Tradition Feature](#MonasticTraditions)                                              |
-| 12th  | +4                    | 1d8              | 12            | +20 ft.                | [Ability Score Improvement](#MonkAbilityScoreImprovement)                                      |
-| 13th  | +5                    | 1d8              | 13            | +20 ft.                | [Tongue of the Sun and Moon](#TongueoftheSunandMoon)                                           |
-| 14th  | +5                    | 1d8              | 14            | +25 ft.                | [Diamond Soul](#DiamondSoul)                                                                   |
-| 15th  | +5                    | 1d8              | 15            | +25 ft.                | [Timeless Body](#TimelessBody)                                                                 |
-| 16th  | +5                    | 1d8              | 16            | +25 ft.                | [Ability Score Improvement](#MonkAbilityScoreImprovement)                                      |
-| 17th  | +6                    | 1d10             | 17            | +25 ft.                | [Monastic Tradition Feature](#MonasticTraditions)                                              |
-| 18th  | +6                    | 1d10             | 18            | +30 ft.                | [Empty Body](#EmptyBody)                                                                       |
-| 19th  | +6                    | 1d10             | 19            | +30 ft.                | [Ability Score Improvement](#MonkAbilityScoreImprovement)                                      |
-| 20th  | +6                    | 1d10             | 20            | +30 ft.                | [Perfect Self](#PerfectSelf)                                                                   |
+| เลเวล | โบนัสความเชี่ยวชาญ | ศิลปะการต่อสู้ | คะแนนปราณ | กระบวนท่า | ความสามารถ                                                                                     |
+| ----- | ------------------ | -------------- | --------- | --------- | ---------------------------------------------------------------------------------------------- |
+| 1st   | +2                 | 1d4            | —         | —         | [การป้องกันโดยไร้เกราะ (Unarmored Defense)](#MonkUnarmoredDefense), [ศิลปะการต่อสู้ (Martial Arts)](#MartialArts)                       |
+| 2nd   | +2                 | 1d4            | 2         | +10 ft.   | [ปราณ (Ki)](#Ki), [การเคลื่อนไหวไร้เกราะ (Unarmored Movement)](#UnarmoredMovement)                                            |
+| 3rd   | +2                 | 1d4            | 3         | +10 ft.   | [Monastic Tradition](#MonasticTradition), [Deflect Missiles](#DeflectMissiles)                 |
+| 4th   | +2                 | 1d4            | 4         | +10 ft.   | [Ability Score Improvement](#MonkAbilityScoreImprovement), [Slow Fall](#SlowFall)              |
+| 5th   | +3                 | 1d6            | 5         | +10 ft.   | [Extra Attack](#MonkExtraAttack), [Stunning Strike](#StunningStrike)                           |
+| 6th   | +3                 | 1d6            | 6         | +15 ft.   | [Ki-Empowered Strikes](#KiEmpoweredStrikes), [Monastic Tradition Feature](#MonasticTraditions) |
+| 7th   | +3                 | 1d6            | 7         | +15 ft.   | [Evasion](#Evasion), [Stillness of Mind](#StillnessofMind)                                     |
+| 8th   | +3                 | 1d6            | 8         | +15 ft.   | [Ability Score Improvement](#MonkAbilityScoreImprovement)                                      |
+| 9th   | +4                 | 1d6            | 9         | +15 ft.   | [Unarmored Movement Improvement](#UnarmoredMovement)                                           |
+| 10th  | +4                 | 1d6            | 10        | +20 ft.   | [Purity of Body](#PurityofBody)                                                                |
+| 11th  | +4                 | 1d8            | 11        | +20 ft.   | [Monastic Tradition Feature](#MonasticTraditions)                                              |
+| 12th  | +4                 | 1d8            | 12        | +20 ft.   | [Ability Score Improvement](#MonkAbilityScoreImprovement)                                      |
+| 13th  | +5                 | 1d8            | 13        | +20 ft.   | [Tongue of the Sun and Moon](#TongueoftheSunandMoon)                                           |
+| 14th  | +5                 | 1d8            | 14        | +25 ft.   | [Diamond Soul](#DiamondSoul)                                                                   |
+| 15th  | +5                 | 1d8            | 15        | +25 ft.   | [Timeless Body](#TimelessBody)                                                                 |
+| 16th  | +5                 | 1d8            | 16        | +25 ft.   | [Ability Score Improvement](#MonkAbilityScoreImprovement)                                      |
+| 17th  | +6                 | 1d10           | 17        | +25 ft.   | [Monastic Tradition Feature](#MonasticTraditions)                                              |
+| 18th  | +6                 | 1d10           | 18        | +30 ft.   | [Empty Body](#EmptyBody)                                                                       |
+| 19th  | +6                 | 1d10           | 19        | +30 ft.   | [Ability Score Improvement](#MonkAbilityScoreImprovement)                                      |
+| 20th  | +6                 | 1d10           | 20        | +30 ft.   | [Perfect Self](#PerfectSelf)                                                                   |
 
-## Class Features
+## ความสามารถของคลาส
 
-As a monk, you gain the following class features.
+เมื่อเป็นมองค์ คุณจะได้ความสามารถประจำคลาสดังนี้
 
-#### Hit Points
+#### ฮิทพอยท์
 
-**Hit Dice:** 1d8 per monk level
+**ฮิทไดซ์:** 1d8 ต่อเลเวลมองค์
 
-**Hit Points at 1st Level:** 8 + your Constitution modifier
+**ฮิตพอยท์เมื่อเลเวล 1:** 8 + your Constitution modifier
 
-**Hit Points at Higher Levels:** 1d8 (or 5) + your Constitution modifier per monk level after 1st
+**ฮิตพอยท์เมื่อเลเวลสูงขึ้น:** 1d8 (or 5) + your Constitution modifier per monk level after 1st
 
-#### Proficiencies
+#### ความชำนาญ
 
-Armor: None
+เกราะ: ไม่มี
 
-Weapons: Simple weapons, shortswords
+อาวุธ: อาวุธอย่างง่าย, ดาบสั้น
 
-Tools: Choose one type of artisan’s tools or one musical instrument
+เครื่องมือ: เลือกหนึ่งรายการจากเครื่องมือช่างฝีมือหรือจากเครื่องดนตรี
 
-Saving Throws: Strength, Dexterity
+การทอยป้องกัน: ความแข็งแกร่ง (Strength), ความคล่องแคล่ว (Dexterity)
 
-Skills: Choose two from Acrobatics, Athletics, History, Insight, Religion, and Stealth
+ทักษะ: เลือกสองทักษะจาก ทักษะกายกรรม Acrobatics, การกรีฑา Athletics, ประวัติศาสตร์ History, การมองทะลุ Insight, ศาสนา Religion, และ การลอบเร้น Stealth
 
-#### Equipment
+#### อุปกรณ์
 
-You start with the following equipment, in addition to the equipment granted by your background:
+คุณจะเริ่มด้วยอุปกรณ์ดังต่อไปนี้ เพิ่มเติมจากอุปกรณ์ที่ได้รับจากภูมิหลัง
 
-- (a) a shortsword or (b) any simple weapon
-- (a) a dungeoneer’s pack or (b) an explorer’s pack
-- 10 darts
+- (a) ดาบสั้นหนึ่งเล่ม หรือ (b) อาวุธพื้นฐานใด ๆ
+- (a) ชุดอุปกรณ์ลุยดันเจียน หรือ (b) ชุดอุปกรณ์นักสำรวจ
+- ลูกดอก (dart) 10 ลูก
 
-### Unarmored Defense
+### การป้องกันโดยไร้เกราะ (Unarmored Defense) {#MonkUnarmoredDefense}
 
-Beginning at 1st level, while you are wearing no armor and not wielding a shield, your AC equals 10 + your Dexterity modifier + your Wisdom modifier.
+เริ่มที่เลเวล 1 เมื่อคุณไม่ได้ใส่เกราะหรือโล่ ค่า AC ของคุณจะเท่ากับ 10 + ค่าโมดิไฟเออร์ของความคล่องแคล่ว (Dexterity modifier) + ค่าโมดิไฟเออร์ความรอบรู้ (Wisdom modifier)
 
-### Martial Arts
+### ศิลปะการต่อสู้ (Martial Arts) {#MartialArts}
 
-At 1st level, your practice of martial arts gives you mastery of combat styles that use unarmed strikes and monk weapons, which are shortswords and any simple melee weapons that don’t have the two-handed or heavy property.
+เริ่มที่เลเวล 1 การฝึกฝนศิลปะการต่อสู้ทำให้คุณเชี่ยวชาญสไตล์การต่อสู้ด้วยมือเปล่าและการใช้อาวุธของมองค์ ซึ่งคือดาบสั้นและอาวุธประชิดตัวพื้นฐาน (simple melee weapon) ต่าง ๆ ที่ไม่มีคุณสมบัติใช้สองมือ (two-hand) หรือเป็นอาวุธหนัก (heavy)
 
-You gain the following benefits while you are unarmed or wielding only monk weapons and you aren’t wearing armor or wielding a shield:
+คุณจะได้รับผลพิเศษดังนี้ขณะที่คุณไม่ได้ถืออาวุธหรือถืออาวุธสำหรับมองค์ และไม่ได้ใส่เกราะหรือถือโล่:
 
-- You can use Dexterity instead of Strength for the attack and damage rolls of your unarmed strikes and monk weapons.
-- You can roll a d4 in place of the normal damage of your unarmed strike or monk weapon. This die changes as you gain monk levels, as shown in the Martial Arts column of the Monk table.
-- When you use the Attack action with an unarmed strike or a monk weapon on your turn, you can make one unarmed strike as a bonus action. For example, if you take the Attack action and attack with a quarterstaff, you can also make an unarmed strike as a bonus action, assuming you haven’t already taken a bonus action this turn.
+- คุณสามารถใช้คะแนนความคล่องแคล่ว (Dexterity) แทนที่จะใช้คะแนนความแข็งแกร่ง (Strength) ในการทอยโจมตีและทอยความเสียหายของการใช้ "การโจมตีมือเปล่า" (unarmed strikes) และโจมตีด้วยอาวุธมองค์
+- คุณสามารถทอย d4 แทนค่าความเสียหายปกติของการใช้ การโจมตีด้วยมือเปล่า (unarmed strike) หรืออาวุธมองค์ ลูกเต๋าจะเปลี่ยนไปเมื่อเลเวลมองค์ของคุณสูงขึ้น ดังที่แสดงในคอลัมภ์ "ศิลปะการต่อสู้" ในตารางมองค์
+- เมื่อคุณใช้แอ็คชัน "โจมตี" (Attack) ด้วย การโจมตีด้วยมือเปล่า หรือใช้อาวุธมองค์ในเทิร์นของคุณ คุณสามารถใช้ การโจมตีด้วยมือเปล่าได้หนึ่งครั้งด้วยโบนัสแอ็คชันได้ ตัวอย่างเช่น ถ้าคุณเลือกใช้แอ็คชันโจมตี (Attack) และโจมตีด้วยไม้พลอง คุณยังสามารถเลือกโจมตีด้วยมือเปล่าโดยใช้โบนัสแอ็คชันได้ หากคุณยังไม่ได้ใช้โบนัสแอ็คชันไปในเทิร์นนั้น
 
-Certain monasteries use specialized forms of the monk weapons. For example, you might use a club that is two lengths of wood connected by a short chain (called a nunchaku) or a sickle with a shorter, straighter blade (called a kama). Whatever name you use for a monk weapon, you can use the game statistics provided for the weapon in chapter 5, “Equipment.”
+ในบางสำนักก็มีการใช้อาวุธมองค์ในรูปแบบที่พิเศษออกไป ตัวอย่างเช่น คุณอาจจะใช้พลองสองท่อน (เรียกว่านันชาคุ) หรือเคียวที่มีใบเคียวสั้นตรง (เรียกว่าคามะ) ไม่ว่าคุณจะใช้อาวุธชื่ออะไร คุณสามารถใช้ค่าสแต็ตที่มีในข้อมูลอาวุธในบทที่ 5 "อุปกรณ์" ได้
 
-### Ki
+### ปราณ (Ki) {#Ki}
 
-Starting at 2nd level, your training allows you to harness the mystic energy of ki. Your access to this energy is represented by a number of ki points. Your monk level determines the number of points you have, as shown in the Ki Points column of the Monk table.
+เริ่มที่เลเวล 2 การฝึกฝนของคุณทำให้คุณใช้พลังวิเศษในรูปของปราณได้ การเข้าถึงพลังงานนี้แสดงออกมาเป็นจำนวนครั้งที่ใช้ปราณได้ (Ki point) เลเวลของมองคืของคุณจะเป็นตัวกำหนดว่ามีจำนวนเท่าไร ดังที่แสดงในคอลัมภ์ คะแนนปราณ ในตาราง
 
-You can spend these points to fuel various ki features. You start knowing three such features: Flurry of Blows, Patient Defense, and Step of the Wind. You learn more ki features as you gain levels in this class.
+คุณสามารถใช้คะแนนนี้เป็นเชื้อเพลิงในการใช้ท่าปราณต่าง ๆ คุณเริ่มด้วยการใช้ได้ 3 ท่า เพลงหมัดหิมะโปรยปราย, สงบสยบเคลื่อนไหว และฝ่าเท้าท่องลม คุณจะเรียนรู้ท่าปราณได้มากขึ้นเมื่อเลเวลสูงขึ้น
 
-When you spend a ki point, it is unavailable until you finish a short or long rest, at the end of which you draw all of your expended ki back into yourself. You must spend at least 30 minutes of the rest meditating to regain your ki points.
+เมื่อคุณใช้คะแนนปราณ มันจะหายไปจนกว่าคุณจะจบการพักสั้นหรือพักยาว คุณต้องใช้เวลาอย่างน้อย 30 นาทีในการพักเพื่อทำสมาธิให้คะแนนปราณกลับมา
 
-Some of your ki features require your target to make a saving throw to resist the feature’s effects. The saving throw DC is calculated as follows:
+ท่าปราณบางท่าของคุณเป็นการโจมตีที่ต้องให้ศัตรูทอยป้องกันเพื่อหลบเลี่ยงผลจากท่านั้น ค่าความยากในการทอยป้องกัน (Saving throw DC) จะคำนวนจาก:
 
-**Ki save DC** = 8 + your proficiency bonus + your Wisdom modifier
+**ระดับความยากของการป้องกันท่าปราณ (Ki save DC)** = 8 + ค่าโบนัสความเชี่ยวชาญ + ค่าโมดิไฟเออร์ความรอบรู้ (Wisdom modifier)
 
-#### Flurry of Blows
+#### เพลงหมัดหิมะโปรยปราย (Flurry of Blows)
 
-Immediately after you take the [Attack] action on your turn, you can spend 1 ki point to make two unarmed strikes as a bonus action.
+โดยทันทีหลังจากคุณใช้แอ็คชันโจมตี (Attack) ในเทิร์นของคุณ คุณสามารถใช้ 1 คะแนนปราณในการโจมตีด้วยมือเปล่า 2 ครั้งด้วยการใช้โบนัสแอ็คชัน
 
-#### Patient Defense
+#### สงบสยบเคลื่อนไหว (Patient Defense)
 
-You can spend 1 ki point to take the [Dodge] action as a bonus action on your turn.
+คุณสามารถใช้ 1 คะแนนปราณเพื่อใช้แอ็คชันการหลบหลีก (Dodge) ด้วยการใช้โบนัสแอ็คชันในเทิร์นของคุณ
 
-#### Step of the Wind
+#### ฝ่าเท้าท่องลม (Step of the Wind)
 
-You can spend 1 ki point to take the [Disengage] or Dash action as a bonus action on your turn, and your jump distance is doubled for the turn.
+คุณสามารถใช้ 1 คะแนนปราณในการใช้แอ็คชัน ผละหนี (Disengage) หรือแอ็คชันการวิ่งเร็ว (Dash) ด้วยโบนัสแอ็คชันในเทิร์นของคุณ และระยะการกระโดดจะไกลขึ้นเป็นสองเท่าในเทิร์นนั้น
 
-### Unarmored Movement
+### การเคลื่อนที่โดยไร้เกราะ (Unarmored Movement) {#UnarmoredMovement}
 
-Starting at 2nd level, your speed increases by 10 feet while you are not wearing armor or wielding a shield. This bonus increases when you reach certain monk levels, as shown in the Monk table.
+เริ่มที่เลเวล 2 ความเร็วของคุณจะเพิ่มขึ้น 10 ฟุตขณะที่คุณไม่สวมเกราะหรือถือโล่ โบนัสนี้จะเพิ่มขึ้นเมื่อเลเวลสูงขึ้นตามที่แสดงในตาราง
 
-At 9th level, you gain the ability to move along vertical surfaces and across liquids on your turn without falling during the move.
+ที่เลเวล 9 คุณจะได้ความสามารถในการเคลื่อนที่ไปบนพื้นผิวตามแนวตั้งและบนผืนน้ำหรือของเหลวในเทิร์นของคุณโดยไม่ตกในขณะเคลื่อนที่
 
-### Monastic Tradition
+### วิถีแห่งสำนัก (Monastic Tradition) {#MonasticTradition}
 
-When you reach 3rd level, you commit yourself to a monastic tradition: the Way of the Open Hand, the Way of Shadow, or the Way of the Four Elements, all detailed at the end of the class description. Your tradition grants you features at 3rd level and again at 6th, 11th, and 17th level.
+เมื่อคุณถึงเลเวล 3 คุณจะปวรณาตัวตามวิถีแห่งสำนัก: วิถีแห่งฝ่ามือ (the Way of the Open Hand), วิถีแห่งเงา (the Way of Shadow) หรือวิถีแห่งจตุธาตุ (the Way of the Four Elements) ทั้งหมดมีรายละเอียดในคำอธิบายคลาส แต่ละวิถีจะให้ความสามารถแก่คุณเมื่อถึงเลเวล 3 และอีกครั้งเมื่อเลเวล 6, 11 และ 17
 
-### Deflect Missiles
+### ปัดกระสุน (Deflect Missiles) {#DeflectMissiles}
 
-Starting at 3rd level, you can use your reaction to deflect or catch the missile when you are hit by a ranged weapon attack. When you do so, the damage you take from the attack is reduced by 1d10 + your Dexterity modifier + your monk level.
+เริ่มที่เลเวล 3 คุณสามารถใช้รีแอ็คชันขอคุณในการปัดหรือจับลูกธนู หรือหน้าไม้ หรือสิ่งที่ถูกยิงมานั้นได้เมื่อคุณถูกโจมตีด้วยอาวุธยิงระยะไกล เมื่อทำดังนั้นความเสียหายจะลดลงเป็น 1d10 + ค่าโมดิไฟเออร์ความคล่องแคล่ว (Dexterity modifier) + เลเวลมองค์
 
-If you reduce the damage to 0, you can catch the missile if it is small enough for you to hold in one hand and you have at least one hand free. If you catch a missile in this way, you can spend 1 ki point to make a ranged attack with the weapon or piece of ammunition you just caught, as part of the same reaction. You make this attack with proficiency, regardless of your weapon proficiencies, and the missile counts as a monk weapon for the attack, which has a normal range of 20 feet and a long range of 60 feet.
+ถ้าความเสียหายลดลงเป็น 0 คุณสามารถจับลูกศรหรือสิ่งที่ถูกยิงมานั้นได้หากมันมีขนาดเล็กพอที่จะจับได้ด้วยมือข้างเดียว และคุณต้องมีมือว่างอย่างน้อย 1 ข้าง ถ้าคุณจับกระสุนนั้นได้ในกรณีนี้ คุณสามารถใช้ 1 คะแนนปราณในการโจมตีระยะไกลด้วยอาวุธหรือสิ่งที่ถูกยิงมาที่คุณจับไว้ได้นั้น โดยให้เป็นส่วนหนึ่งของรีแอ็คชัน คุณจะโจมตีโดยมีโบนัสความเชี่ยวชาญด้วย โดยไม่คำนึงถึงว่าคุณมีความเชี่ยวชาญในอาวุธนั้นหรือไม่ และกระสุนที่ปัดได้นั้นจะนับเป็นอาวุธมองค์ในการโจมตี ซึ่งจะมีระยะปกติอยู่ที่ 20 ฟุตและระยะไกลสุด 60 ฟุต
 
-### Ability Score Improvement
+### เพิ่มคะแนนความสามารถ (Ability Score Improvement) {#MonkAbilityScoreImprovement}
 
 เมื่อคุณถึงเลเวล 4 และอีกครั้งเมื่อเลเวล 8, 12, 16 และ 19 คุณสามารถเพิ่มคะแนนความสามารถหนึ่งอย่างตามที่คุณเลือกได้ 2 คะแนน หรือเพิ่ม 1 คะแนนให้กับสองทักษะก็ได้ โดยปกติแล้วคุณจะไม่สามารถเพิ่มคะแนนความสามารถได้มากกว่า 20 หากใช้คุณลักษณะนี้
 
-### Slow Fall
+### วิชาตัวเบา (Slow Fall) {#SlowFall}
 
-Beginning at 4th level, you can use your reaction when you fall to reduce any falling damage you take by an amount equal to five times your monk level.
+เริ่มที่เลเวล 4 คุณสามารถใช้รีแอ็คชันในการลดความเสียหายจากการตก (falling) ที่คุณจะได้รับ เป็นจำนวน 5 เท่าของเลเวลมองค์
 
-### Extra Attack
+### การโจมตีพิเศษ (Extra Attack) {#MonkExtraAttack}
 
-Beginning at 5th level, you can attack twice, instead of once, whenever you take the [Attack] action on your turn.
+เริ่มที่เลเวล 5 คุณสามารถโจมตีได้ 2 ครั้ง เมื่อคุณใช้แอ็คชันโจมตี (Attack) ในเทิร์นของคุณ
 
-### Stunning Strike
+### ฝ่ามือพญายม (Stunning Strike) {#StunningStrike}
 
-Starting at 5th level, you can interfere with the flow of ki in an opponent’s body. When you hit another creature with a melee weapon attack, you can spend 1 ki point to attempt a stunning strike. The target must succeed on a Constitution saving throw or be [stunned] until the end of your next turn.
+เริ่มที่เลเวล 5 คุณสามารถรบกวนการไหลเวียนของปราณในร่างกายของฝ่ายตรงข้ามได้ เมื่อคุณโจมตีสิ่งมีชีวิตอื่นด้วยอาวุธประชิดตัว คุณสามารถใช้ 1 คะแนนปราณในการพยายามโจมตีให้ศัตรูมึนงง เป้าหมายต้องทอยป้องกันความอดทน (Constitution saving throw) หรือติดสถานะมึนงง (stunned) จนกว่าจะจบเทิร์นต่อไปของคุณ
 
-### Ki-Empowered Strikes
+### หมัดรัศมีปราณ (Ki-Empowered Strikes) {#KiEmpoweredStrikes}
 
-Starting at 6th level, your unarmed strikes count as magical for the purpose of overcoming resistance and immunity to nonmagical attacks and damage.
+เริ่มที่เลเวล 6 การโจมตีด้วยมือเปล่าของคุณจะนับเป็นการโจมตีด้วยเวทย์มนต์ (magical) เพื่อเลี่ยงการต้านทานหรือการมีภูมิคุ้มกันต่อการโจมตีและความเสียหายจากการโจมตีแบบไม่มีเวทย์มนต์
 
 ### Evasion
 
@@ -238,6 +238,8 @@ When you miss with an attack roll, you can spend 1 to 3 ki points to increase yo
 
 Three traditions of monastic pursuit are common in the monasteries scattered across the multiverse. Most monasteries practice one tradition exclusively, but a few honor the three traditions and instruct each monk according to his or her aptitude and interest. All three traditions rely on the same basic techniques, diverging as the student grows more adept. Thus, a monk need choose a tradition only upon reaching 3rd level.
 
+### Way of the Four Elements
+### Way of Shadow
 ### Way of the Open Hand
 
 Monks of the Way of the Open Hand are the ultimate masters of martial arts combat, whether armed or unarmed. They learn techniques to push and trip their opponents, manipulate ki to heal damage to their bodies, and practice advanced meditation that can protect them from harm.
