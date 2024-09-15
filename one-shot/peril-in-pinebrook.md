@@ -2,24 +2,23 @@
 layout: page
 ---
 
-# Peril in Pinebrook
+# ภยันตรายในหมู่บ้านไพน์บรูก
 
-An Introductory Adventure for The World’s Greatest Roleplaying Game
+เรื่องราวการผจญภัยเริ่มต้นสำหรับเกมสวมบทบาทที่ยิ่งใหญ่ที่สุดในโลก
 
-# Welcome to Dungeons & Dragons: Peril in Pinebrook
+# ยินดีต้อนรับสู่ดันเจียนแอนด์ดรากอน: ภยันตรายในหมู่บ้านไพน์บรูก
 
-Welcome to the adventure of a lifetime!
+ยินดีต้อนรับสู่การผจญภัยตลอดชีวิต!
 
-Peril in Pinebrook is an introductory Dungeons & Dragons (also known as D&D) adventure designed for younger players, but it can be enjoyed by players of all ages!
+ภยันตรายในหมู่บ้านไพน์บรูก (Peril in Pinebrook) เป็นเนื้อเรื่องการผจญภัยเริ่มต้นของเกมดันเจียนแอนด์ดรากอนสำหรับผู้เล่นอายุน้อย แต่มันก็สามารถทำให้ผู้เล่นทุกอายุสนุกได้
 
-Peril in Pinebrook contains four ready-to-play characters that you can use to run your first D&D game. The simplified rules allow a Dungeon Master (also known as the DM) to easily run the game without needing other rules materials or rules knowledge.
+ภยันตรายในหมู่บ้านไพน์บรูกมีตัวละคร 4 ตัวพร้อมสำหรับเล่นเกม D&D เกมแรกของคุณ กฏที่ถูกปรับให้ง่ายขึ้นทำให้ดันเจียนมาสเตอร์ (หรืออีกชื่อหนึ่งคือ DM) เพื่อให้ง่ายต่อการดำเนินเกมโดยไม่ต้องใช้หนังสือกฏเพิ่มเติมหรือต้องมีความรู้เรื่องกฏของเกมมาก่อน
 
-The suggested number of participants for this experience is one DM and four players, but instructions describe how to run a game for fewer players. If you have more than four players, any of the ready-to-play characters can be used by more than one player.
+จำนวนผู้เข้าร่วมที่แนะนำในการเล่นคือ DM 1 คนและผู้เล่น 4 คน แต่เราก็มีคำแนะนำสำหรับผู้เล่นจำนวนน้อยกว่านั้น ถ้าคุณมีผู้เล่นมากกว่า 4 คน สามารถใช้ข้อมูลตัวละครสำเร็จมาใช้ซ้ำได้
 
-## The Basics
+## พื้นฐานเกม
 
-Dungeons & Dragons is a collaborative storytelling and roleplaying game. Each player takes on the role of an adventuring character: a hero with skill and knowledge—and
-sometimes magic—that lets them overcome challenges and achieve greatness!
+Dungeons & Dragons is a collaborative storytelling and roleplaying game. Each player takes on the role of an adventuring character: a hero with skill and knowledge—and sometimes magic—that lets them overcome challenges and achieve greatness!
 
 One of the participants in the game takes the role of the Dungeon Master (DM). The DM acts as the lead storyteller, the keeper of secrets, and the referee. This document provides everything you need to know to get started as a DM.
 
@@ -46,6 +45,11 @@ Each player should also have a way to make notes and keep track of changes to th
 ### Character Sheets
 
 This packet includes four character sheets and a handy guide that explains some of the rules and character options in more detail. Give each player one character sheet. If you have more than four players, they can change the names and descriptions on a duplicate character sheet so that they’ll have unique characters with similar abilities and equipment.
+
+- Evandon Haart
+- Gallantine Birchenbough
+- Noorah Eldenfield
+- Shalefire Stoutheart
 
 The “Helping the Characters” section later in this document provides more information about using character sheets.
 
@@ -213,3 +217,509 @@ Explain how d20 rolls work with the following example:
 A “Player Reference Sheet” also details some of the terms on the character sheets.
 
 Now let’s get on with the game!
+
+## Starting the Adventure
+
+Estimated Time to Play This Encounter: 10 minutes
+
+When you and the players are ready to begin the adventure, read the following:
+
+> You are from the village of Pinebrook, a small settlement near the base of a mountain range called the Spine of the World. In addition to their normal jobs, the citizens of Pinebrook take turns patrolling the forest and hills around the village, making sure the area is safe for the loggers who work in the forest and the miners who dig in the mountains for iron ore. Today, it's your turn to patrol the forest with some of your friends.
+>
+> Dangerous creatures sometimes wander the woods, but it has been safe recently. Rumors have spread through the area that a friendly silver dragon recently established a lair in the nearest mountain. The more hostile creatures of the mountains, especially the dangerous ice trolls, haven't been seen in the past two months. Yesterday, however, a patrol saw large, frosty troll footprints in the forest. Could the rumors of a friendly silver dragon be just rumors after all? Your patrol today is led by the head of the village guards, Captain Emmajeen Kole. Captain Kole glances nervously at the forest trail before she nods at your group.
+>
+> "I've not patrolled with any of you before. Tell me a little about yourselves."
+
+Ask each player to give their character's name or nickname and describe what they look like. They can reveal the things they are carrying that the other characters would see, explain what attacks and skills they have, and maybe even describe their personalities. They can use their character sheets as prompts.
+
+### Roleplaying
+
+D&D lets players act as their characters. Players might use a different voice or move as their character might. But if a player isn't comfortable roleplaying in that way, they can describe their character as if from a book or story instead.
+
+It's okay if some players seem hesitant to talk or have trouble roleplaying. It's more important to make the players feel comfortable than to make them talk. To help them feel more comfortable with roleplaying, consider asking them one or two of the following questions:
+
+- What's your character's name or nickname?
+- What does your character look like?
+- What does your character sound like when they talk?
+- What is your character good at doing?
+- What does your character carry as they patrol the forest?
+- How does your character feel about being on patrol the day
+
+after evidence of ice trolls was found in this area? Once all the characters have introduced themselves, Captain Kole speaks again:
+
+> "Well, this forest needs to be patrolled, so let's get to it. I'm ready to fight if we have to!"
+
+Let the players respond for their characters if they want to. Then, describe how Captain Kole moves carefully into the forest, motioning for the characters to follow.
+
+Proceed to Encounter 1: A Not-So-Fearsome Dragon.
+
+## Encounter 1: A Not-So-Fearsome Dragon
+
+Estimated Time to Play This Encounter: 10 minutes
+
+After the the characters follow Captain Kole into the forest, read the following:
+
+> You move along the forest trail for fifteen minutes before Captain Kole stops and holds up a hand. "Do you hear that?" she asks.
+>
+> You're going to make a Perception check to see if you can hear what Captain Kole hears. "Perception" is listed on your character sheet under "Skills." Each of you should roll a 20-sided die and add the number next to your Perception skill on your character sheet. Then tell me the total of your Perception check.
+
+## Perception Checks
+
+A player rolls a d20 and adds the modifier written next to the Perception skill on their character sheet to make a Perception check. The Difficulty Class to succeed on this check is 10 (written as DC 10), so if anyone gets a Perception check of 10 or higher, you explain that they hear a noise coming from the thorny forest underbrush.
+
+If no character succeeds on the Perception check, Captain Kole points in the direction of the sound. Continue reading:
+
+> The underbrush at the edge of the trail rustles as a creature the size of a large dog crawls from the thorns and leaves. At first, the creature looks like a strange lizard made of metal. But as you look more closely, you see that it is a small dragon with blue-gray scales and a long, pointy tongue.
+>
+> As the dragon crawls in your direction, it feebly tries to scrape pieces of silver eggshell off its head and face. It makes a hissy, whimpering sound.
+
+Ask the players what they want to do. Let them play their characters as they react, talk, speculate, and investigate further. As long as the characters don't try to hurt the baby silver dragon, Captain Kole simply stares in confusion, unsure what to do next.
+
+### Roleplaying and Information
+
+The players will probably ask questions throughout the adventure. To give the players the proper information, try dividing answers into the following three categories:
+
+**Information the Characters Know.** If the players ask about information their characters would know, you can tell them that information. For example, the characters always know what they see, hear, and smell.
+
+**Information the Characters Might Know.** Players might learn information based on their characters' skills. For instance, Shalefire or Gallantine could ask if this is a baby silver dragon. As the DM, you can have their players make a DC 10 check with an appropriate skill to see if they know the answer to that question. Shalefire could use the Animal Handling skill, while Gallantine could use the Nature skill. If they succeed on the check (d20 + skill modifier is 10 or higher), you can tell them "Yes! This is a newborn silver dragon." You might add that they often eat meat and other food as well.
+
+**Information the Characters Don't Know Yet.** A question like, "Where did this baby dragon come from?" is something the characters don't know, at least not yet. When this happens, you can simply say, "You're not sure, but you can try to find out."
+
+If the characters fail their checks or don't ask the right questions, you can have Captain Kole provide information. She can confirm that this is a baby silver dragon, and she refuses to allow the characters to harm it in any way.
+
+After the players ask all their questions and roleplay their reactions to the dragon, read the following:
+
+> Captain Kole pulls a book from her backpack, The Practically Complete Guide to Dragons. She flips to the middle of the book. "It's true! This is a newborn silver dragon. The mother's lair must be in the nearest mountain just beyond the forest, as the rumors said. We need to get this baby to its mother quickly. I wonder how the baby got so far from home?"
+>
+> Captain Kole hesitates, then sighs. "I must return to Pinebrook and tell them what we've found. I need you to take the baby to the lair and its mother. Protect this dragon with your lives. Trails in the forest lead right up to the mountain. Give this poor thing a name and get it some food. It looks weak."
+>
+> She tears a page from the book and holds it out. "Here. This might be useful. According to the book, silver dragons are peaceful and usually like people."
+
+The page Captain Kole gives the characters is found in appendix A. It contains translations of Draconic, the language of dragons, into the Common language the characters know. The characters don't need to read it now, but the information will be useful in the adventure.
+
+### Feeding and Care
+
+After Captain Kole leaves, the characters should attempt to find food for the dragon. You may want to point out that all the characters have rations listed on their character sheets under "Other Equipment." Alternatively, Shalefire can make a DC 10 Survival check or Gallantine can make a DC 10 Nature check to find berries and nuts the dragon can eat. Remind players how to make d20 rolls if needed.
+
+After the dragon is fed, it says one word: "Nytha." The characters won't learn this until later, but the baby just called the characters "Mama" in Draconic.
+
+Once the dragon eats, it perks up and follows the characters. They can carry the dragon, who enjoys the attention. The dragon also loves belly rubs!
+
+### Moving the Adventure Forward
+
+The mountain Captain Kole pointed the characters toward is visible above the trees.
+
+When the players are ready, proceed to Encounter 2: Living Icicles.
+
+## Encounter 2: Living Icicles
+
+Estimated Time to Play This Encounter: 10 minutes
+
+Tell the players that the woods are quiet as the characters travel through the forest. They easily find the trails that lead to the mountain, and no forest creatures bother them.
+
+When the characters arrive at the base of the mountain, read the following:
+
+> By carefully following the correct forest trails, you arrive at the base of the mountain. You see a cave opening not far ahead. If a dragon built a lair in the mountain, this would be an obvious entrance.
+
+The cave is the only visible entrance leading to the dragon's lair. When the baby dragon gets near the entrance, it sniffs the air and struggles to move closer, recognizing the smell of home.
+
+As the characters move closer to the cave, read the following:
+
+> The cave entrance is wide and filled with sunlight, but the cave quickly grows dark beyond, with no way to see if there is anything inside. Broken icicles and patches of frosty snow cover the ground at the cave entrance.
+>
+> Suddenly, the shards of ice begin to twitch. The icicles and snow come together to form small ice creatures with wicked, pointy claws. One of them cries, "Intruders! Slash 'em good!" as they attack!
+
+Five living icicles dwell in the cave entrance. If you are playing this adventure with fewer than four characters, remove one living icicle per player missing, to a minimum of two living icicles. Use the information below to play the living icicles during combat.
+
+> Living Icicle
+> Armor Class 10
+>
+> Hit Points 7
+>
+> Attack
+> Claws. Melee Weapon Attack: +2 to hit. Hit: 1d6 slashing damage.
+
+Read the following to get the players ready for their first combat:
+
+> Get ready for your first combat! Look at the "Attacks" section on your character sheet. If you want to make a melee attack, your character needs to move up to the icicle creatures. If you want to make a ranged attack, you can stay back.
+>
+> Roll a 20-sided die and add the modifier listed by the attack you're using. Tell me the total, and I'll tell you if the attack hit or missed. If you hit, roll a 6-sided die and add the damage modifier listed by the attack you're using and tell me the total.
+
+### Taking Turns
+
+First, describe how the monsters are vicious, and the danger they present. Highlight how sharp their claws are. Try to make the players feel as if they're in a battle for their characters' lives. If the monsters make one or two successful attacks, that helps with this feeling. Let the characters act first, starting with the player on your left and going clockwise. Ask each player what they want to do, and encourage them to describe their actions so everyone can imagine what the scene looks like.
+
+After all the players have acted, any undefeated living icicles attack. Each monster that still has hit points moves to a different character and makes an attack using their claws.
+
+Roll a d20 and add the attack modifier (+2) to the roll. If the total equals or exceeds the Armor Class of the character being attacked, the attack hits. Roll 1d6, and tell the player to subtract that damage from their hit points. If the attack misses, nothing happens. Either way, describe the attack. Do the claws rend open a wound or rake harmlessly off armor?
+
+Continue taking turns until all the living icicles are defeated. You can describe the living icicles shattering or melting as they're defeated. Or perhaps the living icicles flee when they're defeated. Just make it clear to the players that the living icicles can't be chased and caught, perhaps by having them flow into narrow cracks in the mountainside where the characters can't follow.
+
+> **DM Tip**
+> Running an exciting combat in D&D is like a thrilling amusement park ride: the players often want to be scared and excited, but they don't want the excitement to lead to certain character death. This is where you can perform storytelling and mathematical magic.
+>
+> You can intervene if the characters seem to be losing the battle. For instance, you can give the characters advantage on attack rolls or give the monsters disadvantage on attack rolls. See the "Using the Rules" section earlier in this document for details about advantage and disadvantage. Changing probabilities like this can improve the characters' odds in defeating the monsters.
+>
+> Rather than having a monster attack one character until they fall unconscious, have the monster attack a different character each turn. This tactic keeps more characters in the fight longer.
+>
+> You can even say the baby dragon rushed in and took down a monster, but try not to use outside help very often.
+
+### After the Characters Succeed
+
+Once the living icicles are defeated, ask the players what they want to do next. If they need help, suggest that they search the area.
+
+#### Searching the Area
+
+Some monsters carry treasure, so it's often a good idea for characters to search the monsters as well as the area around them. Unless treasure is hidden, the characters can easily find it without having to make a check.
+
+Just inside the cave entrance, the characters find a worn leather backpack. Inside the backpack are the following items: a package of dried meat, five torches, flint and steel for starting fires, and a pouch containing 12 gold pieces.
+
+#### Dividing Treasure
+
+Let the players divide up the treasure as they wish. If they start to argue over who gets what, use the dragon to calm everyone down. The baby cries if the characters argue!
+
+#### Healing Injured Characters
+
+If any characters took damage from the living icicles, the best way to heal the damage is for Evandon to use their special ability to cast a spell called Cure Wounds. Shalefire also has a special ability to heal their own damage, but only once during the adventure. (The full rules of D&D have other ways to heal damage, but this adventure relies on Evandon's spells, Shalefire's special ability, and on other healing opportunities later in the adventure.)
+
+#### What Did We Just Fight?
+
+Living icicles are magical creatures that ice trolls sometimes use to guard places. A character who succeeds on a DC 10 check using skills such as Arcana or History knows this and can tell the other characters what they know.
+
+### Moving the Adventure Forward
+
+The baby dragon tries to run into the cave. When the characters are ready, proceed to Encounter 3: A Dangerous Lair.
+
+## Encounter 3: A Dangerous Lair
+
+Estimated Time to Play This Encounter: 15 minutes
+
+After defeating the living icicles and entering the cave, the characters must contend with the hazards and dangers of the tunnels that lead to the silver dragon's lair. When the characters enter the cave, read the following:
+
+> The front of the cave is lit by sunlight coming through the opening, leaving the back of the cave in darkness. The cave walls contain rough chalk drawings of creatures that look like trolls dancing and working.
+
+Ask the players to make either a DC 10 History or Religion check for their characters. Although Evandon is the only character who has a bonus to their Religion skill and Gallantine is the only character with a bonus to their History skill, the other characters can still attempt a History or Religion check. The players just don't add anything to the d20 roll when they do.
+
+If any of the characters succeeds on the skill check, tell the players that ice trolls once lived and worked in the cave.
+
+Even if no one succeeds on the skill check, continue by reading the following:
+
+> The baby dragon gets more excited after entering the cave, as if it knows it's close to home. Barely visible in the shadows at the back of the cave, a passageway turns into a tunnel that slopes upward toward the center of the mountain.
+
+Because the cave is dark and spooky beyond the entrance, the characters need to use the torches found in the worn leather backpack to light their way as they explore. The flint and steel in the backpack can be used to light the torches.
+
+### Reaching the Lair
+
+The characters must overcome three challenges to safely reach the hatching cavern of the silver dragon's lair. Each challenge can be overcome in a variety of ways, using skills, equipment, or attacks.
+
+The challenge descriptions suggest potential ways characters can overcome each challenge. However, if the players come up with other ways that might work, let them make a d20 roll that somehow connects to their idea. Imagination often leads to an even more creative story!
+
+#### Challenge 1: Climbing Icy Walls
+
+As the characters move through the passage, read the following:
+
+> The cold, frosty passage continues until you reach an ice-covered wall. The passage continues fifty feet above. You'll have to climb the wall to move deeper into the mountain.
+
+Characters must succeed on a DC 10 Athletics or Acrobatics check to climb the wall. If a character fails the check, roll 1d6. Tell the player to subtract that number from the character's hit points to represent the damage the character takes from falling before they eventually reach the top.
+
+Noorah has a Climber's Kit on her character sheet (under "Other Equipment") that gives her advantage on the check. If a character who reaches the top has a rope, they can lower the rope to help the other characters. Characters who use the rope can reach the top without making a check.
+
+The passage then continues upward.
+
+> **DM Tip**
+> If a character carries the baby dragon and falls during the climb, the dragon doesn't take damage. You can reward a character protecting the baby dragon by giving them advantage on certain rolls.
+
+#### Challenge 2: Magical Ice Mirror
+
+As the characters continue, read the following:
+
+> The winding, upward-sloping passage is interrupted by a thin sheet of solid ice. Through the ice sheet, you can see the passage continues on the other side. As your torchlight flickers, the ice suddenly becomes as reflective as a mirror, its surface shimmering strangely. In those reflections, you and your companions are all silver dragons, and the baby dragon looks like a human toddler with silver skin.
+
+Let the players roleplay and react to this unique discovery, then continue:
+
+> The head of a large, platinum-colored dragon appears in the ice and speaks. You understand the words the Dragon speaks, even though it isn't speaking in a language you know.
+>
+> "You are on a blessed quest, but you must speak the correct words in the correct language to enter the lair of one of my children. What two words correctly answer this question: What type of creature are you escorting home?"
+
+Ask the players to make a DC 10 Arcana, History, or Religion check. If a character succeeds on the check, tell them that the figure in the ice represents Bahamut, the god of the metalliccolored dragons (brass, bronze, copper, gold, and silver).
+
+The correct answer to the question is "silver dragon." However, the characters must say this in the Draconic language. They can use the page from Captain Kole's book to find the correct words: "orn darastrix."
+
+If the players need help answering the question, or if they get the answer partly right, Bahamut's reflection can provide hints such as, "You have one word correct, but you need the other."
+
+If any character speaks the correct words, read the following:
+
+> The ice mirror instantly melts, splashing you all with icy-cold water. But instead of freezing you, the water tingles as it runs down your skin, clothes, and armor. It feels wonderful.
+
+Bahamut blessed this water. Tell your players that the healing magic restores each character's hit points to the maximum amount listed on their character sheets.
+
+Additionally, each character has advantage on the first roll they make in the next challenge (the ice slides).
+
+Characters might use other methods of getting past the ice mirror, such as melting the ice with a torch or smashing it with a weapon. If they do that, however, they don't receive Bahamut's healing magic. Also, a character who breaks the mirror takes damage. Roll 1d6 and tell the player to subtract that number from their character's hit points when it shatters.
+
+> **DM Tip**
+> Even if the players roll poorly, always allow them to continue forward in the adventure. Consequences for failing challenges might include character's losing hit points, which might make the final encounter more challenging. But you don't want to prevent the characters from continuing with the adventure because of bad luck.
+
+#### Challenge 3: Navigating the Ice Slides
+
+The final stretch of tunnels leading to the silver dragon's hatching cavern is made of several icy slides that join, separate, and crisscross each other as they descend. Read the following:
+
+> The passage has taken you higher and higher, and now you stand atop an icy cliff, looking down into a huge cavern inside the mountain. Slides made of stone and ice provide a way down, but they're steep and slick. Furthermore, these slides merge, crisscross, and loop around each other in a dizzying maze. The slides look like the only way forward. Some end in solid ice walls. Others are covered with razor-sharp icicles. You need to choose the best slides to get down.
+>
+> Suddenly, you hear a cracking sound. The cliff you're standing on is starting to collapse! If you don't jump on a slide now, you'll fall!
+
+Each character must quickly jump on one of the slides. Once a character starts to slide, they can't stop. However, they can switch to a different intersecting slide while zipping down at high speed.
+
+**Finding the Best Path.** Before starting to slide, the characters can try to quickly figure out which slide is safest. Ask the players to make a DC 10 Investigation or Perception check to determine the best choice. If a character succeeds on this check, they choose the best slide to reach the bottom safely. The character doesn't take any damage, but you can describe the wild ride they experience as they slide toward the cavern floor.
+
+**Changing Slides.** A character who fails the check jumps onto a slide and quickly reaches dangerous sections of razorsharp ice shards, long drops, ice walls, and other hazards. The character must succeed on a DC 15 Acrobatics or Athletics check to jump to a safer slide to avoid taking damage. A character who doesn't have Acrobatics or Athletics on their character sheet can still make checks with those skills, but they don't add any modifier to the d20 roll.
+If a character fails the check, roll 1d6. Tell the player to subtract that number from their character's hit points to represent the damage they take while reaching the bottom of the slide.
+
+**Describing the Action.** As the characters ride these dangerous slides, think about ways that you or the players might describe how the characters jump from one slide to another, go through loops and rolls, and narrowly miss hitting each other. Give the players a chance to describe what their characters are going through.
+
+> **DM Tip**
+> If one character makes a check to find a safe path down the slides, the other players might say their characters follow on the same slide, which might make this challenge too easy. You can increase the challenge by saying the top of the safe slide collapses just after the first character starts down it. You can do this each time a new character chooses a slide to ensure that each character has to navigate their own path.
+
+#### Moving the Adventure Forward
+
+It's a short walk from the bottom of the cave to the hatching cavern. The characters are ready to face the final threat! Proceed to Encounter 4: Dragon Eggs and Soaring Silver.
+
+## Encounter 4: Dragon Eggs and Soaring Silver
+
+Estimated Time to Play This Encounter: 15 minutes
+
+When the characters enter the hatching cavern, read the following:
+
+> This large chamber is filled with stalactites and stalagmites covered in ice. The ceiling slopes up toward an ice-plugged hole far above you. On the ground in the center of the chamber, two large silver eggs rest upon heaps of frozen snow. A third spot now holds nothing but broken shell pieces. A fourth spot looks like it also held an egg, but that egg is missing.
+>
+> Between you and the eggs stand two strange creatures the size of horses. They have bodies like frogs, but their skin is pure white and they have mouths full of sharp teeth.
+>
+> The creatures are moving threateningly toward the two remaining eggs in the nest, but you've interrupted them. They turn toward you and hiss. Then with powerful hops, they hurl themselves toward you!
+
+These creatures are egg snatchers, trained by ice trolls to steal dragon eggs. If the characters don't intervene, the last two eggs will be lost!
+
+> Egg Snatchers
+> Armor Class 12
+>
+> Hit Points 18
+>
+> Attack
+> Bite. Melee Weapon Attack: +4 to hit. Hit: 1d6 + 2 piercing damage.
+
+There are three egg snatchers. If you have three or fewer players, remove one egg snatcher, leaving the characters with two enemies. If you have two or fewer players, reduce the starting hit points of the two egg snatchers to 10.
+
+This combat runs the same way as in "Encounter 2: Living Icicles." Refer to the DM Tip in that encounter to remind the players how to make melee and ranged attacks if needed.
+
+### Taking Turns
+
+Let the characters act first, starting with the player on your left and going clockwise. Ask each player what they want to do.
+
+After all the players have acted, any undefeated egg snatchers attack. Each monster that still has hit points moves to a different character and makes an attack with their bite.
+
+Roll a d20 and add the attack modifier (+4) to the roll. If the total equals or exceeds the Armor Class of the character being attacked, the attack hits. Roll 1d6 and add the damage modifier (+2). Tell the player to subtract that damage from their hit points. If the attack misses, nothing happens. Either way, describe the attack. Perhaps a bite clamps around an ankle, or maybe the egg snatcher breaks a tooth on a piece of armor.
+
+Describe the egg snatchers falling to the ground as they are defeated, or fleeing into the darkness too fast for the characters to follow.
+
+> **DM Tip**
+> A character that reaches 0 hit points falls unconscious and remains unconscious until they regain hit points through healing. At the end of the encounter, any unconscious player characters regain 1 hit point automatically.
+
+### After the Characters Succeed
+
+Once the eggs snatchers are defeated, the baby dragon crawls into the nest, settles among the broken eggshells, and falls asleep.
+
+### Moving the Adventure Forward
+
+Before the characters can do anything else, the mother dragon returns! Read the following:
+
+> A loud crash erupts from high above. Chunks of ice and snow fall around you as an enormous silver dragon bursts through a frozen section of the cavern ceiling. The dragon plummets and lands before you, frigid air streaming from between sharp teeth.
+>
+> "What is happening here?" the dragon roars.
+
+The characters have some explaining to do! Proceed to the Conclusion.
+
+## Conclusion
+
+Estimated Time to Play This Encounter: 10 minutes
+
+The angry silver dragon waits for the characters to explain themselves. This is an opportunity for the players to roleplay as their characters.
+
+During the conversation, you can have the dragon reveal that her name is Hysvearorn (Rorn for short). "The Dragon" section below gives you more information to help you roleplay the silver dragon.
+
+If the players are reluctant to speak, ask one of the following questions:
+
+- "The dragon has asked you what you are doing here. What do you say?"
+- "How does your character feel about standing before an incredibly angry dragon the size of a small house?"
+- "What can you do or say to the dragon to prove to her that you came here to return her baby?"
+  As long as the characters don't do anything silly, Rorn quickly realizes they aren't here to steal her eggs, but are returning her baby instead.
+
+> **DM Tip**
+> Dragons are incredibly powerful. If the players decide to have their characters attack Rorn, you can handle the situation in different ways:
+>
+> -The dragon looks at them with disappointment and tells them to stop being silly.
+> -Ask the characters to make Nature checks, then tell the character with the highest check that they know a dragon this powerful could defeat all the characters easily.
+> -Let the characters make attacks or cast spells if they like, then tell them that the dragon ignores those attempts to harm her.
+> -If the characters continue acting in a hostile or belligerent manner, Rorn uses her magical dragon breath on them. This leaves the characters unhurt but unable to move. She then leaves them outside the mountain unharmed, but they don't get any reward from her.
+
+### The Dragon
+
+Here are some characteristics of the silver dragon you can use to roleplay her:
+
+- Hysvearorn is an adult silver dragon. Her full name translates to "Soaring Silver."
+- She tells the characters to call her Rorn, since it's easier for nondragons to say than her full name.
+- If the characters explain what happened, the dragon quickly calms down and thanks them for rescuing her baby.
+- Rorn is friendly when not angered, and she likes people. In peaceful times, she likes to spend her time sharing stories with folks.
+- If the characters ask about the name "Nytha" that the baby dragon said, Rorn explains that it means "Mama" in the Draconic language.
+- Rorn says dragons call their young "wyrmlings," not babies.
+  Rorn can also share details of what happened to her eggs:
+
+- Rorn recently made her lair here to prepare for the hatching of her wyrmlings. She drove away the dangerous ice trolls who lived here.
+- As her eggs were getting close to hatching, the ice trolls attacked Rorn and stole one of her eggs. Rorn chased the egg thieves and has been gone from the lair for several hours.
+- The ice trolls took the egg into a tunnel in another mountain, but Rorn couldn't fit into the tunnel. She doesn't know where it might lead.
+  The rescued wyrmling tells its mother what happened to it, which Rorn can also share with the characters:
+
+- The wyrmling hatched while Rorn was chasing the egg thieves. Finding itself alone, it wandered from the lair and into the forest.
+- The characters found the wyrmling and took good care of it on the way home.
+
+#### More Wyrmlings!
+
+As the characters speak with Rorn, the other two eggs hatch. Rorn watches carefully as the wyrmlings break their shells and then crawl over to nuzzle their mother. She pulls some frozen meat from the nest and feeds them.
+
+### The Reward
+
+After the two other baby dragons hatch, Rorn speaks to the characters. Read the following:
+
+> Rorn thanks you again for your help. "Please, take these as a sign of my gratitude." She digs into the snow where the eggs were set and pulls out a small shiny diamond for each of you.
+>
+> "More importantly, you have already bonded with my first hatchling. He deserves to continue to learn what it is like to grow up in the realm of people. Would you be willing to take him back to your settlement and raise him? I will watch over your area to help you out, and I'm always here if you have any questions."
+>
+> The dragon continues. "I have another request for you. When I find the exact location where the ice trolls took my final egg, would you retrieve it, so my child can be safe from whatever the ice trolls have planned for them?"
+
+Let the characters react to Rorn's offer. No matter how the characters respond to Rorn's requests, she is kind and polite to them if they are kind and polite to her.
+
+#### Treasure
+
+Each of the small diamonds is worth 50 gold pieces. Each character can add this to their character sheet under "Other Equipment."
+
+### Return to Pinebrook
+
+At the conclusion of the conversation, Rorn shows the characters a secret passage that leads from the mountain, which ends the characters' adventure... for now!
+
+## Appendix A
+
+| Common    | Draconic  |
+| --------- | --------- |
+| above     | svern     |
+| after     | ghent     |
+| air       | thrae     |
+| and       | vur       |
+| animal    | baeshra   |
+| armor     | litrix    |
+| arrow     | svent     |
+| ash       | vignar    |
+| axe       | garurt    |
+| bag       | waeth     |
+| battle    | vargach   |
+| beautiful | vorel     |
+| before    | ghoros    |
+| behind    | zara      |
+| beside    | unsiti    |
+| big       | turalisj  |
+| black     | vutha     |
+| blue      | ulhar     |
+| bow       | vaex      |
+| brass     | auraj     |
+| bravery   | sveargith |
+| bronze    | aujir     |
+| burn      | valignat  |
+| but       | shar      |
+| cave      | waere     |
+| century   | ierikc    |
+| claw      | gix       |
+| copper    | rach      |
+| dance     | vaeri     |
+| danger    | korth     |
+| day       | kear      |
+| dead      | loex      |
+| demon     | kothar    |
+| die       | loreat    |
+| dragon    | darastrix |
+| dwarf     | tundar    |
+| earth     | edar      |
+| elf       | vaecaesin |
+| enchanted | levex     |
+| enemy     | irlym     |
+| evil      | malsvir   |
+| far       | karif     |
+| fire      | ixen      |
+| flee      | osvith    |
+| fly       | austrat   |
+| food      | achthend  |
+| foolish   | pothoc    |
+| forest    | caesin    |
+| friend    | thurirl   |
+| gem       | kethend   |
+| give      | majak     |
+| gnome     | terunt    |
+| go        | gethrisj  |
+| gold      | aurix     |
+| good      | bensvelk  |
+| green     | achuak    |
+| hate      | dartak    |
+| home      | okarthel  |
+| human     | munthrek  |
+| in        | persvek   |
+| leader    | maekrix   |
+| magic     | arcaniss  |
+| many      | throden   |
+| meat      | rhyaex    |
+| mountain  | verthicha |
+| name      | ominak    |
+| near      | leirith   |
+| night     | thurkear  |
+| no        | thrice    |
+| ogre      | ghontix   |
+| on        | shafear   |
+| peace     | martivir  |
+| pet       | kosjirl   |
+| rain      | oposs     |
+| red       | charir    |
+| rest      | ssifisv   |
+| scroll    | sjir      |
+| secret    | irthos    |
+| see       | ocuir     |
+| shadow    | sjach     |
+| silver    | orn       |
+| skin      | molik     |
+| small     | kosj      |
+| smart     | othokent  |
+| so        | zyak      |
+| soar      | hysvear   |
+| song      | miirik    |
+| sorcerer  | vorastrix |
+| speak     | renthisj  |
+| stone     | ternesj   |
+| storm     | kespek    |
+| strong    | versvesh  |
+| student   | thurae    |
+| sword     | caex      |
+| take      | clax      |
+| talk      | ukris     |
+| thief     | virlym    |
+| through   | erekess   |
+| travel    | ossalur   |
+| treasure  | rasvim    |
+| ugly      | nurh      |
+| under     | onureth   |
+| valley    | arux      |
+| victory   | vivex     |
+| want      | tuor      |
+| war       | aryte     |
+| water     | hesjing   |
+| we        | yth       |
+| weapon    | laraek    |
+| white     | aussir    |
+| wizard    | levethix  |
+| yes       | axun      |
+| you       | wux       |
+
+“Believe me, it took me quite some time to learn Draconic words, but once I did, it greatly helped my relationships with dragons.”

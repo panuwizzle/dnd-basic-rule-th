@@ -89,26 +89,26 @@ Geographical locations marked on both the DM’s map and the players’ map are 
 
 [a map of the Sword Coast]
 
-Conyberry
+#### Conyberry {#Conyberry}
 The Triboar Trail runs right through this abandoned town, which was sacked by barbarians years ago and now lies in ruins. A dirt road extending south of the town leads to a supposedly abandoned shrine dedicated to Savras (god of divination and fate). For more information on this location, see “Shrine of Savras."
 
-Crags
+#### Crags
 These rocky, windswept hills are dotted with old mines that have become infested with monsters.
 
-High Road
+#### High Road {#HighRoad}
 This highway hugs the coast, connecting Neverwinter to the coastal cities of Luskan to the north and Waterdeep to the south. For years, the stretch of road south of Neverwinter fell into disuse because of frequent monster attacks. Of late, efforts have been made to keep the road safe, with light patrols of guards on horseback moving between Neverwinter and Leilon.
 
-Kryptgarden Forest
+#### Kryptgarden Forest
 This ancient forest tucked behind the Sword Mountains contains the ruins of bygone dwarven civilizations.
 
-Leilon
+#### Leilon {#Leilon}
 This small town along the High Road is in the midst of rebuilding itself after being abandoned for years. Its inhabitants hail from Neverwinter and are in the paid service of the city’s Lord Protector, who has tasked them with turning Leilon into a fortified settlement that can ward off threats from the Mere of Dead Men.
 
 #### Mere of Dead Men
 
 Travelers on the High Road, which skirts the mere to the east, must resist being lured into this cold and desolate swamp by bobbing [will-o’-wisps](/basic-rules/monsters/will-o-wisps). Countless adventurers have perished in the mere, drawn by tales of ruined castles half-sunk in the mire.
 
-#### Neverwinter
+#### Neverwinter {#Neverwinter}
 
 This city was badly damaged when Mount Hotenow erupted some fifty years ago. Now, the City of Skilled Hands works to rebuild under the watchful eye of its Lord Protector, Dagult Neverember, who rules in the absence of an heir to Neverwinter’s crown. At present, no legitimate heirs to the old Alagondar royal line are known to exist, and many believe that the line is ended. Lord Neverember, taking no chances, quietly pays off or disposes of anyone claiming a connection to the rulers of old.
 
@@ -116,11 +116,11 @@ This city was badly damaged when Mount Hotenow erupted some fifty years ago. Now
 
 The forest east of Neverwinter seems to have a magical quality about it, or at least an air of mystical secrecy. Reclusive spellcasters are rumored to dwell deep within.
 
-#### Phandalin
+#### Phandalin {#ExploringPhandalin}
 
 This nondescript mining settlement, nestled in the foothills of the Sword Mountains, serves as the starting location for the adventure. For more information, see “[Welcome to Phandalin.]()”
 
-#### Starmetal Hills
+#### Starmetal Hills {#StarmetalHills}
 
 This range of rocky knolls is so named because the area has been the impact site of a number of meteor showers over millennia. The hills are haunted by ruthless barbarian tribes, giving others little reason to visit the area.
 
@@ -128,7 +128,7 @@ This range of rocky knolls is so named because the area has been the impact site
 
 These steep, craggy, snow-capped mountains are home to scattered tribes of orcs as well as other monsters. Icespire Peak is the tallest among them. Their foothills are strewn with the ruins of bygone kingdoms, and more than a few half-forgotten dungeons and tombs.
 
-#### Triboar Trail
+#### Triboar Trail {#TriboarTrail}
 
 This path south of Neverwinter Wood is the safest route between Neverwinter and the town of Triboar, located in the Dessarin Valley to the east (off the map). The trail is not patrolled, and monster attacks are commonplace.
 
@@ -268,10 +268,10 @@ Sister Garaele is a member of the Harpers, a scattered network of adventurers an
 | d6  | Tale                                                                                                                                                                                                                                                                                                                                                                                                                                                                     |
 | --- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
 | 1   | “Once again, the orcs have come down from the mountains to prey on the lowlands! If Neverwinter doesn’t send help soon, the orcs will overrun Phandalin and destroy everything we’ve worked so hard to rebuild.”                                                                                                                                                                                                                                                         |
-| 2   | “As the Triboar Trail runs east, it passes through the ruins of Conyberry, a town sacked by barbarians years ago. There’s a ruined temple south of Conyberry where it’s said the locals hid their gold.” (If the characters visit the temple, see “[Shrine of Savras](https://www.dndbeyond.com/sources/doip/shrine-of-savras)”.)                                                                                                                                        |
+| 2   | “As the Triboar Trail runs east, it passes through the ruins of Conyberry, a town sacked by barbarians years ago. There’s a ruined temple south of Conyberry where it’s said the locals hid their gold.” (If the characters visit the temple, see “[Shrine of Savras](./shrine-of-savras)”.)                                                                                                                                        |
 | 3   | “Strange magic pervades Neverwinter Wood, confounding navigators and obscuring the ancient ruins of bygone kingdoms lost in its depths.”                                                                                                                                                                                                                                                                                                                                 |
-| 4   | “Falcon’s Hunting Lodge is the only safe haven in Neverwinter Wood. It lies deep in the forest along a river’s edge, and wealthy nobles venture there to hunt while under Falcon’s protection. Falcon is a retired veteran of many wars, and it’s said he’ll offer free room and board to anyone who brings him a bottle of wine.” (If the characters pay Falcon a visit, see “[Falcon’s Hunting Lodge](https://www.dndbeyond.com/sources/doip/falcons-hunting-lodge)”.) |
-| 5   | “West of Phandalin, on the coast, is an old stone lighthouse. Ships are drawn to this gleaming tower like moths to a flame, and are doomed to crash upon its rocks. Their wrecks must be filled with treasure!” (If the characters visit the lighthouse, see “[Tower of Storms](https://www.dndbeyond.com/sources/doip/tower-of-storms)”.)                                                                                                                               |
+| 4   | “Falcon’s Hunting Lodge is the only safe haven in Neverwinter Wood. It lies deep in the forest along a river’s edge, and wealthy nobles venture there to hunt while under Falcon’s protection. Falcon is a retired veteran of many wars, and it’s said he’ll offer free room and board to anyone who brings him a bottle of wine.” (If the characters pay Falcon a visit, see “[Falcon’s Hunting Lodge](./falcons-hunting-lodge)”.) |
+| 5   | “West of Phandalin, on the coast, is an old stone lighthouse. Ships are drawn to this gleaming tower like moths to a flame, and are doomed to crash upon its rocks. Their wrecks must be filled with treasure!” (If the characters visit the lighthouse, see “[Tower of Storms](./tower-of-storms)”.)                                                                                                                               |
 | 6   | “Some folk claim to have seen a dragon flying through the high clouds. At that distance, it’s hard to gauge the creature’s size, but some say it’s as big as an elephant and has gleaming white scales.”                                                                                                                                                                                                                                                                 |
 
 #### Townmaster’s Hall
@@ -352,23 +352,23 @@ If Cryovain loses more than 10 hit points in battle, the dragon [disengages]() f
 
 | d20 | Location |
 | --- | -------------------------------------------------------------------------------------------------- |
-| 1 | [Axeholm](https://www.dndbeyond.com/sources/doip/axeholm) |
-| 2 | [Butterskull Ranch](https://www.dndbeyond.com/sources/doip/butterskull-ranch) |
-| 3 | [Conyberry](https://www.dndbeyond.com/sources/dnd/doip/running-the-adventure#Conyberry) |
-| 4 | [Dragon Barrow](https://www.dndbeyond.com/sources/doip/dragon-barrow) |
-| 5 | [Dwarven Excavation](https://www.dndbeyond.com/sources/doip/dwarven-excavation) |
-| 6 | [Falcon’s Hunting Lodge](https://www.dndbeyond.com/sources/doip/falcons-hunting-lodge) |
-| 7 | [Gnomengarde](https://www.dndbeyond.com/sources/doip/gnomengarde) |
-| 8 | [High Road](https://www.dndbeyond.com/sources/dnd/doip/running-the-adventure#HighRoad) |
-| 9 | [Icespire Hold](https://www.dndbeyond.com/sources/doip/icespire-hold) |
-| 10 | [Leilon](https://www.dndbeyond.com/sources/dnd/doip/running-the-adventure#Leilon) |
-| 11 | [Loggers’ Camp](https://www.dndbeyond.com/sources/doip/loggers-camp) |
-| 12 | [Mountain’s Toe Gold Mine](https://www.dndbeyond.com/sources/doip/mountains-toe-gold-mine) |
-| 13 | [Neverwinter](https://www.dndbeyond.com/sources/dnd/doip/running-the-adventure#Neverwinter) |
-| 14 | [Phandalin](https://www.dndbeyond.com/sources/dnd/doip/running-the-adventure#ExploringPhandalin) |
-| 15 | [Shrine of Savras](https://www.dndbeyond.com/sources/doip/shrine-of-savras) |
-| 16 | [Starmetal Hills](https://www.dndbeyond.com/sources/dnd/doip/running-the-adventure#StarmetalHills) |
-| 17 | [Tower of Storms](https://www.dndbeyond.com/sources/doip/tower-of-storms) |
-| 18 | [Triboar Trail](https://www.dndbeyond.com/sources/dnd/doip/running-the-adventure#TriboarTrail) |
-| 19 | [Umbrage Hill](https://www.dndbeyond.com/sources/doip/umbrage-hill) |
-| 20 | [Woodland Manse](https://www.dndbeyond.com/sources/doip/woodland-manse) |
+| 1 | [Axeholm](./axeholm) |
+| 2 | [Butterskull Ranch](./butterskull-ranch) |
+| 3 | [Conyberry](#Conyberry) |
+| 4 | [Dragon Barrow](./dragon-barrow) |
+| 5 | [Dwarven Excavation](./dwarven-excavation) |
+| 6 | [Falcon’s Hunting Lodge](./falcons-hunting-lodge) |
+| 7 | [Gnomengarde](./gnomengarde) |
+| 8 | [High Road](#HighRoad) |
+| 9 | [Icespire Hold](./icespire-hold) |
+| 10 | [Leilon](#Leilon) |
+| 11 | [Loggers’ Camp](./loggers-camp) |
+| 12 | [Mountain’s Toe Gold Mine](./mountains-toe-gold-mine) |
+| 13 | [Neverwinter](#Neverwinter) |
+| 14 | [Phandalin](#ExploringPhandalin) |
+| 15 | [Shrine of Savras](./shrine-of-savras) |
+| 16 | [Starmetal Hills](#StarmetalHills) |
+| 17 | [Tower of Storms](./tower-of-storms) |
+| 18 | [Triboar Trail](#TriboarTrail) |
+| 19 | [Umbrage Hill](./umbrage-hill) |
+| 20 | [Woodland Manse](./woodland-manse) |
