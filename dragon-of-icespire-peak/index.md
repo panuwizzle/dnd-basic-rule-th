@@ -9,9 +9,9 @@ menu: menu-doip
 
 หนังสือนี้เขียนขึ้นเพื่อให้ดันเจียนมาสเตอร์อ่าน มันมีเนื้อเรื่องการผจญภัยสำหรับเกมดันเจียนแอนด์ดรากอนที่จบสมบูณ์ และมีคำอธิบายสำหรับสิ่งมีชีวิตทุกตัวที่ปรากฏในการผจญภัย มันยังสอนคุณถึงการดำเนินเกม D&D อีกด้วย
 
-## Overview
+## ข้อมูลโดยทั่วไป
 
-A D&D adventure is a collection of locations, quests, and challenges that inspires you to tell a story. The outcome of that story is determined by the actions and decisions of the adventurers — and, of course, the luck of the dice. You can run Dragon of Icespire Peak for as few as one player or as many as five players. Each player starts with a 1st-level character.
+เนื้อเรื่องการผจญภัย (adventure) ของ D&D เป็นชุดรวมของสถานที่ เควส และการท้าทายที่จะให้แรงบันดาลใจแก่คุณในการเล่าเรื่อง ผลจากเรื่องราวนั้นจะถูกกำหนดโดยการกระทำและการตัดสินใจของนักผจญภัย และแน่นอนที่สุดคือโชคที่เกิดกับการทอยลูกเต๋า คุณสามารถรันมังกรแห่งยอดเขาไอส์สไปร์โดยมีผู้เล่นน้อยสุดหนึ่งคนและมากที่สุด 5 คน ผู้เล่นแต่ละคนเริ่มต้นที่เลเวล 1
 
 The adventure is set a short distance from the city of Neverwinter in the Sword Coast region of the Forgotten Realms setting. The Sword Coast is part of the North — a vast realm of free settlements surrounded by lawless, untamed wilderness. You don’t need to be a Forgotten Realms expert to run the adventure, as everything you need to know about the setting is contained in this book.
 
@@ -90,18 +90,23 @@ Geographical locations marked on both the DM’s map and the players’ map are 
 [a map of the Sword Coast]
 
 #### Conyberry {#Conyberry}
+
 The Triboar Trail runs right through this abandoned town, which was sacked by barbarians years ago and now lies in ruins. A dirt road extending south of the town leads to a supposedly abandoned shrine dedicated to Savras (god of divination and fate). For more information on this location, see “Shrine of Savras."
 
 #### Crags
+
 These rocky, windswept hills are dotted with old mines that have become infested with monsters.
 
 #### High Road {#HighRoad}
+
 This highway hugs the coast, connecting Neverwinter to the coastal cities of Luskan to the north and Waterdeep to the south. For years, the stretch of road south of Neverwinter fell into disuse because of frequent monster attacks. Of late, efforts have been made to keep the road safe, with light patrols of guards on horseback moving between Neverwinter and Leilon.
 
 #### Kryptgarden Forest
+
 This ancient forest tucked behind the Sword Mountains contains the ruins of bygone dwarven civilizations.
 
 #### Leilon {#Leilon}
+
 This small town along the High Road is in the midst of rebuilding itself after being abandoned for years. Its inhabitants hail from Neverwinter and are in the paid service of the city’s Lord Protector, who has tasked them with turning Leilon into a fortified settlement that can ward off threats from the Mere of Dead Men.
 
 #### Mere of Dead Men
@@ -144,15 +149,15 @@ Each player has options when it comes to choosing a character race, class, and b
 
 #### Character Options
 
-| Races                                                | Classes                                              | Backgrounds                                                      |
-| ---------------------------------------------------- | ---------------------------------------------------- | ---------------------------------------------------------------- |
-| [Dwarf](https://www.dndbeyond.com/races/dwarf)       | [Bard](https://www.dndbeyond.com/classes/bard)       | [Acolyte](https://www.dndbeyond.com/backgrounds/acolyte)         |
-| [Elf](https://www.dndbeyond.com/races/elf)           | [Cleric](https://www.dndbeyond.com/classes/cleric)   | [Criminal](https://www.dndbeyond.com/backgrounds/criminal-spy)   |
-| [Halfling](https://www.dndbeyond.com/races/halfling) | [Fighter](https://www.dndbeyond.com/classes/fighter) | [Entertainer](https://www.dndbeyond.com/backgrounds/entertainer) |
-| [Human](https://www.dndbeyond.com/races/human)       | [Rogue](https://www.dndbeyond.com/classes/rogue)     | [Sage](https://www.dndbeyond.com/backgrounds/sage)               |
-| —                                                    | [Wizard](https://www.dndbeyond.com/classes/wizard)   | [Soldier](https://www.dndbeyond.com/backgrounds/soldier)         |
+| Races                                   | Classes                                 | Backgrounds                                         |
+| --------------------------------------- | --------------------------------------- | --------------------------------------------------- |
+| [Dwarf](/basic-rules/races/dwarf)       | [Bard](/basic-rules/classes/bard)       | [Acolyte](/basic-rules/backgrounds/acolyte)         |
+| [Elf](/basic-rules/races/elf)           | [Cleric](/basic-rules/classes/cleric)   | [Criminal](/basic-rules/backgrounds/criminal)       |
+| [Halfling](/basic-rules/races/halfling) | [Fighter](/basic-rules/classes/fighter) | [Entertainer](/basic-rules/backgrounds/entertainer) |
+| [Human](/basic-rules/races/human)       | [Rogue](/basic-rules/classes/rogue)     | [Sage](/basic-rules/backgrounds/sage)               |
+| —                                       | [Wizard](/basic-rules/classes/wizard)   | [Soldier](/basic-rules/backgrounds/soldier)         |
 
-While your players follow the steps of character creation as outlined in the [Basic Rules](/basic-rules/), pay attention to the choices they make. The backgrounds they choose define who their characters were before becoming adventurers, and also include roleplaying hooks in the form of ideals, bonds, and flaws — things that you, as the DM, want to know. For example, if a player chooses the [Criminal background](), one of the options for the character’s bond is, “I’m trying to pay off an old debt I owe to a generous benefactor.” If that’s the character’s bond, work with the player to decide who that generous benefactor is.
+While your players follow the steps of character creation as outlined in the [Basic Rules](/basic-rules/), pay attention to the choices they make. The backgrounds they choose define who their characters were before becoming adventurers, and also include roleplaying hooks in the form of ideals, bonds, and flaws — things that you, as the DM, want to know. For example, if a player chooses the [Criminal background](/basic-rules/backgrounds/criminal), one of the options for the character’s bond is, “I’m trying to pay off an old debt I owe to a generous benefactor.” If that’s the character’s bond, work with the player to decide who that generous benefactor is.
 
 ### Running for Multiple Players
 
@@ -179,7 +184,7 @@ Make sure the player understands the roles and limitations of sidekicks in this 
 
 ### Reading Ahead
 
-As the players familiarize themselves with the character options and adventuring gear described in the [Basic Rules](), take advantage of the opportunity to read ahead.
+As the players familiarize themselves with the character options and adventuring gear described in the [Basic Rules](/basic-rules/), take advantage of the opportunity to read ahead.
 
 “[The Adventure Begins]()” section tells you everything you need to know about what’s happening in and around Phandalin. It also describes quests that characters can pursue, leading them to other locations. The adventure is built around these quests. Hopefully, the characters will find them tempting enough to undertake.
 
@@ -265,14 +270,14 @@ Sister Garaele is a member of the Harpers, a scattered network of adventurers an
 
 ##### Phandalin Tales
 
-| d6  | Tale                                                                                                                                                                                                                                                                                                                                                                                                                                                                     |
-| --- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
-| 1   | “Once again, the orcs have come down from the mountains to prey on the lowlands! If Neverwinter doesn’t send help soon, the orcs will overrun Phandalin and destroy everything we’ve worked so hard to rebuild.”                                                                                                                                                                                                                                                         |
+| d6  | Tale                                                                                                                                                                                                                                                                                                                                                                                                                                |
+| --- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| 1   | “Once again, the orcs have come down from the mountains to prey on the lowlands! If Neverwinter doesn’t send help soon, the orcs will overrun Phandalin and destroy everything we’ve worked so hard to rebuild.”                                                                                                                                                                                                                    |
 | 2   | “As the Triboar Trail runs east, it passes through the ruins of Conyberry, a town sacked by barbarians years ago. There’s a ruined temple south of Conyberry where it’s said the locals hid their gold.” (If the characters visit the temple, see “[Shrine of Savras](./shrine-of-savras)”.)                                                                                                                                        |
-| 3   | “Strange magic pervades Neverwinter Wood, confounding navigators and obscuring the ancient ruins of bygone kingdoms lost in its depths.”                                                                                                                                                                                                                                                                                                                                 |
+| 3   | “Strange magic pervades Neverwinter Wood, confounding navigators and obscuring the ancient ruins of bygone kingdoms lost in its depths.”                                                                                                                                                                                                                                                                                            |
 | 4   | “Falcon’s Hunting Lodge is the only safe haven in Neverwinter Wood. It lies deep in the forest along a river’s edge, and wealthy nobles venture there to hunt while under Falcon’s protection. Falcon is a retired veteran of many wars, and it’s said he’ll offer free room and board to anyone who brings him a bottle of wine.” (If the characters pay Falcon a visit, see “[Falcon’s Hunting Lodge](./falcons-hunting-lodge)”.) |
 | 5   | “West of Phandalin, on the coast, is an old stone lighthouse. Ships are drawn to this gleaming tower like moths to a flame, and are doomed to crash upon its rocks. Their wrecks must be filled with treasure!” (If the characters visit the lighthouse, see “[Tower of Storms](./tower-of-storms)”.)                                                                                                                               |
-| 6   | “Some folk claim to have seen a dragon flying through the high clouds. At that distance, it’s hard to gauge the creature’s size, but some say it’s as big as an elephant and has gleaming white scales.”                                                                                                                                                                                                                                                                 |
+| 6   | “Some folk claim to have seen a dragon flying through the high clouds. At that distance, it’s hard to gauge the creature’s size, but some say it’s as big as an elephant and has gleaming white scales.”                                                                                                                                                                                                                            |
 
 #### Townmaster’s Hall
 
@@ -350,25 +355,25 @@ If Cryovain loses more than 10 hit points in battle, the dragon [disengages]() f
 
 **Dragon’s Location**
 
-| d20 | Location |
-| --- | -------------------------------------------------------------------------------------------------- |
-| 1 | [Axeholm](./axeholm) |
-| 2 | [Butterskull Ranch](./butterskull-ranch) |
-| 3 | [Conyberry](#Conyberry) |
-| 4 | [Dragon Barrow](./dragon-barrow) |
-| 5 | [Dwarven Excavation](./dwarven-excavation) |
-| 6 | [Falcon’s Hunting Lodge](./falcons-hunting-lodge) |
-| 7 | [Gnomengarde](./gnomengarde) |
-| 8 | [High Road](#HighRoad) |
-| 9 | [Icespire Hold](./icespire-hold) |
-| 10 | [Leilon](#Leilon) |
-| 11 | [Loggers’ Camp](./loggers-camp) |
-| 12 | [Mountain’s Toe Gold Mine](./mountains-toe-gold-mine) |
-| 13 | [Neverwinter](#Neverwinter) |
-| 14 | [Phandalin](#ExploringPhandalin) |
-| 15 | [Shrine of Savras](./shrine-of-savras) |
-| 16 | [Starmetal Hills](#StarmetalHills) |
-| 17 | [Tower of Storms](./tower-of-storms) |
-| 18 | [Triboar Trail](#TriboarTrail) |
-| 19 | [Umbrage Hill](./umbrage-hill) |
-| 20 | [Woodland Manse](./woodland-manse) |
+| d20 | Location                                              |
+| --- | ----------------------------------------------------- |
+| 1   | [Axeholm](./axeholm)                                  |
+| 2   | [Butterskull Ranch](./butterskull-ranch)              |
+| 3   | [Conyberry](#Conyberry)                               |
+| 4   | [Dragon Barrow](./dragon-barrow)                      |
+| 5   | [Dwarven Excavation](./dwarven-excavation)            |
+| 6   | [Falcon’s Hunting Lodge](./falcons-hunting-lodge)     |
+| 7   | [Gnomengarde](./gnomengarde)                          |
+| 8   | [High Road](#HighRoad)                                |
+| 9   | [Icespire Hold](./icespire-hold)                      |
+| 10  | [Leilon](#Leilon)                                     |
+| 11  | [Loggers’ Camp](./loggers-camp)                       |
+| 12  | [Mountain’s Toe Gold Mine](./mountains-toe-gold-mine) |
+| 13  | [Neverwinter](#Neverwinter)                           |
+| 14  | [Phandalin](#ExploringPhandalin)                      |
+| 15  | [Shrine of Savras](./shrine-of-savras)                |
+| 16  | [Starmetal Hills](#StarmetalHills)                    |
+| 17  | [Tower of Storms](./tower-of-storms)                  |
+| 18  | [Triboar Trail](#TriboarTrail)                        |
+| 19  | [Umbrage Hill](./umbrage-hill)                        |
+| 20  | [Woodland Manse](./woodland-manse)                    |

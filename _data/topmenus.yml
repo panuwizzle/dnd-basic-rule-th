@@ -33,3 +33,13 @@
       title: Dragon of Stormwreck Isle
       url: /dragons-of-stormwreck-isle/
       icon: fa fa-map
+
+    - name: peril-in-pinebrook
+      title: Peril in Pinebrook
+      url: /one-shot/peril-in-pinebrook
+      icon: fa fa-map
+
+    - name: dead-pit-of-moloch
+      title: Dead Pit of Moloch
+      url: /one-shot/dead-pit-of-moloch.pdf
+      icon: fa fa-map

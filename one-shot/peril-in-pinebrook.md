@@ -18,7 +18,7 @@ layout: page
 
 ## พื้นฐานเกม
 
-Dungeons & Dragons is a collaborative storytelling and roleplaying game. Each player takes on the role of an adventuring character: a hero with skill and knowledge—and sometimes magic—that lets them overcome challenges and achieve greatness!
+ดันเจียนแอนด์ดรากอนเป็นเกมสวมบทบาทที่เป็นการร่วมกันเล่าเรื่อง ผู้เล่นแต่ละคนจะสวมบทบาทเป็นตัวละครนักผจญภัย เป็นฮีโร่ที่มีทักษะและความรู้ ซึ่งบางครั้งมีเวทย์มนต์ ที่สามารถช่วยให้พวกเขาข้ามผ่านความท้าทายและคว้าเอาความสำเร็จอันยิ่งใหญ่
 
 One of the participants in the game takes the role of the Dungeon Master (DM). The DM acts as the lead storyteller, the keeper of secrets, and the referee. This document provides everything you need to know to get started as a DM.
 
