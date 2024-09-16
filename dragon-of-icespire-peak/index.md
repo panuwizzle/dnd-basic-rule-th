@@ -5,9 +5,9 @@ menu: menu-doip
 
 # มังกรแห่งยอดเขาไอส์สไปร์
 
-## Running the Adventure
+## การดำเนินการผจญภัย
 
-This book is written for the Dungeon Master. It contains a complete Dungeons & Dragons adventure, as well as descriptions for every creature that appears in the adventure. It also teaches you how to run a D&D game.
+หนังสือนี้เขียนขึ้นเพื่อให้ดันเจียนมาสเตอร์อ่าน มันมีเนื้อเรื่องการผจญภัยสำหรับเกมดันเจียนแอนด์ดรากอนที่จบสมบูณ์ และมีคำอธิบายสำหรับสิ่งมีชีวิตทุกตัวที่ปรากฏในการผจญภัย มันยังสอนคุณถึงการดำเนินเกม D&D อีกด้วย
 
 ## Overview
 
