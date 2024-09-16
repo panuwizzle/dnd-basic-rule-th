@@ -1208,17 +1208,23 @@ While affected by this spell, the object is more difficult to break or force ope
 
 ### Astral Projection {#astral-projection}
 
-9th-level necromancy
-**เวลาในการร่ายคาถา:** 1 hour
-**ระยะ:** 10 ฟุต
-**วิธีการร่ายและวัตถุคาถา:** V, S, M (for each creature you affect with this spell, you must provide one jacinth worth at least 1,000 gp and one ornately carved bar of silver worth at least 100 gp, all of which the spell consumes)
-**ระยะเวลาคงคาถา:** Special
-You and up to eight willing creatures within range project your astral bodies into the Astral Plane (the spell fails and the casting is wasted if you are already on that plane). The material body you leave behind is unconscious and in a state of suspended animation; it doesn’t need food or air and doesn’t age.
-Your astral body resembles your mortal form in almost every way, replicating your game statistics and possessions. The principal difference is the addition of a silvery cord that extends from between your shoulder blades and trails behind you, fading to invisibility after 1 foot. This cord is your tether to your material body. As long as the tether remains intact, you can find your way home. If the cord is cut—something that can happen only when an effect specifically states that it does—your soul and body are separated, killing you instantly.
-Your astral form can freely travel through the Astral Plane and can pass through portals there leading to any other plane. If you enter a new plane or return to the plane you were on when casting this spell, your body and possessions are transported along the silver cord, allowing you to re-enter your body as you enter the new plane. Your astral form is a separate incarnation. Any damage or other effects that apply to it have no effect on your physical body, nor do they persist when you return to it.
-The spell ends for you and your companions when you use your action to dismiss it. When the spell ends, the affected creature returns to its physical body, and it awakens.
-The spell might also end early for you or one of your companions. A successful dispel magic spell used against an astral or physical body ends the spell for that creature. If a creature’s original body or its astral form drops to 0 hit points, the spell ends for that creature. If the spell ends and the silver cord is intact, the cord pulls the creature’s astral form back to its body, ending its state of suspended animation.
-If you are returned to your body prematurely, your companions remain in their astral forms and must find their own way back to their bodies, usually by dropping to 0 hit points.
+9th-level necromancy  
+**เวลาในการร่ายคาถา:** 1 ชม.  
+**ระยะ:** 10 ฟุต  
+**วิธีการร่ายและวัตถุคาถา:** V, S, M (สำหรับสิ่งมีชีวิตแต่ละตัวที่คุณใช้คาถานี้ใส่ คุณต้องใช้โกเมนอัญมณีสีส้มที่มีค่าอย่างน้อย 1000 gp และแท่งเงินสลักลวดลายที่มีมูลค่าอย่างน้อย 100 gp และทั้งหมดจะสลายเพื่อใช้ในการใช้คาถา)  
+**ระยะเวลาคงคาถา:** พิเศษ  
+
+คุณและสิ่งมีชีวิตที่ยินยอมอีกไม่เกิน 8 คนในระยะใกล้เคียงจะส่งกายทิพย์ของพวกคุณไปสู่มิติแห่งดวงดาว (Astral Plane) (คาถาจะล้มเหลวและคุณจะเสียวัตถุสังเวยทั้งหมดถ้าคุณอยู่ในมิตินั้นอยู่แล้ว) กายเนื้อที่คุณทิ้งไว้ข้างหลังจะหมดสติ (unconcious) และอยู่ในภาวะหยุดนิ่ง จะไม่ต้องการอาหารหรืออากาศและไม่แก่ชราลง
+
+กายทิพย์ของคุณจะมีลักษณะเหมือนกายหยาบทุกประการ จะมีค่าสแต็ทต่าง ๆ รวมถึงอุปกรณ์ที่คุณมี สิ่งที่แตกต่างที่เด่นชัดที่สุดคือจะมีเส้นสีเงินออกมาจากบริเวณกระดูกไหปลาร้า และลากยาวไปด้านหลังและจางหายไประยะราว 1 ฟุต เส้นเงินนี้เป็นสิ่งเชื่อมต่อคุณกับกายเนื้อ ตราบใดที่เส้นนี้ยังอยู่คุณจะสามารถหาทางกลับไปได้ แต่ถ้าขาดโดยวิธีการเฉพาะจริง ๆ วิญญาณคุณจะถูกตัดขาดจากร่างเนื้อและถือว่าตายทันที
+
+กายทิพย์ของคุณสามารถเดินทางได้อย่างอิสระผ่านมิติดวงดาวและสามารถผ่านประตูมิติที่นำไปสู่มิติอื่นได้ หากคุณเข้าสู่มิติใหม่หรือกลับไปยังมิติที่คุณอยู่เมื่อร่ายคาถานี้ ร่างกายและทรัพย์สินของคุณจะถูกเคลื่อนย้ายไปตามเส้นเงิน ทำให้คุณสามารถกลับเข้าสู่ร่างกายของคุณได้อีกครั้งเมื่อเข้าสู่มิติใหม่ ร่างกายทิพย์ของคุณเป็นร่างแยก ความเสียหายหรือผลกระทบอื่นใดที่เกิดขึ้นกับกายทิพย์จะไม่มีผลต่อร่างกายของคุณ และจะไม่คงอยู่ต่อไปเมื่อคุณกลับไปยังร่างอวตาร
+
+คาถาจะจบลงเมื่อคุณใช้แอ็คชันในการยกเลิกคาถา เมื่อคาถาจบลงสิ่งมีชีวิตที่ได้รับผลจากคาถาจะกลับเข้าร่างกายเนื้อและตื่นขึ้น
+
+คาถาอาจจะจบได้ก่อนหากมีการใช้คาถา[หักล้างเวทย์มนต์ (dispel magic)](#dispel-magic)กับกายทิพย์หรือกายเนื้อของพวกคุณ ถ้าฮิตพอยท์ของกายหยาบหรือกายทิพย์ลดลงเหลือ 0 คาถาก็จะจบลง ถ้าคาถาจบและเส้นเงินยังอยู่ กายทิพย์จะถูกดึงกลับไปหากายหยาบและจบสภาวะไม่เคลื่อนไหว
+
+ถ้าคุณถูกดึงกลับเข้ากายเนื้อก่อนแต่เพื่อนยังอยู่ พวกเขาต้องหาทางกลับเข้าร่างเอง โดยทั่วไปคือให้ฮิตพอยท์เป็น 0
 
 ### Augury {#augury}
 
