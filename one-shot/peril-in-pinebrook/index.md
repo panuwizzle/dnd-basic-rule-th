@@ -20,46 +20,47 @@ layout: page
 
 ดันเจียนแอนด์ดรากอนเป็นเกมสวมบทบาทที่เป็นการร่วมกันเล่าเรื่อง ผู้เล่นแต่ละคนจะสวมบทบาทเป็นตัวละครนักผจญภัย เป็นฮีโร่ที่มีทักษะและความรู้ ซึ่งบางครั้งมีเวทย์มนต์ ที่สามารถช่วยให้พวกเขาข้ามผ่านความท้าทายและคว้าเอาความสำเร็จอันยิ่งใหญ่
 
-One of the participants in the game takes the role of the Dungeon Master (DM). The DM acts as the lead storyteller, the keeper of secrets, and the referee. This document provides everything you need to know to get started as a DM.
+ผู้ร่วมเกมคนหนึ่งต้องรับหน้าที่เป็นดันเจียนมาสเตอร์ (DM) DM จะทำหน้าที่เป็นคนดำเนินเรื่อง เป็นผู้เก็บความลับ และเป็นกรรมการ ในเอกสารนี้จะมีข้อมูลของทุกสิ่งที่คุณต้องการในการเริ่มเล่นเป็น DM
 
-## The Adventure
+## การผจญภัย
 
-Characters in Dungeons & Dragons undertake quests throughout their lives, heroic journeys and death-defying acts of courage that become tales of legend—or tales of doom!
+ตัวละครในเกมดันเจียนแอนด์ดรากอนจะรับภาระกิจไปตลอดชีวิตของพวกเขา การเดินทางของฮีโร่และวีรกรรมเสี่ยงตายด้วยความกล้าหาญที่กลายเป็นตำนาน หรืออาจจะเป็นเรื่องราวแห่งการสูญเสีย
 
-Peril in Pinebrook contains helpful hints, suggestions, and rules explanations that assist new Dungeon Masters in running the adventure. If you’re the DM, you can run this adventure as it’s written, or you can add your own bits of story. Your imagination, and the imaginations of the other players, make each game of D&D unique.
+ภยันตรายในหมู่บ้านไพน์บรูกมีคำใบ้ ข้อแนะนำ และคำอธิบายกฏที่จะคอยช่วยเหลือดันเจียนมาสเตอร์มือใหม่ในการดำเนินการผจญภัย ถ้าคุณเป็น DM คุณสามารถรันการผจญภัยนี้ตามลำดับที่ปรากฏในเอกสารนี้ หรือคุณอาจจะเพิ่มเติมเรื่องราวบางส่วนเข้ามาก็ได้ จินตนาการของคุณและผู้เล่นคนอื่นจะทำให้เกม D&D ของพวกคุณมีเอกลักษณ์
 
-The "Running an Adventure" section has information that can help you decide whether you want to be a DM. If you prefer to play a character instead, don’t read “Adventure Introduction” or any of the adventure beyond that. If you do, some of the fun of playing might be spoiled for you.
+ในบท "การดำเนินการผจญภัย" จะมีข้อมูลที่จะช่วยให้คุณตัดสินใจว่าคุณอยากจะเป็น DM หรือไม่ ถ้าคุณอยากจะเล่นเป็นผู้เล่น อย่าอ่านบท "แนะนำการผจญภัย" หรือข้อความใด ๆ ที่หลังจากนั้น ถ้าคุณเผลอไปอ่านคุณจะถูกสปอยล์จนความสนุกหายไป
 
-## The Rules
+## กฏการเล่น
 
-Dungeons & Dragons is a special type of game known as a roleplaying game (RPG). In D&D, the rules help determine if the characters succeed or fail at the challenges they face. They also help the entire group of players tell a fun, exciting, and memorable story.
+ดันเจียนแอนด์ดรากอนเป็นเกมในกลุ่มพิเศษที่เรียกว่าเกมสวมบทบาท (roleplaying game: RPG) ใน D&D กฏต่าง ๆ จะช่วยตัดสินว่าตัวละครผ่านความท้าทายที่เผชิญหน้าได้หรือไม่ มันยังช่วยให้ทั้งกลุ่มเล่าเรื่องที่สนุกสนาน น่าตื่นเต้นและเป็นที่น่าจดจำ
 
-The rules are explained in the "Using the Rules" section. The "Running an Adventure" section provides the DM advice on leading the other players through a game session. The adventure text also explains rules and game play along the way.
+กฏจะมีคำอธิบายอยู่ในบท "การใช้กฏเกม" บท "การดำเนินการผจญภัย" จะให้คำแนะนำแก่ DM ในการชี้นำให้ผู้เล่นดำเนินเกมผ่านเหตุการณ์ต่าง ๆ ในเกม ข้อความในเนื้อเรื่องการผจญภัยก็จะมีคำอธิบายถึงกฏแทรกอยู่ตลอดเรื่อง
 
-## The Tools
+## เครื่องมือ
 
-To play this game, you need this packet and some dice: at least one 20-sided die (d20) and one 6-sided die (d6). It speeds up game play if each player has their own dice, but players can share! If you don't have these dice, you can find digital dice rollers online.
+ในการเล่นเกมนี้ คุณต้องใช้เอกสารชุดนี้และชุดลูกเต๋า อย่างน้อยต้องมีลูกเต๋า 20 หน้า 1 ลูก และลูกเต๋า 6 หน้าอีก 1 ลูก เกมจะดำเนินได้รวดเร็วขึ้นถ้าผู้เล่นแต่ละคนมีลูกเต๋าของตัวเอง แต่จะยืมกันใช้ก็ไม่ผิดนะ ถ้าคุณไม่มีลูกเต๋าเหล่านี้ คุณสามารถใช้ลูกเต๋าออนไลน์ก็ได้
 
-Each player should also have a way to make notes and keep track of changes to their character sheet as play progresses. A pencil and paper work well.
+ผู้เล่นแต่ละคนควรมีอุปกรณ์จดโน๊ตและบันทึกความเปลี่ยนแปลงของชีตตัวละคร (character sheet) กระดาษและดินสอก็ดี
 
-### Character Sheets
+### ชีตตัวละคร (คาแร็คเตอร์ชีต Character Sheets)
 
-This packet includes four character sheets and a handy guide that explains some of the rules and character options in more detail. Give each player one character sheet. If you have more than four players, they can change the names and descriptions on a duplicate character sheet so that they’ll have unique characters with similar abilities and equipment.
+เอกสารชุดนี้มีชีตตัวละครสำเร็จ 4 ตัวแถมมาด้วย แต่ละใบจะมีคำอธิบายรายละเอียดของแต่ละตัวละครรวมถึงกฏเบื้องต้น ให้ผู้เล่นเลือกตัวละครที่อยากเล่น ถ้าคุณมีผู้เล่นมากกว่า 4 คน สามารถใช้ตัวละครซ้ำได้ซึ่งสามารถเปลี่ยนชื่อและรายละเอียดให้แตกต่าง โดยตัวละครจะมีความสามารถและอุปกรณ์ติดตัวเหมือนกัน
 
-- Evandon Haart
-- Gallantine Birchenbough
-- Noorah Eldenfield
-- Shalefire Stoutheart
+- [อีวานดอน ฮาร์ต (Evandon Haart)](./Evandon_Haart.pdf)
+- [กาแลนไทน์ เบอร์เชนเบิร์ก (Gallantine Birchenbough)](./Gallantine_Birchenbough.pdf)
+- [นูรา เอลเดนฟิลด์ (Noorah Eldenfield)](./Noorah_Eldenfield.pdf) 
+- [เชลไฟร์ สเตาท์ฮาร์ต (Shalefire Stoutheart)](/Shalefire_Stoutheart.pdf)
 
 The “Helping the Characters” section later in this document provides more information about using character sheets.
+ในบท "ช่วยเหลือเรื่องตัวละคร" ในช่วงท้ายของเอกสารจะมีข้อมูลเกี่ยวกับการใช้ชีตตัวละคร
 
-## The Experience
+## ประสบการณ์การเล่น
 
-Peril in Pinebrook provides a play experience that can be completed in 60 to 90 minutes. It’s fine to take breaks or run the adventure in shorter sessions.
+ภยันตรายในหมู่บ้านไพน์บรูกจะใช้เวลาเล่นประมาณ 60-90 นาที สามารถพักเบรกหรือเล่นเป็นเซสชันสั้น ๆ ได้
 
-The play experience can also be made longer if desired. Allowing time for people to roleplay their characters and talk with each other adds to the fun of D&D.
+เวลาในการเล่นอาจจะยาวนานกว่านี้ได้ถ้าต้องการ ให้เวลากับผู้เล่นในการแสดงสวมบทบาทตัวละครของพวกเขาและพูดคุยกับตัวละครอื่น ๆ ซึ่งจะเพิ่มความสนุกให้มากขึ้นอีกเมื่อเล่น D&D
 
-Before play begins, the DM should read through this document to get a better understanding of the rules and the adventure.
+ก่อนจะเริ่มเล่น DM ควรอ่านเอกสารนี้จนจบเพื่อให้เข้าใจเรื่องราว เหตุการณ์ และกฏที่คุณจะใช้ในการดำเนินการผจญภัย
 
 ## Using the Rules
 
