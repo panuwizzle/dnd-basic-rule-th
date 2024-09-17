@@ -1,45 +1,45 @@
 - name: blog
-  title: Blog
+  title: บล็อก
   url: /blog/
   icon: fa fa-home
   child: 
   
 - name: books
-  title: Books
+  title: หนังสือ
   url: /books/
   icon: fa fa-book
   child: 
     - name: basic-rules
-      title: Basic Rules
+      title: กฏพื้นฐาน
       url: /basic-rules/introduction/
       icon: fa fa-book
 
 - name: adventures
-  title: Adventures
+  title: เนื้อเรื่องการผจญภัย
   url: /adventures/
   icon: fa fa-map
   child: 
     - name: lost-mine-of-phandelver
-      title: Lost Mine of Phandelver
+      title: เหมืองที่สาปสูญแห่งภาคีแฟนเดลเวอร์
       url: /lost-mine-of-phandelver/
       icon: fa fa-map
 
     - name: dragon-of-icespire-peak
-      title: Dragon of Icespire Peak
+      title: มังกรแห่งยอดเขาไอส์สไปร์
       url: /dragon-of-icespire-peak/
       icon: fa fa-map
 
     - name: dragon-of-stormwreck-isle
-      title: Dragon of Stormwreck Isle
+      title: มังกรแห่งหมู่เกาะพายุคลั่ง
       url: /dragons-of-stormwreck-isle/
       icon: fa fa-map
 
     - name: peril-in-pinebrook
-      title: Peril in Pinebrook
+      title: ภยันตรายในหมู่บ้านไพน์บรูค
       url: /one-shot/peril-in-pinebrook
       icon: fa fa-map
 
     - name: dead-pit-of-moloch
-      title: Dead Pit of Moloch
+      title: หลุมมรณะแห่งโมลอค
       url: /one-shot/dead-pit-of-moloch.pdf
       icon: fa fa-map

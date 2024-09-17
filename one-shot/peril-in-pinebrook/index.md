@@ -51,7 +51,6 @@ layout: page
 - [นูรา เอลเดนฟิลด์ (Noorah Eldenfield)](./Noorah_Eldenfield.pdf) 
 - [เชลไฟร์ สเตาท์ฮาร์ต (Shalefire Stoutheart)](/Shalefire_Stoutheart.pdf)
 
-The “Helping the Characters” section later in this document provides more information about using character sheets.
 ในบท "ช่วยเหลือเรื่องตัวละคร" ในช่วงท้ายของเอกสารจะมีข้อมูลเกี่ยวกับการใช้ชีตตัวละคร
 
 ## ประสบการณ์การเล่น
@@ -62,116 +61,116 @@ The “Helping the Characters” section later in this document provides more in
 
 ก่อนจะเริ่มเล่น DM ควรอ่านเอกสารนี้จนจบเพื่อให้เข้าใจเรื่องราว เหตุการณ์ และกฏที่คุณจะใช้ในการดำเนินการผจญภัย
 
-## Using the Rules
+## การใช้กฏ
 
-Peril in Pinebrook uses a simplified version of the Dungeons & Dragons rules to teach the game to new DMs and players. The text of the adventure also contains tips that DMs and players might find useful.
+ภยันตรายในหมู่บ้านไพน์บรูกใช้กฏแบบง่ายเพื่อสอนการเล่นให้กับ DM และผู้เล่นหน้าใหม่ ข้อความในเนื้อเรื่องการผจญภัยจะมีทีปที่ DM และผู้เล่นน่าจะนำไปใช้ในเกมได้
 
-### Character Actions
+### แอ็คชันของตัวละคร
 
-A character's actions hold the potential for either success or failure. Can you hit a monster with your weapon? Can you balance on a narrow ledge as you ascend a mountain? Can you convince a dragon not to eat you?
+แอ็คชันของตัวละครจะเป็นตัวตัดสินถึงความสำเร็จหรือล้มเหลว คุณใช้อาวุธโจมตีมอนสเตอร์นั้นโดนหรือเปล่า? คุณทรงตัวอยู่บนทางแคบขณะเดินทางขึ้นเขาได้หรือไม่? คุณโน้มน้าวใจมังกรไม่ให้กินคุณได้หรือไม่?
 
-You find the answer to these questions during the game by making a d20 roll!
+คุณจะได้คำตอบของคำถามเหล่านี้ในการเล่นเกม โดยใช้ลูกเต๋า d20!
 
-### d20 Rolls
+### การทอยลูกเต๋า d20
 
-The 20-sided die (d20) is the most-used die in D&D. It is rolled whenever a character or a creature tries to do something important.
+ลูกเต๋า 20 หน้า (d20) เป็นลูกเต๋าที่ใช้มากที่สุดในเกม D&D มันจะถูกนำมาทอยเมื่อตัวละคหรือสิ่งมีชีวิตพยายามที่จะทำอะไรที่สำคัญ
 
-Things a character might try to do are listed under “Attacks” and “Skills” on the character sheets. Next to attacks and skills are number expressions, such as “+5 to hit.” This is the number you add to your die roll when your character uses that attack or skill.
+สิ่งที่ตัวละครพยายามจะทำมักจะอยู่ภายใต้ "การโจมตี" และ "ทักษะ" บนชีตตัวละคร ถัดไปจากการโจมตีและทักษะเป็นตัวเลขและเครื่องหมาย เช่น "+5 to hit" (to hit คือทอยโจมตี เช็คว่าโจมตีโดนหรือไม่) ตัวเลขนี้ให้คุณนำไปบวกเพิ่มเมื่อตัวละครของคุณทำการโจมตีหรือใช้ทักษะ
 
-For example, the character sheet for Shalefire Stoutheart lists “Handaxe” under “Attacks,” with “+6 to hit” next to it. If Shalefire wants to attack a monster with their handaxe, the player rolls a d20. If the die roll is a 10, the player adds 6 to the die roll for a final attack score of 16.
+ตัวอย่างเช่น ใช้ชีตตัวละครของเชลไฟร์ สเตาท์ฮาร์ต มีรายการ "ขวานมือ (Handaxe)" ภายใต้ "การโจมตี (Attacks)" และมี "+6 to hit" ระบุอยู่ข้าง ๆ ถ้าเชลไฟร์ต้องการโจมตีมอนสเตอร์ด้วยขวานมือ ผู้เล่นต้องทอย d20 หนึ่งลูก หนึ่งครั้ง ถ้าผลออกมา 10 ผู้เล่นจะเพิ่ม +6 เข้าไปทำให้ค่าสุดท้ายเป็น 16
 
-How does the player know if their roll succeeds or fails? Read on to find out!
+แล้วผู้เล่นจะรู้ได้ยังไงว่าการทอยนั้นสำเร็จหรือล้มเหลวล่ะ? อ่านต่อเลย
 
-### Armor Class
+### ระดับการป้องกัน (อาร์เมอร์คลาส: Armor Class)
 
-The number a character tries to equal or exceed with an attack roll is called Armor Class (also called AC). The higher a creature’s Armor Class, the harder that creature is to hit. In the previous example, Shalefire’s attack roll with a handaxe would hit a creature with an Armor Class of 16 or lower.
+ตัวเลขที่ตัวละครพยายามจะให้ได้เท่ากันหรือมากกว่าในการทอยโจมตีเรียกว่าระดับการป้องกันหรืออาร์เมอร์คลาส (เรียกสั้น ๆ ว่า AC) ยิ่งมีค่าสูง ยิ่งแสดงว่าสิ่งมีชีวิตนี้โจมตีโดนได้ยากขึ้น ในตัวอย่างที่แล้ว การทอยโจมตีของเชลไฟร์ด้วยขวานมือจะโจมตีสิ่งมีชีวิตที่มีอาร์เมอร์คลาส 16 หรือน้อยกว่า
 
-### Damage
+### ความเสียหาย
 
-When an attack roll hits, it deals damage. The damage roll appears after the attack on the character sheet. Shalefire’s handaxe does “1d6 + 4 damage,” so the player would roll one 6-sided die (d6) and add 4 to the die roll.
+เมื่อทอยโจมตีโดน (hits) มันต้องเกิดความเสียหาย วิธีการทอยหาค่าความเสียหายมีระบุไว้ต่อจากการโจมตีบนชีตตัวละคร ขวานมือของเชลไฟร์ทำความเสียหาย "1d6 + 4" ดังนั้นผู้เล่นจะทอยลูกเต๋า 6 หน้า 1 ลูก และเพิ่มค่า 4 เข้าไป
 
-### Difficulty Class
+### ระดับความยาก (ดิฟฟิคัลตี้คลาส: Difficulty Class)
 
-Difficulty Class (DC) is the number that a character must equal or exceed to succeed at an action that is not an attack. This includes rolls to use skills.
+ระดับความยาก (DC) เป็นจำนวนที่ตัวละครต้องทอยให้ได้เท่ากับหรือมากกว่าเพื่อให้แอ็คชันที่ไม่ใช่การโจมตีทำได้สำเร็จ ทั้งนี้รวมถึงการทอยเพื่อใช้ทักษะ
 
-For example, if Shalefire wants to move a heavy boulder blocking the mouth of a cave, that requires a skill called Athletics. Under “Skills” on Shalefire’s character sheet, it says “Athletics +6,” so Shalefire’s player rolls a 20-sided die and adds 6 to the number on the die. If the Difficulty Class to move the boulder is 12, the player would need to roll a 6 or higher for Shalefire to move the boulder.
+ตัวอย่างเช่น ถ้าเชลไฟร์ต้องการเลื่อนหินก้อนใหญ่ที่ขวางทางเข้าถ้ำอยู่ นั่นต้องใช้ทักษะที่เรียกว่า "การกรีฑา (Athletics)" ภายใต้ช่อง "ทักษะ (Skills)" ในชีตตัวละครของเชลไฟร์ จะเขียนไว้ว่า "Athletics +6" ดังนั้นให้ผู้เล่นของเชลไฟร์ทอยลูกเต๋า d20 1 ครั้งและเพิ่ม +6 เข้าไป ถ้าระดับความยาก (DC) ของการเลื่อนก้อนหินเป็น 12 ผู้เล่นต้องทอยให้ได้ 6 หรือมากกว่าจึงจะทำให้เชลไฟร์เลื่อนก้อนหินได้สำเร็จ
 
-The Difficulty Class for actions a character can attempt is given in the adventure text. In general, a Difficulty Class of 10 (DC 10) is easy, while a DC of 15 is challenging. Most of the actions in this adventure are DC 10. The Dungeon Master can change DCs if circumstances make an action easier or harder. They can also make up their own DCs when the characters attempt actions not covered in the adventure.
+ระดับความยาก (DC) สำหรับให้ตัวละครพยายามทำนั้นจะมีระบุไว้ในเนื้อเรื่องการผจญภัยของเกม โดยทั่วไปแล้วระดับความยากมักจะเท่ากับ 10 (DC 10) ซึ่งถือว่าง่าย DC 15 ถือว่าท้าทาย อุปสรรคในการผจญภัยนี้มักจะอยู่ในระดับ 10 ดันเจียนมาสเตอร์สามารถปรับค่า DC ให้มากหรือน้อยเพื่อให้แอ็คชันง่ายหรือยากขึ้นได้ตามความเหมาะสม DM สามารถตั้งระดับความยากขึ้นเองเลยก็ได้หากสิ่งที่ผู้เล่นอยากทำไม่ได้มีระบุไว้ในเนื้อหา
 
-### Advantage and Disadvantage
+### การทอยแบบได้เปรียบและเสียเปรียบ (แอดแวนเทจ และ ดิสแอดแวนเทจ: Advantage and Disadvantage)
 
-Sometimes what’s happening in the adventure makes things easier for a character. At other times, the odds are stacked against the heroes. These circumstances can be reflected in D&D as “advantage” or “disadvantage.”
+ในการผจญภัยบางครั้งตัวละครก็สามารถทำสิ่งต่าง ๆ ได้อย่างง่ายดาย และในบางเวลาโชคชะตาก็ไม่เป็นใจ เหตุการณ์แบบนี้เกิดขึ้นในเกม D&D ในรูปแบบของการทอยแบบได้เปรียบและเสียเปรียบ
 
-> **DM Tip**
-> Advantage and disadvantage are powerful game tools. They make d20 rolls more likely to succeed or fail, so use them wisely. They are best used as a reward for clever play by the players, or to represent good or bad luck affecting the story. In the full version of the D&D rules, certain rules automatically give a character advantage or dis advantage. For this adventure, the DM can decide when to apply advantage or disadvantage to rolls. If a character has both advantage and disadvantage on a roll, they cancel each other out, and the roll is made normally.
+> **ทิปสำหรับ DM**
+> การทอยแบบได้เปรียบและเสียเปรียบเป็นเครื่องมือที่ทรงพลังในเกม ทำให้การทอย d20 มีแนวโน้มจะสำเร็จหรือล้มเหลวได้ ดังนั้นต้องใช้อย่างรอบคอบ มันสามารถใช้ในการให้รางวัลแก่ผู้เล่นที่มีไหวพริบในการเล่น หรือเป็นสิ่งแสดงให้เห็นถึงโชคดีหรือโชคร้ายที่มีผลกับเนื้อเรื่อง ในกฏรูปแบบเต็มของเกม กฏบางกฏจะให้ตัวละครทอยแบบได้เปรียบหรือเสียเปรียบโดยอัตโนมัติ ในการผจญภัยนี้ DM สามารถตัดสินใจจะให้ผู้เล่นทอยแบบได้เปรียบหรือเสียเปรียบได้ ถ้าตัวละครได้รับสิทธิ์การทอยแบบได้เปรียบและถูกให้ทอยแบบเสียเปรียบด้วย จะทำให้หักล้างกันไปและทอยแบบปกติ
 
-#### Advantage
+#### การทอยแบบได้เปรียบ (แอดแวนเทจ: Advantage)
 
-If Shalefire attacks a monster with a handaxe while the monster is distracted by another character, the monster can’t see the attack coming. The DM might decide the monster is easier to hit while distracted, so Shalefire would make the attack roll with advantage.
+ถ้าเชลไฟร์โจมตีมอนสเตอร์ด้วยขวานมือในขณะที่มอนสเตอร์ถูกทำให้ไขว้เขวโดยตัวละครอื่น มอนสเตอร์นั้นจะไม่สามารถมองเห็นการโจมตีนั้นได้ DM อาจจะตัดสินใจให้มอนสเตอร์นั้นถูกโจมตีได้ง่ายเมื่อถูกทำให้ไข้เขว ดังนั้นเชลไฟร์จะได้ทอยโจมตีแบบได้เปรียบ
 
-Advantage means that instead of rolling the d20 once for the attack roll, Shalefire’s player rolls the d20 twice and uses the higher roll. They then add the normal modifier (+6 for Shalefire’s handaxe) to get a final attack result.
+การทอยแบบได้เปรียบ (Advantage) หมายถึงแทนที่จะทอย d20 ครั้งเดียวในการทอยโจมตี ผู้เล่นของเชลไฟร์จะทอย d20 2 ครั้งและใช้ผลที่มากกว่า ต่อมาจึงเพิ่มค่าโมดิไฟเออร์ปกติ (+6 สำหรับขวานมือของเชลไฟร์) เพื่อให้ได้ค่าการโจมตีสุดท้าย
 
-#### Disadvantage
+#### การทอยแบบเสียเปรียบ (ดิสแวนเทจ: Disadvantage)
 
-Disadvantage works like advantage in reverse. If something in the game makes it harder to take an action, the roll for that action is made with disadvantage. For example, as Shalefire climbs a cliff using a rope, a monster at the top of the cliff shakes the rope. Because it’s now harder to climb, Shalefire makes the d20 roll to climb the rope with disadvantage.
+การทอยแบบเสียเปรียบก็เป็นทำนองเดียวกับได้เปรียบแต่กลับกัน ถ้าบางอย่างในเกมมันยากกว่าปกติในการทำ การทอยสำหรับแอ็คชันนั้นจะทอยแบบเสียเปรียบ ตัวอย่างเช่น เชลไฟร์จะปีนขึ้นไปบนหน้าผาโดยใช้เชือก มีมอนสเตอร์อยู่ข้างบนนั้นกำลังเขย่าเชือกอยู่ เพราะความที่มีอุปสรรคเพิ่มขึ้นในการปีน เชลไฟร์จะทอย d20 เพื่อปีนเชือกขึ้นไปโดยทอยแบบเสียเปรียบ
 
-Disadvantage means that instead of rolling the d20 once to make the Athletics check to climb, Shalefire’s player rolls the d20 twice and uses the lower roll. They then add the normal modifier (+6 for Shalefire’s Athletics skill) to get a final result.
+การทอยแบบเสียเปรียบหมายถึงแทนที่จะทอย d20 ครั้งเดียวเพื่อเช็คทักษะการกรีฑา (Athletics) ในการปีนหน้าผา ผู้เล่นของเชลไฟร์ต้องทอย d20 2 ครั้งและใช้ค่าที่น้อยกว่า จากนั้นเพิ่มค่าโมดิไฟเออร์ปกติ (+6 จากคะแนนทักษะการกรีฑา (Athletics) ของเชลไฟร์) เพื่อให้ได้ค่าสุดท้าย
 
-### Hit Points
+### ค่าเลือดหรือฮิตพอยต์ (Hit Points)
 
-Every creature in D&D has a number of “hit points.” This number reflects the damage a creature can take before it falls unconscious or is defeated. When a character or creature is damaged by an attack roll or a hazard in the game, the amount of damage dealt is subtracted from the character’s or creature’s hit points.
+สิ่งมีชีวิตทุกชนิดใน D&D จะมีค่าเลือดหรือฮิตพอยต์ ตัวเลขนี้จะแสดงให้เห็นถึงความเสียหายสูงสุดที่สิ่งมีชีวิตจะรับได้ก่อนที่จะหมดสติ (unconscious) หรือพ่ายแพ้ไป เมื่อตัวละครหรือสิ่งมีชีวิตได้รับความเสียหายจากการโจมตีหรือจากภัยอันตรายในเกม จำนวนความเสียหายจะมาหักลบออกจากค่าฮิตพอยต์นี้
 
-If a creature reaches 0 hit points, they are defeated. The players can decide if this means a creature is dead or unconscious or if they run away.
+ถ้าสิ่งมีชีวิตมีค่าฮิตพอยต์เป็น 0 แสดงว่าพวกมันพ่ายแพ้ ผู้เล่นสามารถตัดสินใจได้ว่าจะหมายถึงตายหรือหมดสติหรือมันวิ่งหนีไป
 
-When a character reaches 0 hit points, they are unconscious. In this adventure, a character at 0 hit points remains unconscious until they regain hit points through healing or until the end of the encounter, when they regain 1 hit point automatically. The adventure details ways to regain hit points.
+เมื่อตัวละครมีค่าฮิตพอยต์เป็น 0 พวกเขาจะหมดสติ (unconscious) ในการผจญภัยนี้ ตัวละครที่มีฮิตพอยต์เป็น 0 จะหมดสติไปจนกระทั่งได้รับการรักษาหรือจนจบการต่อสู้ โดยจะได้รับฮิตพอยต์กลับมา 1 โดยอัตโนมัติ ในการผจญภัยจะมีหลากหลายวิธีในการฟื้นฟูค่าฮิตพอยต์ได้
 
-## Running an Adventure
+## การดำเนินการผจญภัย
 
-A DM gets to use their imagination while presenting the adventure to the other players. The DM can add excitement to the game as they describe the situations and help players navigate their way through the action.
+DM จะใช้จินตนาการของพวกเขาในการนำเสนอการผจญภัยให้ผู้เล่นได้รับรู้ DM สามารถเพิ่มความน่าตื่นเต้นให้กับเกมในขณะที่อธิบายสถานการณ์ และช่วยผู้เล่นในการสำรวจการเดินทางโดยการใช้แอ็คชัน
 
-### Presenting Encounters
+### การนำเสนอการเผชิญหน้า
 
-This adventure is divided into “encounters,” which are like scenes from a movie or show. Each encounter has specific challenges. Once the players complete the challenges, move on to the next scene. The flow of the game is described below.
+การผจญภัยนี้แบ่งออกเป็น "การเผชิญหน้า (เอ็นเคาท์เตอร์: encounter)" ซึ่งรูปแบบจะเหมือนฉากในภาพยนต์หรือการแสดงโชว์ แต่ละการเผชิญหน้าจะมีความท้าทายเฉพาะ เมื่อใดที่ผู้เล่นสามารถผ่านความท้าทายได้สำเร็จ ก็จะเคลื่อนที่ไปฉากถัดไป การไหลของเกมมีอธิบายด้านล่างนี้
 
-### Game Flow
+### การไหลของเกม (Game Flow)
 
-A D&D session begins with the DM and the other players having a conversation. The DM explains the situation the characters are in. The players can ask questions about the situation, and the DM answers those questions to further explain what’s happening.
+ในการเล่นแต่ช่วงของ D&D จะเริ่มต้นด้วย DM และผู้เล่นคนอื่นอยู่ในการสนทนากัน DM จะอธิบายสถานการณ์ปัจจุบันที่ตัวละครอยู่ ผู้เล่นสามารถถามคำถามเกี่ยวกับสถานะการณ์ และ DM จะตอบคำถามและอธิบายเพิ่มเติมว่ามีอะไรเกิดขึ้น
 
-Then the DM asks the most important question in the DM’s toolbox:
+จากนั้น DM จะถามคำถามที่สำคัญที่สุดในกล่องเครื่องมือของ DM:
 
-_"What do you do?"_
+_"คุณจะทำอะไรต่อ?"_
 
-At this point, players should explain what they want their characters to do. (If what they want to do is impossible, the DM says so and asks the player to choose a different action. For example, a character can't walk through a wall unless they have some special ability or magic that allows them to do so.)
+จากจุดนี้ ผู้เล่นควรจะอธิบายว่าพวกเขาต้องการให้ตัวละครของพวกเขาทำอะไร (ถ้าสิ่งที่อยากทำนั้นเป็นไปไม่ได้ DM สามารถบอกได้ว่าทำไม่ได้และขอให้เลือกทำอย่างอื่น ตัวอย่างเช่น ตัวละครไม่สามารถเดินผ่านกำแพงได้เว้นแต่จะมีความสามารถพิเศษหรือใช้เวทย์มนต์ที่ทำให้ทำได้)
 
-If the action is possible and very easy to do, the character automatically succeeds. Opening an unlocked door or lifting a light object doesn’t require heroic effort, so no d20 roll is necessary.
+ถ้าแอ็คชันที่ต้องการทำนั้นเป็นไปได้และง่ายมาก ๆ ตัวละครจะทำสำเร็จได้โดยอัตโนมัติ การเปิดประตูที่ไม่ได้ล็อคหรือยกของเบา ๆ ไม่ได้ต้องการความพยายามระดับฮีโร่ เพราะฉะนั้นไม่ต้องทอย d20 ก็ได้
 
-When the action is somewhere between easy and impossible, trying to do it could lead to success or failure. That’s when the DM calls for a d20 roll. See the "d20 Rolls" section earlier in this document.
+เมื่อแอ็คชันนั้นอยู่ระหว่างง่ายกับเป็นไปไม่ได้ การพยายามทำอาจจะนำไปสู่การทำได้สำเร็จหรือล้มเหลวได้ นั่นเป็นเวลาที่ DM จะขอให้ทอย d20 ดูบท "การทอยลูกเต๋า d20" ในช่วงต้นของเอกสาร
 
-The d20 roll, plus its modifiers, determines whether the action succeeds or fails. What does success or failure mean for an adventure? This is where you and the players get to tell a story together!
+การทอย d20 บวกกับค่าโมดิไฟเออร์ เป็นตัวตัดสินว่าแอ็คชันนั้นสำเร็จหรือล้มเหลว แล้วสำเร็จหรือล้มเหลวนี่มันหมายความว่ายังไงในการผจญภัยล่ะ? นี่เป็นสิ่งที่คุณและผู้เล่นจะเป็นคนเล่าเรื่องราวนี้ด้วยกัน
 
-### Narrating Successes and Failures
+### การบรรยายความสำเร็จหรือล้มเหลว
 
-When a d20 roll succeeds or fails, the DM and the players can turn that result into a part of the ongoing story. What does it look like when a monster is defeated? What does Shalefire say or do if the heavy boulder blocking the cave doesn’t budge? These points in the game can spark great storytelling and acting moments.
+เมื่อการทอย d20 สำเร็จหรือล้มเหลว DM และผู้เล่นจะเปลี่ยนผลนั้นให้เป็นส่วนหนึ่งของเรื่องราวที่ดำเนินอยู่ มันเป็นยังไงเมื่อมอนสเตอร์ถูกพิชิตได้ เชลไฟร์พูดอะไรหรือทำอะไรถ้าหินหนักที่ขวางทางเข้าถ้ำนั้นไม่ขยับเลย จุดเหล่านี้ในเกมสามารถเป็นโอกาสที่จะจุดประกายการเล่าเรื่องและการสวมบทบาทได้
 
-Remember, though, that part of the DM’s job is to keep the game’s story moving forward. If describing every single attack roll in a long combat gets boring, just say how much damage the attack deals and get to the next exciting moment.
+แต่ก็ต้องจำไว้ว่างานของ DM คือการผลักให้เกมดำเนินต่อไป ถ้าการอธิบายทุกการโจมตีในการต่อสู้ที่ยาวนานทำให้เบื่อ ก็ต้องตัดบทเหลือแค่บอกความเสียหายที่ทำได้และไปต่อที่ความตื่นเต้นอื่น
 
-### Tips for Dungeon Masters
+### ทิปสำหรับดันเจียนมาสเตอร์
 
-Here are some tips for DMs that can help them run great games:
+นี่เป็นทิปสำหรับ DM ที่จะช่วยให้รันเกมที่สนุก
 
-**Rule 0.** Rule 0 of D&D is simple: Have fun. It’s fine if everyone agrees to change the rules as long as doing so means the game is more fun for everyone.
+**กฏ 0** กฏ 0 ของ D&D นั้นง่ายมาก จงสนุก! มันไม่เป็นไรเลยถ้าทุกคนจะเห็นพ้องกันว่าการเปลี่ยนกฏนั้นทำให้สนุกขึ้น 
 
-**Be Supportive.** The players and the DM are all on the same team. DMs aren’t playing against the characters. The DM wins when the players have fun and the story is exciting and memorable.
+**ต้องช่วยเหลือกัน** ผู้เล่นและ DM นั้นอยู่ทีมเดียวกัน DM ไม่ได้เล่นอยู่ฝ่ายตรงข้ามกับผู้เล่น DM จะชนะหากผู้เล่นสนุกและเรื่องราวนั้นตื่นเต้นเป็นที่น่าจดจำ
 
-**Use “Yes, and …” or “No, but …”** Allow the players to succeed as much as possible, and let them participate in the telling of the story. If they want to try something unexpected, try to say “yes” and then work their ideas into the story. If you have to say “no” to a player’s idea, suggest options that let them do something similar.
+**ใช้ "ทำได้, และ..." หรือ "ทำไม่ได้, แต่..."** ให้ผู้เล่นทำสำเร็จได้มากเท่าที่จะเป็นไปได้ และให้พวกเขาร่วมเล่าเรื่องไปด้วย ถ้าพวกเขาต้องการจะทดลองทำอะไรที่เกินความคาดหมาย พยายามบอกว่า "ทำได้" จากนั้นเอาไอเดียมาสร้างเป็นเรื่องราว ถ้าคุณต้องบอกว่า "ทำไม่ได้" ให้แนะนำทางเลือกอื่นที่จะให้พวกเขาบรรลุจุดมุ่งหมายได้
 
-**Use Your Imagination.** Peril in Pinebrook is an outline for your game. Change or make up anything you need to if it makes the game more fun. The text can’t cover everything players might want to do. What does a monster smell like? That’s up to you, or you can ask the players what they think!
+**ใช้จินตนาการของคุณ** ภยันตรายในหมู่บ้านไพน์บรูกเป็นเพียงโครงร่างสำหรับเกมของคุณ คุณจะเปลี่ยนแปลงหรือสร้างสิ่งใหม่เพิ่มเติมเข้ามาได้ตามที่คุณต้องการเพื่อให้เกมสนุกขึ้น ข้อความในเอกสารนี้ไม่สามารถครอบคลุมทุกสิ่งที่ผู้เล่นอาจจะอยากทำได้ มอนสเตอร์มีกลิ่นมั๊ย? กลิ่นเป็นยังไง? นี่ขึ้นอยู่กับคุณเลย หรือคุณจะถามผู้เล่นก็ได้ว่าเขาคิดว่ามันเป็นแบบไหน
 
-**NPCs Are Your Voice.** While the players determine what their characters do, the DM controls all the other characters in the game. Nonplayer characters (also known as NPCs) are a great tool for the DM to help the characters understand the game and the story, and to work information into the story smoothly.
+**ตัวละครที่ไม่ใช่ผู้เล่น (NPCs) เป็นเสียงของคุณ** เมื่อผู้เล่นตัดสินใจว่าตัวละครของเขาจะทำอะไร DM จะเป็นผู้ควบคุมตัวละครอื่น ๆ ที่ไม่ใช่ผู้เล่นทั้งหมดในเกม ตัวละครที่ไม่ใช่ผู้เล่น (เรียกว่า NPC) เป็นเครื่องมือที่ดีเยี่ยมสำหรับ DM ที่จะช่วยให้ตัวละครเข้าใจเกมและเรื่องราวได้ และทำให้การเปลี่ยนข้อมูลให้เป็นเรื่องราวทำได้ง่ายขึ้น
 
-**Allow Alternatives.** D&D is a game of fantasy, where heroes use wits, skill, and determination to overcome obstacles. Sometimes those obstacles are defeated with weapons and spells. But characters can succeed in other ways. Communicating with monsters, tricking them or frightening them away, or avoiding a fight while cleverly sneaking past a challenge can be just as much fun. Such options are ideal if anyone playing the game wants to avoid violence.
+**ให้มีหลายทางเลือก** D&D เป็นเกมแห่งโลกจินตนาการ ที่ที่ฮีโร่ใช้ความเฉลียวฉลาด ทักษะ และความมุ่งมั่นในการก้าวข้ามผ่านอุปสรรค บางครั้งอุปสรรคเปล่านั้นก็ผ่านได้ด้วยอาวุธและมนต์คาถา แต่ตัวละครสามารถทำให้สำเร็จด้วยวิธีอื่นก็ได้ การสื่อสารกับมอนสเตอร์ หลอกล่อหรือทำให้กลัวจนหนีไป หรือเลี่ยงการต่อสู้โดยการแอบซ่อนไปก็ทำให้สนุกได้เหมือนกัน ตัวเลือกเหล่านี้สามารถทำได้หากผู้เล่นต้องการจะเลี่ยงการใช้ความรุนแรง
 
-**Listen to Your Players.** Encourage your players to speak to you, publicly or privately, if something in the game upsets them. Then respond appropriately. For instance, you can move past upsetting topics by quickly narrating a resolution to a scene, then quickly move to the next part of the story.
+**ฟังผู้เล่นของคุณ** ให้กระตุ้นผู้เล่นให้พูดคุยกับคุณทั้งแบบเปิดเผยและแบบเป็นส่วนตัว ถ้าบางอย่างในเกมทำให้พวกเขาไม่สบายใจ ก็ขอให้ตอบสนองอย่างเหมาะสม ตัวอย่างเช่น คุณสามารถเร่งบรรยายผ่านเรื่องราวที่ที่ทำให้ไม่สบายใจไปอย่างรวดเร็ว และรีบไปส่วนอื่นของเนื้อเรื่อง
 
 ## Adventure Introduction
 
