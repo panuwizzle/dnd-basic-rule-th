@@ -172,57 +172,57 @@ _"คุณจะทำอะไรต่อ?"_
 
 **ฟังผู้เล่นของคุณ** ให้กระตุ้นผู้เล่นให้พูดคุยกับคุณทั้งแบบเปิดเผยและแบบเป็นส่วนตัว ถ้าบางอย่างในเกมทำให้พวกเขาไม่สบายใจ ก็ขอให้ตอบสนองอย่างเหมาะสม ตัวอย่างเช่น คุณสามารถเร่งบรรยายผ่านเรื่องราวที่ที่ทำให้ไม่สบายใจไปอย่างรวดเร็ว และรีบไปส่วนอื่นของเนื้อเรื่อง
 
-## Adventure Introduction
+## แนะนำการผจญภัย
 
-If you are a player, stop reading here! The rest of this document is for the Dungeon Master only.
+หากคุณเป็นผู้เล่น หยุดอ่านตรงนี้เลย! ส่วนที่เหลือของเอกสารนี้สำหรับ DM เท่านั้น
 
-In Peril in Pinebrook, the characters find a newborn dragon and must return the infant to its mother’s lair. The lair, however, is under attack by hostile forces. As the DM, you'll present the challenges the characters face as they take the baby dragon home.
+ในการผจญภัยนี้ ตัวละครจะพบกับมังกรแรกเกิดและต้องนำมันกลับไปหาแม่ของมันที่รัง แต่ว่ารังมังกรนี้ถูกโจมตีโดยศัตรู เมื่อเป็น DM คุณจะนำเสนอความท้าทายต่าง ๆ ให้ผู้เล่นได้เผชิญหน้าตลอดเส้นทางการนำมังกรน้อยกลับบ้าน
 
-> Text that appears in a box like this is meant to be read aloud to the players. You can read boxed text word-for-word, or use your own words.
+> ข้อความที่ปรากฏในกล่องแบบนี้ หมายความว่าให้คุณอ่านออกเสียงให้ผู้เล่นฟัง คุณสามารถอ่านแบบคำต่อคำหรือจะอธิบายด้วยภาษาของคุณเองก็ได้
 
-To begin the adventure, show your players the character sheets. Then read the following passage aloud to your players:
+ในการเริ่มการผจญภัย แจกชีตตัวละครให้กับผู้เล่นทุกคน และอ่านข้อความนี้ให้ทุกคนฟัง:
 
-> We’re going to play a short game of Dungeons & Dragons. These character sheets have information about your characters on them. You can each have one character to play.
+> วันนี้เราจะเล่นเกมดันเจียนแอนด์ดรากอนเกมสั้น ๆ กัน ชีตตัวละครนี้มีข้อมูลเกี่ยวกับตัวละครที่ทุกคนจะได้เล่น เลือกเล่นได้คนละตัวละคร
 
-You can let the players choose their characters, but if you're time is limited, consider choosing characters for them.
+คุณสามารถให้ผู้เล่นเลือกตัวละครที่จะเล่น แต่ถ้าหากคุณมีเวลาจำกัดก็สามารถเลือกให้พวกเขาได้
 
-Once each player has a character sheet, read the following:
+เมื่อทุกคนได้รับชีตตัวละครเรียบร้อยแล้ว อ่านข้อความต่อไปนี้
 
-> Write your name in the space where it says “Player Name.”
+> เขียนชื่อของคุณลงไปในช่องว่างที่เขียนว่า "ชื่อผู้เล่น" (Player Name)
 >
-> Your character already has a name, which you can use if you want, or you can change the name. There's space below the name where you can give your character a nickname and add your character's pronouns.
+> ตัวละครของคุณมีชื่ออยู่แล้วซึ่งจะใช้เลยหรือจะตั้งชื่อให้ใหม่ก็ได้ มีช่องว่างข้างล่างชื่อนั้นใส่ได้เลย อย่าลืมใส่ชื่อเล่นและคำสรรพนามด้วย
 >
-> Each character sheet has a “Description” area for your character’s appearance, personality, and attitude. Choose from the options there or make up your own. You can act out how your character behaves based on their description and personality.
+> ชีตตัวละคนแต่ละตัวจะมีพื้นที่ "คำอธิบาย" (Description) เอาไว้ใส่ข้อมูลรูปร่าง บุคลิกลักษณะ และแนวความคิด เลือกจากตัวเลือกที่มีหรือเขียนขึ้นมาใหม่เลยก็ได้ คุณสามารถแสดงบทบาทตามลักษณะของตัวละครของคุณได้ตามคำอธิบาย
 
-Offer to help the players fill out these parts of their character sheets if needed. Do your best to answer questions from players, but some questions are best answered as they come up during play. Let the players know that you'll give them more information along the way. Still, you may need to pause between each section to answer questions as you present the following information:
+ให้คอยช่วยผู้เล่นในการกรอกข้อมูลในชีตตัวละครหากจำเป็น พยายามตอบคำถามที่ผู้เล่นถาม แต่บางคำถามก็สามารถรอไปตอบได้ในระหว่างการเล่นได้ ให้ผู้เล่นรู้ว่าพวกเขาจะได้รับข้อมูลเพิ่มเติมเมื่อเรื่องราวดำเนินไป แต่คุณก็อาจจะต้องหยุดเกมบ้างเพื่อตอบคำถามต่าง ๆ:
 
-> Let’s go over other parts of the character sheet. There is some information you should know before we start playing.
+> เรามาดูส่วนอื่น ๆ ของชีตตัวละครกัน มีข้อมูลที่คุณทุกคนน่าจะต้องรู้ก่อนที่เราจะเริ่มเล่นกัน
 >
-> **Race and Class**. Each character in D&D has a race and a class that help determine what things a character does best. Some of the other information on a character sheet is based on a character’s race and class.
+> **เผ่าพันธุ์และคลาส** ตัวละครแต่ละตัวใน D&D จะมีเผ่าพันธุ์และคลาสที่จะช่วยบอกว่าตัวละครทำอะไรได้ดีที่สุด ข้อมูลบางอย่างในชีตตัวละครก็ใช้เผ่าพันธุ์และคลาสเป็นตัวกำหนด
 >
-> **Armor Class and Hit Points**. Each character has an Armor Class (also called AC) and hit points. Armor Class tells how hard it is to hit a character with an attack roll. The higher the AC, the harder it is to hit a character. Hit points determine how much damage a character can take. When a character takes damage, subtract that damage from the character’s hit points. If a character’s hit points reach 0, they are unconscious. You'll learn how to regain hit points later in the game.
+> **ระดับการป้องกัน (Armor Class) และฮิตพอยต์ (Hit Points)** ตัวละครแต่ละตัวจะมีระดับการป้องกันหรืออาเมอร์คลาส (Armor Class: AC) และค่าเลือดหรือฮิตพอยต์ (Hit Points) ระดับการป้องกันจะเป็นตัวบอกว่าตัวละครจะถูกโจมตีได้ยากง่ายขนาดไหน ยิ่งค่า AC มาก ตัวละครก็ถูกโจมตีโดนได้ยาก ฮิตพอยต์เป็นตัวบอกว่าตัวละครรับความเสียหายได้มากสุดเท่าไร เมื่อตัวละครได้รับความเสียหาย ให้ลบออกจากค่าฮิตพอยต์ของตัวละคร ถ้าคนไหนเหลือ 0 ตัวละครนั้นหมดสติ (unconscious) คุณจะได้เรียนรู้ว่าจะฟื้นฟูฮิตพอยต์ยังไงภายในเกม
 >
-> **Attacks**. Each character can make attacks with melee or ranged weapons, or with melee or ranged spells. “Melee” means an attack that is used when a character is right next to a monster. “Ranged” means an attack that is used when a character isn't near a monster. The number after the attack on a character sheet is added to a d20 roll (a roll of a 20-sided die) when a character attacks. The higher the number, the more likely the attack succeeds.
+> **การโจมตี** ตัวละครแต่ละตัวสามารถทำการโจมตีด้วยอาวุธระยะประชิดหรือระยะไกล หรือด้วยคาถาประชิดตัวหรือคาถาจากระยะไกลได้ "ระยะประชิดตัว" (Melee) หมายถึงเมื่อตัวละครอยู่ติดกับมอนสเตอร์แค่ช่วงเอื้อมถึง "ระยะไกล" (Ranged) หมายถึงการโจมตีที่ตัวละครอยู่ห่างจากมอนสเตอร์ ตัวเลขที่อยู่ถัดจากการโจมตีในชีตตัวละครจะนำไปเพิ่มค่าให้ค่าลูกเต๋า d20 ที่เราทอยโจมตีได้ ยิ่งค่าที่ได้สูงเท่าไรก็ยิ่งมีโอกาสโจมตีโดนมากขึ้น
 >
-> **Skills**. Each character can use the skills listed on their character sheet. The number after a skill shows what the player adds to a d20 roll. The higher the number, the better the character is at that skill. If a character wants to use a skill that isn't on their character sheet, the player rolls a 20-sided die but doesn’t add a number to the roll.
+> **ทักษะ** ตัวละครแต่ละตัวสามารถใช้ทักษะที่อยู่ในรายการในชีตตัวละคร ตัวเลขที่อยู่ข้างชื่อทักษะจะนำมาเพิ่มให้ค่าลูกเต๋า d20 ที่เราทอยได้ ยิ่งมีค่ามากแสดงว่าตัวละครเรามีความสามารถสูงในทักษะนั้น ถ้าตัวละครต้องการใช้ทักษะที่ไม่ได้มีอยู่ในชีต ผู้เล่นต้องทอย d20 แต่ไม่ได้ค่าโบนัสเพิ่มเติม
 >
-> **Equipment**. A character has equipment they can use to overcome challenges during adventures. They also might find more equipment during adventures.
+> **อุปกรณ์** ตัวละครจะมีอุปกรณ์ที่พวกเขาจะสามารถใช้ได้เพื่อผ่านอุปสรรคในการผจญภัย บางทีพวกเขาก็ค้นพบอุปกรณ์เพิ่มเติมได้ในระหว่างการเดินทาง
 >
-> **Special Ability**. Each character has a special ability. This ability lets a character do something during the adventure that other characters can’t do. You get to choose when your character uses their special ability, but a character can use a special ability only a limited number of times or under special circumstances.
+> **ความสามารถพิเศษ** ตัวละครแต่ละตัวจะมีความสามารถพิเศษ ความสามารถนี้ทำให้เขาทำบางอย่างที่ตัวละครอื่นทำไม่ได้ คุณต้องเลือกว่าเมื่อไรถึงจะใช้ความสามารถพิเศษเหล่านั้น แต่ความสามารถก็มีจำนวนจำกัดหรือต้องใช้ในกรณีพิเศษเท่านั้น
 
-Explain how d20 rolls work with the following example:
+อธิบายการทำงานของการทอย d20 ด้วยตัวอย่างนี้:
 
-> The character Noorah Eldenfield has a shortbow attack that says “+5 to hit.” When Noorah attacks with a shortbow, Noorah's player rolls a d20 and adds 5 to the number rolled on the die. I’ll tell you if that attack hits the monster. If it does, Noorah’s shortbow attack also says “Damage 1d6 + 3.” The player rolls a 6-sided die and adds 3 to determine the damage dealt by the attack.
+> ตัวละคร นูรา เอลเดนฟิลด์ มีการโจมตีด้วยธนูสั้นที่บอกว่า "+5 to hit" เมื่อนูราทำการโจมตีด้วยธนูสั้น ผู้เล่นของนูราจะทอย d20 และเพิ่มค่าเข้าไปอีก 5 แล้วฉันจะบอกว่าการโจมตีนั้นโจมตีโดนมอนสเตอร์มั๊ย ถ้าโจมตีโดน ธนูสั้นของนูรายังระบุไว้อีกว่า "Damage 1d6 + 3" ผู้เล่นก็ต้องทอยลูกเต๋า 6 หน้าหนึ่งครั้งและเพิ่มค่าเข้าไป 3 เพื่อที่จะหาค่าความเสียหายที่มอนสเตอร์จะได้รับ
 
-A “Player Reference Sheet” also details some of the terms on the character sheets.
+"ชีตอ้างอิงสำหรับผู้เล่น" ก็มีระบุรายละเอียดของคำศัพท์ที่มีอยู่ในชีตตัวละคร
 
-Now let’s get on with the game!
+เอาหละ ไปเล่นเกมกันเถอะ!
 
-## Starting the Adventure
+## เริ่มการผจญภัย
 
-Estimated Time to Play This Encounter: 10 minutes
+เวลาที่คาดว่าจะใช้ในส่วนนี้: 10 นาที
 
-When you and the players are ready to begin the adventure, read the following:
+เมื่อคุณและผู้เล่นพร้อมที่จะเริ่มการผจญภัยแล้ว ให้อ่านข้อความนี้
 
 > You are from the village of Pinebrook, a small settlement near the base of a mountain range called the Spine of the World. In addition to their normal jobs, the citizens of Pinebrook take turns patrolling the forest and hills around the village, making sure the area is safe for the loggers who work in the forest and the miners who dig in the mountains for iron ore. Today, it's your turn to patrol the forest with some of your friends.
 >
