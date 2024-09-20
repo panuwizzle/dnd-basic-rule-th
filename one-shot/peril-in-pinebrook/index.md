@@ -401,11 +401,12 @@ After the players ask all their questions and roleplay their reactions to the dr
 
 ขอให้ผู้เล่นทอยทดสอบทักษะประวัติศาสตร์ (History) หรือทักษะความรู้ทางศาสนา (Religion) DC 10 แม้ว่าอีวานดอนจะเป็นตัวละครเดียวที่มีโบนัสในทักษะทางศาสนา และกาแลนไทน์เป็นตัวละครเดียวที่มีโบนัสในทักษะประวัติศาสตร์ ตัวละครอื่นก็ยังสามารถจะลองทอยทดสอบได้ ผู้เล่นก็แค่ไม่ต้องเพิ่มค่าโบนัสใด ๆ เข้าไป ใช้ค่าที่ได้จาก d20 อย่างเดียว
 
-If any of the characters succeeds on the skill check, tell the players that ice trolls once lived and worked in the cave.
+ถ้าตัวละครคนใดทอยทดสอบผ่าน ให้เล่าเรื่องของโทรลน้ำแข็งที่เคยอาศัยและทำงานกันอยู่ในถ้ำแห่งนี้
 
-Even if no one succeeds on the skill check, continue by reading the following:
+และแม้ว่าจะไม่มีใครทอยทดสอบผ่านเลย ก็อ่านข้อความต่อไปนี้:
 
 > The baby dragon gets more excited after entering the cave, as if it knows it's close to home. Barely visible in the shadows at the back of the cave, a passageway turns into a tunnel that slopes upward toward the center of the mountain.
+> 
 
 Because the cave is dark and spooky beyond the entrance, the characters need to use the torches found in the worn leather backpack to light their way as they explore. The flint and steel in the backpack can be used to light the torches.
 
