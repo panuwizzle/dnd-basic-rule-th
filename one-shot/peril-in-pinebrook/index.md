@@ -405,64 +405,64 @@ After the players ask all their questions and roleplay their reactions to the dr
 
 และแม้ว่าจะไม่มีใครทอยทดสอบผ่านเลย ก็อ่านข้อความต่อไปนี้:
 
-> The baby dragon gets more excited after entering the cave, as if it knows it's close to home. Barely visible in the shadows at the back of the cave, a passageway turns into a tunnel that slopes upward toward the center of the mountain.
-> 
+> ลูกมังกรดูจะตื่นเต้นมากเมื่อได้เข้ามาในถ้ำแล้ว เหมือนว่ามันรู้ว่าทางนี้จะไปถึงบ้านของมันได้ ด้านในสุดของถ้ำที่มองเห็นได้ลาง ๆ นั้นเป็นทางเดินที่กลายเป็นช่องและชันขึ้นไปบริเวณกลางภูเขา
 
-Because the cave is dark and spooky beyond the entrance, the characters need to use the torches found in the worn leather backpack to light their way as they explore. The flint and steel in the backpack can be used to light the torches.
+เพราะภายในถ้ำนั้นมืดจนมองแทบไม่เห็น ตัวละครจึงต้องใช้คบไฟที่เจอในกระเป๋าหน้าหน้าถ้ำเพื่อจุดให้แสดงสว่างและออกเดินทางเข้าไป หินเหล็กไฟและแท่งเหล็กในกระเป๋าสามารถนำมาใช้จุดคบไฟได้
 
-### Reaching the Lair
+### การไปถึงรัง
 
-The characters must overcome three challenges to safely reach the hatching cavern of the silver dragon's lair. Each challenge can be overcome in a variety of ways, using skills, equipment, or attacks.
+ตัวละครต้องผ่านความท้าทาย 3 อย่างให้ได้เพื่อให้ไปถึงถ้ำที่เป็นรังของมังกรเงิน แต่ละความท้าทายสามารถผ่านได้หลายวิธี ทั้งใช้ทักษะ ใช้อุปกรณ์ หรือโจมตี
 
-The challenge descriptions suggest potential ways characters can overcome each challenge. However, if the players come up with other ways that might work, let them make a d20 roll that somehow connects to their idea. Imagination often leads to an even more creative story!
+คำอธิบายโจทย์จะแนะนำวิธีการที่น่าจะเป็นไปได้ให้ตัวละครได้ผ่านแต่ละความท้าทาย อย่างไรก็ตาม ถ้าผู้เล่นมีวิธีอื่นที่อาจจะใช้ได้ ให้พวกเขาลองทอย d20 เพื่อทดสอบไอเดียนั้น จินตนาการมักจะนำไปสู่เรื่องราวที่สร้างสรรค์ใหม่ ๆ
 
-#### Challenge 1: Climbing Icy Walls
+#### ความท้าทายที่ 1: ไต่หน้าผาน้ำแข็ง
 
-As the characters move through the passage, read the following:
+เมื่อตัวละครเดินทางมาถึงทางเดิน อ่านข้อความต่อไปนี้:
 
-> The cold, frosty passage continues until you reach an ice-covered wall. The passage continues fifty feet above. You'll have to climb the wall to move deeper into the mountain.
+> ทางเดินที่มีน้ำแข็งเกาะที่หนาวเย็นนำพาคุณมาถึงกำแพงสูงที่ปกคลุมด้วยน้ำแข็ง ด้านบนกำแพงสูงขึ้นไป 50 ฟุต คุณต้องไต่ผนังขึ้นไปเพื่อจะเดินทางต่อเข้าไปในภูเขา
 
-Characters must succeed on a DC 10 Athletics or Acrobatics check to climb the wall. If a character fails the check, roll 1d6. Tell the player to subtract that number from the character's hit points to represent the damage the character takes from falling before they eventually reach the top.
+ตัวละครต้องทอยทดสอบทักษะการกรีฑา (Athletics) DC 10 เพื่อไต่หน้าผาให้ได้สำเร็จ ถ้าตัวละครทอยไม่ผ่าน ให้ทอย 1d6 และบอกผู้เล่นว่าได้รับความเสียหายจากการตกลงมา และให้ลบค่านี้จากฮิตพอยต์ ก่อนที่ตัวละครจะปีนต่อไปได้สำเร็จ
 
-Noorah has a Climber's Kit on her character sheet (under "Other Equipment") that gives her advantage on the check. If a character who reaches the top has a rope, they can lower the rope to help the other characters. Characters who use the rope can reach the top without making a check.
+นูรามีอุปกรณ์ปีนเขาในชีตตัวละครของเธอ (อยู่ในช่อง "อุปกรณ์อื่น ๆ") นั่นทำให้เธอได้ทอยทดสอบแบบได้เปรียบ ถ้าตัวละครที่ปีนไปถึงด้านบนมีเชือก สามารถหย่อนลงมาให้เพื่อนใช้ปีนได้ และคนที่ใช้เชือกปีนขึ้นไปจะไม่ต้องทอยทดสอบการปีน
 
-The passage then continues upward.
+ขึ้นมาด้านบนก็พบทางเดินต่อไปเป็นทางชันขึ้นไปด้านบน
 
-> **DM Tip**
-> If a character carries the baby dragon and falls during the climb, the dragon doesn't take damage. You can reward a character protecting the baby dragon by giving them advantage on certain rolls.
+> **ทิปสำหรับ DM**
+> ถ้าตัวละครอุ้มลูกมังกรไว้และตกลงมาระหว่างการปีน มังกรจะไม่ได้รับความเสียหาย คุณสามารถให้รางวัลกับตัวละครที่ปกป้องลูกมังกรโดยให้เขาได้ทอยแบบได้เปรียบในการทอยบางอย่างได้
 
-#### Challenge 2: Magical Ice Mirror
+#### ความท้าทายที่ 2: กระจกน้ำแข็งเวทย์มนต์
 
-As the characters continue, read the following:
+เมื่อตัวละครเดินทางต่อมา อ่านข้อความดังนี้:
 
-> The winding, upward-sloping passage is interrupted by a thin sheet of solid ice. Through the ice sheet, you can see the passage continues on the other side. As your torchlight flickers, the ice suddenly becomes as reflective as a mirror, its surface shimmering strangely. In those reflections, you and your companions are all silver dragons, and the baby dragon looks like a human toddler with silver skin.
+> ทางเดินคดเคี้ยวที่ลาดชันขึ้นไปนั้นถูกขวางด้วยแผ่นน้ำแข็งบางใส เมื่อมองผ่านแผ่นน้ำแข็งไปคุณมองเห็นทางที่จะไปต่อได้ และเมื่อแสงไฟตกกระทบ แผ่นน้ำแข็งก็กลายเป็นกระจกสะท้อนภาพได้ พื้นผิวของมันเป็นประกายแปลกประหลาด ในเงาสะท้อนนั้น คุณและเพื่อนมองเห็นเป็นมังกรเงินและลูกมังกรเป็นเด็กน้อยที่มีผิวเป็นสีเงิน
 
-Let the players roleplay and react to this unique discovery, then continue:
+ให้ผู้เล่นได้สวมบทบาทและตอบสนองกับการค้นพบอันแปลกประหลาดนี้ แล้วจึงดำเนินเกมต่อ:
 
-> The head of a large, platinum-colored dragon appears in the ice and speaks. You understand the words the Dragon speaks, even though it isn't speaking in a language you know.
+> ทันใดนั้นก็มีภาพหัวมังกรขนาดใหญ่สีทองคำขาว (แพลตินัม) ปรากฏขึ้นในแผ่นน้ำแข็งและพูดขึ้น คุณเข้าใจคำที่มังกรพูดกับพวกคุณแม้ว่ามันจะไม่ได้พูดในภาษาที่คุณรู้จัก
 >
-> "You are on a blessed quest, but you must speak the correct words in the correct language to enter the lair of one of my children. What two words correctly answer this question: What type of creature are you escorting home?"
+> "พวกเจ้ากำลังปฏิบัติภาระกิจอันศักดิ์สิทธิ์ แต่พวกเจ้าต้องเอ่ยคำที่ถูกต้องในภาษาที่ถูกต้องเพื่อจะผ่านเข้าสู่รังของหนึ่งในลูกหลานของข้า คำตอบสองคำที่ถูกต้องสำหรับคำถามนี้: สิ่งมีชีวิตใดที่พวกเจ้ากำลังนำส่งบ้าน?"
 
-Ask the players to make a DC 10 Arcana, History, or Religion check. If a character succeeds on the check, tell them that the figure in the ice represents Bahamut, the god of the metalliccolored dragons (brass, bronze, copper, gold, and silver).
+ให้ผู้เล่นทอยทดสอบทักษะด้านตำนาน (Arcana), ประวัติศาสตร์ (History), หรือความรู้ทางศาสนา (Religion) DC 10 ถ้าตัวละครทอยสำเร็จ บอกพวกเขาว่ารูปลักษณ์ที่อยู่ในน้ำแข็งนั้นคือ "บาฮามุท" เทพเจ้าแห่งมังกรสีโลหะ (ทองเหลือง, ทองสัมฤทธิ์, ทองแดง, ทอง, และเงิน)
 
-The correct answer to the question is "silver dragon." However, the characters must say this in the Draconic language. They can use the page from Captain Kole's book to find the correct words: "orn darastrix."
+คำตอบที่ถูกต้องสำหรับคำถามนี้คือ "มังกรเงิน" (silver dragon) อย่างไรก็ดี ตัวละครต้องพูดคำตอบนี้ในภาษาดราโกนิค (Draconic) พวกเขาสามารถใช้หน้าหนังสือที่กัปตันโคล์ให้ไว้เพื่อหาคำอ่านที่ถูกต้อง ซึ่งก็คือ "ออน ดาราสตริกซ์" (orn darastrix)
 
-If the players need help answering the question, or if they get the answer partly right, Bahamut's reflection can provide hints such as, "You have one word correct, but you need the other."
+ถ้าผู้เล่นต้องการความช่วยเหลือในการตอบคำถาม หรือพวกเขาได้คำตอบมาเพียงบางส่วน ภาพสะท้อนบาฮามุทสามารถให้คำใบ้ได้เช่น "เจ้าตอบถูกหนึ่งคำแล้ว แต่ยังต้องมีอีกคำ"
 
 If any character speaks the correct words, read the following:
+ถ้าตัวละครพูดคำที่ถูกต้องแล้ว อ่านข้อความต่อไปนี้:
 
-> The ice mirror instantly melts, splashing you all with icy-cold water. But instead of freezing you, the water tingles as it runs down your skin, clothes, and armor. It feels wonderful.
+> กระจกน้ำแข็งก็ละลายอย่างรวดเร็ว มีน้ำเย็นจัดสาดโดนพวกคุณทุกคน แต่แทนที่จะหนาวเพราะความเย็น น้ำนั้นแทรกเข้าไปในตัว ในเสื้อผ้าและเกราะ ทำให้พวกคุณรู้สึกสดชื่นขึ้นมาทันที
 
-Bahamut blessed this water. Tell your players that the healing magic restores each character's hit points to the maximum amount listed on their character sheets.
+บาฮามุทได้ปลุกเสกน้ำนี้ บอกกับผู้เล่นทุกคนว่าพวกเขาได้รับการฟื้นฟูจนเลือดเต็มจากน้ำเวทย์มนต์นี้ ให้ทุกคนที่ได้รับบาดเจ็บปรับค่าฮิตพอยต์ให้เต็ม
 
-Additionally, each character has advantage on the first roll they make in the next challenge (the ice slides).
+นอกจากนี้ ตัวละครทุกคนจะได้ทอยแบบได้เปรียบในครั้งแรกที่ต้องทอยต่อจากนี้ ซึ่งก็คือในความท้าทายต่อไป (สไลเดอร์น้ำแข็ง)
 
-Characters might use other methods of getting past the ice mirror, such as melting the ice with a torch or smashing it with a weapon. If they do that, however, they don't receive Bahamut's healing magic. Also, a character who breaks the mirror takes damage. Roll 1d6 and tell the player to subtract that number from their character's hit points when it shatters.
+ตัวละครอาจจะใช้วิธีอื่นในการผ่านกระจกน้ำแข็ง เช่นละลายน้ำแข็งด้วยคบไฟหรือทุบด้วยอาวุธ ถ้าพวกเขาทำแบบนั้นก็จะไม่ได้รับการฟื้นฟูจากบาฮามุท และตัวละครที่ทุบกระจกน้ำแข็งก็จะได้รับความเสียหาย 1d6 ด้วยเพราะเศษน้ำแข็งแตกบาด
 
-> **DM Tip**
-> Even if the players roll poorly, always allow them to continue forward in the adventure. Consequences for failing challenges might include character's losing hit points, which might make the final encounter more challenging. But you don't want to prevent the characters from continuing with the adventure because of bad luck.
+> **ทิปสำหรับ DM**
+> ถึงแม้ว่าผู้เล่นจะทอยลูกเต๋าได้ไม่ดีนัก ก็ขอให้อนุญาตให้พวกเขาเดินหน้าต่อไปในการผจญภัย ผลที่ตามมาจากการไม่ผ่านความท้าทายอาจจะเป็นการได้รับความเสียหาย ซึ่งจะยิ่งทำให้การต่อสู้สุดท้ายนั้นค่อนข้างยากมากขึ้น แต่คุณก็คงไม่ต้องการให้พวกเขาติดแหง็กเพราะเพียงแค่โชคร้ายหรอกนะ
 
-#### Challenge 3: Navigating the Ice Slides
+#### ความท้าทายที่ 3: ผจญภัยกับสไลเดอร์น้ำแข็ง
 
 The final stretch of tunnels leading to the silver dragon's hatching cavern is made of several icy slides that join, separate, and crisscross each other as they descend. Read the following:
 
