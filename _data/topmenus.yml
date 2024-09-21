@@ -1,8 +1,8 @@
-- name: blog
-  title: บล็อก
-  url: /blog/
-  icon: fa fa-home
-  child: 
+# - name: blog
+#   title: บล็อก
+#   url: /blog/
+#   icon: fa fa-home
+#   child: 
   
 - name: books
   title: หนังสือ
