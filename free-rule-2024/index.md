@@ -1,3 +1,7 @@
+---
+layout: page
+title: Free Rules 2024
+---
 # D&D Free Rules (2024)
 
 Everything you need to get started! When the 2024 Player’s Handbook sees its wide release on September 17, we’ll do a full release of the 2024 D&D Free Rules. This will include the remaining base classes—Barbarian, Bard, Druid, Monk, Paladin, Ranger, Sorcerer, and Warlock—as well as one subclass for each class. The full release will also contain more spells and feats.

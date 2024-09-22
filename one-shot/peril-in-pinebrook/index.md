@@ -1,5 +1,7 @@
 ---
 layout: page
+title: ภยันตรายในไพน์บรูก - Peril in Pinebrook
+description: เนื้อเรื่องการผจญภัยสั้น (one-shot adventure) สำหรับเริ่มเล่น D&D 
 ---
 
 # ภยันตรายในไพน์บรูก

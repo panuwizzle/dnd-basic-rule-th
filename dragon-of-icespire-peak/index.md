@@ -1,6 +1,7 @@
 ---
 layout: book
 menu: menu-doip
+title: มังกรแห่งยอดเขาไอส์สไปร์ - Dragon of Icespire Peak
 ---
 
 # มังกรแห่งยอดเขาไอส์สไปร์

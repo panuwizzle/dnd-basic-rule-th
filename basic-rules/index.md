@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Basic Rules
+title: Basic Rules 2014
 menu: menu-basic-rules
 ---
 
