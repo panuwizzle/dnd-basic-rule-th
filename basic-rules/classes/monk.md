@@ -244,17 +244,17 @@ menu: menu-basic-rules
 
 มองค์แห่งวิถีแห่งเงาเจริญรอยตามประเพณีที่ให้ค่ากับการลอบเร้นและการหลบเลี่ยง มองค์เหล่านี้อาจจะเรียกว่าเป็นนินจาหรือนักเต้นในเงามืด พวกเขารับงานเป็นสายลับหรือนักฆ่า บางครั้งสมาชิกของสำนักนินจาก็เป็นสมาชิกในครอบครัว รวมตัวกันเป็นสกุลที่สาบานจะรักษาความลับของวิชาและภาระกิจ สำนักอื่นจะมีลักษณะคล้ายสมาคมโจร รับจ้างงานต่าง ๆ จากพวกขุนนาง พ่อค้าที่ร่ำรวย และใครก็ตามที่จ่ายค่าจ้าง ไม่เกี่ยงว่าจะใช้วิธีอะไร หัวหน้าของสำนักเหล่านี้ต้องการแค่ให้ศิษย์ทำงานให้อย่างไม่มีข้อโต้แย้ง
 
-#### Shadow Arts
-Starting when you choose this tradition at 3rd level, you can use your ki to duplicate the effects of certain spells. As an action, you can spend 2 ki points to cast darkness, darkvision, pass without trace, or silence, without providing material components. Additionally, you gain the minor illusion cantrip if you don’t already know it.
+#### ศิลปะการใช้เงา (Shadow Arts)
+เริ่มเมื่อคุณเลือกวิถีนี้เมื่อตอนเลเวล 3 คุณสามารถใช้ปราณของคุณในการทำซ้ำผลกระทบจากคาถาได้ โดยการใช้แอ็คชันคุณสามารถใช้ 2 คะแนนปราณในการใช้คาถา [darkness](), [darkvision](), [pass without trace](), หรือ [silence]() โดยไม่ต้องใช้วัตถุเวทย์ นอกจากนั้นคุณยังจะรู้คาถาแคนทริป [minor illusion]() ถ้าคุณยังไม่เคยเรียนรู้คาถานี้มาก่อน
 
-#### Shadow Step
-At 6th level, you gain the ability to step from one shadow into another. When you are in dim light or darkness, as a bonus action you can teleport up to 60 feet to an unoccupied space you can see that is also in dim light or darkness. You then have advantage on the first melee attack you make before the end of the turn.
+#### ก้าวย่างเงา (Shadow Step)
+ที่เลเวล 6 คุณจะได้ความสามารถในการเคลื่อนที่จากเงาหนึ่งไปอีกเงาหนึ่ง เมื่อคุณอยู่ในแสงสลัว (dim light) หรือมืดสนิท (darkness) โดยการใช้โบนัสแอ็คชันคุณสามารถเทเลพอร์ทในระยะ 60 ฟุตไปที่ช่องว่างที่คุณมองเห็นและไม่มีใครอยู่ที่อยู่ในบริเวณแสงสลัวหรือมืดสนิท ซึ่งคุณจะได้ทอยแบบได้เปรียบในการโจมตีระยะประชิดตัวครั้งแรกที่คุณโจมตี ก่อนจะจบเทิร์นของคุณ
 
-#### Cloak of Shadows
-By 11th level, you have learned to become one with the shadows. When you are in an area of dim light or darkness, you can use your action to become invisible. You remain invisible until you make an attack, cast a spell, or are in an area of bright light.
+#### ผ้าคลุมแห่งเงา (Cloak of Shadows)
+ที่เลเวล 11 คุณจะได้เรียนรู้การเป็นหนึ่งเดียวกับเงา เมื่อคุณอยู่ในพื้นที่แสงสลัว (dim light) หรือมืดสนิท (darkness) คุณสามารถใช้แอ็คชันในการล่องหนได้ คุณจะคงสภาพล่องหนจนถึงเมื่อคุณทำการโจมตี ใช้คาถาหรือออกมาอยู่ในพื้นที่แสงจ้า
 
-#### Opportunist
-At 17th level, you can exploit a creature’s momentary distraction when it is hit by an attack. Whenever a creature within 5 feet of you is hit by an attack made by a creature other than you, you can use your reaction to make a melee attack against that creature.
+#### นักฉวยโอกาส (Opportunist)
+ที่เลเวล 17 คุณสามารถฉวยโอกาสตอนที่ศัตรูไขว้เขวขณะถูกโจมตี เมื่อไรก็ตามที่สิ่งมีชีวิตในระยะ 5 ฟุตของคุณถูกโจมตีโดยคนอื่นที่ไม่ใช่คน คุณสามารถใช้รีแอ็คชันในการโจมตีระยะประชิดศัตรูนั้นได้
 
 ### Way of the Astral Self
 
