@@ -715,7 +715,7 @@ Before the characters can do anything else, the mother dragon returns! Read the 
 | เดินทาง     | ossalur            |
 | สมบัติ      | rasvim             |
 | น่าเกลียด   | nurh               |
-| ใต้         | onureth            |
+| ทิศใต้         | onureth            |
 | หุบเขา      | arux               |
 | ชัยชนะ      | vivex              |
 | ต้องการ     | tuor               |

@@ -10,7 +10,7 @@
   icon: fa fa-book
   child: 
     - name: basic-rules
-      title: กฏพื้นฐาน
+      title: กฏพื้นฐาน (2014)
       url: /basic-rules/introduction/
       icon: fa fa-book
 
