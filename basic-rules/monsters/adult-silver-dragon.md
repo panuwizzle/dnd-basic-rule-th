@@ -1,12 +1,10 @@
 ---
 layout: page
----
-
+title: มังกรเงินเต็มวัย (Adult Silver Dragon)
 name: มังกรเงินเต็มวัย
 type: Huge Dragon
 cr: 16
-
-# มังกรเงินเต็มวัย (Adult Silver Dragon)
+---
 
 _Huge Dragon, Lawful Good_
 
@@ -24,7 +22,7 @@ _Huge Dragon, Lawful Good_
 **ประสาทสัมผัส (Senses)** Blindsight 60 ft., Darkvision 120 ft., Passive Perception 21  
 **ภาษา (Languages)** Common, Draconic  
 **ระดับความท้าทาย (Challenge)** 16 (15,000 XP)  
-**โบนัสความเชี่ยวชาญ (Proficiency Bonus)** +5  
+**โบนัสความเชี่ยวชาญ (Proficiency Bonus)** +5
 
 _**ความต้านทานระดับตำนาน (Legendary Resistance) (3/Day).**_ If the dragon fails a saving throw, it can choose to succeed instead.
 
@@ -51,6 +49,7 @@ _**ความต้านทานระดับตำนาน (Legendary Re
 In a new form, the dragon retains its alignment, hit points, Hit Dice, ability to speak, proficiencies, Legendary Resistance, lair actions, and Intelligence, Wisdom, and Charisma scores, as well as this action. Its statistics and capabilities are otherwise replaced by those of the new form, except any class features or legendary actions of that form.
 
 ### Legendary Actions
+
 The dragon can take 3 legendary actions, choosing from the options below. Only one legendary action option can be used at a time and only at the end of another creature's turn. The dragon regains spent legendary actions at the start of its turn.
 
 **_Detect._** The dragon makes a Wisdom (Perception) check.
@@ -62,15 +61,18 @@ The dragon can take 3 legendary actions, choosing from the options below. Only o
 ---
 
 ## A Silver Dragon’s Lair
+
 Silver dragons dwell among the clouds, making their lairs on secluded cold mountain peaks. Though many are comfortable in natural cavern complexes or abandoned mines, silver dragons covet the lost outposts of humanoid civilization. An abandoned mountaintop citadel or a remote tower raised by a long-dead wizard is the sort of lair that every silver dragon dreams of.
 
 ### Lair Actions
+
 On initiative count 20 (losing initiative ties), the dragon takes a lair action to cause one of the following effects:
 
 - The dragon creates fog as if it had cast the fog cloud spell. The fog lasts until initiative count 20 on the next round.
 - A blisteringly cold wind blows through the lair near the dragon. Each creature within 120 feet of the dragon must succeed on a DC 15 Constitution saving throw or take 5 (1d10) cold damage. Gases and vapors are dispersed by the wind, and unprotected flames are extinguished. Protected flames, such as lanterns, have a 50 percent chance of being extinguished.
 
 ### Regional Effects
+
 The region containing a legendary silver dragon’s lair is warped by the dragon’s magic, which creates one or more of the following effects.
 
 - Once per day, the dragon can alter the weather in a 6-mile radius centered on its lair. The dragon doesn’t need to be outdoors; otherwise the effect is identical to the control weather spell.
