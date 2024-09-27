@@ -68,14 +68,14 @@ menu: menu-basic-rules
 #### ฮิตพอยต์
 **ฮิตไดซ์**: 1d10 ต่อเลเวลพาลาดิน
 
-Hit Points at 1st Level: 10 + your Constitution modifier
+**ฮิตพอยต์เมื่อเลเวล 1**: 10 + ค่าโมดิไฟเออร์ความอดทน (Constitution)
 
-Hit Points at Higher Levels: 1d10 (or 6) + your Constitution modifier per paladin level after 1st
+**ฮิตพอยต์เมื่อเลเวลสูงขึ้น**: 1d10 (หรือ 6) + ค่าโมดิไฟเออร์ความอดทน (Constitution) ต่อเลเวลพาลาดินหลังเลเวล 1
 
-Proficiencies
-Armor: All armor, shields
+**ความเชี่ยวชาญ**  
+เกราะ: เกราะทุกชนิด, โล่
 
-Weapons: Simple weapons, martial weapons
+อาวุธ: Simple อาวุธพื้นฐาน, อาวุธสงคราม
 
 Tools: None
 
