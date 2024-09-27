@@ -38,10 +38,10 @@ title: พาลาดิน (Paladin)
 
 คุณสามารถสร้างพาลาดินได้อย่างรวดเร็วโดยทำตามคำแนะนำนี้ อย่างแรก ความแข็งแกร่ง (Strength) ควรเป็นคะแนนความสามารถที่สูงสุด ตามมาด้วยเสน่ห์ (Charisma) อย่างที่สอง เลือกภูมิหลังเป็นชนชั้นสูง (noble background)
 
-| เลเวล | โบนัสความเชี่ยวชาญ | ความสามารถ                                                                                                    | — Spell | Slots | per | Spell | Level — |
+| เลเวล | โบนัสความเชี่ยวชาญ | ความสามารถ                                                                                                  | — Spell | Slots | per | Spell | Level — |
 | ----- | ------------------ | ----------------------------------------------------------------------------------------------------------- | ------- | ----- | --- | ----- | ------- |
 |       |                    |                                                                                                             | 1st     | 2nd   | 3rd | 4th   | 5th     |
-| 1st   | +2                 | [Divine Sense](#DivineSense), [Lay on Hands](#LayonHands)                                                   | —       | —     | —   | —     | —       |
+| 1st   | +2                 | [สัมผัสศักดิ์สิทธิ์ (Divine Sense)](#DivineSense), [Lay on Hands](#LayonHands)                              | —       | —     | —   | —     | —       |
 | 2nd   | +2                 | [Fighting Style](#PaladinFightingStyle), [Spellcasting](#PaladinSpellcasting), [Divine Smite](#DivineSmite) | 2       | —     | —   | —     | —       |
 | 3rd   | +2                 | [Divine Health](#DivineHealth), [Sacred Oath](#SacredOath)                                                  | 3       | —     | —   | —     | —       |
 | 4th   | +2                 | [Ability Score Improvement](#PaladinAbilityScoreImprovement)                                                | 3       | —     | —   | —     | —       |
@@ -66,47 +66,50 @@ title: พาลาดิน (Paladin)
 
 เมื่อเป็นพาลาดิน คุณจะได้รับความสามารถของคลาสดังนี้
 
-#### ฮิตพอยต์
+### ฮิตพอยต์
+
 **ฮิตไดซ์**: 1d10 ต่อเลเวลพาลาดิน
 
 **ฮิตพอยต์เมื่อเลเวล 1**: 10 + ค่าโมดิไฟเออร์ความอดทน (Constitution)
 
 **ฮิตพอยต์เมื่อเลเวลสูงขึ้น**: 1d10 (หรือ 6) + ค่าโมดิไฟเออร์ความอดทน (Constitution) ต่อเลเวลพาลาดินหลังเลเวล 1
 
-**ความเชี่ยวชาญ**  
-เกราะ: เกราะทุกชนิด, โล่
+### ความเชี่ยวชาญ
 
-อาวุธ: Simple อาวุธพื้นฐาน, อาวุธสงคราม
+**เกราะ**: เกราะทุกชนิด, โล่
 
-Tools: None
+**อาวุธ**: อาวุธพื้นฐาน, อาวุธสงคราม
 
-Saving Throws: Wisdom, Charisma
+**เครื่องมือ**: ไม่มี
 
-Skills: Choose two from Athletics, Insight, Intimidation, Medicine, Persuasion, and Religion
+**การทอยป้องกัน**: ความรอบรู้ (Wisdom), เสน่ห์ (Charisma)
 
-Equipment
-You start with the following equipment, in addition to the equipment granted by your background:
+**ทักษะ**: เลือก 2 ทักษะจาก การกรีฑา (Athletics), การมองทะลุ (Insight), การข่มขู่ (Intimidation), ความรู้ทางยา (Medicine), การโน้มน้าวใจ (Persuasion), และการศาสนา (Religion)
 
-- (a) a martial weapon and a shield or (b) two martial weapons
-- (a) five javelins or (b) any simple melee weapon
-- (a) a priest’s pack or (b) an explorer’s pack
-- Chain mail and a holy symbol
+### อุปกรณ์
 
-### Divine Sense
+คุณจะเริ่มด้วยอุปกรณ์ดังต่อไปนี้ เพิ่มเติมจากอุปกรณ์ที่ได้รับจากภูมิหลัง:
 
-The presence of strong evil registers on your senses like a noxious odor, and powerful good rings like heavenly music in your ears. As an action, you can open your awareness to detect such forces. Until the end of your next turn, you know the location of any celestial, fiend, or undead within 60 feet of you that is not behind total cover. You know the type (celestial, fiend, or undead) of any being whose presence you sense, but not its identity (the vampire Count Strahd von Zarovich, for instance). Within the same radius, you also detect the presence of any place or object that has been consecrated or desecrated, as with the [hallow]() spell.
+- (a) อาวุธสงครามและโล่อย่างละชิ้น หรือ (b) อาวุธสงคราม 2 ชิ้น
+- (a) หอกซัด (javelin) 5 ด้าม หรือ (b) อาวุธพื้นฐานใด ๆ
+- (a) ชุดอุปกรณ์นักบวช หรือ (b) ชุดอุปกรณ์นักสำรวจ
+- เกราะโซ่ (Chain mail) และสัญลักษณ์ศักดิ์สิทธิ์
 
-You can use this feature a number of times equal to 1 + your Charisma modifier. When you finish a long rest, you regain all expended uses.
+### สัมผัสศักดิ์สิทธิ์ (Divine Sense) {#DivineSense}
 
-### Lay on Hands
+คุณรับรู้ถึงสิ่งชั่วร้ายได้เหมือนกลิ่นเหม็นรุนแรงติดจมูก และความดีนั้นเหมือนเป็นเสียงสวรรค์ในหูคุณ โดยการใช้แอ็คชัน คุณสามารถเปิดประสาทสัมผัสในการตรวจจับสิ่งเหล่านี้ จนจบเทิร์นหน้าของคุณ คุณจะสามารถระบุตำแหน่งของเซเลสเทียล (celestial - สิ่งมีชีวิตจากสวรรค์), ฟีน (fiend - ปีศาจ) หรือันเดด (undead - ผู้ไม่ตาย) ภายในระยะ 60 ฟุตจากตำแหน่งของคุณโดยต้องไม่อยู่หลังที่กำบังเต็ม (total cover) คุณจะรู้จักชนิด (เซเลสเทียล, ฟีน หรืออันเดด) ของสิ่งที่ปรากฏตัวในสัมผัสรับรู้ของคุณ แต่ไม่ทราบถึงตัวตน (เช่น แวมไพร์ท่านเคาท์สตราด์ท ฟอน ซาโรวิช เป็นต้น) ภายในระยะเดียวกัน คุณยังสามารถตรวจจับการมีอยู่ของสถานที่หรือสิ่งของที่ได้รับการบูชาหรือถูกดูหมิ่น เหมือนการใช้คาถา [เขตศักดิ์สิทธิ์ (hallow)](../../ch11-spells/#hallow)
 
-Your blessed touch can heal wounds. You have a pool of healing power that replenishes when you take a long rest. With that pool, you can restore a total number of hit points equal to your paladin level × 5.
+คุณสามารถใช้ความสามารถนี้เป็นจำนวนครั้งเท่ากับ 1 + ค่าโมดิไฟเออร์เสน่ห์ (Charisma) เมื่อคุณจบการพักยาว คุณจะได้รับจำนวนครั้งที่ใช้ไปคืนมา
 
-As an action, you can touch a creature and draw power from the pool to restore a number of hit points to that creature, up to the maximum amount remaining in your pool.
+### หัตถ์รักษา (Lay on Hands) {#LayonHands}
 
-Alternatively, you can expend 5 hit points from your pool of healing to cure the target of one disease or neutralize one poison affecting it. You can cure multiple diseases and neutralize multiple poisons with a single use of Lay on Hands, expending hit points separately for each one.
+การสัมผัสศักดิ์สิทธิ์ของคุณสามารถรักษาแผลได้ คุณจะมีพลังในการรักษาจำนวนหนึ่งที่จะกลับคืนมาได้หลังการพักยาว ด้วยจำนวนพลังนั้น คุณสามารถจะฟื้นฟูฮิตพอยต์ได้เป็นจำนวนเท่ากับ เลเวลของพาลาดิน x 5
 
-This feature has no effect on undead and constructs.
+โดยการใช้แอ็คชัน คุณสามารถสัมผัสสิ่งมีชีวิตและดึงเอาพลังการรักษาออกมาฟื้นฟูจำนวนฮิตพอยต์ให้กับสิ่งมีชีวิตนั้น ได้เต็มที่เท่ากับจำนวนพลังที่คุณเหลืออยู่จากจำนวนทั้งหมด
+
+นอกจากนั้น คุณสามารถใช้ 5 ฮิตพอยต์จากจำนวนพลังงานการรักษามาใช้รักษาเป้าหมายจากอาการติดโรค (desease) หรือรักษาอาการติดพิษ (poison) คุณสามารถรักษาอาการติดโรคและรักษาพิษให้ได้หลายคนในการใช้ครั้งหนึ่ง โดยจะใช้ฮิตพอยต์แยกกันไปในแต่ละคน
+
+ความสามารถนี้จะไม่มีผลกับอันเดดหรือคอนสตรัก (construct)
 
 ### Fighting Style
 
@@ -132,7 +135,8 @@ When a creature you can see attacks a target other than you that is within 5 fee
 
 By 2nd level, you have learned to draw on divine magic through meditation and prayer to cast spells as a cleric does. See chapter 10 for the general rules of spellcasting and chapter 11 for the paladin spell list.
 
-Preparing and Casting Spells
+#### Preparing and Casting Spells
+
 The Paladin table shows how many spell slots you have to cast your paladin spells. To cast one of your paladin spells of 1st level or higher, you must expend a slot of the spell’s level or higher. You regain all expended spell slots when you finish a long rest.
 
 You prepare the list of paladin spells that are available for you to cast, choosing from the paladin spell list. When you do so, choose a number of paladin spells equal to your Charisma modifier + half your paladin level, rounded down (minimum of one spell). The spells must be of a level for which you have spell slots.
@@ -141,14 +145,16 @@ For example, if you are a 5th-level paladin, you have four 1st-level and two 2nd
 
 You can change your list of prepared spells when you finish a long rest. Preparing a new list of paladin spells requires time spent in prayer and meditation: at least 1 minute per spell level for each spell on your list.
 
-Spellcasting Ability
+#### Spellcasting Ability
+
 Charisma is your spellcasting ability for your paladin spells, since their power derives from the strength of your convictions. You use your Charisma whenever a spell refers to your spellcasting ability. In addition, you use your Charisma modifier when setting the saving throw DC for a paladin spell you cast and when making an attack roll with one.
 
 Spell save DC = 8 + your proficiency bonus + your Charisma modifier
 
 Spell attack modifier = your proficiency bonus + your Charisma modifier
 
-Spellcasting Focus
+#### Spellcasting Focus
+
 You can use a holy symbol (see chapter 5, “Equipment”) as a spellcasting focus for your paladin spells.
 
 ### Divine Smite
