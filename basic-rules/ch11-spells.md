@@ -2337,14 +2337,15 @@ Grasping weeds and vines sprout from the ground in a 20-foot square starting fro
 A creature in the area when you cast the spell must succeed on a Strength saving throw or be restrained by the entangling plants until the spell ends. A creature restrained by the plants can use its action to make a Strength check against your spell save DC. On a success, it frees itself.
 When the spell ends, the conjured plants wilt away.
 
-### Enthrall {#enthrall}
+### ตรึงใจ (Enthrall) {#enthrall}
 
-2nd-level enchantment
-**เวลาในการร่ายคาถา:** 1 แอ็คชัน
-**ระยะ:** 60 ฟุต
-**วิธีการร่ายและวัตถุคาถา:** V, S
-**ระยะเวลาคงคาถา:** 1 นาที
-You weave a distracting string of words, causing creatures of your choice that you can see within range and that can hear you to make a Wisdom saving throw. Any creature that can’t be charmed succeeds on this saving throw automatically, and if you or your companions are fighting a creature, it has advantage on the save. On a failed save, the target has disadvantage on Wisdom (Perception) checks made to perceive any creature other than you until the spell ends or until the target can no longer hear you. The spell ends if you are incapacitated or can no longer speak.
+_2nd-level enchantment_  
+**เวลาในการร่ายคาถา:** 1 แอ็คชัน  
+**ระยะ:** 60 ฟุต  
+**วิธีการร่ายและวัตถุคาถา:** V, S  
+**ระยะเวลาคงคาถา:** 1 นาที  
+
+คุณถักทอเส้นสายถ้อยคำที่ทำให้ใจหวั่นไหว ทำให้สิ่งมีชีวิตที่คุณเลือกในระยะที่คุณมองเห็นและสามารถได้ยินคุณได้ต้องทอยป้องกันด้านความรอบรู้ (Wisdom saving) สิ่งมีชีวิตใดที่ไม่สามารถทำให้[หลงใหล (charmed)](../appendice-a-condition/#charmed) ได้จะทอยป้องกันผ่านโดยอัตโนมัติ และถ้าคุณหรือเพื่อนกำลังต่อสู้กับสิ่งมีชีวิตนี้อยู่ มันจะได้ทอยแบบได้เปรียบ ถ้าทอยไม่ผ่าน เป้าหมายจะต้องทอยแบบเสียเปรียบในการทอยทดสอบความรอบรู้ (Wisdom) ในทักษะการรับรู้ (Perception) ที่ต้องใช้ทดสอบในการตรวจจับสิ่งมีชีวิตอื่นที่ไม่ใช่คุณไปจนจบเวลาคาถา หรือจนกว่าเป้าหมายจะไม่ได้ยินคุณ คาถาจะจบหากคุณ[ไร้ความสามารถ (incapacitated)](../appendice-a-condition/#incapacitated) หรือไม่สามารถพูดได้
 
 ### Etherealness {#etherealness}
 
@@ -4597,11 +4598,11 @@ You can create a permanent teleportation circle by casting this spell in the sam
 ### Thaumaturgy {#thaumaturgy}
 
 Transmutation cantrip
-**เวลาในการร่ายคาถา:** 1 แอ็คชัน
-**ระยะ:** 30 ฟุต
-**วิธีการร่ายและวัตถุคาถา:** V
-**ระยะเวลาคงคาถา:** Up to 1 นาที
-You manifest a minor wonder, a sign of supernatural power, within range. You create one of the following magical effects within **ระยะ:**
+**เวลาในการร่ายคาถา:** 1 แอ็คชัน  
+**ระยะ:** 30 ฟุต  
+**วิธีการร่ายและวัตถุคาถา:** V  
+**ระยะเวลาคงคาถา:** Up to 1 นาที  
+You manifest a minor wonder, a sign of supernatural power, within range. You create one of the following magical effects within ระยะ
 
 - Your voice booms up to three times as loud as normal for 1 นาที.
 - You cause flames to flicker, brighten, dim, or change color for 1 นาที.

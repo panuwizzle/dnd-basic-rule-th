@@ -1,7 +1,7 @@
 ---
 layout: book
 menu: menu-basic-rules
-title: ภาคผนวก A - สภาวะ (Condition)
+title: ภาคผนวก A - สภาวะ (Conditions)
 ---
 
 # ภาคผนวก A: สภาวะ (Condition)
@@ -61,7 +61,7 @@ Finishing a long rest reduces a creature's exhaustion level by 1, provided that 
 
 ## ไร้ความสามารถ (Incapacitated) {#incapacitated}
 
-- สิ่งมีชีวิตที่ไร้ความสามารถจะไม่สามารถทำ แอ็คชัน หรือ รีแอ็คชัน ได้
+- สิ่งมีชีวิตที่ไร้ความสามารถจะไม่สามารถใช้แอ็คชันหรือรีแอ็คชันได้
 
 ## ล่องหน (Invisible) {#invisible}
 
