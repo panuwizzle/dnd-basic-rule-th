@@ -19,21 +19,6 @@
   url: /adventures/
   icon: fa fa-map
   child: 
-    - name: lost-mine-of-phandelver
-      title: เหมืองที่สาปสูญแห่งภาคีแฟนเดลเวอร์
-      url: /lost-mine-of-phandelver/
-      icon: fa fa-map
-
-    - name: dragon-of-icespire-peak
-      title: มังกรแห่งยอดเขาไอส์สไปร์
-      url: /dragon-of-icespire-peak/
-      icon: fa fa-map
-
-    - name: dragon-of-stormwreck-isle
-      title: มังกรแห่งหมู่เกาะพายุคลั่ง
-      url: /dragons-of-stormwreck-isle/
-      icon: fa fa-map
-
     - name: peril-in-pinebrook
       title: ภยันตรายในไพน์บรูค
       url: /one-shot/peril-in-pinebrook
