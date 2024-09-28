@@ -6,7 +6,7 @@ description: เนื้อเรื่องการผจญภัยสั�
 
 เป็นการผจญภัยสั้น (one-shot) แต่งโดย CJ Leung เป็นการผจญภัยที่เขาเอาไว้สอนผู้เล่นใหม่
 
-ผลงานของเขาใน [DMsGuild] (https://www.dmsguild.com/product/238921/Death-Pit-of-Moloch--5E-Adventure-for-Beginner-Dungeon-Masters--Players)
+ผลงานของเขาใน [DMsGuild](https://www.dmsguild.com/product/238921/Death-Pit-of-Moloch--5E-Adventure-for-Beginner-Dungeon-Masters--Players)
 
 เขาเป็นเจ้าของช่อง DontStopThinking มีคลิปสอนการเล่น D&D ที่เข้าใจง่าย สนุก และน่าติดตาม  
 [@DontStopThinking](https://www.youtube.com/@DontStopThinking)
