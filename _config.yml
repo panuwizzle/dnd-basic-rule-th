@@ -31,14 +31,11 @@ twitter_username: jekyllrb
 github_username:  jekyll
 
 # Build settings
-#theme: 5e-blog-theme
-remote_theme: panuwizzle/5e-blog-theme
 plugins:
- - jekyll-remote-theme
  - jekyll-feed
  - jekyll-seo-tag
  - jekyll-sitemap
-
+    
 collections:
   navigation:
     output: true
