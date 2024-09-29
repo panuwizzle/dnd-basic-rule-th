@@ -1,6 +1,7 @@
 ---
 layout: book
 menu: menu-basic-rules
+title: ภาคผนวก A - สภาวะ (Conditions)
 ---
 # ภาคผนวก A: สภาวะ (Condition)
 
@@ -57,9 +58,9 @@ Finishing a long rest reduces a creature's exhaustion level by 1, provided that 
 - The condition ends if the grappler is [incapacitated](./#incapacitated) (see the condition).
 - The condition also ends if an effect removes the grappled creature from the reach of the grappler or grappling effect, such as when a creature is hurled away by the thunderwave spell.
 
-## Incapacitated {#incapacitated}
+## ไร้ความสามารถ (Incapacitated) {#incapacitated}
 
-- An incapacitated creature can't take actions or reactions.
+- สิ่งมีชีวิตที่ไร้ความสามารถจะไม่สามารถใช้แอ็คชันหรือรีแอ็คชันได้
 
 ## Invisible {#invisible}
 

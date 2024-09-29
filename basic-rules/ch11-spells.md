@@ -2332,14 +2332,15 @@ Grasping weeds and vines sprout from the ground in a 20-foot square starting fro
 A creature in the area when you cast the spell must succeed on a Strength saving throw or be restrained by the entangling plants until the spell ends. A creature restrained by the plants can use its action to make a Strength check against your spell save DC. On a success, it frees itself.
 When the spell ends, the conjured plants wilt away.
 
-### Enthrall {#enthrall}
+### ตรึงใจ (Enthrall) {#enthrall}
 
-2nd-level enchantment
-**เวลาในการร่ายคาถา:** 1 แอ็คชัน
-**ระยะ:** 60 ฟุต
-**วิธีการร่ายและวัตถุคาถา:** V, S
-**ระยะเวลาคงคาถา:** 1 นาที
-You weave a distracting string of words, causing creatures of your choice that you can see within range and that can hear you to make a Wisdom saving throw. Any creature that can’t be charmed succeeds on this saving throw automatically, and if you or your companions are fighting a creature, it has advantage on the save. On a failed save, the target has disadvantage on Wisdom (Perception) checks made to perceive any creature other than you until the spell ends or until the target can no longer hear you. The spell ends if you are incapacitated or can no longer speak.
+_2nd-level enchantment_  
+**เวลาในการร่ายคาถา:** 1 แอ็คชัน  
+**ระยะ:** 60 ฟุต  
+**วิธีการร่ายและวัตถุคาถา:** V, S  
+**ระยะเวลาคงคาถา:** 1 นาที  
+
+คุณถักทอเส้นสายถ้อยคำที่ทำให้ใจหวั่นไหว ทำให้สิ่งมีชีวิตที่คุณเลือกในระยะที่คุณมองเห็นและสามารถได้ยินคุณได้ต้องทอยป้องกันด้านความรอบรู้ (Wisdom saving) สิ่งมีชีวิตใดที่ไม่สามารถทำให้[หลงใหล (charmed)](../appendice-a-condition/#charmed) ได้จะทอยป้องกันผ่านโดยอัตโนมัติ และถ้าคุณหรือเพื่อนกำลังต่อสู้กับสิ่งมีชีวิตนี้อยู่ มันจะได้ทอยแบบได้เปรียบ ถ้าทอยไม่ผ่าน เป้าหมายจะต้องทอยแบบเสียเปรียบในการทอยทดสอบความรอบรู้ (Wisdom) ในทักษะการรับรู้ (Perception) ที่ต้องใช้ทดสอบในการตรวจจับสิ่งมีชีวิตอื่นที่ไม่ใช่คุณไปจนจบเวลาคาถา หรือจนกว่าเป้าหมายจะไม่ได้ยินคุณ คาถาจะจบหากคุณ[ไร้ความสามารถ (incapacitated)](../appendice-a-condition/#incapacitated) หรือไม่สามารถพูดได้
 
 ### Etherealness {#etherealness}
 
@@ -2858,24 +2859,37 @@ As a bonus action on each of your turns before the spell ends, you can change th
 
 ### Hallow {#hallow}
 
-5th-level evocation
-**เวลาในการร่ายคาถา:** 24 ชั่วโมง
-**ระยะ:** สัมผัสถึง
-**วิธีการร่ายและวัตถุคาถา:** V, S, M (herbs, oils, and incense worth at least 1,000 gp, which the spell consumes)
-**ระยะเวลาคงคาถา:** Until dispelled
+_5th-level evocation_
+**เวลาในการร่ายคาถา:** 24 ชั่วโมง  
+**ระยะ:** สัมผัสถึง  
+**วิธีการร่ายและวัตถุคาถา:** V, S, M (herbs, oils, and incense worth at least 1,000 gp, which the spell consumes)  
+**ระยะเวลาคงคาถา:** Until dispelled  
+
 You touch a point and infuse an area around it with holy (or unholy) power. The area can have a radius up to 60 ฟุต, and the spell fails if the radius includes an area already under the effect a hallow spell. The affected area is subject to the following effects.
+
 First, celestials, elementals, fey, fiends, and undead can’t enter the area, nor can such creatures charm, frighten, or possess creatures within it. Any creature charmed, frightened, or possessed by such a creature is no longer charmed, frightened, or possessed upon entering the area. You can exclude one or more of those types of creatures from this effect.
+
 Second, you can bind an extra effect to the area. Choose the effect from the following list, or choose an effect offered by the DM. Some of these effects apply to creatures in the area; you can designate whether the effect applies to all creatures, creatures that follow a specific deity or leader, or creatures of a specific sort, such as orcs or trolls. When a creature that would be affected enters the spell’s area for the first time on a turn or starts its turn there, it can make a Charisma saving throw. On a success, the creature ignores the extra effect until it leaves the area.
-Courage. Affected creatures can’t be frightened while in the area.
-Darkness. Darkness fills the area. Normal light, as well as magical light created by spells of a lower level than the slot you used to cast this spell, can’t illuminate the area.
-Daylight. Bright light fills the area. Magical darkness created by spells of a lower level than the slot you used to cast this spell can’t extinguish the light.
-Energy Protection. Affected creatures in the area have resistance to one damage type of your choice, except for bludgeoning, piercing, or slashing.
-Energy Vulnerability. Affected creatures in the area have vulnerability to one damage type of your choice, except for bludgeoning, piercing, or slashing.
-Everlasting Rest. Dead bodies interred in the area can’t be turned into undead.
-Extradimensional Interference. Affected creatures can’t move or travel using teleportation or by extradimensional or interplanar means.
-Fear. Affected creatures are frightened while in the area.
-Silence. No sound can emanate from within the area, and no sound can reach into it.
-Tongues. Affected creatures can communicate with any other creature in the area, even if they don’t share a common language.
+
+**Courage.** Affected creatures can’t be frightened while in the area.
+
+**Darkness.** Darkness fills the area. Normal light, as well as magical light created by spells of a lower level than the slot you used to cast this spell, can’t illuminate the area.
+
+**Daylight.** Bright light fills the area. Magical darkness created by spells of a lower level than the slot you used to cast this spell can’t extinguish the light.
+
+**Energy Protection.** Affected creatures in the area have resistance to one damage type of your choice, except for bludgeoning, piercing, or slashing.
+
+**Energy Vulnerability.** Affected creatures in the area have vulnerability to one damage type of your choice, except for bludgeoning, piercing, or slashing.
+
+**Everlasting Rest.** Dead bodies interred in the area can’t be turned into undead.
+
+**Extradimensional Interference.** Affected creatures can’t move or travel using teleportation or by extradimensional or interplanar means.
+
+**Fear.** Affected creatures are frightened while in the area.
+
+**Silence.** No sound can emanate from within the area, and no sound can reach into it.
+
+**Tongues.** Affected creatures can communicate with any other creature in the area, even if they don’t share a common language.
 
 ### Hallucinatory Terrain {#hallucinatory-terrain}
 
@@ -4577,11 +4591,11 @@ You can create a permanent teleportation circle by casting this spell in the sam
 ### Thaumaturgy {#thaumaturgy}
 
 Transmutation cantrip
-**เวลาในการร่ายคาถา:** 1 แอ็คชัน
-**ระยะ:** 30 ฟุต
-**วิธีการร่ายและวัตถุคาถา:** V
-**ระยะเวลาคงคาถา:** Up to 1 นาที
-You manifest a minor wonder, a sign of supernatural power, within range. You create one of the following magical effects within **ระยะ:**
+**เวลาในการร่ายคาถา:** 1 แอ็คชัน  
+**ระยะ:** 30 ฟุต  
+**วิธีการร่ายและวัตถุคาถา:** V  
+**ระยะเวลาคงคาถา:** Up to 1 นาที  
+You manifest a minor wonder, a sign of supernatural power, within range. You create one of the following magical effects within ระยะ
 
 - Your voice booms up to three times as loud as normal for 1 นาที.
 - You cause flames to flicker, brighten, dim, or change color for 1 นาที.
