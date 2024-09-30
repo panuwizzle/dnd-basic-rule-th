@@ -1,6 +1,7 @@
 ---
 layout: book
 menu: menu-basic-rules
+title: ภาคผนวก D - The Planes of Existence
 ---
 
 # ภาคผนวก D: The Planes of Existence
