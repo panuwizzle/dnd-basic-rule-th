@@ -1,5 +1,6 @@
 ---
 layout: page
+title: ฮาล์ฟเอลฟ์ Half-Elf
 ---
 ## <a name="half-elf">ฮาล์ฟเอลฟ์ Half-Elf</a>
 

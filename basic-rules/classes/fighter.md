@@ -1,6 +1,7 @@
 ---
 layout: book
 menu: menu-basic-rules
+title: ไฟท์เตอร์ (Fighter)
 ---
 
 # ไฟท์เตอร์ (Fighter)

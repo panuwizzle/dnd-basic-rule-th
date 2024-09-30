@@ -1,6 +1,7 @@
 ---
 layout: book
 menu: menu-basic-rules
+title: บทที่ 9 - การต่อสู้
 ---
 # บทที่ 9: การต่อสู้
 

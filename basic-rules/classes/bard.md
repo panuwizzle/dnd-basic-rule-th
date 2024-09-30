@@ -1,6 +1,7 @@
 ---
 layout: book
 menu: menu-basic-rules
+title: บาร์ด (Bard)
 ---
 
 # บาร์ด (Bard) {#bard}

@@ -1,6 +1,7 @@
 ---
 layout: book
 menu: menu-basic-rules
+title: เคลอริก (Cleric)
 ---
 
 # เคลอริก (Cleric)

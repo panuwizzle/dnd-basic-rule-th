@@ -1,5 +1,6 @@
 ---
 layout: page
+title: โนม Gnome
 ---
 ## <a name="gnome">โนม Gnome</a>
 

@@ -1,8 +1,9 @@
 ---
 layout: book
 menu: menu-basic-rules
+title: วิซาร์ด (Wizard)
 ---
-# Wizard
+# วิซาร์ด (Wizard)
 
 Clad in the silver robes that denote her station, an elf closes her eyes to shut out the distractions of the battlefield and begins her quiet chant. Fingers weaving in front of her, she completes her spell and launches a tiny bead of fire toward the enemy ranks, where it erupts into a conflagration that engulfs the soldiers.
 

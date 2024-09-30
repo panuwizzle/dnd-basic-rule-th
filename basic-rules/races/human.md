@@ -1,5 +1,6 @@
 ---
 layout: page
+title: มนุษย์
 ---
 ## <a name="human">มนุษย์</a>
 

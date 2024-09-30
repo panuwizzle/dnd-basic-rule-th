@@ -1,6 +1,7 @@
 ---
 layout: book
 menu: menu-basic-rules
+title: บทที่ 5 - อุปกรณ์
 ---
 # บทที่ 5: อุปกรณ์
 

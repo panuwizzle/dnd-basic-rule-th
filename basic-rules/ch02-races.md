@@ -1,6 +1,7 @@
 ---
 layout: book
 menu: menu-basic-rules
+title: บทที่ 2 - เผ่าพันธุ์
 ---
 # บทที่ 2: เผ่าพันธุ์
 

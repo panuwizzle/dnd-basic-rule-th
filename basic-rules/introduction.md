@@ -2,6 +2,7 @@
 layout: book
 tags: basic-rule
 menu: menu-basic-rules
+title: บทนำ
 ---
 # บทนำ
 

@@ -1,6 +1,7 @@
 ---
 layout: book
 menu: menu-basic-rules
+title: คนเถื่อน บาบาเรียน (Barbarian)
 ---
 
 # คนเถื่อน บาบาเรียน (Barbarian)

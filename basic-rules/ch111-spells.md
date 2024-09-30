@@ -1,6 +1,7 @@
 ---
 layout: book
 menu: menu-basic-rules
+title: บทที่ 11 - คาถา
 ---
 
 # บทที่ 11: คาถา (Spells)

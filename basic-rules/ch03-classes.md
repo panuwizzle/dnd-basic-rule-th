@@ -1,6 +1,7 @@
 ---
 layout: book
 menu: menu-basic-rules
+title: บทที่ 3 - คลาส
 ---
 # บทที่ 3: คลาส
 

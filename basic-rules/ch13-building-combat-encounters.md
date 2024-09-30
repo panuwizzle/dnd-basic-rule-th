@@ -1,6 +1,7 @@
 ---
 layout: book
 menu: menu-basic-rules
+title: บทที่ 13 - การจัดการต่อสู้
 ---
 
 # บทที่ 13: การจัดการต่อสู้

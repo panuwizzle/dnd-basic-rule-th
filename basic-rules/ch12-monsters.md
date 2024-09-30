@@ -1,6 +1,7 @@
 ---
 layout: book
 menu: menu-basic-rules
+title: บทที่ 12 - มอนสเตอร์
 ---
 # บทที่ 12: มอนสเตอร์
 This bestiary is for storytellers and world-builders. If you have ever thought about running a Dungeons & Dragons game for your friends, either a single night’s adventure or a long-running campaign, this tome contains page after page of inspiration. It’s your one-stop shop for creatures both malevolent and benign.

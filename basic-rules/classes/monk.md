@@ -1,6 +1,7 @@
 ---
 layout: book
 menu: menu-basic-rules
+title: มองค์ (Monk)
 ---
 
 # มองค์ (Monk)

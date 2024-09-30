@@ -1,6 +1,7 @@
 ---
 layout: book
 menu: menu-basic-rules
+title: บทที่ 10 - Spellcasting
 ---
 
 # บทที่ 10: Spellcasting

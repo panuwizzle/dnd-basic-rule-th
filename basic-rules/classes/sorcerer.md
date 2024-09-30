@@ -1,8 +1,9 @@
 ---
 layout: book
 menu: menu-basic-rules
+title: ซอเซอร์เรอร์ (Sorcerer)
 ---
-# Sorcerer
+# ซอเซอร์เรอร์ (Sorcerer)
 
 Golden eyes flashing, a human stretches out her hand and unleashes the dragonfire that burns in her veins. As an inferno rages around her foes, leathery wings spread from her back and she takes to the air.
 

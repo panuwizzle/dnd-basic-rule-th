@@ -1,6 +1,7 @@
 ---
 layout: book
 menu: menu-basic-rules
+title: บทที่ 8 - การผจญภัย
 ---
 # บทที่ 8: การผจญภัย
 

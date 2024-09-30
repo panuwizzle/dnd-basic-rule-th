@@ -1,5 +1,6 @@
 ---
 layout: page
+title: ฮาล์ฟอ็อค Half-Orc
 ---
 ## <a name="half-orc">ฮาล์ฟอ็อค Half-Orc</a>
 

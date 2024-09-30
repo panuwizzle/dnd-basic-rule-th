@@ -1,5 +1,6 @@
 ---
 layout: page
+title: ดวอร์ฟ
 ---
 ## <a name="dwarf">ดวอร์ฟ</a>
 

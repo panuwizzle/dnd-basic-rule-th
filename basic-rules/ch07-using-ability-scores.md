@@ -1,6 +1,7 @@
 ---
 layout: book
 menu: menu-basic-rules
+title: บทที่ 7 - การใช้คะแนนความสามารถ (Using Ability Scores)
 ---
 # บทที่ 7: การใช้คะแนนความสามารถ (Using Ability Scores)
 

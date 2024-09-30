@@ -1,6 +1,7 @@
 ---
 layout: book
 menu: menu-basic-rules
+title: ภาคผนวก A: สภาวะ (Condition)
 ---
 # ภาคผนวก A: สภาวะ (Condition)
 
