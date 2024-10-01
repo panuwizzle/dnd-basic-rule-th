@@ -3,6 +3,7 @@ layout: book
 menu: menu-basic-rules
 title: ภาคผนวก A - สภาวะ (Condition)
 ---
+
 # ภาคผนวก A: สภาวะ (Condition)
 
 Conditions alter a creature's capabilities in a variety of ways and can arise as a result of a spell, a class feature, a monster's attack, or other effect. Most conditions, such as blinded, are impairments, but a few, such as invisible, can be advantageous.
@@ -58,20 +59,20 @@ Finishing a long rest reduces a creature's exhaustion level by 1, provided that 
 - The condition ends if the grappler is [incapacitated](./#incapacitated) (see the condition).
 - The condition also ends if an effect removes the grappled creature from the reach of the grappler or grappling effect, such as when a creature is hurled away by the thunderwave spell.
 
-## Incapacitated {#incapacitated}
+## ไร้ความสามารถ (Incapacitated) {#incapacitated}
 
-- An incapacitated creature can't take actions or reactions.
+- สิ่งมีชีวิตที่ไร้ความสามารถจะไม่สามารถทำ แอ็คชัน หรือ รีแอ็คชัน ได้
 
-## Invisible {#invisible}
+## ล่องหน (Invisible) {#invisible}
 
-- An invisible creature is impossible to see without the aid of magic or a special sense. For the purpose of hiding, the creature is heavily obscured. The creature's location can be detected by any noise it makes or any tracks it leaves.
-- Attack rolls against the creature have disadvantage, and the creature's attack rolls have advantage.
+- จะไม่สามารถมองเห็นสิ่งมีชีวิตที่ล่องหนได้หากไม่มีตัวช่วยอย่างเวทย์มนต์หรือสัมผัสพิเศษ เพื่อจุดประสงค์ในการซ่อนตัว สิ่งมีชีวิตจะอยู่ในพื้นที่ที่ถูกบดบังอย่างมาก (heavily obscured) ตำแหน่งของสิ่งมีชีวิตจะสามารถตรวจจับได้จากเสียงหรือร่องรอยที่มันทิ้งไว้
+- การทอยโจมตีไปที่สิ่งมีชีวิตนั้นจะเป็นแบบเสียเปรียบ และการทอยโจมตีจากสิ่งมีชีวิตนั้นจะเป็นการทอยแบบได้เปรียบ
 
-## Paralyzed {#paralyzed}
+## อัมพาต (Paralyzed) {#paralyzed}
 
-- A paralyzed creature is incapacitated (see the condition) and can't move or speak.
-- The creature automatically fails Strength and Dexterity saving throws. Attack rolls against the creature have advantage.
-- Any attack that hits the creature is a critical hit if the attacker is within 5 feet of the creature.
+- สิ่งมีชีวิตที่เป็นอัมพาตจะไร้ความสามารถ (incapacitated) และไม่สามารถเคลื่อนไหวหรือพูดได้
+- สิ่งมีชีวิตนั้นจะล้มเหลวในการทอยป้องกันด้านความแข็งแกร่ง (Strength) และความคล่องแคล่ว (Dexterity) การทอยโจมตีต่อสิ่งมีชีวิตนั้นจะเป็นการทอยแบบได้เปรียบ
+- การโจมตีใดที่โดนสิ่งมีชีวิตนั้นจะเป็นคริติคัลถ้าผู้โจมตีอยู่ในระยะ 5 ฟุต
 
 ## Petrified {#petrified}
 
@@ -82,9 +83,9 @@ Finishing a long rest reduces a creature's exhaustion level by 1, provided that 
 - The creature has resistance to all damage.
 - The creature is immune to poison and disease, although a poison or disease already in its system is suspended, not neutralized.
 
-## Poisoned {#poisoned}
+## ติดพิษ (Poisoned) {#poisoned}
 
-- A poisoned creature has disadvantage on attack rolls and ability checks.
+- สิ่งมีชีวิตที่ติดพิษจะต้องทอยโจมตีและทอยทดสอบความสามารถแบบเสียเปรียบ
 
 ## Prone {#prone}
 
@@ -92,11 +93,11 @@ Finishing a long rest reduces a creature's exhaustion level by 1, provided that 
 - The creature has disadvantage on attack rolls.
 - An attack roll against the creature has advantage if the attacker is within 5 feet of the creature. Otherwise, the attack roll has disadvantage.
 
-## Restrained {#restrained}
+## การถูกรัดตรึง (Restrained) {#restrained}
 
-- A restrained creature's speed becomes 0, and it can't benefit from any bonus to its speed.
-- Attack rolls against the creature have advantage, and the creature's attack rolls have disadvantage.
-- The creature has disadvantage on Dexterity saving throws.
+- สิ่งมีชีวิตที่ถูกรัดตรึง ความเร็วจะกลายเป็น 0 และไม่สามารถได้รับผลประโยชน์จากโบนัสที่เกี่ยวกับความเร็ว
+- การทอยโจมตีสิ่งมีชีวิตนั้นจะได้ทอยแบบได้เปรียบ และการทอยโจมตีจากสิ่งมีชีวิตนั้นจะเป็นการทอยแบบเสียเปรียบเสมอ
+- สิ่งมีชีวิตนั้นจะต้องทอยแบบเสียเปรียบในการทอยป้องกันความคล่องแคล่ว (Dexterity saving throw)
 
 ## Stunned {#stunned}
 

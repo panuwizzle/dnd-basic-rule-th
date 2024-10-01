@@ -1197,15 +1197,17 @@ You create an invisible, magical eye within range that hovers in the air for the
 You mentally receive visual information from the eye, which has normal vision and darkvision out to 30 ฟุต. The eye can look in every direction.
 As an action, you can move the eye up to 30 ฟุต in any direction. There is no limit to how far away from you the eye can move, but it can’t enter another plane of existence. A solid barrier blocks the eye’s movement, but the eye can pass through an opening as small as 1 inch in diameter.
 
-### Arcane Lock {#arcane-lock}
+### ล็อคเวทย์มนต์ (Arcane Lock) {#arcane-lock}
 
-2nd-level abjuration
-**เวลาในการร่ายคาถา:** 1 แอ็คชัน
-**ระยะ:** สัมผัสถึง
-**วิธีการร่ายและวัตถุคาถา:** V, S, M (gold dust worth at least 25 gp, which the spell consumes)
-**ระยะเวลาคงคาถา:** Until dispelled
-You touch a closed door, window, gate, chest, or other entryway, and it becomes locked for the duration. You and the creatures you designate when you cast this spell can open the object normally. You can also set a password that, when spoken within 5 ฟุต of the object, suppresses this spell for 1 นาที. Otherwise, it is impassable until it is broken or the spell is dispelled or suppressed. Casting knock on the object suppresses arcane lock for 10 minutes.
-While affected by this spell, the object is more difficult to break or force open; the DC to break it or pick any locks on it increases by 10.
+2nd-level abjuration  
+**เวลาในการร่ายคาถา:** 1 แอ็คชัน  
+**ระยะ:** สัมผัสถึง  
+**วิธีการร่ายและวัตถุคาถา:** V, S, M (ผงทองที่มีค่า 25gp เป็นของสังเวยคาถา)  
+**ระยะเวลาคงคาถา:** จนกว่าจะสั่งยกเลิก  
+
+คุณสัมผัสประตู หน้าต่าง ประตู หีบ หรือทางเข้าอื่นๆ ที่ปิดอยู่ และประตูจะถูกล็อคไว้ชั่วระยะเวลาหนึ่ง คุณและสิ่งมีชีวิตที่คุณกำหนดเมื่อร่ายคาถานี้สามารถเปิดสิ่งเหล่านั้นได้ตามปกติ คุณยังสามารถตั้งรหัสผ่านที่เมื่อพูดออกมาภายในระยะ 5 ฟุตจากวัตถุ จะทำให้คาถานี้หยุดทำงานเป็นเวลา 1 นาที มิฉะนั้น จะไม่สามารถผ่านได้จนกว่าจะถูกทำลายหรือคาถาถูกยกเลิกหรือถูกระงับ การร่ายคาถาเคาะบนวัตถุจะทำให้การล็อกเวทย์มนตร์ถูกระงับเป็นเวลา 10 นาที
+
+ในระหว่างที่ได้รับผลกระทบจากคาถานี้ วัตถุนั้นจะทำลายหรือเปิดออกได้ยากขึ้น และ DC ที่ใช้ทำลายหรือไขกุญแจใดๆ บนวัตถุจะเพิ่มขึ้น 10 หน่วย
 
 ### Astral Projection {#astral-projection}
 
@@ -1311,7 +1313,7 @@ You touch a creature, and that creature must succeed on a Wisdom saving throw or
 - While the target is cursed, your attacks and spells deal an extra 1d8 necrotic damage to the target.
 
 A remove curse spell ends this effect. At the DM’s option, you may choose an alternative curse effect, but it should be no more powerful than those described above. The DM has final say on such a curse’s effect.
-At Higher Levels. If you cast this spell using a spell slot of 4th level or higher, the duration is เพ่งสมาธิ, up to 10 minutes. If you use a spell slot of 5th level or higher, the duration is 8 ชั่วโมง. If you use a spell slot of 7th level or higher, the duration is 24 ชั่วโมง. If you use a 9th level spell slot, the spell lasts until it is dispelled. Using a spell slot of 5th level or higher grants a duration that doesn’t require เพ่งสมาธิ.
+At Higher Levels. If you cast this spell using a spell slot of 4th level or higher, the duration is เพ่งสมาธิ, มากที่สุด 10 นาที. If you use a spell slot of 5th level or higher, the duration is 8 ชั่วโมง. If you use a spell slot of 7th level or higher, the duration is 24 ชั่วโมง. If you use a 9th level spell slot, the spell lasts until it is dispelled. Using a spell slot of 5th level or higher grants a duration that doesn’t require เพ่งสมาธิ.
 
 ### Blade Barrier {#blade-barrier}
 
@@ -1319,7 +1321,7 @@ At Higher Levels. If you cast this spell using a spell slot of 4th level or high
 **เวลาในการร่ายคาถา:** 1 แอ็คชัน
 **ระยะ:** 90 ฟุต
 **วิธีการร่ายและวัตถุคาถา:** V, S
-**ระยะเวลาคงคาถา:** เพ่งสมาธิ, up to 10 minutes
+**ระยะเวลาคงคาถา:** เพ่งสมาธิ, มากที่สุด 10 นาที
 You create a vertical wall of whirling, razor-sharp blades made of magical energy. The wall appears within range and lasts for the duration. You can make a straight wall up to 100 ฟุต long, 20 ฟุต high, and 5 ฟุต thick, or a ringed wall up to 60 ฟุต in diameter, 20 ฟุต high, and 5 ฟุต thick. The wall provides three-quarters cover to creatures behind it, and its space is difficult terrain.
 When a creature enters the wall’s area for the first time on a turn or starts its turn there, the creature must make a Dexterity saving throw. On a failed save, the creature takes 6d10 slashing damage. On a successful save, the creature takes half as much damage.
 
@@ -1403,7 +1405,7 @@ At Higher Levels. When you cast this spell using a spell slot of 2nd level or hi
 **เวลาในการร่ายคาถา:** 1 แอ็คชัน
 **ระยะ:** 120 ฟุต
 **วิธีการร่ายและวัตถุคาถา:** V, S
-**ระยะเวลาคงคาถา:** เพ่งสมาธิ, up to 10 minutes
+**ระยะเวลาคงคาถา:** เพ่งสมาธิ, มากที่สุด 10 นาที
 A storm cloud appears in the shape of a cylinder that is 10 ฟุต tall with a 60-foot radius, centered on a point you can see within range directly above you. The spell fails if you can’t see a point in the air where the storm cloud could appear (for example, if you are in a room that can’t accommodate the cloud).
 When you cast the spell, choose a point you can see under the cloud. A bolt of lightning flashes down from the cloud to that point. Each creature within 5 ฟุต of that point must make a Dexterity saving throw. A creature takes 3d10 lightning damage on a failed save, or half as much damage on a successful one. On each of your turns until the spell ends, you can use your action to call down lightning in this way again, targeting the same point or a different one.
 If you are outdoors in stormy conditions when you cast this spell, the spell gives you control over the existing storm instead of creating a new one. Under such conditions, the spell’s damage increases by 1d10.
@@ -1468,7 +1470,7 @@ At Higher Levels. When you cast this spell using a spell slot of 7th level or hi
 **เวลาในการร่ายคาถา:** 10 minutes
 **ระยะ:** 1 mile
 **วิธีการร่ายและวัตถุคาถา:** V, S, M (a focus worth at least 100 gp, either a jeweled horn for hearing or a glass eye for seeing)
-**ระยะเวลาคงคาถา:** เพ่งสมาธิ, up to 10 minutes
+**ระยะเวลาคงคาถา:** เพ่งสมาธิ, มากที่สุด 10 นาที
 You create an invisible sensor within range in a location familiar to you (a place you have visited or seen before) or in an obvious location that is unfamiliar to you (such as behind a door, around a corner, or in a grove of trees). The sensor remains in place for the duration, and it can’t be attacked or otherwise interacted with.
 When you cast the spell, you choose seeing or hearing. You can use the chosen sense through the sensor as if you were in its space. As your action, you can switch between seeing and hearing.
 A creature that can see the sensor (such as a creature benefiting from see invisibility or truesight) sees a luminous, intangible orb about the size of your fist.
@@ -1489,7 +1491,7 @@ At any time after the clone matures, if the original creature dies, its soul tra
 **เวลาในการร่ายคาถา:** 1 แอ็คชัน
 **ระยะ:** 120 ฟุต
 **วิธีการร่ายและวัตถุคาถา:** V, S
-**ระยะเวลาคงคาถา:** เพ่งสมาธิ, up to 10 minutes
+**ระยะเวลาคงคาถา:** เพ่งสมาธิ, มากที่สุด 10 นาที
 You create a 20-foot-radius sphere of poisonous, yellow-green fog centered on a point you choose within range. The fog spreads around corners. It lasts for the duration or until strong wind disperses the fog, ending the spell. Its area is heavily obscured.
 When a creature enters the spell’s area for the first time on a turn or starts its turn there, that creature must make a Constitution saving throw. The creature takes 5d8 poison damage on a failed save, or half as much damage on a successful one. Creatures are affected even if they hold their breath or don’t need to breathe.
 The fog moves 10 ฟุต away from you at the start of each of your turns, rolling along the surface of the ground. The vapors, being heavier than air, sink to the lowest level of the land, even pouring down openings.
@@ -1769,7 +1771,7 @@ A flame, equivalent in brightness to a torch, springs forth from an object that 
 **เวลาในการร่ายคาถา:** 1 แอ็คชัน
 **ระยะ:** 300 ฟุต
 **วิธีการร่ายและวัตถุคาถา:** V, S, M (a drop of water and a pinch of dust)
-**ระยะเวลาคงคาถา:** เพ่งสมาธิ, up to 10 minutes
+**ระยะเวลาคงคาถา:** เพ่งสมาธิ, มากที่สุด 10 นาที
 Until the spell ends, you control any freestanding water inside an area you choose that is a cube up to 100 ฟุต on a side. You can choose from any of the following effects when you cast this spell. As an action on your turn, you can repeat the same effect or choose a different one.
 Flood. You cause the water level of all standing water in the area to rise by as much as 20 ฟุต. If the area includes a shore, the flooding water spills over onto dry land.
 If you choose an area in a large body of water, you instead create a 20-foot tall wave that travels from one side of the area to the other and then crashes down. Any Huge or smaller vehicles in the wave’s path are carried with it to the other side. Any Huge or smaller vehicles struck by the wave have a 25 percent chance of capsizing.
@@ -2007,7 +2009,7 @@ As a bonus action on your turn, you can move the lights up to 60 ฟุต to a 
 **เวลาในการร่ายคาถา:** 1 แอ็คชัน
 **ระยะ:** 60 ฟุต
 **วิธีการร่ายและวัตถุคาถา:** V, M (bat fur and a drop of pitch or piece of coal)
-**ระยะเวลาคงคาถา:** เพ่งสมาธิ, up to 10 minutes
+**ระยะเวลาคงคาถา:** เพ่งสมาธิ, มากที่สุด 10 นาที
 Magical darkness spreads from a point you choose within range to fill a 15-foot-radius sphere for the duration. The darkness spreads around corners. A creature with darkvision can’t see through this darkness, and nonmagical light can’t illuminate it.
 If the point you choose is on an object you are holding or one that isn’t being worn or carried, the darkness emanates from the object and moves with it. Completely covering the source of the darkness with an opaque object, such as a bowl or a helm, blocks the darkness.
 If any of this spell’s area overlaps with an area of light created by a spell of 2nd level or lower, the spell that created the light is dispelled.
@@ -2072,19 +2074,21 @@ Each time you cast this spell, you can create a new demiplane, or have the shado
 **เวลาในการร่ายคาถา:** 1 แอ็คชัน
 **ระยะ:** Self
 **วิธีการร่ายและวัตถุคาถา:** V, S
-**ระยะเวลาคงคาถา:** เพ่งสมาธิ, up to 10 minutes
+**ระยะเวลาคงคาถา:** เพ่งสมาธิ, มากที่สุด 10 นาที
 For the duration, you know if there is an aberration, celestial, elemental, fey, fiend, or undead within 30 ฟุต of you, as well as where the creature is located. Similarly, you know if there is a place or object within 30 ฟุต of you that has been magically consecrated or desecrated.
 The spell can penetrate most barriers, but it is blocked by 1 foot of stone, 1 inch of common metal, a thin sheet of lead, or 3 ฟุต of wood or dirt.
 
-### Detect Magic {#detect-magic}
+### ตรวจจับเวทย์มนต์ (Detect Magic) {#detect-magic}
 
-1st-level divination (พิธีกรรม)
-**เวลาในการร่ายคาถา:** 1 แอ็คชัน
-**ระยะ:** Self
-**วิธีการร่ายและวัตถุคาถา:** V, S
-**ระยะเวลาคงคาถา:** เพ่งสมาธิ, up to 10 minutes
-For the duration, you sense the presence of magic within 30 ฟุต of you. If you sense magic in this way, you can use your action to see a faint aura around any visible creature or object in the area that bears magic, and you learn its school of magic, if any.
-The spell can penetrate most barriers, but it is blocked by 1 foot of stone, 1 inch of common metal, a thin sheet of lead, or 3 ฟุต of wood or dirt.
+1st-level divination (พิธีกรรม)  
+**เวลาในการร่ายคาถา:** 1 แอ็คชัน  
+**ระยะ:** Self  
+**วิธีการร่ายและวัตถุคาถา:** V, S  
+**ระยะเวลาคงคาถา:** เพ่งสมาธิ, มากที่สุด 10 นาที  
+
+ในช่วงเวลาหนึ่ง คุณจะสัมผัสได้ถึงการมีอยู่ของเวทย์มนต์ในระยะ 30 ฟุตรอบตัวคุณ ถ้าคุณสัมผัสได้ถึงเวทย์มนต์ในการใช้คาถานี้ คุณสามารถใช้แอ็คชันในการมองดูออร่าจาง ๆ ที่อยู่รอบสิ่งมีชีวิตหรือวัตถุที่มีเวทย์มนต์อยู่ที่คุณมองเห็นได้ในพื้นที่ และคุณสามารถรู้ได้ว่าเป็นเวทย์มนต์สำนักใด (school of magic) ถ้ามีสังกัด
+
+คาถานี้สามารถทะลุสิ่งกีดขวางส่วนใหญ่ได้ แต่จะถูกปิดกั้นด้วยชั้นหินหนา 1 ฟุต, โลหะหนา 1 นิ้ว, แผ่นตะกั่ว หรือไม้หรือดินที่หนา 3 ฟุต
 
 ### Detect Poison and Disease {#detect-poison-and-disease}
 
@@ -2092,7 +2096,7 @@ The spell can penetrate most barriers, but it is blocked by 1 foot of stone, 1 i
 **เวลาในการร่ายคาถา:** 1 แอ็คชัน
 **ระยะ:** Self
 **วิธีการร่ายและวัตถุคาถา:** V, S, M (a yew leaf)
-**ระยะเวลาคงคาถา:** เพ่งสมาธิ, up to 10 minutes
+**ระยะเวลาคงคาถา:** เพ่งสมาธิ, มากที่สุด 10 นาที
 For the duration, you can sense the presence and location of poisons, poisonous creatures, and diseases within 30 ฟุต of you. You also identify the kind of poison, poisonous creature, or disease in each case.
 The spell can penetrate most barriers, but it is blocked by 1 foot of stone, 1 inch of common metal, a thin sheet of lead, or 3 ฟุต of wood or dirt.
 
@@ -2213,7 +2217,7 @@ You attempt to beguile a beast that you can see within range. It must succeed on
 While the beast is charmed, you have a telepathic link with it as long as the two of you are on the same plane of existence. You can use this telepathic link to issue commands to the creature while you are conscious (no action required), which it does its best to obey. You can specify a simple and general course of action, such as “Attack that creature,” “Run over there,” or “Fetch that object.” If the creature completes the order and doesn’t receive further direction from you, it defends and preserves itself to the best of its ability.
 You can use your action to take total and precise control of the target. Until the end of your next turn, the creature takes only the actions you choose, and doesn’t do anything that you don’t allow it to do. During this time, you can also cause the creature to use a reaction, but this requires you to use your own reaction as well.
 Each time the target takes damage, it makes a new Wisdom saving throw against the spell. If the saving throw succeeds, the spell ends.
-At Higher Levels. When you cast this spell with a 5th-level spell slot, the duration is เพ่งสมาธิ, up to 10 minutes. When you use a 6th-level spell slot, the duration is เพ่งสมาธิ, up to 1 hour. When you use a spell slot of 7th level or higher, the duration is เพ่งสมาธิ, up to 8 ชั่วโมง.
+At Higher Levels. When you cast this spell with a 5th-level spell slot, the duration is เพ่งสมาธิ, มากที่สุด 10 นาที. When you use a 6th-level spell slot, the duration is เพ่งสมาธิ, up to 1 hour. When you use a spell slot of 7th level or higher, the duration is เพ่งสมาธิ, up to 8 ชั่วโมง.
 
 ### Dominate Monster {#dominate-monster}
 
@@ -2239,7 +2243,7 @@ You attempt to beguile a humanoid that you can see within range. It must succeed
 While the target is charmed, you have a telepathic link with it as long as the two of you are on the same plane of existence. You can use this telepathic link to issue commands to the creature while you are conscious (no action required), which it does its best to obey. You can specify a simple and general course of action, such as “Attack that creature,” “Run over there,” or “Fetch that object.” If the creature completes the order and doesn’t receive further direction from you, it defends and preserves itself to the best of its ability.
 You can use your action to take total and precise control of the target. Until the end of your next turn, the creature takes only the actions you choose, and doesn’t do anything that you don’t allow it to do. During this time you can also cause the creature to use a reaction, but this requires you to use your own reaction as well.
 Each time the target takes damage, it makes a new Wisdom saving throw against the spell. If the saving throw succeeds, the spell ends.
-At Higher Levels. When you cast this spell using a 6th-level spell slot, the duration is เพ่งสมาธิ, up to 10 minutes. When you use a 7th-level spell slot, the duration is เพ่งสมาธิ, up to 1 hour. When you use a spell slot of 8th level or higher, the duration is เพ่งสมาธิ, up to 8 ชั่วโมง.
+At Higher Levels. When you cast this spell using a 6th-level spell slot, the duration is เพ่งสมาธิ, มากที่สุด 10 นาที. When you use a 7th-level spell slot, the duration is เพ่งสมาธิ, up to 1 hour. When you use a spell slot of 8th level or higher, the duration is เพ่งสมาธิ, up to 8 ชั่วโมง.
 
 ### Dream {#dream}
 
@@ -2362,7 +2366,7 @@ At Higher Levels. When you cast this spell using a spell slot of 8th level or hi
 **เวลาในการร่ายคาถา:** 1 โบนัสแอ็คชัน
 **ระยะ:** Self
 **วิธีการร่ายและวัตถุคาถา:** V, S
-**ระยะเวลาคงคาถา:** เพ่งสมาธิ, up to 10 minutes
+**ระยะเวลาคงคาถา:** เพ่งสมาธิ, มากที่สุด 10 นาที
 This spell allows you to move at an incredible pace. When you cast this spell, and then as a bonus action on each of your turns until the spell ends, you can take the Dash action.
 
 ### Eyebite {#eyebite}
@@ -2546,7 +2550,7 @@ The fire damages objects in the area and ignites flammable objects that aren’t
 **เวลาในการร่ายคาถา:** 1 โบนัสแอ็คชัน
 **ระยะ:** Self
 **วิธีการร่ายและวัตถุคาถา:** V, S, M (leaf of sumac)
-**ระยะเวลาคงคาถา:** เพ่งสมาธิ, up to 10 minutes
+**ระยะเวลาคงคาถา:** เพ่งสมาธิ, มากที่สุด 10 นาที
 You evoke a fiery blade in your free hand. The blade is similar in size and shape to a scimitar, and it lasts for the duration. If you let go of the blade, it disappears, but you can evoke the blade again as a bonus action.
 You can use your action to make a melee spell attack with the fiery blade. On a hit, the target takes 3d6 fire damage.
 The flaming blade sheds bright light in a 10-foot radius and dim light for an additional 10 ฟุต.
@@ -2592,7 +2596,7 @@ If you maintain your เพ่งสมาธิ on this spell for the entire po
 **เวลาในการร่ายคาถา:** 1 แอ็คชัน
 **ระยะ:** สัมผัสถึง
 **วิธีการร่ายและวัตถุคาถา:** V, S, M (a wing feather from any bird)
-**ระยะเวลาคงคาถา:** เพ่งสมาธิ, up to 10 minutes
+**ระยะเวลาคงคาถา:** เพ่งสมาธิ, มากที่สุด 10 นาที
 You touch a willing creature. The target gains a flying speed of 60 ฟุต for the duration. When the spell ends, the target falls if it is still aloft, unless it can stop the fall.
 At Higher Levels. When you cast this spell using a spell slot of 4th level or higher, you can target one additional creature for each slot level above 3rd.
 
@@ -2705,7 +2709,7 @@ The spell also effectively extends the time limit on raising the target from the
 **เวลาในการร่ายคาถา:** 1 แอ็คชัน
 **ระยะ:** 30 ฟุต
 **วิธีการร่ายและวัตถุคาถา:** V, S
-**ระยะเวลาคงคาถา:** เพ่งสมาธิ, up to 10 minutes
+**ระยะเวลาคงคาถา:** เพ่งสมาธิ, มากที่สุด 10 นาที
 You transform up to ten centipedes, three spiders, five wasps, or one scorpion within range into giant versions of their natural forms for the duration. A centipede becomes a giant centipede, a spider becomes a giant spider, a wasp becomes a giant wasp, and a scorpion becomes a giant scorpion.
 Each creature obeys your verbal commands, and in combat, they act on your turn each round. The DM has the statistics for these creatures and resolves their actions and movement.
 A creature remains in its giant size for the duration, until it drops to 0 hit points, or until you use an action to dismiss the effect on it.
@@ -3035,15 +3039,17 @@ A hail of rock-hard ice pounds to the ground in a 20-foot-radius, 40-foot-high c
 Hailstones turn the storm’s area of effect into difficult terrain until the end of your next turn.
 At Higher Levels. When you cast this spell using a spell slot of 5th level or higher, the bludgeoning damage increases by 1d8 for each slot level above 4th.
 
-### Identify {#identify}
+### ระบุเวทย์มนต์ (Identify) {#identify}
 
-1st-level divination (พิธีกรรม)
-**เวลาในการร่ายคาถา:** 1 นาที
-**ระยะ:** สัมผัสถึง
-**วิธีการร่ายและวัตถุคาถา:** V, S, M (a pearl worth at least 100 gp and an owl feather)
-**ระยะเวลาคงคาถา:** โดยทันที
-You choose one object that you must touch throughout the casting of the spell. If it is a magic item or some other magic-imbued object, you learn its properties and how to use them, whether it requires attunement to use, and how many charges it has, if any. You learn whether any spells are affecting the item and what they are. If the item was created by a spell, you learn which spell created it.
-If you instead touch a creature throughout the casting, you learn what spells, if any, are currently affecting it.
+1st-level divination (พิธีกรรม)  
+**เวลาในการร่ายคาถา:** 1 นาที  
+**ระยะ:** สัมผัสถึง  
+**วิธีการร่ายและวัตถุคาถา:** V, S, M (ไข่มุกที่มีค่าอย่างน้อย 100gp และขนนกฮูก)  
+**ระยะเวลาคงคาถา:** โดยทันที  
+
+คุณเลือกวัตถุหนึ่งที่คุณจะต้องสัมผัสไว้ตลอดการร่ายคาถา ถ้ามันเป็นไอเท็มเวทย์มนต์หรือวัตถุอื่นที่มีเวทย์มนต์ผูกไว้ คุณจะได้เรียนรู้ถึงคุณสมบัติและวิธีการใช้งานของมัน ว่ามันต้องเชื่อมประสานก่อนใช้หรือไม่ และใช้ได้กี่ครั้ง ถ้ามีระบุไว้ คุณจะได้เรียนรู้ว่ามีคาถาที่มีผลกับไอเท็มหรือไม่และมันคือคาถาอะไร ถ้าไอเท็มถูกสร้างขึ้นจากคาถา คุณจะได้รู้ว่าคาถาอะไรสร้างมันขึ้นมา
+
+ถ้าคุณสัมผัสสิ่งมีชีวิตระหว่างการร่ายคาถานี้ คุณจะรู้ว่าคาถาอะไร (ถ้ามี) กำลังส่งผลกระทบกับสิ่งมีชีวิตนี้อยู่
 
 ### Illusory Script {#illusory-script}
 
@@ -3106,7 +3112,7 @@ At Higher Levels. When you cast this spell using a spell slot of 2nd level or hi
 **เวลาในการร่ายคาถา:** 1 แอ็คชัน
 **ระยะ:** 300 ฟุต
 **วิธีการร่ายและวัตถุคาถา:** V, S, M (a few grains of sugar, some kernels of grain, and a smear of fat)
-**ระยะเวลาคงคาถา:** เพ่งสมาธิ, up to 10 minutes
+**ระยะเวลาคงคาถา:** เพ่งสมาธิ, มากที่สุด 10 นาที
 Swarming, biting locusts fill a 20-foot-radius sphere centered on a point you choose within range. The sphere spreads around corners. The sphere remains for the duration, and its area is lightly obscured. The sphere’s area is difficult terrain.
 When the area appears, each creature in it must make a Constitution saving throw. A creature takes 4d10 piercing damage on a failed save, or half as much damage on a successful one. A creature must also make this saving throw when it enters the spell’s area for the first time on a turn or ends its turn there.
 At Higher Levels. When you cast this spell using a spell slot of 6th level or higher, the damage increases by 1d10 for each slot level above 5th.
@@ -3173,7 +3179,7 @@ You touch a creature and can end either one disease or one condition afflicting 
 **เวลาในการร่ายคาถา:** 1 แอ็คชัน
 **ระยะ:** 60 ฟุต
 **วิธีการร่ายและวัตถุคาถา:** V, S, M (either a small leather loop or a piece of golden wire bent into a cup shape with a long shank on one end)
-**ระยะเวลาคงคาถา:** เพ่งสมาธิ, up to 10 minutes
+**ระยะเวลาคงคาถา:** เพ่งสมาธิ, มากที่สุด 10 นาที
 One creature or loose object of your choice that you can see within range rises vertically, up to 20 ฟุต, and remains suspended there for the duration. The spell can levitate a target that weighs up to 500 pounds. An unwilling creature that succeeds on a Constitution saving throw is unaffected.
 The target can move only by pushing or pulling against a fixed object or surface within reach (such as a wall or a ceiling), which allows it to move as if it were climbing. You can change the target’s altitude by up to 20 ฟุต in either direction on your turn. If you are the target, you can move up or down as part of your move. Otherwise, you can use your action to move the target, which must remain within the spell’s range.
 When the spell ends, the target floats gently to the ground if it is still aloft.
@@ -3225,7 +3231,7 @@ This spell can’t locate a creature if running water at least 10 ฟุต wide
 **เวลาในการร่ายคาถา:** 1 แอ็คชัน
 **ระยะ:** Self
 **วิธีการร่ายและวัตถุคาถา:** V, S, M (a forked twig)
-**ระยะเวลาคงคาถา:** เพ่งสมาธิ, up to 10 minutes
+**ระยะเวลาคงคาถา:** เพ่งสมาธิ, มากที่สุด 10 นาที
 Describe or name an object that is familiar to you. You sense the direction to the object’s location, as long as that object is within 1,000 ฟุต of you. If the object is in motion, you know the direction of its movement.
 The spell can locate a specific object known to you, as long as you have seen it up close—within 30 ฟุต—at least once. Alternatively, the spell can locate the nearest object of a particular kind, such as a certain kind of apparel, jewelry, furniture, tool, or weapon.
 This spell can’t locate an object if any thickness of lead, even a thin sheet, blocks a direct path between you and the object.
@@ -3331,7 +3337,7 @@ At Higher Levels. When you cast this spell using a spell slot of 4th level or hi
 **เวลาในการร่ายคาถา:** 1 แอ็คชัน
 **ระยะ:** 120 ฟุต
 **วิธีการร่ายและวัตถุคาถา:** V, S, M (a bit of fleece)
-**ระยะเวลาคงคาถา:** เพ่งสมาธิ, up to 10 minutes
+**ระยะเวลาคงคาถา:** เพ่งสมาธิ, มากที่สุด 10 นาที
 You create the image of an object, a creature, or some other visible phenomenon that is no larger than a 20-foot cube. The image appears at a spot that you can see within range and lasts for the duration. It seems completely real, including sounds, smells, and temperature appropriate to the thing depicted. You can’t create sufficient heat or cold to cause damage, a sound loud enough to deal thunder damage or deafen a creature, or a smell that might sicken a creature (like a troglodyte’s stench).
 As long as you are within range of the illusion, you can use your action to cause the image to move to any other spot within range. As the image changes location, you can alter its appearance so that its movements appear natural for the image. For example, if you create an image of a creature and move it, you can alter the image so that it appears to be walking. Similarly, you can cause the illusion to make different sounds at different times, even making it carry on a conversation, for example.
 Physical interaction with the image reveals it to be an illusion, because things can pass through it. A creature that uses its action to examine the image can determine that it is an illusion with a successful Intelligence (Investigation) check against your spell save DC. If a creature discerns the illusion for what it is, the creature can see through the image, and its other sensory qualities become faint to the creature.
@@ -3385,7 +3391,7 @@ At Higher Levels. When you cast this spell using a 7th-level spell slot, the dur
 **เวลาในการร่ายคาถา:** 1 แอ็คชัน
 **ระยะ:** 60 ฟุต
 **วิธีการร่ายและวัตถุคาถา:** V, S
-**ระยะเวลาคงคาถา:** เพ่งสมาธิ, up to 10 minutes
+**ระยะเวลาคงคาถา:** เพ่งสมาธิ, มากที่สุด 10 นาที
 You banish a creature that you can see within range into a labyrinthine demiplane. The target remains there for the duration or until it escapes the maze.
 The target can use its action to attempt to escape. When it does so, it makes a DC 20 Intelligence check. If it succeeds, it escapes, and the spell ends (a minotaur or goristro demon automatically succeeds).
 When the spell ends, the target reappears in the space it left or, if that space is occupied, in the nearest unoccupied space.
@@ -3818,7 +3824,7 @@ For the duration, the willing creature you touch has resistance to one damage ty
 **เวลาในการร่ายคาถา:** 1 แอ็คชัน
 **ระยะ:** สัมผัสถึง
 **วิธีการร่ายและวัตถุคาถา:** V, S, M (holy water or powdered silver and iron, which the spell consumes)
-**ระยะเวลาคงคาถา:** เพ่งสมาธิ up to 10 minutes
+**ระยะเวลาคงคาถา:** เพ่งสมาธิ มากที่สุด 10 นาที
 Until the spell ends, one willing creature you touch is protected against certain types of creatures: aberrations, celestials, elementals, fey, fiends, and undead.
 The protection grants several benefits. Creatures of those types have disadvantage on attack rolls against the target. The target also can’t be charmed, frightened, or possessed by them. If the target is already charmed, frightened, or possessed by such a creature, the target has advantage on any new saving throw against the relevant effect.
 
@@ -4065,7 +4071,7 @@ At Higher Levels. When you cast this spell using a spell slot of 3rd level or hi
 **เวลาในการร่ายคาถา:** 10 minutes
 **ระยะ:** Self
 **วิธีการร่ายและวัตถุคาถา:** V, S, M (a focus worth at least 1,000 gp, such as a crystal ball, a silver mirror, or a font filled with holy water)
-**ระยะเวลาคงคาถา:** เพ่งสมาธิ, up to 10 minutes
+**ระยะเวลาคงคาถา:** เพ่งสมาธิ, มากที่สุด 10 นาที
 You can see and hear a particular creature you choose that is on the same plane of existence as you. The target must make a Wisdom saving throw, which is modified by how well you know the target and the sort of physical connection you have to it. If a target knows you’re casting this spell, it can fail the saving throw voluntarily if it wants to be observed.
 
 <div class="table-overflow-wrapper"><table data-content-chunk-id="cc62af83-a15b-486d-b057-68f6e5beca73">
@@ -4198,7 +4204,7 @@ An invisible barrier of magical force appears and protects you. Until the start 
 **เวลาในการร่ายคาถา:** 1 โบนัสแอ็คชัน
 **ระยะ:** 60 ฟุต
 **วิธีการร่ายและวัตถุคาถา:** V, S, M (a small parchment with a bit of holy text written on it)
-**ระยะเวลาคงคาถา:** เพ่งสมาธิ, up to 10 minutes
+**ระยะเวลาคงคาถา:** เพ่งสมาธิ, มากที่สุด 10 นาที
 A shimmering field appears and surrounds a creature of your choice within range, granting it a +2 bonus to AC for the duration.
 
 ### Shillelagh {#shillelagh}
@@ -4226,7 +4232,7 @@ The spell’s damage increases by 1d8 when you reach 5th level (2d8), 11th level
 **เวลาในการร่ายคาถา:** 1 แอ็คชัน
 **ระยะ:** 120 ฟุต
 **วิธีการร่ายและวัตถุคาถา:** V, S
-**ระยะเวลาคงคาถา:** เพ่งสมาธิ, up to 10 minutes
+**ระยะเวลาคงคาถา:** เพ่งสมาธิ, มากที่สุด 10 นาที
 For the duration, no sound can be created within or pass through a 20-foot-radius sphere centered on a point you choose within range. Any creature or object entirely inside the sphere is immune to thunder damage, and creatures are deafened while entirely inside it. Casting a spell that includes a verbal component is impossible there.
 
 ### Silent Image {#silent-image}
@@ -4235,7 +4241,7 @@ For the duration, no sound can be created within or pass through a 20-foot-radiu
 **เวลาในการร่ายคาถา:** 1 แอ็คชัน
 **ระยะ:** 60 ฟุต
 **วิธีการร่ายและวัตถุคาถา:** V, S, M (a bit of fleece)
-**ระยะเวลาคงคาถา:** เพ่งสมาธิ, up to 10 minutes
+**ระยะเวลาคงคาถา:** เพ่งสมาธิ, มากที่สุด 10 นาที
 You create the image of an object, a creature, or some other visible phenomenon that is no larger than a 15-foot cube. The image appears at a spot within range and lasts for the duration. The image is purely visual; it isn’t accompanied by sound, smell, or other sensory effects.
 You can use your action to cause the image to move to any spot within range. As the image changes location, you can alter its appearance so that its movements appear natural for the image. For example, if you create an image of a creature and move it, you can alter the image so that it appears to be walking.
 Physical interaction with the image reveals it to be an illusion, because things can pass through it. A creature that uses its action to examine the image can determine that it is an illusion with a successful Intelligence (Investigation) check against your spell save DC. If a creature discerns the illusion for what it is, the creature can see through the image.
@@ -4343,7 +4349,7 @@ Until the spell ends, one willing creature you touch gains the ability to move u
 **เวลาในการร่ายคาถา:** 1 แอ็คชัน
 **ระยะ:** 150 ฟุต
 **วิธีการร่ายและวัตถุคาถา:** V, S, M (seven sharp thorns or seven small twigs, each sharpened to a point)
-**ระยะเวลาคงคาถา:** เพ่งสมาธิ, up to 10 minutes
+**ระยะเวลาคงคาถา:** เพ่งสมาธิ, มากที่สุด 10 นาที
 The ground in a 20-foot radius centered on a point within range twists and sprouts hard spikes and thorns. The area becomes difficult terrain for the duration. When a creature moves into or within the area, it takes 2d4 piercing damage for every 5 ฟุต it travels.
 The transformation of the ground is camouflaged to look natural. Any creature that can’t see the area at the time the spell is cast must make a Wisdom (Perception) check against your spell save DC to recognize the terrain as hazardous before entering it.
 
@@ -4353,7 +4359,7 @@ The transformation of the ground is camouflaged to look natural. Any creature th
 **เวลาในการร่ายคาถา:** 1 แอ็คชัน
 **ระยะ:** Self (15-foot radius)
 **วิธีการร่ายและวัตถุคาถา:** V, S, M (a holy symbol)
-**ระยะเวลาคงคาถา:** เพ่งสมาธิ, up to 10 minutes
+**ระยะเวลาคงคาถา:** เพ่งสมาธิ, มากที่สุด 10 นาที
 You call forth spirits to protect you. They flit around you to a distance of 15 ฟุต for the duration. If you are good or neutral, their spectral form appears angelic or fey (your choice). If you are evil, they appear fiendish.
 When you cast this spell, you can designate any number of creatures you can see to be unaffected by it. An affected creature’s speed is halved in the area, and when the creature enters the area for the first time on a turn or starts its turn there, it must make a Wisdom saving throw. On a failed save, the creature takes 3d8 radiant damage (if you are good or neutral) or 3d8 necrotic damage (if you are evil). On a successful save, the creature takes half as much damage.
 At Higher Levels. When you cast this spell using a spell slot of 4th level or higher, the damage increases by 1d8 for each slot level above 3rd.
@@ -4476,7 +4482,7 @@ Stunning. Each target must make a Wisdom saving throw and becomes stunned for 1 
 **เวลาในการร่ายคาถา:** 1 แอ็คชัน
 **ระยะ:** 60 ฟุต
 **วิธีการร่ายและวัตถุคาถา:** V, S
-**ระยะเวลาคงคาถา:** เพ่งสมาธิ, up to 10 minutes
+**ระยะเวลาคงคาถา:** เพ่งสมาธิ, มากที่สุด 10 นาที
 You gain the ability to move or manipulate creatures or objects by thought. When you cast the spell, and as your action each round for the duration, you can exert your will on one creature or object that you can see within range, causing the appropriate effect below. You can affect the same target round after round, or choose a new one at any time. If you switch targets, the prior target is no longer affected by the spell.
 Creature. You can try to move a Huge or smaller creature. Make an ability check with your spellcasting ability contested by the creature’s Strength check. If you win the contest, you move the creature up to 30 ฟุต in any direction, including upward but not beyond the range of this spell. Until the end of your next turn, the creature is restrained in your telekinetic grip. A creature lifted upward is suspended in mid-air.
 On subsequent rounds, you can use your action to attempt to maintain your telekinetic grip on the creature by repeating the contest.
@@ -4743,7 +4749,7 @@ At Higher Levels. When you cast this spell using a spell slot of 5th level or hi
 **เวลาในการร่ายคาถา:** 1 แอ็คชัน
 **ระยะ:** 120 ฟุต
 **วิธีการร่ายและวัตถุคาถา:** V, S, M (a pinch of powder made by crushing a clear gemstone)
-**ระยะเวลาคงคาถา:** เพ่งสมาธิ, up to 10 minutes
+**ระยะเวลาคงคาถา:** เพ่งสมาธิ, มากที่สุด 10 นาที
 An invisible wall of force springs into existence at a point you choose within range. The wall appears in any orientation you choose, as a horizontal or vertical barrier or at an angle. It can be free floating or resting on a solid surface. You can form it into a hemispherical dome or a sphere with a radius of up to 10 ฟุต, or you can shape a flat surface made up of ten 10-foot-by-10-foot panels. Each panel must be contiguous with another panel. In any form, the wall is 1/4 inch thick. It lasts for the duration. If the wall cuts through a creature’s space when it appears, the creature is pushed to one side of the wall (your choice which side).
 Nothing can physically pass through the wall. It is immune to all damage and can’t be dispelled by dispel magic. A disintegrate spell destroys the wall instantly, however. The wall also extends into the Ethereal Plane, blocking ethereal travel through the wall.
 
@@ -4753,7 +4759,7 @@ Nothing can physically pass through the wall. It is immune to all damage and can
 **เวลาในการร่ายคาถา:** 1 แอ็คชัน
 **ระยะ:** 120 ฟุต
 **วิธีการร่ายและวัตถุคาถา:** V, S, M (a small piece of quartz)
-**ระยะเวลาคงคาถา:** เพ่งสมาธิ, up to 10 minutes
+**ระยะเวลาคงคาถา:** เพ่งสมาธิ, มากที่สุด 10 นาที
 You create a wall of ice on a solid surface within range. You can form it into a hemispherical dome or a sphere with a radius of up to 10 ฟุต, or you can shape a flat surface made up of ten 10-foot-square panels. Each panel must be contiguous with another panel. In any form, the wall is 1 foot thick and lasts for the duration.
 If the wall cuts through a creature’s space when it appears, the creature within its area is pushed to one side of the wall and must make a Dexterity saving throw. On a failed save, the creature takes 10d6 cold damage, or half as much damage on a successful save.
 The wall is an object that can be damaged and thus breached. It has AC 12 and 30 hit points per 10-foot section, and it is vulnerable to fire damage. Reducing a 10-foot section of wall to 0 hit points destroys it and leaves behind a sheet of frigid air in the space the wall occupied. A creature moving through the sheet of frigid air for the first time on a turn must make a Constitution saving throw. That creature takes 5d6 cold damage on a failed save, or half as much damage on a successful one.
@@ -4765,7 +4771,7 @@ At Higher Levels. When you cast this spell using a spell slot of 7th level or hi
 **เวลาในการร่ายคาถา:** 1 แอ็คชัน
 **ระยะ:** 120 ฟุต
 **วิธีการร่ายและวัตถุคาถา:** V, S, M (a small block of granite)
-**ระยะเวลาคงคาถา:** เพ่งสมาธิ, up to 10 minutes
+**ระยะเวลาคงคาถา:** เพ่งสมาธิ, มากที่สุด 10 นาที
 A nonmagical wall of solid stone springs into existence at a point you choose within range. The wall is 6 inches thick and is composed of ten 10-foot-by-10-foot panels. Each panel must be contiguous with at least one other panel. Alternatively, you can create 10-foot-by-20-foot panels that are only 3 inches thick.
 If the wall cuts through a creature’s space when it appears, the creature is pushed to one side of the wall (your choice). If a creature would be surrounded on all sides by the wall (or the wall and another solid surface), that creature can make a Dexterity saving throw. On a success, it can use its reaction to move up to its speed so that it is no longer enclosed by the wall.
 The wall can have any shape you desire, though it can’t occupy the same space as a creature or object. The wall doesn’t need to be vertical or rest on any firm foundation. It must, however, merge with and be solidly supported by existing stone. Thus, you can use this spell to bridge a chasm or create a ramp.
@@ -4779,7 +4785,7 @@ If you maintain your เพ่งสมาธิ on this spell for its whole dur
 **เวลาในการร่ายคาถา:** 1 แอ็คชัน
 **ระยะ:** 120 ฟุต
 **วิธีการร่ายและวัตถุคาถา:** V, S, M (a handful of thorns)
-**ระยะเวลาคงคาถา:** เพ่งสมาธิ, up to 10 minutes
+**ระยะเวลาคงคาถา:** เพ่งสมาธิ, มากที่สุด 10 นาที
 You create a wall of tough, pliable, tangled brush bristling with needle-sharp thorns. The wall appears within range on a solid surface and lasts for the duration. You choose to make the wall up to 60 ฟุต long, 10 ฟุต high, and 5 ฟุต thick or a circle that has a 20-foot diameter and is up to 20 ฟุต high and 5 ฟุต thick. The wall blocks line of sight.
 When the wall appears, each creature within its area must make a Dexterity saving throw. On a failed save, a creature takes 7d8 piercing damage, or half as much damage on a successful save.
 A creature can move through the wall, albeit slowly and painfully. For every 1 foot a creature moves through the wall, it must spend 4 ฟุต of movement. Furthermore, the first time a creature enters the wall on a turn or ends its turn there, the creature must make a Dexterity saving throw. It takes 7d8 slashing damage on a failed save, or half as much damage on a successful one.
