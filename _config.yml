@@ -36,6 +36,7 @@ plugins:
  - jekyll-seo-tag
  - jekyll-sitemap
     
+collections_dir: collections
 collections:
   navigation:
     output: true
