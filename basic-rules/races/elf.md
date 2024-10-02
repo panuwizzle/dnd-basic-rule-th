@@ -1,5 +1,6 @@
 ---
-layout: page
+layout: book
+menu: menu-basic-rules
 title: เอลฟ์
 ---
 ## <a name="elf">เอลฟ์</a>

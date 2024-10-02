@@ -1,5 +1,6 @@
 ---
-layout: page
+layout: book
+menu: menu-basic-rules
 title: ฮาล์ฟอ็อค Half-Orc
 ---
 ## <a name="half-orc">ฮาล์ฟอ็อค Half-Orc</a>

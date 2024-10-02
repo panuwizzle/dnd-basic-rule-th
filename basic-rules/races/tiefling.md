@@ -1,5 +1,6 @@
 ---
-layout: page
+layout: book
+menu: menu-basic-rules
 title: ทิฟลิง Tiefling
 ---
 ## <a name="tiefling">ทิฟลิง Tiefling</a>

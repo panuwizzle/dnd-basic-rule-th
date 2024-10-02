@@ -1,5 +1,6 @@
 ---
-layout: page
+layout: book
+menu: menu-basic-rules
 title: ฮาล์ฟเอลฟ์ Half-Elf
 ---
 ## <a name="half-elf">ฮาล์ฟเอลฟ์ Half-Elf</a>

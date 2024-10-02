@@ -1,5 +1,6 @@
 ---
-layout: page
+layout: book
+menu: menu-basic-rules
 title: ดรากอนบอร์น Dragonborn
 ---
 ## <a name="dragonborn">ดรากอนบอร์น Dragonborn</a>

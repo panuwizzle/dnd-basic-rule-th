@@ -1,5 +1,6 @@
 ---
-layout: page
+layout: book
+menu: menu-basic-rules
 title: ดวอร์ฟ
 ---
 ## <a name="dwarf">ดวอร์ฟ</a>

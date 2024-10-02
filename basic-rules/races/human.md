@@ -1,5 +1,6 @@
 ---
-layout: page
+layout: book
+menu: menu-basic-rules
 title: มนุษย์
 ---
 ## <a name="human">มนุษย์</a>

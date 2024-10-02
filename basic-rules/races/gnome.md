@@ -1,5 +1,6 @@
 ---
-layout: page
+layout: book
+menu: menu-basic-rules
 title: โนม Gnome
 ---
 ## <a name="gnome">โนม Gnome</a>

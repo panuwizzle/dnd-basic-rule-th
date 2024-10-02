@@ -1,5 +1,6 @@
 ---
-layout: page
+layout: book
+menu: menu-basic-rules
 title: ฮาล์ฟลิ่ง
 ---
 ## <a name="halfling">ฮาล์ฟลิ่ง</a>
