@@ -5,7 +5,7 @@ name: มังกรเงินเต็มวัย
 type: Huge Dragon
 cr: 16
 ---
-
+{% capture stat_block %}
 _Huge Dragon, Lawful Good_
 
 **ระดับการป้องกัน (Armor Class: AC)** 19 (เกราะธรรมชาติ)  
@@ -57,6 +57,9 @@ The dragon can take 3 legendary actions, choosing from the options below. Only o
 **_Tail Attack._** The dragon makes a tail attack.
 
 **_Wing Attack (Costs 2 Actions)._** The dragon beats its wings. Each creature within 10 feet of the dragon must succeed on a DC 21 Dexterity saving throw or take 15 (2d6 + 8) bludgeoning damage and be knocked prone. The dragon can then fly up to half its flying speed.
+{% endcapture %}
+
+{% include monster.html content=stat_block %}
 
 ---
 
