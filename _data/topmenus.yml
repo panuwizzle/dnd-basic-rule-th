@@ -21,15 +21,15 @@
   child: 
     - name: peril-in-pinebrook
       title: ภยันตรายในไพน์บรูค - Peril in Pinebrook
-      url: /one-shot/peril-in-pinebrook.html
+      url: /one-shot/peril-in-pinebrook
       icon: fa fa-map
 
     - name: dead-pit-of-moloch
       title: หลุมมรณะแห่งโมลอค - Dead Pit of Moloch
-      url: /one-shot/dead-pit-of-moloch.html
+      url: /one-shot/dead-pit-of-moloch
       icon: fa fa-map
 
     - name: a-most-potent-brew
       title: เครื่องดื่มที่ทรงพลัง - A Most Potent Brew
-      url: /one-shot/a-most-potent-brew.html
+      url: /one-shot/a-most-potent-brew
       icon: fa fa-map
