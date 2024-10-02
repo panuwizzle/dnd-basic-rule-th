@@ -16,6 +16,7 @@
       url: /basic-rules/introduction/#the-wonders-of-magic
 
 - name: ส่วนที่ 1 การสร้างตัวละคร
+  url: /basic-rules/ch01-step-by-step-character/
   children:
     - name: "บทที่ 1: สร้างตัวละครทีละขั้น"
       url: /basic-rules/ch01-step-by-step-character/
@@ -31,6 +32,7 @@
       url: /basic-rules/ch06-customization-options/
 
 - name: "ส่วนที่ 2: การเล่นเกม"
+  url: /basic-rules/ch07-using-ability-scores/
   children:
     - name: "บทที่ 7: การใช้คะแนนความสามารถ"
       url: /basic-rules/ch07-using-ability-scores/
@@ -40,6 +42,7 @@
       url: /basic-rules/ch09-combat/
 
 - name: "ส่วนที่ 3: กฏของเวทย์มนต์"
+  url: /basic-rules/ch10-spellcasting/
   children:
     - name: "บทที่ 10: การร่ายคาถา"
       url: /basic-rules/ch10-spellcasting/
