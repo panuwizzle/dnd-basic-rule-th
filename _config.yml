@@ -42,28 +42,28 @@ collections:
     output: true
   one-shot:
     output: true
-    permalink: /:collection/:name
+    permalink: /:collection/:name/
   monsters:
     output: true
-    permalink: /basic-rules/monsters/:name
+    permalink: /basic-rules/monsters/:name/
   classes:
     output: true
-    permalink: /basic-rules/classes/:name
+    permalink: /basic-rules/classes/:name/
   spells:
     output: true
-    permalink: /basic-rules/spells/:name
+    permalink: /basic-rules/spells/:name/
   backgrounds:
     output: true
-    permalink: /basic-rules/backgrounds/:name
+    permalink: /basic-rules/backgrounds/:name/
   equipments:
     output: true
-    permalink: /basic-rules/equipments/:name
+    permalink: /basic-rules/equipments/:name/
   races:
     output: true
-    permalink: /basic-rules/races/:name
+    permalink: /basic-rules/races/:name/
   magic-items:
     output: true
-    permalink: /basic-rules/magic-items/:name
+    permalink: /basic-rules/magic-items/:name/
 # Exclude from processing.
 # The following items will not be processed, by default.
 # Any item listed under the `exclude:` key here will be automatically added to

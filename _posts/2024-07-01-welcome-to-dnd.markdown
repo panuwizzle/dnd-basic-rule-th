@@ -2,8 +2,9 @@
 layout: post
 title:  "รู้จักกับ D&D"
 date:   2024-09-21 23:35:06 +0700
-categories: dnd general
+#categories: dnd general
 image: /assets/welcome-to-dnd.jpg
+permalink: /blog/welcome-to-dnd
 ---
 
 D&D แต่ละเวอร์ชันจะออกกฏเป็นชุดหนังสือ เรียกว่า ซอร์ส (sources) แบ่งเป็น หนังสือกฏหลัก ([Core rule books](https://marketplace.dndbeyond.com/core-rules)) มี 3 เล่ม เล่มหลักเรียกว่า คู่มือผู้เล่น (Player handbook) มีข้อมูลเผ่าพันธู์ อาชีพหรือคลาส กฏการเล่นรวมถึงข้อมูลอื่น ๆ เป็นเล่มสำคัญที่หากจะเล่นจริงจัง อย่างน้อยควรมีเล่มนี้
