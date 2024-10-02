@@ -1,7 +1,9 @@
 ---
 layout: book
 menu: menu-basic-rules
+name: โพชันแห่งการล่องหน (Potion of Invisibility)
 ---
+
 # โพชันแห่งการล่องหน (Potion of Invisibility)
 
 โพชัน, หายากมาก (very rare)

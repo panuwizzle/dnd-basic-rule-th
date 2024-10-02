@@ -3,6 +3,7 @@ layout: page
 title: เครื่องดื่มที่ทรงพลัง - A Most Potent Brew
 description: เนื้อเรื่องการผจญภัยสั้น (one-shot adventure) สำหรับเริ่มเล่น D&D
 name: เครื่องดื่มที่ทรงพลัง - A Most Potent Brew
+short_description: โรงเบียร์ชื่อดังประจำเมืองกำลังประสบปัญหาในการผลิต 
 ---
 
 ## การผจญภัยสำหรับช่วงเริ่มต้นโดยใช้กฏพื้นฐานของ D&D 5E

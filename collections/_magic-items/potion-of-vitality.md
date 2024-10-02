@@ -1,7 +1,9 @@
 ---
 layout: book
 menu: menu-basic-rules
+name: โพชันแห่งพละกำลัง (Potion of Vitality)
 ---
+
 # โพชันแห่งพละกำลัง (Potion of Vitality)
 
 โพชัน, หายากมาก (very rare)

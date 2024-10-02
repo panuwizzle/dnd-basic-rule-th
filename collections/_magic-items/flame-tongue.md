@@ -1,3 +1,9 @@
+---
+layout: book
+menu: menu-basic-rules
+name: Flame Tongue
+---
+
 # Flame Tongue
 Weapon (any sword), rare (requires attunement)
 
