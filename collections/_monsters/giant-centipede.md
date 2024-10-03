@@ -6,7 +6,7 @@ type: เล็ก สัตว์ป่า
 cr: 1/4
 ---
 
-# ตะขาบยักษ์ (Giant Centipede)
+{% capture stat_block %}
 
 _เล็ก สัตว์ป่า, ไม่ดีไม่เลว_
 
@@ -28,3 +28,6 @@ _เล็ก สัตว์ป่า, ไม่ดีไม่เลว_
 **_กัด (Bite)._** _การโจมตีด้วยอาวุธระยะประชิดตัว:_ +4 ให้การทอยโจมตี, ระยะ 5 ft., เป้าหมายเดียว. _ความเสียหาย:_ 4 (1d4 + 2) ความเสียหายแบบแทง. และเป้าหมายต้องทอยป้องกันค่าความอดทน (Constitution saving throw) DC 11 ให้ผ่าน หรือเสียหาย 10 (3d6) ความเสียหายแบบพิษ ถ้าความเสียหายแบบพิษทำให้ฮิตพอยต์เหลือ 0 เป้าหมายจะทรงตัวแต่[ติดพิษ](/basic-rules/appendice-a-condition/#poisoned) เป็นเวลา 1 ชม. แม้จะฟึ้นฟูฮิตพอยต์แล้ว และจะติดสถานะเป็น[อัมพาต](/basic-rules/appendice-a-condition/#paralyzed)ขณะที่[ติดพิษ](/basic-rules/appendice-a-condition/#poisoned)ในแบบนี้
 
 ![Giant Centipede](/assets/monsters/giant-centipede.jpg)
+{% endcapture %}
+
+{% include monster.html content=stat_block %}

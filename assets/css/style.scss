@@ -10,8 +10,12 @@ body {
     font-style: normal;
 }
 
-.moo {
-    background: black;
+.monster-stat {
+    column-count: 2;
+    background: rgb(246, 243, 238);
+    padding: 8px;
+    border-radius: 8px;
+    border: 1px solid black;
 }
 
 @media (prefers-color-scheme: light) {

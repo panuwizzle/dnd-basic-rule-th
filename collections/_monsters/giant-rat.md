@@ -6,7 +6,7 @@ type: เล็ก สัตว์ป่า
 cr: 1/8
 ---
 
-# หนูยักษ์ (Giant Rat)
+{% capture stat_block %}
 
 _เล็ก สัตว์ป่า, ไม่ดีไม่เลว_
 
@@ -32,3 +32,7 @@ _เล็ก สัตว์ป่า, ไม่ดีไม่เลว_
 **_กัด (Bite)._** _การโจมตีด้วยอาวุธระยะประชิดตัว:_ +4 ให้การทอยโจมตี, ระยะ 5 ft., เป้าหมายเดียว. _ความเสียหาย:_ 4 (1d4 + 2) ความเสียหายแบบแทง.
 
 ![Giant Rat](/assets/monsters/giant-rat.webp)
+
+{% endcapture %}
+
+{% include monster.html content=stat_block %}

@@ -6,14 +6,15 @@ type: Huge Dragon
 cr: 16
 ---
 
+{% capture stat_block %}
 _Huge Dragon, Lawful Good_
 
 **ระดับการป้องกัน (Armor Class: AC)** 19 (เกราะธรรมชาติ)  
 **ฮิตพอยต์** 243 (18d12 + 126)  
 **ความเร็ว** 40 ฟุต, บิน 80 ฟุต
 
-| STR     | DEX     | CON     | INT     | WIS     | CHA     |
-| ------- | ------- | ------- | ------- | ------- | ------- |
+|   STR   |   DEX   |   CON   |   INT   |   WIS   |   CHA   |
+| :-----: | :-----: | :-----: | :-----: | :-----: | :-----: |
 | 27 (+8) | 10 (+0) | 25 (+7) | 16 (+3) | 13 (+1) | 21 (+5) |
 
 **ทอยป้องกัน (Saving Throws)** DEX +5, CON +12, WIS +6, CHA +10  
@@ -30,11 +31,11 @@ _**ความต้านทานระดับตำนาน (Legendary Re
 
 **_Multiattack._** The dragon can use its Frightful Presence. It then makes three attacks: one with its bite and two with its claws.
 
-**_Bite._** Melee Weapon Attack: +13 to hit, reach 10 ft., one target. Hit: 19 (2d10 + 8) piercing damage.
+**_Bite._** การโจมตีด้วยอาวุธระยะประชิด: +13 ให้การทอยโจมตี, ระยะ 10 ft., เป้าหมายเดียว. Hit: 19 (2d10 + 8) piercing damage.
 
-**_Claw._** Melee Weapon Attack: +13 to hit, reach 5 ft., one target. Hit: 15 (2d6 + 8) slashing damage.
+**_Claw._** การโจมตีด้วยอาวุธระยะประชิด: +13 ให้การทอยโจมตี, ระยะ 5 ft., เป้าหมายเดียว. Hit: 15 (2d6 + 8) slashing damage.
 
-**_Tail._** Melee Weapon Attack: +13 to hit, reach 15 ft., one target. Hit: 17 (2d8 + 8) bludgeoning damage.
+**_Tail._** การโจมตีด้วยอาวุธระยะประชิด: +13 ให้การทอยโจมตี, ระยะ 15 ft., เป้าหมายเดียว. Hit: 17 (2d8 + 8) bludgeoning damage.
 
 **_Frightful Presence._** Each creature of the dragon's choice that is within 120 feet of the dragon and aware of it must succeed on a DC 18 Wisdom saving throw or become frightened for 1 minute. A creature can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success. If a creature's saving throw is successful or the effect ends for it, the creature is immune to the dragon's Frightful Presence for the next 24 hours.
 
@@ -57,6 +58,11 @@ The dragon can take 3 legendary actions, choosing from the options below. Only o
 **_Tail Attack._** The dragon makes a tail attack.
 
 **_Wing Attack (Costs 2 Actions)._** The dragon beats its wings. Each creature within 10 feet of the dragon must succeed on a DC 21 Dexterity saving throw or take 15 (2d6 + 8) bludgeoning damage and be knocked prone. The dragon can then fly up to half its flying speed.
+
+![มังกรเงิน](/assets/monsters/silver-dragon.webp)
+{% endcapture %}
+
+{% include monster.html content=stat_block %}
 
 ---
 
