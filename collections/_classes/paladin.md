@@ -39,10 +39,10 @@ name: พาลาดิน (Paladin)
 
 คุณสามารถสร้างพาลาดินได้อย่างรวดเร็วโดยทำตามคำแนะนำนี้ อย่างแรก ความแข็งแกร่ง (Strength) ควรเป็นคะแนนความสามารถที่สูงสุด ตามมาด้วยเสน่ห์ (Charisma) อย่างที่สอง เลือกภูมิหลังเป็นชนชั้นสูง (noble background)
 
-| เลเวล | โบนัสความเชี่ยวชาญ | ความสามารถ                                                                                                    | — Spell | Slots | per | Spell | Level — |
+| เลเวล | โบนัสความเชี่ยวชาญ | ความสามารถ                                                                                                  | — Spell | Slots | per | Spell | Level — |
 | ----- | ------------------ | ----------------------------------------------------------------------------------------------------------- | ------- | ----- | --- | ----- | ------- |
 |       |                    |                                                                                                             | 1st     | 2nd   | 3rd | 4th   | 5th     |
-| 1st   | +2                 | [Divine Sense](#DivineSense), [Lay on Hands](#LayonHands)                                                   | —       | —     | —   | —     | —       |
+| 1st   | +2                 | [สัมผัสศักดิ์สิทธิ์ (Divine Sense)](#DivineSense), [หัตถ์รักษา (Lay on Hands)](#LayonHands)                 | —       | —     | —   | —     | —       |
 | 2nd   | +2                 | [Fighting Style](#PaladinFightingStyle), [Spellcasting](#PaladinSpellcasting), [Divine Smite](#DivineSmite) | 2       | —     | —   | —     | —       |
 | 3rd   | +2                 | [Divine Health](#DivineHealth), [Sacred Oath](#SacredOath)                                                  | 3       | —     | —   | —     | —       |
 | 4th   | +2                 | [Ability Score Improvement](#PaladinAbilityScoreImprovement)                                                | 3       | —     | —   | —     | —       |
@@ -67,104 +67,110 @@ name: พาลาดิน (Paladin)
 
 เมื่อเป็นพาลาดิน คุณจะได้รับความสามารถของคลาสดังนี้
 
-#### ฮิตพอยต์
+### ฮิตพอยต์
+
 **ฮิตไดซ์**: 1d10 ต่อเลเวลพาลาดิน
 
 **ฮิตพอยต์เมื่อเลเวล 1**: 10 + ค่าโมดิไฟเออร์ความอดทน (Constitution)
 
 **ฮิตพอยต์เมื่อเลเวลสูงขึ้น**: 1d10 (หรือ 6) + ค่าโมดิไฟเออร์ความอดทน (Constitution) ต่อเลเวลพาลาดินหลังเลเวล 1
 
-**ความเชี่ยวชาญ**  
-เกราะ: เกราะทุกชนิด, โล่
+### ความเชี่ยวชาญ
 
-อาวุธ: Simple อาวุธพื้นฐาน, อาวุธสงคราม
+**เกราะ**: เกราะทุกชนิด, โล่
 
-Tools: None
+**อาวุธ**: อาวุธพื้นฐาน, อาวุธสงคราม
 
-Saving Throws: Wisdom, Charisma
+**เครื่องมือ**: ไม่มี
 
-Skills: Choose two from Athletics, Insight, Intimidation, Medicine, Persuasion, and Religion
+**การทอยป้องกัน**: ความรอบรู้ (Wisdom), เสน่ห์ (Charisma)
 
-Equipment
-You start with the following equipment, in addition to the equipment granted by your background:
+**ทักษะ**: เลือก 2 ทักษะจาก การกรีฑา (Athletics), การมองทะลุ (Insight), การข่มขู่ (Intimidation), ความรู้ทางยา (Medicine), การโน้มน้าวใจ (Persuasion), และการศาสนา (Religion)
 
-- (a) a martial weapon and a shield or (b) two martial weapons
-- (a) five javelins or (b) any simple melee weapon
-- (a) a priest’s pack or (b) an explorer’s pack
-- Chain mail and a holy symbol
+### อุปกรณ์
 
-### Divine Sense
+คุณจะเริ่มด้วยอุปกรณ์ดังต่อไปนี้ เพิ่มเติมจากอุปกรณ์ที่ได้รับจากภูมิหลัง:
 
-The presence of strong evil registers on your senses like a noxious odor, and powerful good rings like heavenly music in your ears. As an action, you can open your awareness to detect such forces. Until the end of your next turn, you know the location of any celestial, fiend, or undead within 60 feet of you that is not behind total cover. You know the type (celestial, fiend, or undead) of any being whose presence you sense, but not its identity (the vampire Count Strahd von Zarovich, for instance). Within the same radius, you also detect the presence of any place or object that has been consecrated or desecrated, as with the [hallow]() spell.
+- (a) อาวุธสงครามและโล่อย่างละชิ้น หรือ (b) อาวุธสงคราม 2 ชิ้น
+- (a) หอกซัด (javelin) 5 ด้าม หรือ (b) อาวุธพื้นฐานใด ๆ
+- (a) ชุดอุปกรณ์นักบวช หรือ (b) ชุดอุปกรณ์นักสำรวจ
+- เกราะโซ่ (Chain mail) และสัญลักษณ์ศักดิ์สิทธิ์
 
-You can use this feature a number of times equal to 1 + your Charisma modifier. When you finish a long rest, you regain all expended uses.
+### สัมผัสศักดิ์สิทธิ์ (Divine Sense) {#DivineSense}
 
-### Lay on Hands
+คุณรับรู้ถึงสิ่งชั่วร้ายได้เหมือนกลิ่นเหม็นรุนแรงติดจมูก และความดีนั้นเหมือนเป็นเสียงสวรรค์ในหูคุณ โดยการใช้แอ็คชัน คุณสามารถเปิดประสาทสัมผัสในการตรวจจับสิ่งเหล่านี้ จนจบเทิร์นหน้าของคุณ คุณจะสามารถระบุตำแหน่งของเซเลสเทียล (celestial - สิ่งมีชีวิตจากสวรรค์), ฟีน (fiend - ปีศาจ) หรือันเดด (undead - ผู้ไม่ตาย) ภายในระยะ 60 ฟุตจากตำแหน่งของคุณโดยต้องไม่อยู่หลังที่กำบังเต็ม (total cover) คุณจะรู้จักชนิด (เซเลสเทียล, ฟีน หรืออันเดด) ของสิ่งที่ปรากฏตัวในสัมผัสรับรู้ของคุณ แต่ไม่ทราบถึงตัวตน (เช่น แวมไพร์ท่านเคาท์สตราด์ท ฟอน ซาโรวิช เป็นต้น) ภายในระยะเดียวกัน คุณยังสามารถตรวจจับการมีอยู่ของสถานที่หรือสิ่งของที่ได้รับการบูชาหรือถูกดูหมิ่น เหมือนการใช้คาถา [เขตศักดิ์สิทธิ์ (hallow)](../../ch11-spells/#hallow)
 
-Your blessed touch can heal wounds. You have a pool of healing power that replenishes when you take a long rest. With that pool, you can restore a total number of hit points equal to your paladin level × 5.
+คุณสามารถใช้ความสามารถนี้เป็นจำนวนครั้งเท่ากับ 1 + ค่าโมดิไฟเออร์เสน่ห์ (Charisma) เมื่อคุณจบการพักยาว คุณจะได้รับจำนวนครั้งที่ใช้ไปคืนมา
 
-As an action, you can touch a creature and draw power from the pool to restore a number of hit points to that creature, up to the maximum amount remaining in your pool.
+### หัตถ์รักษา (Lay on Hands) {#LayonHands}
 
-Alternatively, you can expend 5 hit points from your pool of healing to cure the target of one disease or neutralize one poison affecting it. You can cure multiple diseases and neutralize multiple poisons with a single use of Lay on Hands, expending hit points separately for each one.
+การสัมผัสศักดิ์สิทธิ์ของคุณสามารถรักษาแผลได้ คุณจะมีพลังในการรักษาจำนวนหนึ่งที่จะกลับคืนมาได้หลังการพักยาว ด้วยจำนวนพลังนั้น คุณสามารถจะฟื้นฟูฮิตพอยต์ได้เป็นจำนวนเท่ากับ เลเวลของพาลาดิน x 5
 
-This feature has no effect on undead and constructs.
+โดยการใช้แอ็คชัน คุณสามารถสัมผัสสิ่งมีชีวิตและดึงเอาพลังการรักษาออกมาฟื้นฟูจำนวนฮิตพอยต์ให้กับสิ่งมีชีวิตนั้น ได้เต็มที่เท่ากับจำนวนพลังที่คุณเหลืออยู่จากจำนวนทั้งหมด
 
-### Fighting Style
+นอกจากนั้น คุณสามารถใช้ 5 ฮิตพอยต์จากจำนวนพลังงานการรักษามาใช้รักษาเป้าหมายจากอาการติดโรค (desease) หรือรักษาอาการติดพิษ (poison) คุณสามารถรักษาอาการติดโรคและรักษาพิษให้ได้หลายคนในการใช้ครั้งหนึ่ง โดยจะใช้ฮิตพอยต์แยกกันไปในแต่ละคน
 
-At 2nd level, you adopt a style of fighting as your specialty. Choose one of the following options. You can’t take a Fighting Style option more than once, even if you later get to choose again.
+ความสามารถนี้จะไม่มีผลกับอันเดดหรือคอนสตรัก (construct)
 
-#### Defense
+### รูปแบบการต่อสู้ (Fighting Style)
 
-While you are wearing armor, you gain a +1 bonus to AC.
+ที่เลเวล 2 คุณจะเลือกรูปแบบการต่อสู้ที่เป็นทักษะพิเศษของคุณ เลือกหนึ่งแบบจากตัวเลือกด้านล่างนี้ คุณจะไม่สามารถเลือกรูปแบบการต่อสู้ได้มากกว่าหนึ่งครั้ง แม้ว่าภายหลังจะได้เลือกอีกก็ตาม
 
-#### Dueling
+#### การตั้งรับ (Defense)
 
-When you are wielding a melee weapon in one hand and no other weapons, you gain a +2 bonus to damage rolls with that weapon.
+ขณะที่คุณสวมเกราะ คุณจะได้โบนัส +1 ให้ AC
 
-#### Great Weapon Fighting
+#### การประลอง (Dueling)
 
-When you roll a 1 or 2 on a damage die for an attack you make with a melee weapon that you are wielding with two hands, you can reroll the die and must use the new roll. The weapon must have the two-handed or versatile property for you to gain this benefit.
+เมื่อคุณถืออาวุธระยะประชิดในมือข้างหนึ่งและไม่ได้ถืออาวุธใดอีก คุณจะได้โบนัส +2 ในการทอยความเสียหายจากอาวุธนั้น
 
-#### Protection
+#### การสู้ด้วยอาวุธขนาดใหญ่ (Great Weapon Fighting)
 
-When a creature you can see attacks a target other than you that is within 5 feet of you, you can use your reaction to impose disadvantage on the attack roll. You must be wielding a shield.
+เมื่อคุณทอยความเสียหายได้ 1 หรือ 2 จากการโจมตีด้วยอาวุธประชิดตัวที่คุณถือด้วยสองมือ คุณสามารถทอยใหม่ได้แต่ต้องใช้ค่าจากการทอยใหม่นั้น อาวุธนั้นต้องมีคุณสมบัติ "สองมือ (two-handed)" หรือ "อเนกประสงค์ (versatile)" คุณถึงได้ใช้ความสามารถนี้ได้
 
-### Spellcasting
+#### การปกป้อง (Protection)
 
-By 2nd level, you have learned to draw on divine magic through meditation and prayer to cast spells as a cleric does. See chapter 10 for the general rules of spellcasting and chapter 11 for the paladin spell list.
+เมื่อสิ่งมีชีวิตที่คุณมองเห็นโจมตีเป้าหมายที่ไม่ใช่คุณที่อยู่ในระยะ 5 ฟุตจากคุณ คุณสามารถใช้รีแอ็คชันในการทำให้การทอยโจมตีนั้นเป็นแบบเสียเปรียบ คุณต้องถือโล่
 
-Preparing and Casting Spells
-The Paladin table shows how many spell slots you have to cast your paladin spells. To cast one of your paladin spells of 1st level or higher, you must expend a slot of the spell’s level or higher. You regain all expended spell slots when you finish a long rest.
+### การใช้คาถา (Spellcasting)
 
-You prepare the list of paladin spells that are available for you to cast, choosing from the paladin spell list. When you do so, choose a number of paladin spells equal to your Charisma modifier + half your paladin level, rounded down (minimum of one spell). The spells must be of a level for which you have spell slots.
+ที่เลเวล 2 คุณจะได้เรียนรู้การดึงพลังเวทย์มนต์ศักดิ์สิทธิ์จากการทำสมาธิและการสวดภาวนาในการใช้คาถาเหมือนที่เคลอริกทำ ดูบทที่ 10 สำหรับกฏทั่วไปในการร่ายคาถาและบทที่ 11 สำหรับรายการคาถาของพาลาดิน
 
-For example, if you are a 5th-level paladin, you have four 1st-level and two 2nd-level spell slots. With a Charisma of 14, your list of prepared spells can include four spells of 1st or 2nd level, in any combination. If you prepare the 1st-level spell cure wounds, you can cast it using a 1st-level or a 2nd-level slot. Casting the spell doesn’t remove it from your list of prepared spells.
+#### การเตรียมและการร่ายคาถา (Preparing and Casting Spells)
 
-You can change your list of prepared spells when you finish a long rest. Preparing a new list of paladin spells requires time spent in prayer and meditation: at least 1 minute per spell level for each spell on your list.
+ตารางพาลาดินแสดงจำนวนสล็อตคาถาที่คุณมีเพื่อใช้ในการร่ายคาถาเลเวล 1 และมากกว่า การจะร่ายคาถาเหล่านี้คุณต้องจ่ายเป็นสล็อตคาถาตามเลเวลของมันหรือเลเวลสูงกว่า คุณจะได้รับสล็อตทั้งหมดที่ใช้ไปกลับคืนมาเมื่อคุณจบการพักยาว
 
-Spellcasting Ability
-Charisma is your spellcasting ability for your paladin spells, since their power derives from the strength of your convictions. You use your Charisma whenever a spell refers to your spellcasting ability. In addition, you use your Charisma modifier when setting the saving throw DC for a paladin spell you cast and when making an attack roll with one.
+คุณสามารถเตรียมรายการคาถาที่จะใช้ในการร่ายโดยเลือกจากรายการคาถาพาลาดิน ในการเตรียมให้คุณเลือกคาถาเป็นจำนวนเท่ากับค่าโมดิไฟเออร์เสน่ห์ + ครึ่งหนึ่งของเลเวลพาลาดินปัดเศษลง (น้อยสุด 1 คาถา) คาถาจะต้องมีเลเวลเดียวกับสล็อตคาถาที่คุณมี
 
-Spell save DC = 8 + your proficiency bonus + your Charisma modifier
+ตัวอย่างเช่น หากคุณเป็นพาลาดินเลเวล 5 คุณจะมีช่องคาถาเลเวล 1 จำนวน 4 ช่อง และเลเวล 2 จำนวน 2 ช่อง หากมีค่าเสน่ห์ 14 รายการคาถาที่คุณเตรียมไว้สามารถมีคาถาเลเวล 1 หรือ 2 จำนวน 4 คาถาในรูปแบบใดก็ได้ หากคุณเตรียมคาถารักษาบาดแผล (cure wounds) เลเวล 1 คุณสามารถร่ายคาถานั้นโดยใช้ช่องคาถาเลเวล 1 หรือ 2 การร่ายคาถาจะไม่ลบคาถานั้นออกจากรายการคาถาที่เตรียมไว้ของคุณ
 
-Spell attack modifier = your proficiency bonus + your Charisma modifier
+คุณสามารถปรับรายการคาถาที่คุณเตรียมได้เมื่อคุณจบการพักยาว การเตรียมรายการคาถาใหม่ต้องใช้เวลาในการสวดภาวนาและการทำสมาธิ อย่างน้อย 1 นาทีต่อเลเวลคาถาในแต่ละคาถาในรายการของคุณ
 
-Spellcasting Focus
-You can use a holy symbol (see chapter 5, “Equipment”) as a spellcasting focus for your paladin spells.
+#### ความสามารถที่ใ่ช้ในการร่ายคาถา (Spellcasting Ability)
 
-### Divine Smite
+ค่าเสน่ห์ (Charisma) จะเป็นความสามารถที่ใช้ในการร่ายคาถาของพาลาดิน เพราะพลังของพวกเขาได้มาจากศรัทธาที่แข็งแกร่ง คุณจะใช้ค่าเสน่ห์เมื่อใดก็ตามที่คาถาอ้างถึงความสามารถที่ใช้ในการร่ายคาถา นอกจากนั้นคุณจะใช้ค่าโมดิไฟเออร์เสน่ห์เมื่อต้องกำหนดค่า DC ของการทอยป้องกันความเสียหายจากคาถาที่คุณร่ายและเมื่อจะใช้ทอยโจมตีจากคาถา 
 
-Starting at 2nd level, when you hit a creature with a melee weapon attack, you can expend one spell slot to deal radiant damage to the target, in addition to the weapon’s damage. The extra damage is 2d8 for a 1st-level spell slot, plus 1d8 for each spell level higher than 1st, to a maximum of 5d8. The damage increases by 1d8 if the target is an undead or a fiend, to a maximum of 6d8.
+ค่า DC ในการทอยป้องกันคาถา = 8 + ค่าโบนัสความเชี่ยวชาญ + ค่าโมดิไฟเออร์เสน่ห์
 
-### Divine Health
+ค่าโมดิไฟเออร์การโจมตีด้วยคาถา = ค่าโบนัสความเชี่ยวชาญ + ค่าโมดิไฟเออร์เสน่ห์
 
-By 3rd level, the divine magic flowing through you makes you immune to disease.
+#### เครื่องทำสมาธิในการร่ายคาถา (Spellcasting Focus)
 
-### Sacred Oath
+คุณสามารถใช้สัญลักษณ์ศักดิ์สิทธิ์ (ดูบทที่ 5 "อุปกรณ์") เป็นเครื่องทำสมาธิในการร่ายคาถาสำหรับคาถาของพาลาดิน
 
-When you reach 3rd level, you swear the oath that binds you as a paladin forever. Up to this time you have been in a preparatory stage, committed to the path but not yet sworn to it. Now you choose the Oath of Devotion, the Oath of the Ancients, or the Oath of Vengeance, all detailed at the end of the class description.
+### ทัณฑ์ศักดิ์สิทธิ์ (Divine Smite)
 
-Your choice grants you features at 3rd level and again at 7th, 15th, and 20th level. Those features include oath spells and the Channel Divinity feature.
+เริ่มที่เลเวล 2 เมื่อคุณโจมตีสิ่งมีชีวิตด้วยอาวุธระยะประชิดตัว คุณสามารถใช้สล็อตคาถา 1 สล็อตในการทำให้เกิดความเสียหายแบบแสงรัศมี (radient) แก่เป้าหมาย โดยเพิ่มเข้าในความเสียหายจากอาวุธปกติ ความเสียหายที่เพิ่มขึ้นคือ 2d8 สำหรับสล็อตคาถาเลเวล 1 บวกกับ 1d8 สำหรับแต่ละเลเวลสล็อตที่มากขึ้นกว่าเลเวล 1 มากที่สุด 5d8 ความเสียหายจะยิ่งเพิ่มมากขึ้นอีก 1d8 หากเป้าหมายเป็นอันเดดหรือปีศาจ (fiend) โดยมากสุดที่ 6d8
+
+### ร่างศักดิ์สิทธิ์ (Divine Health)
+
+ที่เลเวล 3 เวทย์มนต์ศักดิ์สิทธิ์จะไหลเวียนอยู่ทั่วตัวคุณทำให้คุณมีภูมิคุ้มกันต่อความเจ็บป่วย (disease)
+
+### ปฏิญาณศักดิ์สิทธิ์ (Sacred Oath)
+
+เมื่อคุณถึงเลเวล 3 คุณจะให้สัตย์สาบานที่จะผูกพันคุณในการเป็นพาลาดินไปตลอดชีวิต ตั้งแต่เริ่มจนถึงตอนนี้คุณอยู่ในชั้นเตรียมตัว เข้าสู่เส้นทางการเป็นพาลาดินแต่ยังไม่ได้สาบานที่จะเป็น ตอนนี้คุณจะได้เลือกปฏิญาณแห่งการอุทิศตน (Oath of Devotion), ปฏิญาณแห่งบรรพกาล (Oath of the Ancients), หรือปฏิญาณแห่งความพยาบาท (Oath of Vengeance) ทุกอย่างมีคำอธิบายด้านล่าง
+
+สิ่งที่คุณเลือกจากให้ความสามารถแก่คุณที่เลเวล 3 และอีกครั้งเมื่อเลเวล 7, 15 และเลเวล 20 ความสามารถนี้รวมถึงคาถาแห่งปฏิญาณและการเชื่อมพลังศักดิ์สิทธิ์ (Channel Divinity)
 
 #### Oath Spells
 
@@ -287,7 +293,151 @@ In addition, for the duration, you have advantage on saving throws against spell
 Once you use this feature, you can’t use it again until you finish a long rest.
 
 ### Oath of the Ancients
+The Oath of the Ancients is as old as the race of elves and the rituals of the druids. Sometimes called fey knights, green knights, or horned knights, paladins who swear this oath cast their lot with the side of the light in the cosmic struggle against darkness because they love the beautiful and life-giving things of the world, not necessarily because they believe in principles of honor, courage, and justice. They adorn their armor and clothing with images of growing things—leaves, antlers, or flowers—to reflect their commitment to preserving life and light in the world.
+
+>**TENETS OF THE ANCIENTS**
+>
+>The tenets of the Oath of the Ancients have been preserved for uncounted centuries. This oath emphasizes the principles of good above any concerns of law or chaos. Its four central principles are simple.
+>
+>**Kindle the Light.** Through your acts of mercy, kindness, and forgiveness, kindle the light of hope in the world, beating back despair.
+>
+>**Shelter the Light.** Where there is good, beauty, love, and laughter in the world, stand against the wickedness that would swallow it. Where life flourishes, stand against the forces that would render it barren.
+>
+>**Preserve Your Own Light.** Delight in song and laughter, in beauty and art. If you allow the light to die in your own heart, you can’t preserve it in the world.
+>
+>**Be the Light.** Be a glorious beacon for all who live in despair. Let the light of your joy and courage shine forth in all your deeds.
+
+#### Channel Divinity
+When you take this oath at 3rd level, you gain the following two Channel Divinity options.
+
+**Nature’s Wrath.** You can use your Channel Divinity to invoke primeval forces to ensnare a foe. As an action, you can cause spectral vines to spring up and reach for a creature within 10 feet of you that you can see. The creature must succeed on a Strength or Dexterity saving throw (its choice) or be restrained. While restrained by the vines, the creature repeats the saving throw at the end of each of its turns. On a success, it frees itself and the vines vanish.
+
+**Turn the Faithless.** You can use your Channel Divinity to utter ancient words that are painful for fey and fiends to hear. As an action, you present your holy symbol, and each fey or fiend within 30 feet of you that can hear you must make a Wisdom saving throw. On a failed save, the creature is turned for 1 minute or until it takes damage.
+
+A turned creature must spend its turns trying to move as far away from you as it can, and it can’t willingly move to a space within 30 feet of you. It also can’t take reactions. For its action, it can use only the Dash action or try to escape from an effect that prevents it from moving. If there’s nowhere to move, the creature can use the Dodge action.
+
+If the creature’s true form is concealed by an illusion, shapeshifting, or other effect, that form is revealed while it is turned.
+
+#### Oath Spells
+You gain oath spells at the paladin levels listed.
+
+**Oath of the Ancients Spells**
+
+| Paladin Level | Spells                                                                                                                                                     |
+| ------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| 3rd           | [ensnaring strike](https://www.dndbeyond.com/spells/2315-ensnaring-strike), [speak with animals](https://www.dndbeyond.com/spells/2258-speak-with-animals) |
+| 5th           | [misty step](https://www.dndbeyond.com/spells/2195-misty-step), [moonbeam](https://www.dndbeyond.com/spells/2197-moonbeam)                                 |
+| 9th           | [plant growth](https://www.dndbeyond.com/spells/2207-plant-growth), [protection from energy](https://www.dndbeyond.com/spells/2220-protection-from-energy) |
+| 13th          | [ice storm](https://www.dndbeyond.com/spells/2151-ice-storm), [stoneskin](https://www.dndbeyond.com/spells/2266-stoneskin)                                 |
+| 17th          | [commune with nature](https://www.dndbeyond.com/spells/2034-commune-with-nature), [tree stride](https://www.dndbeyond.com/spells/2283-tree-stride)         |
+
+#### Aura of Warding
+Beginning at 7th level, ancient magic lies so heavily upon you that it forms an eldritch ward. You and friendly creatures within 10 feet of you have resistance to damage from spells.
+
+At 18th level, the range of this aura increases to 30 feet.
+
+#### Undying Sentinel
+Starting at 15th level, when you are reduced to 0 hit points and are not killed outright, you can choose to drop to 1 hit point instead. Once you use this ability, you can’t use it again until you finish a long rest.
+
+Additionally, you suffer none of the drawbacks of old age, and you can’t be aged magically.
+
+#### Elder Champion
+At 20th level, you can assume the form of an ancient force of nature, taking on an appearance you choose. For example, your skin might turn green or take on a bark-like texture, your hair might become leafy or moss-like, or you might sprout antlers or a lion-like mane.
+
+Using your action, you undergo a transformation. For 1 minute, you gain the following benefits:
+
+- At the start of each of your turns, you regain 10 hit points.
+- Whenever you cast a paladin spell that has a casting time of 1 action, you can cast it using a bonus action instead.
+- Enemy creatures within 10 feet of you have disadvantage on saving throws against your paladin spells and Channel Divinity options.
+
+Once you use this feature, you can’t use it again until you finish a long rest.
 
 ### Oath of Vengeance
+The Oath of Vengeance is a solemn commitment to punish those who have committed a grievous sin. When evil forces slaughter helpless villagers, when an entire people turns against the will of the gods, when a thieves’ guild grows too violent and powerful, when a dragon rampages through the countryside — at times like these, paladins arise and swear an Oath of Vengeance to set right that which has gone wrong. To these paladins — sometimes called avengers or dark knights — their own purity is not as important as delivering justice.
+
+>TENETS OF VENGEANCE
+>
+>The tenets of the Oath of Vengeance vary by paladin, but all the tenets revolve around punishing wrongdoers by any means necessary. Paladins who uphold these tenets are willing to sacrifice even their own righteousness to mete out justice upon those who do evil, so the paladins are often neutral or lawful neutral in alignment. The core principles of the tenets are brutally simple.
+>
+>**Fight the Greater Evil.** Faced with a choice of fighting my sworn foes or combating a lesser evil, I choose the greater evil.
+>
+>**No Mercy for the Wicked.** Ordinary foes might win my mercy, but my sworn enemies do not.
+>
+>**By Any Means Necessary.** My qualms can’t get in the way of exterminating my foes.
+>
+>**Restitution.** If my foes wreak ruin on the world, it is because I failed to stop them. I must help those harmed by their misdeeds.
+
+#### Channel Divinity
+When you take this oath at 3rd level, you gain the following two Channel Divinity options.
+
+**Abjure Enemy.** As an action, you present your holy symbol and speak a prayer of denunciation, using your Channel Divinity. Choose one creature within 60 feet of you that you can see. That creature must make a Wisdom saving throw, unless it is immune to being [frightened]. Fiends and undead have disadvantage on this saving throw.
+
+On a failed save, the creature is [frightened] for 1 minute or until it takes any damage. While [frightened], the creature’s speed is 0, and it can’t benefit from any bonus to its speed.
+
+On a successful save, the creature’s speed is halved for 1 minute or until the creature takes any damage.
+
+**Vow of Enmity.** As a bonus action, you can utter a vow of enmity against a creature you can see within 10 feet of you, using your Channel Divinity. You gain advantage on attack rolls against the creature for 1 minute or until it drops to 0 hit points or falls [unconscious].
+
+#### Oath Spells
+You gain oath spells at the paladin levels listed.
+
+**Oath of Vengeance Spells**
+| Paladin Level | Spells                                                                                                                                                     |
+| ------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| 3rd           | [bane](https://www.dndbeyond.com/spells/2009-bane), [hunter’s mark](https://www.dndbeyond.com/spells/2149-hunters-mark)                                    |
+| 5th           | [hold person](https://www.dndbeyond.com/spells/2147-hold-person), [misty step](https://www.dndbeyond.com/spells/2195-misty-step)                           |
+| 9th           | [haste](https://www.dndbeyond.com/spells/2138-haste), [protection from energy](https://www.dndbeyond.com/spells/2220-protection-from-energy)               |
+| 13th          | [banishment](https://www.dndbeyond.com/spells/2010-banishment), [dimension door](https://www.dndbeyond.com/spells/2068-dimension-door)                     |
+| 17th          | [hold monster](https://www.dndbeyond.com/spells/2146-hold-monster), [scrying](https://www.dndbeyond.com/spells/2239-scrying)                               |
+
+#### Relentless Avenger
+By 7th level, your supernatural focus helps you close off a foe’s retreat. When you hit a creature with an opportunity attack, you can move up to half your speed immediately after the attack and as part of the same reaction. This movement doesn’t provoke opportunity attacks.
+
+#### Soul of Vengeance
+Starting at 15th level, the authority with which you speak your Vow of Enmity gives you greater power over your foe. When a creature under the effect of your Vow of Enmity makes an attack, you can use your reaction to make a melee weapon attack against that creature if it is within range.
+
+#### Avenging Angel
+At 20th level, you can assume the form of an angelic avenger. Using your action, you undergo a transformation. For 1 hour, you gain the following benefits:
+
+- Wings sprout from your back and grant you a flying speed of 60 feet.
+- You emanate an aura of menace in a 30-foot radius. The first time any enemy creature enters the aura or starts its turn there during a battle, the creature must succeed on a Wisdom saving throw or become frightened of you for 1 minute or until it takes any damage. Attack rolls against the frightened creature have advantage.
+
+Once you use this feature, you can’t use it again until you finish a long rest.
 
 ### Oathbreaker
+An Oathbreaker is a paladin who breaks his or her sacred oaths to pursue some dark ambition or serve an evil power. Whatever light burned in the paladin’s heart has been extinguished. Only darkness remains.
+
+A paladin must be evil and at least 3rd level to become an Oathbreaker. The paladin replaces the features specific to his or her Sacred Oath with Oathbreaker features.
+
+#### Oathbreaker Spells
+An Oathbreaker paladin loses previously gained oath spells and instead gains the following Oathbreaker spells at the paladin levels listed.
+
+| Paladin Level | Spells                                                                                                                                         |
+| ------------- | ---------------------------------------------------------------------------------------------------------------------------------------------- |
+| 3rd           | [hellish rebuke](https://www.dndbeyond.com/spells/2142-hellish-rebuke), [inflict wounds](https://www.dndbeyond.com/spells/2156-inflict-wounds) |
+| 5th           | [crown of madness](https://www.dndbeyond.com/spells/2329-crown-of-madness), [darkness](https://www.dndbeyond.com/spells/2058-darkness)         |
+| 9th           | [animate dead](https://www.dndbeyond.com/spells/1996-animate-dead), [bestow curse](https://www.dndbeyond.com/spells/2013-bestow-curse)         |
+| 13th          | [blight](https://www.dndbeyond.com/spells/2017-blight), [confusion](https://www.dndbeyond.com/spells/2038-confusion)                           |
+| 17th          | [contagion](https://www.dndbeyond.com/spells/2046-contagion), [dominate person](https://www.dndbeyond.com/spells/2078-dominate-person)         |
+
+#### Channel Divinity
+An Oathbreaker paladin of 3rd level or higher gains the following two Channel Divinity options.
+
+**Control Undead.** As an action, the paladin targets one undead creature he or she can see within 30 feet of him or her. The target must make a Wisdom saving throw. On a failed save, the target must obey the paladin’s commands for the next 24 hours, or until the paladin uses this Channel Divinity option again. An undead whose challenge rating is equal to or greater than the paladin’s level is immune to this effect.
+
+**Dreadful Aspect.** As an action, the paladin channels the darkest emotions and focuses them into a burst of magical menace. Each creature of the paladin’s choice within 30 feet of the paladin must make a Wisdom saving throw if it can see the paladin. On a failed save, the target is frightened of the paladin for 1 minute. If a creature frightened by this effect ends its turn more than 30 feet away from the paladin, it can attempt another Wisdom saving throw to end the effect on it.
+
+#### Aura of Hate
+Starting at 7th level, the paladin, as well any fiends and undead within 10 feet of the paladin, gains a bonus to melee weapon damage rolls equal to the paladin’s Charisma modifier (minimum of +1). A creature can benefit from this feature from only one paladin at a time.
+
+At 18th level, the range of this aura increases to 30 feet.
+
+#### Supernatural Resistance
+At 15th level, the paladin gains resistance to bludgeoning, piercing, and slashing damage from nonmagical weapons.
+
+#### Dread Lord
+At 20th level, the paladin can, as an action, surround himself or herself with an aura of gloom that lasts for 1 minute. The aura reduces any bright light in a 30-foot radius around the paladin to dim light. Whenever an enemy that is frightened by the paladin starts its turn in the aura, it takes 4d10 psychic damage. Additionally, the paladin and creatures he or she chooses in the aura are draped in deeper shadow. Creatures that rely on sight have disadvantage on attack rolls against creatures draped in this shadow.
+
+While the aura lasts, the paladin can use a bonus action on his or her turn to cause the shadows in the aura to attack one creature. The paladin makes a melee spell attack against the target. If the attack hits, the target takes necrotic damage equal to 3d10 + the paladin’s Charisma modifier.
+
+After activating the aura, the paladin can’t do so again until he or she finishes a long rest.
