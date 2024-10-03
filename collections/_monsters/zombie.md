@@ -7,7 +7,7 @@ cr: 1/4
 ---
 
 
-# Zombie 
+{% capture stat_block %}
 _Medium undead, neutral evil_
 
 **Armor Class** 8    
@@ -29,3 +29,7 @@ _Medium undead, neutral evil_
 
 ### Actions    
 **Slam.** _Melee Weapon Attack:_ +3 to hit, reach 5 ft., one target. _Hit:_ 4 (1d6 + 1) bludgeoning damage.
+
+{% endcapture %}
+
+{% include monster.html content=stat_block %}
