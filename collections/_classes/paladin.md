@@ -172,75 +172,75 @@ name: พาลาดิน (Paladin)
 
 สิ่งที่คุณเลือกจากให้ความสามารถแก่คุณที่เลเวล 3 และอีกครั้งเมื่อเลเวล 7, 15 และเลเวล 20 ความสามารถนี้รวมถึงคาถาแห่งปฏิญาณและการเชื่อมพลังศักดิ์สิทธิ์ (Channel Divinity)
 
-#### Oath Spells
+#### คาถาแห่งคำปฏิญาณ (Oath Spells)
 
-Each oath has a list of associated spells. You gain access to these spells at the levels specified in the oath description. Once you gain access to an oath spell, you always have it prepared. Oath spells don’t count against the number of spells you can prepare each day.
+แต่ละคำปฏิญาณ (Oath) จะมีชุดคาถาที่เกี่ยวข้องอยู่ คุณจะเข้าถึงคาถาเหล่านี้เมื่อถึงเลเวลที่ระบุไว้ในคำอธิบายของแต่ละคำปฏิญาณ เมื่อคุณสามารถเข้าถึงคาถาได้แล้ว คะถาจะอยู่ในสถานะเตรียมพร้อมอยู่เสมอ คาถาจากคำปฏิญาณจะไม่นับรวมกับจำนวนคาถาที่คุณเตรียมได้ในแต่ละวัน
 
-If you gain an oath spell that doesn’t appear on the paladin spell list, the spell is nonetheless a paladin spell for you.
+ถ้าคุณเข้าถึงคาถาจากคำปฏิญาณที่ไม่มีในรายการคาถา ให้ถือว่าคาถานั้นเป็นคาถาของพาลาดินสำหรับคุณ
 
-#### Channel Divinity
+#### การเชี่ยมพลังศักดิ์สิทธิ์ (Channel Divinity)
 
-Your oath allows you to channel divine energy to fuel magical effects. Each Channel Divinity option provided by your oath explains how to use it.
+คำปฏิญาณของคุณจะอนุญาตให้คุณสามารถเชื่อมประสานพลังศักดิ์สิทธิ์และนำมาใช้ให้ได้ผลทางเวทย์มนต์ต่าง ๆ การเชื่อมพลังศักดิ์สิทธิ์ในแต่ละคำปฏิญาณจะมีอธิบายไว้ในรายละเอียดคำปฏิญาณ
 
-When you use your Channel Divinity, you choose which option to use. You must then finish a short or long rest to use your Channel Divinity again.
+เมื่อคุณใช้การเชื่อมประสานพลังศักดิ์สิทธิ์ คุณจะเลือกว่าจะใช้ตัวไหน คุณต้องจบการพักสั้นหรือพักยาวเพื่อที่จะใช้การเชื่อมพลังศักดิ์สิทธิ์อีกครั้ง
 
-Some Channel Divinity effects require saving throws. When you use such an effect from this class, the DC equals your paladin spell save DC.
+ผลจากการเชื่อมพลังศักดิ์สิทธิ์บางอย่างต้องมีการทอยป้องกัน เมื่อคุณใช้ผลพิเศษนั้นจากคลาสนี้ ค่า DC จะเท่ากับค่า DC การทอยป้องกันคาถาของพาลาดินของคุณ
 
-### Ability Score Improvement
+### เพิ่มคะแนนความสามารถ (Ability Score Improvement)
 
-When you reach 4th level, and again at 8th, 12th, 16th, and 19th level, you can increase one ability score of your choice by 2, or you can increase two ability scores of your choice by 1. As normal, you can’t increase an ability score above 20 using this feature.
+เมื่อคุณถึงเลเวล 4 และอีกครั้งเมื่อเลเวล 8, 12, 16 และ 19 คุณสามารถเพิ่มคะแนนความสามารถหนึ่งอย่างตามที่คุณเลือกได้ 2 คะแนน หรือเพิ่ม 1 คะแนนให้กับสองทักษะก็ได้ โดยปกติแล้วคุณจะไม่สามารถเพิ่มคะแนนความสามารถได้มากกว่า 20 หากใช้คุณลักษณะนี้
 
-### Extra Attack
+### การโจมตีเพิ่มเติม (Extra Attack)
 
-Beginning at 5th level, you can attack twice, instead of once, whenever you take the Attack action on your turn.
+เริ่มที่เลเวล 5 คุณสามารถโจมตีได้สองครั้ง เมื่อใดก็ตามที่คุณใช้แอ็คชันโจมตีในเทิร์นของคุณ
 
-### Aura of Protection
+### ออร่าแห่งการคุ้มครอง (Aura of Protection)
 
-Starting at 6th level, whenever you or a friendly creature within 10 feet of you must make a saving throw, the creature gains a bonus to the saving throw equal to your Charisma modifier (with a minimum bonus of +1). You must be conscious to grant this bonus.
+เริ่มที่เลเวล 6 เมื่อใดก็ตามที่คุณหรือเพื่อนในระยะ 10 ฟุตของคุณต้องทอยป้องกัน ทุกคนจะได้โบนัสในการทอยป้องกันเท่ากับค่าโมดิไฟเออร์เสน่ห์ของคุณ (โบนัสน้อยที่สุด +1) คุณต้องมีสติขณะที่ให้โบนัสนี้
 
-At 18th level, the range of this aura increases to 30 feet.
+ที่เลเวล 18 ระยะของออร่านี้จะเพิ่มเป็น 30 ฟุต
 
-### Aura of Courage
+### ออร่าแห่งความกล้าหาญ (Aura of Courage)
 
-Starting at 10th level, you and friendly creatures within 10 feet of you can’t be [frightened]() while you are conscious.
+เริ่มที่เลเวล 10 คุณและเพื่อนในระยะ 10 ฟุตของคุณจะไม่ติดสถานะ[หวาดกลัว (frightened)]() ในขณะที่คุณยังมีสติอยู่
 
-At 18th level, the range of this aura increases to 30 feet.
+ที่เลเวล 18 ระยะของออร่านี้จะเพิ่มเป็น 30 ฟุต
 
-### Improved Divine Smite
+### ทัณฑ์ศักดิ์สิทธิ์เพิ่มระดับ (Improved Divine Smite)
 
-By 11th level, you are so suffused with righteous might that all your melee weapon strikes carry divine power with them. Whenever you hit a creature with a melee weapon, the creature takes an extra 1d8 radiant damage.
+เมื่อถึงเลเวล 11 พลังแห่งความถูกต้องจะเสริมกำลังให้คุณ จนทุกการโจมตีด้วยอาวุธระยะประชิดจะมีพลังศักดิ์สิทธิ์ผนวกไปด้วยเสมอ เมื่อใดก็ตามที่คุณโจมตีศัตรูด้วยอาวุธระยะประชิด ศัตรูจะได้รับความเสียหายแสงรัศมี (radiant damage) 1d8
 
-### Cleansing Touch
+### หัตถ์แห่งการชำระล้าง (Cleansing Touch)
 
-Beginning at 14th level, you can use your action to end one spell on yourself or on one willing creature that you touch.
+เริ่มที่เลเวล 14 คุณสามารถใช้แอ็คชันในการจบคาถาหนึ่งที่มีผลกับคุณหรือสิ่งมีชีวิตที่เต็มใจที่คุณสัมผัส
 
-You can use this feature a number of times equal to your Charisma modifier (a minimum of once). You regain expended uses when you finish a long rest.
+คุณสามารถใช้ความสามารถนี้เป็นจำนวนครั้งเท่ากับค่าโมดิไฟเออร์เสน่ห์ของคุณ (้น้อยสุด 1 ครั้ง) คุณจะได้จำนวนครั้งที่ใช้ไปคืนมาเมื่อจบการพักยาว
 
-## Sacred Oaths
+## คำปฏิญาณศักดิ์สิทธิ์ (Sacred Oaths)
 
-Becoming a paladin involves taking vows that commit the paladin to the cause of righteousness, an active path of fighting wickedness. The final oath, taken when he or she reaches 3rd level, is the culmination of all the paladin’s training. Some characters with this class don’t consider themselves true paladins until they have reached 3rd level and made this oath. For others, the actual swearing of the oath is a formality, an official stamp on what has always been true in the paladin’s heart.
+การเป็นพาลาดินจะมีการให้สัตย์สาบานว่าจะทุ่มเทให้แก่หนทางแห่งความถูกต้อง เป็นเส้นทางที่จะต่อสู้กับเหล่าร้ายเสมอ คำปฏิญาณสุดท้าย จะกระทำเมื่อเขาหรือเธอถึงเลเวล 3 นั้นถือเป็นการจบการฝึกฝนเป็นพาลาดิน ตัวละครบางคนในคลาสนี้จะไม่ถือว่าตัวเองเป็นพาลาดินที่แท้จริงจนกว่าจะถึงเลเวล 3 และได้ให้คำปฏิญาณสุดท้ายนี้ สำหรับคนอื่น การได้กล่าวคำสาบานถือเป็นเพียงพิธีการ เป็นตราประทับอย่างเป็นทางการถึงความแน่วแน่ที่อยู่ในใจของพาลาดินมาตลอด
 
-> BREAKING YOUR OATH
+> การผิดคำปฏิญาณ
 >
-> A paladin tries to hold to the highest standards of conduct, but even the most virtuous paladin is fallible. Sometimes the right path proves too demanding, sometimes a situation calls for the lesser of two evils, and sometimes the heat of emotion causes a paladin to transgress his or her oath.
+> พาลาดินนั้นพยายามอย่างหนักในการรักษามาตรฐานในการดำเนินชีวิต แต่แม้พาลาดินที่ทรงคุณธรรมที่สุดก็มีวันพลาดได้ บางครั้งเส้นทางที่ถูกต้องอาจจะเรียกร้องมากเกินไป บางครั้งสถานการณ์ก็ต้องการความชั่วร้ายในการจัดการ และบางครั้งอารมณ์ที่พลุ่งพล่านก็ทำให้พาลาดินละเมิดคำสาบานของตน
 >
-> A paladin who has broken a vow typically seeks absolution from a cleric who shares his or her faith or from another paladin of the same order. The paladin might spend an all-night vigil in prayer as a sign of penitence, or undertake a fast or similar act of self-denial. After a rite of confession and forgiveness, the paladin starts fresh.
+> พาลาดินที่ผิดคำสาบานมักจะเข้ารับการล้างบาปจากเคลอริกที่มีศรัทธาเดียวกัน หรือจากพาลาดินคนอื่นที่อยู่ในนิกายเดียวกัน พาลาดินอาจจะใช้เวลาทั้งวันทั้งคืนในการสวดภาวนาเพื่อเป็นเครื่องหมายถึงการสำนึกบาป หรือถือศีลอดหรือปฏิบัติกิจที่คล้ายกัน หลังจากพิธีกรรมในการสารภาพบาปและการให้อภัยแล้ว พาลาดินจะได้เริ่มต้นใหม่
 >
-> If a paladin willfully violates his or her oath and shows no sign of repentance, the consequences can be more serious. At the DM’s discretion, an impenitent paladin might be forced to abandon this class and adopt another, or perhaps to take the Oathbreaker paladin option that appears in the Dungeon Master’s Guide.
+> ถ้าพาลาดินจงใจจะละเมิดคำปฏิญาณของเขาหรือเธอและไม่แสดงออกถึงการสำนึกบาป ผลที่จะตามมาอาจจะร้ายแรงได้ ขึ้นอยู่กับการตัดสินใจของ DM พาลาดินที่ไม่สำนึกผิดอาจจะถูกบังคับให้เลิกเป็นคลาสนี้และไปเป็นคลาสอื่น หรืออาจจะเปลี่ยนไปเป็น "ผู้ตระบัดสัตย์ (Oathbreaker)" ที่มีอยู่ในดันเจียนมาสเตอร์ไกด์
 
-### Oath of Devotion
+### ปฏิญาณแห่งการอุทิศตน (Oath of Devotion)
 
-The Oath of Devotion binds a paladin to the loftiest ideals of justice, virtue, and order. Sometimes called cavaliers, white knights, or holy warriors, these paladins meet the ideal of the knight in shining armor, acting with honor in pursuit of justice and the greater good. They hold themselves to the highest standards of conduct, and some, for better or worse, hold the rest of the world to the same standards. Many who swear this oath are devoted to gods of law and good and use their gods’ tenets as the measure of their devotion. They hold angels — the perfect servants of good — as their ideals, and incorporate images of angelic wings into their helmets or coats of arms.
+ปฏิญาณแห่งการอุทิศตนยึดโยงพาลาดินไว้กับอุดมคติสูงสุดของความยุติธรรม คุณธรรม และความเป็นระเบียบเรียบร้อย บางครั้งเราเรียกพวกเขาว่าอัศวินม้าขาว (cavaliers), อัศวินขาว, หรือนักรบศักดิ์สิทธิ์ พาลาดินเหล่านี้เป็นดั่งอุดมคติของอัศวินในชุดเกราะแวววาว ประกอบกิจด้วยเกียรติในการมุ่งสู่ความยุติธรรมและความดีงามที่ยิ่งขึ้นไป พวกเขาตั้งตัวเองไว้บนมาตรฐานที่สูงสุด และสำหรับบางคน ไม่ว่าดีหรือร้าย ก็มองโลกด้วยมาตรฐานเดียวกัน หลายคนที่สาบานต่อปฏิญาณนี้จะอุทิศตนให้แก่เทพเจ้าแห่งกฏและความดี และใช้หลักคำสอนของเทพเจ้าเป็นตัววัดระดับความอุทิศตนของพวกเขา พวกเขายึดเอาฑูตสวรรค์ ผู้เป็นข้ารับใช้ที่สมบูรณ์แห่งความดี เป็นอุดมคติของพวกเขา และนำเอารูปลักษณ์ของปีกของฑูตสวรรค์มาประดับบนหมวกเกราะหรือตามอาวุธต่าง ๆ
 
-#### Tenets of Devotion
+#### หลักคำสอนแห่งการอุทิศตน (Tenets of Devotion)
 
-Though the exact words and strictures of the Oath of Devotion vary, paladins of this oath share these tenets.
+แม้ถ้อยคำและความเข้มงวดจะแตกต่างกัน แต่พาลาดินในปฏิญาณนี้ก็ยึดคำสอนเหล่านี้ร่วมกัน
 
-**Honesty.** Don’t lie or cheat. Let your word be your promise.
+**ชื่อสัตย์.** อย่าโกหกหรือคดโกง ให้คำพูดของเจ้าเป็นดั่งคำสัญญา
 
-**Courage.** Never fear to act, though caution is wise.
+**กล้าหาญ.** อย่ากลัวที่จะลงมือทำ แต่ต้องทำด้วยความระมัดระวัง
 
-**Compassion.** Aid others, protect the weak, and punish those who threaten them. Show mercy to your foes, but temper it with wisdom.
+**เห็นอกเห็นใจผู้อื่น.** ช่วยเหลือผู้อื่น ปกป้องผู้อ่อนแอ และลงโทษพวกที่ทำร้ายผู้อื่น เมตตาต่อศัตรูแต่จงอ่อนโยนด้วยปัญญา
 
 **Honor.** Treat others with fairness, and let your honorable deeds be an example to them. Do as much good as possible while causing the least amount of harm.
 
