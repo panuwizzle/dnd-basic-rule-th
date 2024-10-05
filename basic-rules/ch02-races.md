@@ -55,7 +55,7 @@ title: บทที่ 2 - เผ่าพันธุ์
 
 [เอลฟ์](../races/elf)
 
-[ฮาล์ฟลิ่ง](../races/halfing)
+[ฮาล์ฟลิ่ง](../races/halfling)
 
 [มนุษย์](../races/human)
 

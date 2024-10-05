@@ -32,7 +32,7 @@ menu: menu-basic-rules
 
 - [ดวอร์ฟ (Dwarf) คนแคระ](./races/dwarf)
 - [เอลฟ์ (Elf)](./races/elf)
-- [ฮาล์ฟลิ่ง (Halfling)](./races/halfing)
+- [ฮาล์ฟลิ่ง (Halfling)](./races/halfling)
 - [มนุษย์ (Human)](./races/human)
 - [ดรากอนบอร์น (Dragonborn: ลูกครึ่งมังกร)](./races/dragonborn)
 - [โนม (Gnome)](./races/gnome)
