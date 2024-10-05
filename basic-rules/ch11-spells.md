@@ -1051,7 +1051,7 @@ An audible alarm produces the sound of a hand bell for 10 seconds within 60 ฟ�
 **เวลาในการร่ายคาถา:** 1 แอ็คชัน  
 **ระยะ:** Self  
 **วิธีการร่ายและวัตถุคาถา:** V, S  
-**ระยะเวลาคงคาถา:** เพ่งสมาธิ, up to 1 hour
+**ระยะเวลาคงคาถา:** เพ่งสมาธิ, นานสุด 1 ชั่วโมง
 
 You assume a different form. When you cast the spell, choose one of the following options, the effects of which last for the duration of the spell. While the spell lasts, you can end one option as an action to gain the benefits of a different one.
 
@@ -1149,7 +1149,7 @@ At Higher Levels. If you cast this spell using a spell slot of 6th level or high
 **เวลาในการร่ายคาถา:** 1 แอ็คชัน  
 **ระยะ:** Self (10-foot radius)  
 **วิธีการร่ายและวัตถุคาถา:** V, S  
-**ระยะเวลาคงคาถา:** เพ่งสมาธิ, up to 1 hour  
+**ระยะเวลาคงคาถา:** เพ่งสมาธิ, นานสุด 1 ชั่วโมง  
 A shimmering barrier extends out from you in a 10-foot radius and moves with you, remaining centered on you and hedging out creatures other than undead and constructs. The barrier lasts for the duration.
 The barrier prevents an affected creature from passing or reaching through. An affected creature can cast spells or make attacks with ranged or reach weapons through the barrier.
 If you move so that an affected creature is forced to pass through the barrier, the spell ends.
@@ -1160,7 +1160,7 @@ If you move so that an affected creature is forced to pass through the barrier, 
 **เวลาในการร่ายคาถา:** 1 แอ็คชัน  
 **ระยะ:** Self (10-foot-radius sphere)  
 **วิธีการร่ายและวัตถุคาถา:** V, S, M (a pinch of powdered iron or iron filings)  
-**ระยะเวลาคงคาถา:** เพ่งสมาธิ, up to 1 hour  
+**ระยะเวลาคงคาถา:** เพ่งสมาธิ, นานสุด 1 ชั่วโมง  
 A 10-foot-radius invisible sphere of antimagic surrounds you. This area is divorced from the magical energy that suffuses the multiverse. Within the sphere, spells can’t be cast, summoned creatures disappear, and even magic items become mundane. Until the spell ends, the sphere moves with you, centered on you.
 Spells and other magical effects, except those created by an artifact or a deity, are suppressed in the sphere and can’t protrude into it. A slot expended to cast a suppressed spell is consumed. While an effect is suppressed, it doesn’t function, but the time it spends suppressed counts against its duration.
 Targeted Effects. Spells and other magical effects, such as magic missile and charm person, that target a creature or an object in the sphere have no effect on that target.
@@ -1192,7 +1192,7 @@ A creature that successfully saves against this effect is immune to it for 1 น
 **เวลาในการร่ายคาถา:** 1 แอ็คชัน
 **ระยะ:** 30 ฟุต
 **วิธีการร่ายและวัตถุคาถา:** V, S, M (a bit of bat fur)
-**ระยะเวลาคงคาถา:** เพ่งสมาธิ, up to 1 hour
+**ระยะเวลาคงคาถา:** เพ่งสมาธิ, นานสุด 1 ชั่วโมง
 You create an invisible, magical eye within range that hovers in the air for the duration.
 You mentally receive visual information from the eye, which has normal vision and darkvision out to 30 ฟุต. The eye can look in every direction.
 As an action, you can move the eye up to 30 ฟุต in any direction. There is no limit to how far away from you the eye can move, but it can’t enter another plane of existence. A solid barrier blocks the eye’s movement, but the eye can pass through an opening as small as 1 inch in diameter.
@@ -1286,7 +1286,7 @@ At Higher Levels. When you cast this spell using a spell slot of 5th level or hi
 **เวลาในการร่ายคาถา:** 1 แอ็คชัน
 **ระยะ:** สัมผัสถึง
 **วิธีการร่ายและวัตถุคาถา:** V, S, M (a handful of oak bark)
-**ระยะเวลาคงคาถา:** เพ่งสมาธิ, up to 1 hour
+**ระยะเวลาคงคาถา:** เพ่งสมาธิ, นานสุด 1 ชั่วโมง
 You touch a willing creature. Until the spell ends, the target’s skin has a rough, bark-like appearance, and the target’s AC can’t be less than 16, regardless of what kind of armor it is wearing.
 
 ### Beacon of Hope {#beacon-of-hope}
@@ -1629,7 +1629,7 @@ At Higher Levels. When you cast this spell using a spell slot of 5th level or hi
 **เวลาในการร่ายคาถา:** 1 แอ็คชัน
 **ระยะ:** 60 ฟุต
 **วิธีการร่ายและวัตถุคาถา:** V, S
-**ระยะเวลาคงคาถา:** เพ่งสมาธิ, up to 1 hour
+**ระยะเวลาคงคาถา:** เพ่งสมาธิ, นานสุด 1 ชั่วโมง
 You summon fey spirits that take the form of beasts and appear in unoccupied spaces that you can see within range. Choose one of the following options for what appears:
 
 - One beast of challenge rating 2 or lower
@@ -1648,7 +1648,7 @@ At Higher Levels. When you cast this spell using certain higher-level spell slot
 **เวลาในการร่ายคาถา:** 1 นาที
 **ระยะ:** 90 ฟุต
 **วิธีการร่ายและวัตถุคาถา:** V, S
-**ระยะเวลาคงคาถา:** เพ่งสมาธิ, up to 1 hour
+**ระยะเวลาคงคาถา:** เพ่งสมาธิ, นานสุด 1 ชั่วโมง
 You summon a celestial of challenge rating 4 or lower, which appears in an unoccupied space that you can see within range. The celestial disappears when it drops to 0 hit points or when the spell ends.
 The celestial is friendly to you and your companions for the duration. Roll initiative for the celestial, which has its own turns. It obeys any verbal commands that you issue to it (no action required by you), as long as they don’t violate its alignment. If you don’t issue any commands to the celestial, it defends itself from hostile creatures but otherwise takes no actions.
 The DM has the celestial’s statistics.
@@ -1660,7 +1660,7 @@ At Higher Levels. When you cast this spell using a 9th-level spell slot, you sum
 **เวลาในการร่ายคาถา:** 1 นาที
 **ระยะ:** 90 ฟุต
 **วิธีการร่ายและวัตถุคาถา:** V, S, M (burning incense for air, soft clay for earth, sulfur and phosphorus for fire, or water and sand for water)
-**ระยะเวลาคงคาถา:** เพ่งสมาธิ, up to 1 hour
+**ระยะเวลาคงคาถา:** เพ่งสมาธิ, นานสุด 1 ชั่วโมง
 You call forth an elemental servant. Choose an area of air, earth, fire, or water that fills a 10-foot cube within range. An elemental of challenge rating 5 or lower appropriate to the area you chose appears in an unoccupied space within 10 ฟุต of it. For example, a fire elemental emerges from a bonfire, and an earth elemental rises up from the ground. The elemental disappears when it drops to 0 hit points or when the spell ends.
 The elemental is friendly to you and your companions for the duration. Roll initiative for the elemental, which has its own turns. It obeys any verbal commands that you issue to it (no action required by you). If you don’t issue any commands to the elemental, it defends itself from hostile creatures but otherwise takes no actions.
 If your เพ่งสมาธิ is broken, the elemental doesn’t disappear. Instead, you lose control of the elemental, it becomes hostile toward you and your companions, and it might attack. An uncontrolled elemental can’t be dismissed by you, and it disappears 1 hour after you summoned it.
@@ -1673,7 +1673,7 @@ At Higher Levels. When you cast this spell using a spell slot of 6th level or hi
 **เวลาในการร่ายคาถา:** 1 นาที
 **ระยะ:** 90 ฟุต
 **วิธีการร่ายและวัตถุคาถา:** V, S
-**ระยะเวลาคงคาถา:** เพ่งสมาธิ, up to 1 hour
+**ระยะเวลาคงคาถา:** เพ่งสมาธิ, นานสุด 1 ชั่วโมง
 You summon a fey creature of challenge rating 6 or lower, or a fey spirit that takes the form of a beast of challenge rating 6 or lower. It appears in an unoccupied space that you can see within range. The fey creature disappears when it drops to 0 hit points or when the spell ends.
 The fey creature is friendly to you and your companions for the duration. Roll initiative for the creature, which has its own turns. It obeys any verbal commands that you issue to it (no action required by you), as long as they don’t violate its alignment. If you don’t issue any commands to the fey creature, it defends itself from hostile creatures but otherwise takes no actions.
 If your เพ่งสมาธิ is broken, the fey creature doesn’t disappear. Instead, you lose control of the fey creature, it becomes hostile toward you and your companions, and it might attack. An uncontrolled fey creature can’t be dismissed by you, and it disappears 1 hour after you summoned it.
@@ -1686,7 +1686,7 @@ At Higher Levels. When you cast this spell using a spell slot of 7th level or hi
 **เวลาในการร่ายคาถา:** 1 นาที
 **ระยะ:** 90 ฟุต
 **วิธีการร่ายและวัตถุคาถา:** V, S
-**ระยะเวลาคงคาถา:** เพ่งสมาธิ, up to 1 hour
+**ระยะเวลาคงคาถา:** เพ่งสมาธิ, นานสุด 1 ชั่วโมง
 You summon elementals that appear in unoccupied spaces that you can see within range. You choose one the following options for what appears:
 
 - One elemental of challenge rating 2 or lower
@@ -1705,7 +1705,7 @@ At Higher Levels. When you cast this spell using certain higher-level spell slot
 **เวลาในการร่ายคาถา:** 1 แอ็คชัน
 **ระยะ:** 60 ฟุต
 **วิธีการร่ายและวัตถุคาถา:** V, S, M (one holly berry per creature summoned)
-**ระยะเวลาคงคาถา:** เพ่งสมาธิ, up to 1 hour
+**ระยะเวลาคงคาถา:** เพ่งสมาธิ, นานสุด 1 ชั่วโมง
 You summon fey creatures that appear in unoccupied spaces that you can see within range. Choose one of the following options for what appears:
 
 - One fey creature of challenge rating 2 or lower
@@ -1784,13 +1784,16 @@ The first time each turn that an object enters the vortex, the object takes 2d8 
 
 ### Control Weather {#control-weather}
 
-8th-level transmutation
-**เวลาในการร่ายคาถา:** 10 minutes
-**ระยะ:** Self (5-mile radius)
-**วิธีการร่ายและวัตถุคาถา:** V, S, M (burning incense and bits of earth and wood mixed in water)
-**ระยะเวลาคงคาถา:** เพ่งสมาธิ, up to 8 ชั่วโมง
+8th-level transmutation  
+**เวลาในการร่ายคาถา:** 10 minutes  
+**ระยะ:** Self (5-mile radius)  
+**วิธีการร่ายและวัตถุคาถา:** V, S, M (burning incense and bits of earth and wood mixed in water)  
+**ระยะเวลาคงคาถา:** เพ่งสมาธิ, up to 8 ชั่วโมง  
+
 You take control of the weather within 5 miles of you for the duration. You must be outdoors to cast this spell. Moving to a place where you don’t have a clear path to the sky ends the spell early.
+
 When you cast the spell, you change the current weather conditions, which are determined by the DM based on the climate and season. You can change precipitation, temperature, and wind. It takes 1d4 × 10 minutes for the new conditions to take effect. Once they do so, you can change the conditions again. When the spell ends, the weather gradually returns to normal.
+
 When you change the weather conditions, find a current condition on the following tables and change its stage by one, up or down. When changing the wind, you can change its direction.
 
 <div class="_idGenObjectLayout-2" data-content-chunk-id="f9e0cdec-47ad-4327-b626-6cc9be879bf6">
@@ -1995,13 +1998,15 @@ At Higher Levels. When you cast this spell using a spell slot of 2nd level or hi
 
 ### Dancing Lights {#dancing-lights}
 
-Evocation cantrip
-**เวลาในการร่ายคาถา:** 1 แอ็คชัน
-**ระยะ:** 120 ฟุต
-**วิธีการร่ายและวัตถุคาถา:** V, S, M (a bit of phosphorus or wychwood, or a glowworm)
-**ระยะเวลาคงคาถา:** เพ่งสมาธิ, up to 1 นาที
-You create up to four torch-sized lights within range, making them appear as torches, lanterns, or glowing orbs that hover in the air for the duration. You can also combine the four lights into one glowing vaguely humanoid form of Medium size. Whichever form you choose, each light sheds dim light in a 10-foot radius.
-As a bonus action on your turn, you can move the lights up to 60 ฟุต to a new spot within range. A light must be within 20 ฟุต of another light created by this spell, and a light winks out if it exceeds the spell’s range.
+Evocation cantrip  
+**เวลาในการร่ายคาถา:** 1 แอ็คชัน  
+**ระยะ:** 120 ฟุต  
+**วิธีการร่ายและวัตถุคาถา:** V, S, M (ฟอสฟอรัสหรือไม้วิชวู๊ดเล็กน้อย หรือหนอนเรืองแสง)  
+**ระยะเวลาคงคาถา:** เพ่งสมาธิ, up to 1 นาที  
+
+คุณสร้างกลุ่มแสงขนาดเท่าคบไฟสูงสุด 4 กลุ่มภายในระยะ ใช้พวกมันแทนคบไฟ ตะเกียง หรือลูกแก้วเรืองแสงที่ลอยขึ้นเหนือหัวเป็นระยะเวลาหนึ่ง คุณยังสามารถรวมกลุ่มแสงทั้งสี่มาเป็นรูปทรงเหมือนมนุษย์ส่องแสงและมีขนาดกลาง (Medium) ไม่ว่าจะอยู่ในรูปแบบไหนกลุ่มแสงแต่ละกลุ่มจะให้แสงสลัว (dim light) เป็นรัศมี 10 ฟุต
+
+โดยใช้โบนัสแอ็คชันในเทิร์นของคุณ คุณสามารถบังคับให้กลุ่มแสงเคลื่อนที่ไปตำแหน่งใหม่ได้ในระยะ 60 ฟุตภายในระยะ กลุ่มแสงจะต้องอยู่ห่างกันไม่เกิน 20 ฟุตจากกลุ่มที่ถูกสร้างด้วยคาถานี้ และกลุ่มแสงจะหลายไปหามันอยู่นอกระยะคาถา
 
 ### Darkness {#darkness}
 
@@ -2217,7 +2222,7 @@ You attempt to beguile a beast that you can see within range. It must succeed on
 While the beast is charmed, you have a telepathic link with it as long as the two of you are on the same plane of existence. You can use this telepathic link to issue commands to the creature while you are conscious (no action required), which it does its best to obey. You can specify a simple and general course of action, such as “Attack that creature,” “Run over there,” or “Fetch that object.” If the creature completes the order and doesn’t receive further direction from you, it defends and preserves itself to the best of its ability.
 You can use your action to take total and precise control of the target. Until the end of your next turn, the creature takes only the actions you choose, and doesn’t do anything that you don’t allow it to do. During this time, you can also cause the creature to use a reaction, but this requires you to use your own reaction as well.
 Each time the target takes damage, it makes a new Wisdom saving throw against the spell. If the saving throw succeeds, the spell ends.
-At Higher Levels. When you cast this spell with a 5th-level spell slot, the duration is เพ่งสมาธิ, มากที่สุด 10 นาที. When you use a 6th-level spell slot, the duration is เพ่งสมาธิ, up to 1 hour. When you use a spell slot of 7th level or higher, the duration is เพ่งสมาธิ, up to 8 ชั่วโมง.
+At Higher Levels. When you cast this spell with a 5th-level spell slot, the duration is เพ่งสมาธิ, มากที่สุด 10 นาที. When you use a 6th-level spell slot, the duration is เพ่งสมาธิ, นานสุด 1 ชั่วโมง. When you use a spell slot of 7th level or higher, the duration is เพ่งสมาธิ, up to 8 ชั่วโมง.
 
 ### Dominate Monster {#dominate-monster}
 
@@ -2225,7 +2230,7 @@ At Higher Levels. When you cast this spell with a 5th-level spell slot, the dura
 **เวลาในการร่ายคาถา:** 1 แอ็คชัน
 **ระยะ:** 60 ฟุต
 **วิธีการร่ายและวัตถุคาถา:** V, S
-**ระยะเวลาคงคาถา:** เพ่งสมาธิ, up to 1 hour
+**ระยะเวลาคงคาถา:** เพ่งสมาธิ, นานสุด 1 ชั่วโมง
 You attempt to beguile a creature that you can see within range. It must succeed on a Wisdom saving throw or be charmed by you for the duration. If you or creatures that are friendly to you are fighting it, it has advantage on the saving throw.
 While the creature is charmed, you have a telepathic link with it as long as the two of you are on the same plane of existence. You can use this telepathic link to issue commands to the creature while you are conscious (no action required), which it does its best to obey. You can specify a simple and general course of action, such as “Attack that creature,” “Run over there,” or “Fetch that object.” If the creature completes the order and doesn’t receive further direction from you, it defends and preserves itself to the best of its ability.
 You can use your action to take total and precise control of the target. Until the end of your next turn, the creature takes only the actions you choose, and doesn’t do anything that you don’t allow it to do. During this time, you can also cause the creature to use a reaction, but this requires you to use your own reaction as well.
@@ -2243,7 +2248,7 @@ You attempt to beguile a humanoid that you can see within range. It must succeed
 While the target is charmed, you have a telepathic link with it as long as the two of you are on the same plane of existence. You can use this telepathic link to issue commands to the creature while you are conscious (no action required), which it does its best to obey. You can specify a simple and general course of action, such as “Attack that creature,” “Run over there,” or “Fetch that object.” If the creature completes the order and doesn’t receive further direction from you, it defends and preserves itself to the best of its ability.
 You can use your action to take total and precise control of the target. Until the end of your next turn, the creature takes only the actions you choose, and doesn’t do anything that you don’t allow it to do. During this time you can also cause the creature to use a reaction, but this requires you to use your own reaction as well.
 Each time the target takes damage, it makes a new Wisdom saving throw against the spell. If the saving throw succeeds, the spell ends.
-At Higher Levels. When you cast this spell using a 6th-level spell slot, the duration is เพ่งสมาธิ, มากที่สุด 10 นาที. When you use a 7th-level spell slot, the duration is เพ่งสมาธิ, up to 1 hour. When you use a spell slot of 8th level or higher, the duration is เพ่งสมาธิ, up to 8 ชั่วโมง.
+At Higher Levels. When you cast this spell using a 6th-level spell slot, the duration is เพ่งสมาธิ, มากที่สุด 10 นาที. When you use a 7th-level spell slot, the duration is เพ่งสมาธิ, นานสุด 1 ชั่วโมง. When you use a spell slot of 8th level or higher, the duration is เพ่งสมาธิ, up to 8 ชั่วโมง.
 
 ### Dream {#dream}
 
@@ -2304,7 +2309,7 @@ The spell creates more than one beam when you reach higher levels: two beams at 
 **เวลาในการร่ายคาถา:** 1 แอ็คชัน
 **ระยะ:** สัมผัสถึง
 **วิธีการร่ายและวัตถุคาถา:** V, S, M (fur or a feather from a beast)
-**ระยะเวลาคงคาถา:** เพ่งสมาธิ, up to 1 hour
+**ระยะเวลาคงคาถา:** เพ่งสมาธิ, นานสุด 1 ชั่วโมง
 You touch a creature and bestow upon it a magical enhancement. Choose one of the following effects; the target gains that effect until the spell ends.
 Bear’s Endurance. The target has advantage on Constitution checks. It also gains 2d6 temporary hit points, which are lost when the spell ends.
 Bull’s Strength. The target has advantage on Strength checks, and his or her carrying capacity doubles.
@@ -2600,15 +2605,17 @@ If you maintain your เพ่งสมาธิ on this spell for the entire po
 You touch a willing creature. The target gains a flying speed of 60 ฟุต for the duration. When the spell ends, the target falls if it is still aloft, unless it can stop the fall.
 At Higher Levels. When you cast this spell using a spell slot of 4th level or higher, you can target one additional creature for each slot level above 3rd.
 
-### Fog Cloud {#fog-cloud}
+### หมอกปกคลุม (Fog Cloud) {#fog-cloud}
 
-1st-level conjuration
-**เวลาในการร่ายคาถา:** 1 แอ็คชัน
-**ระยะ:** 120 ฟุต
-**วิธีการร่ายและวัตถุคาถา:** V, S
-**ระยะเวลาคงคาถา:** เพ่งสมาธิ, up to 1 hour
-You create a 20-foot-radius sphere of fog centered on a point within range. The sphere spreads around corners, and its area is heavily obscured. It lasts for the duration or until a wind of moderate or greater speed (at least 10 miles per hour) disperses it.
-At Higher Levels. When you cast this spell using a spell slot of 2nd level or higher, the radius of the fog increases by 20 ฟุต for each slot level above 1st.
+1st-level conjuration  
+**เวลาในการร่ายคาถา:** 1 แอ็คชัน  
+**ระยะ:** 120 ฟุต  
+**วิธีการร่ายและวัตถุคาถา:** V, S  
+**ระยะเวลาคงคาถา:** เพ่งสมาธิ, นานสุด 1 ชั่วโมง  
+
+คุณสร้างกลุ่มหมอกเป็นทรงกลมรัศมี 20 ฟุต ในจุดที่เลือกภายในระยะคาถา ทรงกลมนี้จะแผ่ออกนอกขอบและทำให้พื้นที่โดยรอบถูกบดบังอย่างมาก (heavily obscured) มันจะคงอยู่ในระยะเวลาหรือจนกระทั่งมีลมแรงปานกลางถึงแรงมาก (อย่างน้อย 10 ไมล์ต่อชั่วโมง) มาพัดให้หายไป
+
+ที่เลเวลสูงขึ้น เมื่อคุณร่ายคาถาโดยใช้สล็อตคาถาเลเวล 2 หรือมากกว่า รัศมีของหมอกจะขยายขึ้น 20 ฟุตต่อเลเวลสล็อตคาถาที่มากกว่าเลเวล 1
 
 ### Forbiddance {#forbiddance}
 
@@ -2664,7 +2671,7 @@ The target can also spend 5 ฟุต of movement to automatically escape from n
 **เวลาในการร่ายคาถา:** 1 แอ็คชัน
 **ระยะ:** สัมผัสถึง
 **วิธีการร่ายและวัตถุคาถา:** V, S, M (a bit of gauze and a wisp of smoke)
-**ระยะเวลาคงคาถา:** เพ่งสมาธิ, up to 1 hour
+**ระยะเวลาคงคาถา:** เพ่งสมาธิ, นานสุด 1 ชั่วโมง
 You transform a willing creature you touch, along with everything it’s wearing and carrying, into a misty cloud for the duration. The spell ends if the creature drops to 0 hit points. An incorporeal creature isn’t affected.
 While in this form, the target’s only method of movement is a flying speed of 10 ฟุต. The target can enter and occupy the space of another creature. The target has resistance to nonmagical damage, and it has advantage on Strength, Dexterity, and Constitution saving throws. The target can pass through small holes, narrow openings, and even mere cracks, though it treats liquids as though they were solid surfaces. The target can’t fall and remains hovering in the air even when stunned or otherwise incapacitated.
 While in the form of a misty cloud, the target can’t talk or manipulate objects, and any objects it was carrying or holding can’t be dropped, used, or otherwise interacted with. The target can’t attack or cast spells.
@@ -3012,7 +3019,7 @@ Divine light washes out from you and coalesces in a soft radiance in a 30-foot r
 **เวลาในการร่ายคาถา:** 1 โบนัสแอ็คชัน
 **ระยะ:** 90 ฟุต
 **วิธีการร่ายและวัตถุคาถา:** V
-**ระยะเวลาคงคาถา:** เพ่งสมาธิ, up to 1 hour
+**ระยะเวลาคงคาถา:** เพ่งสมาธิ, นานสุด 1 ชั่วโมง
 You choose a creature you can see within range and mystically mark it as your quarry. Until the spell ends, you deal an extra 1d6 damage to the target whenever you hit it with a weapon attack, and you have advantage on any Wisdom (Perception) or Wisdom (Survival) check you make to find it. If the target drops to 0 hit points before this spell ends, you can use a bonus action on a subsequent turn of yours to mark a new creature.
 At Higher Levels. When you cast this spell using a spell slot of 3rd or 4th level, you can maintain your เพ่งสมาธิ on the spell for up to 8 ชั่วโมง. When you use a spell slot of 5th level or higher, you can maintain your เพ่งสมาธิ on the spell for up to 24 ชั่วโมง.
 
@@ -3123,7 +3130,7 @@ At Higher Levels. When you cast this spell using a spell slot of 6th level or hi
 **เวลาในการร่ายคาถา:** 1 แอ็คชัน
 **ระยะ:** สัมผัสถึง
 **วิธีการร่ายและวัตถุคาถา:** V, S, M (an eyelash encased in gum arabic)
-**ระยะเวลาคงคาถา:** เพ่งสมาธิ, up to 1 hour
+**ระยะเวลาคงคาถา:** เพ่งสมาธิ, นานสุด 1 ชั่วโมง
 A creature you touch becomes invisible until the spell ends. Anything the target is wearing or carrying is invisible as long as it is on the target’s person. The spell ends for a target that attacks or casts a spell.
 At Higher Levels. When you cast this spell using a spell slot of 3rd level or higher, you can target one additional creature for each slot level above 2nd.
 
@@ -3220,7 +3227,7 @@ Describe or name a specific kind of beast or plant. Concentrating on the voice o
 **เวลาในการร่ายคาถา:** 1 แอ็คชัน
 **ระยะ:** Self
 **วิธีการร่ายและวัตถุคาถา:** V, S, M (a bit of fur from a bloodhound)
-**ระยะเวลาคงคาถา:** เพ่งสมาธิ, up to 1 hour
+**ระยะเวลาคงคาถา:** เพ่งสมาธิ, นานสุด 1 ชั่วโมง
 Describe or name a creature that is familiar to you. You sense the direction to the creature’s location, as long as that creature is within 1,000 ฟุต of you. If the creature is moving, you know the direction of its movement.
 The spell can locate a specific creature known to you, or the nearest creature of a specific kind (such as a human or a unicorn), so long as you have seen such a creature up close—within 30 ฟุต—at least once. If the creature you described or named is in a different form, such as being under the effects of a polymorph spell, this spell doesn’t locate the creature.
 This spell can’t locate a creature if running water at least 10 ฟุต wide blocks a direct path between you and the creature.
@@ -3327,7 +3334,7 @@ The triggering circumstance can be as general or as detailed as you like, though
 **เวลาในการร่ายคาถา:** 1 โบนัสแอ็คชัน
 **ระยะ:** สัมผัสถึง
 **วิธีการร่ายและวัตถุคาถา:** V, S
-**ระยะเวลาคงคาถา:** เพ่งสมาธิ, up to 1 hour
+**ระยะเวลาคงคาถา:** เพ่งสมาธิ, นานสุด 1 ชั่วโมง
 You touch a nonmagical weapon. Until the spell ends, that weapon becomes a magic weapon with a +1 bonus to attack rolls and damage rolls.
 At Higher Levels. When you cast this spell using a spell slot of 4th level or higher, the bonus increases to +2. When you use a spell slot of 6th level or higher, the bonus increases to +3.
 
@@ -3489,7 +3496,7 @@ A creature is unaffected by this spell if it can’t see, if it relies on senses
 **เวลาในการร่ายคาถา:** 1 แอ็คชัน
 **ระยะ:** Self
 **วิธีการร่ายและวัตถุคาถา:** S
-**ระยะเวลาคงคาถา:** เพ่งสมาธิ, up to 1 hour
+**ระยะเวลาคงคาถา:** เพ่งสมาธิ, นานสุด 1 ชั่วโมง
 You become invisible at the same time that an illusory double of you appears where you are standing. The double lasts for the duration, but the invisibility ends if you attack or cast a spell.
 You can use your action to move your illusory double up to twice your speed and make it gesture, speak, and behave in whatever way you choose.
 You can see through its eyes and hear through its ears as if you were located where it is. On each of your turns as a bonus action, you can switch from using its senses to using your own, or back again. While you are using its senses, you are blinded and deafened in regard to your own surroundings.
@@ -3584,7 +3591,7 @@ A dancing creature must use all its movement to dance without leaving its space 
 **เวลาในการร่ายคาถา:** 1 แอ็คชัน
 **ระยะ:** Self
 **วิธีการร่ายและวัตถุคาถา:** V, S, M (ashes from a burned leaf of mistletoe and a sprig of spruce)
-**ระยะเวลาคงคาถา:** เพ่งสมาธิ, up to 1 hour
+**ระยะเวลาคงคาถา:** เพ่งสมาธิ, นานสุด 1 ชั่วโมง
 A veil of shadows and silence radiates from you, masking you and your companions from detection. For the duration, each creature you choose within 30 ฟุต of you (including you) has a +10 bonus to Dexterity (Stealth) checks and can’t be tracked except by magical means. A creature that receives this bonus leaves behind no tracks or other traces of its passage.
 
 ### Passwall {#passwall}
@@ -3681,7 +3688,7 @@ This spell’s damage increases by 1d12 when you reach 5th level (2d12), 11th le
 **เวลาในการร่ายคาถา:** 1 แอ็คชัน
 **ระยะ:** 60 ฟุต
 **วิธีการร่ายและวัตถุคาถา:** V, S, M (a caterpillar cocoon)
-**ระยะเวลาคงคาถา:** เพ่งสมาธิ, up to 1 hour
+**ระยะเวลาคงคาถา:** เพ่งสมาธิ, นานสุด 1 ชั่วโมง
 This spell transforms a creature that you can see within range into a new form. An unwilling creature must make a Wisdom saving throw to avoid the effect. The spell has no effect on a shapechanger or a creature with 0 hit points.
 The transformation lasts for the duration, or until the target drops to 0 hit points or dies. The new form can be any beast whose challenge rating is equal to or less than the target’s (or the target’s level, if it doesn’t have a challenge rating). The target’s game statistics, including mental ability scores, are replaced by the statistics of the chosen beast. It retains its alignment and personality.
 The target assumes the hit points of its new form. When it reverts to its normal form, the creature returns to the number of hit points it had before it transformed. If it reverts as a result of dropping to 0 hit points, any excess damage carries over to its normal form. As long as the excess damage doesn’t reduce the creature’s normal form to 0 hit points, it isn’t knocked unconscious.
@@ -3723,7 +3730,7 @@ Transmutation cantrip
 **เวลาในการร่ายคาถา:** 1 แอ็คชัน
 **ระยะ:** 10 ฟุต
 **วิธีการร่ายและวัตถุคาถา:** V, S
-**ระยะเวลาคงคาถา:** Up to 1 hour
+**ระยะเวลาคงคาถา:** นานสุด 1 ชั่วโมง
 This spell is a minor magical trick that novice spellcasters use for practice. You create one of the following magical effects within **ระยะ:**
 
 - You create an โดยทันที, harmless sensory effect, such as a shower of sparks, a puff of wind, faint musical notes, or an odd odor.
@@ -3815,7 +3822,7 @@ Physical interaction with the image reveals it to be an illusion, because things
 **เวลาในการร่ายคาถา:** 1 แอ็คชัน
 **ระยะ:** สัมผัสถึง
 **วิธีการร่ายและวัตถุคาถา:** V, S
-**ระยะเวลาคงคาถา:** เพ่งสมาธิ, up to 1 hour
+**ระยะเวลาคงคาถา:** เพ่งสมาธิ, นานสุด 1 ชั่วโมง
 For the duration, the willing creature you touch has resistance to one damage type of your choice: acid, cold, fire, lightning, or thunder.
 
 ### Protection from Evil and Good {#protection-from-evil-and-good}
@@ -4170,7 +4177,7 @@ You can set a condition for the spell to end early. The condition can be anythin
 **เวลาในการร่ายคาถา:** 1 แอ็คชัน
 **ระยะ:** Self
 **วิธีการร่ายและวัตถุคาถา:** V, S, M (a jade circlet worth at least 1,500 gp, which you must place on your head before you cast the spell)
-**ระยะเวลาคงคาถา:** เพ่งสมาธิ, up to 1 hour
+**ระยะเวลาคงคาถา:** เพ่งสมาธิ, นานสุด 1 ชั่วโมง
 You assume the form of a different creature for the duration. The new form can be of any creature with a challenge rating equal to your level or lower. The creature can’t be a construct or an undead, and you must have seen the sort of creature at least once. You transform into an average example of that creature, one without any class levels or the Spellcasting trait.
 Your game statistics are replaced by the statistics of the chosen creature, though you retain your alignment and Intelligence, Wisdom, and Charisma scores. You also retain all of your skill and saving throw proficiencies, in addition to gaining those of the creature. If the creature has the same proficiency as you and the bonus listed in its statistics is higher than yours, use the creature’s bonus in place of yours. You can’t use any legendary actions or lair actions of the new form.
 You assume the hit points and Hit Dice of the new form. When you revert to your normal form, you return to the number of hit points you had before you transformed. If you revert as a result of dropping to 0 hit points, any excess damage carries over to your normal form. As long as the excess damage doesn’t reduce your normal form to 0 hit points, you aren’t knocked unconscious.
@@ -4340,7 +4347,7 @@ This spell can cause the plants created by the entangle spell to release a restr
 **เวลาในการร่ายคาถา:** 1 แอ็คชัน
 **ระยะ:** สัมผัสถึง
 **วิธีการร่ายและวัตถุคาถา:** V, S, M (a drop of bitumen and a spider)
-**ระยะเวลาคงคาถา:** เพ่งสมาธิ, up to 1 hour
+**ระยะเวลาคงคาถา:** เพ่งสมาธิ, นานสุด 1 ชั่วโมง
 Until the spell ends, one willing creature you touch gains the ability to move up, down, and across vertical surfaces and upside down along ceilings, while leaving its hands free. The target also gains a climbing speed equal to its walking speed.
 
 ### Spike Growth {#spike-growth}
@@ -4402,7 +4409,7 @@ You touch a stone object of Medium size or smaller or a section of stone no more
 **เวลาในการร่ายคาถา:** 1 แอ็คชัน
 **ระยะ:** สัมผัสถึง
 **วิธีการร่ายและวัตถุคาถา:** V, S, M (diamond dust worth 100 gp, which the spell consumes)
-**ระยะเวลาคงคาถา:** เพ่งสมาธิ, up to 1 hour
+**ระยะเวลาคงคาถา:** เพ่งสมาธิ, นานสุด 1 ชั่วโมง
 This spell turns the flesh of a willing creature you touch as hard as stone. Until the spell ends, the target has resistance to nonmagical bludgeoning, piercing, and slashing damage.
 
 ### Storm of Vengeance {#storm-of-vengeance}
@@ -4654,7 +4661,7 @@ You can use this transportation ability once per round for the duration. You mus
 **เวลาในการร่ายคาถา:** 1 แอ็คชัน
 **ระยะ:** 30 ฟุต
 **วิธีการร่ายและวัตถุคาถา:** V, S, M (a drop of mercury, a dollop of gum arabic, and a wisp of smoke)
-**ระยะเวลาคงคาถา:** เพ่งสมาธิ, up to 1 hour
+**ระยะเวลาคงคาถา:** เพ่งสมาธิ, นานสุด 1 ชั่วโมง
 Choose one creature or nonmagical object that you can see within range. You transform the creature into a different creature, the creature into a nonmagical object, or the object into a creature (the object must be neither worn nor carried by another creature). The transformation lasts for the duration, or until the target drops to 0 hit points or dies. If you concentrate on this spell for the full duration, the spell lasts until it is dispelled.
 This spell has no effect on a shapechanger or a creature with 0 hit points. An unwilling creature can make a Wisdom saving throw, and if it succeeds, it isn’t affected by this spell.
 Creature into Creature. If you turn a creature into another kind of creature, the new form can be any kind you choose whose challenge rating is equal to or less than the target’s (or its level, if the target doesn’t have a challenge rating). The target’s game statistics, including mental ability scores, are replaced by the statistics of the new form. It retains its alignment and personality.
@@ -4826,7 +4833,7 @@ If you target a creature submerged in a liquid, the spell carries the target to 
 **เวลาในการร่ายคาถา:** 1 แอ็คชัน
 **ระยะ:** 60 ฟุต
 **วิธีการร่ายและวัตถุคาถา:** V, S, M (a bit of spiderweb)
-**ระยะเวลาคงคาถา:** เพ่งสมาธิ, up to 1 hour
+**ระยะเวลาคงคาถา:** เพ่งสมาธิ, นานสุด 1 ชั่วโมง
 You conjure a mass of thick, sticky webbing at a point of your choice within range. The webs fill a 20-foot cube from that point for the duration. The webs are difficult terrain and lightly obscure their area.
 If the webs aren’t anchored between two solid masses (such as walls or trees) or layered across a floor, wall, or ceiling, the conjured web collapses on itself, and the spell ends at the start of your next turn. Webs layered over a flat surface have a depth of 5 ฟุต.
 Each creature that starts its turn in the webs or that enters them during its turn must make a Dexterity saving throw. On a failed save, the creature is restrained as long as it remains in the webs or until it breaks free.

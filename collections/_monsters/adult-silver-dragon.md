@@ -4,10 +4,11 @@ title: มังกรเงินเต็มวัย (Adult Silver Dragon)
 name: มังกรเงินเต็มวัย
 type: Huge Dragon
 cr: 16
+excerpt_separator: "<!--more-->"
 ---
 
 {% capture stat_block %}
-_Huge Dragon, Lawful Good_
+_ขนาดใหญ่ มังกร, ทำตามกฏ ดีงาม_
 
 **ระดับการป้องกัน (Armor Class: AC)** 19 (เกราะธรรมชาติ)  
 **ฮิตพอยต์** 243 (18d12 + 126)  
@@ -20,85 +21,84 @@ _Huge Dragon, Lawful Good_
 **ทอยป้องกัน (Saving Throws)** DEX +5, CON +12, WIS +6, CHA +10  
 **ทอยทดสอบทักษะ (Skills)** ตำนาน (Arcana) +8, ประวัติศาสตร์ (History) +8, การรับรู้ (Perception) +11, การลอบเร้น (Stealth) +5  
 **ภูมิคุ้มกันความเสียหาย (Damage Immunities)** ความเย็น (Cold)  
-**ประสาทสัมผัส (Senses)** Blindsight 60 ft., Darkvision 120 ft., Passive Perception 21  
-**ภาษา (Languages)** Common, Draconic  
+**ประสาทสัมผัส (Senses)** การมองเห็นแบบตาบอด (Blindsight) 60 ft., ดาร์กวิชัน (Darkvision) 120 ft., การรับรู้โดยธรรมชาติ (passive Perception) 21  
+**ภาษา (Languages)** คอมมอน, ดราโกนิค  
 **ระดับความท้าทาย (Challenge)** 16 (15,000 XP)  
 **โบนัสความเชี่ยวชาญ (Proficiency Bonus)** +5
 
-_**ความต้านทานระดับตำนาน (Legendary Resistance) (3/Day).**_ If the dragon fails a saving throw, it can choose to succeed instead.
+**_ความต้านทานระดับตำนาน (Legendary Resistance) (3/วัน)._** ถ้ามังกรทอยป้องกันไม่ผ่าน มันสามารถเลือกที่จะให้เป็นทอยผ่านได้
 
 ### แอ็คชัน (Actions)
 
-**_Multiattack._** The dragon can use its Frightful Presence. It then makes three attacks: one with its bite and two with its claws.
+**_โจมตีหลายครั้ง (Multiattack)._** มังกรสามารถใช้ความสามารถ การปรากฏร่างที่น่าเกรงขาม (Frightful Presence) และโจมตี 3 ครั้ง กัด (bite) 1 ครั้ง และใช้กรงเล็บ (claws) 2 ครั้ง
 
-**_Bite._** การโจมตีด้วยอาวุธระยะประชิด: +13 ให้การทอยโจมตี, ระยะ 10 ft., เป้าหมายเดียว. Hit: 19 (2d10 + 8) piercing damage.
+**_กัด (Bite)._** การโจมตีด้วยอาวุธระยะประชิด: +13 ให้การทอยโจมตี, ระยะ 10 ft., เป้าหมายเดียว. ความเสียหาย: 19 (2d10 + 8) ความเสียหายแบบแทง (piercing damage).
 
-**_Claw._** การโจมตีด้วยอาวุธระยะประชิด: +13 ให้การทอยโจมตี, ระยะ 5 ft., เป้าหมายเดียว. Hit: 15 (2d6 + 8) slashing damage.
+**_กรงเล็บ (Claw)._** การโจมตีด้วยอาวุธระยะประชิด: +13 ให้การทอยโจมตี, ระยะ 5 ft., เป้าหมายเดียว. ความเสียหาย: 15 (2d6 + 8) ความเสียหายแบบเฉือน (slashing damage).
 
-**_Tail._** การโจมตีด้วยอาวุธระยะประชิด: +13 ให้การทอยโจมตี, ระยะ 15 ft., เป้าหมายเดียว. Hit: 17 (2d8 + 8) bludgeoning damage.
+**_หางฟาด (Tail)._** การโจมตีด้วยอาวุธระยะประชิด: +13 ให้การทอยโจมตี, ระยะ 15 ft., เป้าหมายเดียว. ความเสียหาย: 17 (2d8 + 8) ความเสียหายแบบกระแทก (bludgeoning damage).
 
-**_Frightful Presence._** Each creature of the dragon's choice that is within 120 feet of the dragon and aware of it must succeed on a DC 18 Wisdom saving throw or become frightened for 1 minute. A creature can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success. If a creature's saving throw is successful or the effect ends for it, the creature is immune to the dragon's Frightful Presence for the next 24 hours.
+**_การปรากฏร่างที่น่าเกรงขาม (Frightful Presence)._** สิ่งมีชีวิตแต่ละคนที่มังกรเลือกในระยะ 120 ฟุตจากตัวมังกรและรับรู้ถึงมัน จะต้องทอยป้องกันทักษะความรอบรู้ (Wisdom) DC 18 ให้ผ่านหรือติดสถานะ [หวาดกลัว (frightend)]() เป็นเวลา 1 นาที สิ่งมีชีวิตสามารถทอยป้องกันอีกได้เมื่อจบเทิร์นของตัวเอง โดยจะสลายสถานะเมื่อทอยผ่าน ถ้าสิ่งมีชีวิตทอยป้องกันผ่านหรือผลจากความสามารถจบลง สิ่งมีชีวิตจะมีภูมิคุ้มกัน การปรากฏร่างที่น่าเกรงขามของมังกร เป็นเวลา 24 ชั่วโมง
 
-**_Breath Weapons (Recharge 5–6)._** The dragon uses one of the following breath weapons.
+**_อาวุธลมหายใจ (Breath Weapons) (ทอยเพื่อใช้อีกรอบ (Recharge) 5–6)._** มังกรจะเลือกใช้หนึ่งในอาวุธลมหายใจดังนี้
 
-**_Cold Breath._** The dragon exhales an icy blast in a 60-foot cone. Each creature in that area must make a DC 20 Constitution saving throw, taking 58 (13d8) cold damage on a failed save, or half as much damage on a successful one.
+**_ลมหายใจเยือกเย็น (Cold Breath)._** มังกรจะหายใจออกมาเป็นระเบิดน้ำแข็งเป็นรูปกรวยระยะ 60 ฟุต สิ่งมีชีวิตแต่ละตัวในพื้นที่นั้นต้องทอยป้องกันความอดทน (Constitution) DC 20, รับความเสียหาย 58 (13d8) ถ้าทอยไม่ผ่าน หรือครึ่งหนึ่งถ้าทอยผ่าน
 
-**_Paralyzing Breath._** The dragon exhales paralyzing gas in a 60-foot cone. Each creature in that area must succeed on a DC 20 Constitution saving throw or be paralyzed for 1 minute. A creature can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success.
+**_ลมหายใจอัมพาต (Paralyzing Breath)._** มังกรจะหายใจออกมาเป็นแก๊สอัมพาตเป็นรูปกรวยระยะ 60 ฟุต สิ่งมีชีวิแต่ละตัวในพื้นที่นั้นต้องทอยป้องกันความอดทน (Constitution) DC 20 หรือติดสถานะอัมพาต (paralyzed) เป็นเวลา 1 นาที สิ่งมีชีวิตสามารถทอยป้องกันซ้ำได้อีกเมื่อจบเทิร์นของตัวเอง ผลจากสถานะจะจบลงเมื่อทอยผ่าน
 
-**_Change Shape._** The dragon magically polymorphs into a humanoid or beast that has a challenge rating no higher than its own, or back into its true form. It reverts to its true form if it dies. Any equipment it is wearing or carrying is absorbed or borne by the new form (the dragon's choice).
+**_เปลี่ยนร่าง (Change Shape)._** มังกรสามารถเปลี่ยนร่างเป็นสิ่งมีชีวิตร่างมนุษย์หรือสัตว์ที่มีอัตราความท้าทาย (challenge rating) ไม่สูงเกินกว่าตัวมังกรเอง หรือแปลงร่างกลับมาได้ มันจะเปลี่ยนร่างกลับมาเป็นร่างเดิมถ้ามันตาย อุปกรณ์ใด ๆ ที่สวมใส่หรือถือไว้จะถูกผสานรวมกับร่างใหม่หรือถือไว้ก็แล้วแต่จะเลือกได้
 
-In a new form, the dragon retains its alignment, hit points, Hit Dice, ability to speak, proficiencies, Legendary Resistance, lair actions, and Intelligence, Wisdom, and Charisma scores, as well as this action. Its statistics and capabilities are otherwise replaced by those of the new form, except any class features or legendary actions of that form.
+ในร่างใหม่ มังกรจะคงแนวความคิด (alignment), ฮิตพอยต์, ฮิตไดซ์, ความสามารถในการพูด, ความเชี่ยวชาญ, ความต้านทานระดับตำนาน, แอ็คชันอาณาเขต (lair action), และค่าความฉลาด, ความรอบรู้, และค่าเสน่ห์ และรวมถึงแอ็คชันนี้ แต่ค่าสแต็ตอื่นและความสามารถจะถูกแทนที่ด้วยค่าจากร่างใหม่ ยกเว้นความสามารถของคลาสหรือแอ็คชันพิเศษของร่างใหม่
 
-### Legendary Actions
+### แอ็คชันระดับตำนาน (Legendary Actions)
 
-The dragon can take 3 legendary actions, choosing from the options below. Only one legendary action option can be used at a time and only at the end of another creature's turn. The dragon regains spent legendary actions at the start of its turn.
+มังกรสามารถใช้แอ็คชันระดับตำนาน 3 ครั้ง เลือกจากตัวเลือกข้างล่าง จะใช้แอ็คชันระดับตำนานได้ครั้งละ 1 อย่างและต้องใช้หลังสิ่งมีชีวิตอื่นจบเทิร์นแล้วเท่านั้น มังกรจะได้รับความสามารถที่ใช้ไปคืนมาตอนเริ่มเทิร์น
 
-**_Detect._** The dragon makes a Wisdom (Perception) check.
+**_การตรวจจับ (Detect)._** มังกรจะทอยทดสอบการรับรู้ (Perception).
 
-**_Tail Attack._** The dragon makes a tail attack.
+**_โจมตีด้วยหาง (Tail Attack)._** มังกรจะโจมตีด้วยหาง
 
-**_Wing Attack (Costs 2 Actions)._** The dragon beats its wings. Each creature within 10 feet of the dragon must succeed on a DC 21 Dexterity saving throw or take 15 (2d6 + 8) bludgeoning damage and be knocked prone. The dragon can then fly up to half its flying speed.
+**_โจมตีด้วยปีก (Wing Attack) (ใช้ 2 แอ็คชัน)._** มังกรจะกระพือปีกรุนแรง สิ่งมีชีวิตภายในระยะ 10 ฟุตจากมังกรจะต้องทอยป้องกันความคล่องแคล่ว (Dexterity) DC 21 หรือได้รับความเสียหาย 15 (2d6 + 8) ความเสียหายแบบกระแทกและถูกผลักให้ล้มลง (prone) มังกรจะบินขึ้นไปเป็นระยะครึ่งหนึ่งของความเร็วการบิน
 
 ![มังกรเงิน](/assets/monsters/silver-dragon.webp)
 {% endcapture %}
-
 {% include monster.html content=stat_block %}
 
 ---
 
-## A Silver Dragon’s Lair
+## รังของมังกรเงิน (A Silver Dragon’s Lair)
 
-Silver dragons dwell among the clouds, making their lairs on secluded cold mountain peaks. Though many are comfortable in natural cavern complexes or abandoned mines, silver dragons covet the lost outposts of humanoid civilization. An abandoned mountaintop citadel or a remote tower raised by a long-dead wizard is the sort of lair that every silver dragon dreams of.
+มังกรเงินอาศัยอยู่ในหมู่เมฆ ทำรังอยู่บนภูเขาสูงที่หนาวเย็น แม้ว่าส่วนใหญ่จะอยู่อย่างสบายในระบบถ้ำธรรมชาติหรือเหมืองที่ถูกทิ้งร้าง มังกรเงินยังยึดเอาสถานที่ที่ถูกทิ้งร้างของมนุษย์มาเป็นรังด้วย วิหารร้างบนยอดเขาหรือหอคอยในทุ่งร้างที่สร้างขึ้นโดยวิซาร์ดที่ตายไปแสนนานเหมาะกับการเป็นรังในฝันของมังกรเงิน
 
-### Lair Actions
+### แอ็คชันประจำรัง (Lair Actions)
 
-On initiative count 20 (losing initiative ties), the dragon takes a lair action to cause one of the following effects:
+ในการทอยจัดลำดับ (initiative) ให้นับว่าทอยได้ 20 (ถ้าทอยเสมอให้ถือว่าแพ้) มังกรจะใช้แอ็คชันประจำรังให้ได้ผลพิเศษดังนี้:
 
-- The dragon creates fog as if it had cast the fog cloud spell. The fog lasts until initiative count 20 on the next round.
-- A blisteringly cold wind blows through the lair near the dragon. Each creature within 120 feet of the dragon must succeed on a DC 15 Constitution saving throw or take 5 (1d10) cold damage. Gases and vapors are dispersed by the wind, and unprotected flames are extinguished. Protected flames, such as lanterns, have a 50 percent chance of being extinguished.
+- มังกรจะสร้างหมอกเทียบเท่ากับการใช้คาถา[หมอกปกคลุม (fog cloud)](/basic-rules/ch11-spells/#fog-cloud) หมกอกนี้จะอยู่จนถึงลำดับที่นับ 20 ในรอบถัดไป
+- ลมหนาวพัดผ่านรังที่อยู่ใกล้มังกร สิ่งมีชีวิตแต่ละตัวภายในระยะ 120 ฟุตจากมังกรต้องทอยป้องกันความอดทน DC 15 หรือได้รับความเสียหายจากความเย็น 5 (1d10) ก๊าซและไอระเหยจะถูกพัดกระจายไปตามลม และเปลวไฟที่ไม่ได้รับการป้องกันจะถูกดับลง เปลวไฟที่ได้รับการป้องกัน เช่น โคมไฟ มีโอกาสดับลง 50 เปอร์เซ็นต์
 
-### Regional Effects
+### ผลกระทบต่อพื้นที่ (Regional Effects)
 
-The region containing a legendary silver dragon’s lair is warped by the dragon’s magic, which creates one or more of the following effects.
+พื้นที่ที่มีรังของมังกรเงินอยู่จะได้รับผลจากเวทย์มนต์ของมังกร ซึ่งจะสร้างผลพิเศษหนึ่งหรือหลายอย่างดังต่อไปนี้
 
-- Once per day, the dragon can alter the weather in a 6-mile radius centered on its lair. The dragon doesn’t need to be outdoors; otherwise the effect is identical to the control weather spell.
-- Within 1 mile of the lair, winds buoy non-evil creatures that fall due to no act of the dragon’s or its allies. Such creatures descend at a rate of 60 feet per round and take no falling damage.
-- Given days or longer to work, the dragon can make clouds and fog within its lair as solid as stone, forming structures and other objects as it wishes.
+- วันละครั้ง มังกรสามารถปรับเปลี่ยนสภาพอากาศเป็นบริเวณรัศมี 6 ไมล์รอบรังของมัน มังกรไม่จำเป็นต้องออกไปข้างนอก โดยผลที่ได้จะเทียบเท่ากับการใช้คาถา[ควบคุมสภาพอากาศ (control weather)](/basic-rules/ch11-spells/#control-weather)
+- ภายในระยะ 1 ไมล์รอบรัง ลมจะรับสิ่งมีชีวิตที่ไม่ชั่วร้ายที่ตกลงมาโดยไม่ได้เป็นการทำให้ตกโดยมังกรหรือจากเพื่อน สิ่งมีชีวิตนั้นจะตกลงมาด้วยความเร็ว 60 ฟุตต่อราวน์และไม่ได้รับความเสียหายจากการตก
+- เป็นเวลาหลายวันหรืออาจจะนานกว่านั้ง มังกรสามารถทำให้เมฆและหมอกภายในรังแข็งตัวจนเหมือนกับหิน ทำเป็นโครงสร้างหรือสิ่งอื่น ๆ ได้ตามที่ต้องการ
 
-If the dragon dies, changed weather reverts to normal, as described in the spell, and the other effects fade in 1d10 days.
+ถ้ามังกรตาย สภาพอากาศที่ถูกเปลี่ยนจะกลับมาเป็นเหมือนเดิม ตามที่อธิบายไว้ในรายละเอียดคาถา และผลพิเศษอื่น ๆ จะหายไปในเวลา 1d10 วัน
 
 ---
 
-The friendliest and most social of the metallic dragons, silver dragons cheerfully assist good creatures in need.
+เป็นมังกรโลหะที่เป็นมิตรและชอบเข้าสังคมที่สุด มังกรเงินจะกระตือรือล้นที่จะช่วยเหลือสัตว์ที่อยู่ฝ่ายดีหากต้องการ
 
-A silver dragon shimmers as if sculpted from pure metal, its face given a noble cast by its high eyes and sweeping beard-like chin spikes. A spiny frill rises high over its head, tracing down its neck to the tip of its tail. A silver wyrmling’s scales are blue-gray with silver highlights. As the dragon approaches adulthood, its color gradually brightens until its individual scales are barely visible. As a silver dragon grows older, its pupils fade until its eyes resemble orbs of mercury.
+ร่างมังกรเงินจะส่องแสงระยิบระยับราวกับแกะสลักจากโลหะบริสุทธิ์ ใบหน้าดูงามสง่าจากดวงตาที่เชิดขึ้นและมีหนามแหลมคล้ายเคราที่กวาดไปทั่ว รอยจีบมีหนามลอยขึ้นสูงเหนือศีรษะ ลากยาวจากคอไปจนถึงปลายหาง เกล็ดของเวิร์มลิงสีเงินเป็นสีน้ำเงินเทาและมีไฮไลท์สีเงิน เมื่อมังกรเข้าใกล้วัยผู้ใหญ่ สีของมันก็จะค่อยๆ สว่างขึ้นจนแทบมองไม่เห็นเกล็ดแต่ละตัว เมื่อมังกรเงินโตขึ้น ม่านตาของมันก็จางลงจนดวงตาของมันดูคล้ายลูกแก้วปรอท
 
-**_Dragons of Virtue._** Silver dragons believe that living a moral life involves doing good deeds and ensuring that one’s actions cause no undeserved harm to other sentient beings. They don’t take it upon themselves to root out evil, as gold and bronze dragons do, but they will gladly oppose creatures that dare to commit evil acts or harm the innocent.
+**มังกรแห่งความดี** มังกรเงินเชื่อว่าการดำเนินชีวิตอย่างมีศีลธรรมเกี่ยวข้องกับการทำความดี และทำให้แน่ใจว่าการกระทำของตนไม่ก่อให้เกิดอันตรายอันไม่สมควรต่อสิ่งมีชีวิตอื่น พวกเขาไม่ได้ถอนรากถอนโคนความชั่วร้ายเหมือนกับที่มังกรทองและทองแดงทำ แต่พวกเขายินดีที่จะต่อต้านสิ่งมีชีวิตที่กล้ากระทำความชั่วหรือทำร้ายผู้บริสุทธิ์
 
-**_Friends of the Small Races._** Silver dragons enjoy the company of other silver dragons. Their only true friendships outside their own kin arise in the company of humanoids, and many silver dragons spend as much time in humanoid form as they do in draconic form. A silver dragon adopts a benign humanoid persona such as a kindly old sage or a young wanderer, and it often has mortal companions with whom it develops strong friendships.
+**เพื่อนของเผ่าพันธุ์เล็ก** มังกรเงินสนุกกับการอยู่ร่วมกับมังกรเงินตัวอื่นๆ มิตรภาพที่แท้จริงเพียงหนึ่งเดียวของพวกเขาที่อยู่นอกเครือญาตินั้นเกิดขึ้นในกลุ่มมนุษย์ และมังกรเงินหลายตัวใช้เวลาอยู่ในร่างมนุษย์มากพอๆ กับที่อยู่ในร่างมังกร มังกรสีเงินมีรูปลักษณ์คล้ายมนุษย์ที่ใจดี เช่น ปราชญ์เฒ่าผู้ใจดีหรือเด็กเร่ร่อน และมักจะมีเพื่อนร่วมทางที่พัฒนามิตรภาพที่แน่นแฟ้นด้วย
 
-Silver dragons must step away from their humanoid lives on a regular basis, returning to their true forms to mate and rear offspring, or to tend to their hoards and personal affairs. Because many lose track of time while away, they sometimes return to find that their companions have grown old or died. Silver dragons often end up befriending several generations of humanoids within a single family as a result.
+มังกรเงินจะต้องถอยห่างจากชีวิตมนุษย์เป็นประจำ เพื่อกลับคืนสู่ร่างที่แท้จริงเพื่อผสมพันธุ์และเลี้ยงดูลูกหลาน หรือดูแลเรื่องส่วนตัวและสะสมทรัพย์สมบัติ เนื่องจากหลายคนลืมเวลาในขณะที่ไม่อยู่ บางครั้งพวกเขาจึงกลับมาพบว่าเพื่อนของตนแก่ลงหรือเสียชีวิตไปแล้ว มังกรเงินมักจะลงเอยด้วยการผูกมิตรกับมนุษย์หลายชั่วอายุคนภายในครอบครัวเดียว
 
-**_Respect for Humanity._** Silver dragons befriend humanoids of all races, but shorter-lived races such as humans spark their curiosity in a way the longer-lived elves and dwarves don’t. Humans have a drive and zest for life that silver dragons find fascinating.
+**การเคารพต่อมนุษยชาติ** มังกรเงินเป็นมิตรกับมนุษย์ทุกเชื้อชาติ แต่เผ่าพันธุ์อายุสั้น เช่น มนุษย์ จุดประกายความอยากรู้อยากเห็นในแบบที่เอลฟ์และคนแคระอายุยืนยาวไม่ทำกัน มนุษย์มีแรงผลักดันและความสนุกสนานในชีวิตอย่างที่มังกรเงินพบว่าน่าหลงใหล
 
-**_Hoarding History._** Silver dragons love to possess relics of humanoid history. This includes the great piles of coins they covet, minted by current and fallen humanoid empires, as well as art objects and fine jewelry crafted by numerous races. Other treasures that make up their hoards can include intact ships, the remains of kings and queens, thrones, the crown jewels of ancient empires, inventions and contraptions, and monoliths carried from the ruins of fallen cities.
+**การสะสมอย่างยาวนาน** มังกรเงินชอบที่จะมีโบราณวัตถุจากประวัติศาสตร์ของมนุษย์ ซึ่งรวมถึงเหรียญกองใหญ่ ซึ่งสร้างโดยจักรวรรดิมนุษย์ทั้งในปัจจุบันและที่ล่มสลาย เช่นเดียวกับงานศิลปะและเครื่องประดับชั้นดีที่ประดิษฐ์โดยเผ่าพันธุ์ต่างๆ มากมาย สมบัติอื่นๆ ที่สะสมไว้อาจรวมถึงเรือที่อยู่ในสภาพสมบูรณ์ ซากศพของกษัตริย์และราชินี บัลลังก์ มงกุฎเพชรพลอยของอาณาจักรโบราณ สิ่งประดิษฐ์และอุปกรณ์ต่างๆ และเสาหินที่ขนมาจากซากปรักหักพังของเมืองที่ล่มสลาย

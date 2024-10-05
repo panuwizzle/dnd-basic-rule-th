@@ -11,11 +11,15 @@ body {
 }
 
 .monster-stat {
+    color: black;
     column-count: 2;
     background: rgb(246, 243, 238);
     padding: 8px;
     border-radius: 8px;
     border: 1px solid black;
+    & strong {
+        color: black;
+    }
 }
 
 @media (prefers-color-scheme: light) {
