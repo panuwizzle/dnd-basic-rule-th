@@ -11,16 +11,58 @@ body {
 }
 
 .monster-stat {
+    clear: both;
+    border: 1px solid #d4d0ce;
+    padding: 15px;
     color: black;
     column-count: 2;
+    column-gap: 15px;
     background: rgb(246, 243, 238);
-    padding: 8px;
-    border-radius: 8px;
-    border: 1px solid black;
+    box-shadow: 0 0 5px #979AA4;
+    position: relative;
+
+    & h1 {
+        font-size: 1.5em;
+    }
+
+    & h3 {
+        font-size: 1.25em;
+    }
 
     & strong {
         color: black;
     }
+
+    .redunder::after {
+        content: "";
+        display: block;
+        border-bottom: 2px solid #bc0f0f;
+        padding-top: 10px;
+    }
+
+    .redtable {
+        display: block;
+        border-bottom: 2px solid #bc0f0f;
+    }
+
+    .redslim {
+        display: block;
+        padding-bottom: 10px;
+        border-bottom: 1px solid #bc0f0f;
+    }
+}
+
+.monster-stat::before {
+    left: -3px;
+    top: -3px;
+    right: -3px;
+    content: '';
+    background-image: url(/assets/MMStatBar_lrg.jpg);
+    background-size: 100% 100%;
+    background-position: center;
+    height: 4px;
+    display: inline-block;
+    position: absolute;
 }
 
 .page-index {
@@ -44,7 +86,13 @@ body {
         }
     }
 }
+@media screen and (max-width: 768px) {
+    .page-index, .monster-stat  {
+        column-count: 1;
 
+    }
+  }
+  
 @media (prefers-color-scheme: light) {
     :root {
         /* Update CSS variables */
