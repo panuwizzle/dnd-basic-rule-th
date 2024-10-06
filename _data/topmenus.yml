@@ -11,7 +11,7 @@
   child: 
     - name: basic-rules
       title: กฏพื้นฐาน (2014)
-      url: /basic-rules/introduction/
+      url: /basic-rules
       icon: fa fa-book
 
 - name: adventures
