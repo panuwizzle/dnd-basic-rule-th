@@ -1,9 +1,9 @@
----
----
-
+--- 
+--- 
 * {
     font-family: "Sarabun", sans-serif;
 }
+
 body {
     font-family: "Sarabun", sans-serif;
     font-weight: 400;
@@ -17,8 +17,31 @@ body {
     padding: 8px;
     border-radius: 8px;
     border: 1px solid black;
+
     & strong {
         color: black;
+    }
+}
+
+.page-index {
+    column-count: 3;
+    & h1 {
+        font-size: 1.5rem;
+        & a {
+            font-size: 1.5rem;
+        }
+    }
+    & h2 {
+        font-size: 1.25rem;
+        & a {
+            font-size: 1.25rem;
+        }
+    }
+    & h3 {
+        font-size: 1rem;
+        & a {
+            font-size: 1rem;
+        }
     }
 }
 

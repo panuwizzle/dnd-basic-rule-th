@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: page-index
 title: Basic Rules 2014
 menu: menu-basic-rules
 ---
