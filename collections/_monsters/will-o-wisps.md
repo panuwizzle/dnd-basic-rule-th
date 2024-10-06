@@ -4,6 +4,7 @@ title: Will-o'-Wisp
 name: Will-o'-Wisp
 type: Tiny Undead
 cr: 1/8
+excerpt: ""
 ---
 
 {% capture stat_block %}

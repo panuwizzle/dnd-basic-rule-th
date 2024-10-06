@@ -4,6 +4,7 @@ title: กอบลิน (Goblin)
 name: กอบลิน (Goblin)
 type: ขนาดเล็ก รูปร่างแบบมนุษย์ (กอบลินนอยด์), เป็นกลาง ชั่วร้าย
 cr: 1/4 (50 XP)
+excerpt: ""
 ---
 
 {% capture stat_block %}
