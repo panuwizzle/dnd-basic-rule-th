@@ -14,3 +14,10 @@ short_description: พวกคุณนักผจญภัยรับงา�
 [@DontStopThinking](https://www.youtube.com/@DontStopThinking)
 
 เนื้อเรื่องผจญภัยแปลไทย [หลุมมรณะแห่งโมลอค](/assets/dead-pit-of-moloch.pdf)
+
+### มอนสเตอร์และ NPC
+ - [ชาวบ้าน (Commoner)](/basic-rules/monsters/commoner) ออลลี่ คูเปอร์สมิธ เป็นชาวบ้านธรรมดา
+ - [กอบลิน (Goblin)](/basic-rules/monsters/goblin)
+ - [สาวกลัทธิ (Cultist)](/basic-rules/monsters/cultist)
+ - [ซอมบี้ (Zombie)](/basic-rules/monsters/zombie)
+ - [หัวหน้าลัทธิ, แครสซัส (Cultist Leader, Crassus)](/basic-rules/monsters/cultist-leader-crassus)

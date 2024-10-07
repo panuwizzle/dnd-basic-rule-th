@@ -1,40 +1,42 @@
 ---
 layout: page
-title: Zombie
-name: Zombie
+title: ซอมบี (Zombie)
+name: ซอมบี (Zombie)
 type: Medium undead
 cr: 1/4
 ---
 
 {% capture stat_block %}
-# Zombie
-_Medium undead, neutral evil_
+
+# ซอมบี (Zombie)
+
+_ขนาดกลาง อันเดด, เป็นกลาง ชั่วร้าย_
 {:.redunder}
 
-**Armor Class** 8  
-**Hit Points** 22 (3d8 + 9)  
-**Speed** 20 ft.
+**อาร์เมอร์คลาส (AC)** 8  
+**ฮิตพอยต์** 22 (3d8 + 9)  
+**ความเร็ว** 20 ft.
 {:.redunder}
 
-| STR     | DEX    | CON     | INT    | WIS    | CHA    |
-| ------- | ------ | ------- | ------ | ------ | ------ |
+|   STR   |  DEX   |   CON   |  INT   |  WIS   |  CHA   |
+| :-----: | :----: | :-----: | :----: | :----: | :----: |
 | 13 (+1) | 6 (−2) | 16 (+3) | 3 (−4) | 6 (−2) | 5 (−3) |
 {:.redtable}
 
-**Saving Throws** Wis +0  
-**Damage Immunities** poison  
-**Condition Immunities** poisoned  
-**Senses** darkvision 60 ft., passive Perception 8  
-**Languages** understands the languages it knew in life but can't speak  
-**Challenge** 1/4 (50 XP)
+**การทอยป้องกัน** Wis +0  
+**ภูมิคุ้มกันความเสียหาย** พิษ  
+**ภูมิคุ็มกันสภาวะ** ติดพิษ  
+**ประสาทสัมผัส** ดาร์กวิชัน 60 ฟุต., การรับรู้โดยธรรมชาติ (passive Perception) 8  
+**ภาษา** เข้าใจภาษาที่เคยรู้เมื่อยังมีชีวิตอยู่ แต่พูดไม่ได้  
+**ระดับความท้าทาย** 1/4 (50 XP)
 {:.redunder}
 
-**_Undead Fortitude._** If damage reduces the zombie to 0 hit points, it must make a Constitution saving throw with a DC of 5 + the damage taken, unless the damage is radiant or from a critical hit. On a success, the zombie drops to 1 hit point instead.
+**_แรงอึดของอันเดด (Undead Fortitude)._** ถ้าความเสียหายทำให้ฮิตพอยต์ของซอมบี้เหลือ 0 มันต้องทอยป้องกันด้านความอดทน (Constitution) โดยค่า DC เป็น 5 + ความเสียหายที่ได้รับ ยกเว้นความเสียหายนั้นเป็นแบบแสงรัศมี (radiant) หรือจากการโจมตีแบบคริติคัล ถ้าทอยผ่าน ซอมบี้จะมีฮิตพอยต์เป็น 1
 
-### Actions
+### แอ็คชัน
 {:.redslim}
 
-**_Slam._** _Melee Weapon Attack:_ +3 to hit, reach 5 ft., one target. _Hit:_ 4 (1d6 + 1) bludgeoning damage.
+**_ทุบ (Slam)._** _การโจมตีด้วยอาวุธระยะประชิดตัว:_ +3 ให้การทอยโจมตี, ระยะ 5 ฟุต., เป้าหมายเดียว. _ความเสียหาย:_ 4 (1d6 + 1) ความเสียหายแบบกระแทก (bludgeoning damage).
 
 {% endcapture %}
 

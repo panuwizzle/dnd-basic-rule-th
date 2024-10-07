@@ -1508,21 +1508,32 @@ A dazzling array of flashing, colored light springs from your hand. Roll 6d10; t
 Starting with the creature that has the lowest current hit points, each creature affected by this spell is blinded until the end of your next turn. Subtract each creature’s hit points from the total before moving on to the creature with the next lowest hit points. A creature’s hit points must be equal to or less than the remaining total for that creature to be affected.
 At Higher Levels. When you cast this spell using a spell slot of 2nd level or higher, roll an additional 2d10 for each slot level above 1st.
 
-### Command {#command}
+### คำสั่ง (Command) {#command}
 
-1st-level enchantment
-**เวลาในการร่ายคาถา:** 1 แอ็คชัน
-**ระยะ:** 60 ฟุต
-**วิธีการร่ายและวัตถุคาถา:** V
-**ระยะเวลาคงคาถา:** 1 round
-You speak a one-word command to a creature you can see within range. The target must succeed on a Wisdom saving throw or follow the command on its next turn. The spell has no effect if the target is undead, if it doesn’t understand your language, or if your command is directly harmful to it.
-Some typical commands and their effects follow. You might issue a command other than one described here. If you do so, the DM determines how the target behaves. If the target can’t follow your command, the spell ends.
-Approach. The target moves toward you by the shortest and most direct route, ending its turn if it moves within 5 ฟุต of you.
-Drop. The target drops whatever it is holding and then ends its turn.
-Flee. The target spends its turn moving away from you by the fastest available means.
-Grovel. The target falls prone and then ends its turn.
-Halt. The target doesn’t move and takes no actions. A flying creature stays aloft, provided that it is able to do so. If it must move to stay aloft, it flies the minimum distance needed to remain in the air.
-At Higher Levels. When you cast this spell using a spell slot of 2nd level or higher, you can affect one additional creature for each slot level above 1st. The creatures must be within 30 ฟุต of each other when you target them.
+1st-level enchantment  
+**เวลาในการร่ายคาถา:** 1 แอ็คชัน  
+**ระยะ:** 60 ฟุต  
+**วิธีการร่ายและวัตถุคาถา:** V  
+**ระยะเวลาคงคาถา:** 1 round  
+
+ตำราเก่า
+{:.tag}
+
+คุณจะออกคำสั่งหนึ่งคำให้สิ่งมีชีวิตที่คุณมองเห็นภายในระยะ เป้าหมายต้องทอยป้องกันความสามารถเสน่ห์ (Wisdom saving throw) ให้ผ่านหรือต้องทำตามคำสั่งนั้นในเทิร์นต่อไปของมัน คาถาจะไร้ผลหากเป้าหมายเป็นอันเดด, เป้าหมายไม่เข้าใจภาษาของคุณ หรือถ้าคำสั่งนั้นเป็นอันตรายต่อตัวมัน
+
+คำสั่งทั่วไปบางอย่างก็ให้ผลได้เช่นกัน คุณอาจจะเลือกใช้คำสั่งที่ไม่มีในรายการได้ โดย DM จะตัดสินว่าเป้าหมายจะตอบสนองยังไง ถ้าเป้าหมายไม่สามารถตอบสนองคำสั่งของคุณได้ คาถาจะจบลง
+
+**_เข้าหา (Approach)._** เป้าหมายจะเคลื่อนที่เข้าหาคุณโดยใช้เส้นทางที่สั้นที่สุดและตรงที่สุด จะจบเทิร์นของมันหากเข้ามาใกล้คุณในระยะ 5 ฟุต
+
+**_ทิ้งของ (Drop)._** เป้าหมายจะทิ้งทุกอย่างที่มันถืออยู่และจบเทิร์น
+
+**_หนี (Flee)._** เป้าหมายจะใช้เทิร์นของมันในการออกห่างจากคุณโดยใช้ทางที่เร็วที่สุด
+
+**_กลิ้งบนพื้น (Grovel)._** เป้าหมายจะล้มนอน (prone) และจบเทิร์น
+
+**_หยุด (Halt)._** เป้าหมายจะไม่เคลื่อนที่และไม่ใช้แอ็คชัน สิ่งมีชีวิตที่บินอยู่จะลอยค้างในอากาศตราบใดที่มันสามารถทำได้ ถ้ามันต้องเคลื่อนที่เพื่อให้ลอยอยู่ ก็จะบินด้วยระยะขั้นต่ำที่ยังทำให้ลอยได้อยู่
+
+**_ที่เลเวลสูงขึ้น (At Higher Levels)._** เมื่อใช้คาถานี้โดยใช้สล็อตคาถาเลเวล 2 ขึ้นไป คุณสามารถออกคำสั่งกับสิ่งมีชีวิตมากกว่า 1 ตัวได้ตามเลเวลสล็อตคาถาที่ใช้ สิ่งมีชีวิตต้องอยู่ในระยะ 30 ฟุตของกันและกันเมื่อคุณเลือกพวกมันเป็นเป้าหมาย
 
 ### Commune {#commune}
 
@@ -2994,15 +3005,17 @@ At Higher Levels. When you cast this spell using a spell slot of 2nd level or hi
 Choose a creature that you can see within range. The target must succeed on a Wisdom saving throw or be paralyzed for the duration. This spell has no effect on undead. At the end of each of its turns, the target can make another Wisdom saving throw. On a success, the spell ends on the target.
 At Higher Levels. When you cast this spell using a spell slot of 6th level or higher, you can target one additional creature for each slot level above 5th. The creatures must be within 30 ฟุต of each other when you target them.
 
-### Hold Person {#hold-person}
+### ตรึงกายา (Hold Person) {#hold-person}
 
-2nd-level enchantment
-**เวลาในการร่ายคาถา:** 1 แอ็คชัน
-**ระยะ:** 60 ฟุต
-**วิธีการร่ายและวัตถุคาถา:** V, S, M (a small, straight piece of iron)
-**ระยะเวลาคงคาถา:** เพ่งสมาธิ, up to 1 นาที
-Choose a humanoid that you can see within range. The target must succeed on a Wisdom saving throw or be paralyzed for the duration. At the end of each of its turns, the target can make another Wisdom saving throw. On a success, the spell ends on the target.
-At Higher Levels. When you cast this spell using a spell slot of 3rd level or higher, you can target one additional humanoid for each slot level above 2nd. The humanoids must be within 30 ฟุต of each other when you target them.
+2nd-level enchantment  
+**เวลาในการร่ายคาถา:** 1 แอ็คชัน  
+**ระยะ:** 60 ฟุต  
+**วิธีการร่ายและวัตถุคาถา:** V, S, M (แท่งเหล็กตรงชิ้นเล็ก ๆ)  
+**ระยะเวลาคงคาถา:** เพ่งสมาธิ, up to 1 นาที  
+
+เลือกสิ่งมีชีวิตร่างแบบมนุษย์ที่คุณสามารถเห็นได้ในระยะคาถา เป้าหมายต้องทอยป้องกันความรอบรู้ (Wisdom saving throw) ให้ผ่านหรือเป็นอัมพาต (paralyzed) เป็นระยะเวลาคาถา ก่อนจบเทิร์นของมัน เป้าหมายสามารถทอยป้องกันความรอบรู้ได้อีกครั้ง ถ้าทอยผ่าน คาถาจะจบลง
+
+ที่เลเวลสูงขึ้น เมื่อใช้คาถานี้ด้วยสล็อตคาถาเลเวล 3 หรือมากกว่า คุณสามารถเพิ่มเป้าหมายอีก 1 คนตามจำนวนเลเวลสล็อตคาถาที่มากกว่าเลเวล 2 เป้าหมายเพิ่มเติมนี้ต้องอยู่ในระยะ 30 ฟุตของกันและกันเมื่อคุณเลือกพวกมันเป็นเป้าหมาย
 
 ### Holy Aura {#holy-aura}
 
@@ -3103,15 +3116,17 @@ A swirling cloud of smoke shot through with white-hot embers appears in a 20-foo
 When the cloud appears, each creature in it must make a Dexterity saving throw. A creature takes 10d8 fire damage on a failed save, or half as much damage on a successful one. A creature must also make this saving throw when it enters the spell’s area for the first time on a turn or ends its turn there.
 The cloud moves 10 ฟุต directly away from you in a direction that you choose at the start of each of your turns.
 
-### Inflict Wounds {#inflict-wounds}
+### สร้างบาดแผล (Inflict Wounds) {#inflict-wounds}
 
-1st-level necromancy
-**เวลาในการร่ายคาถา:** 1 แอ็คชัน
-**ระยะ:** สัมผัสถึง
-**วิธีการร่ายและวัตถุคาถา:** V, S
-**ระยะเวลาคงคาถา:** โดยทันที
-Make a melee spell attack against a creature you can reach. On a hit, the target takes 3d10 necrotic damage.
-At Higher Levels. When you cast this spell using a spell slot of 2nd level or higher, the damage increases by 1d10 for each slot level above 1st.
+1st-level necromancy  
+**เวลาในการร่ายคาถา:** 1 แอ็คชัน  
+**ระยะ:** สัมผัสถึง  
+**วิธีการร่ายและวัตถุคาถา:** V, S  
+**ระยะเวลาคงคาถา:** โดยทันที  
+
+ทำการโจมตีสิ่งมีชีวิตที่คุณเอื้อมถึงในระยะประชิดด้วยคาถา ถ้าโจมตีโดน เป้าหมายจะได้รับความเสียหาย 3d10 เป็นความเสียหายแบบเน่าสลาย (necrotic damage)
+
+ที่เลเวลสูงขึ้น เมื่อคุณร่ายคาถานี้โดยใช้สล็อตคาถาเลเวล 2 หรือสูงกว่า ความเสียหายจะเพิ่มขึ้น 1d10 ในทุกเลเวลของสล็อตคาถาที่มากกว่าเลเวล 1
 
 ### Insect Plague {#insect-plague}
 
@@ -4205,14 +4220,15 @@ At Higher Levels. When you cast this spell using a spell slot of 3rd level or hi
 **ระยะเวลาคงคาถา:** 1 round
 An invisible barrier of magical force appears and protects you. Until the start of your next turn, you have a +5 bonus to AC, including against the triggering attack, and you take no damage from magic missile.
 
-### Shield of Faith {#shield-of-faith}
+### โล่แห่งศรัทธา (Shield of Faith) {#shield-of-faith}
 
-1st-level abjuration
-**เวลาในการร่ายคาถา:** 1 โบนัสแอ็คชัน
-**ระยะ:** 60 ฟุต
-**วิธีการร่ายและวัตถุคาถา:** V, S, M (a small parchment with a bit of holy text written on it)
-**ระยะเวลาคงคาถา:** เพ่งสมาธิ, มากที่สุด 10 นาที
-A shimmering field appears and surrounds a creature of your choice within range, granting it a +2 bonus to AC for the duration.
+1st-level abjuration  
+**เวลาในการร่ายคาถา:** 1 โบนัสแอ็คชัน  
+**ระยะ:** 60 ฟุต  
+**วิธีการร่ายและวัตถุคาถา:** V, S, M (เศษกระดาษที่มีตัวหนังสือศักดิ์สิทธิ์เขียนไว้)  
+**ระยะเวลาคงคาถา:** เพ่งสมาธิ, มากที่สุด 10 นาที  
+
+ม่านเวทย์มนต์แวววาวเกิดขึ้นรอบตัวสิ่งมีชีวิตที่คุณเลือกในระยะคาถา เพิ่มโบนัส +2 ให้ AC เป็นระยะเวลาหนึ่ง 
 
 ### Shillelagh {#shillelagh}
 
@@ -4371,17 +4387,19 @@ You call forth spirits to protect you. They flit around you to a distance of 15 
 When you cast this spell, you can designate any number of creatures you can see to be unaffected by it. An affected creature’s speed is halved in the area, and when the creature enters the area for the first time on a turn or starts its turn there, it must make a Wisdom saving throw. On a failed save, the creature takes 3d8 radiant damage (if you are good or neutral) or 3d8 necrotic damage (if you are evil). On a successful save, the creature takes half as much damage.
 At Higher Levels. When you cast this spell using a spell slot of 4th level or higher, the damage increases by 1d8 for each slot level above 3rd.
 
-### Spiพิธีกรรม Weapon {#spiพิธีกรรม-weapon}
+### อาวุธวิญญาณ (Spiritual Weapon) {#spiritual-weapon}
 
-2nd-level evocation
-**เวลาในการร่ายคาถา:** 1 โบนัสแอ็คชัน
-**ระยะ:** 60 ฟุต
-**วิธีการร่ายและวัตถุคาถา:** V, S
-**ระยะเวลาคงคาถา:** 1 นาที
-You create a floating, spectral weapon within range that lasts for the duration or until you cast this spell again. When you cast the spell, you can make a melee spell attack against a creature within 5 ฟุต of the weapon. On a hit, the target takes force damage equal to 1d8 + your spellcasting ability modifier.
-As a bonus action on your turn, you can move the weapon up to 20 ฟุต and repeat the attack against a creature within 5 ฟุต of it.
-The weapon can take whatever form you choose. Clerics of deities who are associated with a particular weapon (as St. Cuthbert is known for his mace and Thor for his hammer) make this spell’s effect resemble that weapon.
-At Higher Levels. When you cast this spell using a spell slot of 3rd level or higher, the damage increases by 1d8 for every two slot levels above 2nd.
+2nd-level evocation  
+**เวลาในการร่ายคาถา:** 1 โบนัสแอ็คชัน  
+**ระยะ:** 60 ฟุต  
+**วิธีการร่ายและวัตถุคาถา:** V, S  
+**ระยะเวลาคงคาถา:** 1 นาที  
+
+คุณสร้างอาวุธวิญญาณลอยได้ในระยะคาถาและคงอยู่ในระยะเวลาคาถหรือจนกว่าคุณจะใช้คาถาอีกครั้ง เมื่อคุณใช้คาถา คุณสามารถโจมตีเป้าหมายด้วยเวทย์มนต์ในระยะประชิดจากตำแหน่งของตัวอาวุธ ถ้าโจมตีโดน เป้าหมายจะได้รับความเสียหายแบบพลังงาน (force damage) 1d8 + ค่าโมดิไฟเออร์ของความสามารถที่ใช้ร่ายคาถา
+
+โดยการใช้โบนัสแอ็คชันในเทิร์นของคุณ คุณสามารถเคลื่อนที่อาวุธในระยะ 20 ฟุตและใช้มันโจมตีสิ่งมีชีวิตอื่นในระยะ 5 ฟุตของมัน ตัวอาวุธสามารถเป็นรูปแบบใด ๆ ก็ได้ตามที่คุณเลือก เคลอริกที่เป็นสาวกของเทพที่มีอาวุธประจำกาย (เช่น เซนต์คุธเบิร์ทมีคฑาประจำตัวและธอร์ที่ใช้ใช้ฆ้อน) สามารถเลือกอาวุธเหล่านี้เป็นรูปแบบของอาวุธวิญญาณก็ได้
+
+ที่เลเวลสูงขึ้น เมื่อคุณใช้คาถานี้โดยใช้สล็อตคาถาเลเวล 3 หรือสูงกว่า ความเสียหายจะเพิ่มขึ้น 1d8 ในทุก ๆ สล็อตคาถา 2 เลเวลที่มากกว่าเลเวล 2
 
 ### Stinking Cloud {#stinking-cloud}
 
