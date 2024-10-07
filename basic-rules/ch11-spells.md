@@ -3206,15 +3206,17 @@ One creature or loose object of your choice that you can see within range rises 
 The target can move only by pushing or pulling against a fixed object or surface within reach (such as a wall or a ceiling), which allows it to move as if it were climbing. You can change the target’s altitude by up to 20 ฟุต in either direction on your turn. If you are the target, you can move up or down as part of your move. Otherwise, you can use your action to move the target, which must remain within the spell’s range.
 When the spell ends, the target floats gently to the ground if it is still aloft.
 
-### Light {#light}
+### แสงสว่าง (Light) {#light}
 
-Evocation cantrip
-**เวลาในการร่ายคาถา:** 1 แอ็คชัน
-**ระยะ:** สัมผัสถึง
-**วิธีการร่ายและวัตถุคาถา:** V, M (a firefly or phosphorescent moss)
-**ระยะเวลาคงคาถา:** 1 hour
-You touch one object that is no larger than 10 ฟุต in any dimension. Until the spell ends, the object sheds bright light in a 20-foot radius and dim light for an additional 20 ฟุต. The light can be colored as you like. Completely covering the object with something opaque blocks the light. The spell ends if you cast it again or dismiss it as an action.
-If you target an object held or worn by a hostile creature, that creature must succeed on a Dexterity saving throw to avoid the spell.
+Evocation cantrip  
+**เวลาในการร่ายคาถา:** 1 แอ็คชัน  
+**ระยะ:** สัมผัสถึง  
+**วิธีการร่ายและวัตถุคาถา:** V, M (หิ่งห้อยหรือมอสเรืองแสง)  
+**ระยะเวลาคงคาถา:** 1 ชั่วโมง  
+
+คุณสัมผัสวัตถุหนึ่งชิ้นที่มีขนาดไม่เกิน 10 ฟุตในทุกด้าน จนกว่าคาถาจะสิ้นสุดลง วัตถุนั้นจะเปล่งแสงสว่าง (bright light) ในรัศมี 20 ฟุต และเปล่งแสงสลัว (dim light) เป็นระยะทางเพิ่มเติมอีก 20 ฟุต แสงจะถูกปรับสีได้ตามต้องการ การคลุมวัตถุทั้งหมดด้วยสิ่งที่ทึบแสงจะปิดกั้นแสง คาถาจะสิ้นสุดลงหากคุณร่ายคาถาอีกครั้งหรือยกเลิกคาถาโดยใช้แอ็คชัน
+
+หากคุณเล็งวัตถุที่ถือหรือสวมใส่โดยสิ่งมีชีวิตที่เป็นศัตรู สิ่งมีชีวิตนั้นจะต้องทอยป้องกันค่าความคล่องตัวสำเร็จจึงจะหลีกเลี่ยงคาถานั้นได้
 
 ### Lightning Bolt {#lightning-bolt}
 
@@ -4056,15 +4058,18 @@ Anything inside the extradimensional space drops out when the spell ends.
 
 ## S Spells
 
-### Sacred Flame {#sacred-flame}
+### ไฟศักดิ์สิทธิ์ (Sacred Flame) {#sacred-flame}
 
-Evocation cantrip
-**เวลาในการร่ายคาถา:** 1 แอ็คชัน
-**ระยะ:** 60 ฟุต
-**วิธีการร่ายและวัตถุคาถา:** V, S
-**ระยะเวลาคงคาถา:** โดยทันที
+Evocation cantrip  
+**เวลาในการร่ายคาถา:** 1 แอ็คชัน  
+**ระยะ:** 60 ฟุต  
+**วิธีการร่ายและวัตถุคาถา:** V, S  
+**ระยะเวลาคงคาถา:** โดยทันที  
+
 Flame-like radiance descends on a creature that you can see within range. The target must succeed on a Dexterity saving throw or take 1d8 radiant damage. The target gains no benefit from cover for this saving throw.
-The spell’s damage increases by 1d8 when you reach 5th level (2d8), 11th level (3d8), and 17th level (4d8).
+แสงที่เหมือนเปลวเพลิงจะสาดส่องลงมายังสิ่งมีชีวิตที่คุณมองเห็นภายในระยะ เป้าหมายจะต้องทอยป้องกันค่าความคล่องแคล่ว (Dexterity) ให้ผ่าน มิฉะนั้นจะได้รับความเสียหายจากแสง 1d8 เป้าหมายจะไม่ได้รับประโยชน์ใด ๆ จากการกำบังสำหรับการเซฟครั้งนี้
+
+ความเสียหายจากคาถาจะเพิ่มขึ้น 1d8 เมื่อคุณถึงเลเวล 5 (2d8), เลเวล 11 (3d8), และเลเวล 17 (4d8)
 
 ### Sanctuary {#sanctuary}
 
@@ -4606,23 +4611,24 @@ As you cast the spell, you draw a 10-foot-diameter circle on the ground inscribe
 Many major temples, guilds, and other important places have permanent teleportation circles inscribed somewhere within their confines. Each such circle includes a unique sigil sequence—a string of magical runes arranged in a particular pattern. When you first gain the ability to cast this spell, you learn the sigil sequences for two destinations on the Material Plane, determined by the DM. You can learn additional sigil sequences during your adventures. You can commit a new sigil sequence to memory after studying it for 1 นาที.
 You can create a permanent teleportation circle by casting this spell in the same location every day for one year. You need not use the circle to teleport when you cast the spell in this way.
 
-### Thaumaturgy {#thaumaturgy}
+### ปาฏิหาริย์ (Thaumaturgy) {#thaumaturgy}
 
-Transmutation cantrip
-**เวลาในการร่ายคาถา:** 1 แอ็คชัน
-**ระยะ:** 30 ฟุต
-**วิธีการร่ายและวัตถุคาถา:** V
-**ระยะเวลาคงคาถา:** Up to 1 นาที
-You manifest a minor wonder, a sign of supernatural power, within range. You create one of the following magical effects within **ระยะ:**
+Transmutation cantrip  
+**เวลาในการร่ายคาถา:** 1 แอ็คชัน  
+**ระยะ:** 30 ฟุต  
+**วิธีการร่ายและวัตถุคาถา:** V  
+**ระยะเวลาคงคาถา:** Up to 1 นาที  
 
-- Your voice booms up to three times as loud as normal for 1 นาที.
-- You cause flames to flicker, brighten, dim, or change color for 1 นาที.
-- You cause harmless tremors in the ground for 1 นาที.
-- You create an โดยทันที sound that originates from a point of your choice within range, such as a rumble of thunder, the cry of a raven, or ominous whispers.
-- You โดยทันทีly cause an unlocked door or window to fly open or slam shut.
-- You alter the appearance of your eyes for 1 นาที.
+คุณจะแสดงสิ่งมหัศจรรย์เล็ก ๆ น้อย ๆ เป็นเครื่องหมายของพลังเหนือธรรมชาติ ในระยะคาถา คุณสามารถสร้างผลพิเศษได้หนึ่งอย่างในระยะดังนี้
 
-If you cast this spell multiple times, you can have up to three of its 1-minute effects active at a time, and you can dismiss such an effect as an action.
+- เสียงของคุณดังขึ้นถึงสามเท่าจากปกติเป็นเวลา 1 นาที
+- คุณทำให้เปลวไฟสั่นไหว สว่างขึ้น หรี่ลง หรือเปลี่ยนสีเป็นเวลา 1 นาที
+- คุณทำให้เกิดการสั่นสะเทือนที่ไม่เป็นอันตรายในพื้นดินเป็นเวลา 1 นาที
+- คุณสร้างเสียงที่มาจากจุดที่คุณเลือกโดยทันทีภายในระยะ เช่น เสียงฟ้าร้อง เสียงร้องของอีกา หรือเสียงกระซิบอันเป็นลางไม่ดี
+- คุณทำให้ประตูหรือหน้าต่างที่ไม่ได้ล็อกเปิดออกหรือปิดลงทันที
+- คุณเปลี่ยนลักษณะของดวงตาของคุณเป็นเวลา 1 นาที
+
+หากคุณร่ายคาถานี้หลายครั้ง คุณจะกำหนดให้เอฟเฟกต์ 1 นาทีทำงานได้สูงสุด 3 อย่างในเวลาเดียวกัน และคุณสามารถยกเลิกเอฟเฟกต์ดังกล่าวได้โดยใช้แอ็กชัน
 
 ### Thunderwave {#thunderwave}
 
