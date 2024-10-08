@@ -148,7 +148,7 @@ name: พาลาดิน (Paladin)
 
 #### ความสามารถที่ใ่ช้ในการร่ายคาถา (Spellcasting Ability)
 
-ค่าเสน่ห์ (Charisma) จะเป็นความสามารถที่ใช้ในการร่ายคาถาของพาลาดิน เพราะพลังของพวกเขาได้มาจากศรัทธาที่แข็งแกร่ง คุณจะใช้ค่าเสน่ห์เมื่อใดก็ตามที่คาถาอ้างถึงความสามารถที่ใช้ในการร่ายคาถา นอกจากนั้นคุณจะใช้ค่าโมดิไฟเออร์เสน่ห์เมื่อต้องกำหนดค่า DC ของการทอยป้องกันความเสียหายจากคาถาที่คุณร่ายและเมื่อจะใช้ทอยโจมตีจากคาถา 
+ค่าเสน่ห์ (Charisma) จะเป็นความสามารถที่ใช้ในการร่ายคาถาของพาลาดิน เพราะพลังของพวกเขาได้มาจากศรัทธาที่แข็งแกร่ง คุณจะใช้ค่าเสน่ห์เมื่อใดก็ตามที่คาถาอ้างถึงความสามารถที่ใช้ในการร่ายคาถา นอกจากนั้นคุณจะใช้ค่าโมดิไฟเออร์เสน่ห์เมื่อต้องกำหนดค่า DC ของการทอยป้องกันความเสียหายจากคาถาที่คุณร่ายและเมื่อจะใช้ทอยโจมตีจากคาถา
 
 ค่า DC ในการทอยป้องกันคาถา = 8 + ค่าโบนัสความเชี่ยวชาญ + ค่าโมดิไฟเออร์เสน่ห์
 
@@ -242,23 +242,23 @@ name: พาลาดิน (Paladin)
 
 **เห็นอกเห็นใจผู้อื่น.** ช่วยเหลือผู้อื่น ปกป้องผู้อ่อนแอ และลงโทษพวกที่ทำร้ายผู้อื่น เมตตาต่อศัตรูแต่จงอ่อนโยนด้วยปัญญา
 
-**Honor.** Treat others with fairness, and let your honorable deeds be an example to them. Do as much good as possible while causing the least amount of harm.
+**เกียรติ** ปฏิบัติต่อผู้อื่นอย่างเท่าเทียม และให้เกียรติในความดีของคุณเป็นตัวอย่างให้กับพวกเขา ทำดีให้ได้มากเท่าที่จะทำได้ โดยสร้างความเสียหายให้น้อยที่สุด
 
-**Duty.** Be responsible for your actions and their consequences, protect those entrusted to your care, and obey those who have just authority over you.
+**หน้าที่** รับผิดชอบต่อการกระทำของคุณและผลที่ตามมา ปกป้องผู้ที่ได้รับความไว้วางใจในการดูแลของคุณ และเชื่อฟังผู้ที่มีอำนาจเหนือคุณ
 
-#### Oath Spells
+#### คาถาประจำปฏิญาณ
 
-You gain oath spells at the paladin levels listed.
+คุณจะได้รับคาถาประจำปฏิญาณตามเลเวลพาลาดินที่กำหนด
 
-**Oath of Devotion Spells**
+**คาถาของปฏิญาณแห่งการอุทิศตน**
 
-| Paladin Level | Spells                                                                                                                                                             |
-| ------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
-| 3rd           | [protection from evil and good](https://www.dndbeyond.com/spells/2221-protection-from-evil-and-good), [sanctuary](https://www.dndbeyond.com/spells/2237-sanctuary) |
-| 5th           | [lesser restoration](https://www.dndbeyond.com/spells/2164-lesser-restoration), [zone of truth](https://www.dndbeyond.com/spells/2305-zone-of-truth)               |
-| 9th           | [beacon of hope](https://www.dndbeyond.com/spells/2012-beacon-of-hope), [dispel magic](https://www.dndbeyond.com/spells/2072-dispel-magic)                         |
-| 13th          | [freedom of movement](https://www.dndbeyond.com/spells/2116-freedom-of-movement), [guardian of faith](https://www.dndbeyond.com/spells/2130-guardian-of-faith)     |
-| 17th          | [commune](https://www.dndbeyond.com/spells/2033-commune), [flame strike](https://www.dndbeyond.com/spells/2107-flame-strike)                                       |
+| เลเวลพาลาดิน | คาถา                                                                                                                                       |
+| ------------ | ------------------------------------------------------------------------------------------------------------------------------------------ |
+| 3rd          | [การป้องกันจากความชั่วร้ายและความดี (protection from evil and good)](/basic-rules/ch11-spells/#protection-from-evil-and-good), [sanctuary](/basic-rules/ch11-spells/#sanctuary) |
+| 5th          | [lesser restoration](/basic-rules/ch11-spells/#lesser-restoration), [zone of truth](/basic-rules/ch11-spells/#zone-of-truth)               |
+| 9th          | [beacon of hope](/basic-rules/ch11-spells/#beacon-of-hope), [dispel magic](/basic-rules/ch11-spells/#dispel-magic)                         |
+| 13th         | [freedom of movement](/basic-rules/ch11-spells/#freedom-of-movement), [guardian of faith](/basic-rules/ch11-spells/#guardian-of-faith)     |
+| 17th         | [commune](/basic-rules/ch11-spells/#commune), [flame strike](/basic-rules/ch11-spells/#flame-strike)                                       |
 
 #### Channel Divinity
 
@@ -293,21 +293,23 @@ In addition, for the duration, you have advantage on saving throws against spell
 Once you use this feature, you can’t use it again until you finish a long rest.
 
 ### Oath of the Ancients
+
 The Oath of the Ancients is as old as the race of elves and the rituals of the druids. Sometimes called fey knights, green knights, or horned knights, paladins who swear this oath cast their lot with the side of the light in the cosmic struggle against darkness because they love the beautiful and life-giving things of the world, not necessarily because they believe in principles of honor, courage, and justice. They adorn their armor and clothing with images of growing things—leaves, antlers, or flowers—to reflect their commitment to preserving life and light in the world.
 
->**TENETS OF THE ANCIENTS**
+> **TENETS OF THE ANCIENTS**
 >
->The tenets of the Oath of the Ancients have been preserved for uncounted centuries. This oath emphasizes the principles of good above any concerns of law or chaos. Its four central principles are simple.
+> The tenets of the Oath of the Ancients have been preserved for uncounted centuries. This oath emphasizes the principles of good above any concerns of law or chaos. Its four central principles are simple.
 >
->**Kindle the Light.** Through your acts of mercy, kindness, and forgiveness, kindle the light of hope in the world, beating back despair.
+> **Kindle the Light.** Through your acts of mercy, kindness, and forgiveness, kindle the light of hope in the world, beating back despair.
 >
->**Shelter the Light.** Where there is good, beauty, love, and laughter in the world, stand against the wickedness that would swallow it. Where life flourishes, stand against the forces that would render it barren.
+> **Shelter the Light.** Where there is good, beauty, love, and laughter in the world, stand against the wickedness that would swallow it. Where life flourishes, stand against the forces that would render it barren.
 >
->**Preserve Your Own Light.** Delight in song and laughter, in beauty and art. If you allow the light to die in your own heart, you can’t preserve it in the world.
+> **Preserve Your Own Light.** Delight in song and laughter, in beauty and art. If you allow the light to die in your own heart, you can’t preserve it in the world.
 >
->**Be the Light.** Be a glorious beacon for all who live in despair. Let the light of your joy and courage shine forth in all your deeds.
+> **Be the Light.** Be a glorious beacon for all who live in despair. Let the light of your joy and courage shine forth in all your deeds.
 
 #### Channel Divinity
+
 When you take this oath at 3rd level, you gain the following two Channel Divinity options.
 
 **Nature’s Wrath.** You can use your Channel Divinity to invoke primeval forces to ensnare a foe. As an action, you can cause spectral vines to spring up and reach for a creature within 10 feet of you that you can see. The creature must succeed on a Strength or Dexterity saving throw (its choice) or be restrained. While restrained by the vines, the creature repeats the saving throw at the end of each of its turns. On a success, it frees itself and the vines vanish.
@@ -319,6 +321,7 @@ A turned creature must spend its turns trying to move as far away from you as it
 If the creature’s true form is concealed by an illusion, shapeshifting, or other effect, that form is revealed while it is turned.
 
 #### Oath Spells
+
 You gain oath spells at the paladin levels listed.
 
 **Oath of the Ancients Spells**
@@ -332,16 +335,19 @@ You gain oath spells at the paladin levels listed.
 | 17th          | [commune with nature](https://www.dndbeyond.com/spells/2034-commune-with-nature), [tree stride](https://www.dndbeyond.com/spells/2283-tree-stride)         |
 
 #### Aura of Warding
+
 Beginning at 7th level, ancient magic lies so heavily upon you that it forms an eldritch ward. You and friendly creatures within 10 feet of you have resistance to damage from spells.
 
 At 18th level, the range of this aura increases to 30 feet.
 
 #### Undying Sentinel
+
 Starting at 15th level, when you are reduced to 0 hit points and are not killed outright, you can choose to drop to 1 hit point instead. Once you use this ability, you can’t use it again until you finish a long rest.
 
 Additionally, you suffer none of the drawbacks of old age, and you can’t be aged magically.
 
 #### Elder Champion
+
 At 20th level, you can assume the form of an ancient force of nature, taking on an appearance you choose. For example, your skin might turn green or take on a bark-like texture, your hair might become leafy or moss-like, or you might sprout antlers or a lion-like mane.
 
 Using your action, you undergo a transformation. For 1 minute, you gain the following benefits:
@@ -353,21 +359,23 @@ Using your action, you undergo a transformation. For 1 minute, you gain the foll
 Once you use this feature, you can’t use it again until you finish a long rest.
 
 ### Oath of Vengeance
+
 The Oath of Vengeance is a solemn commitment to punish those who have committed a grievous sin. When evil forces slaughter helpless villagers, when an entire people turns against the will of the gods, when a thieves’ guild grows too violent and powerful, when a dragon rampages through the countryside — at times like these, paladins arise and swear an Oath of Vengeance to set right that which has gone wrong. To these paladins — sometimes called avengers or dark knights — their own purity is not as important as delivering justice.
 
->TENETS OF VENGEANCE
+> TENETS OF VENGEANCE
 >
->The tenets of the Oath of Vengeance vary by paladin, but all the tenets revolve around punishing wrongdoers by any means necessary. Paladins who uphold these tenets are willing to sacrifice even their own righteousness to mete out justice upon those who do evil, so the paladins are often neutral or lawful neutral in alignment. The core principles of the tenets are brutally simple.
+> The tenets of the Oath of Vengeance vary by paladin, but all the tenets revolve around punishing wrongdoers by any means necessary. Paladins who uphold these tenets are willing to sacrifice even their own righteousness to mete out justice upon those who do evil, so the paladins are often neutral or lawful neutral in alignment. The core principles of the tenets are brutally simple.
 >
->**Fight the Greater Evil.** Faced with a choice of fighting my sworn foes or combating a lesser evil, I choose the greater evil.
+> **Fight the Greater Evil.** Faced with a choice of fighting my sworn foes or combating a lesser evil, I choose the greater evil.
 >
->**No Mercy for the Wicked.** Ordinary foes might win my mercy, but my sworn enemies do not.
+> **No Mercy for the Wicked.** Ordinary foes might win my mercy, but my sworn enemies do not.
 >
->**By Any Means Necessary.** My qualms can’t get in the way of exterminating my foes.
+> **By Any Means Necessary.** My qualms can’t get in the way of exterminating my foes.
 >
->**Restitution.** If my foes wreak ruin on the world, it is because I failed to stop them. I must help those harmed by their misdeeds.
+> **Restitution.** If my foes wreak ruin on the world, it is because I failed to stop them. I must help those harmed by their misdeeds.
 
 #### Channel Divinity
+
 When you take this oath at 3rd level, you gain the following two Channel Divinity options.
 
 **Abjure Enemy.** As an action, you present your holy symbol and speak a prayer of denunciation, using your Channel Divinity. Choose one creature within 60 feet of you that you can see. That creature must make a Wisdom saving throw, unless it is immune to being [frightened]. Fiends and undead have disadvantage on this saving throw.
@@ -379,24 +387,29 @@ On a successful save, the creature’s speed is halved for 1 minute or until the
 **Vow of Enmity.** As a bonus action, you can utter a vow of enmity against a creature you can see within 10 feet of you, using your Channel Divinity. You gain advantage on attack rolls against the creature for 1 minute or until it drops to 0 hit points or falls [unconscious].
 
 #### Oath Spells
+
 You gain oath spells at the paladin levels listed.
 
 **Oath of Vengeance Spells**
-| Paladin Level | Spells                                                                                                                                                     |
+
+| Paladin Level | Spells |
 | ------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| 3rd           | [bane](https://www.dndbeyond.com/spells/2009-bane), [hunter’s mark](https://www.dndbeyond.com/spells/2149-hunters-mark)                                    |
-| 5th           | [hold person](https://www.dndbeyond.com/spells/2147-hold-person), [misty step](https://www.dndbeyond.com/spells/2195-misty-step)                           |
-| 9th           | [haste](https://www.dndbeyond.com/spells/2138-haste), [protection from energy](https://www.dndbeyond.com/spells/2220-protection-from-energy)               |
-| 13th          | [banishment](https://www.dndbeyond.com/spells/2010-banishment), [dimension door](https://www.dndbeyond.com/spells/2068-dimension-door)                     |
-| 17th          | [hold monster](https://www.dndbeyond.com/spells/2146-hold-monster), [scrying](https://www.dndbeyond.com/spells/2239-scrying)                               |
+| 3rd | [bane](https://www.dndbeyond.com/spells/2009-bane), [hunter’s mark](https://www.dndbeyond.com/spells/2149-hunters-mark) |
+| 5th | [hold person](https://www.dndbeyond.com/spells/2147-hold-person), [misty step](https://www.dndbeyond.com/spells/2195-misty-step) |
+| 9th | [haste](https://www.dndbeyond.com/spells/2138-haste), [protection from energy](https://www.dndbeyond.com/spells/2220-protection-from-energy) |
+| 13th | [banishment](https://www.dndbeyond.com/spells/2010-banishment), [dimension door](https://www.dndbeyond.com/spells/2068-dimension-door) |
+| 17th | [hold monster](https://www.dndbeyond.com/spells/2146-hold-monster), [scrying](https://www.dndbeyond.com/spells/2239-scrying) |
 
 #### Relentless Avenger
+
 By 7th level, your supernatural focus helps you close off a foe’s retreat. When you hit a creature with an opportunity attack, you can move up to half your speed immediately after the attack and as part of the same reaction. This movement doesn’t provoke opportunity attacks.
 
 #### Soul of Vengeance
+
 Starting at 15th level, the authority with which you speak your Vow of Enmity gives you greater power over your foe. When a creature under the effect of your Vow of Enmity makes an attack, you can use your reaction to make a melee weapon attack against that creature if it is within range.
 
 #### Avenging Angel
+
 At 20th level, you can assume the form of an angelic avenger. Using your action, you undergo a transformation. For 1 hour, you gain the following benefits:
 
 - Wings sprout from your back and grant you a flying speed of 60 feet.
@@ -405,11 +418,13 @@ At 20th level, you can assume the form of an angelic avenger. Using your action,
 Once you use this feature, you can’t use it again until you finish a long rest.
 
 ### Oathbreaker
+
 An Oathbreaker is a paladin who breaks his or her sacred oaths to pursue some dark ambition or serve an evil power. Whatever light burned in the paladin’s heart has been extinguished. Only darkness remains.
 
 A paladin must be evil and at least 3rd level to become an Oathbreaker. The paladin replaces the features specific to his or her Sacred Oath with Oathbreaker features.
 
 #### Oathbreaker Spells
+
 An Oathbreaker paladin loses previously gained oath spells and instead gains the following Oathbreaker spells at the paladin levels listed.
 
 | Paladin Level | Spells                                                                                                                                         |
@@ -421,6 +436,7 @@ An Oathbreaker paladin loses previously gained oath spells and instead gains the
 | 17th          | [contagion](https://www.dndbeyond.com/spells/2046-contagion), [dominate person](https://www.dndbeyond.com/spells/2078-dominate-person)         |
 
 #### Channel Divinity
+
 An Oathbreaker paladin of 3rd level or higher gains the following two Channel Divinity options.
 
 **Control Undead.** As an action, the paladin targets one undead creature he or she can see within 30 feet of him or her. The target must make a Wisdom saving throw. On a failed save, the target must obey the paladin’s commands for the next 24 hours, or until the paladin uses this Channel Divinity option again. An undead whose challenge rating is equal to or greater than the paladin’s level is immune to this effect.
@@ -428,14 +444,17 @@ An Oathbreaker paladin of 3rd level or higher gains the following two Channel Di
 **Dreadful Aspect.** As an action, the paladin channels the darkest emotions and focuses them into a burst of magical menace. Each creature of the paladin’s choice within 30 feet of the paladin must make a Wisdom saving throw if it can see the paladin. On a failed save, the target is frightened of the paladin for 1 minute. If a creature frightened by this effect ends its turn more than 30 feet away from the paladin, it can attempt another Wisdom saving throw to end the effect on it.
 
 #### Aura of Hate
+
 Starting at 7th level, the paladin, as well any fiends and undead within 10 feet of the paladin, gains a bonus to melee weapon damage rolls equal to the paladin’s Charisma modifier (minimum of +1). A creature can benefit from this feature from only one paladin at a time.
 
 At 18th level, the range of this aura increases to 30 feet.
 
 #### Supernatural Resistance
+
 At 15th level, the paladin gains resistance to bludgeoning, piercing, and slashing damage from nonmagical weapons.
 
 #### Dread Lord
+
 At 20th level, the paladin can, as an action, surround himself or herself with an aura of gloom that lasts for 1 minute. The aura reduces any bright light in a 30-foot radius around the paladin to dim light. Whenever an enemy that is frightened by the paladin starts its turn in the aura, it takes 4d10 psychic damage. Additionally, the paladin and creatures he or she chooses in the aura are draped in deeper shadow. Creatures that rely on sight have disadvantage on attack rolls against creatures draped in this shadow.
 
 While the aura lasts, the paladin can use a bonus action on his or her turn to cause the shadows in the aura to attack one creature. The paladin makes a melee spell attack against the target. If the attack hits, the target takes necrotic damage equal to 3d10 + the paladin’s Charisma modifier.
