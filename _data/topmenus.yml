@@ -38,3 +38,7 @@
       title: พ่อค้าผู้มั่งคั่ง - The Wealthy Merchant
       url: /one-shot/the-wealthy-merchant
       icon: fa fa-map
+
+- name: about
+  title: เกี่ยวกับเรา
+  url: /about/
