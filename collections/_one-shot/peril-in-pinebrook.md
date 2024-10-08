@@ -611,120 +611,45 @@ Before the characters can do anything else, the mother dragon returns! Read the 
 
 ## ภาคผนวก A
 
-| ภาษาคอมมอน  | ภาษามังกร ดราโกนิค |
-| ----------- | ------------------ |
-| เหนือ       | svern              |
-| หลังจากนั้น | ghent              |
-| อากาศ       | thrae              |
-| และ         | vur                |
-| สัตว์       | baeshra            |
-| ชุดเกราะ    | litrix             |
-| ลูกธนู      | svent              |
-| ขี้เถ้า     | vignar             |
-| ขวาน        | garurt             |
-| กระเป๋า     | waeth              |
-| สงคราม      | vargach            |
-| สวยงาม      | vorel              |
-| ก่อน        | ghoros             |
-| หลัง        | zara               |
-| นอกจากนี้   | unsiti             |
-| ใหญ่        | turalisj           |
-| ดำ          | vutha              |
-| น้ำเงิน     | ulhar              |
-| ธนู         | vaex               |
-| ทองเหลือง   | auraj              |
-| กล้าหาญ     | sveargith          |
-| สัมฤทธิ์    | aujir              |
-| เผาไหม้     | valignat           |
-| แต่         | shar               |
-| ถ้ำ         | waere              |
-| ศตวรรษ      | ierikc             |
-| กรงเล็บ     | gix                |
-| ทองแดง      | rach               |
-| เต้นรำ      | vaeri              |
-| อันตราย     | korth              |
-| วัน         | kear               |
-| ตาย         | loex               |
-| ปีศาจ       | kothar             |
-| ตาย         | loreat             |
-| มังกร       | darastrix          |
-| ดวอร์ฟ      | tundar             |
-| โลก         | edar               |
-| เอลฟ์       | vaecaesin          |
-| เสริมเวท    | levex              |
-| ศัตรู       | irlym              |
-| ชั่วร้าย    | malsvir            |
-| ไกล         | karif              |
-| ไฟ          | ixen               |
-| หนี         | osvith             |
-| บิน         | austrat            |
-| อาหาร       | achthend           |
-| โง่         | pothoc             |
-| ป่า         | caesin             |
-| เพือน       | thurirl            |
-| อัญมณี      | kethend            |
-| ให้         | majak              |
-| โนม         | terunt             |
-| ไป          | gethrisj           |
-| ทอง         | aurix              |
-| ดี          | bensvelk           |
-| เขียว       | achuak             |
-| เกลียด      | dartak             |
-| บ้าน        | okarthel           |
-| มนุษย์      | munthrek           |
-| ใน          | persvek            |
-| หัวหน้า     | maekrix            |
-| เวทย์มนต์   | arcaniss           |
-| มากมาย      | throden            |
-| เนื้อ       | rhyaex             |
-| ภูเขา       | verthicha          |
-| ชื่อ        | ominak             |
-| ใกล้        | leirith            |
-| ค่ำคืน      | thurkear           |
-| ไม่         | thrice             |
-| ยักษ์       | ghontix            |
-| บน          | shafear            |
-| สงบสุข      | martivir           |
-| สัตว์เลี้ยง | kosjirl            |
-| ฝน          | oposs              |
-| แดง         | charir             |
-| พักผ่อน     | ssifisv            |
-| เลื่อน      | sjir               |
-| ความลับ     | irthos             |
-| เห็น        | ocuir              |
-| เงา         | sjach              |
-| เงิน        | orn                |
-| ผิว         | molik              |
-| เล็ก        | kosj               |
-| ฉลาด        | othokent           |
-| ดังนั้น     | zyak               |
-| บินสูง      | hysvear            |
-| เพลง        | miirik             |
-| ผู้วิเศษ    | vorastrix          |
-| พูด         | renthisj           |
-| หิน         | ternesj            |
-| พายุ        | kespek             |
-| แข็งแรง     | versvesh           |
-| นักเรียน    | thurae             |
-| ดาบ         | caex               |
-| นำไป        | clax               |
-| พูดคุย      | ukris              |
-| ขโมย        | virlym             |
-| ผ่าน        | erekess            |
-| เดินทาง     | ossalur            |
-| สมบัติ      | rasvim             |
-| น่าเกลียด   | nurh               |
-| ทิศใต้         | onureth            |
-| หุบเขา      | arux               |
-| ชัยชนะ      | vivex              |
-| ต้องการ     | tuor               |
-| สงคราม      | aryte              |
-| น้ำ         | hesjing            |
-| พวกเรา      | yth                |
-| อาวุธ       | laraek             |
-| ขาว         | aussir             |
-| พ่อมด       | levethix           |
-| ใช้         | axun               |
-| ท่าน        | wux                |
+| ภาษาคอมมอน  | ภาษามังกร ดราโกนิค | ภาษาคอมมอน  | ภาษามังกร ดราโกนิค | ภาษาคอมมอน | ภาษามังกร ดราโกนิค |
+| ----------- | ------------------ | ----------- | ------------------ | ---------- | ------------------ |
+| เหนือ       | svern              | เอลฟ์       | vaecaesin          | แดง        | charir             |
+| หลังจากนั้น | ghent              | เสริมเวท    | levex              | พักผ่อน    | ssifisv            |
+| อากาศ       | thrae              | ศัตรู       | irlym              | เลื่อน     | sjir               |
+| และ         | vur                | ชั่วร้าย    | malsvir            | ความลับ    | irthos             |
+| สัตว์       | baeshra            | ไกล         | karif              | เห็น       | ocuir              |
+| ชุดเกราะ    | litrix             | ไฟ          | ixen               | เงา        | sjach              |
+| ลูกธนู      | svent              | หนี         | osvith             | เงิน       | orn                |
+| ขี้เถ้า     | vignar             | บิน         | austrat            | ผิว        | molik              |
+| ขวาน        | garurt             | อาหาร       | achthend           | เล็ก       | kosj               |
+| กระเป๋า     | waeth              | โง่         | pothoc             | ฉลาด       | othokent           |
+| สงคราม      | vargach            | ป่า         | caesin             | ดังนั้น    | zyak               |
+| สวยงาม      | vorel              | เพือน       | thurirl            | บินสูง     | hysvear            |
+| ก่อน        | ghoros             | อัญมณี      | kethend            | เพลง       | miirik             |
+| หลัง        | zara               | ให้         | majak              | ผู้วิเศษ   | vorastrix          |
+| นอกจากนี้   | unsiti             | โนม         | terunt             | พูด        | renthisj           |
+| ใหญ่        | turalisj           | ไป          | gethrisj           | หิน        | ternesj            |
+| ดำ          | vutha              | ทอง         | aurix              | พายุ       | kespek             |
+| น้ำเงิน     | ulhar              | ดี          | bensvelk           | แข็งแรง    | versvesh           |
+| ธนู         | vaex               | เขียว       | achuak             | นักเรียน   | thurae             |
+| ทองเหลือง   | auraj              | เกลียด      | dartak             | ดาบ        | caex               |
+| กล้าหาญ     | sveargith          | บ้าน        | okarthel           | นำไป       | clax               |
+| สัมฤทธิ์    | aujir              | มนุษย์      | munthrek           | พูดคุย     | ukris              |
+| เผาไหม้     | valignat           | ใน          | persvek            | ขโมย       | virlym             |
+| แต่         | shar               | หัวหน้า     | maekrix            | ผ่าน       | erekess            |
+| ถ้ำ         | waere              | เวทย์มนต์   | arcaniss           | เดินทาง    | ossalur            |
+| ศตวรรษ      | ierikc             | มากมาย      | throden            | สมบัติ     | rasvim             |
+| กรงเล็บ     | gix                | เนื้อ       | rhyaex             | น่าเกลียด  | nurh               |
+| ทองแดง      | rach               | ภูเขา       | verthicha          | ทิศใต้     | onureth            |
+| เต้นรำ      | vaeri              | ชื่อ        | ominak             | หุบเขา     | arux               |
+| อันตราย     | korth              | ใกล้        | leirith            | ชัยชนะ     | vivex              |
+| วัน         | kear               | ค่ำคืน      | thurkear           | ต้องการ    | tuor               |
+| ตาย         | loex               | ไม่         | thrice             | สงคราม     | aryte              |
+| ปีศาจ       | kothar             | ยักษ์       | ghontix            | น้ำ        | hesjing            |
+| ตาย         | loreat             | บน          | shafear            | พวกเรา     | yth                |
+| มังกร       | darastrix          | สงบสุข      | martivir           | อาวุธ      | laraek             |
+| ดวอร์ฟ      | tundar             | สัตว์เลี้ยง | kosjirl            | ขาว        | aussir             |
+| โลก         | edar               | ฝน          | oposs              | พ่อมด      | levethix           |
+| ใช้         | axun               | ท่าน        | wux                |            |                    |
 
 "เชื่อข้าเถอะ ข้าใช้เวลาไปพักใหญ่เลยในการเรียนศัพท์ดราโกนิค แต่เมื่อรู้แล้ว มันช่วยให้ความสัมพันธ์กับมังกรดีขึ้นมากเลย"
