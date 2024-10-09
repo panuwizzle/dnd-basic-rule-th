@@ -98,7 +98,7 @@ name: พาลาดิน (Paladin)
 
 ### สัมผัสศักดิ์สิทธิ์ (Divine Sense) {#DivineSense}
 
-คุณรับรู้ถึงสิ่งชั่วร้ายได้เหมือนกลิ่นเหม็นรุนแรงติดจมูก และความดีนั้นเหมือนเป็นเสียงสวรรค์ในหูคุณ โดยการใช้แอ็คชัน คุณสามารถเปิดประสาทสัมผัสในการตรวจจับสิ่งเหล่านี้ จนจบเทิร์นหน้าของคุณ คุณจะสามารถระบุตำแหน่งของเซเลสเทียล (celestial - สิ่งมีชีวิตจากสวรรค์), ฟีน (fiend - ปีศาจ) หรือันเดด (undead - ผู้ไม่ตาย) ภายในระยะ 60 ฟุตจากตำแหน่งของคุณโดยต้องไม่อยู่หลังที่กำบังเต็ม (total cover) คุณจะรู้จักชนิด (เซเลสเทียล, ฟีน หรืออันเดด) ของสิ่งที่ปรากฏตัวในสัมผัสรับรู้ของคุณ แต่ไม่ทราบถึงตัวตน (เช่น แวมไพร์ท่านเคาท์สตราด์ท ฟอน ซาโรวิช เป็นต้น) ภายในระยะเดียวกัน คุณยังสามารถตรวจจับการมีอยู่ของสถานที่หรือสิ่งของที่ได้รับการบูชาหรือถูกดูหมิ่น เหมือนการใช้คาถา [เขตศักดิ์สิทธิ์ (hallow)](../../ch11-spells/#hallow)
+คุณรับรู้ถึงสิ่งชั่วร้ายได้เหมือนกลิ่นเหม็นรุนแรงติดจมูก และความดีนั้นเหมือนเป็นเสียงสวรรค์ในหูคุณ โดยการใช้แอ็คชัน คุณสามารถเปิดประสาทสัมผัสในการตรวจจับสิ่งเหล่านี้ จนจบเทิร์นหน้าของคุณ คุณจะสามารถระบุตำแหน่งของเซเลสเทียล (celestial - สิ่งมีชีวิตจากสวรรค์), ฟีน (fiend - ปีศาจ) หรือันเดด (undead - ผู้ไม่ตาย) ภายในระยะ 60 ฟุตจากตำแหน่งของคุณโดยต้องไม่อยู่หลังที่กำบังเต็ม (total cover) คุณจะรู้จักชนิด (เซเลสเทียล, ฟีน หรืออันเดด) ของสิ่งที่ปรากฏตัวในสัมผัสรับรู้ของคุณ แต่ไม่ทราบถึงตัวตน (เช่น แวมไพร์ท่านเคาท์สตราด์ท ฟอน ซาโรวิช เป็นต้น) ภายในระยะเดียวกัน คุณยังสามารถตรวจจับการมีอยู่ของสถานที่หรือสิ่งของที่ได้รับการบูชาหรือถูกดูหมิ่น เหมือนการใช้คาถา [เขตศักดิ์สิทธิ์ (hallow)](/basic-rules/ch11-spells/#hallow)
 
 คุณสามารถใช้ความสามารถนี้เป็นจำนวนครั้งเท่ากับ 1 + ค่าโมดิไฟเออร์เสน่ห์ (Charisma) เมื่อคุณจบการพักยาว คุณจะได้รับจำนวนครั้งที่ใช้ไปคืนมา
 
@@ -202,7 +202,7 @@ name: พาลาดิน (Paladin)
 
 ### ออร่าแห่งความกล้าหาญ (Aura of Courage)
 
-เริ่มที่เลเวล 10 คุณและเพื่อนในระยะ 10 ฟุตของคุณจะไม่ติดสถานะ[หวาดกลัว (frightened)]() ในขณะที่คุณยังมีสติอยู่
+เริ่มที่เลเวล 10 คุณและเพื่อนในระยะ 10 ฟุตของคุณจะไม่ติดสถานะ[หวาดกลัว (frightened)](/basic-rules/appendice-a-condition/#frightened) ในขณะที่คุณยังมีสติอยู่
 
 ที่เลเวล 18 ระยะของออร่านี้จะเพิ่มเป็น 30 ฟุต
 
@@ -260,37 +260,37 @@ name: พาลาดิน (Paladin)
 | 13th         | [freedom of movement](/basic-rules/ch11-spells/#freedom-of-movement), [guardian of faith](/basic-rules/ch11-spells/#guardian-of-faith)     |
 | 17th         | [commune](/basic-rules/ch11-spells/#commune), [flame strike](/basic-rules/ch11-spells/#flame-strike)                                       |
 
-#### Channel Divinity
+#### ผสานพลังศักดิ์สิทธิ์ (Channel Divinity)
 
-When you take this oath at 3rd level, you gain the following two Channel Divinity options.
+เมื่อคุณเลือกปฏิญาณนี้ที่เลเวล 3 คุณจะได้รับตัวเลือกการผสานพลังศักดิ์สิทธิ์ 2 แบบ
 
-**Sacred Weapon.** As an action, you can imbue one weapon that you are holding with positive energy, using your Channel Divinity. For 1 minute, you add your Charisma modifier to attack rolls made with that weapon (with a minimum bonus of +1). The weapon also emits bright light in a 20-foot radius and dim light 20 feet beyond that. If the weapon is not already magical, it becomes magical for the duration.
+**อาวุธศักดิ์สิทธิ์ (Sacred Weapon)** โดยใช้แอ็คชัน คุณสามารถผสานพลังบวกเข้ากับอาวุธที่คุณถืออยู่ โดยใช้การผสานพลังศักดิ์สิทธิ์ เป็นเวลา 1 นาที คุณจะสามารถเพิ่มค่าโมดิไฟเออร์คะแนนเสน่ห์เข้าไปในการทอยโจมตีของอาวุธิที่คุณเลือกผสาน (ค่าโบนัสน้อยที่สุด 1) อาวุธยังจะเปล่งแสงสว่างเป็นระยะรัศมี 20 ฟุตและแสงสลัวอีก 20 ฟุต ถ้าอาวุธนั้นไม่ได้เป็นอาวุธเวทย์มนต์อยู่แล้ว มันจะกลายเป็นอาวุธเวทย์มนต์เป็นระยะเวลาหนึ่ง
 
-You can end this effect on your turn as part of any other action. If you are no longer holding or carrying this weapon, or if you fall [unconscious](), this effect ends.
+คุณสามารถจบผลพิเศษนี้ในเทิร์นของคุณโดยให้เป็นส่วนหนึ่งของแอ็คชันอื่น ถ้าคุณไม่ได้ถือหรือพกพาอาวุธนี้แล้วหรือคุณ[หมดสติ (unconscious)](/basic-rules/appendice-a-condition/#unconscious) ผลพิเศษนี้จะหายไป
 
-**Turn the Unholy.** As an action, you present your holy symbol and speak a prayer censuring fiends and undead, using your Channel Divinity. Each fiend or undead that can see or hear you within 30 feet of you must make a Wisdom saving throw. If the creature fails its saving throw, it is turned for 1 minute or until it takes damage.
+**ขับไล่ความชั่วร้าย (Turned Unholy)** โดยใช้แอ็คชัน คุณจะแสดงสัญลักษณ์ศักดิ์สิทธิ์ของคุณและสวดขับไล่ปีศาจและอันเดดโดยใช้การผสานพลังศักดิ์สิทธิ์ ปีศาจและอันเดดแต่ละตัวที่สามารถมองเห็นหรือได้ยินคุณในระยะ 30 ฟุตจากคุณจะต้องทอยป้องกันด้านเสน่ห์ (Wisdom) ถ้าทอยไม่ผ่าน มันจะถูก "เทิร์น (turned)" หรือผละหนีจากคุณเป็นเวลา 1 นาทีหรือจนกว่าจะได้รับความเสียหาย
 
-A turned creature must spend its turns trying to move as far away from you as it can, and it can’t willingly move to a space within 30 feet of you. It also can’t take reactions. For its action, it can use only the [Dash] action or try to escape from an effect that prevents it from moving. If there’s nowhere to move, the creature can use the [Dodge] action.
+สิ่งมีชีวิตที่ถูก "เทิร์น (turned)" จะต้องใช้เทิร์นของมันในการพยายามเคลื่อนที่ออกห่างคุณให้ไกลที่สุดเท่าที่จะทำได้ และมันจะไม่สามารถเคลื่อนที่เข้าใกล้คุณได้ในระยะ 30 ฟุต มันยังไม่สามารถใช้รีแอ็คชันอีกด้วย ในช่วงแอ็คชันของมัน มันจะสามารถทำได้เพียงการ[พุ่งตัว (Dash)](/basic-rules/ch09-combat/#dash) หรือพยายามหนีจากผลพิเศษที่ทำให้มันเคลื่อนที่ไม่ได้เท่านั้น ถ้ามันไม่มีทางไปไหนได้ สิ่งมีชีวิตจะสามารถใช้แอ็คชัน[หลบหลีก (Dodge)](/basic-rules/ch09-combat/#dodge) ได้
 
-#### Aura of Devotion
+#### ออร่าแห่งการอุทิศตน (Aura of Devotion)
 
-Starting at 7th level, you and friendly creatures within 10 feet of you can’t be charmed while you are conscious.
+เริ่มที่เลเวล 7 คุณและสิ่งมีชีวิตที่เป็นมิตรในระยะ 10 ฟุตจากคุณจะไม่ติดสถานะหลงใหล (charmed) ในขณะที่คุณมีสติอยู่
 
-At 18th level, the range of this aura increases to 30 feet.
+ที่เลเวล 18 ระยะของออร่าจะเพิ่มเป็น 30 ฟุต
 
-#### Purity of Spirit
+#### วิญญาณบริสุทธิ์ (Purity of Spirit)
 
-Beginning at 15th level, you are always under the effects of a [protection from evil and good]() spell.
+เริ่มที่เลเวล 15 คุณจะอยู่ภายใต้ผลพิเศษของคาถา [ปกป้องจากความชั่วร้ายและความดี (protection from evil and good)](/basic-rules/ch11-spells/#protection-from-evil-and-good) ตลอดเวลา
 
-#### Holy Nimbus
+#### วงแหวนรัศมีศักดิ์สิทธิ์ (Holy Nimbus)
 
-At 20th level, as an action, you can emanate an aura of sunlight. For 1 minute, bright light shines from you in a 30-foot radius, and dim light shines 30 feet beyond that.
+ที่เลเวล 20 โดยใช้แอ็คชัน คุณสามารถก่อกำเนิดออร่าของแสงอาทิตย์ เป็นเวลา 1 นาที แสงสว่างจ้า (bright light) จะส่องออกมาจากตัวคุณเป็นระยะ 30 ฟุตรอบตัว และเป็นแสงสลัวอีก 30 ฟุตต่อจากนั้น
 
-Whenever an enemy creature starts its turn in the bright light, the creature takes 10 radiant damage.
+เมื่อใดก็ตามที่ศัตรูเริ่มเทิร์นของมันในเขตแสงสว่างจ้า มันจะได้รับความเสียหายแบบแสงรัศมี 10 หน่วย
 
-In addition, for the duration, you have advantage on saving throws against spells cast by fiends or undead.
+นอกจากนี้ ในเวลาช่วงนั้น คุณจะได้ทอยแบบได้เปรียบในการทอยป้องกันคาถาที่ร่ายจากเพื่อนของคุณหรืออันเดด
 
-Once you use this feature, you can’t use it again until you finish a long rest.
+เมื่อคุณใช้ความสามารถนี้ไปแล้ว คุณจะไม่สามารถใช้ได้อีกจนกว่าจะจบการพักยาว
 
 ### Oath of the Ancients
 

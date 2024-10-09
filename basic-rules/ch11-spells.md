@@ -3842,15 +3842,17 @@ Physical interaction with the image reveals it to be an illusion, because things
 **ระยะเวลาคงคาถา:** เพ่งสมาธิ, นานสุด 1 ชั่วโมง
 For the duration, the willing creature you touch has resistance to one damage type of your choice: acid, cold, fire, lightning, or thunder.
 
-### Protection from Evil and Good {#protection-from-evil-and-good}
+### ปกป้องจากความชั่วร้ายและความดี (Protection from Evil and Good) {#protection-from-evil-and-good}
 
-1st-level abjuration
-**เวลาในการร่ายคาถา:** 1 แอ็คชัน
-**ระยะ:** สัมผัสถึง
-**วิธีการร่ายและวัตถุคาถา:** V, S, M (holy water or powdered silver and iron, which the spell consumes)
-**ระยะเวลาคงคาถา:** เพ่งสมาธิ มากที่สุด 10 นาที
-Until the spell ends, one willing creature you touch is protected against certain types of creatures: aberrations, celestials, elementals, fey, fiends, and undead.
-The protection grants several benefits. Creatures of those types have disadvantage on attack rolls against the target. The target also can’t be charmed, frightened, or possessed by them. If the target is already charmed, frightened, or possessed by such a creature, the target has advantage on any new saving throw against the relevant effect.
+1st-level abjuration  
+**เวลาในการร่ายคาถา:** 1 แอ็คชัน  
+**ระยะ:** สัมผัสถึง  
+**วิธีการร่ายและวัตถุคาถา:** V, S, M (น้ำมนต์หรือผงเงินผสมเหล็ก โดยใช้เป็นเครื่องสังเวยเวทย์)  
+**ระยะเวลาคงคาถา:** เพ่งสมาธิ มากที่สุด 10 นาที  
+
+จนกว่าคาถาจะหมดเวลา สิ่งมีชีวิตที่ยินยอม 1 คนที่คุณสัมผัสจะได้รับการปกป้องจากชนิดของสิ่งมีชีวิตที่กำหนด: อะเบอเรชัน (aberrations), ฑูตสวรรค์ (celestials), เหล่าวิญญาณธาตุ (elementals), เฟย์ (fey), ปีศาจ (fiends) และอันเดด (undead)
+
+การป้องกันนี้ให้ผลประโยชน์จำนวนหนึ่ง สิ่งมีชีวิตเหล่านั้นจะต้องทอยโจมตีแบบเสียเปรียบเมื่อโจมตีเป้าหมาย เป้าหมายจะไม่ติดสถานะหลงใหล หวาดกลัว หรือถูกสิ่งโดยพวกมัน ถ้าเป้าหมายติดสถานะหลงใหล, หวาดกลัว, หรือถูกสิงอยู่แล้ว เป้าหมายจะได้ทอยป้องกันแบบได้เปรียบเพื่อให้หลุดผลจากการครอบงำ
 
 ### Protection from Poison {#protection-from-poison}
 

@@ -2,7 +2,6 @@
 --- 
 * {
     font-family: "Sarabun", sans-serif;
-    color: rgb(34,34,34);
 }
 
 body {
@@ -96,8 +95,12 @@ body {
   }
   
 @media (prefers-color-scheme: light) {
+    * {
+        // color: white;
+    }
     :root {
         /* Update CSS variables */
+        
     }
 
     body {
