@@ -96,14 +96,16 @@ body {
   
 @media (prefers-color-scheme: light) {
     * {
-        // color: white;
+        color: black;
     }
-    :root {
-        /* Update CSS variables */
-        
-    }
-
+    
     body {
         background-image: url(/assets/background_texture.png);
+    }
+}
+
+@media (prefers-color-scheme: dark) {
+    * {
+        color: white;
     }
 }
