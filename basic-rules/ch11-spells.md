@@ -4632,16 +4632,19 @@ Transmutation cantrip
 
 หากคุณร่ายคาถานี้หลายครั้ง คุณจะกำหนดให้เอฟเฟกต์ 1 นาทีทำงานได้สูงสุด 3 อย่างในเวลาเดียวกัน และคุณสามารถยกเลิกเอฟเฟกต์ดังกล่าวได้โดยใช้แอ็กชัน
 
-### Thunderwave {#thunderwave}
+### คลื่นฟ้าร้อง (Thunderwave) {#thunderwave}
 
-1st-level evocation
-**เวลาในการร่ายคาถา:** 1 แอ็คชัน
-**ระยะ:** Self (15-foot cube)
-**วิธีการร่ายและวัตถุคาถา:** V, S
-**ระยะเวลาคงคาถา:** โดยทันที
-A wave of thunderous force sweeps out from you. Each creature in a 15-foot cube originating from you must make a Constitution saving throw. On a failed save, a creature takes 2d8 thunder damage and is pushed 10 ฟุต away from you. On a successful save, the creature takes half as much damage and isn’t pushed.
-In addition, unsecured objects that are completely within the area of effect are automatically pushed 10 ฟุต away from you by the spell’s effect, and the spell emits a thunderous boom audible out to 300 ฟุต.
-At Higher Levels. When you cast this spell using a spell slot of 2nd level or higher, the damage increases by 1d8 for each slot level above 1st.
+1st-level evocation  
+**เวลาในการร่ายคาถา:** 1 แอ็คชัน  
+**ระยะ:** ตัวเอง (ทรงลูกบาศก์ 15 ฟุต)  
+**วิธีการร่ายและวัตถุคาถา:** V, S  
+**ระยะเวลาคงคาถา:** โดยทันที  
+
+คลื่นพลังสายฟ้าแผ่กระจายออกจากตัวคุณ สิ่งมีชีวิตทุกตัวในระยะทรงลูกบาศก์ 15 ฟุต โดยมีศูนย์กลางจากตัวคุณต้องทอยป้องกันความอดทน (Constitution) หากทอยไม่ผ่าน สิ่งมีชีวิตนั้นจะได้รับความเสียหายจากสายฟ้า (thunder damage) 2d8 และจะถูกผลักออกห่างจากคุณไป 10 ฟุต หากทอยผ่านจะเสียหายครึ่งหนึ่งแต่ไม่ถูกผลักออกไป
+
+นอกจากนั้น วัตถุที่ไม่ได้ถูกยึดกับพื้นหรือผนังที่อยู่ในระยะคาถาจะถูกผลักกระเด็นจากคุณไป 10 ฟุต และคาถาจะทำให้เกิดเสียงดังออกไป 300 ฟุต
+
+ที่เลเวลสูงขึ้น เมื่อคุณร่ายคาถานี้โดยใช้สล็อตคาถาเลเวล 2 หรือสูงกว่า ความเสียหายจะเพิ่มขึ้น 1d8 ต่อเลเวลสล็อตที่สูงขึ้นกว่าเลเวล 1
 
 ### Time Stop {#time-stop}
 

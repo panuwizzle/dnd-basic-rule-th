@@ -6,58 +6,59 @@ title: ภาคผนวก A - สภาวะ (Condition)
 
 # ภาคผนวก A: สภาวะ (Condition)
 
-Conditions alter a creature's capabilities in a variety of ways and can arise as a result of a spell, a class feature, a monster's attack, or other effect. Most conditions, such as blinded, are impairments, but a few, such as invisible, can be advantageous.
+สภาวะเป็นตัวปรับเปลี่ยนความสามารถของสิ่งมีชีวิตในหลายทาง และสามารถเกิดขึ้นได้จากผลของคาถา ความสามารถจากคลาส การโจมตีของมอนสเตอร์ หรือจากผลพิเศษอื่น ๆ สภาวะส่วนใหญ่ เช่นอาการตาบอด เป็นความบกพร่อง แต่ก็มีบ้างเช่นการล่องหนที่ทำให้เกิดความได้เปรียบ
 
-A condition lasts either until it is countered (the prone condition is countered by standing up, for example) or for a duration specified by the effect that imposed the condition.
+สภาวะจะอยู่นานจนมันถูกถอนสภาพ (สภาวะล้มนอน (prone) จะถูกถอนสภาพโดยการยืนขึ้น เป็นต้น) หรือจะคงอยู่เป็นระยะเวลาหนึ่งตามที่ระบุไว้ในผลพิเศษที่ทำให้เกิดสภาวะนั้น ๆ
 
-If multiple effects impose the same condition on a creature, each instance of the condition has its own duration, but the condition's effects don't get worse. A creature either has a condition or doesn't.
+ถ้ามีผลพิเศษหลายอย่างทำให้สิ่งมีชีวิตเกิดสภาวะเดียวกัน แต่ละสภาวะจะคงอยู่ตามเวลาของแต่ละผลพิเศษที่ทำให้เกิดขึ้น แต่ผลจาภสภาวะจะไม่เลวร้ายลงไปมากกว่านั้น สิ่งมีชีวิตจะมีแค่ติดสภาวะหรือไม่ติดเท่านั้น
 
-The following definitions specify what happens to a creature while it is subjected to a condition.
+คำจำกัดความด้านล่างนี้แสดงถึงสิ่งที่จะเกิดขึ้นกับสิ่งมีชีวิตเมื่อตกอยู่ภายใต้สภาวะต่าง ๆ
 
-## Blinded {#blinded}
+## มืดบอด (Blinded) {#blinded}
 
-- A blinded creature can't see and automatically fails any ability check that requires sight.
-- Attack rolls against the creature have advantage, and the creature's attack rolls have disadvantage.
+- สิ่งมีชีวิตที่อยู่ในสภาวะมืดบอดจะมองไม่เห็น และจะทอยทดสอบความสามารถที่ต้องใช้การมองเห็นไม่ผ่านโดยอัตโนมัติ
+- การทอยโจมตีสิ่งมีชีวิตนั้นจะเป็นแบบได้เปรียบ และการทอยโจมตีโดยสิ่งมีชีวิตนั้นจะเสียเปรียบเสมอ
 
-## Charmed {#charmed}
+## หลงใหล (Charmed) {#charmed}
 
-- A charmed creature can't attack the charmer or target the charmer with harmful abilities or magical effects.
-- The charmer has advantage on any ability check to interact socially with the creature.
+- สิ่งมีชีวิตที่ตกอยู่ในสภาวะหลงใหลจะไม่สามารถโจมตี หรือใช้ความสามารถ หรือใช้ผลจากเวทย์มนต์ที่เป็นอันตรายต่อคนที่ทำให้หลงใหลได้
+- ผู้ที่ทำให้หลงใหลจะได้ทอยทดสอบความสามารถด้านปฏิสัมพันธ์ทางสังคมแบบได้เปรียบต่อสิ่งมีชีวิตที่ถูกทำให้ติดสภาวะหลงใหล
 
-## Deafened {#deafened}
+## หูหนวก (Deafened) {#deafened}
 
-- A deafened creature can't hear and automatically fails any ability check that requires hearing.
+- สิ่งมีชีวิตที่หูหนวกจะไม่ได้ยิน และจะล้มเหลวโดยอัตโนมัติเมื่อต้องทอยทดสอบความสามารถที่ต้องใช้การฟัง
 
-## Exhaustion {#exhaustion}
+## เหนื่อยล้า (Exhaustion) {#exhaustion}
 
-Some special abilities and environmental hazards, such as starvation and the long-term effects of freezing or scorching temperatures, can lead to a special condition called exhaustion. Exhaustion is measured in six levels. An effect can give a creature one or more levels of exhaustion, as specified in the effect's description.
+ความสามารถพิเศษและสิ่งแวดล้อมบางอย่าง เช่น การอดอาหารและการอยู่ในสภาพอากาศหนาวเย็นหรือร้อนจัดเป็นเวลานาน สามารถทำให้เกิดสภาวะพิเศษที่เรียกว่าความเหนื่อยล้า ซึ่งสามารถแบ่งได้เป็น 6 ระดับ ผลกระทบต่าง ๆ จะทำให้สิ่งมีชีวิตได้รับความเหนื่อยล้าหนึ่งระดับหรือมากกว่า โดยมีคำอธิบายผลกระทบด้านล่างนี้
 
-| Level | Effect                                         |
-| ----- | ---------------------------------------------- |
-| 1     | Disadvantage on ability checks                 |
-| 2     | Speed halved                                   |
-| 3     | Disadvantage on attack rolls and saving throws |
-| 4     | Hit point maximum halved                       |
-| 5     | Speed reduced to 0                             |
-| 6     | Death                                          |
+| ระดับความเหนื่อยล้า | ผลกระทบ                                |
+| ------------------- | -------------------------------------- |
+| 1                   | ต้องทอยทดสอบความสามารถแบบเสียเปรียบ    |
+| 2                   | ความเร็วลดลงครึ่งหนึ่ง                 |
+| 3                   | ต้องทอยโจมตีและทอยป้องกันแบบเสียเปรียบ |
+| 4                   | ค่าฮิตพอยต์สูงสุดลดลงครึ่งหนึ่ง        |
+| 5                   | ความเร็วลดลงเป็น 0                     |
+| 6                   | ตาย                                    |
 
-If an already exhausted creature suffers another effect that causes exhaustion, its current level of exhaustion increases by the amount specified in the effect's description.
+ถ้าสิ่งมีชีวิตที่เหนื่อยล้าอยู่แล้ว ได้รับผลที่ทำให้เกิดความเหนื่อยล้าเพิ่มขึ้นอีก ระดับความเหนื่อยล้าจะเพิ่มขึ้นตามจำนวนที่ระบุในตาราง
 
-A creature suffers the effect of its current level of exhaustion as well as all lower levels. For example, a creature suffering level 2 exhaustion has its speed halved and has disadvantage on ability checks.
+สิ่งมีชีวิตจะได้รับผลกระทบจากความเหนื่อยล้าในระดับที่เป็นอยู่รวมถึงผลจากระดับที่ต่ำกว่าด้วย ตัวอย่างเช่น สิ่งมีชีวิตเหนื่อยล้าอยู่ระดับ 2 จะทำให้ความเร็วลดลงครึ่งหนึ่งและต้องทอยทดสอบความสามารถแบบเสียเปรียบด้วย
 
-An effect that removes exhaustion reduces its level as specified in the effect's description, with all exhaustion effects ending if a creature's exhaustion level is reduced below 1.
-Finishing a long rest reduces a creature's exhaustion level by 1, provided that the creature has also ingested some food and drink. Also, being raised from the dead reduces a creature’s exhaustion level by 1.
+ผลกระทบที่ลดระดับความเหนื่อยล้า จะลดผลจากความเหนื่อยล้าลงตามตาราง ผลกระทบจากความเหนื่อยล้าจะหายไปทั้งหมดเมื่อระดับความเหนื่อยล้าลดลงต่ำกว่า 1
 
-## Frightened {#frightened}
+การพักยาวจะลดระดับความเหนื่อยล้าลง 1 ระดับ โดยต้องได้รับน้ำและอาหารด้วย นอกจากนี้การฟื้นคืนชีพจากความตายจะลดความเหนื่อยล้าลง 1 ระดับ
 
-- A frightened creature has disadvantage on ability checks and attack rolls while the source of its fear is within line of sight.
-- The creature can't willingly move closer to the source of its fear.
+## หวาดกลัว (Frightened) {#frightened}
 
-## Grappled {#grappled}
+- สิ่งมีชีวิตที่หวาดกลัวจะต้องทอยทดสอบความสามารถและทอยโจมตีแบบเสียเปรียบ ในขณะที่แหล่งกำเนิดความกลัวอยู่ในระยะที่มองเห็น
+- สิ่งมีชีวิตจะไม่สามารถเคลื่อนที่อย่างจงใจเข้าใกล้แหล่งกำเนิดความกลัวได้
 
-- A grappled creature's speed becomes 0, and it can't benefit from any bonus to its speed.
-- The condition ends if the grappler is [incapacitated](./#incapacitated) (see the condition).
-- The condition also ends if an effect removes the grappled creature from the reach of the grappler or grappling effect, such as when a creature is hurled away by the thunderwave spell.
+## ถูกจับยึด (Grappled) {#grappled}
+
+- สิ่งมีชีวิตที่ถูกจับยึดจะมีความเร็วเป็น 0 และจะไม่ได้รับผลประโยชน์จากโบนัสที่เกี่ยวกับการเคลื่อนที่ใด ๆ
+- สภาวะจะจบลงหากผู้จับยึดติดสภาวะ[ไร้ความสามารถ (incapacitated)](./#incapacitated)
+- สภาวะจะจบลงหากมีผลกระทบมาทำให้สิ่งมีชีวิตที่ถูกจับยึดหลุดจากระยะเอื้อมถึงของผู้จับยึดหรือสภาวะถูกจับยึด เช่น เมื่อสิ่งมีชีวิตถูกโยนออกไปโดย[คาถาคลื่นฟ้ารอง (thunderwave)](../ch11-spells/#thunderwave)
 
 ## ไร้ความสามารถ (Incapacitated) {#incapacitated}
 
@@ -74,24 +75,24 @@ Finishing a long rest reduces a creature's exhaustion level by 1, provided that 
 - สิ่งมีชีวิตนั้นจะล้มเหลวในการทอยป้องกันด้านความแข็งแกร่ง (Strength) และความคล่องแคล่ว (Dexterity) การทอยโจมตีต่อสิ่งมีชีวิตนั้นจะเป็นการทอยแบบได้เปรียบ
 - การโจมตีใดที่โดนสิ่งมีชีวิตนั้นจะเป็นคริติคัลถ้าผู้โจมตีอยู่ในระยะ 5 ฟุต
 
-## Petrified {#petrified}
+## กลายเป็นหิน (Petrified) {#petrified}
 
-- A petrified creature is transformed, along with any nonmagical object it is wearing or carrying, into a solid inanimate substance (usually stone). Its weight increases by a factor of ten, and it ceases aging.
-- The creature is incapacitated (see the condition), can't move or speak, and is unaware of its surroundings.
-- Attack rolls against the creature have advantage.
-- The creature automatically fails Strength and Dexterity saving throws.
-- The creature has resistance to all damage.
-- The creature is immune to poison and disease, although a poison or disease already in its system is suspended, not neutralized.
+- สิ่งมีชีวิตรวมถึงวัตถุที่สวมใส่หรือถือไว้ที่ไม่มีสถานะเวทย์มนต์จะถูกเปลี่ยนให้เป็นสะสารแข็ง (มักจะเป็นหิน) เคลื่อนไหวไม่ได้ น้ำหนักจะเพิ่มขึ้นเป็น 10 เท่าและไม่แก่ลง
+- สิ่งมีชีวิตจะ[ไร้ความสามารถ (incapacitated)](./#incapacitated) ไม่สามารถเคลื่อนที่หรือพูดคุยและจะไม่รับรู้ถึงสิ่งรอบตัว
+- การทอยโจมตีสิ่งมีชีวิตนั้นจะเป็นแบบได้เปรียบเสมอ
+- สิ่งมีชีวิตจะล้มเหลวในการทอยป้องกันความแข็งแกร่ง (Strength) และความคล่องแคล่ว (Dexterity) โดยอัตโนมัติ
+- สิ่งมีชีวิตจะมีความต้านทาน (resistance) ความเสียหายทุกชนิด
+- สิ่งมีชีวิตจะมีภูมิต้านทาน (immune) การติดพิษและการติดโรค พิษหรือโรคที่อยู่ในร่างกายอยู่แล้วจะหยุดทำงาน แต่ไม่ได้หมดสภาพ
 
 ## ติดพิษ (Poisoned) {#poisoned}
 
 - สิ่งมีชีวิตที่ติดพิษจะต้องทอยโจมตีและทอยทดสอบความสามารถแบบเสียเปรียบ
 
-## Prone {#prone}
+## การล้มนอน (Prone) {#prone}
 
-- A prone creature's only movement option is to crawl, unless it stands up and thereby ends the condition.
-- The creature has disadvantage on attack rolls.
-- An attack roll against the creature has advantage if the attacker is within 5 feet of the creature. Otherwise, the attack roll has disadvantage.
+- ตัวเลือกเดียวในการเคลื่อนที่ของสิ่งมีชีวิตที่ล้มนอนคือการคลาน นอกจากจะยืนขึ้นมาได้และจบสถานะ
+- สิ่งมีชีวิตจะทอยโจมตีแบบเสียเปรียบ
+- การทอยโจมตีต่อสิ่งมีชีวิตนั้นจะเป็นแบบได้เปรียบ ถ้าผู้โจมตีอยู่ในระยะ 5 ฟุตของสิ่งมีชีวิต มิเช่นนั้นการทอยโจมตีจะเป็นแบบเสียเปรียบ
 
 ## การถูกรัดตรึง (Restrained) {#restrained}
 
@@ -99,16 +100,16 @@ Finishing a long rest reduces a creature's exhaustion level by 1, provided that 
 - การทอยโจมตีสิ่งมีชีวิตนั้นจะได้ทอยแบบได้เปรียบ และการทอยโจมตีจากสิ่งมีชีวิตนั้นจะเป็นการทอยแบบเสียเปรียบเสมอ
 - สิ่งมีชีวิตนั้นจะต้องทอยแบบเสียเปรียบในการทอยป้องกันความคล่องแคล่ว (Dexterity saving throw)
 
-## Stunned {#stunned}
+## มึนงง (Stunned) {#stunned}
 
-- A stunned creature is incapacitated (see the condition), can't move, and can speak only falteringly.
-- The creature automatically fails Strength and Dexterity saving throws.
-- Attack rolls against the creature have advantage.
+- สิ่งมีชีวิตที่ถูกทำให้มึนงงจะ[ไร้ความสามารถ (incapacitated)](./#incapacitated) ไม่สามารถเคลื่อนไหวได้ และพูดได้แบบติด ๆ ขัด ๆ เท่านั้น
+- สิ่งมีชีวิตจะล้มเหลวในการทอยป้องกันความแข็งแกร่ง (Strength) และความคล่องแคล่ว (Dexterity) โดยอัตโนมัติ
+- ทอยการโจมตีต่อสิ่งมีชีวิตนั้นจะได้เปรียบ
 
-## Unconscious {#unconscious}
+## สลบ (Unconscious) {#unconscious}
 
-- An unconscious creature is incapacitated, can't move or speak, and is unaware of its surroundings.
-- The creature drops whatever it's holding and falls prone.
-- The creature automatically fails Strength and Dexterity saving throws.
-- Attack rolls against the creature have advantage.
-- Any attack that hits the creature is a critical hit if the attacker is within 5 feet of the creature.
+- สิ่งมีชีวิตที่สลบจะไร้ความสามารถ ไม่สามารถเคลื่อนไหวหรือพูดได้ และจะไม่รับรู้ต่อสิ่งรอบตัว
+- สิ่งมีชีวิตจะทิ้งทุกสิ่งที่ถือไว้และล้มนอน (prone)
+- สิ่งมีชีวิตจะล้มเหลวในการทอยป้องกันความแข็งแกร่ง (Strength) และความคล่องแคล่ว (Dexterity) โดยอัตโนมัติ
+- ทอยการโจมตีต่อสิ่งมีชีวิตนั้นจะได้เปรียบ
+- การโจมตีใด ๆ จะเป็นคริติคัลหากผู้โจมตีอยู่ในระยะ 5 ฟุตของสิ่งมีชีวิตนั้น
