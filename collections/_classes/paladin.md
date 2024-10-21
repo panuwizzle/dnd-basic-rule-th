@@ -252,13 +252,13 @@ name: พาลาดิน (Paladin)
 
 **คาถาของปฏิญาณแห่งการอุทิศตน**
 
-| เลเวลพาลาดิน | คาถา                                                                                                                                       |
-| ------------ | ------------------------------------------------------------------------------------------------------------------------------------------ |
+| เลเวลพาลาดิน | คาถา                                                                                                                                                                            |
+| ------------ | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | 3rd          | [การป้องกันจากความชั่วร้ายและความดี (protection from evil and good)](/basic-rules/ch11-spells/#protection-from-evil-and-good), [sanctuary](/basic-rules/ch11-spells/#sanctuary) |
-| 5th          | [lesser restoration](/basic-rules/ch11-spells/#lesser-restoration), [zone of truth](/basic-rules/ch11-spells/#zone-of-truth)               |
-| 9th          | [beacon of hope](/basic-rules/ch11-spells/#beacon-of-hope), [dispel magic](/basic-rules/ch11-spells/#dispel-magic)                         |
-| 13th         | [freedom of movement](/basic-rules/ch11-spells/#freedom-of-movement), [guardian of faith](/basic-rules/ch11-spells/#guardian-of-faith)     |
-| 17th         | [commune](/basic-rules/ch11-spells/#commune), [flame strike](/basic-rules/ch11-spells/#flame-strike)                                       |
+| 5th          | [lesser restoration](/basic-rules/ch11-spells/#lesser-restoration), [zone of truth](/basic-rules/ch11-spells/#zone-of-truth)                                                    |
+| 9th          | [beacon of hope](/basic-rules/ch11-spells/#beacon-of-hope), [dispel magic](/basic-rules/ch11-spells/#dispel-magic)                                                              |
+| 13th         | [freedom of movement](/basic-rules/ch11-spells/#freedom-of-movement), [guardian of faith](/basic-rules/ch11-spells/#guardian-of-faith)                                          |
+| 17th         | [commune](/basic-rules/ch11-spells/#commune), [flame strike](/basic-rules/ch11-spells/#flame-strike)                                                                            |
 
 #### ผสานพลังศักดิ์สิทธิ์ (Channel Divinity)
 
@@ -326,13 +326,13 @@ name: พาลาดิน (Paladin)
 
 **คาถาประจำปฏิญาณแห่งบรรพกาล (Oath of the Ancients Spells)**
 
-| เลเวลพาลาดิน | คาถา                                                                                                                                                     |
-| ------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| 3rd           | [ensnaring strike](/basic-rules/ch11-spells/#ensnaring-strike), [speak with animals](/basic-rules/ch11-spells/#speak-with-animals) |
-| 5th           | [misty step](/basic-rules/ch11-spells/#misty-step), [moonbeam](/basic-rules/ch11-spells/#moonbeam)                                 |
-| 9th           | [plant growth](/basic-rules/ch11-spells/#plant-growth), [protection from energy](/basic-rules/ch11-spells/#protection-from-energy) |
-| 13th          | [ice storm](/basic-rules/ch11-spells/#ice-storm), [stoneskin](/basic-rules/ch11-spells/#stoneskin)                                 |
-| 17th          | [commune with nature](/basic-rules/ch11-spells/#commune-with-nature), [tree stride](/basic-rules/ch11-spells/#tree-stride)         |
+| เลเวลพาลาดิน | คาถา                                                                                                                               |
+| ------------ | ---------------------------------------------------------------------------------------------------------------------------------- |
+| 3rd          | [ensnaring strike](/basic-rules/ch11-spells/#ensnaring-strike), [speak with animals](/basic-rules/ch11-spells/#speak-with-animals) |
+| 5th          | [misty step](/basic-rules/ch11-spells/#misty-step), [moonbeam](/basic-rules/ch11-spells/#moonbeam)                                 |
+| 9th          | [plant growth](/basic-rules/ch11-spells/#plant-growth), [protection from energy](/basic-rules/ch11-spells/#protection-from-energy) |
+| 13th         | [ice storm](/basic-rules/ch11-spells/#ice-storm), [stoneskin](/basic-rules/ch11-spells/#stoneskin)                                 |
+| 17th         | [commune with nature](/basic-rules/ch11-spells/#commune-with-nature), [tree stride](/basic-rules/ch11-spells/#tree-stride)         |
 
 #### ออร่าแห่งอาณาเขต (Aura of Warding)
 
@@ -358,105 +358,105 @@ name: พาลาดิน (Paladin)
 
 เมื่อคุณใช้ความสามารถนี้ไปแล้ว จะไม่สามารถใช้ได้อีกจนกว่าจะจบการพักยาว
 
-### Oath of Vengeance
+### ปฏิญาณแห่งความพยาบาท (Oath of Vengeance)
 
-The Oath of Vengeance is a solemn commitment to punish those who have committed a grievous sin. When evil forces slaughter helpless villagers, when an entire people turns against the will of the gods, when a thieves’ guild grows too violent and powerful, when a dragon rampages through the countryside — at times like these, paladins arise and swear an Oath of Vengeance to set right that which has gone wrong. To these paladins — sometimes called avengers or dark knights — their own purity is not as important as delivering justice.
+ปฏิญาณแห่งความพยาบาทเป็นคำสาบานที่จะลงโทษผู้ที่ทำบาปหนัก เมื่ออำนาจชั่วร้ายฆ่าผู้บริสุทธิ์ล้างหมู่บ้าน เมื่อกลุ่มคนต่อต้านเทพเจ้า เมื่อซุ้มโจรเริ่มใช้ความรุนแรงและมีอำนาจมากขึ้น เมื่อมังกรอาละวาดไปทั่วพื้นที่ ช่วงเวลาดังกล่าวนี้ พาลาดินจะลุกขึ้นและสาบานต่อปฏิยาณแห่งความพยาบาทเพื่อทำสิ่งที่ผิดให้ถูกต้อง สำหรับพาลาดินเหล่านี้ บางครั้งเรียกว่าผู้ล้างแค้นหรืออัศวินดำ ความบริสุทธิ์ของตนเองไม่สำคัญเท่าการมอบความยุติธรรม
 
-> TENETS OF VENGEANCE
+> คำสอนแห่งความพยาบาท (TENETS OF VENGEANCE)
 >
-> The tenets of the Oath of Vengeance vary by paladin, but all the tenets revolve around punishing wrongdoers by any means necessary. Paladins who uphold these tenets are willing to sacrifice even their own righteousness to mete out justice upon those who do evil, so the paladins are often neutral or lawful neutral in alignment. The core principles of the tenets are brutally simple.
+> คำสอนของปฏิญาณแห่งความพยาบาทนั้นแตกต่างไปในพาลาดินแต่ละคน แต่ทั้งหมดล้วนมีอยู่เพื่อลงโทษผู้กระทำผิดโดยวิธีการใด ๆ ที่เหมาะสม พาลาดินผู้รับเอาคำสอนนี้จะเสียสละความดีงามของตนเพื่อทำให้ความยุติธรรมบังเกิด ดังนั้นพาลาดินจึงมักมีแนวคิดแบบเป็นกลางหรือเคร่งระเบียบและเป็นกลาง (lawful neutral) หลักการของคำสอนนี้ง่ายมาก
 >
-> **Fight the Greater Evil.** Faced with a choice of fighting my sworn foes or combating a lesser evil, I choose the greater evil.
+> **สู้กับความชั่วร้ายที่ใหญ่กว่า** เมื่อต้องเลือกจะต่อสู้กับศัตรูหรือกับพวกลูกน้องชั่วร้าย ข้าเลือกตัวชั่วร้ายที่ใหญ่กว่า
 >
-> **No Mercy for the Wicked.** Ordinary foes might win my mercy, but my sworn enemies do not.
+> **ไร้ปราณีกับพวกเลวทราม** ศัตรูทั่วไปอาจจะได้รับความปราณีได้ แต่คู่อาฆาตนั้นไร้ข้อยกเว้น
 >
-> **By Any Means Necessary.** My qualms can’t get in the way of exterminating my foes.
+> **ด้วยวิธีการใด ๆ ที่จำเป็น** ไม่มีความลังเลใจใด ๆ จะมาขวางการทำลายล้างศัตรูของข้า
 >
-> **Restitution.** If my foes wreak ruin on the world, it is because I failed to stop them. I must help those harmed by their misdeeds.
+> **การล้างบาป** หากศัตรูของข้าทำลายโลก นั่นเป็นเพราะข้าล้มเหลวที่จะหยุดยั้งพวกมัน ข้าต้องช่วยเหลือผู้คนที่ได้รับผลกระทบจากการทำชั่วของพวกมัน
 
-#### Channel Divinity
+#### การผสานพลังศักดิ์สิทธิ์ (Channel Divinity)
 
-When you take this oath at 3rd level, you gain the following two Channel Divinity options.
+เมื่อคุณถึงเลเวล 3 คุณจะได้รับตัวเลือกการผสานพลังศักดิ์สิทธิ์ 2 แบบ
 
-**Abjure Enemy.** As an action, you present your holy symbol and speak a prayer of denunciation, using your Channel Divinity. Choose one creature within 60 feet of you that you can see. That creature must make a Wisdom saving throw, unless it is immune to being [frightened]. Fiends and undead have disadvantage on this saving throw.
+**ขับไล่ศัตรู (Abjure Enemy)** โดยการใช้แอ็คชัน คุณจะแสดงสัญลักษณ์ศักดิ์สิทธิ์ของคุณและสวดประณามศัตรูโดยการใช้การผสานพลังศักดิ์สิทธิ์ เลือกสิ่งมีชีวิต 1 ตัวในระยะ 60 ฟุตที่คุณสามารถมองเห็นได้ สิ่งมีชีวิตนั้นจะต้องทอยป้องกันด้านความรอบรู้ (Wisdom) ยกเว้นแต่มันจะมีภูมิคุ้มกัน[ความหวาดกลัว (frightened)](/basic-rules/appendice-a-condition/#frightened) พวกปีศาจ (fiends) และอันเดดจะทอยแบบเสียเปรียบในการทอยป้องกัน
 
-On a failed save, the creature is [frightened] for 1 minute or until it takes any damage. While [frightened], the creature’s speed is 0, and it can’t benefit from any bonus to its speed.
+หากทอยไม่ผ่าน สิ่งมีชีวิตจะ[หวาดกลัว (frightened)](/basic-rules/appendice-a-condition/#frightened) เป็นเวลา 1 นาที หรือจนกระทั้งมันได้รับความเสียหาย ในขณะที่[หวาดกลัว (frightened)](/basic-rules/appendice-a-condition/#frightened) ความเร็วของสิ่งมีชีวิตจะเป็น 0 และจะไม่ได้รับผลประโยชน์ใด ๆ ที่เกี่ยวกับการเคลื่อนที่
 
-On a successful save, the creature’s speed is halved for 1 minute or until the creature takes any damage.
+หากทอยผ่าน ความเร็วของสิ่งมีชีวิตจะลดลงครึ่งหนึ่งเป็นเวลา 1 นาทีหรือจนกว่าสิ่งมีชีวิตนั้นจะได้รับความเสียหาย
 
-**Vow of Enmity.** As a bonus action, you can utter a vow of enmity against a creature you can see within 10 feet of you, using your Channel Divinity. You gain advantage on attack rolls against the creature for 1 minute or until it drops to 0 hit points or falls [unconscious].
+**คำปฏิญาณแห่งความเป็นศัตรู (Vow of Emity)** ด้วยโบนัสแอ็คชัน คุณสามารถประกาศการเป็นศัตรูคู่อาฆาตต่อสิ่งมีชีวิตที่คุณเห็นภายในระยะ 10 ฟุตจากคุณได้โดยใช้การผสานพลังศักดิ์สิทธิ์ คุณจะได้ทอยโจมตีแบบได้เปรียบต่อศัตรูนั้นเป็นเวลา 1 นาทีหรือจนกว่ามันจะได้รับความเสียหายจนฮิตพอยต์เป็น 0 หรือ[หมดสติ (unconscious)](/basic-rules/appendice-a-condition/#unconscious)
 
-#### Oath Spells
+#### คาถาประจำปฏิญาณ (Oath Spells)
 
-You gain oath spells at the paladin levels listed.
+คุณจะได้รับคาถาประจำปฏิญาณตามเลเวลพาลาดินที่กำหนด
 
-**Oath of Vengeance Spells**
+**คาถาประจำปฏิญาณแห่งความพยาบาท (Oath of Vengeance Spells)**
 
-| Paladin Level | Spells |
-| ------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| 3rd | [bane](https://www.dndbeyond.com/spells/2009-bane), [hunter’s mark](https://www.dndbeyond.com/spells/2149-hunters-mark) |
-| 5th | [hold person](https://www.dndbeyond.com/spells/2147-hold-person), [misty step](https://www.dndbeyond.com/spells/2195-misty-step) |
-| 9th | [haste](https://www.dndbeyond.com/spells/2138-haste), [protection from energy](https://www.dndbeyond.com/spells/2220-protection-from-energy) |
-| 13th | [banishment](https://www.dndbeyond.com/spells/2010-banishment), [dimension door](https://www.dndbeyond.com/spells/2068-dimension-door) |
-| 17th | [hold monster](https://www.dndbeyond.com/spells/2146-hold-monster), [scrying](https://www.dndbeyond.com/spells/2239-scrying) |
+| เลเวลพาลาดิน | คาถา                                                                                                                 |
+| ------------ | -------------------------------------------------------------------------------------------------------------------- |
+| 3rd          | [bane](/basic-rules/ch11-spells/#bane), [hunter’s mark](/basic-rules/ch11-spells/#hunters-mark)                      |
+| 5th          | [hold person](/basic-rules/ch11-spells/#hold-person), [misty step](/basic-rules/ch11-spells/#misty-step)             |
+| 9th          | [haste](/basic-rules/ch11-spells/#haste), [protection from energy](/basic-rules/ch11-spells/#protection-from-energy) |
+| 13th         | [banishment](/basic-rules/ch11-spells/#banishment), [dimension door](/basic-rules/ch11-spells/#dimension-door)       |
+| 17th         | [hold monster](/basic-rules/ch11-spells/#hold-monster), [scrying](/basic-rules/ch11-spells/#scrying)                 |
 
-#### Relentless Avenger
+#### ผู้ล้างแค้นที่ไม่ลดละ (Relentless Avenger)
 
-By 7th level, your supernatural focus helps you close off a foe’s retreat. When you hit a creature with an opportunity attack, you can move up to half your speed immediately after the attack and as part of the same reaction. This movement doesn’t provoke opportunity attacks.
+เมื่อถึงเลเวล 7 สมาธิที่เหนือธรรมชาติของคุณช่วยให้คุณดักทางศัตรูที่กำลังจะหนีได้ เมื่อคุณโจมตีสิ่งมีชีวิตด้วยการโจมตีโดยสบโอกาส (opportunity attack: OA ก็เรียก) คุณสามารถเคลื่อนที่ได้ครึ่งหนึ่งจากความเร็วของคุณทั้งหมดหลักจากการโจมตีโดยจะเป็นส่วนหนึ่งของรีแอ็คชัน โดยการเคลื่อนไหวนี้จะไม่ก่อให้เกิดการโจมตีแบบสบโอกาส
 
-#### Soul of Vengeance
+#### วิญญาณแห่งความพยาบาท (Soul of Vengeance)
 
-Starting at 15th level, the authority with which you speak your Vow of Enmity gives you greater power over your foe. When a creature under the effect of your Vow of Enmity makes an attack, you can use your reaction to make a melee weapon attack against that creature if it is within range.
+ที่เลเวล 15 อำนาจที่คุณใช้กล่าวปฏิญาณความเป็นศัตรูจะมีพลังเหนือศัตรูมากยิ่งขึ้น เมื่อศัตรูที่ตกอยู่ภายใต้ผลจากคำปฏิญาณแห่งความเป็นศัตรู (Vow of Emity) ทำการโจมตี คุณสามารถใช้รีแอ็คชันในการโจมตีระยะประชิดตัวตอบโต้ศัตรูนั้นได้หากอยู่ในระยะ
 
-#### Avenging Angel
+#### ฑูตสวรรค์แห่งการล้างแค้น (Avenging Angel)
 
-At 20th level, you can assume the form of an angelic avenger. Using your action, you undergo a transformation. For 1 hour, you gain the following benefits:
+ที่เลเวล 20 คุณสามารถใช้ร่างของฑูตสวรรค์แห่งการล้างแค้นได้ โดยใช้แอ็คชัน คุณจะสามารถแปลงร่างได้ คุณจะได้รับผลพิเศษดังนี้เป็นเวลา 1 ชม.
 
-- Wings sprout from your back and grant you a flying speed of 60 feet.
-- You emanate an aura of menace in a 30-foot radius. The first time any enemy creature enters the aura or starts its turn there during a battle, the creature must succeed on a Wisdom saving throw or become frightened of you for 1 minute or until it takes any damage. Attack rolls against the frightened creature have advantage.
+- คุณจะมีปีกงอกจากแผ่นหลังและทำให้คุณบินได้ ความเร็ว 60 ฟุต
+- คุณจะแผ่ออร่าแห่งการคุกคามเป็นระยะ 30 ฟุต ครั้งแรกที่ศัตรูเข้ามาในระยะออร่า หรือเริ่มเทิร์นในระหว่างการต่อสู้ สิ่งมีชีวิตจะต้องทอยป้องกันด้านความรอบรู้ (Wisdom) ให้ผ่านหรือติดสถานะ[หวาดกลัว (frightened)](/basic-rules/appendice-a-condition/#frightened) คุณเป็นเวลา 1 นาหรือจนกว่าจะได้รับความเสียหาย การทอยโจมตีต่อสิ่งมีชีวิตที่หวาดกลัวจะเป็นแบบได้เปรียบ
 
-Once you use this feature, you can’t use it again until you finish a long rest.
+เมื่อใช้ความสามารถนี้ คุณจะไม่สามารถใช้ได้อีกจนกว่าจะจบการพักยาว
 
-### Oathbreaker
+### ผู้ผิดคำสาบาน (Oathbreaker)
 
-An Oathbreaker is a paladin who breaks his or her sacred oaths to pursue some dark ambition or serve an evil power. Whatever light burned in the paladin’s heart has been extinguished. Only darkness remains.
+ผู้ผิดคำสาบานคือพาลาดินผู้ทำลายปฏิญาณศักดิ์สิทธิ์ของเขาหรือเธอเพื่อไล่ตามความทะเยอทะยานอันดำมืดหรือรับใช้พลังอันชั่วร้าย แสงสว่างที่เคยลุกโชนในใจกลับดับมอดลงเหลือไว้แต่ความมืดอนธการ
 
-A paladin must be evil and at least 3rd level to become an Oathbreaker. The paladin replaces the features specific to his or her Sacred Oath with Oathbreaker features.
+พาลาดินต้องมีแนวคิดชั่วร้ายและมีเลเวลอย่างน้อย 3 เพื่อจะเป็นผู้ผิดคำสาบาน พาลาดินต้องแทนที่ความสามารถเฉพาะจากปฏิญาณศักดิ์สิทธิ์ด้วยความสามารถของผู้ผิดคำสาบาน
 
-#### Oathbreaker Spells
+#### คาถาของผู้ผิดคำสาบาน (Oathbreaker Spells)
 
-An Oathbreaker paladin loses previously gained oath spells and instead gains the following Oathbreaker spells at the paladin levels listed.
+พาลาดินผู้ผิดคำสาบานจะสูญเสียคาถาประจำปฏิญาณและได้รับคาถาเหล่านี้แทนตามเลเวลที่กำหนด
 
-| Paladin Level | Spells                                                                                                                                         |
-| ------------- | ---------------------------------------------------------------------------------------------------------------------------------------------- |
-| 3rd           | [hellish rebuke](https://www.dndbeyond.com/spells/2142-hellish-rebuke), [inflict wounds](https://www.dndbeyond.com/spells/2156-inflict-wounds) |
-| 5th           | [crown of madness](https://www.dndbeyond.com/spells/2329-crown-of-madness), [darkness](https://www.dndbeyond.com/spells/2058-darkness)         |
-| 9th           | [animate dead](https://www.dndbeyond.com/spells/1996-animate-dead), [bestow curse](https://www.dndbeyond.com/spells/2013-bestow-curse)         |
-| 13th          | [blight](https://www.dndbeyond.com/spells/2017-blight), [confusion](https://www.dndbeyond.com/spells/2038-confusion)                           |
-| 17th          | [contagion](https://www.dndbeyond.com/spells/2046-contagion), [dominate person](https://www.dndbeyond.com/spells/2078-dominate-person)         |
+| เลเวลพาลาดิน | คาถา                                                                                                                   |
+| ------------ | ---------------------------------------------------------------------------------------------------------------------- |
+| 3rd          | [hellish rebuke](/basic-rules/ch11-spells/#hellish-rebuke), [inflict wounds](/basic-rules/ch11-spells/#inflict-wounds) |
+| 5th          | [crown of madness](/basic-rules/ch11-spells/#crown-of-madness), [darkness](/basic-rules/ch11-spells/#darkness)         |
+| 9th          | [animate dead](/basic-rules/ch11-spells/#animate-dead), [bestow curse](/basic-rules/ch11-spells/#bestow-curse)         |
+| 13th         | [blight](/basic-rules/ch11-spells/#blight), [confusion](/basic-rules/ch11-spells/#confusion)                           |
+| 17th         | [contagion](/basic-rules/ch11-spells/#contagion), [dominate person](/basic-rules/ch11-spells/#dominate-person)         |
 
-#### Channel Divinity
+#### การผสานพลังศักดิ์สิทธิ์ (Channel Divinity)
 
-An Oathbreaker paladin of 3rd level or higher gains the following two Channel Divinity options.
+พาลาดินผู้ผิดคำสาบานที่เลเวล 3 มีตัวเลือกการผสานพลังศักดิ์สิทธิ์ 2 แบบ
 
-**Control Undead.** As an action, the paladin targets one undead creature he or she can see within 30 feet of him or her. The target must make a Wisdom saving throw. On a failed save, the target must obey the paladin’s commands for the next 24 hours, or until the paladin uses this Channel Divinity option again. An undead whose challenge rating is equal to or greater than the paladin’s level is immune to this effect.
+**ควบคุมอันเดด (Control Undead)** โดยการใช้แอ็คชัน พาลาดินจะเลือกเป้าหมายที่เป็นอันเดดที่สามารถมองเห็นได้ในระยะ 30 ฟุต เป้าหมายจะต้องทอยป้องกันด้านความรอบรู้ (Wisdom) ถ้าทอยไม่ผ่าน เป้าหมายจะต้องเชื่อฟังคำสั่งของพาลาดินเป็นเวลา 24 ชม. หรือจนพาลาดินใช้ความสามารถนี้อีกครั้ง อันเดดที่มีระดับความท้าทาย (challenge rating) เท่ากับหรือมากกว่าเลเวลของพาลาดินจะมีภูมิคุ้มกันผลพิเศษนี้
 
-**Dreadful Aspect.** As an action, the paladin channels the darkest emotions and focuses them into a burst of magical menace. Each creature of the paladin’s choice within 30 feet of the paladin must make a Wisdom saving throw if it can see the paladin. On a failed save, the target is frightened of the paladin for 1 minute. If a creature frightened by this effect ends its turn more than 30 feet away from the paladin, it can attempt another Wisdom saving throw to end the effect on it.
+**ภาพลักณ์แห่งการคุกคาม (Dreadful Aspect)** โดยใช้แอ็คชัน พาลาดินจะส่งถ่ายพลังอารมณ์ดำมืดและพุ่งสมาธิระเบิดออกมาเป็นพลังคุกคาม สิ่งมีชีวิตที่พาลาดินเลือกในระยะ 30 ฟุตจากตัวพาลาดินต้องทอยป้องกันด้านความรอบรู้ (Wisdom) หากมันสามารถมองเห็นตัวพาลาดินได้ หาทอยไม่ผ่าน เป้าหมายจะหวาดกลัวเป็นเวลา 1 นาที หากสิ่งมีชีวิตที่หวาดกลัวจากผลพิเศษนี้จบเทิร์นที่ระยะห่างจากตัวพาลาดินมากกว่า 30 ฟุต มันสามารถทอยป้องกันได้อีกครั้งเพื่อให้พ้นจากผลพิเศษนี้
 
-#### Aura of Hate
+#### ออร่าแห่งความเกลียดชัง (Aura of Hate)
 
-Starting at 7th level, the paladin, as well any fiends and undead within 10 feet of the paladin, gains a bonus to melee weapon damage rolls equal to the paladin’s Charisma modifier (minimum of +1). A creature can benefit from this feature from only one paladin at a time.
+เริ่มที่เลเวล 7 พาลาดินและเพื่อนและอันเดดในระยะ 10 ฟุตจากพาลาดินจะได้รับโบนัสความเสียหายในการโจมตีด้วยอาวุธระยะประชิด เท่ากับค่าโมดิไฟเออร์เสน่ห์ (Charisma) ของพาลาดิน (โบนัสน้อยที่สุด +1) สิ่งมีชีวิตจะได้รับผลพิเศษนี้จากพาลาดินคนเดียวในช่วงเวลาเดียวกัน
 
-At 18th level, the range of this aura increases to 30 feet.
+ที่เลเวล 18 ระยะของออร่านี้จะเพิ่มเป็น 30 ฟุต
 
-#### Supernatural Resistance
+#### ความต้านทานเหนือมนุษย์ (Supernatural Resistance)
 
-At 15th level, the paladin gains resistance to bludgeoning, piercing, and slashing damage from nonmagical weapons.
+ที่เลเวล 15 พาลาดินจะได้รับความต้านทานความเสียหายแบบกระแทก (buldgeoning) แบบแทง (piercing) และแบบเฉือน (slashing) จากอาวุธที่ไม่ใช่อาวุธเวทย์มนต์
 
-#### Dread Lord
+#### เจ้าแห่งความน่าสะพรึงกลัว (Dread Lord)
 
-At 20th level, the paladin can, as an action, surround himself or herself with an aura of gloom that lasts for 1 minute. The aura reduces any bright light in a 30-foot radius around the paladin to dim light. Whenever an enemy that is frightened by the paladin starts its turn in the aura, it takes 4d10 psychic damage. Additionally, the paladin and creatures he or she chooses in the aura are draped in deeper shadow. Creatures that rely on sight have disadvantage on attack rolls against creatures draped in this shadow.
+ที่เลเวล 20 พาลาดินสามาใช้แอ็คชันในการสร้างออร่าแห่งความืดมน คงอยู่เป็นเวลา 1 นาที ออร่านี้จะลดแสงจากแสงปกติ (bright light) ในระยะ 30 ฟุตรอบตัวพาลาดินให้เป็นแสงสลัว (dim light) เมื่อไรก็ตามที่ศัตรูที่หวาดกลัวพาลาดินเริ่มเทิร์นในพื้นที่ออร่านี้ จะได้รับความเสียหายด้านพลังจิต 4d10 ยิ่งกว่านั้น พาลาดินและสิ่งมีชีวิตที่เลือกที่อยู่ในบริเวณออร่าจะถูกปกคลุมด้วยเงา สิ่งมีชีวิตที่ต้องพึ่งพาการมองเห็นจะต้องทอยแบบเสียเปรียบในการทอยโจมตีสิ่งมีชีวิตที่ถูกปกคลุมด้วยเงานี้
 
-While the aura lasts, the paladin can use a bonus action on his or her turn to cause the shadows in the aura to attack one creature. The paladin makes a melee spell attack against the target. If the attack hits, the target takes necrotic damage equal to 3d10 + the paladin’s Charisma modifier.
+ในขณะที่ออร่ายังคงอยู่ พาลาดินจะสามารถใช้โบนัสแอ็คชันในเทิร์นของตัวเองในการบังคับให้เงาไปโจมตีสิ่งมีชีวิตตัวหนึ่ง พาลาดินจะใช้การโจมตีเป้าหมายแบบประชิดตัวด้วยคาถา ถ้าโจมตีโดน เป้าหมายจะได้รับความเสียหายแบบเน่าสลาย (necrotic damage) เท่ากับ 3d10 + ค่าโมดิไฟเออร์เสน่ห์ (Wisdom) ของพาลาดิน
 
-After activating the aura, the paladin can’t do so again until he or she finishes a long rest.
+หลังจากเปิดใช้ออร่านี้ พาลาดินจะไม่สามารถใช้ได้อีกจนกว่าจะจบการพักยาว

@@ -1114,9 +1114,13 @@ The target’s gear melds into the new form. The target can’t activate, wield,
 **ระยะ:** 10 ฟุต  
 **วิธีการร่ายและวัตถุคาถา:** V, S, M (a drop of blood, a piece of flesh, and a pinch of bone dust)  
 **ระยะเวลาคงคาถา:** โดยทันที  
+
 This spell creates an undead servant. Choose a pile of bones or a corpse of a Medium or Small humanoid within range. Your spell imbues the target with a foul mimicry of life, raising it as an undead creature. The target becomes a skeleton if you chose bones or a zombie if you chose a corpse (the DM has the creature’s game statistics).
+
 On each of your turns, you can use a bonus action to mentally command any creature you made with this spell if the creature is within 60 ฟุต of you (if you control multiple creatures, you can command any or all of them at the same time, issuing the same command to each one). You decide what action the creature will take and where it will move during its next turn, or you can issue a general command, such as to guard a particular chamber or corridor. If you issue no commands, the creature only defends itself against hostile creatures. Once given an order, the creature continues to follow it until its task is complete.
+
 The creature is under your control for 24 ชั่วโมง, after which it stops obeying any command you’ve given it. To maintain control of the creature for another 24 ชั่วโมง, you must cast this spell on the creature again before the current 24-hour period ends. This use of the spell reasserts your control over up to four creatures you have animated with this spell, rather than animating a new one.
+
 At Higher Levels. When you cast this spell using a spell slot of 4th level or higher, you animate or reassert control over two additional undead creatures for each slot level above 3rd. Each of the creatures must come from a different corpse or pile of bones.
 
 ### Animate Objects {#animate-objects}
@@ -1260,24 +1264,30 @@ The awakened beast or plant is charmed by you for 30 days or until you or your c
 
 ### Bane {#bane}
 
-1st-level enchantment
-**เวลาในการร่ายคาถา:** 1 แอ็คชัน
-**ระยะ:** 30 ฟุต
-**วิธีการร่ายและวัตถุคาถา:** V, S, M (a drop of blood)
+1st-level enchantment  
+**เวลาในการร่ายคาถา:** 1 แอ็คชัน  
+**ระยะ:** 30 ฟุต  
+**วิธีการร่ายและวัตถุคาถา:** V, S, M (a drop of blood)  
 **ระยะเวลาคงคาถา:** เพ่งสมาธิ, up to 1 นาที
+
 Up to three creatures of your choice that you can see within range must make Charisma saving throws. Whenever a target that fails this saving throw makes an attack roll or a saving throw before the spell ends, the target must roll a d4 and subtract the number rolled from the attack roll or saving throw.
+
 At Higher Levels. When you cast this spell using a spell slot of 2nd level or higher, you can target one additional creature for each slot level above 1st.
 
 ### Banishment {#banishment}
 
-4th-level abjuration
-**เวลาในการร่ายคาถา:** 1 แอ็คชัน
-**ระยะ:** 60 ฟุต
-**วิธีการร่ายและวัตถุคาถา:** V, S, M (an item distasteful to the target)
+4th-level abjuration  
+**เวลาในการร่ายคาถา:** 1 แอ็คชัน  
+**ระยะ:** 60 ฟุต  
+**วิธีการร่ายและวัตถุคาถา:** V, S, M (an item distasteful to the target)  
 **ระยะเวลาคงคาถา:** เพ่งสมาธิ, up to 1 นาที
+
 You attempt to send one creature that you can see within range to another plane of existence. The target must succeed on a Charisma saving throw or be banished.
+
 If the target is native to the plane of existence you’re on, you banish the target to a harmless demiplane. While there, the target is incapacitated. The target remains there until the spell ends, at which point the target reappears in the space it left or in the nearest unoccupied space if that space is occupied.
+
 If the target is native to a different plane of existence than the one you’re on, the target is banished with a faint popping noise, returning to its home plane. If the spell ends before 1 นาที has passed, the target reappears in the space it left or in the nearest unoccupied space if that space is occupied. Otherwise, the target doesn’t return.
+
 At Higher Levels. When you cast this spell using a spell slot of 5th level or higher, you can target one additional creature for each slot level above 4th.
 
 ### Barkskin {#barkskin}
@@ -1291,20 +1301,22 @@ You touch a willing creature. Until the spell ends, the target’s skin has a ro
 
 ### Beacon of Hope {#beacon-of-hope}
 
-3rd-level abjuration
-**เวลาในการร่ายคาถา:** 1 แอ็คชัน
-**ระยะ:** 30 ฟุต
-**วิธีการร่ายและวัตถุคาถา:** V, S
+3rd-level abjuration  
+**เวลาในการร่ายคาถา:** 1 แอ็คชัน  
+**ระยะ:** 30 ฟุต  
+**วิธีการร่ายและวัตถุคาถา:** V, S  
 **ระยะเวลาคงคาถา:** เพ่งสมาธิ, up to 1 นาที
+
 This spell bestows hope and vitality. Choose any number of creatures within range. For the duration, each target has advantage on Wisdom saving throws and death saving throws, and regains the maximum number of hit points possible from any healing.
 
 ### Bestow Curse {#bestow-curse}
 
-3rd-level necromancy
-**เวลาในการร่ายคาถา:** 1 แอ็คชัน
-**ระยะ:** สัมผัสถึง
-**วิธีการร่ายและวัตถุคาถา:** V, S
+3rd-level necromancy  
+**เวลาในการร่ายคาถา:** 1 แอ็คชัน  
+**ระยะ:** สัมผัสถึง  
+**วิธีการร่ายและวัตถุคาถา:** V, S  
 **ระยะเวลาคงคาถา:** เพ่งสมาธิ, up to 1 นาที
+
 You touch a creature, and that creature must succeed on a Wisdom saving throw or become cursed for the duration of the spell. When you cast this spell, choose the nature of the curse from the following options:
 
 - Choose one ability score. While cursed, the target has disadvantage on ability checks and saving throws made with that ability score.
@@ -1313,6 +1325,7 @@ You touch a creature, and that creature must succeed on a Wisdom saving throw or
 - While the target is cursed, your attacks and spells deal an extra 1d8 necrotic damage to the target.
 
 A remove curse spell ends this effect. At the DM’s option, you may choose an alternative curse effect, but it should be no more powerful than those described above. The DM has final say on such a curse’s effect.
+
 At Higher Levels. If you cast this spell using a spell slot of 4th level or higher, the duration is เพ่งสมาธิ, มากที่สุด 10 นาที. If you use a spell slot of 5th level or higher, the duration is 8 ชั่วโมง. If you use a spell slot of 7th level or higher, the duration is 24 ชั่วโมง. If you use a 9th level spell slot, the spell lasts until it is dispelled. Using a spell slot of 5th level or higher grants a duration that doesn’t require เพ่งสมาธิ.
 
 ### Blade Barrier {#blade-barrier}
@@ -1337,14 +1350,18 @@ At Higher Levels. When you cast this spell using a spell slot of 2nd level or hi
 
 ### Blight {#blight}
 
-4th-level necromancy
-**เวลาในการร่ายคาถา:** 1 แอ็คชัน
-**ระยะ:** 30 ฟุต
-**วิธีการร่ายและวัตถุคาถา:** V, S
+4th-level necromancy  
+**เวลาในการร่ายคาถา:** 1 แอ็คชัน  
+**ระยะ:** 30 ฟุต  
+**วิธีการร่ายและวัตถุคาถา:** V, S  
 **ระยะเวลาคงคาถา:** โดยทันที
+
 Necromantic energy washes over a creature of your choice that you can see within range, draining moisture and vitality from it. The target must make a Constitution saving throw. The target takes 8d8 necrotic damage on a failed save, or half as much damage on a successful one. This spell has no effect on undead or constructs.
+
 If you target a plant creature or a magical plant, it makes the saving throw with disadvantage, and the spell deals maximum damage to it.
+
 If you target a nonmagical plant that isn’t a creature, such as a tree or shrub, it doesn’t make a saving throw; it simply withers and dies.
+
 At Higher Levels. When you cast this spell using a spell slot of 5th level or higher, the damage increases by 1d8 for each slot level above 4th.
 
 ### Blindness/Deafness {#blindness/deafness}
@@ -1537,23 +1554,28 @@ At Higher Levels. When you cast this spell using a spell slot of 2nd level or hi
 
 ### Commune {#commune}
 
-5th-level divination (พิธีกรรม)
-**เวลาในการร่ายคาถา:** 1 นาที
-**ระยะ:** Self
-**วิธีการร่ายและวัตถุคาถา:** V, S, M (incense and a vial of holy or unholy water)
+5th-level divination (พิธีกรรม)  
+**เวลาในการร่ายคาถา:** 1 นาที  
+**ระยะ:** Self  
+**วิธีการร่ายและวัตถุคาถา:** V, S, M (incense and a vial of holy or unholy water)  
 **ระยะเวลาคงคาถา:** 1 นาที
+
 You contact your deity or a divine proxy and ask up to three questions that can be answered with a yes or no. You must ask your questions before the spell ends. You receive a correct answer for each question.
+
 Divine beings aren’t necessarily omniscient, so you might receive “unclear” as an answer if a question pertains to information that lies beyond the deity’s knowledge. In a case where a one-word answer could be misleading or contrary to the deity’s interests, the DM might offer a short phrase as an answer instead.
+
 If you cast the spell two or more times before finishing your next long rest, there is a cumulative 25 percent chance for each casting after the first that you get no answer. The DM makes this roll in secret.
 
 ### Commune with Nature {#commune-with-nature}
 
-5th-level divination (พิธีกรรม)
-**เวลาในการร่ายคาถา:** 1 นาที
-**ระยะ:** Self
-**วิธีการร่ายและวัตถุคาถา:** V, S
+5th-level divination (พิธีกรรม)  
+**เวลาในการร่ายคาถา:** 1 นาที  
+**ระยะ:** Self  
+**วิธีการร่ายและวัตถุคาถา:** V, S  
 **ระยะเวลาคงคาถา:** โดยทันที
+
 You briefly become one with nature and gain knowledge of the surrounding territory. In the outdoors, the spell gives you knowledge of the land within 3 miles of you. In caves and other natural underground settings, the radius is limited to 300 ฟุต. The spell doesn’t function where nature has been replaced by construction, such as in dungeons and towns.
+
 You instantly gain knowledge of up to three facts of your choice about any of the following subjects as they relate to the area:
 
 - terrain and bodies of water
@@ -1597,41 +1619,25 @@ At Higher Levels. When you cast this spell using a spell slot of 6th level or hi
 
 ### Confusion {#confusion}
 
-4th-level enchantment
-**เวลาในการร่ายคาถา:** 1 แอ็คชัน
-**ระยะ:** 90 ฟุต
-**วิธีการร่ายและวัตถุคาถา:** V, S, M (three nut shells)
+4th-level enchantment  
+**เวลาในการร่ายคาถา:** 1 แอ็คชัน  
+**ระยะ:** 90 ฟุต  
+**วิธีการร่ายและวัตถุคาถา:** V, S, M (three nut shells)  
 **ระยะเวลาคงคาถา:** เพ่งสมาธิ, up to 1 นาที
+
 This spell assaults and twists creatures’ minds, spawning delusions and provoking uncontrolled action. Each creature in a 10-foot-radius sphere centered on a point you choose within range must succeed on a Wisdom saving throw when you cast this spell or be affected by it.
+
 An affected target can’t take reactions and must roll a d10 at the start of each of its turns to determine its behavior for that turn.
 
-<div class="table-overflow-wrapper"><table class="compendium-left-aligned-table" data-content-chunk-id="c8f5fa4b-97b6-4cda-a2ba-1e0eeeb3a94d">
-<thead>
-<tr>
-<th>d10</th>
-<th>Behavior</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td>1</td>
-<td>The creature uses all its movement to move in a random direction. To determine the direction, roll a d8 and assign a direction to each die face. The creature doesn’t take an action this turn.</td>
-</tr>
-<tr>
-<td>2–6</td>
-<td>The creature doesn’t move or take actions this turn.</td>
-</tr>
-<tr>
-<td>7–8</td>
-<td>The creature uses its action to make a melee attack against a randomly determined creature within its reach. If there is no creature within its reach, the creature does nothing this turn.</td>
-</tr>
-<tr>
-<td>9–10</td>
-<td>The creature can act and move normally.</td>
-</tr>
-</tbody>
-</table></div>
+| d10  | Behavior                                                                                                                                                                                        |
+| ---- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| 1    | The creature uses all its movement to move in a random direction. To determine the direction, roll a d8 and assign a direction to each die face. The creature doesn’t take an action this turn. |
+| 2–6  | The creature doesn’t move or take actions this turn.                                                                                                                                            |
+| 7–8  | The creature uses its action to make a melee attack against a randomly determined creature within its reach. If there is no creature within its reach, the creature does nothing this turn.     |
+| 9–10 | The creature can act and move normally.                                                                                                                                                         |
+
 At the end of each of its turns, an affected target can make a Wisdom saving throw. If it succeeds, this effect ends for that target.
+
 At Higher Levels. When you cast this spell using a spell slot of 5th level or higher, the radius of the sphere increases by 5 ฟุต for each slot level above 4th.
 
 ### Conjure Animals {#conjure-animals}
@@ -1741,20 +1747,29 @@ On a successful save, you can ask the entity up to five questions. You must ask 
 
 ### Contagion {#contagion}
 
-5th-level necromancy
-**เวลาในการร่ายคาถา:** 1 แอ็คชัน
-**ระยะ:** สัมผัสถึง
-Component: V, S
-**ระยะเวลาคงคาถา:** 7 days
-Your touch inflicts disease. Make a melee spell attack against a creature within your reach. On a hit, the target is poisoned.
-At the end of each of the poisoned target's turns, the target must make a Constitution saving throw. If the target succeeds on three of these saves, it is no longer poisoned, and the spell ends. If the target fails three of these saves, the target is no longer poisoned, but choose one of the diseases below. The target is subjected to the chosen disease for the spell's duration.
+5th-level necromancy  
+**เวลาในการร่ายคาถา:** 1 แอ็คชัน  
+**ระยะ:** สัมผัสถึง  
+Component: V, S  
+**ระยะเวลาคงคาถา:** 7 days  
+
+Your touch inflicts disease. Make a melee spell attack against a creature within your reach. On a hit, the target is [poisoned].
+
+At the end of each of the [poisoned] target's turns, the target must make a Constitution saving throw. If the target succeeds on three of these saves, it is no longer [poisoned], and the spell ends. If the target fails three of these saves, the target is no longer [poisoned], but choose one of the diseases below. The target is subjected to the chosen disease for the spell's duration.
+
 Since this spell induces a natural disease in its target, any effect that removes a disease or otherwise ameliorates a disease’s effects apply to it.
-Blinding Sickness. Pain grips the creature’s mind, and its eyes turn milky white. The creature has disadvantage on Wisdom checks and Wisdom saving throws and is blinded.
-Filth Fever. A raging fever sweeps through the creature’s body. The creature has disadvantage on Strength checks, Strength saving throws, and attack rolls that use Strength.
-Flesh Rot. The creature’s flesh decays. The creature has disadvantage on Charisma checks and vulnerability to all damage.
-Mindfire. The creature’s mind becomes feverish. The creature has disadvantage on Intelligence checks and Intelligence saving throws, and the creature behaves as if under the effects of the confusion spell during combat.
-Seizure. The creature is overcome with shaking. The creature has disadvantage on Dexterity checks, Dexterity saving throws, and attack rolls that use Dexterity.
-Slimy Doom. The creature begins to bleed uncontrollably. The creature has disadvantage on Constitution checks and Constitution saving throws. In addition, whenever the creature takes damage, it is stunned until the end of its next turn.
+
+**Blinding Sickness.** Pain grips the creature’s mind, and its eyes turn milky white. The creature has disadvantage on Wisdom checks and Wisdom saving throws and is [blinded].
+
+**Filth Fever.** A raging fever sweeps through the creature’s body. The creature has disadvantage on Strength checks, Strength saving throws, and attack rolls that use Strength.
+
+**Flesh Rot.** The creature’s flesh decays. The creature has disadvantage on Charisma checks and vulnerability to all damage.
+
+**Mindfire.** The creature’s mind becomes feverish. The creature has disadvantage on Intelligence checks and Intelligence saving throws, and the creature behaves as if under the effects of the [confusion] spell during combat.
+
+**Seizure.** The creature is overcome with shaking. The creature has disadvantage on Dexterity checks, Dexterity saving throws, and attack rolls that use Dexterity.
+
+**Slimy Doom.** The creature begins to bleed uncontrollably. The creature has disadvantage on Constitution checks and Constitution saving throws. In addition, whenever the creature takes damage, it is [stunned] until the end of its next turn.
 
 ### Contingency {#contingency}
 
@@ -1995,6 +2010,22 @@ The duration depends on the object’s material. If the object is composed of mu
 Using any material created by this spell as another spell’s material component causes that spell to fail.
 At Higher Levels. When you cast this spell using a spell slot of 6th level or higher, the cube increases by 5 ฟุต for each slot level above 5th.
 
+### Crown of Madness {#crown-of-madness}
+
+2nd-level Enchantment  
+**เวลาในการร่ายคาถา:** 1 แอ็คชัน  
+**ระยะ:** 120 ฟุต  
+**วิธีการร่ายและวัตถุคาถา:** V, S  
+**ระยะเวลาคงคาถา:** 1 นาที  
+
+One humanoid of your choice that you can see within range must succeed on a Wisdom saving throw or become [charmed]() by you for the duration.
+
+While the target is [charmed]() in this way, a twisted crown of jagged iron appears on its head, and a madness glows in its eyes.
+
+The [charmed]() target must use its action before moving on each of its turns to make a melee attack against a creature other than itself that you mentally choose. The target can act normally on its turn if you choose no creature or if none are within its reach.
+
+On your subsequent turns, you must use your action to maintain control over the target, or the spell ends. Also, the target can make a Wisdom saving throw at the end of each of its turns. On a success, the spell ends.
+
 ### Cure Wounds {#cure-wounds}
 
 1st-level evocation
@@ -2021,13 +2052,16 @@ Evocation cantrip
 
 ### Darkness {#darkness}
 
-2nd-level evocation
-**เวลาในการร่ายคาถา:** 1 แอ็คชัน
-**ระยะ:** 60 ฟุต
-**วิธีการร่ายและวัตถุคาถา:** V, M (bat fur and a drop of pitch or piece of coal)
+2nd-level evocation  
+**เวลาในการร่ายคาถา:** 1 แอ็คชัน  
+**ระยะ:** 60 ฟุต  
+**วิธีการร่ายและวัตถุคาถา:** V, M (bat fur and a drop of pitch or piece of coal)  
 **ระยะเวลาคงคาถา:** เพ่งสมาธิ, มากที่สุด 10 นาที
+
 Magical darkness spreads from a point you choose within range to fill a 15-foot-radius sphere for the duration. The darkness spreads around corners. A creature with darkvision can’t see through this darkness, and nonmagical light can’t illuminate it.
+
 If the point you choose is on an object you are holding or one that isn’t being worn or carried, the darkness emanates from the object and moves with it. Completely covering the source of the darkness with an opaque object, such as a bowl or a helm, blocks the darkness.
+
 If any of this spell’s area overlaps with an area of light created by a spell of 2nd level or lower, the spell that created the light is dispelled.
 
 ### Darkvision {#darkvision}
@@ -2131,13 +2165,16 @@ Once you detect the presence of a creature in this way, you can read its thought
 
 ### Dimension Door {#dimension-door}
 
-4th-level conjuration
-**เวลาในการร่ายคาถา:** 1 แอ็คชัน
-**ระยะ:** 500 ฟุต
-**วิธีการร่ายและวัตถุคาถา:** V
-**ระยะเวลาคงคาถา:** โดยทันที
+4th-level conjuration  
+**เวลาในการร่ายคาถา:** 1 แอ็คชัน  
+**ระยะ:** 500 ฟุต  
+**วิธีการร่ายและวัตถุคาถา:** V  
+**ระยะเวลาคงคาถา:** โดยทันที  
+
 You teleport yourself from your current location to any other spot within range. You arrive at exactly the spot desired. It can be a place you can see, one you can visualize, or one you can describe by stating distance and direction, such as “200 ฟุต straight downward” or “upward to the northwest at a 45-degree angle, 300 ฟุต.”
+
 You can bring along objects as long as their weight doesn’t exceed what you can carry. You can also bring one willing creature of your size or smaller who is carrying gear up to its carrying capacity. The creature must be within 5 ฟุต of you when you cast this spell.
+
 If you would arrive in a place already occupied by an object or a creature, you and any creature traveling with you each take 4d6 force damage, and the spell fails to teleport you.
 
 ### Disguise Self {#disguise-self}
@@ -2178,12 +2215,14 @@ Dismissal. As your action, make a melee spell attack against a celestial, an ele
 
 ### Dispel Magic {#dispel-magic}
 
-3rd-level abjuration
-**เวลาในการร่ายคาถา:** 1 แอ็คชัน
-**ระยะ:** 120 ฟุต
-**วิธีการร่ายและวัตถุคาถา:** V, S
+3rd-level abjuration  
+**เวลาในการร่ายคาถา:** 1 แอ็คชัน  
+**ระยะ:** 120 ฟุต  
+**วิธีการร่ายและวัตถุคาถา:** V, S  
 **ระยะเวลาคงคาถา:** โดยทันที
+
 Choose one creature, object, or magical effect within range. Any spell of 3rd level or lower on the target ends. For each spell of 4th level or higher on the target, make an ability check using your spellcasting ability. The DC equals 10 + the spell’s level. On a successful check, the spell ends.
+
 At Higher Levels. When you cast this spell using a spell slot of 4th level or higher, you automatically end the effects of a spell on the target if the spell’s level is equal to or less than the level of the spell slot you used.
 
 ### Divination {#divination}
@@ -2250,15 +2289,19 @@ At Higher Levels. When you cast this spell with a 9th-level spell slot, the dura
 
 ### Dominate Person {#dominate-person}
 
-5th-level enchantment
-**เวลาในการร่ายคาถา:** 1 แอ็คชัน
-**ระยะ:** 60 ฟุต
-**วิธีการร่ายและวัตถุคาถา:** V, S
-**ระยะเวลาคงคาถา:** เพ่งสมาธิ, up to 1 นาที
+5th-level enchantment  
+**เวลาในการร่ายคาถา:** 1 แอ็คชัน  
+**ระยะ:** 60 ฟุต  
+**วิธีการร่ายและวัตถุคาถา:** V, S  
+**ระยะเวลาคงคาถา:** เพ่งสมาธิ, up to 1 นาที  
+
 You attempt to beguile a humanoid that you can see within range. It must succeed on a Wisdom saving throw or be charmed by you for the duration. If you or creatures that are friendly to you are fighting it, it has advantage on the saving throw.
 While the target is charmed, you have a telepathic link with it as long as the two of you are on the same plane of existence. You can use this telepathic link to issue commands to the creature while you are conscious (no action required), which it does its best to obey. You can specify a simple and general course of action, such as “Attack that creature,” “Run over there,” or “Fetch that object.” If the creature completes the order and doesn’t receive further direction from you, it defends and preserves itself to the best of its ability.
+
 You can use your action to take total and precise control of the target. Until the end of your next turn, the creature takes only the actions you choose, and doesn’t do anything that you don’t allow it to do. During this time you can also cause the creature to use a reaction, but this requires you to use your own reaction as well.
+
 Each time the target takes damage, it makes a new Wisdom saving throw against the spell. If the saving throw succeeds, the spell ends.
+
 At Higher Levels. When you cast this spell using a 6th-level spell slot, the duration is เพ่งสมาธิ, มากที่สุด 10 นาที. When you use a 7th-level spell slot, the duration is เพ่งสมาธิ, นานสุด 1 ชั่วโมง. When you use a spell slot of 8th level or higher, the duration is เพ่งสมาธิ, up to 8 ชั่วโมง.
 
 ### Dream {#dream}
@@ -2291,89 +2334,134 @@ Whispering to the spirits of nature, you create one of the following effects wit
 
 ### Earthquake {#earthquake}
 
-8th-level evocation
-**เวลาในการร่ายคาถา:** 1 แอ็คชัน
-**ระยะ:** 500 ฟุต
-**วิธีการร่ายและวัตถุคาถา:** V, S, M (a pinch of dirt, a piece of rock, and a lump of clay)
+8th-level evocation  
+**เวลาในการร่ายคาถา:** 1 แอ็คชัน  
+**ระยะ:** 500 ฟุต  
+**วิธีการร่ายและวัตถุคาถา:** V, S, M (a pinch of dirt, a piece of rock, and a lump of clay)  
 **ระยะเวลาคงคาถา:** เพ่งสมาธิ, up to 1 นาที
+
 You create a seismic disturbance at a point on the ground that you can see within range. For the duration, an intense tremor rips through the ground in a 100-foot-radius circle centered on that point and shakes creatures and structures in contact with the ground in that area.
+
 The ground in the area becomes difficult terrain. Each creature on the ground that is concentrating must make a Constitution saving throw. On a failed save, the creature’s เพ่งสมาธิ is broken.
+
 When you cast this spell and at the end of each turn you spend concentrating on it, each creature on the ground in the area must make a Dexterity saving throw. On a failed save, the creature is knocked prone.
+
 This spell can have additional effects depending on the terrain in the area, as determined by the DM.
+
 Fissures. Fissures open throughout the spell’s area at the start of your next turn after you cast the spell. A total of 1d6 such fissures open in locations chosen by the DM. Each is 1d10 × 10 ฟุต deep, 10 ฟุต wide, and extends from one edge of the spell’s area to the opposite side. A creature standing on a spot where a fissure opens must succeed on a Dexterity saving throw or fall in. A creature that successfully saves moves with the fissure’s edge as it opens.
+
 A fissure that opens beneath a structure causes it to automatically collapse (see below).
+
 Structures. The tremor deals 50 bludgeoning damage to any structure in contact with the ground in the area when you cast the spell and at the start of each of your turns until the spell ends. If a structure drops to 0 hit points, it collapses and potentially damages nearby creatures. A creature within half the distance of a structure’s height must make a Dexterity saving throw. On a failed save, the creature takes 5d6 bludgeoning damage, is knocked prone, and is buried in the rubble, requiring a DC 20 Strength (Athletics) check as an action to escape. The DM can adjust the DC higher or lower, depending on the nature of the rubble. On a successful save, the creature takes half as much damage and doesn’t fall prone or become buried.
 
 ### Eldritch Blast {#eldritch-blast}
 
-Evocation cantrip
-**เวลาในการร่ายคาถา:** 1 แอ็คชัน
-**ระยะ:** 120 ฟุต
-**วิธีการร่ายและวัตถุคาถา:** V, S
-**ระยะเวลาคงคาถา:** โดยทันที
+Evocation cantrip  
+**เวลาในการร่ายคาถา:** 1 แอ็คชัน  
+**ระยะ:** 120 ฟุต  
+**วิธีการร่ายและวัตถุคาถา:** V, S  
+**ระยะเวลาคงคาถา:** โดยทันที  
+
 A beam of crackling energy streaks toward a creature within range. Make a ranged spell attack against the target. On a hit, the target takes 1d10 force damage.
+
 The spell creates more than one beam when you reach higher levels: two beams at 5th level, three beams at 11th level, and four beams at 17th level. You can direct the beams at the same target or at different ones. Make a separate attack roll for each beam.
 
 ### Enhance Ability {#enhance-ability}
 
-2nd-level transmutation
-**เวลาในการร่ายคาถา:** 1 แอ็คชัน
-**ระยะ:** สัมผัสถึง
-**วิธีการร่ายและวัตถุคาถา:** V, S, M (fur or a feather from a beast)
+2nd-level transmutation  
+**เวลาในการร่ายคาถา:** 1 แอ็คชัน  
+**ระยะ:** สัมผัสถึง  
+**วิธีการร่ายและวัตถุคาถา:** V, S, M (fur or a feather from a beast)  
 **ระยะเวลาคงคาถา:** เพ่งสมาธิ, นานสุด 1 ชั่วโมง
+
 You touch a creature and bestow upon it a magical enhancement. Choose one of the following effects; the target gains that effect until the spell ends.
+
 Bear’s Endurance. The target has advantage on Constitution checks. It also gains 2d6 temporary hit points, which are lost when the spell ends.
+
 Bull’s Strength. The target has advantage on Strength checks, and his or her carrying capacity doubles.
+
 Cat’s Grace. The target has advantage on Dexterity checks. It also doesn’t take damage from falling 20 ฟุต or less if it isn’t incapacitated.
+
 Eagle’s Splendor. The target has advantage on Charisma checks.
+
 Fox’s Cunning. The target has advantage on Intelligence checks.
+
 Owl’s Wisdom. The target has advantage on Wisdom checks.
+
 At Higher Levels. When you cast this spell using a spell slot of 3rd level or higher, you can target one additional creature for each slot level above 2nd.
 
-### Enlarge/Reduce {#enlarge/reduce}
+### Enlarge/Reduce {#enlarge-reduce}
 
-2nd-level transmutation
-**เวลาในการร่ายคาถา:** 1 แอ็คชัน
-**ระยะ:** 30 ฟุต
-**วิธีการร่ายและวัตถุคาถา:** V, S, M (a pinch of powdered iron)
+2nd-level transmutation  
+**เวลาในการร่ายคาถา:** 1 แอ็คชัน  
+**ระยะ:** 30 ฟุต  
+**วิธีการร่ายและวัตถุคาถา:** V, S, M (a pinch of powdered iron)  
 **ระยะเวลาคงคาถา:** เพ่งสมาธิ, up to 1 นาที
+
 You cause a creature or an object you can see within range to grow larger or smaller for the duration. Choose either a creature or an object that is neither worn nor carried. If the target is unwilling, it can make a Constitution saving throw. On a success, the spell has no effect.
+
 If the target is a creature, everything it is wearing and carrying changes size with it. Any item dropped by an affected creature returns to normal size at once.
+
 Enlarge. The target’s size doubles in all dimensions, and its weight is multiplied by eight. This growth increases its size by one category—from Medium to Large, for example. If there isn’t enough room for the target to double its size, the creature or object attains the maximum possible size in the space available. Until the spell ends, the target also has advantage on Strength checks and Strength saving throws. The target’s weapons also grow to match its new size. While these weapons are enlarged, the target’s attacks with them deal 1d4 extra damage.
+
 Reduce. The target’s size is halved in all dimensions, and its weight is reduced to one-eighth of normal. This reduction decreases its size by one category—from Medium to Small, for example. Until the spell ends, the target also has disadvantage on Strength checks and Strength saving throws. The target’s weapons also shrink to match its new size. While these weapons are reduced, the target’s attacks with them deal 1d4 less damage (this can’t reduce the damage below 1).
+
+### Ensnaring Strike {#ensnaring-strike}
+
+1st-level conjuration  
+**เวลาในการร่ายคาถา:** 1 โบนัสแอ็คชัน  
+**ระยะ:** ตัวเอง  
+**วิธีการร่ายและวัตถุคาถา:** V  
+**ระยะเวลาคงคาถา:** 1 นาที
+
+The next time you hit a creature with a weapon attack before this spell ends, a writhing mass of thorny vines appears at the point of impact, and the target must succeed on a Strength saving throw or be [restrained]() by the magical vines until the spell ends. A Large or larger creature has advantage on this saving throw. If the target succeeds on the save, the vines shrivel away.
+
+While [restrained]() by this spell, the target takes 1d6 piercing damage at the start of each of its turns. A creature [restrained]() by the vines or one that can touch the creature can use its action to make a Strength check against your spell save DC. On a success, the target is freed. 
+
+At Higher Levels. If you cast this spell using a spell slot of 2nd level or higher, the damage increases by 1d6 for each slot level above 1st.
 
 ### Entangle {#entangle}
 
-1st-level conjuration
-**เวลาในการร่ายคาถา:** 1 แอ็คชัน
-**ระยะ:** 90 ฟุต
-**วิธีการร่ายและวัตถุคาถา:** V, S
+1st-level conjuration  
+**เวลาในการร่ายคาถา:** 1 แอ็คชัน  
+**ระยะ:** 90 ฟุต  
+**วิธีการร่ายและวัตถุคาถา:** V, S  
 **ระยะเวลาคงคาถา:** เพ่งสมาธิ, up to 1 นาที
+
 Grasping weeds and vines sprout from the ground in a 20-foot square starting from a point within range. For the duration, these plants turn the ground in the area into difficult terrain.
+
 A creature in the area when you cast the spell must succeed on a Strength saving throw or be restrained by the entangling plants until the spell ends. A creature restrained by the plants can use its action to make a Strength check against your spell save DC. On a success, it frees itself.
+
 When the spell ends, the conjured plants wilt away.
 
 ### Enthrall {#enthrall}
 
-2nd-level enchantment
-**เวลาในการร่ายคาถา:** 1 แอ็คชัน
-**ระยะ:** 60 ฟุต
-**วิธีการร่ายและวัตถุคาถา:** V, S
+2nd-level enchantment  
+**เวลาในการร่ายคาถา:** 1 แอ็คชัน  
+**ระยะ:** 60 ฟุต  
+**วิธีการร่ายและวัตถุคาถา:** V, S  
 **ระยะเวลาคงคาถา:** 1 นาที
+
 You weave a distracting string of words, causing creatures of your choice that you can see within range and that can hear you to make a Wisdom saving throw. Any creature that can’t be charmed succeeds on this saving throw automatically, and if you or your companions are fighting a creature, it has advantage on the save. On a failed save, the target has disadvantage on Wisdom (Perception) checks made to perceive any creature other than you until the spell ends or until the target can no longer hear you. The spell ends if you are incapacitated or can no longer speak.
 
 ### Etherealness {#etherealness}
 
-7th-level transmutation
-**เวลาในการร่ายคาถา:** 1 แอ็คชัน
-**ระยะ:** Self
-**วิธีการร่ายและวัตถุคาถา:** V, S
-**ระยะเวลาคงคาถา:** Up to 8 ชั่วโมง
+7th-level transmutation  
+**เวลาในการร่ายคาถา:** 1 แอ็คชัน  
+**ระยะ:** Self  
+**วิธีการร่ายและวัตถุคาถา:** V, S  
+**ระยะเวลาคงคาถา:** Up to 8 ชั่วโมง  
+
 You step into the border regions of the Ethereal Plane, in the area where it overlaps with your current plane. You remain in the Border Ethereal for the duration or until you use your action to dismiss the spell. During this time, you can move in any direction. If you move up or down, every foot of movement costs an extra foot. You can see and hear the plane you originated from, but everything there looks gray, and you can’t see anything more than 60 ฟุต away.
+
 While on the Ethereal Plane, you can only affect and be affected by other creatures on that plane. Creatures that aren’t on the Ethereal Plane can’t perceive you and can’t interact with you, unless a special ability or magic has given them the ability to do so.
+
 You ignore all objects and effects that aren’t on the Ethereal Plane, allowing you to move through objects you perceive on the plane you originated from.
+
 When the spell ends, you immediately return to the plane you originated from in the spot you currently occupy. If you occupy the same spot as a solid object or creature when this happens, you are immediately shunted to the nearest unoccupied space that you can occupy and take force damage equal to twice the number of ฟุต you are moved.
+
 This spell has no effect if you cast it while you are on the Ethereal Plane or a plane that doesn’t border it, such as one of the Outer Planes.
+
 At Higher Levels. When you cast this spell using a spell slot of 8th level or higher, you can target up to three willing creatures (including you) for each slot level above 7th. The creatures must be within 10 ฟุต of you when you cast the spell.
 
 ### Expeditious Retreat {#expeditious-retreat}
@@ -2387,14 +2475,18 @@ This spell allows you to move at an incredible pace. When you cast this spell, a
 
 ### Eyebite {#eyebite}
 
-6th-level necromancy
-**เวลาในการร่ายคาถา:** 1 แอ็คชัน
-**ระยะ:** Self
-**วิธีการร่ายและวัตถุคาถา:** V, S
+6th-level necromancy  
+**เวลาในการร่ายคาถา:** 1 แอ็คชัน  
+**ระยะ:** Self  
+**วิธีการร่ายและวัตถุคาถา:** V, S  
 **ระยะเวลาคงคาถา:** เพ่งสมาธิ, up to 1 นาที
+
 For the spell’s duration, your eyes become an inky void imbued with dread power. One creature of your choice within 60 ฟุต of you that you can see must succeed on a Wisdom saving throw or be affected by one of the following effects of your choice for the duration. On each of your turns until the spell ends, you can use your action to target another creature but can’t target a creature again if it has succeeded on a saving throw against this casting of eyebite.
+
 Asleep. The target falls unconscious. It wakes up if it takes any damage or if another creature uses its action to shake the sleeper awake.
+
 Panicked. The target is frightened of you. On each of its turns, the frightened creature must take the Dash action and move away from you by the safest and shortest available route, unless there is nowhere to move. If the target moves to a place at least 60 ฟุต away from you where it can no longer see you, this effect ends.
+
 Sickened. The target has disadvantage on attack rolls and ability checks. At the end of each of its turns, it can make another Wisdom saving throw. If it succeeds, the effect ends.
 
 ## F Spells
@@ -2574,12 +2666,14 @@ At Higher Levels. When you cast this spell using a spell slot of 4th level or hi
 
 ### Flame Strike {#flame-strike}
 
-5th-level evocation
-**เวลาในการร่ายคาถา:** 1 แอ็คชัน
-**ระยะ:** 60 ฟุต
-**วิธีการร่ายและวัตถุคาถา:** V, S, M (pinch of sulfur)
+5th-level evocation  
+**เวลาในการร่ายคาถา:** 1 แอ็คชัน  
+**ระยะ:** 60 ฟุต  
+**วิธีการร่ายและวัตถุคาถา:** V, S, M (pinch of sulfur)  
 **ระยะเวลาคงคาถา:** โดยทันที
+
 A vertical column of divine fire roars down from the heavens in a location you specify. Each creature in a 10-foot-radius, 40-foot-high cylinder centered on a point within range must make a Dexterity saving throw. A creature takes 4d6 fire damage and 4d6 radiant damage on a failed save, or half as much damage on a successful one.
+
 At Higher Levels. When you cast this spell using a spell slot of 6th level or higher, the fire damage or the radiant damage (your choice) increases by 1d6 for each slot level above 5th.
 
 ### Flaming Sphere {#flaming-sphere}
@@ -2666,12 +2760,14 @@ This spell immediately ends if you cast it again before its duration ends.
 
 ### Freedom of Movement {#freedom-of-movement}
 
-4th-level abjuration
-**เวลาในการร่ายคาถา:** 1 แอ็คชัน
-**ระยะ:** สัมผัสถึง
-**วิธีการร่ายและวัตถุคาถา:** V, S, M (a leather strap, bound around the arm or a similar appendage)
+4th-level abjuration  
+**เวลาในการร่ายคาถา:** 1 แอ็คชัน  
+**ระยะ:** สัมผัสถึง  
+**วิธีการร่ายและวัตถุคาถา:** V, S, M (a leather strap, bound around the arm or a similar appendage)  
 **ระยะเวลาคงคาถา:** 1 hour
+
 You touch a willing creature. For the duration, the target’s movement is unaffected by difficult terrain, and spells and other magical effects can neither reduce the target’s speed nor cause the target to be paralyzed or restrained.
+
 The target can also spend 5 ฟุต of movement to automatically escape from nonmagical restraints, such as manacles or a creature that has it grappled. Finally, being underwater imposes no penalties on the target’s movement or attacks.
 
 ## G Spells
@@ -2814,12 +2910,14 @@ You imbue a creature you touch with positive energy to undo a debilitating effec
 
 ### Guardian of Faith {#guardian-of-faith}
 
-4th-level conjuration
-**เวลาในการร่ายคาถา:** 1 แอ็คชัน
-**ระยะ:** 30 ฟุต
-**วิธีการร่ายและวัตถุคาถา:** V
+4th-level conjuration  
+**เวลาในการร่ายคาถา:** 1 แอ็คชัน  
+**ระยะ:** 30 ฟุต  
+**วิธีการร่ายและวัตถุคาถา:** V  
 **ระยะเวลาคงคาถา:** 8 ชั่วโมง
+
 A Large spectral guardian appears and hovers for the duration in an unoccupied space of your choice that you can see within range. The guardian occupies that space and is indistinct except for a gleaming sword and shield emblazoned with the symbol of your deity.
+
 Any creature hostile to you that moves to a space within 10 ฟุต of the guardian for the first time on a turn must succeed on a Dexterity saving throw. The creature takes 20 radiant damage on a failed save, or half as much damage on a successful one. The guardian vanishes when it has dealt a total of 60 damage.
 
 ### Guards and Wards {#guards-and-wards}
@@ -2921,11 +3019,12 @@ You unleash a virulent disease on a creature that you can see within range. The 
 
 ### Haste {#haste}
 
-3rd-level transmutation
-**เวลาในการร่ายคาถา:** 1 แอ็คชัน
-**ระยะ:** 30 ฟุต
-**วิธีการร่ายและวัตถุคาถา:** V, S, M (รากชะเอมเทศขูดฝอย)
+3rd-level transmutation  
+**เวลาในการร่ายคาถา:** 1 แอ็คชัน  
+**ระยะ:** 30 ฟุต  
+**วิธีการร่ายและวัตถุคาถา:** V, S, M (รากชะเอมเทศขูดฝอย)  
 **ระยะเวลาคงคาถา:** เพ่งสมาธิ, up to 1 นาที
+
 เลือกสิ่งมีชีวิตที่อยู่ในระยะที่คุณมองเห็น จนกว่าคาถาจะหมดเวลา 
 - ความเร็วของเป้าหมายจะเพิ่มขึ้นเป็น 2 เท่า 
 - ได้โบนัส AC +2
@@ -2967,11 +3066,12 @@ At Higher Levels. When you cast this spell using a spell slot of 3rd level or hi
 
 ### Hellish Rebuke {#hellish-rebuke}
 
-1st-level evocation
-**เวลาในการร่ายคาถา:** 1 reaction, which you take in response to being damaged by a creature within 60 ฟุต of you that you can see
-**ระยะ:** 60 ฟุต
-**วิธีการร่ายและวัตถุคาถา:** V, S
-**ระยะเวลาคงคาถา:** โดยทันที
+1st-level evocation  
+**เวลาในการร่ายคาถา:** 1 reaction, which you take in response to being damaged by a creature within 60 ฟุต of you that you can see  
+**ระยะ:** 60 ฟุต  
+**วิธีการร่ายและวัตถุคาถา:** V, S  
+**ระยะเวลาคงคาถา:** โดยทันที  
+
 You point your finger, and the creature that damaged you is momentarily surrounded by hellish flames. The creature must make a Dexterity saving throw. It takes 2d10 fire damage on a failed save, or half as much damage on a successful one.
 At Higher Levels. When you cast this spell using a spell slot of 2nd level or higher, the damage increases by 1d10 for each slot level above 1st.
 
@@ -2997,12 +3097,14 @@ At Higher Levels. When you cast this spell using a spell slot of 2nd level or hi
 
 ### Hold Monster {#hold-monster}
 
-5th-level enchantment
-**เวลาในการร่ายคาถา:** 1 แอ็คชัน
-**ระยะ:** 90 ฟุต
-**วิธีการร่ายและวัตถุคาถา:** V, S, M (a small, straight piece of iron)
-**ระยะเวลาคงคาถา:** เพ่งสมาธิ, up to 1 นาที
+5th-level enchantment  
+**เวลาในการร่ายคาถา:** 1 แอ็คชัน  
+**ระยะ:** 90 ฟุต  
+**วิธีการร่ายและวัตถุคาถา:** V, S, M (a small, straight piece of iron)  
+**ระยะเวลาคงคาถา:** เพ่งสมาธิ, up to 1 นาที  
+
 Choose a creature that you can see within range. The target must succeed on a Wisdom saving throw or be paralyzed for the duration. This spell has no effect on undead. At the end of each of its turns, the target can make another Wisdom saving throw. On a success, the spell ends on the target.
+
 At Higher Levels. When you cast this spell using a spell slot of 6th level or higher, you can target one additional creature for each slot level above 5th. The creatures must be within 30 ฟุต of each other when you target them.
 
 ### ตรึงกายา (Hold Person) {#hold-person}
@@ -3028,12 +3130,14 @@ Divine light washes out from you and coalesces in a soft radiance in a 30-foot r
 
 ### Hunter’s Mark {#hunters-mark}
 
-1st-level divination
-**เวลาในการร่ายคาถา:** 1 โบนัสแอ็คชัน
-**ระยะ:** 90 ฟุต
-**วิธีการร่ายและวัตถุคาถา:** V
+1st-level divination  
+**เวลาในการร่ายคาถา:** 1 โบนัสแอ็คชัน  
+**ระยะ:** 90 ฟุต  
+**วิธีการร่ายและวัตถุคาถา:** V  
 **ระยะเวลาคงคาถา:** เพ่งสมาธิ, นานสุด 1 ชั่วโมง
+
 You choose a creature you can see within range and mystically mark it as your quarry. Until the spell ends, you deal an extra 1d6 damage to the target whenever you hit it with a weapon attack, and you have advantage on any Wisdom (Perception) or Wisdom (Survival) check you make to find it. If the target drops to 0 hit points before this spell ends, you can use a bonus action on a subsequent turn of yours to mark a new creature.
+
 At Higher Levels. When you cast this spell using a spell slot of 3rd or 4th level, you can maintain your เพ่งสมาธิ on the spell for up to 8 ชั่วโมง. When you use a spell slot of 5th level or higher, you can maintain your เพ่งสมาธิ on the spell for up to 24 ชั่วโมง.
 
 ### Hypnotic Pattern {#hypnotic-pattern}
@@ -3050,13 +3154,16 @@ The spell ends for an affected creature if it takes any damage or if someone els
 
 ### Ice Storm {#ice-storm}
 
-4th-level evocation
-**เวลาในการร่ายคาถา:** 1 แอ็คชัน
-**ระยะ:** 300 ฟุต
-**วิธีการร่ายและวัตถุคาถา:** V, S, M (a pinch of dust and a few drops of water)
+4th-level evocation  
+**เวลาในการร่ายคาถา:** 1 แอ็คชัน  
+**ระยะ:** 300 ฟุต  
+**วิธีการร่ายและวัตถุคาถา:** V, S, M (a pinch of dust and a few drops of water)  
 **ระยะเวลาคงคาถา:** โดยทันที
+
 A hail of rock-hard ice pounds to the ground in a 20-foot-radius, 40-foot-high cylinder centered on a point within range. Each creature in the cylinder must make a Dexterity saving throw. A creature takes 2d8 bludgeoning damage and 4d6 cold damage on a failed save, or half as much damage on a successful one.
+
 Hailstones turn the storm’s area of effect into difficult terrain until the end of your next turn.
+
 At Higher Levels. When you cast this spell using a spell slot of 5th level or higher, the bludgeoning damage increases by 1d8 for each slot level above 4th.
 
 ### ระบุเวทย์มนต์ (Identify) {#identify}
@@ -3188,11 +3295,12 @@ The information you learn is accurate but might be couched in figurative languag
 
 ### Lesser Restoration {#lesser-restoration}
 
-2nd-level abjuration
-**เวลาในการร่ายคาถา:** 1 แอ็คชัน
-**ระยะ:** สัมผัสถึง
-**วิธีการร่ายและวัตถุคาถา:** V, S
+2nd-level abjuration  
+**เวลาในการร่ายคาถา:** 1 แอ็คชัน  
+**ระยะ:** สัมผัสถึง  
+**วิธีการร่ายและวัตถุคาถา:** V, S  
 **ระยะเวลาคงคาถา:** โดยทันที
+
 You touch a creature and can end either one disease or one condition afflicting it. The condition can be blinded, deafened, paralyzed, or poisoned.
 
 ### Levitate {#levitate}
@@ -3520,38 +3628,50 @@ You can see through its eyes and hear through its ears as if you were located wh
 
 ### Misty Step {#misty-step}
 
-2nd-level conjuration
-**เวลาในการร่ายคาถา:** 1 โบนัสแอ็คชัน
-**ระยะ:** Self
-**วิธีการร่ายและวัตถุคาถา:** V
-**ระยะเวลาคงคาถา:** โดยทันที
+2nd-level conjuration  
+**เวลาในการร่ายคาถา:** 1 โบนัสแอ็คชัน  
+**ระยะ:** Self  
+**วิธีการร่ายและวัตถุคาถา:** V  
+**ระยะเวลาคงคาถา:** โดยทันที  
+
 Briefly surrounded by silvery mist, you teleport up to 30 ฟุต to an unoccupied space that you can see.
 
 ### Modify Memory {#modify-memory}
 
-5th-level enchantment
-**เวลาในการร่ายคาถา:** 1 แอ็คชัน
-**ระยะ:** 30 ฟุต
-**วิธีการร่ายและวัตถุคาถา:** V, S
+5th-level enchantment  
+**เวลาในการร่ายคาถา:** 1 แอ็คชัน  
+**ระยะ:** 30 ฟุต  
+**วิธีการร่ายและวัตถุคาถา:** V, S  
 **ระยะเวลาคงคาถา:** เพ่งสมาธิ, up to 1 นาที
+
 You attempt to reshape another creature’s memories. One creature that you can see must make a Wisdom saving throw. If you are fighting the creature, it has advantage on the saving throw. On a failed save, the target becomes charmed by you for the duration. The charmed target is incapacitated and unaware of its surroundings, though it can still hear you. If it takes any damage or is targeted by another spell, this spell ends, and none of the target’s memories are modified.
+
 While this charm lasts, you can affect the target’s memory of an event that it experienced within the last 24 ชั่วโมง and that lasted no more than 10 minutes. You can permanently eliminate all memory of the event, allow the target to recall the event with perfect clarity and exacting detail, change its memory of the details of the event, or create a memory of some other event.
+
 You must speak to the target to describe how its memories are affected, and it must be able to understand your language for the modified memories to take root. Its mind fills in any gaps in the details of your description. If the spell ends before you have finished describing the modified memories, the creature’s memory isn’t altered. Otherwise, the modified memories take hold when the spell ends.
+
 A modified memory doesn’t necessarily affect how a creature behaves, particularly if the memory contradicts the creature’s natural inclinations, alignment, or beliefs. An illogical modified memory, such as implanting a memory of how much the creature enjoyed dousing itself in acid, is dismissed, perhaps as a bad dream. The DM might deem a modified memory too nonsensical to affect a creature in a significant manner.
+
 A remove curse or greater restoration spell cast on the target restores the creature’s true memory.
+
 At Higher Levels. If you cast this spell using a spell slot of 6th level or higher, you can alter the target’s memories of an event that took place up to 7 days ago (6th level), 30 days ago (7th level), 1 year ago (8th level), or any time in the creature’s past (9th level).
 
 ### Moonbeam {#moonbeam}
 
-2nd-level evocation
-**เวลาในการร่ายคาถา:** 1 แอ็คชัน
-**ระยะ:** 120 ฟุต
-**วิธีการร่ายและวัตถุคาถา:** V, S, M (several seeds of any moonseed plant and a piece of opalescent feldspar)
+2nd-level evocation  
+**เวลาในการร่ายคาถา:** 1 แอ็คชัน  
+**ระยะ:** 120 ฟุต  
+**วิธีการร่ายและวัตถุคาถา:** V, S, M (several seeds of any moonseed plant and a piece of opalescent feldspar)  
 **ระยะเวลาคงคาถา:** เพ่งสมาธิ, up to 1 นาที
+
 A silvery beam of pale light shines down in a 5-foot-radius, 40-foot-high cylinder centered on a point within range. Until the spell ends, dim light fills the cylinder.
+
 When a creature enters the spell’s area for the first time on a turn or starts its turn there, it is engulfed in ghostly flames that cause searing pain, and it must make a Constitution saving throw. It takes 2d10 radiant damage on a failed save, or half as much damage on a successful one.
+
 A shapechanger makes its saving throw with disadvantage. If it fails, it also instantly reverts to its original form and can’t assume a different form until it leaves the spell’s light.
+
 On your turns after you cast this spell, you can use an action to move the beam up to 60 ฟุต in any direction.
+
 At Higher Levels. When you cast this spell using a spell slot of 3rd level or higher, the damage increases by 1d10 for each slot level above 2nd.
 
 ### Mordenkainen’s Sword {#mordenkainens-sword}
@@ -3679,14 +3799,18 @@ You can use this spell to banish an unwilling creature to another plane. Choose 
 
 ### Plant Growth {#plant-growth}
 
-3rd-level transmutation
-**เวลาในการร่ายคาถา:** 1 แอ็คชัน or 8 ชั่วโมง
-**ระยะ:** 150 ฟุต
-**วิธีการร่ายและวัตถุคาถา:** V, S
+3rd-level transmutation  
+**เวลาในการร่ายคาถา:** 1 แอ็คชัน or 8 ชั่วโมง  
+**ระยะ:** 150 ฟุต  
+**วิธีการร่ายและวัตถุคาถา:** V, S  
 **ระยะเวลาคงคาถา:** โดยทันที
+
 This spell channels vitality into plants within a specific area. There are two possible uses for the spell, granting either immediate or long-term benefits.
+
 If you cast this spell using 1 แอ็คชัน, choose a point within range. All normal plants in a 100-foot radius centered on that point become thick and overgrown. A creature moving through the area must spend 4 ฟุต of movement for every 1 foot it moves.
+
 You can exclude one or more areas of any size within the spell’s area from being affected.
+
 If you cast this spell over 8 ชั่วโมง, you enrich the land. All plants in a half-mile radius centered on a point within range become enriched for 1 year. The plants yield twice the normal amount of food when harvested.
 
 ### Poison Spray {#poison-spray}
@@ -3835,11 +3959,12 @@ Physical interaction with the image reveals it to be an illusion, because things
 
 ### Protection from Energy {#protection-from-energy}
 
-3rd-level abjuration
-**เวลาในการร่ายคาถา:** 1 แอ็คชัน
-**ระยะ:** สัมผัสถึง
-**วิธีการร่ายและวัตถุคาถา:** V, S
+3rd-level abjuration  
+**เวลาในการร่ายคาถา:** 1 แอ็คชัน  
+**ระยะ:** สัมผัสถึง  
+**วิธีการร่ายและวัตถุคาถา:** V, S  
 **ระยะเวลาคงคาถา:** เพ่งสมาธิ, นานสุด 1 ชั่วโมง
+
 For the duration, the willing creature you touch has resistance to one damage type of your choice: acid, cold, fire, lightning, or thunder.
 
 ### ปกป้องจากความชั่วร้ายและความดี (Protection from Evil and Good) {#protection-from-evil-and-good}
@@ -4075,12 +4200,14 @@ Flame-like radiance descends on a creature that you can see within range. The ta
 
 ### Sanctuary {#sanctuary}
 
-1st-level abjuration
-**เวลาในการร่ายคาถา:** 1 โบนัสแอ็คชัน
-**ระยะ:** 30 ฟุต
-**วิธีการร่ายและวัตถุคาถา:** V, S, M (a small silver mirror)
+1st-level abjuration  
+**เวลาในการร่ายคาถา:** 1 โบนัสแอ็คชัน  
+**ระยะ:** 30 ฟุต  
+**วิธีการร่ายและวัตถุคาถา:** V, S, M (a small silver mirror)  
 **ระยะเวลาคงคาถา:** 1 นาที
+
 You ward a creature within range against attack. Until the spell ends, any creature who targets the warded creature with an attack or a harmful spell must first make a Wisdom saving throw. On a failed save, the creature must choose a new target or lose the attack or spell. This spell doesn’t protect the warded creature from area effects, such as the explosion of a fireball.
+
 If the warded creature makes an attack, casts a spell that affects an enemy, or deals damage to another creature, this spell ends.
 
 ### Scorching Ray {#scorching-ray}
@@ -4096,59 +4223,31 @@ At Higher Levels. When you cast this spell using a spell slot of 3rd level or hi
 
 ### Scrying {#scrying}
 
-5th-level divination
-**เวลาในการร่ายคาถา:** 10 minutes
-**ระยะ:** Self
-**วิธีการร่ายและวัตถุคาถา:** V, S, M (a focus worth at least 1,000 gp, such as a crystal ball, a silver mirror, or a font filled with holy water)
-**ระยะเวลาคงคาถา:** เพ่งสมาธิ, มากที่สุด 10 นาที
+5th-level divination  
+**เวลาในการร่ายคาถา:** 10 minutes  
+**ระยะ:** Self  
+**วิธีการร่ายและวัตถุคาถา:** V, S, M (a focus worth at least 1,000 gp, such as a crystal ball, a silver mirror, or a font filled with holy water)  
+**ระยะเวลาคงคาถา:** เพ่งสมาธิ, มากที่สุด 10 นาที  
+
 You can see and hear a particular creature you choose that is on the same plane of existence as you. The target must make a Wisdom saving throw, which is modified by how well you know the target and the sort of physical connection you have to it. If a target knows you’re casting this spell, it can fail the saving throw voluntarily if it wants to be observed.
 
-<div class="table-overflow-wrapper"><table data-content-chunk-id="cc62af83-a15b-486d-b057-68f6e5beca73">
-<thead>
-<tr>
-<th>Knowledge</th>
-<th>Save Modifier</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td>Secondhand (you have heard of the target)</td>
-<td>+5</td>
-</tr>
-<tr>
-<td>Firsthand (you have met the target)</td>
-<td>+0</td>
-</tr>
-<tr>
-<td>Familiar (you know the target well)</td>
-<td>−5</td>
-</tr>
-</tbody>
-</table></div>
-<div class="table-overflow-wrapper"><table data-content-chunk-id="dbc54342-3449-49d7-b84d-beca327f22d1">
-<thead>
-<tr>
-<th>Connection</th>
-<th>Save Modifier</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td>Likeness or picture</td>
-<td>−2</td>
-</tr>
-<tr>
-<td>Possession or garment</td>
-<td>−4</td>
-</tr>
-<tr>
-<td>Body part, lock of hair, bit of nail, or the like</td>
-<td>−10</td>
-</tr>
-</tbody>
-</table></div>
+| Knowledge                                 | Save Modifier |
+| ----------------------------------------- | ------------- |
+| Secondhand (you have heard of the target) | +5            |
+| Firsthand (you have met the target)       | +0            |
+| Familiar (you know the target well)       | −5            |
+
+| Connection                                        | Save Modifier |
+| ------------------------------------------------- | ------------- |
+| Likeness or picture                               | −2            |
+| Possession or garment                             | −4            |
+| Body part, lock of hair, bit of nail, or the like | −10           |
+
+
 On a successful save, the target isn’t affected, and you can’t use this spell against it again for 24 ชั่วโมง.
+
 On a failed save, the spell creates an invisible sensor within 10 ฟุต of the target. You can see and hear through the sensor as if you were there. The sensor moves with the target, remaining within 10 ฟุต of it for the duration. A creature that can see invisible objects sees the sensor as a luminous orb about the size of your fist.
+
 Instead of targeting a creature, you can choose a location you have seen before as the target of this spell. When you do, the sensor appears at that location and doesn’t move.
 
 ### See Invisibility {#see-invisibility}
@@ -4334,11 +4433,12 @@ You touch a living creature that has 0 hit points. The creature becomes stable. 
 
 ### Speak with Animals {#speak-with-animals}
 
-1st-level divination (พิธีกรรม)
-**เวลาในการร่ายคาถา:** 1 แอ็คชัน
-**ระยะ:** Self
-**วิธีการร่ายและวัตถุคาถา:** V, S
+1st-level divination (พิธีกรรม)  
+**เวลาในการร่ายคาถา:** 1 แอ็คชัน  
+**ระยะ:** Self  
+**วิธีการร่ายและวัตถุคาถา:** V, S  
 **ระยะเวลาคงคาถา:** 10 minutes
+
 You gain the ability to comprehend and verbally communicate with beasts for the duration. The knowledge and awareness of many beasts is limited by their intelligence, but at minimum, beasts can give you information about nearby locations and monsters, including whatever they can perceive or have perceived within the past day. You might be able to persuade a beast to perform a small favor for you, at the DM’s discretion.
 
 ### Speak with Dead {#speak-with-dead}
@@ -4430,11 +4530,12 @@ You touch a stone object of Medium size or smaller or a section of stone no more
 
 ### Stoneskin {#stoneskin}
 
-4th-level abjuration
-**เวลาในการร่ายคาถา:** 1 แอ็คชัน
-**ระยะ:** สัมผัสถึง
-**วิธีการร่ายและวัตถุคาถา:** V, S, M (diamond dust worth 100 gp, which the spell consumes)
+4th-level abjuration  
+**เวลาในการร่ายคาถา:** 1 แอ็คชัน  
+**ระยะ:** สัมผัสถึง  
+**วิธีการร่ายและวัตถุคาถา:** V, S, M (diamond dust worth 100 gp, which the spell consumes)  
 **ระยะเวลาคงคาถา:** เพ่งสมาธิ, นานสุด 1 ชั่วโมง
+
 This spell turns the flesh of a willing creature you touch as hard as stone. Until the spell ends, the target has resistance to nonmagical bludgeoning, piercing, and slashing damage.
 
 ### Storm of Vengeance {#storm-of-vengeance}
@@ -4676,12 +4777,14 @@ This spell creates a magical link between a Large or larger inanimate plant with
 
 ### Tree Stride {#tree-stride}
 
-5th-level conjuration
-**เวลาในการร่ายคาถา:** 1 แอ็คชัน
-**ระยะ:** Self
-**วิธีการร่ายและวัตถุคาถา:** V, S
+5th-level conjuration  
+**เวลาในการร่ายคาถา:** 1 แอ็คชัน  
+**ระยะ:** Self  
+**วิธีการร่ายและวัตถุคาถา:** V, S  
 **ระยะเวลาคงคาถา:** เพ่งสมาธิ, up to 1 นาที
+
 You gain the ability to enter a tree and move from inside it to inside another tree of the same kind within 500 ฟุต. Both trees must be living and at least the same size as you. You must use 5 ฟุต of movement to enter a tree. You instantly know the location of all other trees of the same kind within 500 ฟุต and, as part of the move used to enter the tree, can either pass into one of those trees or step out of the tree you’re in. You appear in a spot of your choice within 5 ฟุต of the destination tree, using another 5 ฟุต of movement. If you have no movement left, you appear within 5 ฟุต of the tree you entered.
+
 You can use this transportation ability once per round for the duration. You must end each turn outside a tree.
 
 ### True Polymorph {#true-polymorph}
@@ -4933,10 +5036,12 @@ You must designate a sanctuary by casting this spell within a location, such as 
 
 ### Zone of Truth {#zone-of-truth}
 
-2nd-level enchantment
-**เวลาในการร่ายคาถา:** 1 แอ็คชัน
-**ระยะ:** 60 ฟุต
-**วิธีการร่ายและวัตถุคาถา:** V, S
+2nd-level enchantment  
+**เวลาในการร่ายคาถา:** 1 แอ็คชัน  
+**ระยะ:** 60 ฟุต  
+**วิธีการร่ายและวัตถุคาถา:** V, S  
 **ระยะเวลาคงคาถา:** 10 minutes
+
 You create a magical zone that guards against deception in a 15-foot-radius sphere centered on a point of your choice within range. Until the spell ends, a creature that enters the spell’s area for the first time on a turn or starts its turn there must make a Charisma saving throw. On a failed save, a creature can’t speak a deliberate lie while in the radius. You know whether each creature succeeds or fails on its saving throw.
+
 An affected creature is aware of the spell and can thus avoid answering questions to which it would normally respond with a lie. Such a creature can be evasive in its answers as long as it remains within the boundaries of the truth.
