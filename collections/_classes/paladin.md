@@ -292,71 +292,71 @@ name: พาลาดิน (Paladin)
 
 เมื่อคุณใช้ความสามารถนี้ไปแล้ว คุณจะไม่สามารถใช้ได้อีกจนกว่าจะจบการพักยาว
 
-### Oath of the Ancients
+### ปฏิญาณแห่งบรรพกาล (Oath of the Ancients)
 
-The Oath of the Ancients is as old as the race of elves and the rituals of the druids. Sometimes called fey knights, green knights, or horned knights, paladins who swear this oath cast their lot with the side of the light in the cosmic struggle against darkness because they love the beautiful and life-giving things of the world, not necessarily because they believe in principles of honor, courage, and justice. They adorn their armor and clothing with images of growing things—leaves, antlers, or flowers—to reflect their commitment to preserving life and light in the world.
+ปฏิญาณแห่งบรรพกาลมีอายุยาวนานพอ ๆ กับเผ่าพันธุ์เอลฟ์และบรรดาพิธีกรรมโบราณของเหล่าดรูอิด บางครั้งเรียกอัศวินเฟย์, อัศวินเขียว, หรืออัศวินมีเขา พาลาดินผู้สาบานต่อปฏิญาณนี้จะอยู่ฝ่ายเดียวกับเหล่าแสงสว่างในจักรวาร เป็นผู้ต่อต้านความมืดเพราะพวกเขารักในความสวยงาม และสิ่งที่ให้ชีวิตแก่โลกนี้ ไม่จำเป็นว่าพวกเขาจะต้องเชื่อในหลักการแห่งเกียรติยศ, ความกล้าหาญ และความยุติธรรม พวกเขาตกแต่งเกราะและเสื้อผ้าด้วยภาพลักษณ์ของต้นไม้ เขาสัตว์ หรือดอกไม้ เพื่อสะท้อนให้เห็นถึงความรักและความต้องการปกป้องชีวิตและแสงสว่างในโลกนี้
 
-> **TENETS OF THE ANCIENTS**
+> **คำสอนแห่งบรรพกาล (TENETS OF THE ANCIENTS)**
 >
-> The tenets of the Oath of the Ancients have been preserved for uncounted centuries. This oath emphasizes the principles of good above any concerns of law or chaos. Its four central principles are simple.
+> คำสอนแห่งปฏิญาณแห่งบรรพกาลได้รับการรักษาสืบต่อมานานหลายศตวรรษจนนับไม่ได้ ปฏิญาณนี้ให้ความสำคัญกับหลักการแห่งความดีงามเหนือความคิดเรื่องกฏระเบียบหรือความโกลาหล หลัก 4 ประการที่เป็นหลักนั้นเรียบง่าย
 >
-> **Kindle the Light.** Through your acts of mercy, kindness, and forgiveness, kindle the light of hope in the world, beating back despair.
+> **จุดประกายแสงสว่วง (Kindle the Light)** ด้วยการกระทำอันมีเมตตา อ่อนโยน และให้อภัย จุดประกายแสงสว่างแห่งความหวังในโลกนี้ ขับไล่ความสิ้นหวัง
 >
-> **Shelter the Light.** Where there is good, beauty, love, and laughter in the world, stand against the wickedness that would swallow it. Where life flourishes, stand against the forces that would render it barren.
+> **ปกป้องแสงสว่าง (Shelter the Light)** ที่ใดมีความดี ความงาม ความรัก และเสียงหัวเราะในโลก จงปกป้องและขัดขวางผู้ใดที่พยายามจะทำลาย ที่ใดที่ชีวิตงอกเงย จงปกป้องและต่อต่างพลังอำนาจที่จะทำให้ชีวิตสิ้นสลาย
 >
-> **Preserve Your Own Light.** Delight in song and laughter, in beauty and art. If you allow the light to die in your own heart, you can’t preserve it in the world.
+> **รักษาแสงของตนเอง (Preserve Your Own Light)** มีความสุขกับดนตรีและเสียงหัวเราะ ในความงามและศิลปะ หากคุณปล่อยให้แสงในใจคุณหายไป คุณก็ไม่สามารถจะปกป้องแสงใดในโลกนี้
 >
-> **Be the Light.** Be a glorious beacon for all who live in despair. Let the light of your joy and courage shine forth in all your deeds.
+> **จงเป็นแสงสว่าง (Be the Light)** จงเป็นแสงสว่างให้แก่ผู้คนผู้อยู่ในความสิ้นหวัง จงให้แสงสว่างจากความสุขและความกล้าหาญส่องแสงออกมาในทุกการกระทำของคุณ
 
-#### Channel Divinity
+#### ผสานพลังศักดิ์สิทธิ์ (Channel Divinity)
 
-When you take this oath at 3rd level, you gain the following two Channel Divinity options.
+เมื่อคุณเลือกปฏิญาณนี้ที่เลเวล 3 คุณจะได้รับตัวเลือกการผสานพลังศักดิ์สิทธิ์ 2 อย่าง
 
-**Nature’s Wrath.** You can use your Channel Divinity to invoke primeval forces to ensnare a foe. As an action, you can cause spectral vines to spring up and reach for a creature within 10 feet of you that you can see. The creature must succeed on a Strength or Dexterity saving throw (its choice) or be restrained. While restrained by the vines, the creature repeats the saving throw at the end of each of its turns. On a success, it frees itself and the vines vanish.
+**ความโกรธเกรี้ยวของธรรมชาติ** คุณสามารถใช้การผสนานพลังศักดิ์สิทธิ์ในการปลุกพลังสัตว์ป่ามาจับยึดศัตรู โดยใช้แอ็คชัน คุณสามารถเรียกเถาวัลย์วิญญาณขึ้นมารัดสิ่งมีชีวิตในระยะ 10 ฟุตจากคุณที่คุณเห็น สิ่งมีชีวิตต้องทอยป้องกันความแข็งแกร่งหรือความคล่องแคล่วให้ผ่าน (ให้เลือกได้) หรือติดสภาพ[ถูกรัดตรึง (restrained)](/basic-rules/appendice-a-condition/#restrained) ขณะที่ถูกรัดด้วยเถาวัลย์ สิ่งมีชีวิตสามารถทอยป้องกันอีกครั้งได้เมื่อจบเทิร์น ถ้าสำเร็จจะเป็นอิสระและเถาวัลย์วิญญาณจะหายไป
 
-**Turn the Faithless.** You can use your Channel Divinity to utter ancient words that are painful for fey and fiends to hear. As an action, you present your holy symbol, and each fey or fiend within 30 feet of you that can hear you must make a Wisdom saving throw. On a failed save, the creature is turned for 1 minute or until it takes damage.
+**ขับไล่พวกไร้ศรัทธา** คุณสามารถใช้การผสานพลังศักดิ์สิทธิ์ในการเอ่ยถ้อยคำโบราณที่ทำให้เฟย์ (fey) และฟีน (fiends) เจ็บปวดเมื่อได้ยิน โดยการใช้แอ็คชัน คุณจะแสดงสัญลักษณ์ศักดิ์สิทธิ์ เฟย์และฟีนทุกตัวในระยะ 30 ฟุตจากคุณที่ได้ยินเสียงคุณได้ต้องทอยป้องกันความรอบรู้ (Wisdom) ถ้าทอยไม่ผ่านสิ่งมีชีวิตนั้นจะถูกขับไล่ (turned) เป็นเวลา 1 นาทีหรือจนกว่าจะได้รับความเสียหาย
 
-A turned creature must spend its turns trying to move as far away from you as it can, and it can’t willingly move to a space within 30 feet of you. It also can’t take reactions. For its action, it can use only the Dash action or try to escape from an effect that prevents it from moving. If there’s nowhere to move, the creature can use the Dodge action.
+สิ่งมีชีวิตที่ถูกขับไล่ (turned) จะใช้เทิร์นของตัวเองในการพยายามจะเคลื่อนที่ออกห่างจากคุณให้ไกลที่สุด และมันจะไม่สามารถเข้าใกล้คุณได้ในระยะ 30 ฟุต และมันยังไม่สามารถใช้รีแอ็คชันอีกด้วย ในแอ็คชันของมัน มันสามารถใช้ได้เพียงการพุ่งตัว (Dash) หรือพยายามจะหนีจากผลพิเศษที่หยุดยั้งการเคลื่อนที่ ถ้าไม่มีพื้นที่ให้ไปไหนได้ มันจะสามารถใช้แอ็คชันหลบหลีกได้
 
-If the creature’s true form is concealed by an illusion, shapeshifting, or other effect, that form is revealed while it is turned.
+หากร่างจริงของสิ่งมีชีวิตนั้นถูกซ่อนไว้ด้วยภาพลวงตา มนต์เปลี่ยนร่าง หรือผลพิเศษอื่น ๆ ร่างจริงจะเปิดเผยออกมาเมื่อตกอยู่ในสภาวะถูกขับไล่
 
-#### Oath Spells
+#### คาถาประจำปฏิญาณ (Oath Spells)
 
-You gain oath spells at the paladin levels listed.
+คุณจะได้รับคาถาประจำปฏิญาณตามเลเวลพาลาดินที่กำหนด
 
-**Oath of the Ancients Spells**
+**คาถาประจำปฏิญาณแห่งบรรพกาล (Oath of the Ancients Spells)**
 
-| Paladin Level | Spells                                                                                                                                                     |
+| เลเวลพาลาดิน | คาถา                                                                                                                                                     |
 | ------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| 3rd           | [ensnaring strike](https://www.dndbeyond.com/spells/2315-ensnaring-strike), [speak with animals](https://www.dndbeyond.com/spells/2258-speak-with-animals) |
-| 5th           | [misty step](https://www.dndbeyond.com/spells/2195-misty-step), [moonbeam](https://www.dndbeyond.com/spells/2197-moonbeam)                                 |
-| 9th           | [plant growth](https://www.dndbeyond.com/spells/2207-plant-growth), [protection from energy](https://www.dndbeyond.com/spells/2220-protection-from-energy) |
-| 13th          | [ice storm](https://www.dndbeyond.com/spells/2151-ice-storm), [stoneskin](https://www.dndbeyond.com/spells/2266-stoneskin)                                 |
-| 17th          | [commune with nature](https://www.dndbeyond.com/spells/2034-commune-with-nature), [tree stride](https://www.dndbeyond.com/spells/2283-tree-stride)         |
+| 3rd           | [ensnaring strike](/basic-rules/ch11-spells/#ensnaring-strike), [speak with animals](/basic-rules/ch11-spells/#speak-with-animals) |
+| 5th           | [misty step](/basic-rules/ch11-spells/#misty-step), [moonbeam](/basic-rules/ch11-spells/#moonbeam)                                 |
+| 9th           | [plant growth](/basic-rules/ch11-spells/#plant-growth), [protection from energy](/basic-rules/ch11-spells/#protection-from-energy) |
+| 13th          | [ice storm](/basic-rules/ch11-spells/#ice-storm), [stoneskin](/basic-rules/ch11-spells/#stoneskin)                                 |
+| 17th          | [commune with nature](/basic-rules/ch11-spells/#commune-with-nature), [tree stride](/basic-rules/ch11-spells/#tree-stride)         |
 
-#### Aura of Warding
+#### ออร่าแห่งอาณาเขต (Aura of Warding)
 
-Beginning at 7th level, ancient magic lies so heavily upon you that it forms an eldritch ward. You and friendly creatures within 10 feet of you have resistance to damage from spells.
+เริ่มที่เลเวล 7 เวทย์มนต์โบราณไหลเวียนรอบตัวคุณอย่างเข้มข้นจนก่อร่างเป็นอาณาเขตเอลดริช คุณและเพื่อนในระยะ 10 ฟุตจากคุณจะมีสภาวะต้านทานความเสียหายจากคาถา
 
-At 18th level, the range of this aura increases to 30 feet.
+ที่เลเวล 18 ระยะของออกร่าจะเพิ่มขึ้นเป็น 30 ฟุต
 
-#### Undying Sentinel
+#### ผู้คุ้มกันอมตะ (Undying Sentinel)
 
-Starting at 15th level, when you are reduced to 0 hit points and are not killed outright, you can choose to drop to 1 hit point instead. Once you use this ability, you can’t use it again until you finish a long rest.
+เริ่มที่เลเวล 15 เมื่อฮิตพอยต์คุณลดลงเป็น 0 คุณจะไม่ถูกฆ่าในทันที คุณสามารถเลือกที่จะมีฮิตพอยต์เป็น 1 แทนได้ เมื่อคุณใช้ความสามารถนี้แล้วจะใช้ได้อีกครั้งหลังจบการพักยาว
 
-Additionally, you suffer none of the drawbacks of old age, and you can’t be aged magically.
+นอกจากนั้นคุณจะไม่ได้รับผลจากความแก่ชรา และคุณจะไม่แก่ลงจากเวทย์มนต์
 
-#### Elder Champion
+#### แชมเปี้ยนอาวุโส (Elder Champion)
 
-At 20th level, you can assume the form of an ancient force of nature, taking on an appearance you choose. For example, your skin might turn green or take on a bark-like texture, your hair might become leafy or moss-like, or you might sprout antlers or a lion-like mane.
+ที่เลเวล 20 คุณสามารถเปลี่ยนร่างเป็นพลังโบราณแห่งธรรมชาติ โดยคุณเลือกภาพลักษณ์เองได้ ตัวอย่างเช่น ผิวหนังของคุณอาจจะเปลี่ยนเป็นสีเขียวหรือมีสภาพเป็นเปลือกไม้ ผมอาจเป็นใบไม้หรือมอส หรือคุณอาจจะเพิ่มเขาสัตว์หรือแผงคอแบบสิงโต
 
-Using your action, you undergo a transformation. For 1 minute, you gain the following benefits:
+โดยการใช้แอ็คชัน คุณสามารถเปลี่ยนร่างดันนั้นได้ เป็นเวลา 1 นาที คุณจะได้รับผลพิเศษดังนี้
 
-- At the start of each of your turns, you regain 10 hit points.
-- Whenever you cast a paladin spell that has a casting time of 1 action, you can cast it using a bonus action instead.
-- Enemy creatures within 10 feet of you have disadvantage on saving throws against your paladin spells and Channel Divinity options.
+- เมื่อเริ่มเทิร์นของคุณ คุณจะได้รับฮิตพอยต์ 10
+- เมื่อใดที่คุณใช้คาถาพาลาดินที่มีระยะการร่าย 1 เทิร์น คุณสามารถใช้โบนัสแอ็คชันในการร่ายได้
+- ศัตรูในระยะ 10 ฟุตจากคุณจะต้องทอยป้องกันแบบเสียเปรียบเมื่อถูกโจมตีด้วยคาถาพาลาดินของคุณ รวมถึงการผสานพลังศักดิ์สิทธิ์ (Channel Divinity)
 
-Once you use this feature, you can’t use it again until you finish a long rest.
+เมื่อคุณใช้ความสามารถนี้ไปแล้ว จะไม่สามารถใช้ได้อีกจนกว่าจะจบการพักยาว
 
 ### Oath of Vengeance
 
