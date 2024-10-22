@@ -43,25 +43,25 @@ name: พาลาดิน (Paladin)
 | ----- | ------------------ | ----------------------------------------------------------------------------------------------------------- | ------- | ----- | --- | ----- | ------- |
 |       |                    |                                                                                                             | 1st     | 2nd   | 3rd | 4th   | 5th     |
 | 1st   | +2                 | [สัมผัสศักดิ์สิทธิ์ (Divine Sense)](#DivineSense), [หัตถ์รักษา (Lay on Hands)](#LayonHands)                 | —       | —     | —   | —     | —       |
-| 2nd   | +2                 | [Fighting Style](#PaladinFightingStyle), [Spellcasting](#PaladinSpellcasting), [Divine Smite](#DivineSmite) | 2       | —     | —   | —     | —       |
-| 3rd   | +2                 | [Divine Health](#DivineHealth), [Sacred Oath](#SacredOath)                                                  | 3       | —     | —   | —     | —       |
-| 4th   | +2                 | [Ability Score Improvement](#PaladinAbilityScoreImprovement)                                                | 3       | —     | —   | —     | —       |
-| 5th   | +3                 | [Extra Attack](#PaladinExtraAttack)                                                                         | 4       | 2     | —   | —     | —       |
-| 6th   | +3                 | [Aura of Protection](#AuraofProtection)                                                                     | 4       | 2     | —   | —     | —       |
-| 7th   | +3                 | [Sacred Oath Feature](#SacredOaths)                                                                         | 4       | 3     | —   | —     | —       |
-| 8th   | +3                 | [Ability Score Improvement](#PaladinAbilityScoreImprovement)                                                | 4       | 3     | —   | —     | —       |
+| 2nd   | +2                 | [สไตล์การต่อสู้ (Fighting Style)](#PaladinFightingStyle), [การใช้คาถา (Spellcasting)](#PaladinSpellcasting), [ทัณฑ์ศักดิ์สิทธิ์ (Divine Smite)](#DivineSmite) | 2       | —     | —   | —     | —       |
+| 3rd   | +2                 | [ร่างศักดิ์สิทธิ์ (Divine Health)](#DivineHealth), [ปฏิญาณศักดิ์สิทธิ์ (Sacred Oath)](#SacredOath)                                                  | 3       | —     | —   | —     | —       |
+| 4th   | +2                 | [เพิ่มคะแนนความสามารถ (Ability Score Improvement)](#PaladinAbilityScoreImprovement)                                                | 3       | —     | —   | —     | —       |
+| 5th   | +3                 | [การโจมตีเพิ่มเติม (Extra Attack)](#PaladinExtraAttack)                                                                         | 4       | 2     | —   | —     | —       |
+| 6th   | +3                 | [ออร่าแห่งการคุ้มครอง (Aura of Protection)](#AuraofProtection)                                                                     | 4       | 2     | —   | —     | —       |
+| 7th   | +3                 | [ความสามารถจากปฏิญาณศักดิ์สิทธิ์ (Sacred Oath Feature)](#SacredOaths)                                                                         | 4       | 3     | —   | —     | —       |
+| 8th   | +3                 | [เพิ่มคะแนนความสามารถ (Ability Score Improvement)](#PaladinAbilityScoreImprovement)                                                | 4       | 3     | —   | —     | —       |
 | 9th   | +4                 | —                                                                                                           | 4       | 3     | 2   | —     | —       |
-| 10th  | +4                 | [Aura of Courage](#AuraofCourage)                                                                           | 4       | 3     | 2   | —     | —       |
-| 11th  | +4                 | [Improved Divine Smite](#ImprovedDivineSmite)                                                               | 4       | 3     | 3   | —     | —       |
-| 12th  | +4                 | [Ability Score Improvement](#PaladinAbilityScoreImprovement)                                                | 4       | 3     | 3   | —     | —       |
+| 10th  | +4                 | [ออร่าแห่งความกล้าหาญ (Aura of Courage)](#AuraofCourage)                                                                           | 4       | 3     | 2   | —     | —       |
+| 11th  | +4                 | [ทัณฑ์ศักดิ์สิทธิ์เพิ่มระดับ (Improved Divine Smite)](#ImprovedDivineSmite)                                                               | 4       | 3     | 3   | —     | —       |
+| 12th  | +4                 | [เพิ่มคะแนนความสามารถ (Ability Score Improvement)](#PaladinAbilityScoreImprovement)                                                | 4       | 3     | 3   | —     | —       |
 | 13th  | +5                 | —                                                                                                           | 4       | 3     | 3   | 1     | —       |
-| 14th  | +5                 | [Cleansing Touch](#CleansingTouch)                                                                          | 4       | 3     | 3   | 1     | —       |
-| 15th  | +5                 | [Sacred Oath Feature](#SacredOaths)                                                                         | 4       | 3     | 3   | 2     | —       |
-| 16th  | +5                 | [Ability Score Improvement](#PaladinAbilityScoreImprovement)                                                | 4       | 3     | 3   | 2     | —       |
+| 14th  | +5                 | [หัตถ์แห่งการชำระล้าง (Cleansing Touch)](#CleansingTouch)                                                                          | 4       | 3     | 3   | 1     | —       |
+| 15th  | +5                 | [ความสามารถจากปฏิญาณศักดิ์สิทธิ์ (Sacred Oath Feature)](#SacredOaths)                                                                         | 4       | 3     | 3   | 2     | —       |
+| 16th  | +5                 | [เพิ่มคะแนนความสามารถ (Ability Score Improvement)](#PaladinAbilityScoreImprovement)                                                | 4       | 3     | 3   | 2     | —       |
 | 17th  | +6                 | —                                                                                                           | 4       | 3     | 3   | 3     | 1       |
-| 18th  | +6                 | [Aura Improvements](#AuraofProtection)                                                                      | 4       | 3     | 3   | 3     | 1       |
-| 19th  | +6                 | [Ability Score Improvement](#PaladinAbilityScoreImprovement)                                                | 4       | 3     | 3   | 3     | 2       |
-| 20th  | +6                 | [Sacred Oath Feature](#SacredOaths)                                                                         | 4       | 3     | 3   | 3     | 2       |
+| 18th  | +6                 | [เพิ่มระดับออร่าศักดิ์สิทธิ์ (Aura Improvements)](#AuraofProtection)                                                                      | 4       | 3     | 3   | 3     | 1       |
+| 19th  | +6                 | [เพิ่มคะแนนความสามารถ (Ability Score Improvement)](#PaladinAbilityScoreImprovement)                                                | 4       | 3     | 3   | 3     | 2       |
+| 20th  | +6                 | [ความสามารถจากปฏิญาณศักดิ์สิทธิ์ (Sacred Oath Feature)](#SacredOaths)                                                                         | 4       | 3     | 3   | 3     | 2       |
 
 ## ความสามารถของคลาส
 
@@ -112,7 +112,7 @@ name: พาลาดิน (Paladin)
 
 ความสามารถนี้จะไม่มีผลกับอันเดดหรือคอนสตรัก (construct)
 
-### รูปแบบการต่อสู้ (Fighting Style)
+### รูปแบบการต่อสู้ (Fighting Style) {#PaladinFightingStyle}
 
 ที่เลเวล 2 คุณจะเลือกรูปแบบการต่อสู้ที่เป็นทักษะพิเศษของคุณ เลือกหนึ่งแบบจากตัวเลือกด้านล่างนี้ คุณจะไม่สามารถเลือกรูปแบบการต่อสู้ได้มากกว่าหนึ่งครั้ง แม้ว่าภายหลังจะได้เลือกอีกก็ตาม
 
@@ -132,7 +132,7 @@ name: พาลาดิน (Paladin)
 
 เมื่อสิ่งมีชีวิตที่คุณมองเห็นโจมตีเป้าหมายที่ไม่ใช่คุณที่อยู่ในระยะ 5 ฟุตจากคุณ คุณสามารถใช้รีแอ็คชันในการทำให้การทอยโจมตีนั้นเป็นแบบเสียเปรียบ คุณต้องถือโล่
 
-### การใช้คาถา (Spellcasting)
+### การใช้คาถา (Spellcasting) {#PaladinSpellcasting}
 
 ที่เลเวล 2 คุณจะได้เรียนรู้การดึงพลังเวทย์มนต์ศักดิ์สิทธิ์จากการทำสมาธิและการสวดภาวนาในการใช้คาถาเหมือนที่เคลอริกทำ ดูบทที่ 10 สำหรับกฏทั่วไปในการร่ายคาถาและบทที่ 11 สำหรับรายการคาถาของพาลาดิน
 
@@ -158,15 +158,15 @@ name: พาลาดิน (Paladin)
 
 คุณสามารถใช้สัญลักษณ์ศักดิ์สิทธิ์ (ดูบทที่ 5 "อุปกรณ์") เป็นเครื่องทำสมาธิในการร่ายคาถาสำหรับคาถาของพาลาดิน
 
-### ทัณฑ์ศักดิ์สิทธิ์ (Divine Smite)
+### ทัณฑ์ศักดิ์สิทธิ์ (Divine Smite) {#DivineSmite}
 
 เริ่มที่เลเวล 2 เมื่อคุณโจมตีสิ่งมีชีวิตด้วยอาวุธระยะประชิดตัว คุณสามารถใช้สล็อตคาถา 1 สล็อตในการทำให้เกิดความเสียหายแบบแสงรัศมี (radient) แก่เป้าหมาย โดยเพิ่มเข้าในความเสียหายจากอาวุธปกติ ความเสียหายที่เพิ่มขึ้นคือ 2d8 สำหรับสล็อตคาถาเลเวล 1 บวกกับ 1d8 สำหรับแต่ละเลเวลสล็อตที่มากขึ้นกว่าเลเวล 1 มากที่สุด 5d8 ความเสียหายจะยิ่งเพิ่มมากขึ้นอีก 1d8 หากเป้าหมายเป็นอันเดดหรือปีศาจ (fiend) โดยมากสุดที่ 6d8
 
-### ร่างศักดิ์สิทธิ์ (Divine Health)
+### ร่างศักดิ์สิทธิ์ (Divine Health) {#DivineHealth}
 
 ที่เลเวล 3 เวทย์มนต์ศักดิ์สิทธิ์จะไหลเวียนอยู่ทั่วตัวคุณทำให้คุณมีภูมิคุ้มกันต่อความเจ็บป่วย (disease)
 
-### ปฏิญาณศักดิ์สิทธิ์ (Sacred Oath)
+### ปฏิญาณศักดิ์สิทธิ์ (Sacred Oath) {#SacredOath}
 
 เมื่อคุณถึงเลเวล 3 คุณจะให้สัตย์สาบานที่จะผูกพันคุณในการเป็นพาลาดินไปตลอดชีวิต ตั้งแต่เริ่มจนถึงตอนนี้คุณอยู่ในชั้นเตรียมตัว เข้าสู่เส้นทางการเป็นพาลาดินแต่ยังไม่ได้สาบานที่จะเป็น ตอนนี้คุณจะได้เลือกปฏิญาณแห่งการอุทิศตน (Oath of Devotion), ปฏิญาณแห่งบรรพกาล (Oath of the Ancients), หรือปฏิญาณแห่งความพยาบาท (Oath of Vengeance) ทุกอย่างมีคำอธิบายด้านล่าง
 
@@ -178,7 +178,7 @@ name: พาลาดิน (Paladin)
 
 ถ้าคุณเข้าถึงคาถาจากคำปฏิญาณที่ไม่มีในรายการคาถา ให้ถือว่าคาถานั้นเป็นคาถาของพาลาดินสำหรับคุณ
 
-#### การเชี่ยมพลังศักดิ์สิทธิ์ (Channel Divinity)
+#### การผสานพลังศักดิ์สิทธิ์ (Channel Divinity)
 
 คำปฏิญาณของคุณจะอนุญาตให้คุณสามารถเชื่อมประสานพลังศักดิ์สิทธิ์และนำมาใช้ให้ได้ผลทางเวทย์มนต์ต่าง ๆ การเชื่อมพลังศักดิ์สิทธิ์ในแต่ละคำปฏิญาณจะมีอธิบายไว้ในรายละเอียดคำปฏิญาณ
 
@@ -186,37 +186,37 @@ name: พาลาดิน (Paladin)
 
 ผลจากการเชื่อมพลังศักดิ์สิทธิ์บางอย่างต้องมีการทอยป้องกัน เมื่อคุณใช้ผลพิเศษนั้นจากคลาสนี้ ค่า DC จะเท่ากับค่า DC การทอยป้องกันคาถาของพาลาดินของคุณ
 
-### เพิ่มคะแนนความสามารถ (Ability Score Improvement)
+### เพิ่มคะแนนความสามารถ (Ability Score Improvement) {#PaladinAbilityScoreImprovement}
 
 เมื่อคุณถึงเลเวล 4 และอีกครั้งเมื่อเลเวล 8, 12, 16 และ 19 คุณสามารถเพิ่มคะแนนความสามารถหนึ่งอย่างตามที่คุณเลือกได้ 2 คะแนน หรือเพิ่ม 1 คะแนนให้กับสองทักษะก็ได้ โดยปกติแล้วคุณจะไม่สามารถเพิ่มคะแนนความสามารถได้มากกว่า 20 หากใช้คุณลักษณะนี้
 
-### การโจมตีเพิ่มเติม (Extra Attack)
+### การโจมตีเพิ่มเติม (Extra Attack) {#PaladinExtraAttack}
 
 เริ่มที่เลเวล 5 คุณสามารถโจมตีได้สองครั้ง เมื่อใดก็ตามที่คุณใช้แอ็คชันโจมตีในเทิร์นของคุณ
 
-### ออร่าแห่งการคุ้มครอง (Aura of Protection)
+### ออร่าแห่งการคุ้มครอง (Aura of Protection) {#AuraofProtection}
 
 เริ่มที่เลเวล 6 เมื่อใดก็ตามที่คุณหรือเพื่อนในระยะ 10 ฟุตของคุณต้องทอยป้องกัน ทุกคนจะได้โบนัสในการทอยป้องกันเท่ากับค่าโมดิไฟเออร์เสน่ห์ของคุณ (โบนัสน้อยที่สุด +1) คุณต้องมีสติขณะที่ให้โบนัสนี้
 
 ที่เลเวล 18 ระยะของออร่านี้จะเพิ่มเป็น 30 ฟุต
 
-### ออร่าแห่งความกล้าหาญ (Aura of Courage)
+### ออร่าแห่งความกล้าหาญ (Aura of Courage) {#AuraofCourage}
 
 เริ่มที่เลเวล 10 คุณและเพื่อนในระยะ 10 ฟุตของคุณจะไม่ติดสถานะ[หวาดกลัว (frightened)](/basic-rules/appendice-a-condition/#frightened) ในขณะที่คุณยังมีสติอยู่
 
 ที่เลเวล 18 ระยะของออร่านี้จะเพิ่มเป็น 30 ฟุต
 
-### ทัณฑ์ศักดิ์สิทธิ์เพิ่มระดับ (Improved Divine Smite)
+### ทัณฑ์ศักดิ์สิทธิ์เพิ่มระดับ (Improved Divine Smite) {#ImprovedDivineSmite}
 
 เมื่อถึงเลเวล 11 พลังแห่งความถูกต้องจะเสริมกำลังให้คุณ จนทุกการโจมตีด้วยอาวุธระยะประชิดจะมีพลังศักดิ์สิทธิ์ผนวกไปด้วยเสมอ เมื่อใดก็ตามที่คุณโจมตีศัตรูด้วยอาวุธระยะประชิด ศัตรูจะได้รับความเสียหายแสงรัศมี (radiant damage) 1d8
 
-### หัตถ์แห่งการชำระล้าง (Cleansing Touch)
+### หัตถ์แห่งการชำระล้าง (Cleansing Touch) {#CleansingTouch}
 
 เริ่มที่เลเวล 14 คุณสามารถใช้แอ็คชันในการจบคาถาหนึ่งที่มีผลกับคุณหรือสิ่งมีชีวิตที่เต็มใจที่คุณสัมผัส
 
 คุณสามารถใช้ความสามารถนี้เป็นจำนวนครั้งเท่ากับค่าโมดิไฟเออร์เสน่ห์ของคุณ (้น้อยสุด 1 ครั้ง) คุณจะได้จำนวนครั้งที่ใช้ไปคืนมาเมื่อจบการพักยาว
 
-## คำปฏิญาณศักดิ์สิทธิ์ (Sacred Oaths)
+## คำปฏิญาณศักดิ์สิทธิ์ (Sacred Oaths) {#SacredOaths}
 
 การเป็นพาลาดินจะมีการให้สัตย์สาบานว่าจะทุ่มเทให้แก่หนทางแห่งความถูกต้อง เป็นเส้นทางที่จะต่อสู้กับเหล่าร้ายเสมอ คำปฏิญาณสุดท้าย จะกระทำเมื่อเขาหรือเธอถึงเลเวล 3 นั้นถือเป็นการจบการฝึกฝนเป็นพาลาดิน ตัวละครบางคนในคลาสนี้จะไม่ถือว่าตัวเองเป็นพาลาดินที่แท้จริงจนกว่าจะถึงเลเวล 3 และได้ให้คำปฏิญาณสุดท้ายนี้ สำหรับคนอื่น การได้กล่าวคำสาบานถือเป็นเพียงพิธีการ เป็นตราประทับอย่างเป็นทางการถึงความแน่วแน่ที่อยู่ในใจของพาลาดินมาตลอด
 
@@ -254,11 +254,11 @@ name: พาลาดิน (Paladin)
 
 | เลเวลพาลาดิน | คาถา                                                                                                                                                                            |
 | ------------ | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| 3rd          | [การป้องกันจากความชั่วร้ายและความดี (protection from evil and good)](/basic-rules/ch11-spells/#protection-from-evil-and-good), [sanctuary](/basic-rules/ch11-spells/#sanctuary) |
-| 5th          | [lesser restoration](/basic-rules/ch11-spells/#lesser-restoration), [zone of truth](/basic-rules/ch11-spells/#zone-of-truth)                                                    |
-| 9th          | [beacon of hope](/basic-rules/ch11-spells/#beacon-of-hope), [dispel magic](/basic-rules/ch11-spells/#dispel-magic)                                                              |
-| 13th         | [freedom of movement](/basic-rules/ch11-spells/#freedom-of-movement), [guardian of faith](/basic-rules/ch11-spells/#guardian-of-faith)                                          |
-| 17th         | [commune](/basic-rules/ch11-spells/#commune), [flame strike](/basic-rules/ch11-spells/#flame-strike)                                                                            |
+| 3rd          | [การป้องกันจากความชั่วร้ายและความดี (protection from evil and good)](/basic-rules/ch11-spells/#protection-from-evil-and-good), [sanctuary](/basic-rules/ch11-spells/#sanctuary) |
+| 5th          | [lesser restoration](/basic-rules/ch11-spells/#lesser-restoration), [zone of truth](/basic-rules/ch11-spells/#zone-of-truth)                                                    |
+| 9th          | [beacon of hope](/basic-rules/ch11-spells/#beacon-of-hope), [dispel magic](/basic-rules/ch11-spells/#dispel-magic)                                                              |
+| 13th         | [freedom of movement](/basic-rules/ch11-spells/#freedom-of-movement), [guardian of faith](/basic-rules/ch11-spells/#guardian-of-faith)                                          |
+| 17th         | [commune](/basic-rules/ch11-spells/#commune), [flame strike](/basic-rules/ch11-spells/#flame-strike)                                                                            |
 
 #### ผสานพลังศักดิ์สิทธิ์ (Channel Divinity)
 
@@ -457,6 +457,6 @@ name: พาลาดิน (Paladin)
 
 ที่เลเวล 20 พาลาดินสามาใช้แอ็คชันในการสร้างออร่าแห่งความืดมน คงอยู่เป็นเวลา 1 นาที ออร่านี้จะลดแสงจากแสงปกติ (bright light) ในระยะ 30 ฟุตรอบตัวพาลาดินให้เป็นแสงสลัว (dim light) เมื่อไรก็ตามที่ศัตรูที่หวาดกลัวพาลาดินเริ่มเทิร์นในพื้นที่ออร่านี้ จะได้รับความเสียหายด้านพลังจิต 4d10 ยิ่งกว่านั้น พาลาดินและสิ่งมีชีวิตที่เลือกที่อยู่ในบริเวณออร่าจะถูกปกคลุมด้วยเงา สิ่งมีชีวิตที่ต้องพึ่งพาการมองเห็นจะต้องทอยแบบเสียเปรียบในการทอยโจมตีสิ่งมีชีวิตที่ถูกปกคลุมด้วยเงานี้
 
-ในขณะที่ออร่ายังคงอยู่ พาลาดินจะสามารถใช้โบนัสแอ็คชันในเทิร์นของตัวเองในการบังคับให้เงาไปโจมตีสิ่งมีชีวิตตัวหนึ่ง พาลาดินจะใช้การโจมตีเป้าหมายแบบประชิดตัวด้วยคาถา ถ้าโจมตีโดน เป้าหมายจะได้รับความเสียหายแบบเน่าสลาย (necrotic damage) เท่ากับ 3d10 + ค่าโมดิไฟเออร์เสน่ห์ (Wisdom) ของพาลาดิน
+ในขณะที่ออร่ายังคงอยู่ พาลาดินจะสามารถใช้โบนัสแอ็คชันในเทิร์นของตัวเองในการบังคับให้เงาไปโจมตีสิ่งมีชีวิตตัวหนึ่ง พาลาดินจะใช้การโจมตีเป้าหมายแบบประชิดตัวด้วยคาถา ถ้าโจมตีโดน เป้าหมายจะได้รับความเสียหายแบบเน่าสลาย (necrotic damage) เท่ากับ 3d10 + ค่าโมดิไฟเออร์เสน่ห์ (Charisma) ของพาลาดิน
 
 หลังจากเปิดใช้ออร่านี้ พาลาดินจะไม่สามารถใช้ได้อีกจนกว่าจะจบการพักยาว
