@@ -10,6 +10,16 @@ body {
     font-style: normal;
 }
 
+.article-content h2 {
+    border-bottom: 2px solid darkred;
+    padding-bottom: .30em;
+}
+
+.article-content h3 {
+    border-bottom: 1px solid darkred;
+    padding-bottom: .30em;
+}
+
 .monster-stat {
     clear: both;
     border: 1px solid #d4d0ce;

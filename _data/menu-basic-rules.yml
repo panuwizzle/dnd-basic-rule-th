@@ -22,8 +22,46 @@
       url: /basic-rules/ch01-step-by-step-character/
     - name: "บทที่ 2: เผ่าพันธุ์"
       url: /basic-rules/ch02-races/
+      children:
+      - name: มนุษย์ (Human)
+        url: /basic-rules/races/human/
+      - name: เอลฟ์ (Elf)
+        url: /basic-rules/races/elf/
+      - name: ดวอร์ฟ (Dwarf)
+        url: /basic-rules/races/dwarf/
+      - name: ฮาร์ฟลิง (Halfling)
+        url: /basic-rules/races/halfling/
+      - name: ฮาร์ฟ-เอลฟ์ (Half-Elf)
+        url: /basic-rules/races/half-elf/
+      - name: ฮาร์ฟ-ออร์ค (Half-Orc)
+        url: /basic-rules/races/half-orc/
+      - name: ทีฟลิง (Tiefling)
+        url: /basic-rules/races/tiefling/
     - name: "บทที่ 3: คลาส (อาชีพ)"
       url: /basic-rules/ch03-classes/
+      children:
+      - name: บาบาเรี่ยน (Barbarian)
+        url: /basic-rules/classes/barbarian/
+      - name: เคลอริก (Cleric)
+        url: /basic-rules/classes/cleric/
+      - name: ดรูอิด (Druid)
+        url: /basic-rules/classes/druid/
+      - name: ไฟท์เตอร์ (Fighter)
+        url: /basic-rules/classes/fighter/
+      - name: มองค์ (Monk)
+        url: /basic-rules/classes/monk/
+      - name: พาลาดิน (Paladin)
+        url: /basic-rules/classes/paladin/
+      - name: เรนเจอร์ (Ranger)
+        url: /basic-rules/classes/ranger/
+      - name: โร็ก (Rogue)
+        url: /basic-rules/classes/rogue/
+      - name: ซอเซอร์เรอร์ (Sorcerer)
+        url: /basic-rules/classes/sorcerer/
+      - name: วอร์ล็อค (Warlock)
+        url: /basic-rules/classes/warlock/
+      - name: วิซาร์ด (Wizard)
+        url: /basic-rules/classes/wizard/
     - name: "บทที่ 4: ลักษณะตัวละครและภูมิหลัง"
       url: /basic-rules/ch04-personality-and-background/
     - name: "บทที่ 5: อุปกรณ์"
