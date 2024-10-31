@@ -1,121 +1,161 @@
---- 
---- 
+---
+---
+
 * {
-    font-family: "Sarabun", sans-serif;
+  font-family: "Sarabun", sans-serif;
 }
 
 body {
-    font-family: "Sarabun", sans-serif;
-    font-weight: 400;
-    font-style: normal;
+  font-family: "Sarabun", sans-serif;
+  font-weight: 400;
+  font-style: normal;
 }
 
 .article-content h2 {
-    border-bottom: 2px solid darkred;
-    padding-bottom: .30em;
+  border-bottom: 2px solid darkred;
+  padding-bottom: 0.3em;
 }
 
 .article-content h3 {
-    border-bottom: 1px solid darkred;
-    padding-bottom: .30em;
+  border-bottom: 1px solid darkred;
+  padding-bottom: 0.3em;
 }
 
 .monster-stat {
-    clear: both;
-    border: 1px solid #d4d0ce;
-    padding: 15px;
+  clear: both;
+  border: 1px solid #d4d0ce;
+  padding: 15px;
+  color: black;
+  column-count: 2;
+  column-gap: 15px;
+  background: rgb(246, 243, 238);
+  box-shadow: 0 0 5px #979aa4;
+  position: relative;
+  margin-bottom: 15px;
+
+  & h1 {
+    font-size: 1.5em;
+  }
+
+  & h3 {
+    font-size: 1.25em;
+  }
+
+  & strong {
     color: black;
-    column-count: 2;
-    column-gap: 15px;
-    background: rgb(246, 243, 238);
-    box-shadow: 0 0 5px #979AA4;
-    position: relative;
-    margin-bottom: 15px;
+  }
 
-    & h1 {
-        font-size: 1.5em;
-    }
+  .redunder::after {
+    content: "";
+    display: block;
+    border-bottom: 2px solid #bc0f0f;
+    padding-top: 10px;
+  }
 
-    & h3 {
-        font-size: 1.25em;
-    }
+  .redtable {
+    display: block;
+    border-bottom: 2px solid #bc0f0f;
+  }
 
-    & strong {
-        color: black;
-    }
-
-    .redunder::after {
-        content: "";
-        display: block;
-        border-bottom: 2px solid #bc0f0f;
-        padding-top: 10px;
-    }
-
-    .redtable {
-        display: block;
-        border-bottom: 2px solid #bc0f0f;
-    }
-
-    .redslim {
-        display: block;
-        padding-bottom: 10px;
-        border-bottom: 1px solid #bc0f0f;
-    }
+  .redslim {
+    display: block;
+    padding-bottom: 10px;
+    border-bottom: 1px solid #bc0f0f;
+  }
 }
 
 .monster-stat::before {
-    left: -3px;
-    top: -3px;
-    right: -3px;
-    content: '';
-    background-image: url(/assets/MMStatBar_lrg.jpg);
-    background-size: 100% 100%;
-    background-position: center;
-    height: 4px;
-    display: inline-block;
-    position: absolute;
+  left: -3px;
+  top: -3px;
+  right: -3px;
+  content: "";
+  background-image: url(/assets/MMStatBar_lrg.jpg);
+  background-size: 100% 100%;
+  background-position: center;
+  height: 4px;
+  display: inline-block;
+  position: absolute;
 }
 
 .page-index {
-    column-count: 3;
-    & h1 {
-        font-size: 1.5rem;
-        & a {
-            font-size: 1.5rem;
-        }
-    }
-    & h2 {
-        font-size: 1.25rem;
-        & a {
-            font-size: 1.25rem;
-        }
-    }
-    & h3 {
-        font-size: 1rem;
-        & a {
-            font-size: 1rem;
-        }
-    }
-}
-@media screen and (max-width: 768px) {
-    .page-index, .monster-stat  {
-        column-count: 1;
-
+  column-count: 3;
+  & h1 {
+    font-size: 1.5rem;
+    & a {
+      font-size: 1.5rem;
     }
   }
-  
+  & h2 {
+    font-size: 1.25rem;
+    & a {
+      font-size: 1.25rem;
+    }
+  }
+  & h3 {
+    font-size: 1rem;
+    & a {
+      font-size: 1rem;
+    }
+  }
+}
+
+.accordion {
+  max-width: 300px;
+  margin: 20px;
+
+  .accordion-header {
+    background-color: #f5f5f5;
+    padding: 1rem;
+    cursor: pointer;
+    border: 1px solid #dbdbdb;
+    margin-bottom: -1px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+  }
+
+  .accordion-content {
+    max-height: 0;
+    overflow: hidden;
+    transition: max-height 0.3s ease-out;
+    background-color: white;
+    border: 1px solid #dbdbdb;
+    margin-bottom: -1px;
+  }
+
+  .accordion-content.is-active {
+    max-height: 500px;
+    padding: 1rem;
+  }
+
+  .accordion-icon {
+    transition: transform 0.3s ease;
+  }
+
+  .is-active .accordion-icon {
+    transform: rotate(180deg);
+  }
+}
+
+@media screen and (max-width: 768px) {
+  .page-index,
+  .monster-stat {
+    column-count: 1;
+  }
+}
+
 @media (prefers-color-scheme: light) {
-    * {
-        color: black;
-    }
-    
-    body {
-        background-image: url(/assets/background_texture.png);
-    }
+  * {
+    color: black;
+  }
+
+  body {
+    background-image: url(/assets/background_texture.png);
+  }
 }
 
 @media (prefers-color-scheme: dark) {
-    * {
-        color: white;
-    }
+  * {
+    color: white;
+  }
 }
