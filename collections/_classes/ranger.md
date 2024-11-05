@@ -31,249 +31,257 @@ name: เรนเจอร์ (Ranger)
 
 เมื่อคุณสร้างตัวละครเรนเจอร์ พิจารณาถึงธรรมชาติของการฝึกฝนที่ทำให้คุณมีความสามารถเป็นเรนเจอร์ คุณได้รับการฝึกจากครูคนเดียว ท่องไปในพงไพรด้วยกันจนกระทั่งคุณเชี่ยวชาญในวิถีแห่งเรนเจอร์ คุณออกจากการฝึกฝน หรือเพราะครูของคุณถูกฆ่า อาจจะเป็นมอนสเตอร์ชนิดเดียวกันจึงทำให้มันกลายเป็นมอนสเตอร์ที่คุณเน้นล่าเป็นพิเศษ หรือคุณอาจจะเรียนรู้ทักษะจากการเป็นส่วนหนึ่งของกองกำลังเรนเจอร์ที่ทำงานร่วมกับเหล่าดรูอิด ได้รับการฝึกฝนทั้งในสายเวทย์มนต์และตำนานป่า คุณอาจจะเรียนรู้ด้วยตัวเอง เป็นผู้สันโดษที่เรียนทักษะการต่อสู้ การตามรอย และแม้แต่การสร้างสายสัมพันธ์ทางเวทย์มนต์กับธรรมชาติผ่านการใช้ชีวิตและเอาตัวรอดในป่า
 
-What’s the source of your particular hatred of a certain kind of enemy? Did a monster kill someone you loved or destroy your home village? Or did you see too much of the destruction these monsters cause and commit yourself to reining in their depredations? Is your adventuring career a continuation of your work in protecting the borderlands, or a significant change? What made you join up with a band of adventurers? Do you find it challenging to teach new allies the ways of the wild, or do you welcome the relief from solitude that they offer?
+อะไรเป็นสาเหตุของความเกลียดชังศัตรูประเภทใดประเภทหนึ่งเป็นพิเศษของคุณ? สัตว์ประหลาดฆ่าคนที่คุณรักหรือทำลายหมู่บ้านบ้านเกิดของคุณหรือไม่? หรือคุณเห็นการทำลายล้างที่สัตว์ประหลาดเหล่านี้ก่อไว้มากเกินไปและมุ่งมั่นที่จะควบคุมการทำลายล้างของมัน? อาชีพนักผจญภัยของคุณเป็นงานต่อเนื่องจากงานของคุณในการปกป้องดินแดนชายแดนหรือเป็นการเปลี่ยนแปลงที่สำคัญ? อะไรทำให้คุณเข้าร่วมกับกลุ่มนักผจญภัย? คุณพบว่าการสอนพันธมิตรใหม่เกี่ยวกับวิถีแห่งป่าเป็นเรื่องท้าทายหรือไม่ หรือคุณยินดีกับความโล่งใจจากความโดดเดี่ยวที่พวกมันมอบให้?
 
-### Quick Build
+### สร้างอย่างเร็ว (Quick Build)
 
-You can make a ranger quickly by following these suggestions. First, make Dexterity your highest ability score, followed by Wisdom. (Some rangers who focus on two-weapon fighting make Strength higher than Dexterity.) Second, choose the outlander background.
+คุณสามารถสร้างเรนเจอร์ได้อย่างรวดเร็วโดยทำตามคำแนะนำดังนี้ อย่างแรก ให้ความคล่องแคล่ว (Dexterity) เป็นความสามารถสูงสุด ตามด้วยความรอบรู้ (Wisdom) (เรนเจอร์บางคนที่เน้นการใช้ดาบสองมือจะให้ความแข็งแกร่ง (Strength) เป็นค่าที่มากกว่าความคล่องแคล่ว) อย่างที่สอง เลือกภูมิหลังเป็นคนต่างแดน (outlander)
 
-| Level | Proficiency <br>Bonus | Features                                                                                                                                           | Spells <br>Known | — Spell | Slots | per | Spell | Level — |
-| ----- | --------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------- | ---------------- | ------- | ----- | --- | ----- | ------- |
-|       |                       |                                                                                                                                                    |                  | 1st     | 2nd   | 3rd | 4th   | 5th     |
-| 1st   | +2                    | [Favored Enemy](/basic-rules/ch11-spells/#FavoredEnemy), [Natural Explorer](/basic-rules/ch11-spells/#NaturalExplorer)                             | —                | —       | —     | —   | —     | —       |
-| 2nd   | +2                    | [Fighting Style](/basic-rules/ch11-spells/#RangerFightingStyle), [Spellcasting](/basic-rules/ch11-spells/#RangerSpellcasting)                      | 2                | 2       | —     | —   | —     | —       |
-| 3rd   | +2                    | [Ranger Archetype](/basic-rules/ch11-spells/#RangerArchetype), [Primeval Awareness](/basic-rules/ch11-spells/#PrimevalAwareness)                   | 3                | 3       | —     | —   | —     | —       |
-| 4th   | +2                    | [Ability Score Improvement](/basic-rules/ch11-spells/#RangerAbilityScoreImprovement)                                                               | 3                | 3       | —     | —   | —     | —       |
-| 5th   | +3                    | [Extra Attack](/basic-rules/ch11-spells/#RangerExtraAttack)                                                                                        | 4                | 4       | 2     | —   | —     | —       |
-| 6th   | +3                    | [Favored Enemy](/basic-rules/ch11-spells/#FavoredEnemy) and [Natural Explorer](/basic-rules/ch11-spells/#NaturalExplorer) Improvements             | 4                | 4       | 2     | —   | —     | —       |
-| 7th   | +3                    | [Ranger Archetype Feature](/basic-rules/ch11-spells/#RangerArchetypes)                                                                             | 5                | 4       | 3     | —   | —     | —       |
-| 8th   | +3                    | [Ability Score Improvement](/basic-rules/ch11-spells/#RangerAbilityScoreImprovement), [Land’s Stride](/basic-rules/ch11-spells/#RangerLandsStride) | 5                | 4       | 3     | —   | —     | —       |
-| 9th   | +4                    | —                                                                                                                                                  | 6                | 4       | 3     | 2   | —     | —       |
-| 10th  | +4                    | [Natural Explorer Improvement](/basic-rules/ch11-spells/#NaturalExplorer), [Hide in Plain Sight](/basic-rules/ch11-spells/#HideinPlainSight)       | 6                | 4       | 3     | 2   | —     | —       |
-| 11th  | +4                    | [Ranger Archetype Feature](/basic-rules/ch11-spells/#RangerArchetypes)                                                                             | 7                | 4       | 3     | 3   | —     | —       |
-| 12th  | +4                    | [Ability Score Improvement](/basic-rules/ch11-spells/#RangerAbilityScoreImprovement)                                                               | 7                | 4       | 3     | 3   | —     | —       |
-| 13th  | +5                    | —                                                                                                                                                  | 8                | 4       | 3     | 3   | 1     | —       |
-| 14th  | +5                    | [Favored Enemy Improvement](/basic-rules/ch11-spells/#FavoredEnemy), [Vanish](/basic-rules/ch11-spells/#Vanish)                                    | 8                | 4       | 3     | 3   | 1     | —       |
-| 15th  | +5                    | [Ranger Archetype Feature](/basic-rules/ch11-spells/#RangerArchetypes)                                                                             | 9                | 4       | 3     | 3   | 2     | —       |
-| 16th  | +5                    | [Ability Score Improvement](/basic-rules/ch11-spells/#RangerAbilityScoreImprovement)                                                               | 9                | 4       | 3     | 3   | 2     | —       |
-| 17th  | +6                    | —                                                                                                                                                  | 10               | 4       | 3     | 3   | 3     | 1       |
-| 18th  | +6                    | [Feral Senses](/basic-rules/ch11-spells/#FeralSenses)                                                                                              | 10               | 4       | 3     | 3   | 3     | 1       |
-| 19th  | +6                    | [Ability Score Improvement](/basic-rules/ch11-spells/#RangerAbilityScoreImprovement)                                                               | 11               | 4       | 3     | 3   | 3     | 2       |
-| 20th  | +6                    | [Foe Slayer](/basic-rules/ch11-spells/#FoeSlayer)                                                                                                  | 11               | 4       | 3     | 3   | 3     | 2       |
+| เลเวล | โบนัส <br>ความชำนาญ | ความสามารถ                                                                                       | คาถาที่รู้ | — Spell | Slots | per | Spell | Level — |
+| ----- | ------------------- | ------------------------------------------------------------------------------------------------ | ---------- | ------- | ----- | --- | ----- | ------- |
+|       |                     |                                                                                                  |            | 1st     | 2nd   | 3rd | 4th   | 5th     |
+| 1st   | +2                  | [ศัตรูตัวโปรด (Favored Enemy)](#FavoredEnemy), [นักผจญภัยโดยธรรมชาติ (Natural Explorer)](#NaturalExplorer)                             | —          | —       | —     | —   | —     | —       |
+| 2nd   | +2                  | [รูปแบบการต่อสู้ (Fighting Style)](#RangerFightingStyle), [การใช้คาถา (Spellcasting)](#RangerSpellcasting)                      | 2          | 2       | —     | —   | —     | —       |
+| 3rd   | +2                  | [แม่แบบเรนเจอร์ (Ranger Archetype)](#RangerArchetype), [การระวังตัวแบบสัตว์ป่า (Primeval Awareness)](#PrimevalAwareness)                   | 3          | 3       | —     | —   | —     | —       |
+| 4th   | +2                  | [คะแนนความสามารถเพิ่ม (Ability Score Improvement)](#RangerAbilityScoreImprovement)                                      | 3          | 3       | —     | —   | —     | —       |
+| 5th   | +3                  | [การโจมตีพิเศษ (Extra Attack)](#RangerExtraAttack)                                                               | 4          | 4       | 2     | —   | —     | —       |
+| 6th   | +3                  | [ศัตรูตัวโปรด (Favored Enemy)](#FavoredEnemy) and [นักสำรวจโดยธรรมชาติ (Natural Explorer)](#NaturalExplorer) Improvements             | 4          | 4       | 2     | —   | —     | —       |
+| 7th   | +3                  | [แม่แบบเรนเจอร์ (Ranger Archetype Feature)](#RangerArchetypes)                                                    | 5          | 4       | 3     | —   | —     | —       |
+| 8th   | +3                  | [คะแนนความสามารถเพิ่ม (Ability Score Improvement)](#RangerAbilityScoreImprovement), [นักบุกเบิก (Land’s Stride)](#RangerLandsStride) | 5          | 4       | 3     | —   | —     | —       |
+| 9th   | +4                  | —                                                                                                | 6          | 4       | 3     | 2   | —     | —       |
+| 10th  | +4                  | [นักสำรวจโดยธรรมชาติขั้นสูง (Natural Explorer Improvement)](#NaturalExplorer), [ซ่อนในที่แจ้ง (Hide in Plain Sight)](#HideinPlainSight)       | 6          | 4       | 3     | 2   | —     | —       |
+| 11th  | +4                  | [แม่แบบเรนเจอร์ (Ranger Archetype Feature)](#RangerArchetypes)                                                    | 7          | 4       | 3     | 3   | —     | —       |
+| 12th  | +4                  | [คะแนนความสามารถเพิ่ม (Ability Score Improvement)](#RangerAbilityScoreImprovement)                                      | 7          | 4       | 3     | 3   | —     | —       |
+| 13th  | +5                  | —                                                                                                | 8          | 4       | 3     | 3   | 1     | —       |
+| 14th  | +5                  | [ศัตรูตัวโปรดขั้นสูง (Favored Enemy Improvement)](#FavoredEnemy), [หายตัว (Vanish)](#Vanish)                                    | 8          | 4       | 3     | 3   | 1     | —       |
+| 15th  | +5                  | [แม่แบบเรนเจอร์ (Ranger Archetype Feature)](#RangerArchetypes)                                                    | 9          | 4       | 3     | 3   | 2     | —       |
+| 16th  | +5                  | [คะแนนความสามารถเพิ่ม (Ability Score Improvement)](#RangerAbilityScoreImprovement)                                      | 9          | 4       | 3     | 3   | 2     | —       |
+| 17th  | +6                  | —                                                                                                | 10         | 4       | 3     | 3   | 3     | 1       |
+| 18th  | +6                  | [ประสาทสัมผัสของสัตว์ร้าย (Feral Senses)](#FeralSenses)                                                                     | 10         | 4       | 3     | 3   | 3     | 1       |
+| 19th  | +6                  | [คะแนนความสามารถเพิ่ม (Ability Score Improvement)](#RangerAbilityScoreImprovement)                                      | 11         | 4       | 3     | 3   | 3     | 2       |
+| 20th  | +6                  | [ผู้กำจัดศัตรู (Foe Slayer)](#FoeSlayer)                                                                         | 11         | 4       | 3     | 3   | 3     | 2       |
 
-## Class Features
+## ความสามารถของคลาส
 
-As a ranger, you gain the following class features.
+เมื่อเป็นเรนเจอร์ คุณจะได้รับความสามารถของคลาสดังนี้
 
-Hit Points
-Hit Dice: 1d10 per ranger level
+### ฮิตพอยต์
 
-Hit Points at 1st Level: 10 + your Constitution modifier
+**ฮิตไดซ์**: 1d10 ต่อเลเวลเรนเจอร์
 
-Hit Points at Higher Levels: 1d10 (or 6) + your Constitution modifier per ranger level after 1st
+**ฮิตพอยต์เมื่อเลเวล 1**: 10 + ค่าโมดิไฟเออร์ความอดทน (Constitution)
 
-Proficiencies
-Armor: Light armor, medium armor, shields
+**ฮิตพอยต์เมื่อเลเวลสูงขึ้น**: 1d10 (หรือ 6) + ค่าโมดิไฟเออร์ความอดทน (Constitution) ต่อเลเวลเรนเจอร์มากกว่าเลเวล 1
 
-Weapons: Simple weapons, martial weapons
+### ความเชี่ยวชาญ
 
-Tools: None
+**เกราะ**: เกราะเบา, เกราะกลาง, โล่
 
-Saving Throws: Strength, Dexterity
+**อาวุธ**: อาวุธพื้นฐาน, อาวุธศึก
 
-Skills: Choose three from Animal Handling, Athletics, Insight, Investigation, Nature, Perception, Stealth, and Survival
+**เครื่องมือ**: ไม่มี
 
-Equipment
-You start with the following equipment, in addition to the equipment granted by your background:
+**การทอยป้องกัน**: ความแข็งแกร่ง (Strength), ความคล่องแคล่ว (Dexterity)
 
-- (a) scale mail or (b) leather armor
-- (a) two shortswords or (b) two simple melee weapons
-- (a) a dungeoneer’s pack or (b) an explorer’s pack
-- A longbow and a quiver of 20 arrows
+**ทักษะ**: เลือก 3 ทักษะจาก [Animal Handling](), [Athletics](), [Insight](), [Investigation](), [Nature](), [Perception](), [Stealth](), and [Survival]()
 
-### Favored Enemy
+### อุปกรณ์
 
-Beginning at 1st level, you have significant experience studying, tracking, hunting, and even talking to a certain type of enemy.
+คุณจะเริ่มด้วยอุปกรณ์ดังต่อไปนี้ เพิ่มเติมจากอุปกรณ์ที่ได้รับจากภูมิหลัง:
 
-Choose a type of favored enemy: aberrations, beasts, celestials, constructs, dragons, elementals, fey, fiends, giants, monstrosities, oozes, plants, or undead. Alternatively, you can select two races of humanoid (such as gnolls and orcs) as favored enemies.
+- (a) เกราะเกล็ด หรือ (b) เกราะหนัง
+- (a) ดาบสั้น 2 เล่ม หรือ (b) อาวุธพื้นฐาน 2 ชิ้น
+- (a) ชุดอุปกรณ์นักตะลุยดันเจียน หรือ (b) ชุดอุปกรณ์นักสำรวจ
+- ธนูยาวและลูกศร 20 ดอก
 
-You have advantage on Wisdom (Survival) checks to track your favored enemies, as well as on Intelligence checks to recall information about them.
+### ศัตรูตัวโปรด (Favored Enemy) {#FavoredEnemy}
 
-When you gain this feature, you also learn one language of your choice that is spoken by your favored enemies, if they speak one at all.
+เริ่มที่เลเวล 1 คุณมีประสบการณ์ในการศึกษา, ตามรอย, ไล่ล่า และแม้แต่สื่อสารกับศัตรูเฉพาะชนิดนั้น
 
-You choose one additional favored enemy, as well as an associated language, at 6th and 14th level. As you gain levels, your choices should reflect the types of monsters you have encountered on your adventures.
+เลือกชนิดศัตรูที่เป็นตัวโปรดของคุณ: สิ่งมีชีวิตต่างมิติ (aberrations), สัตว์ป่า (beasts), เทวะ (celestials), เครื่องจักร (constructs), มังกร (dragons), วิญญาณธาตุ (elementals), ภูติ (fey), ปีศาจ (fiends), ยักษ์ (giants), สัตว์ประหลาด (monstrosities), สิ่งมีชีวิตเหลว (oozes), พืช (plants), หรืออันเดด (undead) หรือ คุณสามารถเลือกเผ่าพันธุ์รูปร่างมนุษย์อีก 2 เผ่า (เช่น โนล (gnoll) และออร์ค (orcs)) เป็นศัตรูตัวโปรด
 
-### Natural Explorer
+คุณจะได้ทอยทดสอบความสามารถด้านความรอบรู้ (การเอาตัวรอด) (Wisdom - Survival) แบบได้เปรียบในการตามรอยศัตรูตัวโปรดของคุณ และทอยแบบได้เปรียบในการทอยทดสอบความฉลาด (Intelligence) เมื่อต้องนึกถึงข้อมูลเกี่ยวกับพวกมัน
 
-You are particularly familiar with one type of natural environment and are adept at traveling and surviving in such regions. Choose one type of favored terrain: arctic, coast, desert, forest, grassland, mountain, swamp, or the Underdark. When you make an Intelligence or Wisdom check related to your favored terrain, your proficiency bonus is doubled if you are using a skill that you’re proficient in.
+เมื่อคุณได้ความสามารถนี้ คุณจะได้เรียนรู้ภาษาเพิ่ม 1 ภาษาตามแต่ที่คุณเลือก ซึ่งเป็นภาษาที่ศัตรูตัวโปรดของคุณใช้ได้ ถ้ามันรู้ภาษาใด ๆ
 
-While traveling for an hour or more in your favored terrain, you gain the following benefits:
+คุณจะได้เลือกศัตรูตัวโปรดได้เพิ่มอีก 1 ชนิด พร้อมด้วยภาษาที่เรียนรู้ได้เมื่อถึงเลเวล 6 และ 14 เมื่อคุณเลเวลเพิ่มขึ้น ตัวเลือกของคุณควรจะสะท้อนถึงชนิดของศัตรูที่คุณได้ต่อสู้ด้วยระหว่างการผจญภัย
 
-- Difficult terrain doesn’t slow your group’s travel.
-- Your group can’t become lost except by magical means.
-- Even when you are engaged in another activity while traveling (such as foraging, navigating, or tracking), you remain alert to danger.
-- If you are traveling alone, you can move stealthily at a normal pace.
-- When you forage, you find twice as much food as you normally would.
-- While tracking other creatures, you also learn their exact number, their sizes, and how long ago they passed through the area.
-  You choose additional favored terrain types at 6th and 10th level.
+### นักสำรวจโดยธรรมชาติ (Natural Explorer) {#NaturalExplorer}
 
-### Fighting Style
+คุณมีความคุ้นเคยกับพื้นที่ทางธรรมชาติแบบหนึ่งเป็นอย่างมากและชำนาญการเดินทางและเอาตัวรอดในสภาพพื้นที่นั้นได้อย่างดี เลือกหนึ่งชนิดพื้นที่ที่คุณชำนาญ: ขั้วโลกเหนือ (arctic), ชายฝั่ง (coast), ทะเลทราย (desert), ป่า (forest), ทุ่งหญ้า (grassland), ภูเขา (mountain), บึง (swamp), หรือ อันเดอร์ดาร์ก (the Underdark) เมื่อคุณต้องทอยทดสอบความฉลาด (Intelligence) หรือ ความรอบรู้ (Wisdom) ที่เกี่ยวข้องกับพื้นที่ที่คุณชำนาญ ค่าโบนัสความเชี่ยวชาญจะเป็นสองเท่าถ้าคุณใช้ทักษะที่คุณมีความเชี่ยวชาญ
 
-At 2nd level, you adopt a particular style of fighting as your specialty. Choose one of the following options.
+เมื่อคุณเดินทางเป็นเวลา 1 ชั่วโมงหรือมากกว่าในพื้นที่ที่คุณชำนาญ คุณจะได้รับผลพิเศษดังนี้:
+
+- พื้นที่ทุรกันดาร (difficult terrain) จะไม่ทำให้การเดินทางของทั้งกลุ่มช้าลง
+- กลุ่มของคุณจะไม่หลงทางยกเว้นโดยผลจากเวทย์มนต์
+- แม้ว่าคุณจะทำกิจกรรมอื่นนอกเหนือจากการเดินทาง (เช่น หาของป่า (foraging), การนำทาง (navigating), หรือการตามรอย (tracking)), คุณจะยังตื่นตัวกับภัยอันตรายรอบตัว
+- ถ้าคุณเดินทางลำพัง คุณจะเคลื่อนที่แบบลอบเร้น (stealthily) ด้วยความเร็วปกติ
+- เมื่อคุณเก็บของป่า (foraging) คุณจะได้อาหารมากเป็นสองเท่าจากการหาได้ตามปกติ
+- ขณะที่ออกตามรอย คุณจะรู้จำนวนแน่นอนของพวกมัน ขนาด และพวกมันผ่านพื้นที่ไปนานแค่ไหนแล้ว
+
+คุณจะเลือกพื้นที่ที่ชำนาญได้เพิ่มเติมเมื่อเลเวล 6 และเลเวล 10
+
+### รูปแบบการต่อสู้ (Fighting Style) {#RangerFightingStyle}
+
 You can’t take a Fighting Style option more than once, even if you later get to choose again.
+ที่เลเวล 2 คุณจะรับรูปแบบการต่อสู้มาเป็นความสามารถพิเศษ เลือกจากตัวเลือกในรายการดังต่อไปนี้ คุณจะไม่สามารถเลือกรูปแบบการต่อสู้ได้มากกว่าหนึ่งครั้ง แม้ว่าคุณจะได้เลือกอีกครั้ง
 
-#### Archery
+#### การใช้ธนู (Archery)
 
-You gain a +2 bonus to attack rolls you make with ranged weapons.
+คุณจะได้โบนัส +2 กับการทอยโจมตีด้วยอาวุธระยะไกล
 
-#### Defense
+#### การป้องกัน (Defense)
 
-While you are wearing armor, you gain a +1 bonus to AC.
+เมื่อคุณใส่เกราะ คุณจะได้โบนัส +1 ให้ AC
 
-#### Dueling
+#### การดวล (Dueling)
 
-When you are wielding a melee weapon in one hand and no other weapons, you gain a +2 bonus to damage rolls with that weapon.
+เมื่อคุณถืออาวุธระยะประชิดในมือหนึ่งและไม่ได้ถืออาวุธอื่น คุณจะได้โบนัส +2 ในการทอยความเสียหายจากอาวุธนั้น
 
-#### Two-Weapon Fighting
+#### การใช้ดาบสองมือ (Two-Weapon Fighting)
 
-When you engage in two-weapon fighting, you can add your ability modifier to the damage of the second attack.
+เมื่อคุณโจมตีด้วยการใช้ดาบสองมือ คุณสามารถเพิ่มค่าโมดิไฟเออร์ความสามารถไปในค่าความเสียหายของการโจมตีที่สอง
 
-### Spellcasting
+### การใช้คาถา (Spellcasting) {#RangerSpellcasting}
 
-By the time you reach 2nd level, you have learned to use the magical essence of nature to cast spells, much as a druid does. See [chapter 10] for the general rules of spellcasting and [chapter 11] for the ranger spell list.
+เมื่อคุณถึงเลเวล 2 คุณจะได้เรียนรู้ถึงการใช้เวทย์มนต์บริสุทธิ์จากธรรมชาติในการร่ายคาถา คล้ายกับที่ดรูอิดใช้ ดู [บทที่ 10](/basic-rules/ch11-spells) สำหรับกฏทั่วไปในการใช้คาถา และ[บทที่ 11](/basic-rules/ch11-spells) สำหรับคาถาของเรนเจอร์
 
-#### Spell Slots
+#### สล็อตคาถา (Spell Slots)
 
-The Ranger table shows how many spell slots you have to cast your ranger spells of 1st level and higher. To cast one of these spells, you must expend a slot of the spell’s level or higher. You regain all expended spell slots when you finish a long rest.
+ตารางเรนเจอร์แสดงถึงจำนวนสล็อตคาถาที่คุณมีในการใช้คาถาเรนเจอร์ของเลเวล 1 และที่สูงขึ้น ในการใช้คาถาเหล่านี้คุณต้องจ่ายเป็นสล็อตคาถาของเลเวลคาถานั้นหรือเลเวลสูงกว่า คุณจะได้รับสล็อตที่ใช้ไปเมื่อคุณจบการพักยาว
 
-For example, if you know the 1st-level spell [animal friendship] and have a 1st-level and a 2nd-level spell slot available, you can cast [animal friendship] using either slot.
+ตัวอย่างเช่น ถ้าคุณรู้คาถาเลเวล 1 [เป็นมิตรกับสัตว์ (animal friendship)](/basic-rules/ch11-spells#animal-friendship) และมีสล็อตคาถาเลเวล 1 และ 2 อยู่ คุณสามารถร่ายคาถา [เป็นมิตรกับสัตว์ (animal friendship)](/basic-rules/ch11-spells#animal-friendship) ด้วยสล็อตใดก็ได้
 
-#### Spells Known of 1st Level and Higher
+#### คาถาที่รู้จักสำหรับเลเวล 1 และสูงกว่า
 
-You know two 1st-level spells of your choice from the ranger spell list.
+คุณจะรู้คาถาเลเวล 1 จำนวน 2 คาถาจากรายการคาถาของเรนเจอร์
 
-The Spells Known column of the Ranger table shows when you learn more ranger spells of your choice. Each of these spells must be of a level for which you have spell slots. For instance, when you reach 5th level in this class, you can learn one new spell of 1st or 2nd level.
+ในคอลัมภ์ คาถาที่รู้จัก ในตารางเรนเจอร์แสดงถึงว่าคุณจะได้เรียนรู้คาถาเพิ่มเติมได้เมื่อใด แต่ละคาถาจะต้องมีสล็อตคาถาในเลเวลเดียวกันรองรับ ตัวอย่างเช่น เมื่อคุณถึงเลเวล 5 ในคลาสนี้ คุณสามารถเรียนคาถาใหม่ที่เลเวล 1 หรือ 2 ได้อีก 1 คาถา
 
-Additionally, when you gain a level in this class, you can choose one of the ranger spells you know and replace it with another spell from the ranger spell list, which also must be of a level for which you have spell slots.
+นอกจากนั้น เมื่อคุณได้เลเวลเพิ่มในคลาสนี้ คุณสามารถเลือกคาถาเรนเจอร์ที่คุณรู้อยู่แล้ว และแทนที่ด้วยคาถาใหม่จากรายการ ซึ่งต้องเป็นคาถาที่คุณมีสล็อตคาถาในเลเวลเดียวกัน
 
-#### Spellcasting Ability
+#### ความสามารถที่ใช้ในการร่ายคาถา (Spellcasting Ability)
 
-Wisdom is your spellcasting ability for your ranger spells, since your magic draws on your attunement to nature. You use your Wisdom whenever a spell refers to your spellcasting ability. In addition, you use your Wisdom modifier when setting the saving throw DC for a ranger spell you cast and when making an attack roll with one.
+คุณจะใช้ความรอบรู้ (Wisdom) เป็นความสามารถในการร่ายคาถาเรนเจอร์ เพราะเวทย์มนต์ที่คุณใช้เป็นการยืมพลังจากการเป็นหนึ่งเดียวกับธรรมชาติ คุณจะใช้ค่าความรอบรู้ (Wisdom) เมื่อใดก็ตามที่คาถาระบุถึงค่าความสามารถที่ใช้ในการร่ายคาถา (spellcasting ability) นอกเหนือจากนั้น คุณจะใช้ค่าโมดิไฟเออร์ความรอบรู้เมื่อต้องตั้งค่าความยากในการป้องกันคาถา (spell DC) และเมื่อจะใช้ในการทอยโจมตีด้วยคาถา
 
-**Spell save DC** = 8 + your proficiency bonus + your Wisdom modifier
+**ค่าความยากในการป้องกันคาถา (Spell save DC)** = 8 + ค่าความเชี่ยวชาญ (proficiency bonus) + ค่าโมดิไฟเออร์ความรอบรู้ (Wisdom)
 
-**Spell attack modifier** = your proficiency bonus + your Wisdom modifier
+**ค่าโมดิไฟเออร์การทอยโจมตีด้วยคาถา (Spell attack modifier)** = ค่าความเชี่ยวชาญ (proficiency bonus) + ค่าโมดิไฟเออร์ความรอบรู้ (Wisdom)
 
-### Ranger Archetype
+### แม่แบบเรนเจอร์ (Ranger Archetype) {#RangerArchetype}
 
-At 3rd level, you choose an archetype that you strive to emulate: Hunter or Beast Master, both detailed at the end of the class description. Your choice grants you features at 3rd level and again at 7th, 11th, and 15th level.
+ที่เลเวล 3 คุณจะได้เลือกแม่แบบที่คุณมุ่งฝึกฝนให้สำเร็จ: นักล่า (Hunter) หรือ ผู้ใช้สัตว์ (Beast Master) ทั้งสองมีรายละเอียดด้านล่างนี้ ตัวเลือกที่คุณเลือกจะให้ความสามารถเพิ่มเติมเมื่อคุณเลเวล 3 อีกครั้งเมื่อเลเวล 7, 11 และ 15 
 
-### Primeval Awareness
+### การระวังตัวแบบสัตว์ป่า (Primeval Awareness) {#PrimevalAwareness}
 
-Beginning at 3rd level, you can use your action and expend one ranger spell slot to focus your awareness on the region around you. For 1 minute per level of the spell slot you expend, you can sense whether the following types of creatures are present within 1 mile of you (or within up to 6 miles if you are in your favored terrain): aberrations, celestials, dragons, elementals, fey, fiends, and undead. This feature doesn’t reveal the creatures’ location or number.
+เริ่มที่เลเวล 3 คุณสามารถใช้แอ็คชันและใช้สล็อตคาถา 1 สล็อตในการทำสมาธิเพื่อรับรู้ระวังสิ่งแวดล้อมรอบตัว เป็นเวลา 1 นาทีต่อเลเวลของสล็อตคาถาที่คุณใช้ คุณสามารถจะรับรู้ได้ว่ามีสิ่งมีชีวิตชนิดเหล่านี้ในระยะ 1 ไมล์รอบตัวคุณ (หรือในระยะ 6 ไมล์หากคุณอยู่ในพื้นที่ที่ชำนาญ (favored terrain)): สิ่งมีชีวิตต่างมิติ (aberrations), เทวะ (celestials), มังกร (dragons), วิญญาณธาตุ (elementals), ภูติ (fey), ปีศาจ (fiends), และอันเดด (undead) ความสามารถนี้จะไม่เปิดเผยตำแหน่งหรือจำนวนของสิ่งมีชีวิต
 
-### Ability Score Improvement
+### คะแนนความสามารถเพิ่ม (Ability Score Improvement) {#RangerAbilityScoreImprovement}
 
-When you reach 4th level, and again at 8th, 12th, 16th, and 19th level, you can increase one ability score of your choice by 2, or you can increase two ability scores of your choice by 1. As normal, you can’t increase an ability score above 20 using this feature.
+เมื่อคุณถึงเลเวล 4 และอีกครั้งเมื่อเลเวล 8, 12, 16 และ 19 คุณสามารถเพิ่มคะแนนความสามารถหนึ่งอย่างตามที่คุณเลือกได้ 2 คะแนน หรือเพิ่ม 1 คะแนนให้กับสองทักษะก็ได้ โดยปกติแล้วคุณจะไม่สามารถเพิ่มคะแนนความสามารถได้มากกว่า 20 หากใช้คุณลักษณะนี้
 
-### Extra Attack
+### การโจมตีพิเศษ (Extra Attack) {#RangerExtraAttack}
 
-Beginning at 5th level, you can attack twice, instead of once, whenever you take the Attack action on your turn.
+เริ่มที่เลเวล 5 คุณสามารถโจมตีได้ 2 ครั้ง แทนที่จะเป็นครั้งเดียว เมื่อใดก็ตามที่คุณเลือกใช้แอ็คชันโจมตีในเทิร์นของคุณ
 
-### Land’s Stride
+### นักบุกเบิก (Land’s Stride) {#RangerLandsStride}
 
-Starting at 8th level, moving through nonmagical difficult terrain costs you no extra movement. You can also pass through nonmagical plants without being slowed by them and without taking damage from them if they have thorns, spines, or a similar hazard.
+เริ่มที่เลเวล 8 การเคลื่อนที่ผ่านพื้นที่ทุรกันดาร (difficult terrain) ที่ไม่เกี่ยวข้องกับเวทย์มนต์ จะใช้ค่าการเคลื่อนที่เท่ากับการเดินทางในพื้นที่ปกติ คุณยังสามารถผ่านป่าไม้ที่ไม่เป็นป่าเวทย์มนต์โดยการเคลื่อนที่จะไม่ช้าลงและจะไม่ได้รับความเสียหายจากหนาม กิ่งคม หรืออุปสรรคอย่างอื่น
 
-In addition, you have advantage on saving throws against plants that are magically created or manipulated to impede movement, such those created by the [entangle] spell.
+นอกจากนี้ คุณยังได้ทอยป้องกันแบบได้เปรียบต่อพืชที่ถูกสร้างด้วยเวทย์มนต์หรือถูกปรับแต่งให้ชะลอการเคลื่อนที่ เช่นพืชที่สร้างโดยคาถา [พัวพัน (entangle)](/basic-rules/ch11-spells#entangle)
 
-### Hide in Plain Sight
+### ซ่อนในที่แจ้ง (Hide in Plain Sight) {#HideinPlainSight}
 
-Starting at 10th level, you can spend 1 minute creating camouflage for yourself. You must have access to fresh mud, dirt, plants, soot, and other naturally occurring materials with which to create your camouflage.
+เริ่มที่เลเวล 10 คุณสามารถใช้เวลา 1 นาทีในการสร้างอุปกรณ์พรางตัวให้ตัวคุณเอง คุณต้องสามารถเข้าถึงโคลนสด, ดิน, ต้นไม้, เขม่าควัน, และวัสดุธรรมชาติอื่น ๆ ที่เอามาทำการพรางตัวได้
 
-Once you are camouflaged in this way, you can try to hide by pressing yourself up against a solid surface, such as a tree or wall, that is at least as tall and wide as you are. You gain a +10 bonus to Dexterity (Stealth) checks as long as you remain there without moving or taking actions. Once you move or take an action or a reaction, you must camouflage yourself again to gain this benefit.
+เมื่อคุณพรางตัวด้วยวิธีนี้ คุณสามารถพยายามซ่อนตัวด้วยการแนบตัวไปกับพื้นที่ที่มีพื้นผิวแข็ง เช่นต้นไม้หรือกำแพงที่มีขนาดอย่างน้องเท่ากับความสูงและความกว้างของตัวคุณ คุณจะได้รับโบนัส +10 ให้ทอยทดสอบความคล่องแคล่ว (การลอบเร้น (Stealth)) ตราบใดที่คุณอยู่นิ่งในบริเวณนั้นโดยไม่เคลื่อนที่หรือใช้แอ็คชันใด เมื่อคุณเคลื่อนที่หรือใช้แอ็คชันหรือใช้รีแอ็คชันคุณต้องทำการพรางตัวอีกครั้งเพื่อให้ได้ผลพิเศษนี้
 
-### Vanish
+### หายตัว (Vanish) {#Vanish}
 
-Starting at 14th level, you can use the Hide action as a bonus action on your turn. Also, you can’t be tracked by nonmagical means, unless you choose to leave a trail.
+เริ่มที่เลเวล 14 คุณสามารถใช้แอ็คชัน "ซ่อนตัว" (Hide) ด้วยโบนัสแอ็คชันในเทิร์นของคุณ และคุณยังจะไม่สามารถถูกตามรอยได้ด้วยวิธีการที่ไม่ใช้เวทย์มนต์ช่วย ยกเว้นคุณเลือกที่จะทิ้งร่องรอยไว้
 
-### Feral Senses
+### ประสาทสัมผัสของสัตว์ร้าย (Feral Senses) {#FeralSenses}
 
-At 18th level, you gain preternatural senses that help you fight creatures you can’t see. When you attack a creature you can’t see, your inability to see it doesn’t impose disadvantage on your attack rolls against it.
+ที่เลเวล 18 คุณจะมีประสาทสัมผัสที่เหนือธรรมชาติที่จะช่วยให้คุณสู้กับศัตรูที่มองไม่เห็น เมื่อคุณโจมตีสิ่งมีชีวิตที่คุณมองไม่เห็น คุณจะได้ทอยโจมตีปกติไม่ติดการทอยแบบเสียเปรียบแม้จะมองไม่เห็น
 
-You are also aware of the location of any invisible creature within 30 feet of you, provided that the creature isn’t hidden from you and you aren’t blinded or deafened.
+คุณยังสามารถรับรู้ได้ถึงตำแหน่งของสิ่งมีชีวิตที่ล่องหนในระยะ 30 ฟุตรอบตัวคุณ เสมือนว่าสิ่งมีชีวิตนั้นไม่ได้ล่องหนจากคุณและคุณต้องไม่ได้ตาบอดหรือหูหนวก
 
-### Foe Slayer
+### ผู้กำจัดศัตรู (Foe Slayer) {#FoeSlayer}
 
-At 20th level, you become an unparalleled hunter of your enemies. Once on each of your turns, you can add your Wisdom modifier to the attack roll or the damage roll of an attack you make against one of your favored enemies. You can choose to use this feature before or after the roll, but before any effects of the roll are applied.
+ที่เลเวล 20 คุณจะกลายมาเป็นนักล่าผู้หาใดเปรียบของศัตรูของคุณ หนึ่งครั้งในแต่ละเทิร์นของคุณ คุณสามารถเพิ่มค่าโมดิไฟเออร์ความรอบรู้ (Wisdom) ให้กับการทอยโจมตีหรือการทอยความเสียหายในการโจมตีที่คุณทำต่อศัตรูตัวโปรด คุณสามารถเลือกที่จะใช้ความสามารถนี้ก่อนหรือหลังการทอยก็ได้ แต่ต้องก่อนที่ผลกระทบการการทอยจะถูกนำไปใช้
 
-## Ranger Archetypes
+## ต้นแบบเรนเจอร์ (Ranger Archetypes) {#RangerArchetypes}
 
-The ideal of the ranger has two classic expressions: the Hunter and the Beast Master.
+อุดมคติของเรนเจอร์แสดงออกมาเป็นรูปแบบคลาสสิกสองแบบ: นักล่า (Hunter) และผู้ใช้สัตว์ (Beast Master)
 
-### Hunter
+### นักล่า (Hunter)
 
-Emulating the Hunter archetype means accepting your place as a bulwark between civilization and the terrors of the wilderness. As you walk the Hunter’s path, you learn specialized techniques for fighting the threats you face, from rampaging ogres and hordes of orcs to towering giants and terrifying dragons.
+การฝึกฝนตามแม่แบบของนักล่า (Hunter) หมายถึงการรับเอาหน้าที่ในการเป็นด่านหน้าระหว่างความเจริญกับความน่าสะพรึงของแดนเถื่อน เมื่อคุณก้าวเดินในทางเดินของนักล่า คุณจะได้เรียนรู้เทคนิคพิเศษในการสู้กับอันตรายที่คุณต้องเผชิญ ตั้งแต่โอเกอร์คลั่งอาละวาดและกองทัพออร์ค ไปจนถึงยักษ์ร่างสูงตระหง่านและมังกรอันน่าสะพรึงกลัว
 
-Hunter’s Prey
-At 3rd level, you gain one of the following features of your choice.
+#### เหยื่อของนักล่า (Hunter’s Prey)
 
-Colossus Slayer. Your tenacity can wear down the most potent foes. When you hit a creature with a weapon attack, the creature takes an extra 1d8 damage if it’s below its hit point maximum. You can deal this extra damage only once per turn.
+ที่เลเวล 3 คุณจะสามารถเลือกความสามารถหนึ่งอย่างจากรายการดังนี้
 
-Giant Killer. When a Large or larger creature within 5 feet of you hits or misses you with an attack, you can use your reaction to attack that creature immediately after its attack, provided that you can see the creature.
+**นักฆ่าสัตว์ยักษ์ (Colossus Slayer).** ความดื้อรั้นของคุณสามารถโค่นศัตรูที่มีพลังได้อย่างเหลือเชื่อ เมื่อคุณโจมตีโดนสิ่งมีชีวิตด้วยอาวุธ สิ่งมีชีวิตจะได้รับความเสียหายพิเศษเพิ่ม 1d8 หากมันมีฮิตพอยต์ต่ำกว่าค่าสูงสุด คุณสามารถทำความเสียหายนี้ได้ครั้งเดียวในแต่ละเทิร์น
 
-Horde Breaker. Once on each of your turns when you make a weapon attack, you can make another attack with the same weapon against a different creature that is within 5 feet of the original target and within range of your weapon.
+**นักฆ่ายักษ์ (Giant Killer).** เมื่อมีสิ่งมีชีวิตขนาดใหญ่ (Large) หรือใหญ่กว่านั้นในระยะ 5 ฟุต โจมตีโดนคุณหรือโจมตีพลาด คุณสามารถใช้รีแอ็คชันในการโจมตีสวนสิ่งมีชีวิตนั้นได้ทันทีหลังจากการโจมตีของมัน โดยคุณต้องสามารถมองเห็นสิ่งมีชีวิตนั้นได้
 
-Defensive Tactics
-At 7th level, you gain one of the following features of your choice.
+**นักทำลายฝูงสัตว์ (Horde Breaker).** ครั้งหนึ่งในเทิร์นของคุณเมื่อคุณใช้อาวุธโจมตี คุณสามารถโจมตีอีกครั้งได้ด้วยอาวุธเดิมโดยโจมตีศัตรูตัวอื่นในระยะ 5 ฟุตจากเป้าหมายแรกและอยู่ในระยะอาวุธของคุณ
 
-Escape the Horde. Opportunity attacks against you are made with disadvantage.
+#### กลยุทธการป้องกัน (Defensive Tactics)
 
-Multiattack Defense. When a creature hits you with an attack, you gain a +4 bonus to AC against all subsequent attacks made by that creature for the rest of the turn.
+ที่เลเวล 7 คุณจะสามารถเลือกความสามารถหนึ่งอย่างจากรายการดังนี้
 
-Steel Will. You have advantage on saving throws against being frightened.
+**หนีจากฝูงสัตว์ (Escape the Horde).** การโจมตีโดยสบโอกาส (Opportunity attacks) ที่โจมตีคุณจะเป็นการทอยแบบเสียเปรียบ
 
-Multiattack
-At 11th level, you gain one of the following features of your choice.
+**การป้องกันการโจมตีชุด (Multiattack Defense).** เมื่อสิ่งมีชีวิตโจมตีถูกคุณด้วยแอ็คชันโจมตี คุณจะได้โบนัส +4 ให้ AC ต่อการโจมตีที่ตามมาหลังจากนั้นที่เกิดจากสิ่งมีชีวิตนั้นจนจบเทิร์น
 
-Volley. You can use your action to make a ranged attack against any number of creatures within 10 feet of a point you can see within your weapon’s range. You must have ammunition for each target, as normal, and you make a separate attack roll for each target.
+**ใจเหล็ก (Steel Will).** คุณจะได้ทอยป้องกันแบบได้เปรียบเมื่อต้องทอยป้องกันความกลัว (frightened)
 
-Whirlwind Attack. You can use your action to make a melee attack against any number of creatures within 5 feet of you, with a separate attack roll for each target.
+#### การโจมตีชุด (Multiattack)
 
-Superior Hunter’s Defense
-At 15th level, you gain one of the following features of your choice.
+ที่เลเวล 11 คุณจะสามารถเลือกความสามารถหนึ่งอย่างจากรายการดังนี้
 
-Evasion. When you are subjected to an effect, such as a red dragon’s fiery breath or a lightning bolt spell, that allows you to make a Dexterity saving throw to take only half damage, you instead take no damage if you succeed on the saving throw, and only half damage if you fail.
+**ยิงสะท้อน (Volley).** คุณสามารถใช้แอ็คชันในการโจมตีด้วยอาวุธยิงระยะไกล โจมตีสิ่งมีชีวิตจำนวนเท่าใดก็ตามที่อยู่ในระยะ 10 ฟุตจากจุดที่คุณมองเห็น ภายในระยะอาวุธของคุณ คุณต้องมีกระสุนพอสำหรับทุกเป้าหมาย และเหมือนกับการโจมตีปกติ คุณต้องทอยโจมตีแยกกันในแต่ละเป้าหมาย
 
-Stand Against the Tide. When a hostile creature misses you with a melee attack, you can use your reaction to force that creature to repeat the same attack against another creature (other than itself) of your choice.
+**โจมตีแบบพายุหมุน (Whirlwind Attack).** คุณสามารถใช้แอ็คชันของคุณในการโจมตีแบบประชิดตัว โจมตีศัตรูทุกตัวในระยะ 5 ฟุตรอบตัวคุณ โดยทอยโจมตีแยกตามเป้าหมาย
 
-Uncanny Dodge. When an attacker that you can see hits you with an attack, you can use your reaction to halve the attack’s damage against you.
+#### การป้องกันของนักล่าแบบเหนือชั้น (Superior Hunter’s Defense)
 
-### Beast Master
+ที่เลเวล 15 คุณจะสามารถเลือกความสามารถหนึ่งอย่างจากรายการดังนี้
 
-The Beast Master archetype embodies a friendship between the civilized races and the beasts of the wild. United in focus, beast and ranger fight the monsters that threaten civilization and the wilderness alike.
+**การหลบหลีก (Evasion).** เมื่อคุณตกเป็นเป้าจากผลของการโจมตี เช่นลมหายใจเพลิงของมังกรแดงหรือคาถา[สายฟ้าฟาด (lightning bolt)](/basic-rules/ch11-spells#lightning-bolt) ที่ต้องให้คุณทอยป้องกันด้านความคล่องแคล่ว (Dexterity) เพื่อรับความเสียหายครึ่งหนึ่ง คุณจะไม่ได้รับความเสียหายเลยถ้าคุณทอยป้องกันผ่าน และได้รับครึ่งเดียวหากทอยไม่ผ่าน
 
-#### Ranger’s Companion
+**ยืนขวางคลื่น (Stand Against the Tide).** เมื่อศัตรูโจมตีคุณในประยะประชิดพลาด คุณสามารถใช้รีแอ็คชันในการบังคับให้สิ่งมีชีวิตนั้นโจมตีแบบเดิมอีกครั้ง แต่เป็นการโจมตีศัตรูตัวอื่น (ที่ไม่ใช่ตัวมันเอง) ตามที่คุณเลือก
 
-At 3rd level, you gain a beast companion that accompanies you on your adventures and is trained to fight alongside you. Choose a beast that is no larger than Medium and that has a challenge rating of 1/4 or lower (appendix D presents statistics for the hawk, mastiff, and panther as examples). Add your proficiency bonus to the beast’s AC, attack rolls, and damage rolls, as well as to any saving throws and skills it is proficient in. Its hit point maximum equals the hit point number in its stat block or four times your ranger level, whichever is higher. Like any creature, it can spend Hit Dice during a short rest to regain hit points.
+**การหลบหลีกได้อย่างประหลาด (Uncanny Dodge).** เมื่อคุณถูกโจมตีโดนโดยศัตรูที่คุณมองเห็นได้ คุณสามารถใช้รีแอ็คชันลดความเสียหายลงได้ครึ่งหนึ่ง
 
-The beast obeys your commands as best as it can. It takes its turn on your initiative. On your turn, you can verbally command the beast where to move (no action required by you). You can use your action to verbally command it to take the Attack, Dash, Disengage, or Help action. If you don’t issue a command, the beast takes the Dodge action. Once you have the Extra Attack feature, you can make one weapon attack yourself when you command the beast to take the Attack action.
+### ผู้ใช้สัตว์ (Beast Master)
 
-If you are incapacitated or absent, the beast acts on its own, focusing on protecting you and itself. The beast never requires your command to use its reaction, such as when making an opportunity attack.
+แม่แบบผู้ใช้สัตว์ (Beast Master) เป็นการรวมกันจากมิตรภาพระหว่างเผ่าพันธุ์ที่เจริญกับสัตว์ป่าแห่งพงไพร เดินทางร่วมกันด้วยเป้าหมายเดียว สัตว์ป่าและเรนเจอร์ร่วมกันต่อสู้กับมอนสเตอร์ที่รุกรานถิ่นเจริญและปกป้องดินแดนธรรมชาติ
 
-While traveling through your favored terrain with only the beast, you can move stealthily at a normal pace.
+#### คู่หูของเรนเจอร์ (Ranger’s Companion)
 
-If the beast dies, you can obtain a new companion by spending 8 hours magically bonding with a beast that isn’t hostile to you and that meets the requirements.
+ที่เลเวล 3 คุณจะได้รับคู่หูสัตว์ป่า (beast) ที่จะร่วมผจญภัยไปกับคุณและจะได้รับการฝึกฝนการต่อสู้ร่วมกับคุณด้วย เลือกสัตว์ป่าที่มีขนาดไม่ใหญ่กว่าขนาดกลาง (Medium) และมีอัตราความท้าทาย (CR) 1/4 หรือต่ำกว่า (ภาคผนวก D แสดงข้อมูลของเหยี่ยว (hawk), สุนัขมัสทิฟ (mastiff) และเสือดำ (panther) เป็นต้น) เพิ่มโบนัสความเชี่ยวชาญให้ AC ของคู่หู, การทอยโจมตี และการทอยความเสียหาย เพิ่มให้การทอยป้องกันและการทอยทดสอบที่มันมีความเชี่ยวชาญด้วย ค่าฮิตพอยต์สูงสุดจะเท่ากับฮิตพอยต์ในสแต็ทบล็อกหรือเป็น 4 เท่าของเลเวลเรนเจอร์ ซึ่งก็มากพอสมควร เหมือนกับสิ่งมีชีวิตอื่น ๆ มันสามารถใช้ฮิตไดซ์ (Hit dice) ระหว่างการพักสั้นเพื่อฟื้นฟูฮิตพอยต์ของมัน
 
-#### Exceptional Training
+คู่หูสัตว์ป่าจะฟังคำสั่งของคุณอย่างเต็มที่เท่าที่มันทำได้ มันจะใช้เทิร์นของมันตามค่าลำดับการต่อสู้ของคุณ ในเทิร์นของคุณ คุณสามารถสั่งด้วยเสียงให้คู่หูเคลื่อนที่ไปที่ตำแหน่งที่ต้องการ (ไม่ต้องใช้แอ็คชันของคุณ) คุณสามารถใช้แอ็คชันในการส่งเสียงสั่งมันให้ใช้แอ็คชัน, พุ่งตัว, ผละหนี หรือช่วยเหลือ ถ้าคุณไม่ได้สั่งคำสั่งใด สัตว์คู่หูจะใช้แอ็คชันหลบหลีก เมื่อคุณมีความสามารถ "การโจมตีพิเศษ (Extra Attack feature)" คุณสามารถโจมตีด้วยอาวุธ 1 ครั้งและสั่งให้สัตว์คู่หูโจมตีด้วย
 
-Beginning at 7th level, on any of your turns when your beast companion doesn’t attack, you can use a bonus action to command the beast to take the Dash, Disengage, or Help action on its turn.
+ถ้าคุณไร้ความสามารถ (incapacitated) หรือหายตัวไป สัตว์คู่หูจะทำตามความคิดของตัวเอง โดยมุ่งไปที่การป้องกันคุณและตัวมันเอง สัตว์คู่หูจะไม่ต้องใช้คำสั่งของคุณในการใช้รีแอ็คชันของมัน เช่นการโจมตีแบบสบโอกาส (opportunity attack)
 
-In addition, the beast’s attacks now count as magical for the purpose of overcoming resistance and immunity to nonmagical attacks and damage.
+เมื่อคุณเดินทางบนพื้นที่ที่คุณเชี่ยวชาญ (favored terrain) กับสัตว์คู่หูไปตามลำพัง คุณสามารถเคลื่อนที่แบบลอบเร้นได้ด้วยความเร็วปกติ
 
-#### Bestial Fury
+ถ้าสัตว์คู่หูตาย คุณสามารถได้สัตว์ตัวใหม่โดยใช้เวลา 8 ชั่วโมงในการผูกมิตรกับสัตว์ตัวใหม่ที่ไม่เป็นศัตรูกับคุณและตรงตามเงื่อนไข
 
-Starting at 11th level, when you command your beast companion to take the Attack action, the beast can make two attacks, or it can take the Multiattack action if it has that action.
+#### การฝึกฝนแบบพิเศษ (Exceptional Training)
 
-#### Share Spells
+เริ่มที่เลเวล 7 ในเทิร์นใดก็ได้ของคุณเมื่อสัตว์คู่หูไม่ได้โจมตี คุณสามารถใช้โบนัสแอ็คชันในการสั่งให้สัตว์คู่หู พุ่งตัว, ผละหนี หรือช่วยเหลือได้ในเทิร์นของมัน
 
-Beginning at 15th level, when you cast a spell targeting yourself, you can also affect your beast companion with the spell if the beast is within 30 feet of you.
+นอกจากนั้น การโจมตีของสัตว์คู่หูจะถือเป็นการโจมตีแบบเวทย์มนต์ (magical) โดยมีจุดประสงค์ให้เลี่ยงการต้านทานและภูมิคุ้มกันความเสียหายจากการโจมตีแบบไม่ติดเวทย์มนต์
+
+#### ความโกรธเกรี้ยวของสัตว์ป่า (Bestial Fury)
+
+เริ่มที่เลเวล 11 เมื่อคุณออกคำสั่งให้สัตว์คู่หูใช้แอ็คชันโจมตี สัตว์คู่หูสามารถโจมตีได้ 2 ครั้ง หรือมันสามารถใช้ "การโจมตีชุด (Multiattack)" ได้หากมันมีความสามารถนี้
+
+#### ใช้คาถาร่วมกัน (Share Spells)
+
+เริ่มที่เลเวล 15 เมื่อคุณใช้คาถาที่มีเป้าหมายเป็นตัวคุณเอง คุณสามารถให้ผลไปเกิดกับสัตว์คู่หูด้วยได้หากมันอยู่ในระยะ 30 ฟุตจากคุณ

@@ -315,7 +315,7 @@ name: ดรูอิด (Druid)
 | 7th         | [greater invisibility](../../ch11-spells#greater-invisibility), [stone shape](../../ch11-spells#stone-shape) |
 | 9th         | [cloudkill](../../ch11-spells#cloudkill), [insect plague](../../ch11-spells#insect-plague)                   |
 
-### Land’s Stride
+### นักบุกเบิก (Land’s Stride)
 
 เริ่มที่เลเวล 6 การเคลื่อนที่ผ่านพื้นที่ทุรกันดาร (difficult terrain) จะใช้ค่าการเคลื่อนที่เท่ากับการเดินทางในพื้นที่ปกติ คุณยังสามารถผ่านป่าไม้ที่ไม่เป็นป่าเวทย์มนต์โดยการเคลื่อนที่จะไม่ช้าลงและจะไม่ได้รับความเสียหายจากหนาม กิ่งคม หรืออุปสรรคอย่างอื่น
 
