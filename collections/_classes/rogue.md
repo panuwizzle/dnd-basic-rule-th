@@ -7,180 +7,180 @@ name: โร็ก (Rogue)
 
 # โร็ก (Rogue)
 
-Signaling for her companions to wait, a halfling creeps forward through the dungeon hall. She presses an ear to the door, then pulls out a set of tools and picks the lock in the blink of an eye. Then she disappears into the shadows as her fighter friend moves forward to kick the door open.
+ส่งสัญญาณให้เพื่อนของเธอรออยู่ก่อน ฮาล์ฟลิ่งสาวค่อยย่องไปข้างหน้าตามโถงของดันเจี้ยน เธอแนบหูกับประตูและดึงเอาอุปกรณ์สะเดาะกุญแจออกมาในชั่วพริบตา ต่อมาเธอก็หายไปในความมืดโดยมีเพื่อนไฟท์เตอร์ของเธอสลับมาข้างหน้าและเตะประตูเปิดออก
 
-A human lurks in the shadows of an alley while his accomplice prepares for her part in the ambush. When their target — a notorious slaver — passes the alleyway, the accomplice cries out, the slaver comes to investigate, and the assassin’s blade cuts his throat before he can make a sound.
+มนุษย์ผู้หนึ่งปรากฏตัวออกจากเงามืดของตรอกขณะที่ผู้ร่วมกระทำการของเขาเตรียมพร้อมในส่วนของเธอในการซุ่มโจมตี เมื่อเป้าหมายมาถึง พ่อค้าทาสผู้ชั่วช้าเดินผ่านมาในตรอก ผู้ช่วยร้องส่งเสียงเอะอะ พ่อค้าทาสเดินไปตรวจสอบ และมีดคมกริบของนักฆ่าก็เฉือนคอหอยของมันก่อนที่เสียงจะเล็ดรอดออกมาได้
 
-Suppressing a giggle, a gnome waggles her fingers and magically lifts the key ring from the guard’s belt. In a moment, the keys are in her hand, the cell door is open, and she and her companions are free to make their escape.
+พยายามกลั้นขำ โนมสาวขยับนิ้วยุกยิกและดึงเอากุญแจออกมาจากเข็มขัดของยามด้วยเวทย์มนต์ เพียงชั่วอึดใจกุญแจก็มาอยู่ในมือเธอ ประตูคุกก็เปิดออก เธอและเพื่อนก็ได้รับอิสระเพื่อหลบหนี
 
-Rogues rely on skill, stealth, and their foes’ vulnerabilities to get the upper hand in any situation. They have a knack for finding the solution to just about any problem, demonstrating a resourcefulness and versatility that is the cornerstone of any successful adventuring party.
+โร็คอาศัยทักษะ, การลอบเร้นและช่องโหว่ของศัตรูฉกชิงความได้เปรียบในสถานการณ์ต่าง ๆ พวกเขามีไหวพริบในการหาทางแก้ไขให้กับทุกปัญหา เป็นคนที่มีประโยชน์และยืดหยุ่น มีความสำคัญกับความสำเร็จของกลุ่มนักผจญภัย
 
-### Skill and Precision
+### มากทักษะและแม่นยำ (Skill and Precision)
 
-Rogues devote as much effort to mastering the use of a variety of skills as they do to perfecting their combat abilities, giving them a broad expertise that few other characters can match. Many rogues focus on stealth and deception, while others refine the skills that help them in a dungeon environment, such as climbing, finding and disarming traps, and opening locks.
+โร็กอุทิศความพยายามในการฝึกฝนทักษะที่หลากหลายรวมถึงขัดเกลาความสามารถในการต่อสู้ ทำให้พวกเขามีความถนัดหลากหลายหาตัวจับยาก โร็กหลายคนเน้นไปที่การลอบเร้นและการลวงตา ขณะที่คนอื่นขัดเกลาทักษะที่จะช่วยพวกเขาในสภาพแวดล้อมของดันเจี้ยน เช่นการปีนป่าย การค้นหาและทำลายกับดักและการเปิดล็อคสะเดาะกุญแจต่าง ๆ
 
-When it comes to combat, rogues prioritize cunning over brute strength. A rogue would rather make one precise strike, placing it exactly where the attack will hurt the target most, than wear an opponent down with a barrage of attacks. Rogues have an almost supernatural knack for avoiding danger, and a few learn magical tricks to supplement their other abilities.
+เมื่อถึงเวลาการต่อสู้ โร็กเน้นไปที่ความคล่องแคล่วมากกว่าการใช้กำลังเข้าโจมตี โร็กมักจะเลือกการโจมตีที่แม่นยำ พุ่งเป้าไปที่การโจมตีที่ทำให้ศัตรูได้รับความเสียหายสูงสุดมากกว่าการทำให้ศัตรูล้มด้วยการกระหน่ำโจมตี โร็กแทบจะเรียกได้ว่ามีไหวพริบเหนือธรรมชาติในการหลบหลีกอันตราย และมีบางคนเรียนรู้เวทย์มนต์เพื่อเสริมความสามารถให้หลากหลายยิ่งขึ้น
 
 ### A Shady Living
 
-Every town and city has its share of rogues. Most of them live up to the worst stereotypes of the class, making a living as burglars, assassins, cutpurses, and con artists. Often, these scoundrels are organized into thieves’ guilds or crime families. Plenty of rogues operate independently, but even they sometimes recruit apprentices to help them in their scams and heists. A few rogues make an honest living as locksmiths, investigators, or exterminators, which can be a dangerous job in a world where dire rats—and wererats—haunt the sewers.
+ในทุกเมืองและที่ชุมชนจะมีโร็กอาศัยอยู่ ส่วนใหญ่พวกเขาจะใช้ชีวิตอยู่ในสถานะที่แย่ที่สุด หากินด้วยการเป็นขอทาน นักฆ่า กรีดกระเป๋าและเป็นนักต้มตุ๋น บ่อยครั้งที่นักเลงเหล่านี้รวมตัวกันเป็นกลุ่มโจรหรือเป็นครอบครัวอาชญากร มีโร็กส่วนหนึ่งที่ทำงานอิสระแต่บางครั้งพวกเขาก็ฝึกลูกศิษย์มาไว้ช่วยงานในการหลอกลวงและย่องเบา โร็กจำนวนน้อยหาเลี้ยงชีพสุจริตด้วยการเป็นช่างกุญแจ นักสืบ หรือนักกำจัดปัญหา ซึ่งล้วนแต่เป็นงานอันตรายในโลกที่มีหนูยักษ์และมนุษย์หนูเพ่นพ่านในท่อระบายน้ำ
 
-As adventurers, rogues fall on both sides of the law. Some are hardened criminals who decide to seek their fortune in treasure hoards, while others take up a life of adventure to escape from the law. Some have learned and perfected their skills with the explicit purpose of infiltrating ancient ruins and hidden crypts in search of treasure.
+เมื่อเป็นนักผจญภัย โร็กอยู่ระหว่างสองด้านของกฏหมาย บ้างเป็นอาชญากรตัวกลั่นที่ตัดสินใจออกไล่ตามความร่ำรวยด้วยการล่าสมบัติ ขณะที่คนอื่นมาเป็นนักผจญภัยเพื่อหนีจากเงื้อมือของกฏหมาย บางคนถึงกับเรียนรู้และฝึกฝนทักษะเพื่อการลอบเข้าดันเจี้ยนโบราณและสุสานเพื่อค้นหาสมบัติโดยเฉพาะ
 
-### Creating a Rogue
+### การสร้างโร็ก (Creating a Rogue)
 
-As you create your rogue character, consider the character’s relationship to the law. Do you have a criminal past—or present? Are you on the run from the law or from an angry thieves’ guild master? Or did you leave your guild in search of bigger risks and bigger rewards? Is it greed that drives you in your adventures, or some other desire or ideal?
+เมื่อคุณสร้างตัวละครโร็ก ให้พิจารณาถึงความสัมพันธ์ของตัวละครกับกฏหมาย คุณมีประวัติก่ออาชญากรรมเมื่ออดีตหรือในปัจจุบันหรือไม่ คุณกำลังหลบหนีการจับกุมหรือจากหัวหน้ากลุ่มโจรหรือเปล่า หรือคุณออกจากกลุ่มมาเพื่อแสวงหาการเสี่ยงภัยเพื่อรางวัลก้อนโตมั๊ย ความโลภหรือไม่ที่เป็นตัวผลักดันให้คุณออกผจญภัย หรือมีความต้องการหรืออุดมคติอื่น
 
-What was the trigger that led you away from your previous life? Did a great con or heist gone terribly wrong cause you to reevaluate your career? Maybe you were lucky and a successful robbery gave you the coin you needed to escape the squalor of your life. Did wanderlust finally call you away from your home? Perhaps you suddenly found yourself cut off from your family or your mentor, and you had to find a new means of support. Or maybe you made a new friend—another member of your adventuring party—who showed you new possibilities for earning a living and employing your particular talents.
+อะไรเป็นสิ่งที่ทำให้คุณตัดสินใจออกจากชีวิตก่อนหน้านี้ เพราะงานล้มเหลวครั้งก่อนจึงทำให้คุณคิดทบทวนอาชีพของคุณใหม่ หรืออาจเป็นเพราะงานสำเร็จอย่างงดงาม เงินทองมากมายที่ได้รับทำให้คุณตัดสินใจออกจากชีวิตเดิม ๆ หรือความอยากผจญภัยมันเรียกร้องให้คุณออกเผชิญโลก อาจเป็นเพราะคุณถูกตัดออกจากครอบครัวหรืออาจารย์ผู้ฝึกสอน และคุณต้องการหาที่พึ่งที่ยึดเหนี่ยวใหม่ หรืออาจเป็นเพราะคุณเจอกับเพื่อนใหม่ คนที่คุณร่วมผจญภัยด้วยเป็นคนที่ให้ความเป็นไปได้ใหม่ ๆ ในการใช้ชีวิตและคุณสามารถใช้ความสามารถช่วยเหลือทีมได้
 
-#### Quick Build
+#### สร้างอย่างเร็ว (Quick Build)
 
-You can make a rogue quickly by following these suggestions. First, Dexterity should be your highest ability score. Make Intelligence your next-highest if you want to excel at Investigation or plan to take up the Arcane Trickster archetype. Choose Charisma instead if you plan to emphasize deception and social interaction. Second, choose the charlatan background.
+คุณสามารถสร้างโร็กอย่างรวดเร็วด้วยการทำตามคำแนะนำดังนี้ อย่างแรก ความคล่องแคล่ว (Dexterity) ควรเป็นความสามารถสูงสุดของคุณ ให้ความฉลาด (Intelligence) เป็นความสามารถที่รองลงมาถ้าคุณต้องการให้ทักษะการสืบสวน (Investigation) มีประสิทธิภาพหรือวงแผนจะมุ่งไปสายนักมายาเวทย์ (Arcane Trickster) หากคุณวางแผนจะเน้นหนักไปในการล่อลวงและความสามารถการมีปฏิสัมพันธ์ทางสังคม ให้เลือกเสน่ห์ (Charisma) เป็นทักษะอันดับสอง และเลือกภูมิหลังเป็นนักต้มตุ๋น (charlatan background)
 
-| Level | Proficiency <br>Bonus | Sneak <br>Attack | Features                                                                                  |
-| ----- | --------------------- | ---------------- | ----------------------------------------------------------------------------------------- |
-| 1st   | +2                    | 1d6              | [Expertise](#RogueExpertise), [Sneak Attack](#SneakAttack), [Thieves’ Cant](#ThievesCant) |
-| 2nd   | +2                    | 1d6              | [Cunning Action](#CunningAction)                                                          |
-| 3rd   | +2                    | 2d6              | [Roguish Archetype](#RoguishArchetype)                                                    |
-| 4th   | +2                    | 2d6              | [Ability Score Improvement](#RogueAbilityScoreImprovement)                                |
-| 5th   | +3                    | 3d6              | [Uncanny Dodge](#UncannyDodge)                                                            |
-| 6th   | +3                    | 3d6              | [Expertise](#RogueExpertise)                                                              |
-| 7th   | +3                    | 4d6              | [Evasion](#Evasion)                                                                       |
-| 8th   | +3                    | 4d6              | [Ability Score Improvement](#RogueAbilityScoreImprovement)                                |
-| 9th   | +4                    | 5d6              | [Roguish Archetype Feature](#RoguishArchetypes)                                           |
-| 10th  | +4                    | 5d6              | [Ability Score Improvement](#RogueAbilityScoreImprovement)                                |
-| 11th  | +4                    | 6d6              | [Reliable Talent](#ReliableTalent)                                                        |
-| 12th  | +4                    | 6d6              | [Ability Score Improvement](#RogueAbilityScoreImprovement)                                |
-| 13th  | +5                    | 7d6              | [Roguish Archetype Feature](#RoguishArchetypes)                                           |
-| 14th  | +5                    | 7d6              | [Blindsense](#Blindsense)                                                                 |
-| 15th  | +5                    | 8d6              | [Slippery Mind](#SlipperyMind)                                                            |
-| 16th  | +5                    | 8d6              | [Ability Score Improvement](#RogueAbilityScoreImprovement)                                |
-| 17th  | +6                    | 9d6              | [Roguish Archetype Feature](#RoguishArchetypes)                                           |
-| 18th  | +6                    | 9d6              | [Elusive](#Elusive)                                                                       |
-| 19th  | +6                    | 10d6             | [Ability Score Improvement](#RogueAbilityScoreImprovement)                                |
-| 20th  | +6                    | 10d6             | [Stroke of Luck](#StrokeofLuck)                                                           |
+| เลเวล | โบนัสความเชี่ยวชาญ | ลอบโจมตี (Sneak Attack) | ความสามารถ                                                                                                                        |
+| ----- | ------------------ | ----------------------- | --------------------------------------------------------------------------------------------------------------------------------- |
+| 1st   | +2                 | 1d6                     | [ความเชี่ยวชาญ (Expertise)](#RogueExpertise), [การลอบโจมตี (Sneak Attack)](#SneakAttack), [ภาษาโจร (Thieves’ Cant)](#ThievesCant) |
+| 2nd   | +2                 | 1d6                     | [แอ็คชันว่องไว (Cunning Action)](#CunningAction)                                                                                  |
+| 3rd   | +2                 | 2d6                     | [แม่แบบโร็ก (Roguish Archetype)](#RoguishArchetype)                                                                               |
+| 4th   | +2                 | 2d6                     | [คะแนนความสามารถเพิ่ม (Ability Score Improvement)](#RogueAbilityScoreImprovement)                                                 |
+| 5th   | +3                 | 3d6                     | [การหลบหลีกเหนือธรรมชาติ (Uncanny Dodge)](#UncannyDodge)                                                                          |
+| 6th   | +3                 | 3d6                     | [ความเชี่ยวชาญ (Expertise)](#RogueExpertise)                                                                                      |
+| 7th   | +3                 | 4d6                     | [การหลีกหนี (Evasion)](#Evasion)                                                                                                  |
+| 8th   | +3                 | 4d6                     | [คะแนนความสามารถเพิ่ม (Ability Score Improvement)](#RogueAbilityScoreImprovement)                                                 |
+| 9th   | +4                 | 5d6                     | [แม่แบบโร็ก (Roguish Archetypes)](#RoguishArchetypes)                                                                                   |
+| 10th  | +4                 | 5d6                     | [คะแนนความสามารถเพิ่ม (Ability Score Improvement)](#RogueAbilityScoreImprovement)                                                 |
+| 11th  | +4                 | 6d6                     | [ทักษะที่พึ่งพาได้ (Reliable Talent)](#ReliableTalent)                                                                                                |
+| 12th  | +4                 | 6d6                     | [คะแนนความสามารถเพิ่ม (Ability Score Improvement)](#RogueAbilityScoreImprovement)                                                 |
+| 13th  | +5                 | 7d6                     | [แม่แบบโร็ก (Roguish Archetypes)](#RoguishArchetypes)                                                                             |
+| 14th  | +5                 | 7d6                     | [ประสาทสัมผัสแบบตาบอด (Blindsense)](#Blindsense)                                                                                  |
+| 15th  | +5                 | 8d6                     | [จิตลื่นไหล (Slippery Mind)](#SlipperyMind)                                                                                       |
+| 16th  | +5                 | 8d6                     | [คะแนนความสามารถเพิ่ม (Ability Score Improvement)](#RogueAbilityScoreImprovement)                                                 |
+| 17th  | +6                 | 9d6                     | [แม่แบบโร็ก (Roguish Archetypes)](#RoguishArchetypes)                                                                             |
+| 18th  | +6                 | 9d6                     | [หลบหลีกว่องไว (Elusive)](#Elusive)                                                                                               |
+| 19th  | +6                 | 10d6                    | [คะแนนความสามารถเพิ่ม (Ability Score Improvement)](#RogueAbilityScoreImprovement)                                                 |
+| 20th  | +6                 | 10d6                    | [โชคเข้าข้าง (Stroke of Luck)](#StrokeofLuck)                                                                                     |
 
-## Class Features
+## ความสามารถของคลาส
 
-As a rogue, you have the following class features.
+เมื่อเป็นโร็ก คุณจะได้รับความสามารถของคลาสดังนี้
 
-#### Hit Points
+#### ฮิตพอยต์
 
-**Hit Dice:** 1d8 per rogue level
+**ฮิตไดซ์**: 1d8 ต่อเลเวลโร็ก
 
-**Hit Points at 1st Level:** 8 + your Constitution modifier
+**ฮิตพอยต์เมื่อเลเวล 1**: 8 + ค่าโมดิไฟเออร์ความอดทน (Constitution)
 
-**Hit Points at Higher Levels:** 1d8 (or 5) + your Constitution modifier per rogue level after 1st
+**ฮิตพอยต์เมื่อเลเวลสูงขึ้น**: 1d8 (or 5) + ค่าโมดิไฟเออร์ความอดทน (Constitution) ต่อเลเวลโร็กมากกว่าเลเวล 1
 
-#### Proficiencies
+#### ความเชี่ยวชาญ
 
-**Armor:** Light armor
+**เกราะ**: เกราะเบา
 
-**Weapons:** Simple weapons, hand crossbows, longswords, rapiers, shortswords
+**อาวุธ**: อาวุธพื้นฐาน, หน้าไม้มือ, ดาบยาว, เรเปีย, ดาบสั้น
 
-**Tools:** Thieves’ tools
+**เครื่องมือ**: อุปกรณ์โจร
 
-**Saving Throws:** Dexterity, Intelligence
+**การทอยป้องกัน**: ความคล่องแคล่ว (Dexterity), ความฉลาด (Intelligence)
 
-**Skills:** Choose four from [Acrobatics], [Athletics], [Deception], [Insight], [Intimidation], [Investigation], [Perception], [Performance], [Persuasion], [Sleight of Hand], and [Stealth]
+**ทักษะ**: เลือก 4 ทักษะจาก [Acrobatics], [Athletics], [Deception], [Insight], [Intimidation], [Investigation], [Perception], [Performance], [Persuasion], [Sleight of Hand], and [Stealth]
 
-#### Equipment
+#### อุปกรณ์
 
-You start with the following equipment, in addition to the equipment granted by your background:
+คุณจะเริ่มด้วยอุปกรณ์ดังต่อไปนี้ เพิ่มเติมจากอุปกรณ์ที่ได้รับจากภูมิหลัง:
 
-- (a) a rapier or (b) a shortsword
-- (a) a shortbow and quiver of 20 arrows or (b) a shortsword
-- (a) a burglar’s pack, (b) a dungeoneer’s pack, or (c) an explorer’s pack
-- Leather armor, two daggers, and thieves’ tools
+- (a) เรเปีย 1 เล่ม หรือ (b) ดาบสั้น 1 เล่ม
+- (a) ธนูสั้นและลูกศร 20 ลูก หรือ (b) ดาบสั้น 1 เล่ม
+- (a) ชุดอุปกรณ์ขอทาน, (b) ชุดอุปกรณ์ตะลุยดันเจี้ยน, หรือ (c) ชุดอุปกรณ์นักสำรวจ
+- เกราะหนัง, กริช 2 เล่ม, และชุดอุปกรณ์โจร
 
-### Expertise
+### ความเชี่ยวชาญ (Expertise) {#RogueExpertise}
 
-At 1st level, choose two of your skill proficiencies, or one of your skill proficiencies and your proficiency with thieves’ tools. Your proficiency bonus is doubled for any ability check you make that uses either of the chosen proficiencies.
+ที่เลเวล 1 เลือกทักษะที่คุณเชี่ยวชาญ 2 ทักษะ หรือทักษะที่เชี่ยวชาญ 1 ทักษะกับความเชี่ยวชาญการใช้อุปกรณ์โจร ค่าโบนัสความเชี่ยวชาญของคุณจะเป็นสองเท่าสำหรับการทอยทดสอบทักษะที่ต้องใช้ทักษะที่คุณเลือก
 
-At 6th level, you can choose two more of your proficiencies (in skills or with thieves’ tools) to gain this benefit.
+ที่เลเวล 6 คุณจะสามารถเลือกทักษะที่เชี่ยวชาญได้อีก 2 อย่าง (ทั้งทักษะและการใช้อุปกรณ์โจร)
 
-### Sneak Attack
+### การลอบโจมตี (Sneak Attack) {#SneakAttack}
 
-Beginning at 1st level, you know how to strike subtly and exploit a foe’s distraction. Once per turn, you can deal an extra 1d6 damage to one creature you hit with an attack if you have advantage on the attack roll. The attack must use a finesse or a ranged weapon.
+เริ่มที่เลเวล 1 คุณจะรู้ถึงวิธีการลอบโจมตีและการใช้ประโยชน์จากความไขว้เขวของศัตรู หนึ่งครั้งในแต่ละเทิร์น คุณสามารถจะสร้างความเสียหายเพิ่มเติม 1d6 ให้กับสิ่งมีชีวิตหนึ่งตัวที่คุณโจมตีโดนถ้าคุณได้ทอยโจมตีแบบได้เปรียบ การโจมตีต้องใช้อาวุธฟินนีส (finesse) หรืออาวุธยิงระยะไกล
 
-You don’t need advantage on the attack roll if another enemy of the target is within 5 feet of it, that enemy isn’t [incapacitated](), and you don’t have disadvantage on the attack roll.
+คุณจะไม่ต้องใช้การทอยโจมตีแบบได้เปรียบหากมีศัตรูของเป้าหมายอยู่ในระยะ 5 ฟุตของมัน ศัตรูนั้นไม่[หมดสมรรถภาพ (incapacitated)]() และคุณไม่ถูกบังคับให้ต้องทอยโจมตีแบบเสียเปรียบ
 
-The amount of the extra damage increases as you gain levels in this class, as shown in the Sneak Attack column of the Rogue table.
+จำนวนความเสียหายพิเศษจะเพิ่มขึ้นเมื่อคุณเลเวลมากขึ้นในคลาสนี้ ดังที่แสดงในคอลัมภ์ การลอบโจมตี (Sneak Attack) ในตาราง
 
-### Thieves’ Cant
+### ภาษาโจร (Thieves’ Cant) {#ThievesCant}
 
-During your rogue training you learned thieves’ cant, a secret mix of dialect, jargon, and code that allows you to hide messages in seemingly normal conversation. Only another creature that knows thieves’ cant understands such messages. It takes four times longer to convey such a message than it does to speak the same idea plainly.
+ระหว่างที่ฝึกฝนการเป็นโร็ก คุณได้เรียนรู้ภาษาโจร (thieves' cant) เป็นวิชาลัยในการการผสมภาษา ศัพทย์เฉพาะ และสัญลักษณ์ที่ทำให้คุณสามารถซ่อนข้อความในบทสนทนาที่ดูเหมือนเป็นปกติ มีเพียงสิ่งมีชีวิตที่รู้ภาษาโจรเท่านั้นที่จะเข้าใจข้อความของคุณได้ มันต้องใช้เวลานานเป็น 4 เท่าในการส่งข้อความเดียวกันโดยการพูดแบบปกติ
 
-In addition, you understand a set of secret signs and symbols used to convey short, simple messages, such as whether an area is dangerous or the territory of a thieves’ guild, whether loot is nearby, or whether the people in an area are easy marks or will provide a safe house for thieves on the run.
+นอกจากนั้น คุณจะเข้าใจชุดสัญลักษณ์และเครื่องหมายลับที่ใช้ในการส่งข้อความสั้น ข้อความง่าย ๆ เช่นพื้นที่นี้อันตรายหรือไม่หรือเป็นพื้นที่ของกลุ่มโจร, มีสมบัติอยู่แถวนี้ หรือผู้คนในพื้นที่นี้เป็นเป้าได้ง่ายหรือให้ที่ซ่อนที่ปลอดภัยกับโจรที่กำลังหนีหรือไม่
 
-### Cunning Action
+### แอ็คชันว่องไว (Cunning Action) {#CunningAction}
 
-Starting at 2nd level, your quick thinking and agility allow you to move and act quickly. You can take a bonus action on each of your turns in combat. This action can be used only to take the Dash, Disengage, or Hide action.
+เริ่มที่เลเวล 2 การคิดอ่านได้รวดเร็วและความคล่องแคล่วของคุณทำให้คุณเคลื่อนที่และลงมือทำสิ่งต่าง ๆ ได้อย่างรวดเร็ว คุณสามารถใช้โบนัสแอ็คชันในแต่ละเทิร์นในการต่อสู้ของคุณ โดยแอ็คชันที่ทำได้จะมี การพุ่งตัว (Dash), การผละหนี (Disengage) หรือการซ่อนตัว (Hide)
 
-### Roguish Archetype
+### แม่แบบโร็ก (Roguish Archetype) {#RogueArchetype}
 
-At 3rd level, you choose an archetype that you emulate in the exercise of your rogue abilities. The Thief archetype is detailed here; see the Player’s Handbook for other archetypes. Your choice grants you features at 3rd level and then again at 9th, 13th, and 17th level.
+ที่เลเวล 3 คุณจะเลือกแม่แบบโร็กที่จะใช้เป็นแนวทางในการพัฒนาความสามารถ แม่แบบหัวขโมย (Thief archetype) มีรายละเอียดในเอกสารนี้ ดูคู่มือผู้เล่น (Player's Handbook) สำหรับแม่แบบอื่น ๆ สิ่งที่คุณเลือกจะมอบความสามารถให้เมื่อคุณเลเวล 3 และอีกครั้งที่เลเวล 9, 13 และ 17
 
-### Ability Score Improvement
+### คะแนนความสามารถเพิ่ม (Ability Score Improvement) {#RogueAbilityScoreImprovement}
 
-When you reach 4th level, and again at 8th, 10th, 12th, 16th, and 19th level, you can increase one ability score of your choice by 2, or you can increase two ability scores of your choice by 1. As normal, you can’t increase an ability score above 20 using this feature.
+เมื่อคุณถึงเลเวล 4 และอีกครั้งเมื่อเลเวล 8, 12, 16 และ 19 คุณสามารถเพิ่มคะแนนความสามารถหนึ่งอย่างตามที่คุณเลือกได้ 2 คะแนน หรือเพิ่ม 1 คะแนนให้กับสองทักษะก็ได้ โดยปกติแล้วคุณจะไม่สามารถเพิ่มคะแนนความสามารถได้มากกว่า 20 หากใช้คุณลักษณะนี้
 
-### Uncanny Dodge
+### การหลบหลีกเหนือธรรมชาติ (Uncanny Dodge) {#UncannyDodge}
 
-Starting at 5th level, when an attacker that you can see hits you with an attack, you can use your reaction to halve the attack’s damage against you.
+เริ่มที่เลเวล 5 เมื่อคุณถูกโจมตีจากศัตรูที่คุณมองเห็นได้ คุณสามารถใช้รีแอ็คชันในการลดความเสียหายลงครึ่งหนึ่ง
 
-### Evasion
+### การหลีกหนี (Evasion) {#Evasion}
 
-Beginning at 7th level, you can nimbly dodge out of the way of certain area effects, such as a red dragon’s fiery breath or an [ice storm]() spell. When you are subjected to an effect that allows you to make a Dexterity saving throw to take only half damage, you instead take no damage if you succeed on the saving throw, and only half damage if you fail.
+เริ่มที่เลเวล 7 คุณสามารถหลบหลีกจากการโจมตีแบบพื้นที่ได้อย่างพริ้วไหว เช่นจากลมหายใจเพลิงของมังกรแดงหรือคาถา[พายุน้ำแข็ง (ice storm)](/basic-rules/ch11-spells#ice-storm) เมื่อคุณตกเป็นเป้าของการโจมตีแบบพื้นที่ที่ต้องให้ทอยป้องกันด้านความคล่องแคล่ว (Dexterity) เพื่อให้ได้รับความเสียหายครึ่งหนึ่ง หากทอยผ่านคุณจะไม่ต้องรับความเสียหายเลย และจะเสียครึ่งเดียวหากทอยไม่ผ่าน
 
-### Reliable Talent
+### ทักษะที่พึ่งพาได้ (Reliable Talent) {#ReliableTalent}
 
-By 11th level, you have refined your chosen skills until they approach perfection. Whenever you make an ability check that lets you add your proficiency bonus, you can treat a d20 roll of 9 or lower as a 10.
+ที่เลเวล 11 คุณจะขัดเกลาทักษะที่คุณเลือกจนเข้าขั้นสมบูรณ์แบบ เมื่อใดก็ตามที่คุณต้องทอยทดสอบความสามารถที่อนุญาตให้คุณเพิ่มค่าโบนัสความเชี่ยวชาญ คุณสามารถเปลี่ยนค่าการทอย d20 จาก 9 หรือน้อยกว่า เป็นค่า 10 ได้เลย
 
-### Blindsense
+### ประสาทสัมผัสแบบตาบอด (Blindsense) {#Blindsense}
 
-Starting at 14th level, if you are able to hear, you are aware of the location of any hidden or [invisible]() creature within 10 feet of you.
+เริ่มที่เลเวล 14 ถ้าคุณยังสามารถได้ยินเสียงได้ คุณจะสามารถระบุตำแหน่งของสิ่งมีชีวิตที่ซ่อนตัวอยู่หรือล่องหนในระยะ 10 ฟุตจากตัวคุณได้
 
-### Slippery Mind
+### จิตลื่นไหล (Slippery Mind) {#SlipperyMind}
 
-By 15th level, you have acquired greater mental strength. You gain proficiency in Wisdom saving throws.
+ที่เลเวล 15 คุณจะมีจิตใจที่แข็งแกร่งอย่างสูง คุณจะได้โบนัสความเชี่ยวชาญในการทอยป้องกันด้านความรอบรู้ (Wisdom)
 
-### Elusive
+### หลบหลีกว่องไว (Elusive) {#Elusive}
 
-Beginning at 18th level, you are so evasive that attackers rarely gain the upper hand against you. No attack roll has advantage against you while you aren’t incapacitated.
+เริ่มที่เลเวล 18 คุณจะหลบหลีกอันตรายได้อย่างว่องไวจนศัตรูแทบจะไม่สามารถโจมตีคุณได้เลย จะไม่มีการทอยโจมตีใดที่โจมตีคุณได้ทอยแบบได้เปรียบหากคุณไม่อยู่ในสภาวะ[ไร้ความสามารถ (incapacitated)](/basic-rules/appendice-a-condition#incapacitated)
 
-### Stroke of Luck
+### โชคเข้าข้าง (Stroke of Luck) {#StrokeofLuck}
 
-At 20th level, you have an uncanny knack for succeeding when you need to. If your attack misses a target within range, you can turn the miss into a hit. Alternatively, if you fail an ability check, you can treat the d20 roll as a 20.
+ที่เลเวล 20 คุณจะมีโชคดีอย่างวิเศษในการทำสิ่งต่าง ๆ ถ้าการโจมตีภายในระยะของคุณพลาด คุณสามารถเปลี่ยนให้เป็นโจมตีโดนได้ นอกจากนั้นหากคุณทอยทดสอบไม่ผ่าน คุณสามารถเปลี่ยนผลการทอย d20 ให้เป็นค่า 20 ได้
 
-Once you use this feature, you can’t use it again until you finish a short or long rest.
+เมื่อคุณใช้ความสามารถนี้ไปแล้ว จะไม่สามารถใช้ได้อีกจนกว่าจะจบการพักสั้นหรือพักยาว
 
-## Roguish Archetypes
+## แม่แบบโร็ก (Roguish Archetypes) {#RoguishArchetypes}
 
-Rogues have many features in common, including their emphasis on perfecting their skills, their precise and deadly approach to combat, and their increasingly quick reflexes. But different rogues steer those talents in varying directions, embodied by the rogue archetypes. Your choice of archetype is a reflection of your focus — not necessarily an indication of your chosen profession, but a description of your preferred techniques.
+เหล่าโร็กมีความสามารถหลายอย่างที่คล้ายกัน ทั้งความพยายามในการทำให้ทักษะสมบูรณ์แบบ ความแม่นยำและความสามารถในการต่อสู้ และการตอบสนองหลบหลีกที่รวดเร็ว แต่ต่างคนก็ต่างฝึกฝนพัฒนาทักษะไปตามทางของตัวเอง โดยยึดตามแม่แบบโร็ก ตัวเลือกแม่แบบของคุณจะสะท้อนให้เห็นถึงสิ่งที่คุณมุ่งเน้น ซึ่งไม่จำเป็นว่าจะเป็นตัวบ่งชี้ถึงอาชีพที่คุณเลือกแต่จะอธิบายถึงเทคนิคที่คุณเลือกใช้
 
-### Thief
+### โจร (Thief)
 
-You hone your skills in the larcenous arts. Burglars, bandits, cutpurses, and other criminals typically follow this archetype, but so do rogues who prefer to think of themselves as professional treasure seekers, explorers, delvers, and investigators. In addition to improving your agility and stealth, you learn skills useful for delving into ancient ruins, reading unfamiliar languages, and using magic items you normally couldn’t employ.
+คุณฝึกฝนทักษะของคุณไปในศิลปะของการขโมย เป็นขอทาน, โจรป่า, พวกกรีดกระเป๋า และอาชญากรอื่น ๆ ก็มักจะเจริญรอยตามแม่แบบนี้ แต่โร็กนั้นจะคิดว่าตนเองเป็นเป็นนักค้นหาสมบัติมืออาชีพ นักสำรวจ นักขุดสำรวจ และนักสืบ ในการพัฒนาความคล่องแคล่วและการลอบเร้น คุณเรียนทักษะที่จำเป็นในการขุดสำรวจซากโบราณสถาน การอ่านภาษาที่ไม่คุ้นเคยและการใช้ไอเท็มเวทย์มนต์ที่ปกติแล้วคุณจะไม่สามารถใช้ได้
 
-#### Fast Hands
+#### มือไว (Fast Hands)
 
-Starting at 3rd level, you can use the bonus action granted by your Cunning Action to make a Dexterity (Sleight of Hand) check, use your thieves’ tools to disarm a trap or open a lock, or take the Utilize action.
+เริ่มที่เลเวล 3 คุณสามารถใช้โบนัสแอ็คชันที่ได้จากการใช้แอ็คชันว่องไว (Cunning Action) ในการทอยทดสอบความคล่องแคล่ว (ทักษะมือไว - Sleight of Hand) หรือใช้เครื่องมือโจรในการปลดกับดักหรือสะเดาะกุญแจ หรือใช้ในการใช้[แอ็คชันใช้งาน (Utilize)]()
 
-#### Second-Story Work
+#### กิจกรรมบนชั้นสอง (Second-Story Work)
 
-When you choose this archetype at 3rd level, you gain the ability to climb faster than normal; climbing no longer costs you extra movement.
+เมื่อคุณเลือกแม่แบบนี้ที่เลเวล 3 คุณจะได้ความสามารถในการปีนป่ายได้รวดเร็วกว่าปกติ คุณจะไม่เสียค่าการเคลื่อนที่พิเศษในการปีนป่าย
 
-In addition, when you make a running jump, the distance you cover increases by a number of feet equal to your Dexterity modifier.
+นอกจากนี้ เมื่อคุณวิ่งกระโดด ระยะที่คุณสามารถกระโดดได้จะเพิ่มขึ้นเป็นจำนวนฟุตเท่ากับค่าโมดิไฟเออร์ความคล่องแคล่ว (Dexterity) ของคุณ
 
-#### Supreme Sneak
+#### การลอบโจมตีขั้นสุดยอด (Supreme Sneak)
 
-Starting at 9th level, you have advantage on a Dexterity (Stealth) check if you move no more than half your speed on the same turn.
+เริ่มที่เลเวล 9 คุณจะได้ทอยทดสอบความคล่องแคล่ว (Dexterity) ทักษะการลอบเร้น (Stealth) แบบได้เปรียบ ถ้าคุณเคลื่อนที่ไปไม่เกินครึ่งหนึ่งของความเร็วของคุณในเทิร์นเดียวกัน
 
-#### Use Magic Device
+#### การใช้เครื่องมือเวทย์ (Use Magic Device)
 
-By 13th level, you have learned enough about the workings of magic that you can improvise the use of items even when they are not intended for you. You ignore all class, race, and level requirements on the use of magic items.
+ที่เลเวล 13 คุณได้เรียนรู้เกี่ยวกับการทำงานของเวทย์มนต์มาพอสมควร ทำให้คุณสามารถใช้งานเครื่องมือเวทย์มนต์แบบด้นสดแม้ว่าโดยปกติคุณจะไม่สามารถใช้มันได้ คุณจะไม่ต้องสนใจความต้องการของไอเท็มเวทมนต์ทั้งด้านคลาส เผ่าพันธุ์และเลเวลในการใช้มัน
 
-#### Thief’s Reflexes
+#### การตอบสนองของโจร (Thief’s Reflexes)
 
-When you reach 17th level, you have become adept at laying ambushes and quickly escaping danger. You can take two turns during the first round of any combat. You take your first turn at your normal initiative and your second turn at your initiative minus 10. You can’t use this feature when you are surprised.
+เมื่อคุณถึงเลเวล 17 คุณจะกลายมาเป็นผู้ชำนาญการในการซุ่มโจมตีและการหลบหนีจากอันตรายอย่างรวดเร็ว คุณสามารถใช้เทิร์นได้ 2 ครั้งภายในรอบแรกของการต่อสู้ คุณจะใช้เทิร์นแรกตามค่าลำดับในการต่อสู้ (initiative) ปกติ และเทิร์นที่สองจะเป็นค่าลำดับการต่อสู้ - 10 คุณจะไม่สามารถใช้ความสามารถนี้ได้หากคุณติดสถานะตกใจ (surprised)
