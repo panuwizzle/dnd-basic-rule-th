@@ -1403,14 +1403,15 @@ Your body becomes blurred, shifting and wavering to all who can see you. For the
 The next time you hit a creature with a weapon attack before this spell ends, the weapon gleams with astral radiance as you strike. The attack deals an extra 2d6 radiant damage to the target, which becomes visible if it’s invisible, and the target sheds dim light in a 5-foot radius and can’t become invisible until the spell ends.
 At Higher Levels. When you cast this spell using a spell slot of 3rd level or higher, the extra damage increases by 1d6 for each slot level above 2nd.
 
-### Burning Hands {#burning-hands}
+### มือไฟ (Burning Hands) {#burning-hands}
 
-1st-level evocation
-**เวลาในการร่ายคาถา:** 1 แอ็คชัน
-**ระยะ:** Self (15-foot cone)
-**วิธีการร่ายและวัตถุคาถา:** V, S
-**ระยะเวลาคงคาถา:** โดยทันที
+1st-level evocation  
+**เวลาในการร่ายคาถา:** 1 แอ็คชัน  
+**ระยะ:** Self (15-foot cone)  
+**วิธีการร่ายและวัตถุคาถา:** V, S  
+**ระยะเวลาคงคาถา:** โดยทันที  
 As you hold your hands with thumbs touching and fingers spread, a thin sheet of flames shoots forth from your outstretched fingertips. Each creature in a 15-foot cone must make a Dexterity saving throw. A creature takes 3d6 fire damage on a failed save, or half as much damage on a successful one.
+
 The fire ignites any flammable objects in the area that aren’t being worn or carried.
 At Higher Levels. When you cast this spell using a spell slot of 2nd level or higher, the damage increases by 1d6 for each slot level above 1st.
 
@@ -1471,13 +1472,24 @@ You create a ghostly, skeletal hand in the space of a creature within range. Mak
 If you hit an undead target, it also has disadvantage on attack rolls against you until the end of your next turn.
 This spell’s damage increases by 1d8 when you reach 5th level (2d8), 11th level (3d8), and 17th level (4d8).
 
+### Chromatic Orb {#chromatic-orb}
+
+1st-level evocation  
+**เวลาในการร่ายคาถา:** 1 แอ็คชัน  
+**ระยะ:** 90 ฟุต  
+**วิธีการร่ายและวัตถุคาถา:** V, S, M (a diamond worth at least 50 gp)
+**ระยะเวลาคงคาถา:** โดยทันที  
+You hurl a 4-inch-diameter sphere of energy at a creature that you can see within range. You choose acid, cold, fire, lightning, poison, or thunder for the type of orb you create, and then make a ranged spell attack against the target. If the attack hits, the creature takes 3d8 damage of the type you chose.
+
+At Higher Levels. When you cast this spell using a spell slot of 2nd level or higher, the damage increases by 1d8 for each slot level above 1st.
+
 ### Circle of Death {#circle-of-death}
 
-6th-level necromancy
-**เวลาในการร่ายคาถา:** 1 แอ็คชัน
-**ระยะ:** 150 ฟุต
-**วิธีการร่ายและวัตถุคาถา:** V, S, M (the powder of a crushed black pearl worth at least 500 gp)
-**ระยะเวลาคงคาถา:** โดยทันที
+6th-level necromancy  
+**เวลาในการร่ายคาถา:** 1 แอ็คชัน  
+**ระยะ:** 150 ฟุต  
+**วิธีการร่ายและวัตถุคาถา:** V, S, M (the powder of a crushed black pearl worth at least 500 gp)  
+**ระยะเวลาคงคาถา:** โดยทันที  
 A sphere of negative energy ripples out in a 60-foot-radius sphere from a point within range. Each creature in that area must make a Constitution saving throw. A target takes 8d6 necrotic damage on a failed save, or half as much damage on a successful one.
 At Higher Levels. When you cast this spell using a spell slot of 7th level or higher, the damage increases by 2d6 for each slot level above 6th.
 
@@ -3419,27 +3431,34 @@ At Higher Levels. When you cast this spell using a spell slot of 4th level or hi
 
 ### Magic Jar {#magic-jar}
 
-6th-level necromancy
-**เวลาในการร่ายคาถา:** 1 นาที
-**ระยะ:** Self
-**วิธีการร่ายและวัตถุคาถา:** V, S, M (a gem, crystal, reliquary, or some other ornamental container worth at least 500 gp)
-**ระยะเวลาคงคาถา:** Until dispelled
+6th-level necromancy  
+**เวลาในการร่ายคาถา:** 1 นาที  
+**ระยะ:** Self  
+**วิธีการร่ายและวัตถุคาถา:** V, S, M (a gem, crystal, reliquary, or some other ornamental container worth at least 500 gp)  
+**ระยะเวลาคงคาถา:** Until dispelled  
+
 Your body falls into a catatonic state as your soul leaves it and enters the container you used for the spell’s material component. While your soul inhabits the container, you are aware of your surroundings as if you were in the container’s space. You can’t move or use reactions. The only action you can take is to project your soul up to 100 ฟุต out of the container, either returning to your living body (and ending the spell) or attempting to possess a humanoids body.
+
 You can attempt to possess any humanoid within 100 ฟุต of you that you can see (creatures warded by a protection from evil and good or magic circle spell can’t be possessed). The target must make a Charisma saving throw. On a failure, your soul moves into the target’s body, and the target’s soul becomes trapped in the container. On a success, the target resists your efforts to possess it, and you can’t attempt to possess it again for 24 ชั่วโมง.
 Once you possess a creature’s body, you control it. Your game statistics are replaced by the statistics of the creature, though you retain your alignment and your Intelligence, Wisdom, and Charisma scores. You retain the benefit of your own class features. If the target has any class levels, you can’t use any of its class features.
+
 Meanwhile, the possessed creature’s soul can perceive from the container using its own senses, but it can’t move or take actions at all.
+
 While possessing a body, you can use your action to return from the host body to the container if it is within 100 ฟุต of you, returning the host creature’s soul to its body. If the host body dies while you’re in it, the creature dies, and you must make a Charisma saving throw against your own spellcasting DC. On a success, you return to the container if it is within 100 ฟุต of you. Otherwise, you die.
+
 If the container is destroyed or the spell ends, your soul immediately returns to your body. If your body is more than 100 ฟุต away from you or if your body is dead when you attempt to return to it, you die. If another creature’s soul is in the container when it is destroyed, the creature’s soul returns to its body if the body is alive and within 100 ฟุต. Otherwise, that creature dies.
+
 When the spell ends, the container is destroyed.
 
-### Magic Missile {#magic-missile}
+### มิสไซล์เวทย์ (Magic Missile) {#magic-missile}
 
-1st-level evocation
-**เวลาในการร่ายคาถา:** 1 แอ็คชัน
-**ระยะ:** 120 ฟุต
-**วิธีการร่ายและวัตถุคาถา:** V, S
-**ระยะเวลาคงคาถา:** โดยทันที
+1st-level evocation  
+**เวลาในการร่ายคาถา:** 1 แอ็คชัน  
+**ระยะ:** 120 ฟุต  
+**วิธีการร่ายและวัตถุคาถา:** V, S  
+**ระยะเวลาคงคาถา:** โดยทันที  
 You create three glowing darts of magical force. Each dart hits a creature of your choice that you can see within range. A dart deals 1d4 + 1 force damage to its target. The darts all strike simultaneously, and you can direct them to hit one creature or several.
+
 At Higher Levels. When you cast this spell using a spell slot of 2nd level or higher, the spell creates one more dart for each slot level above 1st.
 
 ### Magic Mouth {#magic-mouth}
@@ -4022,14 +4041,16 @@ Coming back from the dead is an ordeal. The target takes a −4 penalty to all a
 A black beam of enervating energy springs from your finger toward a creature within range. Make a ranged spell attack against the target. On a hit, the target deals only half damage with weapon attacks that use Strength until the spell ends.
 At the end of each of the target’s turns, it can make a Constitution saving throw against the spell. On a success, the spell ends.
 
-### Ray of Frost {#ray-of-frost}
+### รังสีเยือกแข็ง (Ray of Frost) {#ray-of-frost}
 
-Evocation cantrip
-**เวลาในการร่ายคาถา:** 1 แอ็คชัน
-**ระยะ:** 60 ฟุต
-**วิธีการร่ายและวัตถุคาถา:** V, S
-**ระยะเวลาคงคาถา:** โดยทันที
+Evocation cantrip  
+**เวลาในการร่ายคาถา:** 1 แอ็คชัน  
+**ระยะ:** 60 ฟุต  
+**วิธีการร่ายและวัตถุคาถา:** V, S  
+**ระยะเวลาคงคาถา:** โดยทันที  
+
 A frigid beam of blue-white light streaks toward a creature within range. Make a ranged spell attack against the target. On a hit, it takes 1d8 cold damage, and its speed is reduced by 10 ฟุต until the start of your next turn.
+
 The spell’s damage increases by 1d8 when you reach 5th level (2d8), 11th level (3d8), and 17th level (4d8).
 
 ### Regenerate {#regenerate}
@@ -4210,15 +4231,17 @@ You ward a creature within range against attack. Until the spell ends, any creat
 
 If the warded creature makes an attack, casts a spell that affects an enemy, or deals damage to another creature, this spell ends.
 
-### Scorching Ray {#scorching-ray}
+### รังสีเผาผลาญ (Scorching Ray) {#scorching-ray}
 
-2nd-level evocation
-**เวลาในการร่ายคาถา:** 1 แอ็คชัน
-**ระยะ:** 120 ฟุต
-**วิธีการร่ายและวัตถุคาถา:** V, S
-**ระยะเวลาคงคาถา:** โดยทันที
+2nd-level evocation  
+**เวลาในการร่ายคาถา:** 1 แอ็คชัน  
+**ระยะ:** 120 ฟุต  
+**วิธีการร่ายและวัตถุคาถา:** V, S  
+**ระยะเวลาคงคาถา:** โดยทันที  
+
 You create three rays of fire and hurl them at targets within range. You can hurl them at one target or several.
 Make a ranged spell attack for each ray. On a hit, the target takes 2d6 fire damage.
+
 At Higher Levels. When you cast this spell using a spell slot of 3rd level or higher, you create one additional ray for each slot level above 2nd.
 
 ### Scrying {#scrying}

@@ -7,257 +7,260 @@ name: ซอเซอร์เรอร์ (Sorcerer)
 
 # ซอเซอร์เรอร์ (Sorcerer)
 
-Golden eyes flashing, a human stretches out her hand and unleashes the dragonfire that burns in her veins. As an inferno rages around her foes, leathery wings spread from her back and she takes to the air.
+ดวงตาสีทองเปล่งประกาย มนุษย์สาวกางแขนออกและปลดปล่อยพลังมังกรไฟที่แผดเผาอยู่ในร่างกายเธอ ขณะที่เพลิงนรกเผาผลาญศัตรูอยู่นั้น ปีกหนังก็กางออกจากแผ่นหลังของเธอพร้อมกับพุ่งทะยานขึ้นฟ้า
 
-Long hair whipped by a conjured wind, a half-elf spreads his arms wide and throws his head back. Lifting him momentarily off the ground, a wave of magic surges up in him, through him, and out from him in a mighty blast of lightning.
+ผมยาวถูกพัดลอยสยายขึ้นโดยลมที่ถูกอัญเชิญ ฮาล์ฟเอลฟ์กางแขนกว้างและเงยหน้าขึ้น ตัวเขาถูกยกขึ้นชั่วขณะพร้อมกับคลื่นเวทย์มนต์ที่เอ่อล้นออกจากตัว ไหลผ่าน และระเบิดออกจากตัวเขากลายเป็นสายฟ้ามหึมา
 
-Crouching behind a stalagmite, a halfling points a finger at a charging troglodyte. A blast of fire springs from her finger to strike the creature. She ducks back behind the rock formation with a grin, unaware that her wild magic has turned her skin bright blue.
+คืบคลานอยู่หลังหินงอก ฮาล์ฟลิ่งสาวชี้นิ้วไปที่โทรโกลไดท์ที่กำลังพุ่งเข้าใส่ ลูกไฟระเบิดออกจากนิ้วของเธอพุ่งเข้าใส่สัตว์ร้าย เธอก้มหลบอยู่หลังแนวหินกัดฟันกรอด ไม่รู้ตัวว่าเวทย์มนต์ป่า (wild magic) ของเธอทำให้ผิวกลายเป็นสีฟ้าไปแล้ว
 
-Sorcerers carry a magical birthright conferred upon them by an exotic bloodline, some otherworldly influence, or exposure to unknown cosmic forces. One can’t study sorcery as one learns a language, any more than one can learn to live a legendary life. No one chooses sorcery; the power chooses the sorcerer.
+ซอเซอร์เรอร์มีเวทย์มนต์ไหลอยู่ในตัวตั้งแต่เกิดซึ่งเป็นเพราะสายเลือดอันแปลกประหลาด บ้างเกิดจากอิทธิพลของสิ่งเหนือโลก หรือผลกระทบจากอำนาจจากพลังแห่งจักรวาล ไม่มีใครสามารถศึกษาเรียนรู้เพื่อเป็นซอเซอร์เรอร์ได้เหมือนการเรียนภาษา เช่นเดียวกับการใช้ชีวิตให้เป็นตำนาน ไม่มีใครเลือกเป็นซอเซอร์เรอร์ พลังเป็นผู้เลือกซอเซอร์เรอร์
 
-### Raw Magic
+### พลังเวทย์มนต์ดิบ (Raw Magic)
 
-Magic is a part of every sorcerer, suffusing body, mind, and spirit with a latent power that waits to be tapped. Some sorcerers wield magic that springs from an ancient bloodline infused with the magic of dragons. Others carry a raw, uncontrolled magic within them, a chaotic storm that manifests in unexpected ways.
+เวทย์มนต์เป็นส่วนหนึ่งของซอเซอร์เรอร์ทุกคน แทรกซึมอยู่ในร่างกาย จิตใจ และวิญญาณเป็นพลังที่ซ่อนเร้นอยู่เพื่อรอวันแสดงอำนาจ ซอเซอร์เรอร์บางคนใช้เวทย์มนต์ที่เกิดจากสายเลือดโบราณที่ผสมอยู่กับเวทย์มนต์ของมังกร คนอื่นมีเวทย์มนต์ดิบที่ควบคุมไม่ได้อยู่ภายในตัว เป็นพายุโกลาหลที่จะแสดงออกมาหลากหลายเกินคาดเอา
 
-The appearance of sorcerous powers is wildly unpredictable. Some draconic bloodlines produce exactly one sorcerer in every generation, but in other lines of descent every individual is a sorcerer. Most of the time, the talents of sorcery appear as apparent flukes. Some sorcerers can’t name the origin of their power, while others trace it to strange events in their own lives. The touch of a demon, the blessing of a dryad at a baby’s birth, or a taste of the water from a mysterious spring might spark the gift of sorcery. So too might the gift of a deity of magic, exposure to the elemental forces of the Inner Planes or the maddening chaos of Limbo, or a glimpse into the inner workings of reality.
+การเกิดขึ้นของพลังซอเซอร์เรอร์นั้นคาดเดาได้ยาก บางครั้งสายเลือดมังกรก็ทำให้เกิดซอเซอร์เรอร์หนึ่งคนในทุก ๆ ชั่วคน แต่ในบางสายเลือดทุกคนจะเป็นซอเซอร์เรอร์ทั้งหมด โดยส่วนใหญ่แล้วซอเซอร์เรอร์ที่มากความสามารถมักจะเกิดจากความบังเอิญ ซอเซอร์เรอร์บางคนไม่สามารถตอบได้ว่าพลังของเขามีที่มาจากไหน ขณะที่บางคนสืบสาวไปถึงเหตุการณ์ประหลาดที่เกิดขึ้นในชีวิต การถูกปีศาจสัมผัส การได้รับพรจากดรายยาดเมื่อแรกเกิด หรือการได้ดื่มน้ำจากน้ำพุประหลาดก็อาจจะทำให้เกิดซอเซอร์เรอร์ได้ ยังมีการได้รับพรสวรรค์จากเทพเจ้าแห่งเวทย์มนต์ การสัมผัสกับพลังวิญญาณธาตุในมิติภายใน (Inner Planes) หรือความโกลาหลบ้าคลั่งในลิมโบ (Limbo)
 
-Sorcerers have no use for the spellbooks and ancient tomes of magic lore that wizards rely on, nor do they rely on a patron to grant their spells as warlocks do. By learning to harness and channel their own inborn magic, they can discover new and staggering ways to unleash that power.
+ซอเซอร์เรอร์ไม่ต้องใช้หนังสือคาถาและคัมภีร์โบราณเหมือนอย่างที่วิซาร์ดต้องใช้ และยังไม่ต้องอาศัยเทพอุปถัมภ์เพื่อให้ได้พลังเวทย์มนต์อย่างวอร์ล็อค ด้วยการเรียนรู้ที่จะควบคุมและส่งผ่านเวทย์มนต์ภายในร่างกายของพวกเขาเอง พวกเขาสามารถค้นพบวิธีการปลดปล่อยพลังความสามารถใหม่ ๆ ได้ด้วยตัวเอง
 
-### Unexplained Powers
+### พลังที่ไม่สามารถอธิบายได้ (Unexplained Powers)
 
-Sorcerers are rare in the world, and it’s unusual to find a sorcerer who is not involved in the adventuring life in some way. People with magical power seething in their veins soon discover that the power doesn’t like to stay quiet. A sorcerer’s magic wants to be wielded, and it has a tendency to spill out in unpredictable ways if it isn’t called on.
+ซอร์เซอร์เรอร์นั้นหายากในโลกทั่วไป และมันเป็นเรื่องไม่ปกตินักที่จะเจอกับซอร์เซอร์เรอร์ที่ไม่ได้เป็นนักผจญภัย ผู้คนที่มีพลังเวทย์มนต์ไหลเวียนอยูในตัวนั้นสุดท้ายก็พบว่าไม่สามารถใช้ชีวิตอยู่เงียบ ๆ ได้ พลังเวทย์มนต์ของซอร์เซอร์เรอร์นั้นต้องการที่จะถูกใช้งาน และมันมักจะล้นออกมาโดยไม่สามารถคาดเดาได้หากไม่นำมันมาใช้
 
-Sorcerers often have obscure or quixotic motivations driving them to adventure. Some seek a greater understanding of the magical force that infuses them, or the answer to the mystery of its origin. Others hope to find a way to get rid of it, or to unleash its full potential. Whatever their goals, sorcerers are every bit as useful to an adventuring party as wizards, making up for a comparative lack of breadth in their magical knowledge with enormous flexibility in using the spells they know.
+ซอร์เซอร์เรอร์มักจะมีแรงบันดาลใจที่ไม่ชัดเจนหรือเพ้อฝันในเรื่องการผจญภัย บางคนต้องการเรียนรู้ถึงพลังเวทย์มนต์ที่มีอยู่ในตัวให้มากขึ้น หรือค้นหาว่าต้นกำเนิดมาจากไหน บางคนหวังว่าจะหาทางกำจัดมันออกไปได้ หรือเอามันมาใช้ให้ได้อย่างสูงสุด ไม่ว่าเป้าหมายจะเป็นอะไรก็ตาม ซอร์เซอร์เรอร์ก็มีประโยชน์กับคณะผจญภัยได้เทียบเท่ากับวิซาร์ด โดยแทนที่ความสามารถในการใช้คาถาอย่างกว้างขวางหลากหลายด้วยการใช้ความสามารถทางเวทย์มนต์อย่างยืดหยุ่นแทน
 
-### Creating a Sorcerer
+### สร้างซอร์เซอร์เรอร์ (Creating a Sorcerer)
 
-The most important question to consider when creating your sorcerer is the origin of your power. As a starting character, you’ll choose an origin that ties to a draconic bloodline or the influence of wild magic, but the exact source of your power is up to you to decide. Is it a family curse, passed down to you from distant ancestors? Or did some extraordinary event leave you blessed with inherent magic but perhaps scarred as well?
+คำถามที่สำคัญที่สุดที่ต้องพิจารณาเมื่อสร้างตัวละครซอร์เซอร์เรอร์คือแหล่งที่มาของพลังของคุณ เมื่อเริ่มสร้างตัวละครคุณจะได้เลือกต้นกำเนิดที่ผูกโยงกับสายเลือดมังกร หรืออิทธิพลจากเวทย์มนต์ป่า (wild magic) แต่ต้นกำเนิดที่แท้จริงของพลังของคุณนั้นต้องเป็นคุณที่ตัดสินใจเลือกเอง มันเป็นคำสาปของครอบครัวที่ตกทอดกันมาจากบรรพบุรุษหรือเปล่า หรือมีเหตุการณ์ประหลาดที่มอบพลังเวทย์มนต์ให้คุณ แต่ก็อาจจะมีแผลเป็นทิ้งไว้ด้วยอะไรแบบนั้น
 
-How do you feel about the magical power coursing through you? Do you embrace it, try to master it, or revel in its unpredictable nature? Is it a blessing or a curse? Did you seek it out, or did it find you? Did you have the option to refuse it, and do you wish you had? What do you intend to do with it? Perhaps you feel like you’ve been given this power for some lofty purpose. Or you might decide that the power gives you the right to do what you want, to take what you want from those who lack such power. Perhaps your power links you to a powerful individual in the world — the fey creature that blessed you at birth, the dragon who put a drop of its blood into your veins, the lich who created you as an experiment, or the deity who chose you to carry this power.
+คุณรู้สึกยังไงเกี่ยวกับพลังเวทย์มนต์ที่ไหลเวียนในร่างกาย คุณยอมรับมัน พยายามควบคุมมัน หรือสนุกสนานกับธรรมชาติที่ยากจะคาดเดาของมัน มันเป็นพรหรือเป็นคำสาป คุณค้นพบมันหรือมันค้นพบคุณ คุณมีทางเลือกที่จะปฏิเสธมันมั๊ย และคุณเลือกจะปฏิเสธหรือเปล่า คุณตั้งใจจะทำยังไงกับมัน บางทีคุณอาจจะรู้สึกว่าได้รับพลังมาเพื่อทำอะไรสักอย่าง หรือคุณอาจจะตัดสินใจว่ามันเป็นพลังที่มอบโอกาสให้คุณได้ทำอะไรก็ได้ที่อยากทำ ให้คุณได้ครอบครองสิ่งที่คุณอยากได้จากคนที่ไร้พลัง หรือบางทีพลังนี้ผูกพันคุณกับผู้มีอำนาจสูงในโลกนี้ เป็นสิ่งมีชีวิตเฟย์ที่มอบพลังนี้ให้คุณตั้งแต่คุณเกิด มังกรที่มอบหยดเลือดให้คุณ ลิช (lich) ที่สร้างคุณขึ้นมาในการทดลอง หรือเทพผู้เลือกคุณให้ใช้พลังของพวกเขา
 
-#### Quick Build
+#### สร้างอย่างเร็ว (Quick Build)
 
-You can make a sorcerer quickly by following these suggestions. First, Charisma should be your highest ability score, followed by Constitution. Second, choose the hermit background. Third, choose the [light], [prestidigitation], [ray of frost], and [shocking grasp] cantrips, along with the 1st-level spells [shield] and [magic missile].
+คุณสามารถสร้างซอร์เซอร์เรอร์อย่างรวดเร็วได้ด้วยคำแนะนำดังนี้ อย่างแรก ค่าเสน่ห์ (Charisma) ควรเป็นคะแนนความสามารถที่สูงที่สุดของคุณ ตามมาด้วยค่าความอดทน (Constitution) สอง เลือกภูมิหลังเป็นฤษี (hermit background) สาม เลือกแคนทริป [แสงสว่าง (light)](), [การเล่นกล (prestidigitation)](), [รังสีเยือกแข็ง (ray of frost)](), และ [shocking grasp]() พร้อมด้วยคาถาเลเวล 1 คือ [โล่เวทย์ (shield)]() และ [เมจิกมิสไซล์ (magic missile)]().
 
-| Level | Proficiency <br>Bonus | Sorcery <br>Points | Features                                                                    | Cantrips <br>Known | Spells <br>Known | —   | Spell | Slots | per | Spell | Level | —   |     |     |
-| ----- | --------------------- | ------------------ | --------------------------------------------------------------------------- | ------------------ | ---------------- | --- | ----- | ----- | --- | ----- | ----- | --- | --- | --- |
-|       |                       |                    |                                                                             |                    |                  | 1st | 2nd   | 3rd   | 4th | 5th   | 6th   | 7th | 8th | 9th |
-| 1st   | +2                    | —                  | [Spellcasting](#SorcererSpellcasting), [Sorcerous Origin](#SorcerousOrigin) | 4                  | 2                | 2   | —     | —     | —   | —     | —     | —   | —   | —   |
-| 2nd   | +2                    | 2                  | [Font of Magic](#FontofMagic)                                               | 4                  | 3                | 3   | —     | —     | —   | —     | —     | —   | —   | —   |
-| 3rd   | +2                    | 3                  | [Metamagic](#Metamagic)                                                     | 4                  | 4                | 4   | 2     | —     | —   | —     | —     | —   | —   | —   |
-| 4th   | +2                    | 4                  | [Ability Score Improvement](#SorcererAbilityScoreImprovement)               | 5                  | 5                | 4   | 3     | —     | —   | —     | —     | —   | —   | —   |
-| 5th   | +3                    | 5                  | —                                                                           | 5                  | 6                | 4   | 3     | 2     | —   | —     | —     | —   | —   | —   |
-| 6th   | +3                    | 6                  | [Sorcerous Origin Feature](#SorcerousOrigins)                               | 5                  | 7                | 4   | 3     | 3     | —   | —     | —     | —   | —   | —   |
-| 7th   | +3                    | 7                  | —                                                                           | 5                  | 8                | 4   | 3     | 3     | 1   | —     | —     | —   | —   | —   |
-| 8th   | +3                    | 8                  | [Ability Score Improvement](#SorcererAbilityScoreImprovement)               | 5                  | 9                | 4   | 3     | 3     | 2   | —     | —     | —   | —   | —   |
-| 9th   | +4                    | 9                  | —                                                                           | 5                  | 10               | 4   | 3     | 3     | 3   | 1     | —     | —   | —   | —   |
-| 10th  | +4                    | 10                 | [Metamagic](#Metamagic)                                                     | 6                  | 11               | 4   | 3     | 3     | 3   | 2     | —     | —   | —   | —   |
-| 11th  | +4                    | 11                 | —                                                                           | 6                  | 12               | 4   | 3     | 3     | 3   | 2     | 1     | —   | —   | —   |
-| 12th  | +4                    | 12                 | [Ability Score Improvement](#SorcererAbilityScoreImprovement)               | 6                  | 12               | 4   | 3     | 3     | 3   | 2     | 1     | —   | —   | —   |
-| 13th  | +5                    | 13                 | —                                                                           | 6                  | 13               | 4   | 3     | 3     | 3   | 2     | 1     | 1   | —   | —   |
-| 14th  | +5                    | 14                 | [Sorcerous Origin Feature](#SorcerousOrigins)                               | 6                  | 13               | 4   | 3     | 3     | 3   | 2     | 1     | 1   | —   | —   |
-| 15th  | +5                    | 15                 | —                                                                           | 6                  | 14               | 4   | 3     | 3     | 3   | 2     | 1     | 1   | 1   | —   |
-| 16th  | +5                    | 16                 | [Ability Score Improvement](#SorcererAbilityScoreImprovement)               | 6                  | 14               | 4   | 3     | 3     | 3   | 2     | 1     | 1   | 1   | —   |
-| 17th  | +6                    | 17                 | [Metamagic](#Metamagic)                                                     | 6                  | 15               | 4   | 3     | 3     | 3   | 2     | 1     | 1   | 1   | 1   |
-| 18th  | +6                    | 18                 | [Sorcerous Origin Feature](#SorcerousOrigins)                               | 6                  | 15               | 4   | 3     | 3     | 3   | 3     | 1     | 1   | 1   | 1   |
-| 19th  | +6                    | 19                 | [Ability Score Improvement](#SorcererAbilityScoreImprovement)               | 6                  | 15               | 4   | 3     | 3     | 3   | 3     | 2     | 1   | 1   | 1   |
-| 20th  | +6                    | 20                 | [Sorcerous Restoration](#SorcerousRestoration)                              | 6                  | 15               | 4   | 3     | 3     | 3   | 3     | 2     | 2   | 1   | 1   |
+| เลเวล | โบนัสความเชี่ยวชาญ | คะแนนผู้วิเศษ | ความสามารถ                                                                  | แคนทริปที่รู้ | คาถาที่รู้ | —   | Spell | Slots | per | Spell | Level | —   |     |     |
+| ----- | ------------------ | ------------- | --------------------------------------------------------------------------- | ------------- | ---------- | --- | ----- | ----- | --- | ----- | ----- | --- | --- | --- |
+|       |                    |               |                                                                             |               |            | 1st | 2nd   | 3rd   | 4th | 5th   | 6th   | 7th | 8th | 9th |
+| 1st   | +2                 | —             | [Spellcasting](#SorcererSpellcasting), [Sorcerous Origin](#SorcerousOrigin) | 4             | 2          | 2   | —     | —     | —   | —     | —     | —   | —   | —   |
+| 2nd   | +2                 | 2             | [Font of Magic](#FontofMagic)                                               | 4             | 3          | 3   | —     | —     | —   | —     | —     | —   | —   | —   |
+| 3rd   | +2                 | 3             | [Metamagic](#Metamagic)                                                     | 4             | 4          | 4   | 2     | —     | —   | —     | —     | —   | —   | —   |
+| 4th   | +2                 | 4             | [Ability Score Improvement](#SorcererAbilityScoreImprovement)               | 5             | 5          | 4   | 3     | —     | —   | —     | —     | —   | —   | —   |
+| 5th   | +3                 | 5             | —                                                                           | 5             | 6          | 4   | 3     | 2     | —   | —     | —     | —   | —   | —   |
+| 6th   | +3                 | 6             | [Sorcerous Origin Feature](#SorcerousOrigins)                               | 5             | 7          | 4   | 3     | 3     | —   | —     | —     | —   | —   | —   |
+| 7th   | +3                 | 7             | —                                                                           | 5             | 8          | 4   | 3     | 3     | 1   | —     | —     | —   | —   | —   |
+| 8th   | +3                 | 8             | [Ability Score Improvement](#SorcererAbilityScoreImprovement)               | 5             | 9          | 4   | 3     | 3     | 2   | —     | —     | —   | —   | —   |
+| 9th   | +4                 | 9             | —                                                                           | 5             | 10         | 4   | 3     | 3     | 3   | 1     | —     | —   | —   | —   |
+| 10th  | +4                 | 10            | [Metamagic](#Metamagic)                                                     | 6             | 11         | 4   | 3     | 3     | 3   | 2     | —     | —   | —   | —   |
+| 11th  | +4                 | 11            | —                                                                           | 6             | 12         | 4   | 3     | 3     | 3   | 2     | 1     | —   | —   | —   |
+| 12th  | +4                 | 12            | [Ability Score Improvement](#SorcererAbilityScoreImprovement)               | 6             | 12         | 4   | 3     | 3     | 3   | 2     | 1     | —   | —   | —   |
+| 13th  | +5                 | 13            | —                                                                           | 6             | 13         | 4   | 3     | 3     | 3   | 2     | 1     | 1   | —   | —   |
+| 14th  | +5                 | 14            | [Sorcerous Origin Feature](#SorcerousOrigins)                               | 6             | 13         | 4   | 3     | 3     | 3   | 2     | 1     | 1   | —   | —   |
+| 15th  | +5                 | 15            | —                                                                           | 6             | 14         | 4   | 3     | 3     | 3   | 2     | 1     | 1   | 1   | —   |
+| 16th  | +5                 | 16            | [Ability Score Improvement](#SorcererAbilityScoreImprovement)               | 6             | 14         | 4   | 3     | 3     | 3   | 2     | 1     | 1   | 1   | —   |
+| 17th  | +6                 | 17            | [Metamagic](#Metamagic)                                                     | 6             | 15         | 4   | 3     | 3     | 3   | 2     | 1     | 1   | 1   | 1   |
+| 18th  | +6                 | 18            | [Sorcerous Origin Feature](#SorcerousOrigins)                               | 6             | 15         | 4   | 3     | 3     | 3   | 3     | 1     | 1   | 1   | 1   |
+| 19th  | +6                 | 19            | [Ability Score Improvement](#SorcererAbilityScoreImprovement)               | 6             | 15         | 4   | 3     | 3     | 3   | 3     | 2     | 1   | 1   | 1   |
+| 20th  | +6                 | 20            | [Sorcerous Restoration](#SorcerousRestoration)                              | 6             | 15         | 4   | 3     | 3     | 3   | 3     | 2     | 2   | 1   | 1   |
 
-## Class Features
+## ความสามารถของคลาส (Class Features)
 
-As a sorcerer, you gain the following class features.
+เมื่อเป็นซอร์เซอร์เรอร์ คุณจะได้รับความสามารถของคลาสดังนี้
 
-#### Hit Points
+#### ฮิตพอยต์
 
-**Hit Dice:** 1d6 per sorcerer level
+**ฮิตไดซ์:** 1d6 ต่อเลเวลซอร์เซอร์เรอร์
 
-**Hit Points at 1st Level:** 6 + your Constitution modifier
+**ฮิตพอยต์เมื่อเลเวล 1:** 6 + ค่าโมดิไฟเออร์ความอดทน (Constitution)
 
-**Hit Points at Higher Levels:** 1d6 (or 4) + your Constitution modifier per sorcerer level after 1st
+**ฮิตพอยต์เมื่อเลเวลสูงขึ้น:** 1d6 (หรือ 4) + ค่าโมดิไฟเออร์ความอดทนต่อเลเวลซอร์เซอร์เรอร์หลังเลเวล 1
 
-#### Proficiencies
+#### ความเชี่ยวชาญ
 
-**Armor:** None
+**เกราะ:** ไม่มี
 
-**Weapons:** Daggers, darts, slings, quarterstaffs, light crossbows
+**อาวุธ:** กริช (Dagger), ลูกดอก (dart), สลิง (sling), กระบองยาว (quarterstaff), หน้าไม้เบา (light crossbow)
 
-**Tools:** None
+**เครื่องมือ:** ไม่มี
 
-**Saving Throws:** Constitution, Charisma
+**การทอยป้องกัน:** ความอดทน (Constitution), เสน่ห์ (Charisma)
 
-**Skills:** Choose two from Arcana, Deception, Insight, Intimidation, Persuasion, and Religion
+**ทักษะ:** เลือก 2 ทักษะจาก Arcana, Deception, Insight, Intimidation, Persuasion, และ Religion
 
-#### Equipment
+#### อุปกรณ์
 
-You start with the following equipment, in addition to the equipment granted by your background:
+คุณจะเริ่มด้วยอุปกรณ์ดังต่อไปนี้ นอกเหนือจากที่คุณจะได้รับจากภูมิหลัง:
 
-- (a) a light crossbow and 20 bolts or (b) any simple weapon
-- (a) a component pouch or (b) an arcane focus
-- (a) a dungeoneer’s pack or (b) an explorer’s pack
-  -bTwo daggers
+- (a) หน้าไม้เบา (light crossbow) และลูกศร 20 ดอก หรือ (b) อาวุธพื้นฐาน
+- (a) ถุงวัตถุเวทย์ (component pouch) หรือ (b) สื่อรวมสมาธิ (arcane focus)
+- (a) ชุดอุปกรณ์นักสำรวจดันเจียน (dungeoneer's pack) หรือ (b) ชุดอุปกรณ์นักสำรวจ (explorer's pack)
+- กริช (dagger) 2 เล่ม
 
-### Spellcasting
+### การใช้คาถา (Spellcasting)
 
-An event in your past, or in the life of a parent or ancestor, left an indelible mark on you, infusing you with arcane magic. This font of magic, whatever its origin, fuels your spells. See chapter 10 for the general rules of spellcasting and chapter 11 for the sorcerer spell list.
+เหตุการณ์ในอดีตของคุณ หรือในช่วงชีวิตของพ่อแม่และบรรพบุรุษ ทำให้คุณผสานกับเวทย์มนต์อันลึกลับ บ่อเกิดแห่งเวทย์มนต์นี้ ไม่ว่าจะมีที่มาอย่างไร มันได้ให้พลังกับคาถาของคุณ ดู [บทที่ 10](../../ch10-spellcasting) สำหรับกฏทั่วไปของการใช้คาถา และ [บทที่ 11](../../ch11-spells) สำหรับรายการคาถาของซอร์เซอร์เรอร์
 
-#### Cantrips
+#### แคนทริป (Cantrips)
 
-At 1st level, you know four cantrips of your choice from the sorcerer spell list. You learn additional sorcerer cantrips of your choice at higher levels, as shown in the Cantrips Known column of the Sorcerer table.
+ที่เลเวล 1 คุณจะรู้แคนทริป 4 คาถาตามที่คุณเลือกจากรายการคาถาของซอร์เซอร์เรอร์ คุณจะเรียนรู้คาถาเพิ่มเติมได้เมื่อคุณเลเวลสูงขึ้นตามที่แสดงไว้ในตาราง
 
-#### Spell Slots
+#### สล็อตคาถา (Spell Slots)
 
-The Sorcerer table shows how many spell slots you have to cast your sorcerer spells of 1st level and higher. To cast one of these sorcerer spells, you must expend a slot of the spell’s level or higher. You regain all expended spell slots when you finish a long rest.
+ตารางซอร์เซอร์เรอร์แสดงจำนวนสล็อตคาถาที่คุณสามารถใช้ร่ายคาถาเลเวล 1 และสูงกว่า ในการร่ายคาถานี้คุณต้องจ่ายเป็นสลอตของคาถาในเลเวลนั้นหรือสูงกว่า คุณจะได้รับสล็อตที่คุณได้ใช้ไปคืนมาเมื่อคุณจบการพักยาว
 
-For example, if you know the 1st-level spell [burning hands]() and have a 1st-level and a 2nd-level spell slot available, you can cast [burning hands]() using either slot.
+ตัวอย่างเช่น ถ้าคุณรู้คาถาเลเวล 1 ชื่อ [มือไฟ (burning hands)](/basic-rules/ch11-spells#burning-hands) และมีสล็อตคาถาเลเวล 1 และ 2 พร้อมใช้ คุณสามารถใช้คาถา [มือไฟ (burning hands)](/basic-rules/ch11-spells#burning-hands) ได้โดยใช้สล็อตเลเวลไหนก็ได้
 
-#### Spells Known of 1st Level and Higher
+#### คาถาที่รู้เมื่อเลเวล 1 และสูงกว่า (Spells Known of 1st Level and Higher)
 
-You know two 1st-level spells of your choice from the sorcerer spell list.
+คุณจะรู้คาถาเลเวล 1 จำนวน 2 คาถา ตามที่คุณเลือกจากรายการคาถาซอร์เซอร์เรอร์
 
-The Spells Known column of the Sorcerer table shows when you learn more sorcerer spells of your choice. Each of these spells must be of a level for which you have spell slots. For instance, when you reach 3rd level in this class, you can learn one new spell of 1st or 2nd level.
+คอลัมภ์ คาถาที่รู้ ในตารางซอร์เซอร์เรอร์แสดงให้เห็นว่าคุณจะได้เรียนรู้คาถาเพิ่มได้อีกเมื่อเลเวลเท่าไร คาถาแต่ละคาถาจะต้องเป็นคาถาเลเวลเดียวกับสล็อตคาถาที่คุณมี ตัวอย่างเช่น เมื่อคุณถึงเลเวล 3 ในคลาสนี้ คุณจะได้เรียนรู้คาถาเพิ่ม 1 คาถาจากรายการคาถาเลเวล 1 หรือ 2
 
-Additionally, when you gain a level in this class, you can choose one of the sorcerer spells you know and replace it with another spell from the sorcerer spell list, which also must be of a level for which you have spell slots.
+นอกจากนี้ เมื่อคุณเลเวลเพิ่มในคลาสนี้ คุณจะสามารถเลือกคาถาหนึ่งจากรายการและแทนที่คาอื่นได้ ซึ่งต้องเป็นคาถาที่คุณมีสล็อตคาถาอยู่
 
-#### Spellcasting Ability
+#### ค่าความสามารถที่ใช้ในการร่ายคาถา (Spellcasting Ability)
 
-Charisma is your spellcasting ability for your sorcerer spells, since the power of your magic relies on your ability to project your will into the world. You use your Charisma whenever a spell refers to your spellcasting ability. In addition, you use your Charisma modifier when setting the saving throw DC for a sorcerer spell you cast and when making an attack roll with one.
+ค่าเสน่ห์ (Charisma) เป็นค่าความสามารถที่ใช้ในการร่ายคาถา เพราะพลังเวทย์มนต์ของคุณพึ่งพาความสามารถในการแสดงความตั้งใจของคุณสู่โลกนี้ คุณจะใช้เส่ห์ (Charisma) เมื่อใดก็ตามที่คาถาระบุถึงความสามารถในการใช้คาถา (spellcasting ability) นอกจากนั้น คุณจะใช้ค่าโมดิไฟเออร์เสน่ห์เมื่อต้องกำหนดค่าความยากในการทอยหลบหลีกคาถา (spell DC) เมื่อคุณใช้คาถาและทอยโจมตีด้วยคาถา
 
-**Spell save DC** = 8 + your proficiency bonus + your Charisma modifier
+**ระดับความยากในการหลบหลีกคาถา (Spell save DC)** = 8 + ค่าโบนัสความเชี่ยวชาญ + ค่าโมดิไฟเออร์เสน่ห์ (Charisma)
 
-**Spell attack modifier** = your proficiency bonus + your Charisma modifier
+**ค่าโมดิไฟเออร์การโจมตีด้วยคาถา (Spell attack modifier)** = ค่าโบนัสความเชี่ยวชาญ + ค่าโมดิไฟเออร์เสน่ห์ (Charisma)
 
-#### Spellcasting Focus
+#### อุปกรณ์รวมสมาธิ (Spellcasting Focus)
 
-You can use an arcane focus (see chapter 5, “Equip­ment”) as a spellcasting focus for your sorcerer spells.
+คุณสามารถใช้อุปกรณ์รวมสมาธิ (arcane focus) (ดูบทที่ 5 "อุปกรณ์") เป็นอุปกรณ์รวมสมาธิเพื่อร่ายคาถาสำหรับคาถาซอร์เซอร์เรอร์ของคุณ
 
-### Sorcerous Origin
+### ต้นกำเนิดซอร์เซอร์เรอร์ (Sorcerous Origin)
 
-Choose a sorcerous origin, which describes the source of your innate magical power, such as the Draconic Bloodline.
+เลือกต้นกำเนิดซอร์เซอร์เรอร์ ซึ่งอธิบายเกี่ยวกับแหล่งกำเนิดพลังเวทย์มนต์ของคุณ เช่นสายเลือดมังกร
 
-Your choice grants you features when you choose it at 1st level and again at 6th, 14th, and 18th level.
+ตัวเลือกของคุณจะให้ความสามารถเพิ่มเมื่อเลเวล 1 และอีกครั้งที่เลเวล 6, 14, และ 18
 
-### Font of Magic
+### บ่อเกิดพลังเวทย์มนต์ (Font of Magic)
 
-At 2nd level, you tap into a deep wellspring of magic within yourself. This wellspring is represented by sorcery points, which allow you to create a variety of magical effects.
+ที่เลเวล 2 คุณสัมผัสได้ถึงบ่อเกิดพลังเวทย์มนต์ที่อยู่ลึกภายในตัวคุณ บ่อพลังนี้จะแสดงเป็น คะแนนผู้วิเศษ (sorcery point) ซึ่งจะทำให้คุณใช้ผลพิเศษทางเวทย์มนต์ได้หลากหลาย
 
-#### Sorcery Points
+#### คะแนนผู้วิเศษ (Sorcery Points)
 
-You have 2 sorcery points, and you gain more as you reach higher levels, as shown in the Sorcery Points column of the Sorcerer table. You can never have more sorcery points than shown on the table for your level. You regain all spent sorcery points when you finish a long rest.
+คุณจะมีคะแนนผู้วิเศษ 2 คะแนน และจะมีเพิ่มขึ้นเมื่อคุณเลเวลสูงขึ้น ดังแสดงในคอลัมภ์ "คะแนนผู้วิเศษ" ในตาราง คุณจะไม่สามารถมีคะแนนผู้วิเศษได้มากไปกว่าที่แสดงในตารางในเลเวลของคุณ คุณจะได้รับคะแนนที่ใช้ไปเมื่อคุณจบการพักยาว
 
-#### Flexible Casting
+#### การใช้คาถาแบบยืดหยุ่น (Flexible Casting)
 
-You can use your sorcery points to gain additional spell slots, or sacrifice spell slots to gain additional sorcery points. You learn other ways to use your sorcery points as you reach higher levels.
+คุณสามารถใช้คะแนนผู้วิเศษเพื่อให้ได้สล็อตคาถาเพิ่ม หรือสละสล็อตคาถาเพื่อแลกเป็นคะแนนผู้วิเศษ คุณจะได้เรียนรู้วิธีการใช้งานคะแนนผู้วิเศษมากขึ้นเมื่อคุณเลเวลสูงขึ้น
 
-**Creating Spell Slots.** You can transform unexpended sorcery points into one spell slot as a bonus action on your turn. The Creating Spell Slots table shows the cost of creating a spell slot of a given level. You can create spell slots no higher in level than 5th.
+**การสร้างสล็อตคาถา** คุณสามารถเปลี่ยนคะแนนผู้วิเศษที่ไม่ได้ใช้ให้เป็นสล็อตคาถาได้ด้วยการใช้โบนัสแอ็คชันในเทิร์นของคุณ ตาราง "อัตราแลกเปลี่ยนคะแนนผู้วิเศษเป็นสล็อตคาถา" แสดงจำนวนคะแนนผู้วิเศษที่ต้องใช้ในการแลกเปลี่ยนเป็นสล็อตคาถาในเลเวลต่าง ๆ คุณจะสามารถแลกสล็อตคาถาได้ไม่เกินเลเวล 5
 
-Any spell slot you create with this feature vanishes when you finish a long rest.
+สล็อตคาถาที่คุณสร้างขึ้นด้วยวิธีนี้จะหายไปเมื่อคุณจบการพักยาว
 
-#### Creating Spell Slots
+#### อัตราแลกเปลี่ยนคะแนนผู้วิเศษเป็นสล็อตคาถา (Creating Spell Slots)
 
-| Spell Slot Level | Sorcery Point Cost |
-| ---------------- | ------------------ |
-| 1st              | 2                  |
-| 2nd              | 3                  |
-| 3rd              | 5                  |
-| 4th              | 6                  |
-| 5th              | 7                  |
+| เลเวลสล็อตคาถา | คะแนนผู้วิเศษที่ต้องใช้ |
+| -------------- | ----------------------- |
+| 1st            | 2                       |
+| 2nd            | 3                       |
+| 3rd            | 5                       |
+| 4th            | 6                       |
+| 5th            | 7                       |
 
-**Converting a Spell Slot to Sorcery Points.** As a bonus action on your turn, you can expend one spell slot and gain a number of sorcery points equal to the slot’s level.
+**การเปลี่ยนสล็อตคาถาเป็นคะแนนผู้วิเศษ** โดยการใช้โบนัสแอ็คชัน คุณสามารถใช้สล็อตคาถา 1 สล็อตและได้รับคะแนนผู้วิเศษเท่ากับเลเวลของสล็อตคาถานั้น
 
-### Metamagic
+### เวทย์ลักษณ์ (Metamagic)
 
-At 3rd level, you gain the ability to twist your spells to suit your needs. You gain two of the following Metamagic options of your choice. You gain another one at 10th and 17th level.
+ที่เลเวล 3 คุณจะมีความสามารถในการปรับเปลี่ยนคาถาได้ตามที่คุณต้องการ คุณจะสามารถเลือกเวทย์ลักษณ์ (metamagic) ได้ 2 แบบตามที่คุณต้องการ และจะได้รับเพิ่มอีกเมื่อเลเวล 10 และ 17
 
-You can use only one Metamagic option on a spell when you cast it, unless otherwise noted.
+คุณสามารถใช้เวทย์ลักษณ์ได้แบบเดียวในการใช้คาถาหนึ่งครั้ง ยกเว้นมีระบุไว้เป็นอย่างอื่น
 
-#### Careful Spell
+**บันทึกการแปล:** เวทย์ลักษณ์ (เมตะเมจิค - Metamagic) แปลแบบเดียวกับ สารลักษณ์ (เมตะดาต้า - Metadata) เป็นข้อมูลที่ใช้ระบุรายละเอียดของข้อมูล
 
-When you cast a spell that forces other creatures to make a saving throw, you can protect some of those creatures from the spell’s full force. To do so, you spend 1 sorcery point and choose a number of those creatures up to your Charisma modifier (minimum of one creature). A chosen creature automatically succeeds on its saving throw against the spell.
+#### ใช้คาถาอย่างระมัดระวัง (Careful Spell)
 
-#### Distant Spell
+เมื่อคุณร่ายคาถาที่บังคับให้สิ่งมีชีวิตอื่นต้องทอยป้องกัน คุณสามารถป้องกันกลุ่มสิ่งมีชีวิตกลุ่มหนึ่งจากผลจากคาถาได้ ในการทำดังนั้น คุณต้องใช้คะแนนผู้วิเศษ 1 คะแนน และเลือกกลุ่มของสิ่งมีชีวิตเป็นจำนวนเท่ากับค่าโมดิไฟเออร์เสน่ห์ (Charisma) ของคุณ (น้อยที่สุด 1 คน) สิ่งมีชีวิตที่เลือกจะทอยป้องกันได้สำเร็จโดยอัตโนมัติ
 
-When you cast a spell that has a range of 5 feet or greater, you can spend 1 sorcery point to double the range of the spell.
+#### ขยายระยะคาถา (Distant Spell)
 
-When you cast a spell that has a range of touch, you can spend 1 sorcery point to make the range of the spell 30 feet.
+เมื่อคุณร่ายคาถาที่มีระยะ 5 ฟุตหรือมากกว่า คุณสามารถใช้คะแนนผู้วิเศษ 1 คะแนนในการขยายระยะเป็นสองเท่า
 
-#### Empowered Spell
+เมื่อคุณร่ายคาถาที่มีระยะเอื้อมสัมผัส คุณสามารถใช้คะแนนผู้วิเศษ 1 คะแนนในการเปลี่ยนระยะให้เป็น 30 ฟุต
 
-When you roll damage for a spell, you can spend 1 sorcery point to reroll a number of the damage dice up to your Charisma modifier (minimum of one). You must use the new rolls.
+#### เสริมแรงคาถา (Empowered Spell)
 
-You can use Empowered Spell even if you have already used a different Metamagic option during the casting of the spell.
+เมื่อคุณทอยหาความเสียหายจากคาถา คุณสามารถใช้คะแนนผู้วิเศษ 1 คะแนนในการเปลี่ยนค่าการทอยที่ได้ไม่เกินค่าโมดิไฟเออร์เสน่ห์ (Charisma) ของคุณ (น้อยที่สุด 1) เป็นค่าที่ได้จากการทอยครั้งใหม่ และคุณต้องใช้ค่าใหม่นี้
 
-#### Extended Spell
+คุณสามารถใช้ เสริมแรงคาถา ได้ แม้ว่าคุณจะใช้เวทย์ลักษณ์อื่นไปแล้วในระหว่างการร่ายคาถา
 
-When you cast a spell that has a duration of 1 minute or longer, you can spend 1 sorcery point to double its duration, to a maximum duration of 24 hours.
+#### เพิ่มเวลาคาถา (Extended Spell)
 
-#### Heightened Spell
+เมื่อคุณร่ายคาถาที่มีระยะเวลาผลของคาถา 1 นาทีหรือนานกว่า คุณสามารถใช้คะแนนผู้วิเศษ 1 คะแนนในการเพิ่มระยะเวลาของมันเป็น 2 เท่า โดยนานที่สุดได้ 24 ชม.
 
-When you cast a spell that forces a creature to make a saving throw to resist its effects, you can spend 3 sorcery points to give one target of the spell disadvantage on its first saving throw made against the spell.
+#### เพิ่มอานุภาพคาถา (Heightened Spell)
 
-#### Quickened Spell
+เมื่อคุณร่ายคาถาที่จะบังคับให้สิ่งมีชีวิตทอยป้องกันเพื่อต่อต้านผลของคาถา คุณสามารถใช้คะแนนผู้วิเศษ 1 คะแนนในการบังคับให้เป้าหมายหนึ่งต้องทอยแบบเสียเปรียบ ในการทอยป้องกันครั้งแรกของมัน
 
-When you cast a spell that has a casting time of 1 action, you can spend 2 sorcery points to change the casting time to 1 bonus action for this casting.
+#### ร่ายคาถาว่องไว (Quickened Spell)
 
-#### Subtle Spell
+เมื่อคุณร่ายคาถาที่ใช่เวลาร่าย 1 แอ็คชัน คุณสามารถใช้คะแนนผู้วิเศษ 2 คะแนนในการเปลี่ยนเวลาการร่ายเป็น 1 โบนัสแอ็คชันในการใช้คาถา
 
-When you cast a spell, you can spend 1 sorcery point to cast it without any somatic or verbal components.
+#### ร่ายคาถาในใจ (Subtle Spell)
 
-#### Twinned Spell
+เมื่อคุณร่ายคาถา คุณสามารถใช้คะแนนผู้วิเศษ 1 คะแนนในการใช้คาถาโดยไม่ต้องใช้ท่าร่ายหรือการเปล่งเสียง
 
-When you cast a spell that targets only one creature and doesn’t have a range of self, you can spend a number of sorcery points equal to the spell’s level to target a second creature in range with the same spell (1 sorcery point if the spell is a cantrip).
+#### คาถาแฝด (Twinned Spell)
 
-To be eligible, a spell must be incapable of targeting more than one creature at the spell’s current level. For example, [magic missile] and [scorching ray] aren’t eligible, but [ray of frost] and [chromatic orb] are.
+เมื่อคุณร่ายคาถาที่ใช้กับเป้าหมายเดียวและไม่สามารถใช้กับตัวเองได้ คุณสามารถใช้คะแนนผู้วิเศษเป็นจำนวนเท่ากับเลเวลของคาถาในการเพิ่มเป้าหมายที่สองในระยะคาถาเดียวกัน (ใช้ 1 คะแนนถ้าคาถาเป็นแคนทริป)
 
-### Ability Score Improvement
+เพื่อให้เหมาะสม คาถาจะต้องไม่สามารถใช้กับเป้าหมายที่มากกว่า 1 ได้ที่เลเวลปัจจุบัน ตัวอย่างเช่น [มิสไซล์เวทย์ (magic missile)](/basic-rules/ch11-spells#magic-missile) และ [รังสีเผาผลาญ (scorching ray)](/basic-rules/ch11-spells#scorching-ray) นั้นไม่เหมาะสม แต่ [รังสีเยือกแข็ง (ray of frost)](/basic-rules/ch11-spells#ray-of-frost) และ [chromatic orb](/basic-rules/ch11-spells#chromatic-orb) นั้นเหมาะสม
 
-When you reach 4th level, and again at 8th, 12th, 16th, and 19th level, you can increase one ability score of your choice by 2, or you can increase two ability scores of your choice by 1. As normal, you can’t increase an ability score above 20 using this feature.
+### คะแนนความสามารถเพิ่มขึ้น (Ability Score Improvement)
 
-### Sorcerous Restoration
+เมื่อคุณถึงเลเวล 4 และอีกครั้งเมื่อเลเวล 8, 12, 16 และ 19 คุณสามารถเพิ่มคะแนนความสามารถหนึ่งอย่างตามที่คุณเลือกได้ 2 คะแนน หรือเพิ่ม 1 คะแนนให้กับสองทักษะก็ได้ โดยปกติแล้วคุณจะไม่สามารถเพิ่มคะแนนความสามารถได้มากกว่า 20 หากใช้คุณลักษณะนี้
 
-At 20th level, you regain 4 expended sorcery points whenever you finish a short rest.
+### การฟื้นฟูแบบซอร์เซอร์เรอร์ (Sorcerous Restoration)
 
-## Sorcerous Origins
+ที่เลเวล 20 คุณจะได้รับคะแนนผู้วิเศษที่ใช้ไป 4 คะแนนกลับคืนมาเมื่อคุณจบการพักสั้น
 
-### Draconic Bloodline
+## ต้นกำเนิดซอร์เซอร์เรอร์ (Sorcerous Origins)
 
-Your innate magic comes from draconic magic that was mingled with your blood or that of your ancestors. Most often, sorcerers with this origin trace their descent back to a mighty sorcerer of ancient times who made a bargain with a dragon or who might even have claimed a dragon parent. Some of these bloodlines are well established in the world, but most are obscure. Any given sorcerer could be the first of a new bloodline, as a result of a pact or some other exceptional circumstance.
+### สายเลือดมังกร (Draconic Bloodline)
 
-#### Dragon Ancestor
+พลังเวทย์มนต์ภายในกายของคุณมาจากเวทย์มนต์มังกรที่ไหลเวียนอยู่ในเลือดของคุณหรือบรรพบุรุษ บ่อยครั้งที่ซอร์เซอร์เรอร์ที่มาจากต้นกำเนิดนี้สืบสายมาจากซอร์เซอร์เรอร์ผู้ยิ่งใหญ่จากครั้งโบราณ ผู้ที่ทำสัญญากับมังกรหรืออาจเป็นผู้ที่กำเนิดจากมังกร สายเลือดนี้บางตระกูลก็เป็นตระกูลใหญ่มั่นคงในโลก แต่ส่วนใหญ่แล้วมักจะไม่ชัดเจน ซอร์เซอร์เรอร์แต่ละคนอาจจะเป็นต้นกำเนิดของสายเลือดใหม่ โดยเกิดจากการทำสัญญาหรือโดยสถานการณ์พิเศษ
 
-At 1st level, you choose one type of dragon as your ancestor. The damage type associated with each dragon is used by features you gain later.
+#### บรรพบุรุษมังกร (Dragon Ancestor)
 
-**Draconic Ancestry**
-| Dragon | Damage Type |
-| ------ | ----------- |
-| Black | Acid |
-| Blue | Lightning |
-| Brass | Fire |
-| Bronze | Lightning |
-| Copper | Acid |
-| Gold | Fire |
-| Green | Poison |
-| Red | Fire |
-| Silver | Cold |
-| White | Cold |
+ที่เลเวล 1 คุณจะเลือกชนิดมังกร 1 ชนิดเป็นบรรพบุรุษของคุณ ชนิดของความเสียหายที่ผูกโยงกับมังกรแต่ละพันธุ์จะถูกใช้โดยความสามารถที่คุณจะได้รับในภายหลัง
 
-You can speak, read, and write Draconic. Additionally, whenever you make a Charisma check when interacting with dragons, your proficiency bonus is doubled if it applies to the check.
+**บรรพบุรุษมังกร**
 
-#### Draconic Resilience
+| มังกร          | ชนิดความเสียหาย |
+| -------------- | --------------- |
+| มังกรดำ        | กรด             |
+| มังกรทองแดง    | กรด             |
+| มังกรน้ำเงิน   | สายฟ้า          |
+| มังกรสัมฤทธ์   | สายฟ้า          |
+| มังกรทองเหลือง | ไฟ              |
+| มังกรทอง       | ไฟ              |
+| มังกรแดง       | ไฟ              |
+| มังกรเขียว     | พิษ             |
+| มังกรเงิน      | ความเย็น        |
+| มังกรขาว       | ความเย็น        |
 
-As magic flows through your body, it causes physical traits of your dragon ancestors to emerge. At 1st level, your hit point maximum increases by 1 and increases by 1 again whenever you gain a level in this class.
+คุณสามารถพูด อ่าน และเขียนภาษาดราโกนิค นอกจากนั้น เมื่อใดก็ตามที่คุณทอยทดสอบเสน่ห์ (Charisma) ในการมีปฏิสัมพันธ์กับมังกร โบนัสความเชี่ยวชาญของคุณจะเพิ่มเป็น 2 เท่าหากมันใช้ในการทอยทดสอบ
 
-Additionally, parts of your skin are covered by a thin sheen of dragon-like scales. When you aren’t wearing armor, your AC equals 13 + your Dexterity modifier.
+#### ร่างพลังมังกร (Draconic Resilience)
 
-#### Elemental Affinity
+เพราะเวทย์มนต์ไหลเวียนอยู่ในร่างกายของคุณ มันทำให้ลักษณะทางกายภาพของบรรพบุรุษมังกรของคุณแสดงผลออกมา ที่เลเวล 1 ฮิตพอยต์สูงสุดของคุณจะเพิ่มขึ้น 1 และจะเพิ่มขึ้นทีละ 1 เมื่อคุณเลเวลเพิ่มในคลาสนี้
 
-Starting at 6th level, when you cast a spell that deals damage of the type associated with your draconic ancestry, you can add your Charisma modifier to one damage roll of that spell. At the same time, you can spend 1 sorcery point to gain resistance to that damage type for 1 hour.
+นอกจากนั้น บางส่วนของผิวหนังของคุณจะถูกปกคลุมด้วยชั้นบาง ๆ ที่ดูเหมือนเกล็ดมังกร เมื่อคุณไม่ได้สวมใส่เกราะใด ๆ ค่า AC ของคุณจะเท่ากับ 13 + ค่าโมดิไฟเออร์ความคล่องแคล่ว (Dexterity) ของคุณ
 
-#### Dragon Wings
+#### ความสัมพันธ์กับเหล่าธาตุ (Elemental Affinity)
 
-At 14th level, you gain the ability to sprout a pair of dragon wings from your back, gaining a flying speed equal to your current speed. You can create these wings as a bonus action on your turn. They last until you dismiss them as a bonus action on your turn.
+เริ่มที่เลเวล 6 เมื่อคุณร่ายคาถาที่สร้างความเสียหายเป็นชนิดเดียวกันกับบรรพบุรุษมังกรของคุณ คุณสามารถเพิ่มค่าโมดิไฟเออร์เสน่ห์ (Charisma) ให้การทอยหาความเสียหาย 1 ครั้งของคาถานั้น ในเวลาเดียวกัน คุณสามารถใช้คะแนนผู้วิเศษ 1 คะแนนในการได้รับความต้านทานความเสียหายชนิดเดียวกันนั้นเป็นเวลา 1 ชม.
 
-You can’t manifest your wings while wearing armor unless the armor is made to accommodate them, and clothing not made to accommodate your wings might be destroyed when you manifest them.
+#### ปีกมังกร (Dragon Wings)
 
-#### Draconic Presence
+ที่เลเวล 14 คุณจะได้ความสามารถในการสร้างปีกมังกรจากหลังของคุณ คุณจะได้ความเร็วในการบินเท่ากับความเร็วปกติ คุณสามารถสร้างปีกนี้ได้โดยใช้โบนัสแอ็คชันในเทิร์นของคุณ มันจะอยู่จนกว่าคุณจะปลดออกโดยใช้โบนัสแอ็คชันในเทิร์นของคุณ
 
-Beginning at 18th level, you can channel the dread presence of your dragon ancestor, causing those around you to become awestruck or frightened. As an action, you can spend 5 sorcery points to draw on this power and exude an aura of awe or fear (your choice) to a distance of 60 feet. For 1 minute or until you lose your concentration (as if you were casting a concentration spell), each hostile creature that starts its turn in this aura must succeed on a Wisdom saving throw or be charmed (if you chose awe) or frightened (if you chose fear) until the aura ends. A creature that succeeds on this saving throw is immune to your aura for 24 hours.
+คุณจะไม่สามารถเรียกปีกออกมาได้ในขณะที่สวมเกราะอยู่ เว้นแต่ว่าเกราะนั้นถูกออกแบบให้รองรับการมีปีก และเสื้อผ้าที่ไม่รองรับการมีปีกอาจจะเสียหายได้เมื่อคุณเรียกปีกออกมา
+
+#### ภาพลักษณ์มังกร (Draconic Presence)
+
+เริ่มที่เลเวล 18 คุณสามารถส่งผ่านภาพลักษณ์อันน่าเกรงขามของบรรพบุรุษมังกรของคุณได้ ทำให้พวกที่อยู่รอบตัวคุณตกใจกลัวหรือติดสถานะ[หวาดกลัว (frightened)]() โดยใช้แอ็คชัน คุณสามารถใช้คะแนนผู้วิเศษ 5 คะแนนในการดึงเอาพลังนี้ออกมาและเปล่งออกเป็นออร่าแห่งความน่าเกรงขามหรือความกลัว (คุณเลือกได้) โดยมีระยะ 60 ฟุต เป็นเวลา 1 นาทีหรือจนกว่าคุณจะเสียสมาธิ (ลักษณะเดียวกับการใช้คาถาที่ต้องคงสมาธิ) สิ่งมีชีวิตแต่ละตัวที่เริ่มเทิร์นภายในระยะออร่านี้ต้องทอยป้องกันความรอบรู้ (Wisdom) ให้ผ่าน มิเช่นนั้นจะติดสถานะ[หลงใหล (charmed)]() (ถ้าคุณเลือกให้เป็นออร่าน่าเกรงขาม) หรือติดสถานะ[หวาดกลัว (frightened)]() (ถ้าคุณเลือกให้เป็นออร่าหวาดกลัว) จนกระทั่งระยะเวลาออร่าหมดลง สิ่งมีชีวิตที่ทอยป้องกันผ่านจะมีภูมิคุ้มกันออร่าของคุณเป็นเวลา 24 ชั่วโมง
