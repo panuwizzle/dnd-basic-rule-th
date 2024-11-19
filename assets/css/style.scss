@@ -77,6 +77,16 @@ body {
   position: absolute;
 }
 
+.two-columns {
+  column-count: 2;
+  column-gap: 2em;
+
+  & img {
+    width: 50%;
+  }
+}
+
+
 .page-index {
   column-count: 3;
   & h1 {
