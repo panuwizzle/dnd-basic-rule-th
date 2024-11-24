@@ -59,44 +59,52 @@
       "path": "[[workspace]]/collections/_posts"
     },
     {
-      "path": "[[workspace]]/free-rule-2024"
-    },
-    {
-      "path": "[[workspace]]/basic-rules"
+      "path": "[[workspace]]/basic-rules",
+      "title": "basic-rules"
     },
     {
       "title": "lost-mine-of-phandelver",
       "path": "[[workspace]]/adventures/lost-mine-of-phandelver"
     },
     {
-      "path": "[[workspace]]/adventures/dragons-of-stormwreck-isle"
+      "path": "[[workspace]]/adventures/dragons-of-stormwreck-isle",
+      "title": "dragons-of-stormwreck-isle"
     },
     {
-      "path": "[[workspace]]/adventures/dragon-of-icespire-peak"
+      "path": "[[workspace]]/adventures/dragon-of-icespire-peak",
+      "title": "dragon-of-icespire-peak"
     },
     {
-      "path": "[[workspace]]/collections/_spells"
+      "path": "[[workspace]]/collections/_spells",
+      "title": "_spells"
     },
     {
-      "path": "[[workspace]]/collections/_races"
+      "path": "[[workspace]]/collections/_races",
+      "title": "_races"
     },
     {
-      "path": "[[workspace]]/collections/_one-shot"
+      "path": "[[workspace]]/collections/_one-shot",
+      "title": "_one-shot"
     },
     {
-      "path": "[[workspace]]/collections/_monsters"
+      "path": "[[workspace]]/collections/_monsters",
+      "title": "_monsters"
     },
     {
-      "path": "[[workspace]]/collections/_classes"
+      "path": "[[workspace]]/collections/_classes",
+      "title": "_classes"
     },
     {
-      "path": "[[workspace]]/collections/_magic-items"
+      "path": "[[workspace]]/collections/_magic-items",
+      "title": "_magic-items"
     },
     {
-      "path": "[[workspace]]/collections/_equipments"
+      "path": "[[workspace]]/collections/_equipments",
+      "title": "_equipments"
     },
     {
-      "path": "[[workspace]]/collections/_backgrounds"
+      "path": "[[workspace]]/collections/_backgrounds",
+      "title": "_backgrounds"
     }
   ]
 }

@@ -9,6 +9,10 @@
   url: /books/
   icon: fa fa-book
   child: 
+    - name: free-rules
+      title: กฏฟรี (2014)
+      url: /free-rules
+      icon: fa fa-book
     - name: basic-rules
       title: กฏพื้นฐาน (2014)
       url: /basic-rules
