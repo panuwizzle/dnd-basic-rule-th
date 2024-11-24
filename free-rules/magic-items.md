@@ -1,7 +1,7 @@
 ---
 layout: book
 title: Magic Items
-menu: 2024-start-play
+menu: free-rules-start-play
 ---
 
 # Magic Items
@@ -10,7 +10,7 @@ Magic items are gleaned from the hoards of felled monsters or discovered in long
 
 Magic Item Rules
 
-Rules for [identifying](https://www.dndbeyond.com/sources/dnd/phb-2024/equipment#IdentifyingaMagicItem), [attuning to](https://www.dndbeyond.com/sources/dnd/phb-2024/equipment#Attunement), and [using](https://www.dndbeyond.com/sources/dnd/phb-2024/equipment#WearingandWieldingItems) magic items appear in the [Player’s Handbook](https://www.dndbeyond.com/sources/dnd/phb-2024). Additional rules are presented below.
+Rules for [identifying](/phb-2024/equipment#IdentifyingaMagicItem), [attuning to](/phb-2024/equipment#Attunement), and [using](/phb-2024/equipment#WearingandWieldingItems) magic items appear in the [Player’s Handbook](/phb-2024). Additional rules are presented below.
 
 **_Attunement Prerequisites._** If a magic item has a class prerequisite, a creature must be a member of that class to attune to the item. If a creature must be a spellcaster to attune to an item, the creature qualifies if it can cast at least one spell using its traits or features, not by using a magic item or the like.
 
@@ -20,30 +20,30 @@ Rules for [identifying](https://www.dndbeyond.com/sources/dnd/phb-2024/equipmen
 
 **_Paired Items._** You can allow exceptions to the rule that paired items must both be worn. For example, a character with only one arm might be able to use a single [Glove of Missile Snaring](https://www.dndbeyond.com/magic-items/9228697-gloves-of-missile-snaring) so long as the matching glove is on their person.
 
-## [](https://www.dndbeyond.com/sources/dnd/free-rules/magic-items#MagicItemCategories)Magic Item Categories
+## Magic Item Categories {#MagicItemCategories}
 
 Every magic item belongs to a category. The Magic Item Categories table lists the nine categories and provides examples. Rules for the categories appear after the table.
 
-### [](https://www.dndbeyond.com/sources/dnd/free-rules/magic-items#MagicItemCategoriesTable)Magic Item Categories
+### Magic Item Categories {#MagicItemCategoriesTable}
 |Category|Examples|
 |---|---|
-|[Armor](https://www.dndbeyond.com/sources/dnd/free-rules/magic-items#Armor)|[+1 Leather Armor](https://www.dndbeyond.com/magic-items/5090-leather-1), [+1 Shield](https://www.dndbeyond.com/magic-items/4753-shield-1)|
-|[Potions](https://www.dndbeyond.com/sources/dnd/free-rules/magic-items#Potions)|[Potion of Healing](https://www.dndbeyond.com/magic-items/8960641-potion-of-healing)|
-|[Rings](https://www.dndbeyond.com/sources/dnd/free-rules/magic-items#Rings)|[Ring of Invisibility](https://www.dndbeyond.com/magic-items/9228965-ring-of-invisibility)|
-|[Rods](https://www.dndbeyond.com/sources/dnd/free-rules/magic-items#Rods)|[Immovable Rod](https://www.dndbeyond.com/magic-items/9228785-immovable-rod)|
-|[Scrolls](https://www.dndbeyond.com/sources/dnd/free-rules/magic-items#Scrolls)|[Spell Scroll](https://www.dndbeyond.com/magic-items/9229085-spell-scroll)|
-|[Staffs](https://www.dndbeyond.com/sources/dnd/free-rules/magic-items#Staffs)|[Staff of Striking](https://www.dndbeyond.com/magic-items/4765-staff-of-striking)|
-|[Wands](https://www.dndbeyond.com/sources/dnd/free-rules/magic-items#Wands)|[Wand of Fireballs](https://www.dndbeyond.com/magic-items/9229186-wand-of-fireballs)|
-|[Weapons](https://www.dndbeyond.com/sources/dnd/free-rules/magic-items#Weapons)|[+1 Ammunition](https://www.dndbeyond.com/magic-items/5407-ammunition-1), [+1 Longsword](https://www.dndbeyond.com/magic-items/5245-longsword-1)|
-|[Wondrous Items](https://www.dndbeyond.com/sources/dnd/free-rules/magic-items#WondrousItems)|[Bag of Holding](https://www.dndbeyond.com/magic-items/9228356-bag-of-holding), [Boots of Elvenkind](https://www.dndbeyond.com/magic-items/4587-boots-of-elvenkind)|
+|[Armor](/free-rules/magic-items#Armor)|[+1 Leather Armor](https://www.dndbeyond.com/magic-items/5090-leather-1), [+1 Shield](https://www.dndbeyond.com/magic-items/4753-shield-1)|
+|[Potions](/free-rules/magic-items#Potions)|[Potion of Healing](https://www.dndbeyond.com/magic-items/8960641-potion-of-healing)|
+|[Rings](/free-rules/magic-items#Rings)|[Ring of Invisibility](https://www.dndbeyond.com/magic-items/9228965-ring-of-invisibility)|
+|[Rods](/free-rules/magic-items#Rods)|[Immovable Rod](https://www.dndbeyond.com/magic-items/9228785-immovable-rod)|
+|[Scrolls](/free-rules/magic-items#Scrolls)|[Spell Scroll](https://www.dndbeyond.com/magic-items/9229085-spell-scroll)|
+|[Staffs](/free-rules/magic-items#Staffs)|[Staff of Striking](https://www.dndbeyond.com/magic-items/4765-staff-of-striking)|
+|[Wands](/free-rules/magic-items#Wands)|[Wand of Fireballs](https://www.dndbeyond.com/magic-items/9229186-wand-of-fireballs)|
+|[Weapons](/free-rules/magic-items#Weapons)|[+1 Ammunition](https://www.dndbeyond.com/magic-items/5407-ammunition-1), [+1 Longsword](https://www.dndbeyond.com/magic-items/5245-longsword-1)|
+|[Wondrous Items](/free-rules/magic-items#WondrousItems)|[Bag of Holding](https://www.dndbeyond.com/magic-items/9228356-bag-of-holding), [Boots of Elvenkind](https://www.dndbeyond.com/magic-items/4587-boots-of-elvenkind)|
 
-### [](https://www.dndbeyond.com/sources/dnd/free-rules/magic-items#Armor)Armor
+### Armor {#Armor}
 
-An item in the Armor category is typically a magical version of armor from the [Player’s Handbook](https://www.dndbeyond.com/sources/dnd/phb-2024). Unless an armor’s description notes otherwise, the armor must be worn for its magic to function.
+An item in the Armor category is typically a magical version of armor from the [Player’s Handbook](/phb-2024). Unless an armor’s description notes otherwise, the armor must be worn for its magic to function.
 
 Some suits of magic armor specify the type of armor they are, such as [Chain Mail](https://www.dndbeyond.com/equipment/16-chain-mail) or [Plate Armor](https://www.dndbeyond.com/equipment/18-plate). If no type is specified, choose the type or determine it randomly.
 
-### [](https://www.dndbeyond.com/sources/dnd/free-rules/magic-items#Potions)Potions
+### Potions {#Potions}
 
 An item in the Potion category might be a magical brew that must be imbibed or an oil that must be applied to a creature or an object. A typical potion consists of 1 ounce of liquid in a vial.
 
@@ -53,29 +53,29 @@ An item in the Potion category might be a magical brew that must be imbibed or a
 
 When a character mixes two potions together, roll on the Potion Miscibility table. If more than two are combined, roll again for each subsequent potion, combining the results. Unless the effects are immediately obvious, reveal them only when they become evident.
 
-#### [](https://www.dndbeyond.com/sources/dnd/free-rules/magic-items#PotionMiscibility)Potion Miscibility
+#### Potion Miscibility {#PotionMiscibility}
 |1d100|Result|
 |---|---|
-|01|Both potions lose their effects, and the mixture creates a magical explosion in a 5-foot-radius [Sphere](https://www.dndbeyond.com/sources/dnd/free-rules/rules-glossary#SphereAreaofEffect) centered on itself. Each creature in that area takes 4d10 Force damage.|
-|02–08|Both potions lose their effects, and the mixture becomes an ingested poison of your choice (see “[Poison](https://www.dndbeyond.com/sources/dnd/dmg-2024/dms-toolbox#Poison)”).|
+|01|Both potions lose their effects, and the mixture creates a magical explosion in a 5-foot-radius [Sphere](/free-rules/rules-glossary#SphereAreaofEffect) centered on itself. Each creature in that area takes 4d10 Force damage.|
+|02–08|Both potions lose their effects, and the mixture becomes an ingested poison of your choice (see “[Poison](/dmg-2024/dms-toolbox#Poison)”).|
 |09–15|Both potions lose their effects.|
 |16–25|One potion loses its effect.|
 |26–35|Both potions work, but with their numerical effects and durations halved. If a potion has no numerical effect and no duration, it instead loses its effect.|
 |36–90|Both potions work normally.|
 |91–99|Both potions work, but the numerical effects and duration of one potion are doubled. If neither potion has anything to double in this way, they work normally.|
-|00|Only one potion works, but its effects are permanent. Choose the simplest effect to make permanent or the one that seems the most fun. For example, a [Potion of Healing](https://www.dndbeyond.com/magic-items/8960641-potion-of-healing) might increase the drinker’s Hit Point maximum by 2d4 + 2, or a [Potion of Invisibility](https://www.dndbeyond.com/magic-items/9228935-potion-of-invisibility) might give the drinker the [Invisible](https://www.dndbeyond.com/sources/dnd/free-rules/rules-glossary#InvisibleCondition) condition indefinitely. At your discretion, a [Dispel Magic](https://www.dndbeyond.com/spells/2619103-dispel-magic) spell or similar magic might end this lasting effect.|
+|00|Only one potion works, but its effects are permanent. Choose the simplest effect to make permanent or the one that seems the most fun. For example, a [Potion of Healing](https://www.dndbeyond.com/magic-items/8960641-potion-of-healing) might increase the drinker’s Hit Point maximum by 2d4 + 2, or a [Potion of Invisibility](https://www.dndbeyond.com/magic-items/9228935-potion-of-invisibility) might give the drinker the [Invisible](/free-rules/rules-glossary#InvisibleCondition) condition indefinitely. At your discretion, a [Dispel Magic](https://www.dndbeyond.com/spells/2619103-dispel-magic) spell or similar magic might end this lasting effect.|
 
-### [](https://www.dndbeyond.com/sources/dnd/free-rules/magic-items#Rings)Rings
+### Rings {#Rings}
 
 For its magic to function, an item in the Ring category must be worn on a finger or a similar digit unless its description notes otherwise.
 
-### [](https://www.dndbeyond.com/sources/dnd/free-rules/magic-items#Rods)Rods
+### Rods {#Rods}
 
 An item in the Rod category is a scepter usually made of metal, wood, or bone. A typical rod weighs 2 to 5 pounds.
 
 Unless its description notes otherwise, a rod can be used as an [Arcane Focus](https://www.dndbeyond.com/equipment/544-arcane-focus).
 
-### [](https://www.dndbeyond.com/sources/dnd/free-rules/magic-items#Scrolls)Scrolls
+### Scrolls {#Scrolls}
 
 An item in the Scroll category is a roll of paper or parchment, sometimes attached to wooden rods and typically kept safe in a tube of ivory, jade, leather, metal, or wood. The most prevalent scroll is the [Spell Scroll](https://www.dndbeyond.com/magic-items/9229085-spell-scroll), a spell stored in written form. However, some scrolls, like the [Scroll of Protection](https://www.dndbeyond.com/magic-items/9229016-scroll-of-protection), bear an incantation that isn’t a spell.
 
@@ -83,41 +83,41 @@ An item in the Scroll category is a roll of paper or parchment, sometimes attach
 
 Any creature that can understand a written language can read a scroll and attempt to activate it unless its description notes otherwise.
 
-### [](https://www.dndbeyond.com/sources/dnd/free-rules/magic-items#Staffs)Staffs
+### Staffs {#Staffs}
 
 Items in the Staff category vary widely in appearance: some are of nearly equal diameter throughout and smooth, others are gnarled and twisted, some are made of wood, and others are composed of polished metal or crystal. A staff weighs between 2 and 7 pounds and serves well as a walking stick or cane.
 
 Unless its description notes otherwise, a staff can be used as a nonmagical [Quarterstaff](https://www.dndbeyond.com/equipment/12-quarterstaff) and an [Arcane Focus](https://www.dndbeyond.com/equipment/544-arcane-focus).
 
-### [](https://www.dndbeyond.com/sources/dnd/free-rules/magic-items#Wands)Wands
+### Wands {#Wands}
 
 An item in the Wand category is typically 12 to 15 inches long and crafted of metal, bone, or wood. It is tipped with metal, crystal, stone, or some other material.
 
 Unless its description notes otherwise, a wand can be used as an [Arcane Focus](https://www.dndbeyond.com/equipment/544-arcane-focus).
 
-### [](https://www.dndbeyond.com/sources/dnd/free-rules/magic-items#Weapons)Weapons
+### Weapons {#Weapons}
 
-A magic weapon is typically a magical version of a weapon from the [Player’s Handbook](https://www.dndbeyond.com/sources/dnd/phb-2024). Some magic weapons specify the type of weapon they are in their descriptions, such as a [Longsword](https://www.dndbeyond.com/equipment/4-longsword) or [Longbow](https://www.dndbeyond.com/equipment/37-longbow). If no weapon type is specified, you may choose the type or determine it randomly.
+A magic weapon is typically a magical version of a weapon from the [Player’s Handbook](/phb-2024). Some magic weapons specify the type of weapon they are in their descriptions, such as a [Longsword](https://www.dndbeyond.com/equipment/4-longsword) or [Longbow](https://www.dndbeyond.com/equipment/37-longbow). If no weapon type is specified, you may choose the type or determine it randomly.
 
-**_Ammunition._** If a magic weapon has the [Ammunition](https://www.dndbeyond.com/sources/dnd/free-rules/equipment#Ammunition) property, ammunition fired from it is considered magical for the purpose of any rule that cares whether a weapon is magical or not.
+**_Ammunition._** If a magic weapon has the [Ammunition](/free-rules/equipment#Ammunition) property, ammunition fired from it is considered magical for the purpose of any rule that cares whether a weapon is magical or not.
 
-### [](https://www.dndbeyond.com/sources/dnd/free-rules/magic-items#WondrousItems)Wondrous Items
+### Wondrous Items {#WondrousItems}
 
 Wondrous Items include wearable items such as boots, belts, capes, amulets, brooches, and circlets. Bags, carpets, figurines, horns, musical instruments, and more also fall into this category.
 
-## [](https://www.dndbeyond.com/sources/dnd/free-rules/magic-items#MagicItemRarity)Magic Item Rarity
+## Magic Item Rarity {#MagicItemRarity}
 
 Every magic item has a rarity, which provides a rough measure of an item’s power relative to other magic items. The rarities are shown in the Magic Item Rarities and Values table.
 
 Common magic items, such as a [Potion of Healing](https://www.dndbeyond.com/magic-items/8960641-potion-of-healing), are the most plentiful. Artifacts, such as the [Wand of Orcus](https://www.dndbeyond.com/magic-items/9229189-wand-of-orcus), are priceless, unique, and difficult to acquire.
 
-### [](https://www.dndbeyond.com/sources/dnd/free-rules/magic-items#MagicItemValuesbyRarity)Magic Item Values by Rarity
+### Magic Item Values by Rarity {#MagicItemValuesbyRarity}
 
-Common magic items can often be bought in a town or city. Uncommon and Rare magic items are usually found only in cities, and rarer magic items might be sold only in wondrous locations, such as the [City of Brass](https://www.dndbeyond.com/sources/dnd/dmg-2024/cosmology#CityofBrass) or [Sigil](https://www.dndbeyond.com/sources/dnd/dmg-2024/cosmology#SigilCityofDoors). If you allow characters to buy and sell magic items in your campaign, rarity can help you set prices for those items. Gold Piece values are provided in the Magic Item Rarities and Values table, though a seller might ask for a service rather than coin as payment.
+Common magic items can often be bought in a town or city. Uncommon and Rare magic items are usually found only in cities, and rarer magic items might be sold only in wondrous locations, such as the [City of Brass](/dmg-2024/cosmology#CityofBrass) or [Sigil](/dmg-2024/cosmology#SigilCityofDoors). If you allow characters to buy and sell magic items in your campaign, rarity can help you set prices for those items. Gold Piece values are provided in the Magic Item Rarities and Values table, though a seller might ask for a service rather than coin as payment.
 
-If a magic item incorporates an item that has a purchase cost in the [Player’s Handbook](https://www.dndbeyond.com/sources/dnd/phb-2024) (such as a weapon or a suit of armor), add that item’s cost to the magic item’s value. For example, [+1 Armor (Plate Armor)](https://www.dndbeyond.com/magic-items/5092-plate-1) has a value of 5,500 GP, which is the sum of a Rare magic item’s value (4,000 GP) and the cost of [Plate Armor](https://www.dndbeyond.com/equipment/18-plate) (1,500 GP).
+If a magic item incorporates an item that has a purchase cost in the [Player’s Handbook](/phb-2024) (such as a weapon or a suit of armor), add that item’s cost to the magic item’s value. For example, [+1 Armor (Plate Armor)](https://www.dndbeyond.com/magic-items/5092-plate-1) has a value of 5,500 GP, which is the sum of a Rare magic item’s value (4,000 GP) and the cost of [Plate Armor](https://www.dndbeyond.com/equipment/18-plate) (1,500 GP).
 
-#### [](https://www.dndbeyond.com/sources/dnd/free-rules/magic-items#MagicItemRaritiesandValues)Magic Item Rarities and Values
+#### Magic Item Rarities and Values {#MagicItemRaritiesandValues}
 |Rarity|Value*|
 |---|---|
 |Common|100 GP|
@@ -126,9 +126,9 @@ If a magic item incorporates an item that has a purchase cost in the [Player’
 |Very Rare|40,000 GP|
 |Legendary|200,000 GP|
 |Artifact|Priceless|
-|*Halve the value for a consumable item other than a [Spell Scroll](https://www.dndbeyond.com/magic-items/9229085-spell-scroll). The value of a _Spell Scroll_ is double what it costs to scribe the scroll (as specified in the [Player’s Handbook](https://www.dndbeyond.com/sources/dnd/phb-2024)).|   |   |   |
+|*Halve the value for a consumable item other than a [Spell Scroll](https://www.dndbeyond.com/magic-items/9229085-spell-scroll). The value of a _Spell Scroll_ is double what it costs to scribe the scroll (as specified in the [Player’s Handbook](/phb-2024)).|   |   |   |
 
-## [](https://www.dndbeyond.com/sources/dnd/free-rules/magic-items#AwardingMagicItems)Awarding Magic Items
+## Awarding Magic Items {#AwardingMagicItems}
 
 Awarding magic items is the purview of the DM. You can award a magic item because the story calls for it or the players would be especially pleased to have it. This section helps you to determine which magic items end up in the characters’ possession.
 
@@ -136,7 +136,7 @@ Are Magic Items Necessary?
 
 The D&D game assumes that magic items appear sporadically and that they are a boon unless an item bears a curse. Characters and monsters are built to face each other without the help of magic items, which means that having a magic item makes a character more powerful or versatile than a generic character of the same level. As DM, you never have to worry about awarding magic items just so the characters can keep up with the campaign’s threats. Magic items are truly prizes—desirable but not necessary.
 
-### [](https://www.dndbeyond.com/sources/dnd/free-rules/magic-items#MagicItemsAwardedbyLevel)Magic Items Awarded by Level
+### Magic Items Awarded by Level {#MagicItemsAwardedbyLevel}
 
 The Magic Items Awarded by Level table shows the number of magic items a D&D party typically gains during a campaign, totaling one hundred magic items by level 20. The table shows how many items of each rarity are meant to be handed out during each of the four tiers of play.
 
@@ -146,7 +146,7 @@ Artifacts are omitted from the table because they are most often used as plot de
 
 **_Overstocking an Adventure._** When creating or modifying an adventure, assume that the characters won’t find all the magic items you place in it. An adventure usually can include a number of items that’s 25 percent higher than the number in the Magic Items Awarded by Level table (round up). For example, an adventure designed to take characters from level 1 to 4 might include fourteen items rather than eleven, in the expectation that three items won’t be found.
 
-#### [](https://www.dndbeyond.com/sources/dnd/free-rules/magic-items#MagicItemsAwardedbyLevelTable)Magic Items Awarded by Level
+#### Magic Items Awarded by Level {#MagicItemsAwardedbyLevelTable}
 |Character Level (Tier of Play)|Common Items|Uncommon Items|Rare Items|Very Rare Items|Legendary Items|All Items|
 |---|---|---|---|---|---|---|
 |1–4 (tier 1)|6|4|1|0|0|11|
@@ -159,17 +159,17 @@ Justyna Gil[![](https://media.dndbeyond.com/compendium-images/dmg/Bk0e1TBRN0uPvp
 
 [Downloadable PDF](https://media.dndbeyond.com/compendium-images/free-rules/dmg/magic-item-sheet.pdf)
 
-### [](https://www.dndbeyond.com/sources/dnd/free-rules/magic-items#MagicItemTracker)Magic Item Tracker
+### Magic Item Tracker {#MagicItemTracker}
 
 You can use the Magic Item Tracker sheet to track how many magic items the characters have acquired. Each time the characters get a magic item, put a check mark in one of the empty circles corresponding to the item’s rarity and the current level range of the characters. If the characters gain a magic item of a rarity that has no unchecked circles at the current level range, check off an empty circle from a lower tier. If all lower level ranges also have no circles left, check off an empty circle from a higher level range.
 
-### [](https://www.dndbeyond.com/sources/dnd/free-rules/magic-items#RandomMagicItemRarity)Random Magic Item Rarity
+### Random Magic Item Rarity {#RandomMagicItemRarity}
 
 When you decide that a treasure contains magic items, there are two ways to determine the rarity of those items. You can choose an appropriate rarity based on the items you’ve given out already (using the Magic Item Tracker sheet to keep track), or you can roll on the Magic Item Rarities table.
 
 To use the table, find the level of the characters in the top row. Roll 1d100, and read down that column to find your roll. Then read across to the right column to find the rarity of the item.
 
-#### [](https://www.dndbeyond.com/sources/dnd/free-rules/magic-items#MagicItemRarities)Magic Item Rarities
+#### Magic Item Rarities {#MagicItemRarities}
 |————— 1d100 Roll —————|   |   |   ||
 |---|---|---|---|---|
 |Levels 1–4|Levels 5–10|Levels 11–16|Levels 17–20|Item’s Rarity|
@@ -182,45 +182,45 @@ To use the table, find the level of the characters in the top row. Roll 1d100, a
 
 Magic Items for Starting Characters
 
-If you’re starting a campaign for characters above level 1, the [Player’s Handbook](https://www.dndbeyond.com/sources/dnd/phb-2024) offers [suggestions](https://www.dndbeyond.com/sources/dnd/phb-2024/creating-a-character#StartingEquipmentatHigherLevels) for how many magic items such characters should start with and the rarity of those items. Consider these approaches to determining the items each character receives:
+If you’re starting a campaign for characters above level 1, the [Player’s Handbook](/phb-2024) offers [suggestions](/phb-2024/creating-a-character#StartingEquipmentatHigherLevels) for how many magic items such characters should start with and the rarity of those items. Consider these approaches to determining the items each character receives:
 
 **DM Choice:** Choose items for each character using your own judgment.
 
 **Player Choice:** Let the players choose whatever items they want, within the specified rarity.
 
-## [](https://www.dndbeyond.com/sources/dnd/free-rules/magic-items#ActivatingaMagicItem)Activating a Magic Item
+## Activating a Magic Item {#ActivatingaMagicItem}
 
-It usually takes a [Magic](https://www.dndbeyond.com/sources/dnd/free-rules/rules-glossary#MagicAction) action to activate a magic item. The item’s user might also need to do something special. The description of each item category or individual item details how an item is activated. Certain items use the following rules for their activation.
+It usually takes a [Magic](/free-rules/rules-glossary#MagicAction) action to activate a magic item. The item’s user might also need to do something special. The description of each item category or individual item details how an item is activated. Certain items use the following rules for their activation.
 
-### [](https://www.dndbeyond.com/sources/dnd/free-rules/magic-items#CommandWord)Command Word
+### Command Word {#CommandWord}
 
 A command word is a word or short phrase that must be spoken or signed for an item to work. Spoken command words must be audible and fail to work in areas where all sound is suppressed, as in the area of the [Silence](https://www.dndbeyond.com/spells/2619061-silence) spell.
 
-### [](https://www.dndbeyond.com/sources/dnd/free-rules/magic-items#ConsumableItems)Consumable Items
+### Consumable Items {#ConsumableItems}
 
 Some items are consumed—used up, in other words—when they are activated. A [Potion of Healing](https://www.dndbeyond.com/magic-items/8960641-potion-of-healing) must be swallowed, for example, while the writing vanishes from a scroll when it is read. Once used, a consumable item loses its magic.
 
-### [](https://www.dndbeyond.com/sources/dnd/free-rules/magic-items#SpellsCastfromItems)Spells Cast from Items
+### Spells Cast from Items {#SpellsCastfromItems}
 
-Some magic items allow the user to cast a spell from the item. The spell is cast at the lowest possible spell and caster level, doesn’t expend any of the user’s spell slots, and requires no components unless the item’s description notes otherwise. The spell uses its normal casting time, range, and duration, and the user of the item must concentrate if the spell requires [Concentration](https://www.dndbeyond.com/sources/dnd/free-rules/rules-glossary#Concentration). Many items, such as Potions, bypass the casting of a spell and confer the spell’s effects with its usual duration. Certain items make exceptions to these rules, changing the casting time, duration, or other parts of a spell.
+Some magic items allow the user to cast a spell from the item. The spell is cast at the lowest possible spell and caster level, doesn’t expend any of the user’s spell slots, and requires no components unless the item’s description notes otherwise. The spell uses its normal casting time, range, and duration, and the user of the item must concentrate if the spell requires [Concentration](/free-rules/rules-glossary#Concentration). Many items, such as Potions, bypass the casting of a spell and confer the spell’s effects with its usual duration. Certain items make exceptions to these rules, changing the casting time, duration, or other parts of a spell.
 
 A magic item may require the user to use their own spellcasting ability when casting a spell from the item. If the user has more than one spellcasting ability, the user chooses which one to use with the item. If the user doesn’t have a spellcasting ability, their spellcasting ability modifier is +0 for the item, and the user’s Proficiency Bonus applies.
 
-### [](https://www.dndbeyond.com/sources/dnd/free-rules/magic-items#Charges)Charges
+### Charges {#Charges}
 
 Some magic items have charges that must be expended to activate their properties. The number of charges an item has remaining is revealed when the [Identify](https://www.dndbeyond.com/spells/2619180-identify) spell is cast on it. A creature attuned to an item knows how many charges the item has and how many it regains.
 
-## [](https://www.dndbeyond.com/sources/dnd/free-rules/magic-items#TheNextDawn)“The Next Dawn”
+## “The Next Dawn” {#TheNextDawn}
 
 Magic items often have charges or properties that recharge at the next dawn or some other specified time. If such an item is on a world or plane of existence where the specified event doesn’t occur, the DM determines when the item recharges.
 
-## [](https://www.dndbeyond.com/sources/dnd/free-rules/magic-items#CursedItems)Cursed Items
+## Cursed Items {#CursedItems}
 
 A magic item’s description specifies whether it bears a curse. Most methods of identifying items, including the [Identify](https://www.dndbeyond.com/spells/2619180-identify) spell, fail to reveal such a curse.
 
 Attunement to a cursed item can’t be ended voluntarily unless the curse is broken first, such as with a [Remove Curse](https://www.dndbeyond.com/spells/2618943-remove-curse) spell.
 
-## [](https://www.dndbeyond.com/sources/dnd/free-rules/magic-items#MagicItemResilience)Magic Item Resilience
+## Magic Item Resilience {#MagicItemResilience}
 
 A magic item is at least as durable as a nonmagical item of its kind. Most magic items, other than Potions and Scrolls, have Resistance to all damage.
 

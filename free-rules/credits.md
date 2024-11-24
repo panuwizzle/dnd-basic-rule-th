@@ -1,7 +1,7 @@
 ---
 layout: book
 title: Credits
-menu: 2024-start-play
+menu: free-rules-start-play
 ---
 
 # Credits

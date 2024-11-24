@@ -1,12 +1,12 @@
 ---
 layout: book
 title: Combat
-menu: 2024-start-play
+menu: free-rules-start-play
 ---
 
 # Combat
 
-## [](https://www.dndbeyond.com/sources/dnd/free-rules/combat#CombatEncounters)Combat Encounters
+## Combat Encounters {#CombatEncounters}
 
 The following features can make a combat encounter more interesting or challenging:
 
@@ -14,13 +14,13 @@ The following features can make a combat encounter more interesting or challengi
 
 **Defensive Positions.** Enemies in hard-to-reach locations or defensive positions force characters who normally attack at range to move around.
 
-**Hazards.** The “[Hazards](https://www.dndbeyond.com/sources/dnd/dmg-2024/dms-toolbox#Hazards)” section in the [Dungeon Master’s Guide](https://www.dndbeyond.com/sources/dnd/dmg-2024) describes dangerous features, such as patches of green slime, that characters or their enemies can use to their advantage.
+**Hazards.** The “[Hazards](/dmg-2024/dms-toolbox#Hazards)” section in the [Dungeon Master’s Guide](/dmg-2024) describes dangerous features, such as patches of green slime, that characters or their enemies can use to their advantage.
 
 **Mixed Monster Groups.** When different types of monsters work together, they can combine their abilities—just like characters with different classes and origins. A diverse force is more powerful.
 
 **Reasons to Move.** Use features that encourage characters and their enemies to move around, such as chandeliers, kegs of gunpowder or oil, and rolling stone traps.
 
-### [](https://www.dndbeyond.com/sources/dnd/free-rules/combat#CombatEncounterDifficulty)Combat Encounter Difficulty
+### Combat Encounter Difficulty {#CombatEncounterDifficulty}
 
 Use the following guidelines to create a combat encounter of a desired level of difficulty.
 
@@ -34,7 +34,7 @@ Use the following guidelines to create a combat encounter of a desired level of 
 
 **_Step 2: Determine Your XP Budget._** Using the XP Budget per Character table, cross-reference the party’s level with the desired encounter difficulty. Multiply the number in the table by the number of characters in the party to get your XP budget for the encounter.
 
-#### [](https://www.dndbeyond.com/sources/dnd/free-rules/combat#XPBudgetperCharacter)XP Budget per Character
+#### XP Budget per Character {#XPBudgetperCharacter}
 ||——— Encounter Difficulty ———|   |   |
 |---|---|---|---|
 |Party’s Level|Low|Moderate|High|
@@ -77,7 +77,7 @@ Use the following guidelines to create a combat encounter of a desired level of 
 
 - 2 [Adult Red Dragons](https://www.dndbeyond.com/monsters/16771-adult-red-dragon) (18,000 XP each) and 2 [Fire Giants](https://www.dndbeyond.com/monsters/16862-fire-giant) (5,000 XP each), for 46,000 XP total
 
-### [](https://www.dndbeyond.com/sources/dnd/free-rules/combat#Troubleshooting)Troubleshooting
+### Troubleshooting {#Troubleshooting}
 
 When creating and running combat encounters, keep the following in mind.
 
@@ -93,17 +93,17 @@ When creating and running combat encounters, keep the following in mind.
 
 **_Unusual Features._** If a monster has a feature that lower-level characters can’t easily overcome, consider not adding that monster to an encounter for characters whose level is lower than the monster’s Challenge Rating.
 
-## [](https://www.dndbeyond.com/sources/dnd/free-rules/combat#RunningCombat)Running Combat
+## Running Combat {#RunningCombat}
 
-This section builds on the [combat rules](https://www.dndbeyond.com/sources/dnd/free-rules/playing-the-game#Combat) in _[Playing the Game](https://www.dndbeyond.com/sources/dnd/free-rules/playing-the-game)_ and offers tips for keeping the game running smoothly when a fight breaks out.
+This section builds on the [combat rules](/free-rules/playing-the-game#Combat) in _[Playing the Game](/free-rules/playing-the-game)_ and offers tips for keeping the game running smoothly when a fight breaks out.
 
-### [](https://www.dndbeyond.com/sources/dnd/free-rules/combat#RollingInitiative)Rolling Initiative
+### Rolling Initiative {#RollingInitiative}
 
-Combat starts when—and only when—you say it does. Some characters have abilities that trigger on an [Initiative](https://www.dndbeyond.com/sources/dnd/free-rules/rules-glossary#Initiative) roll; you, not the players, decide if and when Initiative is rolled. A high-level Barbarian can’t just punch their Paladin friend and roll Initiative to regain expended uses of Rage.
+Combat starts when—and only when—you say it does. Some characters have abilities that trigger on an [Initiative](/free-rules/rules-glossary#Initiative) roll; you, not the players, decide if and when Initiative is rolled. A high-level Barbarian can’t just punch their Paladin friend and roll Initiative to regain expended uses of Rage.
 
-In any situation where a character’s actions initiate combat, you can give the acting character [Advantage](https://www.dndbeyond.com/sources/dnd/free-rules/rules-glossary#Advantage) on their Initiative roll. For example, if a conversation with an NPC is cut short because the Sorcerer is convinced that NPC is a doppelganger and targets it with a [Chromatic Orb](https://www.dndbeyond.com/spells/2618966-chromatic-orb) spell, everyone rolls Initiative, and the Sorcerer does so with Advantage. If the doppelganger rolls well, it might still act before the Sorcerer’s spell goes off, reflecting the monster’s ability to anticipate the spell.
+In any situation where a character’s actions initiate combat, you can give the acting character [Advantage](/free-rules/rules-glossary#Advantage) on their Initiative roll. For example, if a conversation with an NPC is cut short because the Sorcerer is convinced that NPC is a doppelganger and targets it with a [Chromatic Orb](https://www.dndbeyond.com/spells/2618966-chromatic-orb) spell, everyone rolls Initiative, and the Sorcerer does so with Advantage. If the doppelganger rolls well, it might still act before the Sorcerer’s spell goes off, reflecting the monster’s ability to anticipate the spell.
 
-#### [](https://www.dndbeyond.com/sources/dnd/free-rules/combat#UsingInitiativeScores)Using Initiative Scores
+#### Using Initiative Scores {#UsingInitiativeScores}
 
 You can get to the action of combat more quickly by using Initiative scores instead of rolling. You might decide to use Initiative scores just for characters, just for monsters, or for both.
 
@@ -111,13 +111,13 @@ You can get to the action of combat more quickly by using Initiative scores inst
 
 **_Initiative Scores for Monsters._** A monster’s stat block includes its Initiative score after its Initiative bonus.
 
-**_Advantage and Disadvantage._** If a creature has [Advantage](https://www.dndbeyond.com/sources/dnd/free-rules/rules-glossary#Advantage) on Initiative rolls, increase its Initiative score by 5. If it has [Disadvantage](https://www.dndbeyond.com/sources/dnd/free-rules/rules-glossary#Disadvantage) on those rolls, decrease that score by 5.
+**_Advantage and Disadvantage._** If a creature has [Advantage](/free-rules/rules-glossary#Advantage) on Initiative rolls, increase its Initiative score by 5. If it has [Disadvantage](/free-rules/rules-glossary#Disadvantage) on those rolls, decrease that score by 5.
 
-### [](https://www.dndbeyond.com/sources/dnd/free-rules/combat#TrackingInitiative)Tracking Initiative
+### Tracking Initiative {#TrackingInitiative}
 
 The following sections describe different methods for keeping track of who goes when in combat.
 
-#### [](https://www.dndbeyond.com/sources/dnd/free-rules/combat#HiddenList)Hidden List
+#### Hidden List {#HiddenList}
 
 You can track Initiative on a list your players can’t see using any of the following tools:
 
@@ -130,7 +130,7 @@ A hidden list allows you to track combatants who haven’t been revealed yet, an
 
 If you use this approach, you tell the players when it’s their characters’ turn. When you call out the character whose turn is starting, consider also mentioning who’s next, prompting that character’s player to think ahead.
 
-#### [](https://www.dndbeyond.com/sources/dnd/free-rules/combat#OpenList)Open List
+#### Open List {#OpenList}
 
 You can track Initiative on a list that is visible to the players using any of the following tools:
 
@@ -142,7 +142,7 @@ You can track Initiative on a list that is visible to the players using any of t
 
 An open list makes everyone aware of the order of play. Players know when their characters’ turns are coming up so they can plan their actions in advance. An open list also lets the players know when the monsters act in the fight, although you can hold off on adding monsters to the list until they take their first turns.
 
-### [](https://www.dndbeyond.com/sources/dnd/free-rules/combat#TrackingMonstersHitPoints)Tracking Monsters’ Hit Points
+### Tracking Monsters’ Hit Points {#TrackingMonstersHitPoints}
 
 During a combat encounter, you or a player should track how much damage each monster takes. Most DMs track damage in secret so their players don’t know how many Hit Points a monster has remaining.
 
@@ -172,9 +172,9 @@ Some DMs prefer to track how much damage a monster has taken, adding to that num
 
 **[Ogre](https://www.dndbeyond.com/monsters/4904825-ogre) C:**
 
-### [](https://www.dndbeyond.com/sources/dnd/free-rules/combat#UsingandTrackingConditions)Using and Tracking Conditions
+### Using and Tracking Conditions {#UsingandTrackingConditions}
 
-Many rules and features in the game apply conditions to creatures. You can also apply conditions on the fly when it makes sense to do so. For example, the [Poisoned](https://www.dndbeyond.com/sources/dnd/free-rules/rules-glossary#PoisonedCondition) condition can reflect a variety of impairments, from influenza to intoxication.
+Many rules and features in the game apply conditions to creatures. You can also apply conditions on the fly when it makes sense to do so. For example, the [Poisoned](/free-rules/rules-glossary#PoisonedCondition) condition can reflect a variety of impairments, from influenza to intoxication.
 
 You can track monsters’ conditions wherever you track their Hit Points. Players should track any conditions affecting their characters. Character conditions can also be marked on index cards or a whiteboard.
 

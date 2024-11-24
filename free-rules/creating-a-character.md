@@ -1,18 +1,18 @@
 ---
 layout: book
 title: Creating a Character
-menu: 2024-start-play
+menu: free-rules-start-play
 ---
 
 # Creating a Character
 
-You can make a character for Dungeons & Dragons using the building blocks in this book. Your character is a combination of game statistics, roleplaying hooks, and your imagination. You choose a class (such as [Fighter](https://www.dndbeyond.com/sources/dnd/free-rules/character-classes#Fighter) or [Wizard](https://www.dndbeyond.com/sources/dnd/free-rules/character-classes#Wizard)), a background (such as [Soldier](https://www.dndbeyond.com/sources/dnd/free-rules/character-origins#Soldier) or [Acolyte](https://www.dndbeyond.com/sources/dnd/free-rules/character-origins#Acolyte)), and a species (such as [Human](https://www.dndbeyond.com/sources/dnd/free-rules/character-origins#Human) or [Elf](https://www.dndbeyond.com/sources/dnd/free-rules/character-origins#Elf)). You also invent the personality and appearance of your character. Once completed, your character serves as your avatar in the D&D multiverse.
+You can make a character for Dungeons & Dragons using the building blocks in this book. Your character is a combination of game statistics, roleplaying hooks, and your imagination. You choose a class (such as [Fighter](/free-rules/character-classes#Fighter) or [Wizard](/free-rules/character-classes#Wizard)), a background (such as [Soldier](/free-rules/character-origins#Soldier) or [Acolyte](/free-rules/character-origins#Acolyte)), and a species (such as [Human](/free-rules/character-origins#Human) or [Elf](/free-rules/character-origins#Elf)). You also invent the personality and appearance of your character. Once completed, your character serves as your avatar in the D&D multiverse.
 
-## [Get Ready](https://www.dndbeyond.com/sources/dnd/free-rules/creating-a-character#GetReady)
+## Get Ready {#GetReady}
 
 Before you dive into character creation, there are a few things to do to get ready, as explained below.
 
-### [](https://www.dndbeyond.com/sources/dnd/free-rules/creating-a-character#TalkwithYourDM)Talk with Your DM
+### Talk with Your DM {#TalkwithYourDM}
 
 Start by talking with your Dungeon Master about the type of D&D game they plan to run. If the DM draws inspiration from Greek myth, for example, you might choose a different direction for your character than if the DM is planning for swashbuckling on the high seas. Think about the kind of adventurer you want to play in this game. If you don’t know where to begin, look at the character illustrations in this book for inspiration.
 
@@ -20,11 +20,11 @@ Session Zero
 
 Some Dungeon Masters start a campaign with a “session zero,” an initial gathering focused on creating characters and setting expectations, including topics to avoid as well as those to embrace. A session zero provides a great opportunity to talk to the other players and the DM and decide whether your characters know one another, how they met, and what sorts of quests the group might undertake together.
 
-### [](https://www.dndbeyond.com/sources/dnd/free-rules/creating-a-character#ChooseaCharacterSheet)Choose a Character Sheet
+### Choose a Character Sheet {#ChooseaCharacterSheet}
 
 You’ll record the main details of your character on a character sheet. Throughout this chapter, we use the term “character sheet” to mean whatever you use to track your character’s details, whether it’s a printed character sheet, a digital character sheet like the one on [D&D Beyond](https://www.dndbeyond.com/characters), or plain paper. Choose whichever style of sheet works for you, and then embark on creating a character!
 
-## [](https://www.dndbeyond.com/sources/dnd/free-rules/creating-a-character#CreateYourCharacter)Create Your Character
+## Create Your Character {#CreateYourCharacter}
 
 Here are the steps to make a character; each step is explored in detail in this chapter:
 
@@ -36,26 +36,26 @@ Here are the steps to make a character; each step is explored in detail in this 
 
 On the character sheet on the following pages, many spaces are labeled with a number that corresponds with one of those steps.
 
-### [](https://www.dndbeyond.com/sources/dnd/free-rules/creating-a-character#Step1ChooseaClass)Step 1: Choose a Class
+### Step 1: Choose a Class {#Step1ChooseaClass}
 
-Choose a class, and write it on your character sheet. The Class Overview table summarizes the classes. See [chapter 3](https://www.dndbeyond.com/sources/dnd/free-rules/character-classes) for the classes’ details.
+Choose a class, and write it on your character sheet. The Class Overview table summarizes the classes. See [chapter 3](/free-rules/character-classes) for the classes’ details.
 
-#### [](https://www.dndbeyond.com/sources/dnd/free-rules/creating-a-character#ClassOverview)Class Overview
+#### Class Overview {#ClassOverview}
 
-| Class                                                                                     | Likes...       | Primary Ability       | Complexity |
-| ----------------------------------------------------------------------------------------- | -------------- | --------------------- | ---------- |
-| [Barbarian](https://www.dndbeyond.com/sources/dnd/free-rules/character-classes#Barbarian) | Battle         | Strength              | Average    |
-| [Bard](https://www.dndbeyond.com/sources/dnd/free-rules/character-classes#Bard)           | Performing     | Charisma              | High       |
-| [Cleric](https://www.dndbeyond.com/sources/dnd/free-rules/character-classes#Cleric)       | Gods           | Wisdom                | Average    |
-| [Druid](https://www.dndbeyond.com/sources/dnd/free-rules/character-classes#Druid)         | Nature         | Wisdom                | High       |
-| [Fighter](https://www.dndbeyond.com/sources/dnd/free-rules/character-classes#Fighter)     | Weapons        | Strength or Dexterity | Low        |
-| [Monk](https://www.dndbeyond.com/sources/dnd/free-rules/character-classes#Monk)           | Unarmed combat | Dexterity and Wisdom  | High       |
-| [Paladin](https://www.dndbeyond.com/sources/dnd/free-rules/character-classes#Paladin)     | Defense        | Strength and Charisma | Average    |
-| [Ranger](https://www.dndbeyond.com/sources/dnd/free-rules/character-classes#Ranger)       | Survival       | Dexterity and Wisdom  | Average    |
-| [Rogue](https://www.dndbeyond.com/sources/dnd/free-rules/character-classes#Rogue)         | Stealth        | Dexterity             | Low        |
-| [Sorcerer](https://www.dndbeyond.com/sources/dnd/free-rules/character-classes#Sorcerer)   | Power          | Charisma              | High       |
-| [Warlock](https://www.dndbeyond.com/sources/dnd/free-rules/character-classes#Warlock)     | Occult lore    | Charisma              | High       |
-| [Wizard](https://www.dndbeyond.com/sources/dnd/free-rules/character-classes#Wizard)       | Spellbooks     | Intelligence          | Average    |
+| Class                                                | Likes...       | Primary Ability       | Complexity |
+| ---------------------------------------------------- | -------------- | --------------------- | ---------- |
+| [Barbarian](/free-rules/character-classes#Barbarian) | Battle         | Strength              | Average    |
+| [Bard](/free-rules/character-classes#Bard)           | Performing     | Charisma              | High       |
+| [Cleric](/free-rules/character-classes#Cleric)       | Gods           | Wisdom                | Average    |
+| [Druid](/free-rules/character-classes#Druid)         | Nature         | Wisdom                | High       |
+| [Fighter](/free-rules/character-classes#Fighter)     | Weapons        | Strength or Dexterity | Low        |
+| [Monk](/free-rules/character-classes#Monk)           | Unarmed combat | Dexterity and Wisdom  | High       |
+| [Paladin](/free-rules/character-classes#Paladin)     | Defense        | Strength and Charisma | Average    |
+| [Ranger](/free-rules/character-classes#Ranger)       | Survival       | Dexterity and Wisdom  | Average    |
+| [Rogue](/free-rules/character-classes#Rogue)         | Stealth        | Dexterity             | Low        |
+| [Sorcerer](/free-rules/character-classes#Sorcerer)   | Power          | Charisma              | High       |
+| [Warlock](/free-rules/character-classes#Warlock)     | Occult lore    | Charisma              | High       |
+| [Wizard](/free-rules/character-classes#Wizard)       | Spellbooks     | Intelligence          | Average    |
 
 A Balanced Party
 
@@ -69,68 +69,68 @@ The classic D&D party comprises a Cleric, Fighter, Rogue, and Wizard. Those four
 
 **Wizard:** Replace with Bard, Sorcerer, or Warlock
 
-#### [](https://www.dndbeyond.com/sources/dnd/free-rules/creating-a-character#WriteYourLevel)Write Your Level
+#### Write Your Level {#WriteYourLevel}
 
-Write your character’s level on your character sheet. Typically, a character starts at level 1 and advances in level by adventuring and gaining [Experience Points](https://www.dndbeyond.com/sources/dnd/free-rules/rules-glossary#ExperiencePoints) (XP).
+Write your character’s level on your character sheet. Typically, a character starts at level 1 and advances in level by adventuring and gaining [Experience Points](/free-rules/rules-glossary#ExperiencePoints) (XP).
 
 **_Write Your XP._** Also record your Experience Points. A level 1 character has 0 XP.
 
-**_Starting at a Higher Level._** Your DM might start you at a higher level. If you start at level 3 or higher, write your chosen subclass on your character sheet. See the “[Starting at Higher Levels](https://www.dndbeyond.com/sources/dnd/free-rules/creating-a-character#StartingatHigherLevels)” section later in the chapter for more information.
+**_Starting at a Higher Level._** Your DM might start you at a higher level. If you start at level 3 or higher, write your chosen subclass on your character sheet. See the “[Starting at Higher Levels](/free-rules/creating-a-character#StartingatHigherLevels)” section later in the chapter for more information.
 
-#### [](https://www.dndbeyond.com/sources/dnd/free-rules/creating-a-character#NoteArmorTraining)Note Armor Training
+#### Note Armor Training {#NoteArmorTraining}
 
-Your class might give you training with certain categories of armor. Note your armor training on your character sheet. Armor training with a kind of armor means you can wear that armor effectively, gaining defensive bonuses from it. The categories of armor are described in [chapter 6](https://www.dndbeyond.com/sources/dnd/free-rules/equipment#Armor).
+Your class might give you training with certain categories of armor. Note your armor training on your character sheet. Armor training with a kind of armor means you can wear that armor effectively, gaining defensive bonuses from it. The categories of armor are described in [chapter 6](/free-rules/equipment#Armor).
 
-#### [](https://www.dndbeyond.com/sources/dnd/free-rules/creating-a-character#HoldThatThought)Hold That Thought
+#### Hold That Thought {#HoldThatThought}
 
-You’ll fill in more details about your class later. Choosing your class is the most important decision you make in creating a character, and it informs many of the decisions you make in later steps. You’ll return to your class’s description in [chapter 3](https://www.dndbeyond.com/sources/dnd/free-rules/character-classes) several more times before you’re done.
+You’ll fill in more details about your class later. Choosing your class is the most important decision you make in creating a character, and it informs many of the decisions you make in later steps. You’ll return to your class’s description in [chapter 3](/free-rules/character-classes) several more times before you’re done.
 
-### [](https://www.dndbeyond.com/sources/dnd/free-rules/creating-a-character#Step2DetermineOrigin)Step 2: Determine Origin
+### Step 2: Determine Origin {#Step2DetermineOrigin}
 
 Determining your character’s origin involves choosing a background, a species, and two languages.
 
 A character’s background represents the place and occupation that were most formative for the character. The combination of background, species, and languages provides fertile soil for your imagination as you ponder your character’s earliest days.
 
-#### [](https://www.dndbeyond.com/sources/dnd/free-rules/creating-a-character#ChooseaBackground)Choose a Background
+#### Choose a Background {#ChooseaBackground}
 
-Choose your character’s background, and write it on your character sheet. You can choose any of the backgrounds detailed in [chapter 4](https://www.dndbeyond.com/sources/dnd/free-rules/character-origins#BackgroundDescriptions), and your DM might offer additional backgrounds as options.
+Choose your character’s background, and write it on your character sheet. You can choose any of the backgrounds detailed in [chapter 4](/free-rules/character-origins#BackgroundDescriptions), and your DM might offer additional backgrounds as options.
 
 The background you choose influences step 3, when you determine your character’s ability scores. If you’re having trouble choosing, the Ability Scores and Backgrounds table shows which backgrounds benefit which ability scores. Look for your class’s primary ability there.
 
-##### [](https://www.dndbeyond.com/sources/dnd/free-rules/creating-a-character#AbilityScoresandBackgrounds)Ability Scores and Backgrounds
+##### Ability Scores and Backgrounds {#AbilityScoresandBackgrounds}
 
-| Ability      | Backgrounds                                                                                                                                                                                                                                                     |
-| ------------ | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| Strength     | [Soldier](https://www.dndbeyond.com/sources/dnd/free-rules/character-origins#Soldier)                                                                                                                                                                           |
-| Dexterity    | [Criminal](https://www.dndbeyond.com/sources/dnd/free-rules/character-origins#Criminal), [Soldier](https://www.dndbeyond.com/sources/dnd/free-rules/character-origins#Soldier)                                                                                  |
-| Constitution | [Criminal](https://www.dndbeyond.com/sources/dnd/free-rules/character-origins#Criminal), [Sage](https://www.dndbeyond.com/sources/dnd/free-rules/character-origins#Sage), [Soldier](https://www.dndbeyond.com/sources/dnd/free-rules/character-origins#Soldier) |
-| Intelligence | [Acolyte](https://www.dndbeyond.com/sources/dnd/free-rules/character-origins#Acolyte), [Criminal](https://www.dndbeyond.com/sources/dnd/free-rules/character-origins#Criminal), [Sage](https://www.dndbeyond.com/sources/dnd/free-rules/character-origins#Sage) |
-| Wisdom       | [Acolyte](https://www.dndbeyond.com/sources/dnd/free-rules/character-origins#Acolyte), [Sage](https://www.dndbeyond.com/sources/dnd/free-rules/character-origins#Sage)                                                                                          |
-| Charisma     | [Acolyte](https://www.dndbeyond.com/sources/dnd/free-rules/character-origins#Acolyte)                                                                                                                                                                           |
+| Ability      | Backgrounds                                                                                                                                      |
+| ------------ | ------------------------------------------------------------------------------------------------------------------------------------------------ |
+| Strength     | [Soldier](/free-rules/character-origins#Soldier)                                                                                                 |
+| Dexterity    | [Criminal](/free-rules/character-origins#Criminal), [Soldier](/free-rules/character-origins#Soldier)                                             |
+| Constitution | [Criminal](/free-rules/character-origins#Criminal), [Sage](/free-rules/character-origins#Sage), [Soldier](/free-rules/character-origins#Soldier) |
+| Intelligence | [Acolyte](/free-rules/character-origins#Acolyte), [Criminal](/free-rules/character-origins#Criminal), [Sage](/free-rules/character-origins#Sage) |
+| Wisdom       | [Acolyte](/free-rules/character-origins#Acolyte), [Sage](/free-rules/character-origins#Sage)                                                     |
+| Charisma     | [Acolyte](/free-rules/character-origins#Acolyte)                                                                                                 |
 
-**_Record Your Feat._** A background gives you a feat, which grants your character particular capabilities. Feats are detailed in [chapter 5](https://www.dndbeyond.com/sources/dnd/free-rules/feats). Write the feat on your character sheet.
+**_Record Your Feat._** A background gives you a feat, which grants your character particular capabilities. Feats are detailed in [chapter 5](/free-rules/feats). Write the feat on your character sheet.
 
 **_Note Proficiencies._** Your background gives proficiency in two skills and with one tool. Record this information on your character sheet.
 
-Your class also gives proficiencies. Check your class description in [chapter 3](https://www.dndbeyond.com/sources/dnd/free-rules/character-classes) and note the proficiencies on your character sheet.
+Your class also gives proficiencies. Check your class description in [chapter 3](/free-rules/character-classes) and note the proficiencies on your character sheet.
 
 On the sample character sheet, you can indicate proficiency in skills and saving throws by marking the circle next to them.
 
-The features table in your class description shows your Proficiency Bonus (described in [chapter 1](https://www.dndbeyond.com/sources/dnd/free-rules/playing-the-game#Proficiency)), which is +2 for a level 1 character. Note this number on your character sheet. You’ll fill in other numbers connected to these proficiencies in [step 5](https://www.dndbeyond.com/sources/dnd/free-rules/creating-a-character#Step5FillInDetails).
+The features table in your class description shows your Proficiency Bonus (described in [chapter 1](/free-rules/playing-the-game#Proficiency)), which is +2 for a level 1 character. Note this number on your character sheet. You’ll fill in other numbers connected to these proficiencies in [step 5](/free-rules/creating-a-character#Step5FillInDetails).
 
-#### [](https://www.dndbeyond.com/sources/dnd/free-rules/creating-a-character#ChooseStartingEquipment)Choose Starting Equipment
+#### Choose Starting Equipment {#ChooseStartingEquipment}
 
-Your background and class both provide starting equipment. Any coins that you gain at this step can be immediately spent on equipment from [chapter 6](https://www.dndbeyond.com/sources/dnd/free-rules/equipment). In addition, you can have one trinket at no cost (see the [Trinkets table](https://www.dndbeyond.com/sources/dnd/free-rules/creating-a-character#Trinkets) at the end of this chapter).
+Your background and class both provide starting equipment. Any coins that you gain at this step can be immediately spent on equipment from [chapter 6](/free-rules/equipment). In addition, you can have one trinket at no cost (see the [Trinkets table](/free-rules/creating-a-character#Trinkets) at the end of this chapter).
 
-Record your chosen equipment on your character sheet. Equipment is described in [chapter 6](https://www.dndbeyond.com/sources/dnd/free-rules/equipment), but for now you can just write it all down and look up the specifics in that chapter later. There’s also space on the sample character sheet to note any coins you have left after purchasing your equipment, as well as treasure you acquire on your adventures.
+Record your chosen equipment on your character sheet. Equipment is described in [chapter 6](/free-rules/equipment), but for now you can just write it all down and look up the specifics in that chapter later. There’s also space on the sample character sheet to note any coins you have left after purchasing your equipment, as well as treasure you acquire on your adventures.
 
-#### [](https://www.dndbeyond.com/sources/dnd/free-rules/creating-a-character#ChooseaSpecies)Choose a Species
+#### Choose a Species {#ChooseaSpecies}
 
-Choose a species for your character. The following species options are detailed in [chapter 4](https://www.dndbeyond.com/sources/dnd/free-rules/character-origins): [Dwarf](https://www.dndbeyond.com/sources/dnd/free-rules/character-origins#Dwarf), [Elf](https://www.dndbeyond.com/sources/dnd/free-rules/character-origins#Elf), [Halfling](https://www.dndbeyond.com/sources/dnd/free-rules/character-origins#Halfling), and [Human](https://www.dndbeyond.com/sources/dnd/free-rules/character-origins#Human). Once you’ve chosen a species, write it on your character sheet. Then record your species’ traits.
+Choose a species for your character. The following species options are detailed in [chapter 4](/free-rules/character-origins): [Dwarf](/free-rules/character-origins#Dwarf), [Elf](/free-rules/character-origins#Elf), [Halfling](/free-rules/character-origins#Halfling), and [Human](/free-rules/character-origins#Human). Once you’ve chosen a species, write it on your character sheet. Then record your species’ traits.
 
-Your character’s [size](https://www.dndbeyond.com/sources/dnd/free-rules/rules-glossary#Size) and [Speed](https://www.dndbeyond.com/sources/dnd/free-rules/rules-glossary#Speed) are determined by the character’s species; record these in the appropriate places on your character sheet as well (you may write just the first letter of your size).
+Your character’s [size](/free-rules/rules-glossary#Size) and [Speed](/free-rules/rules-glossary#Speed) are determined by the character’s species; record these in the appropriate places on your character sheet as well (you may write just the first letter of your size).
 
-#### [](https://www.dndbeyond.com/sources/dnd/free-rules/creating-a-character#ImagineYourPastandPresent)Imagine Your Past and Present
+#### Imagine Your Past and Present {#ImagineYourPastandPresent}
 
 Let your character’s background and species inspire how you imagine their past. That past fed into the character’s present. With that in mind, consider answers to the following questions as your character:
 
@@ -141,13 +141,13 @@ Let your character’s background and species inspire how you imagine their past
 - Did you join an organization, such as a guild or religion? If so, are you still a member of it?
 - What elements of your past inspire you to go on adventures now?
 
-#### [](https://www.dndbeyond.com/sources/dnd/free-rules/creating-a-character#ChooseLanguages)Choose Languages
+#### Choose Languages {#ChooseLanguages}
 
 Your character knows at least three languages: Common plus two languages you roll or choose from the Standard Languages table. Knowledge of a language means your character can communicate in it, read it, and write it. Your class and other features might also give you languages.
 
 The Standard Languages table lists languages that are widespread on D&D worlds. Every player character knows Common, which originated in the planar metropolis of Sigil, the hub of the multiverse. The other standard languages originated with the first members of the most prominent species in the worlds of D&D and have since spread widely.
 
-##### [](https://www.dndbeyond.com/sources/dnd/free-rules/creating-a-character#StandardLanguages)Standard Languages
+##### Standard Languages {#StandardLanguages}
 
 | 1d12  | Language             | Origin     |
 | ----- | -------------------- | ---------- |
@@ -164,26 +164,27 @@ The Standard Languages table lists languages that are widespread on D&D worlds. 
 
 The Rare Languages table lists languages that are either secret or derived from other planes of existence and thus less widespread in the worlds of the Material Plane. Some features let a character learn a rare language.
 
-##### [](https://www.dndbeyond.com/sources/dnd/free-rules/creating-a-character#RareLanguages)Rare Languages
+##### Rare Languages {#RareLanguages}
 
-| Language                                                                                                                                                            | Origin                   |
-| ------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------ |
-| Abyssal                                                                                                                                                             | Demons of the Abyss      |
-| Celestial                                                                                                                                                           | Celestials               |
-| Deep Speech                                                                                                                                                         | Aberrations              |
-| Druidic                                                                                                                                                             | Druidic circles          |
-| Infernal                                                                                                                                                            | Devils of the Nine Hells |
-| Primordial\*                                                                                                                                                        | Elementals               |
-| Sylvan                                                                                                                                                              | The Feywild              |
-| Thieves’ Cant                                                                                                                                                       | Various criminal guilds  |
-| Undercommon                                                                                                                                                         | The Underdark            |
-| \*Primordial includes the Aquan, Auran, Ignan, and Terran dialects. Creatures that know one of these dialects can communicate with those that know a different one. |                          |
+| Language      | Origin                   |
+| ------------- | ------------------------ |
+| Abyssal       | Demons of the Abyss      |
+| Celestial     | Celestials               |
+| Deep Speech   | Aberrations              |
+| Druidic       | Druidic circles          |
+| Infernal      | Devils of the Nine Hells |
+| Primordial\*  | Elementals               |
+| Sylvan        | The Feywild              |
+| Thieves’ Cant | Various criminal guilds  |
+| Undercommon   | The Underdark            |
 
-### [](https://www.dndbeyond.com/sources/dnd/free-rules/creating-a-character#Step3DetermineAbilityScores)Step 3: Determine Ability Scores
+_\*Primordial includes the Aquan, Auran, Ignan, and Terran dialects. Creatures that know one of these dialects can communicate with those that know a different one._
 
-To determine your character’s ability scores, you first generate a set of six numbers using the instructions below and then assign them to your six abilities. [Chapter 1](https://www.dndbeyond.com/sources/dnd/free-rules/playing-the-game#TheSixAbilities) explains what each ability means.
+### Step 3: Determine Ability Scores {#Step3DetermineAbilityScores}
 
-#### [](https://www.dndbeyond.com/sources/dnd/free-rules/creating-a-character#GenerateYourScores)Generate Your Scores
+To determine your character’s ability scores, you first generate a set of six numbers using the instructions below and then assign them to your six abilities. [Chapter 1](/free-rules/playing-the-game#TheSixAbilities) explains what each ability means.
+
+#### Generate Your Scores {#GenerateYourScores}
 
 Determine your ability scores by using one of the following three methods. Your DM might prefer you to use a particular one.
 
@@ -193,7 +194,7 @@ Determine your ability scores by using one of the following three methods. Your 
 
 **_Point Cost._** You have 27 points to spend on your ability scores. The cost of each score is shown on the Ability Score Point Costs table. For example, a score of 14 costs 7 of your 27 points.
 
-##### [](https://www.dndbeyond.com/sources/dnd/free-rules/creating-a-character#AbilityScorePointCosts)Ability Score Point Costs
+##### Ability Score Point Costs {#AbilityScorePointCosts}
 
 | Score | Cost |
 | ----- | ---- |
@@ -206,13 +207,13 @@ Determine your ability scores by using one of the following three methods. Your 
 | 14    | 7    |
 | 15    | 9    |
 
-#### [](https://www.dndbeyond.com/sources/dnd/free-rules/creating-a-character#AssignAbilityScores)Assign Ability Scores
+#### Assign Ability Scores {#AssignAbilityScores}
 
 Once you’ve generated six scores, assign them to Strength, Dexterity, Constitution, Intelligence, Wisdom, and Charisma, keeping in mind your class’s primary ability. Fill in the ability modifiers as well.
 
 If you’re using the Standard Array option, consult the Standard Array by Class table for suggestions on where to assign scores for your character’s class. The table puts the highest scores in a class’s main abilities. If you used a different method to generate the scores, you may still use this table to guide where you place your highest and lowest scores.
 
-##### [](https://www.dndbeyond.com/sources/dnd/free-rules/creating-a-character#StandardArraybyClass)Standard Array by Class
+##### Standard Array by Class {#StandardArraybyClass}
 
 | Class     | Strength | Dexterity | Constitution | Intelligence | Wisdom | Charisma |
 | --------- | -------- | --------- | ------------ | ------------ | ------ | -------- |
@@ -229,7 +230,7 @@ If you’re using the Standard Array option, consult the Standard Array by Class
 | Warlock   | 8        | 14        | 13           | 12           | 10     | 15       |
 | Wizard    | 8        | 12        | 13           | 15           | 14     | 10       |
 
-#### [](https://www.dndbeyond.com/sources/dnd/free-rules/creating-a-character#AdjustAbilityScores)Adjust Ability Scores
+#### Adjust Ability Scores {#AdjustAbilityScores}
 
 After assigning your ability scores, adjust them according to your background. Your background lists three abilities; increase one of those scores by 2 and a different one by 1, or increase all three by 1. None of these increases can raise a score above 20.
 
@@ -241,13 +242,13 @@ Backgrounds in older D&D books don’t include ability score adjustments. If you
 
 Similarly, species in older books include ability score increases. If you’re using a species from an older book, ignore those increases and use only the ones given by your background.
 
-Also, if the background you choose doesn’t provide a feat, you gain an [Origin feat](https://www.dndbeyond.com/sources/dnd/free-rules/feats#OriginFeats) of your choice.
+Also, if the background you choose doesn’t provide a feat, you gain an [Origin feat](/free-rules/feats#OriginFeats) of your choice.
 
-#### [](https://www.dndbeyond.com/sources/dnd/free-rules/creating-a-character#DetermineAbilityModifiers)Determine Ability Modifiers
+#### Determine Ability Modifiers {#DetermineAbilityModifiers}
 
 Finally, determine your ability modifiers using the Ability Scores and Modifiers table. Write the modifier next to each of your scores.
 
-##### [](https://www.dndbeyond.com/sources/dnd/free-rules/creating-a-character#AbilityScoresandModifiers)Ability Scores and Modifiers
+##### Ability Scores and Modifiers {#AbilityScoresandModifiers}
 
 | Score | Modifier |
 | ----- | -------- |
@@ -262,13 +263,13 @@ Finally, determine your ability modifiers using the Ability Scores and Modifiers
 | 18–19 | +4       |
 | 20    | +5       |
 
-#### [](https://www.dndbeyond.com/sources/dnd/free-rules/creating-a-character#DescribeAppearanceandPersonality)Describe Appearance and Personality
+#### Describe Appearance and Personality {#DescribeAppearanceandPersonality}
 
 Ability scores are an essential part of the rules, but they can be more than that. Once you’ve assigned your ability scores, give some thought to what those scores might say about your character’s appearance and personality. A very strong character with low Charisma might look and behave differently from a charismatic character with low Strength. The following tables of descriptive words give suggestions of how you might describe your character based on having a high or low score in an ability.
 
 Note your character’s appearance and personality on your character sheet.
 
-##### [](https://www.dndbeyond.com/sources/dnd/free-rules/creating-a-character#Strength)Strength
+##### Strength {#Strength}
 
 | 1d4 | High Strength | Low Strength   |
 | --- | ------------- | -------------- |
@@ -277,7 +278,7 @@ Note your character’s appearance and personality on your character sheet.
 | 3   | Protective    | Self-conscious |
 | 4   | Direct        | Indirect       |
 
-##### [](https://www.dndbeyond.com/sources/dnd/free-rules/creating-a-character#Dexterity)Dexterity
+##### Dexterity {#Dexterity}
 
 | 1d4 | High Dexterity | Low Dexterity |
 | --- | -------------- | ------------- |
@@ -286,7 +287,7 @@ Note your character’s appearance and personality on your character sheet.
 | 3   | Fidgety        | Hesitant      |
 | 4   | Poised         | Unsteady      |
 
-##### [](https://www.dndbeyond.com/sources/dnd/free-rules/creating-a-character#Constitution)Constitution
+##### Constitution {#Constitution}
 
 | 1d4 | High Constitution | Low Constitution |
 | --- | ----------------- | ---------------- |
@@ -295,7 +296,7 @@ Note your character’s appearance and personality on your character sheet.
 | 3   | Hearty            | Lethargic        |
 | 4   | Stable            | Fragile          |
 
-##### [](https://www.dndbeyond.com/sources/dnd/free-rules/creating-a-character#Intelligence)Intelligence
+##### Intelligence {#Intelligence}
 
 | 1d4 | High Intelligence | Low Intelligence |
 | --- | ----------------- | ---------------- |
@@ -304,7 +305,7 @@ Note your character’s appearance and personality on your character sheet.
 | 3   | Informative       | Uninformed       |
 | 4   | Curious           | Frivolous        |
 
-##### [](https://www.dndbeyond.com/sources/dnd/free-rules/creating-a-character#Wisdom)Wisdom
+##### Wisdom {#Wisdom}
 
 | 1d4 | High Wisdom | Low Wisdom |
 | --- | ----------- | ---------- |
@@ -313,7 +314,7 @@ Note your character’s appearance and personality on your character sheet.
 | 3   | Attentive   | Oblivious  |
 | 4   | Wary        | Naive      |
 
-##### [](https://www.dndbeyond.com/sources/dnd/free-rules/creating-a-character#Charisma)Charisma
+##### Charisma {#Charisma}
 
 | 1d4 | High Charisma | Low Charisma |
 | --- | ------------- | ------------ |
@@ -322,13 +323,13 @@ Note your character’s appearance and personality on your character sheet.
 | 3   | Hilarious     | Reserved     |
 | 4   | Inspiring     | Tactless     |
 
-### [](https://www.dndbeyond.com/sources/dnd/free-rules/creating-a-character#Step4ChooseanAlignment)Step 4: Choose an Alignment
+### Step 4: Choose an Alignment {#Step4ChooseanAlignment}
 
 Choose your character’s alignment from the options below, and note it on your character sheet.
 
 D&D assumes that player characters aren’t of an evil alignment. Check with your DM before making an evil character.
 
-#### [](https://www.dndbeyond.com/sources/dnd/free-rules/creating-a-character#TheNineAlignments)The Nine Alignments
+#### The Nine Alignments {#TheNineAlignments}
 
 A creature’s alignment broadly describes its ethical attitudes and ideals. Alignment is a combination of two factors: one identifies morality (good, evil, or neutral), and the other describes attitudes toward order (lawful, chaotic, or neutral).
 
@@ -356,11 +357,11 @@ Unaligned Creatures
 
 Most creatures that lack the capacity for rational thought don’t have alignments; they are unaligned. [Sharks](https://www.dndbeyond.com/monsters/4775838-reef-shark) are savage predators, for example, but they aren’t evil; they are unaligned.
 
-#### [](https://www.dndbeyond.com/sources/dnd/free-rules/creating-a-character#AlignmentandPersonality)Alignment and Personality
+#### Alignment and Personality {#AlignmentandPersonality}
 
 Alignment can shape a character’s personality, goals, and core beliefs. Looking at the two elements of an alignment, you can use the lists below to inspire details of your character’s personality.
 
-##### [](https://www.dndbeyond.com/sources/dnd/free-rules/creating-a-character#PersonalityTraitsbyAlignment)Personality Traits by Alignment
+##### Personality Traits by Alignment {#PersonalityTraitsbyAlignment}
 
 | Alignment | 1d4           | Associated Trait |
 | --------- | ------------- | ---------------- |
@@ -390,17 +391,17 @@ Alignment can shape a character’s personality, goals, and core beliefs. Lookin
 | 3         | Laconic       |
 | 4         | Pragmatic     |
 
-### [](https://www.dndbeyond.com/sources/dnd/free-rules/creating-a-character#Step5FillInDetails)Step 5: Fill In Details
+### Step 5: Fill In Details {#Step5FillInDetails}
 
 Now fill in the rest of your character sheet.
 
-#### [](https://www.dndbeyond.com/sources/dnd/free-rules/creating-a-character#RecordClassFeatures)Record Class Features
+#### Record Class Features {#RecordClassFeatures}
 
-Look at your class’s feature table in [chapter 3](https://www.dndbeyond.com/sources/dnd/free-rules/character-classes), and write down the level 1 features. The class features are detailed in that same chapter.
+Look at your class’s feature table in [chapter 3](/free-rules/character-classes), and write down the level 1 features. The class features are detailed in that same chapter.
 
 Some class features offer choices. Make sure to read all your features and make any offered choices.
 
-#### [](https://www.dndbeyond.com/sources/dnd/free-rules/creating-a-character#FillInNumbers)Fill In Numbers
+#### Fill In Numbers {#FillInNumbers}
 
 Note these numbers on your character sheet.
 
@@ -408,15 +409,15 @@ Note these numbers on your character sheet.
 
 **_Skills._** For skills you have proficiency in, add your Proficiency Bonus to the ability modifier associated with that skill, and note the total. You might also wish to note the modifier for skills you’re not proficient in, which is just the relevant ability modifier.
 
-**_Passive Perception._** Sometimes your DM will determine whether your character notices something without asking you to make a Wisdom ([Perception](https://www.dndbeyond.com/sources/dnd/free-rules/playing-the-game#Skills)) check; the DM uses your Passive Perception instead. Passive Perception is a score that reflects a general awareness of your surroundings when you’re not actively looking for something. Use this formula to determine your Passive Perception score:
+**_Passive Perception._** Sometimes your DM will determine whether your character notices something without asking you to make a Wisdom ([Perception](/free-rules/playing-the-game#Skills)) check; the DM uses your Passive Perception instead. Passive Perception is a score that reflects a general awareness of your surroundings when you’re not actively looking for something. Use this formula to determine your Passive Perception score:
 
-**Passive Perception** = 10 + Wisdom ([Perception](https://www.dndbeyond.com/sources/dnd/free-rules/playing-the-game#Skills)) check modifier
+**Passive Perception** = 10 + Wisdom ([Perception](/free-rules/playing-the-game#Skills)) check modifier
 
-Include all modifiers that apply to your Wisdom ([Perception](https://www.dndbeyond.com/sources/dnd/free-rules/playing-the-game#Skills)) checks. For example, if your character has a Wisdom of 15 and proficiency in the [Perception](https://www.dndbeyond.com/sources/dnd/free-rules/playing-the-game#Skills) skill, you have a Passive Perception of 14 (10 + 2 for your Wisdom modifier + 2 for proficiency).
+Include all modifiers that apply to your Wisdom ([Perception](/free-rules/playing-the-game#Skills)) checks. For example, if your character has a Wisdom of 15 and proficiency in the [Perception](/free-rules/playing-the-game#Skills) skill, you have a Passive Perception of 14 (10 + 2 for your Wisdom modifier + 2 for proficiency).
 
 **_Hit Points._** Your class and Constitution modifier determine your Hit Point maximum at level 1, as shown on the Level 1 Hit Points by Class table.
 
-##### [](https://www.dndbeyond.com/sources/dnd/free-rules/creating-a-character#Level1HitPointsbyClass)Level 1 Hit Points by Class
+##### Level 1 Hit Points by Class {#Level1HitPointsbyClass}
 
 | Class                                        | Hit Point Maximum  |
 | -------------------------------------------- | ------------------ |
@@ -425,13 +426,13 @@ Include all modifiers that apply to your Wisdom ([Perception](https://www.dndbey
 | Bard, Cleric, Druid, Monk, Rogue, or Warlock | 8 + Con. modifier  |
 | Sorcerer or Wizard                           | 6 + Con. modifier  |
 
-The character sheet includes room to note your current Hit Points when you take damage, as well as any [Temporary Hit Points](https://www.dndbeyond.com/sources/dnd/free-rules/rules-glossary#TemporaryHitPoints) you might gain. There’s also space to track [Death Saving Throws](https://www.dndbeyond.com/sources/dnd/free-rules/rules-glossary#DeathSavingThrow).
+The character sheet includes room to note your current Hit Points when you take damage, as well as any [Temporary Hit Points](/free-rules/rules-glossary#TemporaryHitPoints) you might gain. There’s also space to track [Death Saving Throws](/free-rules/rules-glossary#DeathSavingThrow).
 
 **_Hit Point Dice._** Your class’s description tells you the die type of your character’s Hit Point Dice (or Hit Dice for short); write this on your character sheet. At level 1, your character has 1 Hit Die. You can spend Hit Dice during a Short Rest to recover Hit Points. Your character sheet also includes space to note how many Hit Dice you’ve spent.
 
 **_Initiative._** Write your Dexterity modifier in the space for Initiative on your character sheet.
 
-**_Armor Class._** Without armor or a shield, your base [Armor Class](https://www.dndbeyond.com/sources/dnd/free-rules/rules-glossary#ArmorClass) is 10 plus your Dexterity modifier. If your starting equipment includes armor or a Shield (or both), calculate your AC using the rules in [chapter 6](https://www.dndbeyond.com/sources/dnd/free-rules/equipment#Armor). A class feature might give you a different way to calculate your AC.
+**_Armor Class._** Without armor or a shield, your base [Armor Class](/free-rules/rules-glossary#ArmorClass) is 10 plus your Dexterity modifier. If your starting equipment includes armor or a Shield (or both), calculate your AC using the rules in [chapter 6](/free-rules/equipment#Armor). A class feature might give you a different way to calculate your AC.
 
 **_Attacks._** In the Weapons & Damage Cantrips section of the character sheet, write your starting weapons. The attack roll bonus for a weapon with which you have proficiency is one of the following unless a weapon’s property says otherwise:
 
@@ -439,7 +440,7 @@ The character sheet includes room to note your current Hit Points when you take 
 
 **Ranged attack bonus** = Dexterity modifier + Proficiency Bonus
 
-Look up the damage and properties of your weapons in [chapter 6](https://www.dndbeyond.com/sources/dnd/free-rules/equipment#Weapons). You add the same ability modifier you use for attacks with a weapon to your damage rolls with that weapon.
+Look up the damage and properties of your weapons in [chapter 6](/free-rules/equipment#Weapons). You add the same ability modifier you use for attacks with a weapon to your damage rolls with that weapon.
 
 **_Spellcasting._** Note both the saving throw DC for your spells and the attack bonus for attacks you make with them, using these formulas:
 
@@ -451,11 +452,11 @@ Your spellcasting ability modifier for a spell is determined by whatever feature
 
 **_Spell Slots, Cantrips, and Prepared Spells._** If your class gives you the Spellcasting or Pact Magic feature, your class features table shows the number of spell slots you have available, how many cantrips you know, and how many spells you can prepare. Choose your cantrips and prepared spells, and note them—along with your number of spell slots—on your character sheet.
 
-#### [](https://www.dndbeyond.com/sources/dnd/free-rules/creating-a-character#NameYourCharacter)Name Your Character
+#### Name Your Character {#NameYourCharacter}
 
 Choose a name for your character, and write it on your character sheet. The name can be whatever you like. Was it the name of an ancestor? Does it have religious or other significance? Is it a name you chose for yourself?
 
-#### [](https://www.dndbeyond.com/sources/dnd/free-rules/creating-a-character#CreateFinalDetails)Create Final Details
+#### Create Final Details {#CreateFinalDetails}
 
 As you finish creating your character, consider whether you’d like to make up any other details about the character. Here are the sorts of things you might ask yourself as the character:
 
@@ -464,13 +465,13 @@ As you finish creating your character, consider whether you’d like to make up 
 - What’s your deepest fear?
 - On your adventures, will you seek knowledge, wealth, glory, enlightenment, justice, mercy, power, or something else?
 
-## [](https://www.dndbeyond.com/sources/dnd/free-rules/creating-a-character#LevelAdvancement)Level Advancement
+## Level Advancement {#LevelAdvancement}
 
-While going on adventures, your character gains experience, represented by [Experience Points](https://www.dndbeyond.com/sources/dnd/free-rules/rules-glossary#ExperiencePoints) (XP). A character who reaches a specified Experience Point total advances in capability. This advancement is called gaining a level.
+While going on adventures, your character gains experience, represented by [Experience Points](/free-rules/rules-glossary#ExperiencePoints) (XP). A character who reaches a specified Experience Point total advances in capability. This advancement is called gaining a level.
 
 The Character Advancement table lists the XP you need to advance to a level and the Proficiency Bonus for a character of that level. When your XP total equals or exceeds a number in the Experience Points column, you reach the corresponding level.
 
-### [](https://www.dndbeyond.com/sources/dnd/free-rules/creating-a-character#CharacterAdvancement)Character Advancement
+### Character Advancement {#CharacterAdvancement}
 
 | Level | Experience Points | Proficiency Bonus |
 | ----- | ----------------- | ----------------- |
@@ -495,14 +496,14 @@ The Character Advancement table lists the XP you need to advance to a level and 
 | 19    | 305,000           | +6                |
 | 20    | 355,000           | +6                |
 
-### [](https://www.dndbeyond.com/sources/dnd/free-rules/creating-a-character#GainingaLevel)Gaining a Level
+### Gaining a Level {#GainingaLevel}
 
 When you gain a level, follow these steps:
 
-1. **Choose a Class.** Most characters advance in the same class. However, you might decide to gain a level in another class using the rules in the “[Multiclassing](https://www.dndbeyond.com/sources/dnd/free-rules/creating-a-character#Multiclassing)” section later in this chapter.
+1. **Choose a Class.** Most characters advance in the same class. However, you might decide to gain a level in another class using the rules in the “[Multiclassing](/free-rules/creating-a-character#Multiclassing)” section later in this chapter.
 2. **Adjust Hit Points and Hit Point Dice.** Each time you gain a level, you gain an additional Hit Die. Roll that die, add your Constitution modifier to the roll, and add the total (minimum of 1) to your Hit Point maximum. Instead of rolling, you can use the fixed value shown in the Fixed Hit Points by Class table.
 
-#### [](https://www.dndbeyond.com/sources/dnd/free-rules/creating-a-character#FixedHitPointsbyClass)Fixed Hit Points by Class
+#### Fixed Hit Points by Class {#FixedHitPointsbyClass}
 
 | Class                                        | Hit Points per Level |
 | -------------------------------------------- | -------------------- |
@@ -511,49 +512,49 @@ When you gain a level, follow these steps:
 | Bard, Cleric, Druid, Monk, Rogue, or Warlock | 5 + Con. modifier    |
 | Sorcerer or Wizard                           | 4 + Con. modifier    |
 
-1. **Record New Class Features.** Look at your class features table in [chapter 3](https://www.dndbeyond.com/sources/dnd/free-rules/character-classes), and note the features you gain at your new level in that class. Make any choices offered by a new feature.
-2. **Adjust Proficiency Bonus.** A character’s Proficiency Bonus increases at certain levels, as shown in the [Character Advancement table](https://www.dndbeyond.com/sources/dnd/free-rules/creating-a-character#CharacterAdvancement) and your class features table in [chapter 3](https://www.dndbeyond.com/sources/dnd/free-rules/character-classes). When your Proficiency Bonus increases, increase all the numbers on your character sheet that include your Proficiency Bonus.
+1. **Record New Class Features.** Look at your class features table in [chapter 3](/free-rules/character-classes), and note the features you gain at your new level in that class. Make any choices offered by a new feature.
+2. **Adjust Proficiency Bonus.** A character’s Proficiency Bonus increases at certain levels, as shown in the [Character Advancement table](/free-rules/creating-a-character#CharacterAdvancement) and your class features table in [chapter 3](/free-rules/character-classes). When your Proficiency Bonus increases, increase all the numbers on your character sheet that include your Proficiency Bonus.
 3. **Adjust Ability Modifiers.** If you choose a feat that increases one or more of your ability scores, your ability modifier also changes if the new score is an even number. When that happens, adjust all the numbers on your character sheet that use that ability modifier. When your Constitution modifier increases by 1, your Hit Point maximum increases by 1 for each level you have attained. For example, if a character reaches level 8 and increases their Constitution score from 17 to 18, the Constitution modifier increases to +4. The character’s Hit Point maximum then increases by 8, in addition to the Hit Points gained for reaching level 8.
 
-### [](https://www.dndbeyond.com/sources/dnd/free-rules/creating-a-character#TiersofPlay)Tiers of Play
+### Tiers of Play {#TiersofPlay}
 
 With each new level, characters acquire new capabilities that equip them to handle greater challenges. As characters advance in level, the tone of the game also changes, and the stakes of the campaign get higher. It’s helpful to think of a character’s (and a campaign’s) arc in terms of four tiers of play, describing the journey from a level 1 character just beginning an adventuring career to the epic heights of level 20. These tiers don’t have any rules associated with them; they point to the fact that the play experience evolves as characters gain levels.
 
-#### [](https://www.dndbeyond.com/sources/dnd/free-rules/creating-a-character#Tier1Levels14)Tier 1 (Levels 1–4)
+#### Tier 1 (Levels 1–4) {#Tier1Levels14}
 
 In tier 1, characters are apprentice adventurers, though they are already set apart from the broader populace by virtue of their extraordinary abilities. They learn their starting class features and choose a subclass. The threats they face usually pose a danger to local farmsteads or villages.
 
-#### [](https://www.dndbeyond.com/sources/dnd/free-rules/creating-a-character#Tier2Levels510)Tier 2 (Levels 5–10)
+#### Tier 2 (Levels 5–10) {#Tier2Levels510}
 
 In tier 2, characters are full-fledged adventurers. Spellcasters gain iconic spells such as [Fireball](https://www.dndbeyond.com/spells/2618887-fireball), [Lightning Bolt](https://www.dndbeyond.com/spells/2618999-lightning-bolt), and [Raise Dead](https://www.dndbeyond.com/spells/2618922-raise-dead). Most weapon-focused classes gain the ability to make multiple attacks in a round. The characters now face dangers that threaten cities and kingdoms.
 
-#### [](https://www.dndbeyond.com/sources/dnd/free-rules/creating-a-character#Tier3Levels1116)Tier 3 (Levels 11–16)
+#### Tier 3 (Levels 11–16) {#Tier3Levels1116}
 
 In tier 3, characters have reached a level of power that makes them special among adventurers. At level 11, many spellcasters learn reality-altering spells. Other characters gain features that allow them to make more attacks or to do more impressive things with those attacks. These adventurers often confront threats to whole regions.
 
-#### [](https://www.dndbeyond.com/sources/dnd/free-rules/creating-a-character#Tier4Levels1720)Tier 4 (Levels 17–20)
+#### Tier 4 (Levels 17–20) {#Tier4Levels1720}
 
 At tier 4, characters achieve the pinnacle of their class features, becoming heroic archetypes. The fate of the world or even the order of the multiverse might hang in the balance during their adventures.
 
 Bonus Feats at Level 20
 
-A DM can use feats as a form of advancement after characters reach level 20 to provide greater power to characters who have no more levels to gain. With this approach, each character gains one feat of their choice for every 30,000 XP the character earns above 355,000 XP. [Epic Boon](https://www.dndbeyond.com/sources/dnd/free-rules/feats#EpicBoonFeats) feats are especially appropriate for these bonus feats, but a player can choose any feat for which their level 20 character qualifies.
+A DM can use feats as a form of advancement after characters reach level 20 to provide greater power to characters who have no more levels to gain. With this approach, each character gains one feat of their choice for every 30,000 XP the character earns above 355,000 XP. [Epic Boon](/free-rules/feats#EpicBoonFeats) feats are especially appropriate for these bonus feats, but a player can choose any feat for which their level 20 character qualifies.
 
-## [](https://www.dndbeyond.com/sources/dnd/free-rules/creating-a-character#StartingatHigherLevels)Starting at Higher Levels
+## Starting at Higher Levels {#StartingatHigherLevels}
 
 Your DM might start your group’s characters at a level higher than 1. It is particularly recommended to start at level 3 if your group is composed of seasoned D&D players.
 
-### [](https://www.dndbeyond.com/sources/dnd/free-rules/creating-a-character#CreatingYourCharacter)Creating Your Character
+### Creating Your Character {#CreatingYourCharacter}
 
-Creating a higher-level character uses the same character-creation steps outlined in this chapter and the rules for advancing beyond level 1 provided in the “[Level Advancement](https://www.dndbeyond.com/sources/dnd/free-rules/creating-a-character#LevelAdvancement)” section. You begin with the minimum amount of XP required to reach your starting level. For example, if the DM starts you at level 10, you have 64,000 XP.
+Creating a higher-level character uses the same character-creation steps outlined in this chapter and the rules for advancing beyond level 1 provided in the “[Level Advancement](/free-rules/creating-a-character#LevelAdvancement)” section. You begin with the minimum amount of XP required to reach your starting level. For example, if the DM starts you at level 10, you have 64,000 XP.
 
-### [](https://www.dndbeyond.com/sources/dnd/free-rules/creating-a-character#StartingEquipment)Starting Equipment
+### Starting Equipment {#StartingEquipment}
 
 The DM decides whether your character starts with more than the standard equipment for a level 1 character, possibly even one or more magic items. The Starting Equipment at Higher Levels table is a guide for the DM.
 
-Also, check with your DM about what equipment is available for you to buy with your starting money. For example, the firearms described in [chapter 6](https://www.dndbeyond.com/sources/dnd/free-rules/equipment#Weapons) are too expensive for level 1 characters, but they might be available for purchase if your DM allows them.
+Also, check with your DM about what equipment is available for you to buy with your starting money. For example, the firearms described in [chapter 6](/free-rules/equipment#Weapons) are too expensive for level 1 characters, but they might be available for purchase if your DM allows them.
 
-#### [](https://www.dndbeyond.com/sources/dnd/free-rules/creating-a-character#StartingEquipmentatHigherLevels)Starting Equipment at Higher Levels
+#### Starting Equipment at Higher Levels {#StartingEquipmentatHigherLevels}
 
 | Starting Level | Equipment and Money                                         | Magic Items                               |
 | -------------- | ----------------------------------------------------------- | ----------------------------------------- |
@@ -562,53 +563,53 @@ Also, check with your DM about what equipment is available for you to buy with y
 | 11–16          | 5,000 gp plus 1d10 × 250 GP plus normal starting equipment  | 2 Common, 3 Uncommon, 1 Rare              |
 | 17–20          | 20,000 GP plus 1d10 × 250 GP plus normal starting equipment | 2 Common, 4 Uncommon, 3 Rare, 1 Very Rare |
 
-## [](https://www.dndbeyond.com/sources/dnd/free-rules/creating-a-character#Multiclassing)Multiclassing
+## Multiclassing {#Multiclassing}
 
 Multiclassing allows you to gain levels in multiple classes. With this rule, you have the option of gaining a level in a new class whenever you advance in level instead of gaining a level in your current class. Doing so lets you mix the abilities of those classes to realize a character concept that might not be reflected in a single class.
 
-### [](https://www.dndbeyond.com/sources/dnd/free-rules/creating-a-character#Prerequisites)Prerequisites
+### Prerequisites {#Prerequisites}
 
 To qualify for a new class, you must have a score of at least 13 in the primary ability of the new class and your current classes. For example, a Barbarian who decides to multiclass into the Druid class must have Strength and Wisdom scores of 13 or higher, since Strength is the primary ability for Barbarians and Wisdom is the primary ability for Druids.
 
-### [](https://www.dndbeyond.com/sources/dnd/free-rules/creating-a-character#ExperiencePoints)Experience Points
+### Experience Points {#ExperiencePoints}
 
-The Experience Point cost to gain a level is based on your total character level, not your level in a particular class, as shown in the [Character Advancement table](https://www.dndbeyond.com/sources/dnd/free-rules/creating-a-character#CharacterAdvancement) in this chapter. For example, if you are a level 6 Cleric / level 1 Fighter, you must gain enough XP to reach level 8 before you can take your second level as a Fighter or your seventh level as a Cleric.
+The Experience Point cost to gain a level is based on your total character level, not your level in a particular class, as shown in the [Character Advancement table](/free-rules/creating-a-character#CharacterAdvancement) in this chapter. For example, if you are a level 6 Cleric / level 1 Fighter, you must gain enough XP to reach level 8 before you can take your second level as a Fighter or your seventh level as a Cleric.
 
-### [](https://www.dndbeyond.com/sources/dnd/free-rules/creating-a-character#HitPointsandHitPointDice)Hit Points and Hit Point Dice
+### Hit Points and Hit Point Dice {#HitPointsandHitPointDice}
 
 You gain the Hit Points from your new class as described for levels after 1. You gain the level 1 Hit Points for a class only when your total character level is 1.
 
 Add together the Hit Dice granted by all your classes to form your pool of Hit Dice. If these dice are the same die type, you can pool them together. For example, both the Fighter and the Paladin have a d10 Hit Die, so if you are a level 5 Fighter / level 5 Paladin, you have ten d10 Hit Dice. If your classes give you Hit Dice of different types, track them separately. If you are a level 5 Cleric / level 5 Paladin, for example, you have five d8 Hit Dice and five d10 Hit Dice.
 
-### [](https://www.dndbeyond.com/sources/dnd/free-rules/creating-a-character#ProficiencyBonus)Proficiency Bonus
+### Proficiency Bonus {#ProficiencyBonus}
 
-Your Proficiency Bonus is based on your total character level, not your level in a particular class, as shown in the [Character Advancement table](https://www.dndbeyond.com/sources/dnd/free-rules/creating-a-character#CharacterAdvancement). For example, if you are a level 3 Fighter / level 2 Rogue, you have the Proficiency Bonus of a level 5 character, which is +3.
+Your Proficiency Bonus is based on your total character level, not your level in a particular class, as shown in the [Character Advancement table](/free-rules/creating-a-character#CharacterAdvancement). For example, if you are a level 3 Fighter / level 2 Rogue, you have the Proficiency Bonus of a level 5 character, which is +3.
 
-### [](https://www.dndbeyond.com/sources/dnd/free-rules/creating-a-character#Proficiencies)Proficiencies
+### Proficiencies {#Proficiencies}
 
-When you gain your first level in a class other than your initial class, you gain only some of the new class’s starting proficiencies, as detailed in each class’s description in [chapter 3](https://www.dndbeyond.com/sources/dnd/free-rules/character-classes).
+When you gain your first level in a class other than your initial class, you gain only some of the new class’s starting proficiencies, as detailed in each class’s description in [chapter 3](/free-rules/character-classes).
 
-### [](https://www.dndbeyond.com/sources/dnd/free-rules/creating-a-character#ClassFeatures)Class Features
+### Class Features {#ClassFeatures}
 
 When you gain a new level in a class, you get its features for that level. A few features have additional rules when you’re multiclassing. Check the information about multiclassing included in each of your classes’ descriptions.
 
 Special rules apply to Extra Attack, Spellcasting, and features (such as Unarmored Defense) that give you alternative ways to calculate your Armor Class.
 
-#### [](https://www.dndbeyond.com/sources/dnd/free-rules/creating-a-character#ArmorClass)Armor Class
+#### Armor Class {#ArmorClass}
 
-If you have multiple ways to calculate your [Armor Class](https://www.dndbeyond.com/sources/dnd/free-rules/rules-glossary#ArmorClass), you can benefit from only one at a time. For example, a Monk/Sorcerer with a Monk’s Unarmored Defense feature and a Sorcerer’s Draconic Resilience feature must choose only one of those features as a way to calculate Armor Class.
+If you have multiple ways to calculate your [Armor Class](/free-rules/rules-glossary#ArmorClass), you can benefit from only one at a time. For example, a Monk/Sorcerer with a Monk’s Unarmored Defense feature and a Sorcerer’s Draconic Resilience feature must choose only one of those features as a way to calculate Armor Class.
 
-#### [](https://www.dndbeyond.com/sources/dnd/free-rules/creating-a-character#ExtraAttack)Extra Attack
+#### Extra Attack {#ExtraAttack}
 
 If you gain the Extra Attack feature from more than one class, the features don’t stack. You can’t make more than two attacks with this feature unless you have a feature that says you can (such as the Fighter’s Two Extra Attacks feature).
 
 Similarly, the Warlock’s Thirsting Blade invocation, which grants you the Extra Attack feature with your pact weapon, doesn’t give you additional attacks if you also have Extra Attack.
 
-#### [](https://www.dndbeyond.com/sources/dnd/free-rules/creating-a-character#Spellcasting)Spellcasting
+#### Spellcasting {#Spellcasting}
 
 Your capacity for spellcasting depends partly on your combined levels in all your spellcasting classes and partly on your individual levels in those classes. Once you have the Spellcasting feature from more than one class, use the rules below. If you multiclass but have the Spellcasting feature from only one class, follow the rules for that class.
 
-##### [](https://www.dndbeyond.com/sources/dnd/free-rules/creating-a-character#MulticlassSpellcasterSpellSlotsperSpellLevel)Multiclass Spellcaster: Spell Slots per Spell Level
+##### Multiclass Spellcaster: Spell Slots per Spell Level {#MulticlassSpellcasterSpellSlotsperSpellLevel}
 
 | Level | 1   | 2   | 3   | 4   | 5   | 6   | 7   | 8   | 9   |
 | ----- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
@@ -653,11 +654,11 @@ For example, if you are a level 4 Ranger / level 3 Sorcerer, you count as a leve
 
 **_Pact Magic._** If you have the Pact Magic feature from the Warlock class and the Spellcasting feature, you can use the spell slots you gain from Pact Magic to cast spells you have prepared from classes with the Spellcasting feature, and you can use the spell slots you gain from the Spellcasting feature to cast Warlock spells you have prepared.
 
-## [](https://www.dndbeyond.com/sources/dnd/free-rules/creating-a-character#Trinkets)Trinkets
+## Trinkets {#Trinkets}
 
 When you make your character, you can roll once on the Trinkets table to gain a Tiny trinket, a simple item lightly touched by mystery. The DM might also use this table. It can help stock a room in a dungeon or fill a creature’s pockets.
 
-### [](https://www.dndbeyond.com/sources/dnd/free-rules/creating-a-character#TrinketsTable)Trinkets
+### Trinkets {#TrinketsTable}
 
 | 1d100 | Trinket                                                                                                                 |
 | ----- | ----------------------------------------------------------------------------------------------------------------------- |

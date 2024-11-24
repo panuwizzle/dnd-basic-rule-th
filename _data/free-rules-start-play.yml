@@ -1,0 +1,159 @@
+- name: Playing the Game
+  url: /free-rules/playing-the-game
+  children:
+    - name: Player or DM?
+      url: /free-rules/playing-the-game#PlayerorDM
+    - name: Rhythm of Play
+      url: /free-rules/playing-the-game#RhythmofPlay
+    - name: An Ongoing Game
+      url: /free-rules/playing-the-game#AnOngoingGame
+    - name: Dice
+      url: /free-rules/playing-the-game#Dice
+    - name: The Six Abilities
+      url: /free-rules/playing-the-game#TheSixAbilities
+    - name: D20 Tests
+      url: /free-rules/playing-the-game#D20Tests
+    - name: Proficiency
+      url: /free-rules/playing-the-game#Proficiency
+    - name: Actions
+      url: /free-rules/playing-the-game#Actions
+    - name: Social Interaction
+      url: /free-rules/playing-the-game#SocialInteraction
+    - name: Exploration
+      url: /free-rules/playing-the-game#Exploration
+    - name: Combat
+      url: /free-rules/playing-the-game#Combat
+    - name: Damage and Healing
+      url: /free-rules/playing-the-game#DamageandHealing
+    - name: Conditions
+      url: /free-rules/playing-the-game#Conditions
+
+- name: Creating a Character
+  url: /free-rules/creating-a-character
+  children:
+    - name: Get Ready
+      url: /free-rules/creating-a-character#GetReady
+    - name: Create Your Character
+      url: /free-rules/creating-a-character#CreateYourCharacter
+    - name: Level Advancement
+      url: /free-rules/creating-a-character#LevelAdvancement
+    - name: Starting at Higher Levels
+      url: /free-rules/creating-a-character#StartingatHigherLevels
+    - name: Multiclassing
+      url: /free-rules/creating-a-character#Multiclassing
+    - name: Trinkets
+      url: /free-rules/creating-a-character#Trinkets
+
+- name: Character Classes
+  url: /free-rules/character-classes
+  children:
+    - name: Barbarian
+      url: /free-rules/character-classes#Barbarian
+    - name: Bard
+      url: /free-rules/character-classes#Bard
+    - name: Cleric
+      url: /free-rules/character-classes#Cleric
+    - name: Druid
+      url: /free-rules/character-classes#Druid
+    - name: Fighter
+      url: /free-rules/character-classes#Fighter
+    - name: Monk
+      url: /free-rules/character-classes#Monk
+    - name: Paladin
+      url: /free-rules/character-classes#Paladin
+    - name: Ranger
+      url: /free-rules/character-classes#Ranger
+    - name: Rogue
+      url: /free-rules/character-classes#Rogue
+    - name: Sorcerer
+      url: /free-rules/character-classes#Sorcerer
+    - name: Warlock
+      url: /free-rules/character-classes#Warlock
+    - name: Wizard
+      url: /free-rules/character-classes#Wizard
+
+- name: Character Origins
+  url: /free-rules/character-origins
+  children:
+    - name: Origin Components
+      url: /free-rules/character-origins#OriginComponents
+    - name: Background Descriptions
+      url: /free-rules/character-origins#BackgroundDescriptions
+    - name: Acolyte
+      url: /free-rules/character-origins#Acolyte
+    - name: Criminal
+      url: /free-rules/character-origins#Criminal
+    - name: Sage
+      url: /free-rules/character-origins#Sage
+    - name: Soldier
+      url: /free-rules/character-origins#Soldier
+    - name: Species Descriptions
+      url: /free-rules/character-origins#SpeciesDescriptions
+    - name: Dwarf
+      url: /free-rules/character-origins#Dwarf
+    - name: Elf
+      url: /free-rules/character-origins#Elf
+    - name: Halfling
+      url: /free-rules/character-origins#Halfling
+    - name: Human
+      url: /free-rules/character-origins#Human
+
+- name: Feats
+  url: /free-rules/feats
+  children:
+    - name: Feat Descriptions
+      url: /free-rules/feats#FeatDescriptions
+    - name: Origin Feats
+      url: /free-rules/feats#OriginFeats
+    - name: General Feats
+      url: /free-rules/feats#GeneralFeats
+    - name: Fighting Style Feats
+      url: /free-rules/feats#FightingStyleFeats
+    - name: Epic Boon Feats
+      url: /free-rules/feats#EpicBoonFeats
+
+- name: Equipment
+  url: /free-rules/equipment
+  children:
+    - name: Coins
+      url: /free-rules/equipment#Coins
+    - name: Weapons
+      url: /free-rules/equipment#Weapons
+    - name: Mastery Properties
+      url: /free-rules/equipment#MasteryProperties
+    - name: Armor
+      url: /free-rules/equipment#Armor
+    - name: Tools
+      url: /free-rules/equipment#Tools
+    - name: Adventuring Gear
+      url: /free-rules/equipment#AdventuringGear
+    - name: Mounts and Vehicles
+      url: /free-rules/equipment#MountsandVehicles
+    - name: Services
+      url: /free-rules/equipment#Services
+    - name: Magic Items
+      url: /free-rules/equipment#MagicItems
+    - name: Crafting Equipment
+      url: /free-rules/equipment#CraftingEquipment
+
+- name: Spells
+  url: /free-rules/spells
+  children:
+    - name: Gaining Spells
+      url: /free-rules/spells#GainingSpells
+    - name: Casting Spells
+      url: /free-rules/spells#CastingSpells
+    - name: Spell Descriptions
+      url: /free-rules/spell-descriptions
+
+- name: Creature Stat Blocks
+  url: /free-rules/creature-stat-blocks
+
+- name: Rules Glossary
+  url: /free-rules/rules-glossary
+
+- name: Credits
+  url: /free-rules/credits#PlayersHandbookCredits
+
+- name: Download Character Sheet
+  url: https://media.dndbeyond.com/compendium-images/free-rules/ph/character-sheet.pdf
