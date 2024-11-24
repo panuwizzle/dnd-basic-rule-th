@@ -10,7 +10,7 @@
   icon: fa fa-book
   child: 
     - name: free-rules
-      title: กฏฟรี (2014)
+      title: กฏฟรี (2024)
       url: /free-rules
       icon: fa fa-book
     - name: basic-rules
