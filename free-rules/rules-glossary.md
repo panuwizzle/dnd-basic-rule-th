@@ -479,8 +479,6 @@ A Cylinder is an [area of effect](/free-rules/rules-glossary#AreaofEffect) tha
 
 A Cylinder’s point of origin is included in the area of effect.
 
-NOOR RAHMAN[![](https://media.dndbeyond.com/compendium-images/phb/MKDHZ1nxSXDDLOw2/12-002.planescape-border.png)](https://media.dndbeyond.com/compendium-images/phb/MKDHZ1nxSXDDLOw2/12-002.planescape-border.png)
-
 ---
 
 ### D20 Test {#D20Test}
@@ -914,8 +912,6 @@ While you have the Invisible condition, you experience the following effects.
 **_Concealed._** You aren’t affected by any effect that requires its target to be seen unless the effect’s creator can somehow see you. Any equipment you are wearing or carrying is also concealed.
 
 **_Attacks Affected._** Attack rolls against you have [Disadvantage](/free-rules/rules-glossary#Disadvantage), and your attack rolls have Advantage. If a creature can somehow see you, you don’t gain this benefit against that creature.
-
-NOOR RAHMAN[![](https://media.dndbeyond.com/compendium-images/phb/MKDHZ1nxSXDDLOw2/12-003.urban-border.png)](https://media.dndbeyond.com/compendium-images/phb/MKDHZ1nxSXDDLOw2/12-003.urban-border.png)
 
 ---
 

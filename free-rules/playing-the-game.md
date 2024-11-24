@@ -4,55 +4,55 @@ title: Playing the Game
 menu: free-rules-start-play
 ---
 
-# Playing the Game
+# เริ่มเล่นเกม
 
-Imagination is a key ingredient of Dungeons & Dragons, a cooperative game in which the characters that you roleplay embark on adventures together in fantasy worlds filled with monsters and magic.
+จินตนาการเป็นกุญแจสำคัญในการเล่นดันเจียนแอนด์ดราก้อน เกมที่ตัวละครที่คุณสวมบทบาทจะร่วมมือกันออกผจญภัยไปด้วยกันในโลกแฟนตาซีที่เต็มไปด้วยมอนสเตอร์และเวทย์มนต์
 
-In D&D, the action takes place in the imaginations of the players, and it’s narrated by everyone together.
+ใน D&D แอ็คชันต่าง ๆ จะเกิดขึ้นในจินตนาการของผู้เล่น และถูกเล่าออกมาโดยทุกคนร่วมกัน
 
-Rules Glossary
+> **รายการกฏ (Rules Glossary)**
+>
+> ถ้าคุณอ่านกฏในหนังสือเล่มนี้และต้องการทราบถึงนิยามของมัน คุณสามารถดูได้ในรายการกฏ ที่อยู่ใน[ภาคผนวก C](/free-rules/rules-glossary) ในบทนี้จะเป็นข้อมูลทั่วไปในการเล่น D&D และเน้นไปที่ภาพใหญ่ หลายจุดในบทนี้จะอ้างอิงกับรายการดังกล่าว
 
-If you read a rules term in this book and want to know its definition, consult the rules glossary, which is [appendix C](/free-rules/rules-glossary). This chapter provides an overview of how to play D&D and focuses on the big picture. Many places in this chapter reference that glossary.
+## เป็นผู้เล่นหรือ DM? {#PlayerorDM}
 
-## Player or DM? {#PlayerorDM}
+ในการจะเล่น D&D ต้องมีคนหนึ่งเป็นดันเจียนมาสเตอร์ (Dungeon Master) และเหล่าผู้เล่น (สามถึงหกคนกำลังดี) ในการออกผจญภัย บทบาทไหนที่เหมาะกับคุณ
 
-To play D&D, you need one person to be the Dungeon Master and other players (three to six are best) to play adventurers. Which role is right for you?
+### เป็นผู้เล่น (Player) {#BeingaPlayer}
 
-### Being a Player {#BeingaPlayer}
+ถ้าคุณต้องการเป็นหนึ่งในตัวเอกในกลุ่มนักผจญภัยของคุณ ให้พิจารณาเป็นผู้เล่น นี่คือสิ่งที่ผู้เล่นจะได้ทำ:
 
-If you want to be one of the protagonists in your group’s adventures, consider being a player. Here’s what players do:
+**สร้างตัวละคร** ตัวละครที่คุณสร้างจะเป็นตัวแทนของคุณในโลกแฟนตาซีของเกม หลังจากคุณอ่างบทนี้แล้ว ใช้กฏใน[บทที่ 2](/free-rules/creating-a-character) ในการสร้างตัวละครของคุณ
 
-**Make a Character.** Your character is your alter ego in the fantasy world of the game. After you read this chapter, use the rules in [chapter 2](/free-rules/creating-a-character) to create your character.
+**รวมทีม** ตัวละครของคุณจะร่วมกับผู้เล่นอื่นรวมตัวกันเป็นปาร์ตี้ผจญภัย นักผจญภัยเหล่านี้จะเป็นพันธมิตรกันเพื่อเผชิญหน้ากับความท้าทายและสถานการณ์เหนือจินตนาการไปด้วยกัน ตัวละครแต่ละคนจะมีความสามารถที่แตกต่างกัน ซึ่งจะส่งเสริมกันและกันกับตัวละครอื่น
 
-**Team Up.** Your character joins the other players’ characters to form an adventuring party. These adventurers are allies who face challenges and fantastical situations together. Each character brings distinctive capabilities, which ideally complement those of the other characters.
+**ออกผจญภัย** กลุ่มนักผจญภัยของคุณจะออกสำรวจสถานที่และเหตุการณ์ต่าง ๆ ที่ถูกนำเสนอโดย DM คุณสามารถจะตอบสนองต่อสิ่งต่าง ๆ แบบใดก็ได้ตามแต่จินตนาการของคุณ โดยใช้กฏในเล่มนี้เป็นตัวนำทาง แม้ว่า DM จะเป็นผู้ควบคุมมอนสเตอร์ทั้งหมดที่คุณจะได้เจอ แต่ DM ก็ไม่ได้เป็นศัตรูของคุณ DM จะนำทางปาร์ตี้ของคุณไปในเส้นทางการผจญภัยที่จะทำให้ตัวละครของพวกคุณแข็งแกร่งขึ้น
 
-**Venture Forth.** Your character’s group explores locations and events presented by the DM. You can respond to them in any way you can imagine, guided by the rules in this book. Although the DM controls all the monsters you encounter, the DM isn’t your adversary. The DM guides your party’s journey as your characters become more powerful.
+### เป็นดันเจียนมาสเตอร์ (DM) {#BeingtheDungeonMaster}
 
-### Being the Dungeon Master {#BeingtheDungeonMaster}
+ถ้าคุณต้องการเป็นผู้ควบคุมความเป็นไปของเกม ลองเลือกเป็น DM และนี่คือสิ่งที่ DM จะได้ทำ
 
-If you want to be the mastermind of the game, consider being the DM. Here’s what DMs do:
+**สร้างการผจญภัย** คุณจะเตรียมการผจญภัยที่เหล่าผู้เล่นจะได้เล่น ใน _คู่มือดันเจียนมาสเตอร์_ จะมีคำแนะนำสำหรับการสร้างการผจญภัยและแม้กระทั่งสร้างทั้งโลก
 
-**Build Adventures.** You prepare the adventures that the players experience. In the *Dungeon Master’s Guide*, you’ll find advice for how to create adventures and even whole worlds.
+**เป็นผู้บรรยายเรื่องราว** คุณจะบรรยายกิจกรรมส่วนใหญ่ในระหว่างการเล่น อธิบายรายละเอียดสถานที่และสิ่งมีชีวิตที่นักผจญภัยจะได้พบ ผู้เล่นจะตัดสินใจว่าตัวละครของพวกเขาจะทำอะไรในขณะที่พวกเขาเดินทางไปในพื้นที่อันตราย ต่อมาคุณจะใช้จินตนาการและกฏของเกมในการตัดสินผลจากการตัดสินใจของนักผจญภัย
 
-**Guide the Story.** You narrate much of the action during play, describing locations and creatures that the adventurers face. The players decide what their characters do as they navigate hazards and choose what to explore. Then you use a combination of imagination and the game’s rules to determine the results of the adventurers’ decisions.
+**ตัดสินกฏ** คุณจะคอยดูแลการใช้กฏระหว่างเล่น ให้แน่ใจว่ากฏนั้นทำให้กลุ่มสนุก ในบทนี้คุณจะได้อ่านกฏเหล่านั้น และคุณสามารถอ่านเพิ่มเติมได้ใน [รายการกฏ](/free-rules/rules-glossary)
 
-**Adjudicate the Rules.** You oversee how the group uses the game’s rules, making sure the rules serve the group’s fun. You’ll want to read the rest of this chapter to understand those rules, and you’ll find the [rules glossary](/free-rules/rules-glossary) essential.
+## จังหวะในการเล่น {#RhythmofPlay}
 
-## Rhythm of Play {#RhythmofPlay}
+สามเสาหลักในการเล่น D&D คือ [ปฏิสัมพันธ์ทางสังคม](/free-rules/playing-the-game#SocialInteraction), [การสำรวจ](/free-rules/playing-the-game#Exploration), และ [การต่อสู้](/free-rules/playing-the-game#Combat) ไม่ว่าสิ่งไหนที่คุณกำลังเผชิญอยู่จะอยู่ในแพทเทิน 3 ข้อดังนี้
 
-The three main pillars of D&D play are [social interaction](/free-rules/playing-the-game#SocialInteraction), [exploration](/free-rules/playing-the-game#Exploration), and [combat](/free-rules/playing-the-game#Combat). Whichever one you’re experiencing, the game unfolds according to this basic pattern:
+1. **ดันเจียนมาสเตอร์อธิบายฉาก** DM จะบอกผู้เล่นว่านักผจญภัยของพวกเขาอยู่ที่ไหนและมีสิ่งใดอยู่ล้อมรอบพวกเขา (เช่นมีประตูกี่บานที่เปิดออกจากห้องได้ มีอะไรอยู่บนโต๊ะ และอื่น ๆ)
+2. **ผู้เช่นจะอธิบายว่าตัวละครของพวกเขาจะทำอะไร** โดยปกติแล้ว ตัวละครจะอยู่ด้วยกันในขณะที่เดินทางในดันเจียนหรือสิ่งแวดล้อมอื่น บางครั้งนักผจญภัยก็ทำสิ่งที่ต่างกันไป: นักผจญภัยคนหนึ่งอาจจะค้นหาหีบสมบัติในขณะที่อีกคนไปสำรวจสัญลักษณ์ประหลาดที่สลักไว้บนกำแพง และคนที่สามคอยดูลาดเลามอนสเตอร์ ภายนอกการต่อสู้ DM จะทำให้แน่ใจว่าทุกตัวละครจะมีโอกาสในการแสดงบทบาทและตัดสินใจว่าจะทำอะไร ภายในการต่อสู้ ตัวละครจะทำกิจกรรมผ่านเทิร์นของตัวเอง
+3. **DM บรรยายผลจากการกระทำของนักผจญภัย** บางครั้งสิ่งที่นักผจญภัยทำก็เป็นงานง่าย ถ้านักผจญภัยเดินเข้าห้องและพยายามเปิดประตู DM อาจจะบอกว่าประตูเปิดออกและบรรยายถึงสิ่งที่อยู่หลังประตูนั้น แต่ประตูอาจจะล็อคอยู่ ที่พื้นก็อาจจะมีกับดัก หรืออาจจะมีสถานการณ์อื่นที่เพิ่มความท้าทายให้งานที่นักผจญภัยจะทำให้สำเร็จ ในเคสเหล่านั้น DM อาจจะขอให้ผู้เล่นทอยลูกเต๋าเพื่อช่วยตัดสินว่าอะไรจะเกิดขึ้น การอธิบายผลลัพท์ที่ได้มักจะนำไปสู่จุดที่ต้องตัดสินใจต่อไป ซึ่งจะทำให้เกมวนไปที่ข้อ 1
 
-1. **The Dungeon Master Describes a Scene.** The DM tells the players where their adventurers are and what’s around them (how many doors lead out of a room, what’s on a table, and so on).
-2. **The Players Describe What Their Characters Do.** Typically, the characters stick together as they travel through a dungeon or another environment. Sometimes different adventurers do different things: one adventurer might search a treasure chest while a second examines a mysterious symbol engraved on a wall and a third keeps watch for monsters. Outside combat, the DM ensures that every character has a chance to act and decides how to resolve their activity. In combat, the characters take turns.
-3. **The DM Narrates the Results of the Adventurers’ Actions.** Sometimes resolving a task is easy. If an adventurer walks across a room and tries to open a door, the DM might say the door opens and describe what lies beyond. But the door might be locked, the floor might hide a trap, or some other circumstance might make it challenging for an adventurer to complete a task. In those cases, the DM might ask the player to roll a die to help determine what happens. Describing the results often leads to another decision point, which brings the game back to step 1.
+แพทเทินนี้จะเกิดขึ้นในทุก ๆ เซสชันเกม (ช่วงเวลาแต่ละครั้งที่คุณนั่งเล่น D&D กัน) ไม่ว่านักผจญภัยจะพูดคุยกับขุนนาง, สำรวจซากโบราณสถาน หรือสู้กับมังกร ในบางสถานการณ์ โดยเฉพาะช่วงต่อสู้ แอ็คชันต่าง ๆ จะมีโครงสร้างที่ชัดเจน และทุกคนจะเล่นเป็นเทิร์น
 
-This pattern holds during every game session (each time you sit down to play D&D), whether the adventurers are talking to a noble, exploring a ruin, or fighting a dragon. In certain situations—particularly combat—the action is more structured, and everyone takes turns.
-
-Exceptions Supersede General Rules
-
-General rules govern each part of the game. For example, the combat rules tell you that melee attacks use Strength and ranged attacks use Dexterity. That’s a general rule, and a general rule is in effect as long as something in the game doesn’t explicitly say otherwise.
-
-The game also includes elements—class features, feats, weapon properties, spells, magic items, monster abilities, and the like—that sometimes contradict a general rule. When an exception and a general rule disagree, the exception wins. For example, if a feature says you can make melee attacks using your Charisma, you can do so, even though that statement disagrees with the general rule.
+> **ให้กฏเฉพาะอยู่เหนือกว่ากฏทั่วไป**
+>
+> กฏทั่วไปจะคอยควบคุมทุกส่วนของเกม ตัวอย่างเช่น กฏการต่อสู้ที่จะบอกคุณว่าการโจมตีประชิดตัวจะใช้ความแข็งแกร่ง (Strength) และการโจมตีระยะไกลจะใช้ความคล่องแคล่ว (Dexterity) นั่นเป็นกฏทั่วไป และจะมีผลไปตลอดเกมหากไม่มีกฏอะไรบอกว่าเป็นอย่างอื่น
+>
+> ภายในเกมยังมีส่วนเพิ่มเติมอื่น เช่น ความสามารถของคลาส, คุณลักษณะ, คุณสมบัติของอาวุธ, คาถา, ไอเท็มเวทย์มนต์, ความสามารถของมอนสเตอร์ และอื่น ๆ ซึ่งบางครั้งให้ผลขัดแย้งกับกฏทั่วไป เมื่อกฏเฉพาะและกฏทั่วไปขัดแย้งกัน ให้กฏเฉพาะเป็นฝ่ายชนะ ตัวอย่างเช่น ถ้าความสามารถคลาสบอกว่าคุณสามารถโจมตีระยะประชิดโดยใช้ค่าเสน่ห์ (Charisma) ได้ คุณก็สามารถทำได้ แม้ว่าจะขัดแย้งกับกฏทั่วไป
 
 ## An Ongoing Game {#AnOngoingGame}
 
