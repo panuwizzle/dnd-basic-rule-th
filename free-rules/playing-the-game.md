@@ -54,144 +54,142 @@ menu: free-rules-start-play
 >
 > ภายในเกมยังมีส่วนเพิ่มเติมอื่น เช่น ความสามารถของคลาส, คุณลักษณะ, คุณสมบัติของอาวุธ, คาถา, ไอเท็มเวทย์มนต์, ความสามารถของมอนสเตอร์ และอื่น ๆ ซึ่งบางครั้งให้ผลขัดแย้งกับกฏทั่วไป เมื่อกฏเฉพาะและกฏทั่วไปขัดแย้งกัน ให้กฏเฉพาะเป็นฝ่ายชนะ ตัวอย่างเช่น ถ้าความสามารถคลาสบอกว่าคุณสามารถโจมตีระยะประชิดโดยใช้ค่าเสน่ห์ (Charisma) ได้ คุณก็สามารถทำได้ แม้ว่าจะขัดแย้งกับกฏทั่วไป
 
-## An Ongoing Game {#AnOngoingGame}
+## เกมที่กำลังดำเนินอยู่ {#AnOngoingGame}
 
-Sometimes a session of D&D is a complete game in itself (often called a “one-shot”), where you play a short adventure that lasts for just one session. More often, though, D&D sessions are connected in a longer adventure that takes several sessions to complete, and adventures can be strung together into a larger narrative called a campaign.
+บางครั้งการเล่นเกมครั้งหนึ่งหรือที่เรียกว่า เซสชัน ใน D&D นั้น ก็จบภายในครั้งเดียว (มักเรียกว่า วันช็อต "one-shot") ซึ่งคุณจะได้เล่นการผจญภัยแบบสั้นจบได้ภายในการเล่น 1 ครั้ง แต่โดยส่วนใหญ่แล้วการเล่น D&D มักจะเล่นกันหลายเซสชันเรื่องราวต่อเนื่องกันเป็นการผจญภัยยาวนาน เล่นกันหลายเซสชันกว่าจะจบเรื่อง และนักผจญภัยสามารถร่วมกันผจญภัยไปด้วยกันในเรื่องราวขนาดใหญ่ซึ่งเราเรียกว่าแคมเปญ (campaign)
 
-A campaign is like a TV series, while an adventure is like a season of the series. And a game session is like a single episode—it might be self-contained, but it usually links to the larger plot if there is one.
+แคมเปญมีลักษณะคล้ายกับทีวีซีรี่ส์ โดยมีการผจญภัยที่เป็นเหมือนซีซันของซี่รี่ส์นั้น และหนึ่งเซสชันเกมเป็นเหมือนหนึ่งตอนในซีซัน ซึ่งมักจะจบในตอนแต่ก็มีเรื่องราวต่อเนื่องและผูกโยงกับพล็อตเรื่องที่ใหญ่กว่า
 
-### Adventures {#Adventures}
+### การผจญภัย {#Adventures}
 
-An adventure might be created by the Dungeon Master or purchased (the examples of play in this chapter are inspired by a published adventure, [Curse of Strahd](https://www.dndbeyond.com/sources/dnd/cos)). In either case, an adventure features a fantastic setting, such as an underground dungeon, a wondrous wilderness, or a magic-filled city. It includes a cast of nonplayer characters controlled by the DM. Often one of the NPCs is a villain whose agenda drives much of an adventure’s action.
+การผจญภัยอาจจะถูกสร้างขึ้นโดยดันเจียนมาสเตอร์หรือซื้อมา (ตัวอย่างการเล่นในบทนี้ได้แรงบันดาลใจมาจากการผจญภัยเล่มสำเร็จ [คำสาปแห่งสตราห์ด](https://www.dndbeyond.com/sources/dnd/cos)) ทั้งสองกรณี การผจญภัยก็จะมีฉากทัศน์ที่เหนือจินตนาการ เช่นดันเจียนใต้ดิน ดินแดนป่าพงวิจิตรพิศดาล หรือเมืองเวทย์มนต์ จะมีตัวละครที่ไม่ใช่ผู้เล่นที่ควบคุมโดน DM และมักจะมี NPC คนหนึ่งที่เป็นตัวร้ายมีวาระซ่อนเร้นที่ผลักดันให้นักผจญภัยต้องเข้าร่วมการผจญภัย
 
-During an adventure, the adventurers explore environments, events, and creatures presented by the DM. Battles, traps, negotiations, mysteries, and more arise during these explorations.
+ระหว่างการผจญภัย นักผจญภัยจะออกสำรวจสิ่งแวดล้อม เหตุการณ์ และสิ่งมีชีวิตที่ DM นำเสนอ มีการต่อสู้ กับดัก การเจรจาต่อรอง ความลึกลับ และสิ่งอื่น ๆ ระหว่างการสำรวจนั้น
 
-Adventures vary in length and complexity. A short adventure might present only a few challenges and take only one session to complete. A long adventure might involve many combats, interactions, and other challenges and take dozens of sessions.
+การผจญภัยจะแตกต่างกันไปทั้งความยาวและความซับซ้อน การผจญภัยสั้นอาจจะมีเพียงความท้าทายไม่กี่อย่างและใช้เวลาเล่นแค่เซสชันเดียวก็จบได้ การผจญภัยที่ยาวจะมีการต่อสู้ การมีปฏิสัมพันธ์ และความท้าทายอื่น ๆ มากมาย และใช้เวลาเล่นหลายเซสชัน
 
-### Campaigns {#Campaigns}
+### แคมเปญ {#Campaigns}
 
-A campaign is a series of adventures with a consistent group of adventurers following the narrative.
+แคมเปญเป็นชุดการผจญภัยที่ให้กลุ่มนักผจญภัยชุดเดิมได้ผจญภัยกันไปตามเนื้อเรื่อง
 
-Some campaigns are episodic, where each adventure is its own tale and not much besides the player characters links it to the next one. Other campaigns involve long-running plots, a cast of recurring NPCs, and themes that span multiple adventures, leading toward a climactic conclusion.
+บางแคมเปญมีลักษณะเป็นตอน โดยแต่ละการผจญภัยจะมีเรื่องราวเป็นของตัวเองและมักจะไม่มีเรื่องราวเกี่ยวข้องกับตัวละครมากนัก บางแคมเปญมีพล็อตเรื่องที่ดำเนินไปอย่างยาวนาน มี NPC ประจำที่พบได้บ่อยครั้ง และประกอบด้วยการผจญภัยหลายอย่างที่นำไปสู่จุดสูงสุดของเรื่องราวในตอนจบ
 
-As with adventures, a DM might create a campaign from scratch, assemble a campaign from published adventures, or mix homemade material with published material. And the campaign might take place in a world of the DM’s creation or in a published campaign setting, such as the Forgotten Realms or Greyhawk (the latter is described in the *Dungeon Master’s Guide*).
+สำหรับการผจญภัยต่าง ๆ นั้น DM อาจจะสร้างแคมเปญขึ้นมาเองจากศูนย์ เอาแคมเปญที่ตีพิมพ์มารวมกัน หรือผสมกันระหว่างที่สร้างเองกับที่ตีพิมพ์เข้าด้วยกันก็ได้ และแคมเปญก็อาจจะเกิดขึ้นในโลกที่ DM สร้างขึ้นมาเองหรือจากแคมเปญที่ตีพิมพ์ เช่นโลกแห่งอาณาจักรที่ถูกลืมเลือน (Forgotten Realms) หรือเกรย์ฮอว์ค (Greyhawk) (เกรย์ฮอว์คจะมีรายละเอียดใน "คู่มือสำหรับดันเจียนมาสเตอร์" (Dungeon Master's Guide))
 
-## Dice {#Dice}
+## ลูกเต๋า {#Dice}
 
-Dice add randomness to the game. They help determine whether characters and monsters are successful at the things they attempt.
+ลูกเต๋าเป็นตัวเพิ่มการสุ่มเข้าไปในเกม มันช่วยการตัดสินว่าตัวละครและมอนสเตอร์ทำสิ่งที่พยายามได้สำเร็จหรือไม่
 
-Round Down
+> **ปัดเศษลง**
+>
+> เมื่อไรก็ตามที่คุณหารหรือคูณค่าตัวเลขในเกม ให้ปัดเศษลงถ้ามีเศษ แม้ว่าเศษนั้นจะเกินครึ่งหรือมากกว่า แต่ก็มีกฏบางอย่างที่จะระบุให้คุณปัดเศษขึ้น
 
-Whenever you divide or multiply a number in the game, round down if you end up with a fraction, even if the fraction is one-half or greater. Some rules make an exception and tell you to round up.
+### หน้าของลูกเต๋า {#DiceNotation}
 
-### Dice Notation {#DiceNotation}
+ลูกเต๋าที่ใช้ใน D&D จะใช้ตัวย่อว่า _d_ (มาจาก Dice) ตามด้วยจำนวนหน้าของลูกเต๋า: d4, d6, d8, d10, d12, และ d20 ตัวอย่างเช่น d6 จะมี 6 ด้าน (เป็นทรงลูกบาศก์ที่ใช้กันในเกมอื่น ๆ) รูปภาพในหน้านี้จะแสดงว่าลูกเต๋าแต่ละแบบหน้าตาเป็นอย่างไร
 
-The dice used in D&D are referred to by the letter *d* followed by the die’s number of sides: d4, d6, d8, d10, d12, and d20. For instance, a d6 is a six-sided die (the cube that many games use). The illustration on this page shows what each die looks like.
+เมื่อคุณต้องทอยลูกเต๋า กฏจะบอกคุณว่าต้องทอยกี่ลูกและใช้ชนิดใดบ้าง พร้อมกับตัวเลขที่ต้องบวกหรือลบออกจากค่าที่ทอยได้ ตัวอย่างเช่น "3d8 + 5" หมายความว่าคุณต้องทอยลูกเต๋าแปดหน้า 3 ลูก รวมค่าที่ได้และบวก 5 เข้าไปได้เป็นจำนวนที่ต้องการ
 
-When you need to roll dice, the rules tell you how many dice to roll of a certain type, along with any numbers to add or subtract. For example, “3d8 + 5” means you roll three eight-sided dice, add them together, and add 5 to the total.
+#### ลูกเต๋าเปอร์เซนต์ไทล์ (ร้อยละ) {#PercentileDice}
 
-#### Percentile Dice {#PercentileDice}
+บางครั้งกฏจะบอกให้คุณทอย d100 แม้ว่าลูกเต๋าแบบนั้นมีอยู่ แต่โดยทั่วไปแล้วการทอย 1d100 จะใช้ลูกเต๋าสิบ หน้าคู่หนึ่งโดยลูกหนึ่งจะมีค่า 0 - 9 รู้จักกันในชื่อลูกเต๋าเปอร์เซนต์ไทล์ ลูกแรกที่คุณทอยจะนับเป็นหลักสิบ และลูกที่สองจะนับเป็นหลักหน่วย ถ้าคุณทอยได้ 7 ในหลักสิบและ 1 ในหลักหน่วย จะถือว่าทอยได้ 71 หากทอยได้ 0 ทั้งสองลูกจะถือว่าทอยได้ 100
 
-The rules sometimes refer to a d100. While such dice exist, the common way to roll 1d100 uses a pair of ten-sided dice numbered from 0 to 9, known as percentile dice. One die—that you designate before rolling—gives the tens digit, and the other gives the ones digit. If you roll a 7 for the tens digit and a 1 for the ones digit, for example, the number rolled is 71. Two 0s represent 100.
-
-Some ten-sided dice are numbered in tens (00, 10, 20, and so on), making it easier to distinguish the tens digit from the ones digit. In this case, a roll of 70 and 1 is 71, and 00 and 0 is 100.
+ลูกเต๋าบางชุดจะระบุเป็นหลักสิบมาให้เลย (00, 10, 20 จนถึง 90) ซึ่งทำให้ง่ายในการแยกแยะค่าที่ทอยได้ ในกรณีนี้หากทอยได้ 70 และ 1 ก็ถือว่าทอยได้ 71
 
 #### D3 {#D3}
 
-The same *d* notation appears in the expression “1d3,” even though it’s rare to find dice with only three sides. To simulate rolling 1d3, roll 1d6 and divide the number rolled by 2 (round up).
+สัญลักษณ์ _d_ เดียวกันนี้ก็อยู่ในรูปแบบ "1d3" ได้ด้วยแม้ว่าลูกเต๋าสามหน้านั้นหายากมาก ในการจำลองการทอย 1d3 ให้ทอย 1d6 และหาร 2 (ปัดขึ้น)
 
-### What Are Dice For? {#WhatAreDiceFor}
+### เอาลูกเต๋ามาใช้ทำอะไร? {#WhatAreDiceFor}
 
-Here are the most common uses of dice in D&D.
+นี่เป็นตัวอย่างการใช้ลูกเต๋าโดยทั่วไปใน D&D
 
-#### D20 Test {#D20Test}
+#### การทอยทดสอบ D20 {#D20Test}
 
-The 20-sided die (d20) is the most important die you’ll use in the game. It’s central to the core mechanic—called D20 Tests—the game uses to determine whether creatures succeed or fail at the things they attempt during the game (see “[D20 Tests](/free-rules/playing-the-game#D20Tests)” later in this chapter). You roll a d20 whenever your character tries to do something that the DM decides has a chance of both success and failure. The higher your roll, the more likely it is that you succeed.
+ลูกเต๋า 20 หน้า (d20) เป็นลูกเต๋าที่สำคัญที่สุดที่คุณจะได้ใช้ในการเกม จะถูกใช้ในกลไกหลักของเกมที่เรียกว่า การทอยทดสอบ D20 เป็นการทอยตัดสินว่าสิ่งมีชีวิตจะทำสิ่งที่ต้องการได้สำเร็จหรือไม่ (ดู “[การทอยทดสอบ D20 แบบต่าง ๆ](/free-rules/playing-the-game#D20Tests)” ในช่วงท้ายของบทนี้) คุณจะทอย d20 เมื่อใดก็ตามที่ตัวละครของคุณพยายามทำอะไรบางอย่างที่ DM เห็นว่ามีโอกาสที่จะสำเร็จหรือล้มเหลวได้ ยิ่งทอยได้ค่ามากก็ยิ่งมีโอกาสสำเร็จมาก
 
-#### Damage {#Damage}
+#### ความเสียหาย {#Damage}
 
-The most common use for dice other than the d20 is to determine damage. When you make a successful attack roll (one kind of [D20 Test](/free-rules/rules-glossary#D20Test)), you roll damage to see how effective the attack is. When you cast a spell, you might also roll damage. Different weapons and spells use different dice for damage. For example, a [Dagger](https://www.dndbeyond.com/equipment/3-dagger) uses 1d4, a [Greataxe](https://www.dndbeyond.com/equipment/21-greataxe) uses 1d12, and a [Fireball](https://www.dndbeyond.com/spells/2618887-fireball) spell uses 8d6.
+การใช้งานโดยทั่วไปของลูกเต๋าอื่นนอกจาก d20 คือจะใช้หาค่าความเสียหาย เมื่อคุณทอยโจมตีได้สำเร็จ (เป็นหนึ่งใน [การทอยทดสอบ D20](/free-rules/rules-glossary#D20Test)) คุณจะทอยหาค่าความเสียหายเพื่อให้เห็นว่าผลจากการโจมตีเป็นอย่างไร เมื่อคุณร่ายคาถา คุณอาจจะต้องทอยค่าความเสียหายด้วย อาวุธและคาถาที่ต่างกันก็จะใช้ลูกเต๋าที่ต่างกันในการหาความเสียหาย ตัวอย่างเช่น [กริช (Dagger)](https://www.dndbeyond.com/equipment/3-dagger) ใช้ 1d4, [ขวานใหญ่ (Greataxe)](https://www.dndbeyond.com/equipment/21-greataxe) ใช้ 1d12, และ [คาถาลูกไฟ (Fireball)](https://www.dndbeyond.com/spells/2618887-fireball) ใช้ 8d6.
 
-#### Random Tables {#RandomTables}
+#### ตารางค่าสุ่ม {#RandomTables}
 
-Occasionally, you’ll see a table that uses a die roll to generate a random result. On these tables, you’ll see a die expression, such as d10 or d100, in the header of the leftmost column. Roll that die, and find the number you rolled (or a range containing that number) in that column. Read across that row for the result. For example, the [Trinkets table](/free-rules/creating-a-character#TrinketsTable) in [chapter 2](/free-rules/creating-a-character) uses a d100.
+ในบางโอกาส คุณจะพบกับตารางที่ต้องใช้การทอยลูกเต๋าในการสร้างผลจากการสุ่ม ในตารางเหล่านี้ คุณจะเห็นสัญลักษณ์ลูกเต๋าเช่น d10 หรือ d100 ในหัวคอลัมภ์ซ้ายสุดของตาราง ให้ทอยลูกเต๋านั้นและเอาค่าที่ได้จากการทอย (หรือช่วงจำนวนที่ค่านั้นอยู่) ในคอลัมภ์นั้น และอ่านค่าที่ได้จากแถวเดียวกัน ตัวอย่างเช่น [ตารางของจุกจิก (Trinkets table)](/free-rules/creating-a-character#TrinketsTable) ใน[บทที่ 2](/free-rules/creating-a-character) จะใช้การทอย d100 หนึ่งครั้ง
 
-#### Percentage Chances {#PercentageChances}
+#### โอกาสที่จะเกิดเป็นเปอร์เซนต์ {#PercentageChances}
 
-Sometimes you might see a rule describing a percentage chance of something happening. For example, a rule might say there is a 5 percent chance of something happening. You can determine whether that thing happens by rolling percentile dice; if the roll is equal to or less than the percentage chance (a 01 to 05, in this example), it happens.
+บางครั้งคุณอาจเห็นกฎที่อธิบายถึงโอกาสเป็นเปอร์เซ็นต์ที่บางสิ่งจะเกิดขึ้น ตัวอย่างเช่น กฎอาจระบุว่ามีโอกาส 5 เปอร์เซ็นต์ที่บางสิ่งจะเกิดขึ้น คุณสามารถกำหนดได้ว่าสิ่งนั้นจะเกิดขึ้นหรือไม่โดยทอยลูกเต๋าเปอร์เซ็นต์ไทล์ หากทอยได้เท่ากับหรือต่ำกว่าโอกาสเป็นเปอร์เซ็นต์ (01 ถึง 05 ในตัวอย่างนี้) สิ่งนั้นจะเกิดขึ้น
 
-Interpreting Die Rolls in the Story
+> **การแปลความหมายของการทอยลูกเต๋าเนื้อเนื้อเรื่อง**
+>
+> ส่วนหนึ่งของความสนุกของ D&D คือการตีความว่าการทอยลูกเต๋าหมายถึงอะไรในเรื่องราว สิ่งที่ลูกเต๋าสุ่มได้มักจะทำให้เกิดสิ่งที่ไม่คาดคิด เช่น ผู้เชี่ยวชาญล้มเหลว มือใหม่ประสบความสำเร็จ หรือความพลิกผันอื่นๆ มากมาย เมื่อ [การทอยทดสอบ D20](/free-rules/rules-glossary#D20Test) หรือการทอยอื่น ๆ ออกมาผิดไปจากที่คาด Dungeon Master มักจะให้คำอธิบายที่สนุกสนานเกี่ยวกับสิ่งที่เกิดขึ้นนั้น หากคุณเป็นผู้เล่น ให้มองหาโอกาสในการตีความการทอยลูกเต๋าของตัวละครของคุณและอธิบายว่าเหตุใดสิ่งต่าง ๆ จึงเกิดขึ้นอย่างไม่คาดคิดหรือแม้แต่เล่าให้เป็นเรื่องตลก
 
-Part of the fun of D&D is interpreting what die rolls mean in the story. The randomness that dice bring often introduces the unexpected: an expert fails, a novice succeeds, or any number of other twists. When a [D20 Test](/free-rules/rules-glossary#D20Test) or another roll produces a surprise, the Dungeon Master often gives a fun description of what happened. If you’re a player, look for opportunities to interpret your character’s die rolls and describe why things unfolded unexpectedly or even humorously.
+## ความสามารถหกอย่าง {#TheSixAbilities}
 
-## The Six Abilities {#TheSixAbilities}
+สิ่งมีชีวิตทั้งมวล ทั้งตัวละครของคุณและมอนสเตอร์ ต่างก็มีค่าความสามารถหกอย่างที่เป็นตัววัดลักษณะทางกายภาพและจิตใจ ดั่งที่แสดงในตารางนี้
 
-All creatures—characters and monsters—have six abilities that measure physical and mental characteristics, as shown on the Ability Descriptions table.
+### ตารางอธิบายความสามารถ {#AbilityDescriptions}
 
-### Ability Descriptions {#AbilityDescriptions}
+| ความสามารถ                 | ไว้ใช้วัด...                                    |
+| -------------------------- | ----------------------------------------------- |
+| ความแข็งแกร่ง (Strength)   | พลังทางกายภาพ                                   |
+| ความคล่องแคล่ว (Dexterity) | ความคล่องตัว ว่องไว, การตอบสนอง, และความสมดุลย์ |
+| ความอดทน (Constitution)    | พลังชีวิตและความอดทน                            |
+| ความฉลาด (Intelligence)    | ความมีเหตุมีผลและความทรงจำ                      |
+| ความรอบรู้ (Wisdom)        | การรับรู้สิ่งรอบตัวและความมั่นคงของจิตใจ        |
+| เสน่ห์ (Charisma)          | ความมั่นใจ, บุคลิกภาพ และเสน่ห์                 |
 
-| Ability      | Score Measures...                   |
-| ------------ | ----------------------------------- |
-| Strength     | Physical might                      |
-| Dexterity    | Agility, reflexes, and balance      |
-| Constitution | Health and stamina                  |
-| Intelligence | Reasoning and memory                |
-| Wisdom       | Perceptiveness and mental fortitude |
-| Charisma     | Confidence, poise, and charm        |
+### คะแนนความสามารถ {#AbilityScores}
 
-### Ability Scores {#AbilityScores}
-
-Each ability has a score from 1 to 20, although some monsters have a score as high as 30. The score represents the magnitude of an ability. The Ability Scores table summarizes what the scores mean.
+ความสามารถแต่ละอย่างจะมีคะแนนจาก 1 - 20 แม้ว่ามอนสเตอร์บางอย่างจะมีคะแนนนี้มากถึง 30 ก็ตาม คะแนนนี้จะแสดงถึงระดับของความสามารถแต่ละอย่าง ตารางคะแนนความสามารถจะสรุปความหมายของจำนวนนี้
 
 #### Ability Scores {#AbilityScoresTable}
 
-| Score | Meaning                                                                                                           |
-| ----- | ----------------------------------------------------------------------------------------------------------------- |
-| 1     | This is the lowest a score can normally go. If an effect reduces a score to 0, that effect explains what happens. |
-| 2–9   | This represents a weak capability.                                                                                |
-| 10–11 | This represents the human average.                                                                                |
-| 12–19 | This represents a strong capability.                                                                              |
-| 20    | This is the highest an adventurer’s score can go unless a feature says otherwise.                                 |
-| 21–29 | This represents an extraordinary capability.                                                                      |
-| 30    | This is the highest a score can go.                                                                               |
+| คะแนน | ความหมาย                                                                                            |
+| ----- | --------------------------------------------------------------------------------------------------- |
+| 1     | นี่เป็นคะแนนต่ำสุดที่เป็นไปได้โดยปกติ หากมีผลพิเศษใดที่ลดค่าลงจนต่ำกว่า 0 จะมีระบุไว้กับผลพิเศษนั้น |
+| 2–9   | แสดงให้เห็นถึงความด้อยความสามารถ                                                                    |
+| 10–11 | แสดงค่าปกติของมนุษย์ทั่วไป                                                                          |
+| 12–19 | แสดงถึงความสามารถที่มากกว่าปกติ                                                                     |
+| 20    | เป็นคะแนนสูงสุดที่นักผจญภัยจะสามารถมีได้ เว้นแต่จะมีความสามารถใดที่ระบุเป็นอย่างอื่น                |
+| 21–29 | แสดงถึงความสามารถเหนือมนุษย์                                                                        |
+| 30    | นี่เป็นคะแนนสูงสุดที่จะมีได้                                                                        |
 
-### Ability Modifiers {#AbilityModifiers}
+### ค่าโมดิไฟเออร์ของความสามารถ {#AbilityModifiers}
 
-Each ability has a modifier that you apply whenever you make a [D20 Test](/free-rules/rules-glossary#D20Test) with that ability (explained in “[D20 Tests](/free-rules/playing-the-game#D20Tests)”). An ability modifier is derived from its score, as shown in the Ability Modifiers table.
+แต่ละความสามารถจะมีค่าโมดิไฟเออร์ที่เอาไว้ใช้เพิ่มหรือลดค่าที่ได้จาก[การทอยทดสอบ D20](/free-rules/rules-glossary#D20Test) ที่เกี่ยวกับความสามารถนั้น (อธิบายใน “[การทอยทดสอบ D20 แบบต่าง ๆ](/free-rules/playing-the-game#D20Tests)”) ค่าโมดิไฟเออร์นี้ได้จากคะแนนความสามารถ ดังที่แสดงในตารางด้านล่าง
 
-#### Ability Modifiers {#AbilityModifiersTable}
+#### ค่าโมดิไฟเออร์ของความสามารถ {#AbilityModifiersTable}
 
-| Score | Modifier |
-| ----- | -------- |
-| 1     | −5       |
-| 2–3   | −4       |
-| 4–5   | −3       |
-| 6–7   | −2       |
-| 8–9   | −1       |
-| 10–11 | +0       |
-| 12–13 | +1       |
-| 14–15 | +2       |
-| 16–17 | +3       |
-| 18–19 | +4       |
-| 20–21 | +5       |
-| 22–23 | +6       |
-| 24–25 | +7       |
-| 26–27 | +8       |
-| 28–29 | +9       |
-| 30    | +10      |
+| คะแนน | ค่าโมดิไฟเออร์ |
+| ----- | -------------- |
+| 1     | −5             |
+| 2–3   | −4             |
+| 4–5   | −3             |
+| 6–7   | −2             |
+| 8–9   | −1             |
+| 10–11 | +0             |
+| 12–13 | +1             |
+| 14–15 | +2             |
+| 16–17 | +3             |
+| 18–19 | +4             |
+| 20–21 | +5             |
+| 22–23 | +6             |
+| 24–25 | +7             |
+| 26–27 | +8             |
+| 28–29 | +9             |
+| 30    | +10            |
 
-## D20 Tests {#D20Tests}
+## การทอยทดสอบ D20 แบบต่าง ๆ {#D20Tests}
 
-When the outcome of an action is uncertain, the game uses a d20 roll to determine success or failure. These rolls are called [D20 Tests](/free-rules/rules-glossary#D20Test), and they come in three kinds: [ability checks](/free-rules/playing-the-game#AbilityChecks), [saving throws](/free-rules/playing-the-game#SavingThrows), and [attack rolls](/free-rules/playing-the-game#AttackRolls). They follow these steps:
+เมื่อผลที่ได้จากการกระทำนั้นไม่แน่นอน เกมจะใช้การทอย d20 เพื่อตัดสินว่าสำเร็จหรือล้มเหลว การทอยเหล่านี้เรียกว่า [การทอยทดสอบ D20](/free-rules/rules-glossary#D20Test) มีสามแบบคือ [การทอยทดสอบความสามารถ (ability checks)](/free-rules/playing-the-game#AbilityChecks), [การทอยป้องกัน (saving throws)](/free-rules/playing-the-game#SavingThrows), และ [การทอยโจมตี (attack rolls)](/free-rules/playing-the-game#AttackRolls) โดยมีขั้นตอนดังนี้:
 
-1. **Roll 1d20.** You always want to roll high. If the roll has [Advantage](/free-rules/rules-glossary#Advantage) or [Disadvantage](/free-rules/rules-glossary#Disadvantage) (described [later in this chapter](/free-rules/playing-the-game#AdvantageDisadvantage)), you roll two d20s, but you use the number from only one of them—the higher one if you have Advantage or the lower one if you have Disadvantage.
-2. **Add Modifiers.** Add these modifiers to the number rolled on the d20:
-
-- **The Relevant Ability Modifier.** This chapter and the [rules glossary](/free-rules/rules-glossary) explain which ability modifiers to use for various D20 Tests.
-- **Your Proficiency Bonus If Relevant.** Each creature has a Proficiency Bonus, a number added when making a D20 Test that uses something, such as a skill, in which the creature has proficiency. See “[Proficiency](/free-rules/playing-the-game#Proficiency)” later in this chapter.
-- **Circumstantial Bonuses and Penalties.** A class feature, a spell, or another rule might give a bonus or penalty to the die roll.
-
-4. **Compare the Total to a Target Number.** If the total of the d20 and its modifiers equals or exceeds the target number, the D20 Test succeeds. Otherwise, it fails. The Dungeon Master determines target numbers and tells players whether their rolls are successful. The target number for an ability check or a saving throw is called a [Difficulty Class](/free-rules/rules-glossary#DifficultyClass) (DC). The target number for an attack roll is called an [Armor Class](/free-rules/rules-glossary#ArmorClass) (AC), which appears on a character sheet or in a stat block (see the [rules glossary](/free-rules/rules-glossary)).
+1. **ทอย 1d20** คุณจะอยากให้ทอยได้คะแนนสูง ๆ ถ้าการทอยมี [ความได้เปรียบ (Advantage)](/free-rules/rules-glossary#Advantage) หรือ [ความเสียเปรียบ (Disadvantage)](/free-rules/rules-glossary#Disadvantage) (อธิบายไว้ใน [ช่วงท้ายของบทนี้](/free-rules/playing-the-game#AdvantageDisadvantage)) คุณจะทอย d20 สองลูก แต่จะใช้ค่าที่ได้จากลูกเดียว โดยใช้ค่าที่มากกว่าถ้าคุณได้ทอยแบบได้เปรียบ หรือใช้ค่าที่ต่ำกว่าหากได้ทอยแบบเสียเปรียบ
+2. **เพิ่มค่าโมดิไฟเออร์** เพิ่มค่าโมดิไฟเออร์เหล่านี้เข้าไปในค่าที่คุณทอยได้จาก d20:
+   - **ค่าโมดิไฟเออร์ของความสามารถที่เกี่ยวข้อง** ในบทนี้และ [รายการกฏ](/free-rules/rules-glossary) อธิบายถึงค่าโมดิไฟเออร์ที่ใช้ในการทอยทดสอบ D20 ต่าง ๆ
+   - **ค่าโบนัสความเชี่ยวชาญถ้าเกี่ยวเนื่องกัน** สิ่งมีชีวิตทุกชนิดจะมีค่าโบนัสความเชี่ยวชาญ (Proficiency Bonus), เป็นตัวเลขที่นำไปเพิ่มค่าให้การทอยทดสอบ D20 ที่เกี่ยวกับค่าบางอย่างเช่น ทักษะที่สิ่งมีชีวิตนั้นมีความเชี่ยวชาญอยู่ ดู “[ความเชี่ยวชาญ (Proficiency)](/free-rules/playing-the-game#Proficiency)” ในช่วงท้ายของบทนี้
+   - **ค่าโบนัสและการหักออกตามสถานการณ์** ความสามารถของคลาส, คาถา หรือกฏอื่น ๆ ที่ให้โบนัสหรือการหักออกในการทอยลูกเต๋า
+3. **เทียบค่าสุดท้ายกับจำนวนเป้าหมาย** ถ้าค่าสุดท้ายจากการทอย d20 รวมกับค่าโมดิไฟเออร์ มีค่ามากกว่าหรือเท่ากับจำนวนเป้าหมาย แสดงว่าการทดสอบผ่าน มิเช่นนั้นก็หมายถึงล้มเหลว ดันเจียนมาสเตอร์จะเป็นผู้กำหนดจำนวนเป้าหมายและจะบอกผู้เล่นว่าทดสอบผ่านหรือไม่ จำนวนเป้าหมายสำหรับการทอยทดสอบความสามารถหรือการทอยป้องกันจะเรียกว่า [ระดับความยาก (Difficulty Class)](/free-rules/rules-glossary#DifficultyClass) (DC) จำนวนเป้าหมายสำหรับการทอยโจมตีจะเรียกว่า [ระดับการป้องกัน (Armor Class)](/free-rules/rules-glossary#ArmorClass) (AC), ซึ่งจะมีอยู่ในชีทตัวละคร (character sheet) หรือในข้อมูลมอนสเตอร์ (stat block) (ดู [รายการกฏ](/free-rules/rules-glossary)).
 
 ### Ability Checks {#AbilityChecks}
 
