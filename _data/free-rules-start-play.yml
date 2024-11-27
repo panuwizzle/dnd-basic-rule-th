@@ -1,31 +1,31 @@
-- name: Playing the Game
+- name: เริ่มเล่นเกม
   url: /free-rules/playing-the-game
   children:
-    - name: Player or DM?
+    - name: เป็นผู้เล่นหรือ DM?
       url: /free-rules/playing-the-game#PlayerorDM
-    - name: Rhythm of Play
+    - name: จังหวะการเล่น
       url: /free-rules/playing-the-game#RhythmofPlay
-    - name: An Ongoing Game
+    - name: เกมที่กำลังดำเนินอยู่
       url: /free-rules/playing-the-game#AnOngoingGame
-    - name: Dice
+    - name: ลูกเต๋า
       url: /free-rules/playing-the-game#Dice
-    - name: The Six Abilities
+    - name: ความสามารถหกอย่าง
       url: /free-rules/playing-the-game#TheSixAbilities
-    - name: D20 Tests
+    - name: การทอยทดสอบ D20
       url: /free-rules/playing-the-game#D20Tests
-    - name: Proficiency
+    - name: ความเชี่ยวชาญ
       url: /free-rules/playing-the-game#Proficiency
-    - name: Actions
+    - name: แอ็คชัน
       url: /free-rules/playing-the-game#Actions
-    - name: Social Interaction
+    - name: ปฏิสัมพันธ์ทางสังคม
       url: /free-rules/playing-the-game#SocialInteraction
-    - name: Exploration
+    - name: การสำรวจ
       url: /free-rules/playing-the-game#Exploration
-    - name: Combat
+    - name: การต่อสู้
       url: /free-rules/playing-the-game#Combat
-    - name: Damage and Healing
+    - name: ความเสียหายและการเยียวยา
       url: /free-rules/playing-the-game#DamageandHealing
-    - name: Conditions
+    - name: สภาวะต่าง ๆ
       url: /free-rules/playing-the-game#Conditions
 
 - name: Creating a Character

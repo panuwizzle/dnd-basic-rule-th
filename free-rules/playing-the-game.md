@@ -143,7 +143,7 @@ menu: free-rules-start-play
 
 ความสามารถแต่ละอย่างจะมีคะแนนจาก 1 - 20 แม้ว่ามอนสเตอร์บางอย่างจะมีคะแนนนี้มากถึง 30 ก็ตาม คะแนนนี้จะแสดงถึงระดับของความสามารถแต่ละอย่าง ตารางคะแนนความสามารถจะสรุปความหมายของจำนวนนี้
 
-#### Ability Scores {#AbilityScoresTable}
+#### คะแนนความสามารถ {#AbilityScoresTable}
 
 | คะแนน | ความหมาย                                                                                            |
 | ----- | --------------------------------------------------------------------------------------------------- |
@@ -191,144 +191,144 @@ menu: free-rules-start-play
    - **ค่าโบนัสและการหักออกตามสถานการณ์** ความสามารถของคลาส, คาถา หรือกฏอื่น ๆ ที่ให้โบนัสหรือการหักออกในการทอยลูกเต๋า
 3. **เทียบค่าสุดท้ายกับจำนวนเป้าหมาย** ถ้าค่าสุดท้ายจากการทอย d20 รวมกับค่าโมดิไฟเออร์ มีค่ามากกว่าหรือเท่ากับจำนวนเป้าหมาย แสดงว่าการทดสอบผ่าน มิเช่นนั้นก็หมายถึงล้มเหลว ดันเจียนมาสเตอร์จะเป็นผู้กำหนดจำนวนเป้าหมายและจะบอกผู้เล่นว่าทดสอบผ่านหรือไม่ จำนวนเป้าหมายสำหรับการทอยทดสอบความสามารถหรือการทอยป้องกันจะเรียกว่า [ระดับความยาก (Difficulty Class)](/free-rules/rules-glossary#DifficultyClass) (DC) จำนวนเป้าหมายสำหรับการทอยโจมตีจะเรียกว่า [ระดับการป้องกัน (Armor Class)](/free-rules/rules-glossary#ArmorClass) (AC), ซึ่งจะมีอยู่ในชีทตัวละคร (character sheet) หรือในข้อมูลมอนสเตอร์ (stat block) (ดู [รายการกฏ](/free-rules/rules-glossary)).
 
-### Ability Checks {#AbilityChecks}
+### การทดสอบความสามารถ (Ability Checks) {#AbilityChecks}
 
-An ability check represents a creature using talent and training to try to overcome a challenge, such as forcing open a stuck door, picking a lock, entertaining a crowd, or deciphering a cipher. The DM and the rules often call for an ability check when a creature attempts something other than an attack that has a chance of meaningful failure. When the outcome is uncertain and narratively interesting, the dice determine the result.
+การทดสอบความสามารถเป็นการแสดงให้เห็นถึงการที่สิ่งมีชีวิตใช้ความสามารถและการฝึกฝนในความพยายามก้าวข้ามผ่านความท้าทาย เช่นการพังประตู การสะเดาะกุญแจ การให้ความสนุกกับผู้คน หรือการถอดข้อความรหัส DM และกฏเกมมักจะเรียกทดสอบความสามารถ เมื่อสิ่งมีชีวิตพยายามจะทำบางอย่างนอกเหนือจากการโจมตีที่มีโอกาสจะล้มเหลวได้ เมื่อผลลัพท์นั้นไม่แน่นอนและน่าสนใจในการบรรยายต่อ ลูกเต๋าจะเป็นตัวตัดสินผลลัพท์
 
-#### Ability Modifier {#AbilityModifier}
+#### ค่าโมดิไฟเออร์ของความสามารถ {#AbilityModifier}
 
-An ability check is named for the ability modifier it uses: a Strength check, an Intelligence check, and so on. Different ability checks are called for in different situations, depending on which ability is most relevant. See the Ability Check Examples table for examples of each check’s use.
+การทดสอบความสามารถมีชื่อตามค่าโมดิไฟเออร์ของความสามารถที่ใช้: ทดสอบความแข็งแกร่ง (Strength check) ทดสอบความฉลาด (Intelligence check) และอื่น ๆ การทดสอบแต่ละความสามารถจะแตกต่างกันไปตามสถานการณ์ ขึ้นอยู่กับว่าความสามารถใดจะเหมาะสม ดูตารางตัวอย่างการทดสอบความสามารถเป็นตัวอย่างในการใช้
 
-##### Ability Check Examples {#AbilityCheckExamples}
+##### ตัวอย่างการทดสอบความสามารถ {#AbilityCheckExamples}
 
-| Ability      | Make a Check To...                                         |
-| ------------ | ---------------------------------------------------------- |
-| Strength     | Lift, push, pull, or break something                       |
-| Dexterity    | Move nimbly, quickly, or quietly                           |
-| Constitution | Push your body beyond normal limits                        |
-| Intelligence | Reason or remember                                         |
-| Wisdom       | Notice things in the environment or in creatures’ behavior |
-| Charisma     | Influence, entertain, or deceive                           |
+| ความสามารถ                 | ทดสอบเมื่อ...                                              |
+| -------------------------- | ---------------------------------------------------------- |
+| ความแข็งแกร่ง (Strength)   | การยก, ดัน, ดึง, หรือทำลายบางสิ่ง                          |
+| ความคล่องแคล่ว (Dexterity) | เคลื่อนที่อย่างพริ้วไหว, เคลื่อนที่รวดเร็ว, หรือเงียบเชียบ |
+| ความอดทน (Constitution)    | ผลักดันตัวเองให้เกินกว่าขีดจำกัดของมนุษย์ปกติ              |
+| ความฉลาด (Intelligence)    | เหตุผลหรือความทรงจำ                                        |
+| ความรอบรู้ (Wisdom)        | สังเกตุถึงสิ่งต่าง ๆ รอบตัวหรือพฤติกรรมของสัตว์ป่า         |
+| เสน่ห์ (Charisma)          | มีอิทธิพล, สร้างความบันเทิง, หรือหลอกลวง                   |
 
-#### Proficiency Bonus {#ProficiencyBonus}
+#### ค่าโบนัสความเชี่ยวชาญ (Proficiency Bonus) {#ProficiencyBonus}
 
-Add your Proficiency Bonus to an ability check when the DM determines that a skill or tool proficiency is relevant to the check and you have that proficiency. For example, if a rule refers to a Strength ([Acrobatics](/free-rules/playing-the-game#Skills) or [Athletics](/free-rules/playing-the-game#Skills)) check, you can add your Proficiency Bonus to the check if you have proficiency in the [Acrobatics](/free-rules/playing-the-game#Skills) or [Athletics](/free-rules/playing-the-game#Skills) skill. See “[Proficiency](/free-rules/playing-the-game#Proficiency)” later in this chapter for more information about skill and tool proficiencies.
+ให้เพิ่มค่าโบนัสความเชี่ยวชาญลงไปในการทดสอบความสามารถเมื่อ DM ตัดสินว่าความเชี่ยวชาญในทักษะหรือเครื่องมือนั้นมีผลต่อการทดสอบและคุณก็มีความเชี่ยวชาญนั้น ตัวอย่างเช่น หากกฏระบุให้ทดสอบความแข็งแกร่ง (Strength) ทักษะ ([กายกรรม (Acrobatics)](/free-rules/playing-the-game#Skills)) หรือ ทักษะ[กรีฑา (Athletics)](/free-rules/playing-the-game#Skills) คุณสามารถเพิ่มโบนัสความเชี่ยวชาญลงไปในการทอยทดสอบได้หากคุณมีความเชี่ยวชาญในสองทักษะนี้ ดูข้อมูลเพิ่มเติมเกี่ยวกับ "[ความเชี่ยวชาญ (Proficiency)](/free-rules/playing-the-game#Proficiency)" ในทักษะและเครื่องมือได้ในตอนท้ายของบทนี้
 
-#### Difficulty Class {#DifficultyClass}
+#### ระดับความยาก (Difficulty Class) {#DifficultyClass}
 
-The Difficulty Class of an ability check represents the task’s difficulty. The more difficult the task, the higher its DC. The rules provide DCs for certain checks, but the DM ultimately sets them. The Typical Difficulty Classes table presents a range of possible DCs for ability checks.
+ระดับความยาก (Difficulty Class) ของการทดสอบความสามารถเป็นตัวบอกถึงความยากง่ายของสิ่งที่จะทำ ยิ่งงานยากมากเท่าไร ค่า DC ก็จะสูงขึ้นเท่านั้น มีกฏบอกถึงระดับ DC ที่แนะนำ แต่สุดท้ายแล้ว DM จะเป็นผู้กำหนดเอง ระดับความยากโดยทั่วไปจะแสดงในตารางด้านล่างนี้
 
-##### Typical Difficulty Classes {#TypicalDifficultyClasses}
+##### ระดับความยากโดยทั่วไป {#TypicalDifficultyClasses}
 
-| Task Difficulty   | DC  |
+| ความยากของงาน     | DC  |
 | ----------------- | --- |
-| Very easy         | 5   |
-| Easy              | 10  |
-| Medium            | 15  |
-| Hard              | 20  |
-| Very hard         | 25  |
-| Nearly impossible | 30  |
+| ง่ายมาก           | 5   |
+| ง่าย              | 10  |
+| ปานกลาง           | 15  |
+| ยาก               | 20  |
+| ยากมาก            | 25  |
+| เกือบเป็นไปไม่ได้ | 30  |
 
-### Saving Throws {#SavingThrows}
+### การทอยป้องกัน (Saving Throws) {#SavingThrows}
 
-A saving throw—also called a save—represents an attempt to evade or resist a threat, such as a fiery explosion, a blast of poisonous gas, or a spell trying to invade your mind. You don’t normally choose to make a save; you must make one because your character or a monster (if you’re the DM) is at risk. A save’s result is detailed in the effect that caused it.
+การทอยป้องกัน (saving throw) บ้างก็เรียก การป้องกัน แสดงความพยายามในการหลบหลีกหรือต้านทานต่อภัยอันตราย เช่นจากระเบิดเพลิง แก๊สพิษที่พุ่งเข้ามา หรือคาถาที่พยายามจะรุกล้ำเข้ามาในจิตใจคุณ คุณมักจะไม่ได้เลือกที่จะทอยป้องกันเอง คุณต้องทอยเพราะตัวละครของคุณหรือมอนสเตอร์ (ถ้าคุณเป็น DM) อยู่ในช่วงหัวเลี้ยวหัวต่อ ผลจากการทอยป้องกันจะมีอธิบายในสิ่งที่ทำให้เกิดผลนั้น
 
-If you don’t want to resist the effect, you can choose to fail the save without rolling.
+ถ้าคุณไม่ต้องการจะต้านทานต่อผลกระทบนั้น คุณสามารถเลือกจะป้องกันล้มเหลวได้โดยไม่ต้องทอย
 
-#### Ability Modifier {#SavingThrowAbilityModifier}
+#### ค่าโมดิไฟเออร์ของความสามารถ {#SavingThrowAbilityModifier}
 
-Saving throws are named for the ability modifiers they use: a Constitution saving throw, a Wisdom saving throw, and so on. Different saving throws are used to resist different kinds of effects, as shown on the Saving Throw Examples table.
+การทอยป้องกันจะได้ชื่อตามค่าโมดิไฟเออร์ของความสามารถที่ต้องใช้ การทอยป้องกันความอดทน (Constitution saving throw), การทอยป้องกันความรอบรู้ (Wisdom saving throw) ฯลฯ ความสามารถต่างกันก็จะใช้ในการต้านทานผลกระทบที่ต่างกันออกไป ดังที่แสดงในตารางตัวอย่างการทอยป้องกัน
 
-##### Saving Throw Examples {#SavingThrowExamples}
+##### ตัวอย่างการทอยป้องกัน {#SavingThrowExamples}
 
-| Ability      | Make a Save To...              |
-| ------------ | ------------------------------ |
-| Strength     | Physically resist direct force |
-| Dexterity    | Dodge out of harm’s way        |
-| Constitution | Endure a toxic hazard          |
-| Intelligence | Recognize an illusion as fake  |
-| Wisdom       | Resist a mental assault        |
-| Charisma     | Assert your identity           |
+| ความสามารถ                 | ทอยป้องกัน...                  |
+| -------------------------- | ------------------------------ |
+| ความแข็งแกร่ง (Strength)   | การปะทะทางกายภาพ               |
+| ความคล่องแคล่ว (Dexterity) | กระโดดหลบสิ่งที่จะทำอันตราย    |
+| ความอดทน (Constitution)    | การทนต่อสภาวะอันตราย           |
+| ความฉลาด (Intelligence)    | รู้ว่าภาพลวงตานั้นเป็นสิ่งปลอม |
+| ความรอบรู้ (Wisdom)        | ต่อต้านการโจมตีต่อจิตใจ        |
+| เสน่ห์ (Charisma)          | ยืนยันตัวตนของคุณ              |
 
-#### Proficiency Bonus {#SavingThrowProficiencyBonus}
+#### โบนัสความเชี่ยวชาญ {#SavingThrowProficiencyBonus}
 
-You add your Proficiency Bonus to your saving throw if you have proficiency in that kind of save. See “[Proficiency](/free-rules/playing-the-game#Proficiency)” later in this chapter.
+คุณจะเพิ่มค่าโบนัสความเชี่ยวชาญลงไปในการทอยป้องกันหากคุณมีความเชี่ยวชาญในการป้องกันนั้น ดู “[ความเชี่ยวชาญ (Proficiency)](/free-rules/playing-the-game#Proficiency)” ได้ในบทนี้
 
-#### Difficulty Class {#SavingThrowDifficultyClass}
+#### ระดับความยาก (Difficulty Class) {#SavingThrowDifficultyClass}
 
-The Difficulty Class for a saving throw is determined by the effect that causes it or by the DM. For example, if a spell forces you to make a save, the DC is determined by the caster’s spellcasting ability and Proficiency Bonus. Monster abilities that call for saves specify the DC.
+ระดับความยากสำหรับการทอยป้องกันจะกำหนดขึ้นโดยสิ่งที่ทำให้เกิดผลนั้นหรือโดย DM ตัวอย่างเช่น หากคาถาบังคับให้คุณทอยป้องกัน ค่า DC จะถูกกำหนดโดยค่าความสามารถในการใช้คาถาและค่าโบนัสความเชี่ยวชาญของผู้ใช้คาถา ความสามารถของมอนสเตอร์ที่ทำให้ต้องทอยป้องกันจะมีค่า DC ระบุไว้อยู่ด้วย
 
-### Attack Rolls {#AttackRolls}
+### การทอยโจมตี (Attack Rolls) {#AttackRolls}
 
-An attack roll determines whether an attack hits a target. An attack roll hits if the roll equals or exceeds the target’s Armor Class. Attack rolls usually occur in battle, described in “[Combat](/free-rules/playing-the-game#Combat)” later in this chapter, but the DM might also ask for an attack roll in other situations, such as an archery competition.
+การทอยโจมตีจะเป็นตัวกำหนดว่าการโจมตีนั้นถูกเป้าหมายหรือไม่ การทอยโจมตีจะโจมตีโดนก็ต่อเมื่อค่าการทอยได้นั้นเท่ากับหรือมากกว่าค่าระดับการป้องกัน (Armor Class: AC) ของเป้าหมาย การทอยโจมตีมักจะเกิดขึ้นในการต่อสู้ อธิบายใน “[การต่อสู้ (Combat)](/free-rules/playing-the-game#Combat)” ในบทนี้ แต่ DM อาจจะของให้ทอยโจมตีในสถานการณ์เฉพาะก็ได้ เช่นในการแข่งยิงธนู
 
-#### Ability Modifier {#AttackRollAbilityModifier}
+#### ค่าโมดิไฟเออร์ของความสามารถ {#AttackRollAbilityModifier}
 
-The Attack Roll Abilities table shows which ability modifier to use for different types of attack rolls.
+่ตารางความสามารถที่ใช้ในการทอยโจมตี แสดงถึงเราจะใช้ค่าโมดิไฟเออร์ความสามารถใดในการทอยโจมตีที่แตกต่าง
 
-##### Attack Roll Abilities {#AttackRollAbilities}
+##### ความสามารถที่ใช้ในการทอยโจมตี {#AttackRollAbilities}
 
-| Ability   | Attack Type                                                                                                                                                      |
-| --------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| Strength  | Melee attack with a weapon or an [Unarmed Strike](/free-rules/rules-glossary#UnarmedStrike) (see the [rules glossary](/free-rules/rules-glossary#UnarmedStrike)) |
-| Dexterity | Ranged attack with a weapon                                                                                                                                      |
-| Varies    | Spell attack (the ability used is determined by the spellcaster’s spellcasting feature, as explained in [chapter 7](/free-rules/spells))                         |
+| ความสามารถ (Ability)       | ชนิดการโจมตี                                                                                                                                                                |
+| -------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| ความแข็งแกร่ง (Strength)   | การโจมตีประชิดตัวด้วยอาวุธ หรือ [การโจมตีด้วยมือเปล่า (Unarmed Strike)](/free-rules/rules-glossary#UnarmedStrike) (ดู [รายการกฏ](/free-rules/rules-glossary#UnarmedStrike)) |
+| ความคล่องแคล่ว (Dexterity) | การโจมตีระยะไกลด้วยอาวุธ                                                                                                                                                    |
+| หลากหลาย (Varies)          | การโจมตีด้วยคาถา (ความสามารถที่ใช้จะถูกกำหนดโดยความสามารถในการใช้คาถาของผู้ใช้คาถา มีอธิบายใน [บทที่ 7](/free-rules/spells))                                                |
 
-Some features let you use different ability modifiers from those listed. For example, the [Finesse](/free-rules/equipment#Finesse) property (see [chapter 6](/free-rules/equipment#Properties)) lets you use Strength or Dexterity with a weapon that has that property.
+คุณลักษณะ (feature) บางอย่างจะอนุญาตให้คุณใช้ค่าโมดิไฟเออร์ความสามารถที่แตกต่างจากที่ระบุได้ ตัวอย่างเช่น [คุณสมบัติ การพลิกแพลง (finesse)](/free-rules/equipment#Finesse) (ดู [บทที่ 6](/free-rules/equipment#Properties)) ที่จะให้คุณใช้ค่าความแข็งแกร่ง (Strength) หรือความคล่องแคล่ว (Dexterity) ก็ได้ในการใช้อาวุธที่มีคุณสมบัตินี้
 
-#### Proficiency Bonus {#AttackRollProficiencyBonus}
+#### ค่าโบนัสความเชี่ยวชาญ {#AttackRollProficiencyBonus}
 
-You add your Proficiency Bonus to your attack roll when you attack using a weapon you have proficiency with, as well as when you attack with a spell. See “[Proficiency](/free-rules/playing-the-game#Proficiency)” later in this chapter for more information about weapon proficiencies.
+คุณสามารถเพิ่มค่าโบนัสความเชี่ยวชาญลงไปในการทอยโจมตีได้เมื่อคุณทำการโจมตีด้วยอาวุธที่คุณเชี่ยวชาญ เช่นเดียวกับการโจมตีด้วยคาถา ดู “[ความเชี่ยวชาญ (Proficiency)](/free-rules/playing-the-game#Proficiency)” ในบทนี้เกี่ยวกับรายละเอียดของความเชี่ยวชาญอาวุธ
 
-#### Armor Class {#ArmorClass}
+#### ระดับการป้องกัน (Armor Class) {#ArmorClass}
 
-A creature’s Armor Class represents how well the creature avoids being wounded in combat. The AC of a character is determined at character creation (see [chapter 2](/free-rules/creating-a-character)), whereas the AC of a monster appears in its stat block.
+ระดับการป้องกัน (Armor Class) ของสิ่งมีชีวิตเป็นตัวบอกถึงความสามารถในการหลีกเลี่ยงการบาดเจ็บในการต่อสู้ ค่า AC ของตัวละครจะถูกกำหนดในขั้นตอนการสร้างตัวละคร (ดู [บทที่ 2](/free-rules/creating-a-character)) และ AC ของมอนสเตอร์จะมีอยู่ในชีทข้อมูลมอนสเตอร์นั้น ๆ (stat block)
 
-**_Calculating AC._** All creatures start with the same base AC calculation:
+**_การคำนวณ AC._** สิ่งมีชีวิตทุกชนิดจะเริ่มที่การคำนวณ AC ฐานเหมือนกันหมด:
 
-**Base AC** = 10 + the creature’s Dexterity modifier
+**AC ฐาน** = 10 + ค่าโมดิไฟเออร์ของความคล่องแคล่ว (Dexterity)
 
-A creature’s AC can then be modified by armor, magic items, spells, and more.
+ต่อมาค่า AC จะถูกปรับเปลี่ยนไปด้วยเกราะ, ไอเท็มเวทย์มนต์, คาถา ฯลฯ
 
-**_Only One Base AC._** Some spells and class features give characters a different way to calculate their AC. A character with multiple features that give different ways to calculate AC must choose which one to use; only one base calculation can be in effect for a creature.
+คาถาและคุณลักษณะของคลาสบางอย่างจะเพิ่มวิธีการคำนวณ AC ตัวละครที่มีวิธีการคำนวณ AC หลายแบบต้องเลือกแบบใดแบบหนึ่งเท่านั้นในการใช้
 
-#### Rolling 20 or 1 {#Rolling20or1}
+#### การทอยได้ 20 หรือ 1 {#Rolling20or1}
 
-If you roll a 20 on the d20 (called a “natural 20”) for an attack roll, the attack hits regardless of any modifiers or the target’s AC. This is called a Critical Hit (see “[Combat](/free-rules/playing-the-game#Combat)” later in this chapter).
+ถ้าคุณทอยโจมตีด้วย d20 ได้ 20 (เรียกว่า "20 ธรรมชาติ" หรือ natural 20, nat 20 ก็เรียก) การโจมตีจะโดนโดยไม่สนใจค่า AC ของเป้าหมาย นี่เรียกว่า "คริติคัล ฮิต" (ดู “[การต่อสู้](/free-rules/playing-the-game#Combat)” ในบทนี้)
 
-If you roll a 1 on the d20 (a “natural 1”) for an attack roll, the attack misses regardless of any modifiers or the target’s AC.
+ถ้าคุณทอยโจมตีด้วย d20 แล้วได้ 1 ("natural 1") การโจมตีนั้นจะพลาดโดยไม่สนใจค่า AC ของเป้าหมาย
 
-### Advantage/Disadvantage {#AdvantageDisadvantage}
+### การทอยแบบได้เปรียบ/เสียเปรียบ {#AdvantageDisadvantage}
 
-Sometimes a [D20 Test](/free-rules/rules-glossary#D20Test) is modified by Advantage or Disadvantage. Advantage reflects the positive circumstances surrounding a d20 roll, while Disadvantage reflects negative circumstances.
+ในบางครั้ง [การทอยทดสอบ D20](/free-rules/rules-glossary#D20Test) จะถูกปรับเปลี่ยนโดย "การได้เปรียบ (Advantage)" หรือ "การเสียเปรียบ (Disadvantage)" การได้เปรียบสะท้อนให้เห็นถึงภาวะในเชิงบวกที่อยู่รอบการทอย d20 ในขณะที่การเสียเปรียบสะท้อนให้เห็นถึงภาวะเชิงลบ
 
-You usually acquire Advantage or Disadvantage through the use of special abilities and actions. The DM can also decide that circumstances grant Advantage or impose Disadvantage.
+คุณมักจะได้ทอยแบบได้เปรียบหรือเสียเปรียบจากการใช้ความสามารถพิเศษและแอ็คชัน DM สามารถตัดสินใจว่าสถานการณ์นั้นให้ความได้เปรียบหรือฉุดให้เสียเปรียบได้ด้วย
 
-#### Roll Two D20s {#RollTwoD20s}
+#### ทอย d20 สองลูก {#RollTwoD20s}
 
-When a roll has either Advantage or Disadvantage, roll a second d20 when you make the roll. Use the higher of the two rolls if you have Advantage, and use the lower roll if you have Disadvantage. For example, if you have Disadvantage and roll an 18 and a 3, use the 3. If you instead have Advantage and roll those numbers, use the 18.
+เมื่อการทอยเป็นแบบได้เปรียบหรือแบบเสียเปรียบ ให้ทอย d20 เพิ่มอีก 1 ลูก ใช้ค่าที่ได้มากกว่าจากการทอยสองครั้งนั้นถ้าคุณได้ทอยแบบได้เปรียบ (Advantage) และใช้ค่าที่น้อยกว่าหากต้องทอยแบบเสียเปรียบ (Disadvantage) ตัวอย่างเช่น ถ้าคุณต้องทอยแบบเสียเปรียบและทอยได้ 18 และ 3 ให้ใช้ค่า 3 แต่ถ้าคุณได้ทอยแบบได้เปรียบและทอยได้เท่านั้น ให้ใช้ค่า 18
 
-#### They Don’t Stack {#TheyDontStack}
+#### มันจะไม่ซ้อนกัน {#TheyDontStack}
 
-If multiple situations affect a roll and they all grant Advantage on it, you still roll only two d20s. Similarly, if multiple situations impose Disadvantage on a roll, you roll only two d20s.
+ถ้ามีหลายสถานการณ์ที่ทำให้เกิดการทอยแบบได้เปรียบเกิดขึ้นพร้อมกัน คุณจะยังได้ทอย d20 เพียงสองลูกเท่านั้น เช่นเดียวกัน หากมีหลายสถานการณ์ที่ทำให้เกิดการทอยแบบเสียเปรียบ คุณก็ทอยแค่ 2 ลูกเท่านั้น
 
-If circumstances cause a roll to have both Advantage and Disadvantage, the roll has neither of them, and you roll one d20. This is true even if multiple circumstances impose Disadvantage and only one grants Advantage or vice versa. In such a situation, you have neither Advantage nor Disadvantage.
+ถ้ามีสถานการณ์ที่ให้ทอยทั้งแบบได้เปรียบและเสียเปรียบเกิดขึ้นพร้อมกัน การทอยจะไม่เป็นทั้งสองแบบและคุณจะทอย d20 เพียงหนึ่งลูก กฏนี้จะยังเป็นจริงแม้ว่าจะเกิดสถานะการณ์หลายอย่างที่ทำให้ต้องทอยแบบเสียเปรียบและมีสิ่งหนึ่งที่ทำให้ทอยแบบได้เปรียบหรือกลับกัน หากเป็นเช่นนั้นคุณจะไม่ต้องทอยทั้งแบบได้เปรียบและเสียเปรียบ
 
-#### Interactions with Rerolls {#InteractionswithRerolls}
+#### การตอบสนองต่อการทอยใหม่ {#InteractionswithRerolls}
 
-When you have Advantage or Disadvantage and something in the game lets you reroll or replace the d20, you can reroll or replace only one die, not both. You choose which one.
+เมื่อคุณได้ทอยแบบได้เปรียบหรือเสียเปรียบและมีบางอย่างในเกมให้คุณสามารถทอยใหม่หรือเปลี่ยนค่า d20 ได้ คุณสามารถทอยใหม่หรือเปลี่ยนค่าได้เพียง 1 ลูกเท่านั้น ไม่ใช่ 2 ลูก คุณต้องเลือกว่าลูกไหน
 
-For example, if you have [Heroic Inspiration](/free-rules/rules-glossary#HeroicInspiration) (see the sidebar) and roll a 3 and an 18 on an ability check that has Advantage or Disadvantage, you could expend your Heroic Inspiration to reroll one of those dice, not both of them.
+ตัวอย่างเช่น ถ้าคุณมี [แรงบันดาลใจของฮีโร่ (Heroic Inspiration)](/free-rules/rules-glossary#HeroicInspiration) (ดูด้านล่าง) และทอยได้ 3 และ 18 ในการทอยทดสอบความสามารถที่ทอยแบบได้เปรียบหรือเสียเปรียบ คุณสามารถใช้ แรงบันดาลใจของฮีโร่ ในการทอยใหม่ได้หนึ่งลูก แต่ไม่ใช่ทอยทั้งสองลูกใหม่
 
-Heroic Inspiration
-
-Sometimes the DM or a rule gives you Heroic Inspiration. If you have Heroic Inspiration, you can expend it to reroll any die immediately after rolling it, and you must use the new roll.
-
-**_Only One at a Time._** You can never have more than one instance of Heroic Inspiration. If something gives you Heroic Inspiration and you already have it, you can give it to a player character in your group who lacks it.
-
-**_Gaining Heroic Inspiration._** Your DM can give you Heroic Inspiration for a variety of reasons. Typically, DMs award it when you do something particularly heroic, in character, or entertaining. It’s a reward for making the game more fun for everyone playing.
-
-Other rules might allow your character to gain Heroic Inspiration independent of the DM’s decision. For example, Human characters start each day with Heroic Inspiration.
+> **แรงบันดาลใจของฮีโร่**
+>
+> บางครั้ง DM หรือกฏจะให้ แรงบันดาลใจของฮีโร่ (Heroic Inspiration) กับคุณ ถ้าคุณมีแรงบันดาลใจของฮีโร่ คุณสามารถใช้มันในการทอยใหม่ทันทีหลังจากคุณทอยตามปกติ และคุณต้องใช้ค่าใหม่ที่ได้
+>
+> **_ได้ครั้งละหนึ่ง_** คุณจะมีแรงบันดาลใจของฮีโร่ได้ครั้งละหนึ่งเท่านั้น ถ้าบางสิ่งให้แรงบันดาลใจของฮีโร่กับคุณแต่คุณมีอยู่แล้ว คุณสามารถส่งต่อให้กับเพื่อนในกลุ่มได้
+>
+> **_การได้รับแรงบันดาลใจของฮีโร่_** DM ของคุณสามารถให้แรงบันดาลใจของฮีโร่ได้ในหลายเหตุผล ปกติแล้ว DM จะให้เป็นรางวัลเมื่อคุณทำอะไรแบบวีรบุรุษ เข้าถึงตัวละคร หรือสร้างความเฮฮาให้เกม มันเป็นรางวัลที่คุณทำให้เกมสนุกมากขึ้นสำหรับทุกคน 
+>
+> กฏอื่นอาจจะอนุญาตให้ตัวละครของคุณได้รับแรงบันดาลใจของฮีโร่โดยอิสระจากการตัดสินใจของ DM ตัวอย่างเช่น ตัวละครมนุษย์จะเริ่มวันใหม่ด้วยการได้รับแรงบันดาลใจของฮีโร่
 
 ## Proficiency {#Proficiency}
 
