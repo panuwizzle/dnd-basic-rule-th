@@ -7,7 +7,25 @@ title: เนื้อเรื่องการผจญภัย (Adventures)
 
 ## การผจญภัยสั้น (One-shot)
 
-{% for adventure in site.one-shot %}
-[{{ adventure.name }}]({{adventure.url }})  
-{{adventure.short_description}}
-{% endfor %}
+<div class="columns">
+  {% for adventure in site.one-shot %}
+  <div class="column is-3">
+  <div class="card">
+  <div class="card-image">
+    <figure class="image is-4by3">
+      <img
+        src="{{ adventure.feature_image }}"
+        alt="Placeholder image"
+      />
+    </figure>
+  </div>
+
+  <div class="card-content">
+        <h1 class="title is-5"><a href="{{ adventure.url }}">{{ adventure.name }}</a></h1>
+            {{ adventure.short_description }}
+  </div>
+    
+  </div>
+  </div>
+  {% endfor %}
+</div>

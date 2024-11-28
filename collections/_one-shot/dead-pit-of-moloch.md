@@ -3,6 +3,7 @@ layout: page
 title: หลุมมรณะแห่งโมลอค - Dead Pit of Moloch
 name: หลุมมรณะแห่งโมลอค - Dead Pit of Moloch
 description: เนื้อเรื่องการผจญภัยสั้น (one-shot adventure) สำหรับเริ่มเล่น D&D
+feature_image: /assets/dead-pit-of-moloch.jpg
 short_description: พวกคุณนักผจญภัยรับงานตามหาคนหาย แต่จู่ ๆ คุณก็ตื่นขึ้นมาพบว่าตัวเองอยู่ในหลุมลึก
 ---
 

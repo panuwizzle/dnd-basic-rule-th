@@ -4,6 +4,7 @@ title: พ่อค้าผู้มั่งคั่ง - The Wealthy Merchan
 name: พ่อค้าผู้มั่งคั่ง - The Wealthy Merchant
 description: เนื้อเรื่องการผจญภัยสั้น (one-shot adventure) สำหรับเริ่มเล่น D&D พ่อค้าผู้มั่งคั่ง - The Wealthy Merchant
 short_description: พวกคุณเป็นนักผจญภัยหน้าใหม่ที่ได้รับจ้างให้คุ้มครองพ่อค้าไปส่งสินค้าอีกเมืองหนึ่ง
+feature_image: /assets/the-wealthy-merchant.jpg
 ---
 
 ---

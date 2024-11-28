@@ -4,6 +4,7 @@ title: ภยันตรายในไพน์บรูก - Peril in Pinebro
 name: ภยันตรายในไพน์บรูก - Peril in Pinebrook
 description: เนื้อเรื่องการผจญภัยสั้น (one-shot adventure) สำหรับเริ่มเล่น D&D ภยันตรายในไพน์บรูก - Peril in Pinebrook
 short_description: วันปกติวันหนึ่งในหมู่บ้านไพน์บรูก คุณและกลุ่มยามอาสาออกลาดตระเวณระวังภัยเป็นปกติ จนกระทั่งพวกคุณได้พบกับสิ่งไม่ปกติที่ชายป่า
+feature_image: /assets/peril-in-pinebrook.jpg
 ---
 
 เรื่องราวการผจญภัยเริ่มต้นสำหรับเกมสวมบทบาทที่ยิ่งใหญ่ที่สุดในโลก

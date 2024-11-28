@@ -15,17 +15,18 @@ Characters often find coins on their adventures and can spend those coins in sho
 A coin weighs about a third of an ounce, so fifty coins weigh a pound.
 
 ### Coin Values {#CoinValues}
-|Coin|Value in GP|
-|---|---|
-|Copper Piece (CP)|1/100|
-|Silver Piece (SP)|1/10|
-|Electrum Piece (EP)|1/2|
-|Gold Piece (GP)|1|
-|Platinum Piece (PP)|10|
+
+| Coin                | Value in GP |
+| ------------------- | ----------- |
+| Copper Piece (CP)   | 1/100       |
+| Silver Piece (SP)   | 1/10        |
+| Electrum Piece (EP) | 1/2         |
+| Gold Piece (GP)     | 1           |
+| Platinum Piece (PP) | 10          |
 
 Selling Equipment
 
-Equipment fetches half its cost when sold. In contrast, trade goods and valuables—like gems and art objects—retain their full value in the marketplace. The _Dungeon Master’s Guide_ has prices for magic items.
+Equipment fetches half its cost when sold. In contrast, trade goods and valuables—like gems and art objects—retain their full value in the marketplace. The *Dungeon Master’s Guide* has prices for magic items.
 
 ## Weapons {#Weapons}
 
@@ -42,50 +43,51 @@ The Weapons table in this section shows the game’s main weapons. The table lis
 **Mastery.** Each weapon has a mastery property, which is defined in the “[Mastery Properties](/free-rules/equipment#MasteryProperties)” section later in this chapter. To use that property, you must have a feature that lets you use it.
 
 ### Weapons {#WeaponsTable}
-|Name|Damage|Properties|Mastery|Weight|Cost|
-|---|---|---|---|---|---|
-|_Simple Melee Weapons_|   |   |   |   |   |
-|[Club](https://www.dndbeyond.com/equipment/5-club)|1d4 Bludgeoning|[Light](/free-rules/equipment#Light)|[Slow](/free-rules/equipment#Slow)|2 lb.|1 SP|
-|[Dagger](https://www.dndbeyond.com/equipment/3-dagger)|1d4 Piercing|[Finesse](/free-rules/equipment#Finesse), [Light](/free-rules/equipment#Light), [Thrown](/free-rules/equipment#Thrown) (Range 20/60)|[Nick](/free-rules/equipment#Nick)|1 lb.|2 GP|
-|[Greatclub](https://www.dndbeyond.com/equipment/6-greatclub)|1d8 Bludgeoning|[Two-Handed](/free-rules/equipment#Two-Handed)|[Push](/free-rules/equipment#Push)|10 lb.|2 SP|
-|[Handaxe](https://www.dndbeyond.com/equipment/7-handaxe)|1d6 Slashing|[Light](/free-rules/equipment#Light), [Thrown](/free-rules/equipment#Thrown) (Range 20/60)|[Vex](/free-rules/equipment#Vex)|2 lb.|5 GP|
-|[Javelin](https://www.dndbeyond.com/equipment/8-javelin)|1d6 Piercing|[Thrown](/free-rules/equipment#Thrown) (Range 30/120)|[Slow](/free-rules/equipment#Slow)|2 lb.|5 SP|
-|[Light Hammer](https://www.dndbeyond.com/equipment/10-light-hammer)|1d4 Bludgeoning|[Light](/free-rules/equipment#Light), [Thrown](/free-rules/equipment#Thrown) (Range 20/60)|[Nick](/free-rules/equipment#Nick)|2 lb.|2 GP|
-|[Mace](https://www.dndbeyond.com/equipment/11-mace)|1d6 Bludgeoning|—|[Sap](/free-rules/equipment#Sap)|4 lb.|5 GP|
-|[Quarterstaff](https://www.dndbeyond.com/equipment/12-quarterstaff)|1d6 Bludgeoning|[Versatile](/free-rules/equipment#Versatile) (1d8)|[Topple](/free-rules/equipment#Topple)|4 lb.|2 SP|
-|[Sickle](https://www.dndbeyond.com/equipment/13-sickle)|1d4 Slashing|[Light](/free-rules/equipment#Light)|[Nick](/free-rules/equipment#Nick)|2 lb.|1 GP|
-|[Spear](https://www.dndbeyond.com/equipment/14-spear)|1d6 Piercing|[Thrown](/free-rules/equipment#Thrown) (Range 20/60), [Versatile](/free-rules/equipment#Versatile) (1d8)|[Sap](/free-rules/equipment#Sap)|3 lb.|1 GP|
-|_Simple Ranged Weapons_|   |   |   |   |   |
-|[Dart](https://www.dndbeyond.com/equipment/16-dart)|1d4 Piercing|[Finesse](/free-rules/equipment#Finesse), [Thrown](/free-rules/equipment#Thrown) (Range 20/60)|[Vex](/free-rules/equipment#Vex)|1/4 lb.|5 CP|
-|[Light Crossbow](https://www.dndbeyond.com/equipment/15-crossbow-light)|1d8 Piercing|[Ammunition](/free-rules/equipment#Ammunition) (Range 80/320; Bolt), [Loading](/free-rules/equipment#Loading), [Two-Handed](/free-rules/equipment#Two-Handed)|[Slow](/free-rules/equipment#Slow)|5 lb.|25 GP|
-|[Shortbow](https://www.dndbeyond.com/equipment/17-shortbow)|1d6 Piercing|[Ammunition](/free-rules/equipment#Ammunition) (Range 80/320; Arrow), [Two-Handed](/free-rules/equipment#Two-Handed)|[Vex](/free-rules/equipment#Vex)|2 lb.|25 GP|
-|[Sling](https://www.dndbeyond.com/equipment/18-sling)|1d4 Bludgeoning|[Ammunition](/free-rules/equipment#Ammunition) (Range 30/120; Bullet)|[Slow](/free-rules/equipment#Slow)|—|1 SP|
-|_Martial Melee Weapons_|   |   |   |   |   |
-|[Battleaxe](https://www.dndbeyond.com/equipment/19-battleaxe)|1d8 Slashing|[Versatile](/free-rules/equipment#Versatile) (1d10)|[Topple](/free-rules/equipment#Topple)|4 lb.|10 GP|
-|[Flail](https://www.dndbeyond.com/equipment/20-flail)|1d8 Bludgeoning|—|[Sap](/free-rules/equipment#Sap)|2 lb.|10 GP|
-|[Glaive](https://www.dndbeyond.com/equipment/2-glaive)|1d10 Slashing|[Heavy](/free-rules/equipment#Heavy), [Reach](/free-rules/equipment#Reach), [Two-Handed](/free-rules/equipment#Two-Handed)|[Graze](/free-rules/equipment#Graze)|6 lb.|20 GP|
-|[Greataxe](https://www.dndbeyond.com/equipment/21-greataxe)|1d12 Slashing|[Heavy](/free-rules/equipment#Heavy), [Two-Handed](/free-rules/equipment#Two-Handed)|[Cleave](/free-rules/equipment#Cleave)|7 lb.|30 GP|
-|[Greatsword](https://www.dndbeyond.com/equipment/22-greatsword)|2d6 Slashing|[Heavy](/free-rules/equipment#Heavy), [Two-Handed](/free-rules/equipment#Two-Handed)|[Graze](/free-rules/equipment#Graze)|6 lb.|50 GP|
-|[Halberd](https://www.dndbeyond.com/equipment/23-halberd)|1d10 Slashing|[Heavy](/free-rules/equipment#Heavy), [Reach](/free-rules/equipment#Reach), [Two-Handed](/free-rules/equipment#Two-Handed)|[Cleave](/free-rules/equipment#Cleave)|6 lb.|20 GP|
-|[Lance](https://www.dndbeyond.com/equipment/24-lance)|1d10 Piercing|[Heavy](/free-rules/equipment#Heavy), [Reach](/free-rules/equipment#Reach), [Two-Handed](/free-rules/equipment#Two-Handed) (unless mounted)|[Topple](/free-rules/equipment#Topple)|6 lb.|10 GP|
-|[Longsword](https://www.dndbeyond.com/equipment/4-longsword)|1d8 Slashing|[Versatile](/free-rules/equipment#Versatile) (1d10)|[Sap](/free-rules/equipment#Sap)|3 lb.|15 GP|
-|[Maul](https://www.dndbeyond.com/equipment/25-maul)|2d6 Bludgeoning|[Heavy](/free-rules/equipment#Heavy), [Two-Handed](/free-rules/equipment#Two-Handed)|[Topple](/free-rules/equipment#Topple)|10 lb.|10 GP|
-|[Morningstar](https://www.dndbeyond.com/equipment/26-morningstar)|1d8 Piercing|—|[Sap](/free-rules/equipment#Sap)|4 lb.|15 GP|
-|[Pike](https://www.dndbeyond.com/equipment/27-pike)|1d10 Piercing|[Heavy](/free-rules/equipment#Heavy), [Reach](/free-rules/equipment#Reach), [Two-Handed](/free-rules/equipment#Two-Handed)|[Push](/free-rules/equipment#Push)|18 lb.|5 GP|
-|[Rapier](https://www.dndbeyond.com/equipment/28-rapier)|1d8 Piercing|[Finesse](/free-rules/equipment#Finesse)|[Vex](/free-rules/equipment#Vex)|2 lb.|25 GP|
-|[Scimitar](https://www.dndbeyond.com/equipment/29-scimitar)|1d6 Slashing|[Finesse](/free-rules/equipment#Finesse), [Light](/free-rules/equipment#Light)|[Nick](/free-rules/equipment#Nick)|3 lb.|25 GP|
-|[Shortsword](https://www.dndbeyond.com/equipment/30-shortsword)|1d6 Piercing|[Finesse](/free-rules/equipment#Finesse), [Light](/free-rules/equipment#Light)|[Vex](/free-rules/equipment#Vex)|2 lb.|10 GP|
-|[Trident](https://www.dndbeyond.com/equipment/31-trident)|1d8 Piercing|[Thrown](/free-rules/equipment#Thrown) (Range 20/60), [Versatile](/free-rules/equipment#Versatile) (1d10)|[Topple](/free-rules/equipment#Topple)|4 lb.|5 GP|
-|[Warhammer](https://www.dndbeyond.com/equipment/33-warhammer)|1d8 Bludgeoning|[Versatile](/free-rules/equipment#Versatile) (1d10)|[Push](/free-rules/equipment#Push)|5 lb.|15 GP|
-|[War Pick](https://www.dndbeyond.com/equipment/32-war-pick)|1d8 Piercing|[Versatile](/free-rules/equipment#Versatile) (1d10)|[Sap](/free-rules/equipment#Sap)|2 lb.|5 GP|
-|[Whip](https://www.dndbeyond.com/equipment/34-whip)|1d4 Slashing|[Finesse](/free-rules/equipment#Finesse), [Reach](/free-rules/equipment#Reach)|[Slow](/free-rules/equipment#Slow)|3 lb.|2 GP|
-|_Martial Ranged Weapons_|   |   |   |   |   |
-|[Blowgun](https://www.dndbeyond.com/equipment/35-blowgun)|1 Piercing|[Ammunition](/free-rules/equipment#Ammunition) (Range 25/100; Needle), [Loading](/free-rules/equipment#Loading)|[Vex](/free-rules/equipment#Vex)|1 lb.|10 GP|
-|[Hand Crossbow](https://www.dndbeyond.com/equipment/1-crossbow-hand)|1d6 Piercing|[Ammunition](/free-rules/equipment#Ammunition) (Range 30/120; Bolt), [Light](/free-rules/equipment#Light), [Loading](/free-rules/equipment#Loading)|[Vex](/free-rules/equipment#Vex)|3 lb.|75 GP|
-|[Heavy Crossbow](https://www.dndbeyond.com/equipment/36-crossbow-heavy)|1d10 Piercing|[Ammunition](/free-rules/equipment#Ammunition) (Range 100/400; Bolt), [Heavy](/free-rules/equipment#Heavy), [Loading](/free-rules/equipment#Loading), [Two-Handed](/free-rules/equipment#Two-Handed)|[Push](/free-rules/equipment#Push)|18 lb.|50 GP|
-|[Longbow](https://www.dndbeyond.com/equipment/37-longbow)|1d8 Piercing|[Ammunition](/free-rules/equipment#Ammunition) (Range 150/600; Arrow), [Heavy](/free-rules/equipment#Heavy), [Two-Handed](/free-rules/equipment#Two-Handed)|[Slow](/free-rules/equipment#Slow)|2 lb.|50 GP|
-|[Musket](https://www.dndbeyond.com/equipment/43-musket)|1d12 Piercing|[Ammunition](/free-rules/equipment#Ammunition) (Range 40/120; Bullet), [Loading](/free-rules/equipment#Loading), [Two-Handed](/free-rules/equipment#Two-Handed)|[Slow](/free-rules/equipment#Slow)|10 lb.|500 GP|
-|[Pistol](https://www.dndbeyond.com/equipment/42-pistol)|1d10 Piercing|[Ammunition](/free-rules/equipment#Ammunition) (Range 30/90; Bullet), [Loading](/free-rules/equipment#Loading)|[Vex](/free-rules/equipment#Vex)|3 lb.|250 GP|
+
+| Name                                                                    | Damage          | Properties                                                                                                                                                                                           | Mastery                                | Weight  | Cost   |
+| ----------------------------------------------------------------------- | --------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | -------------------------------------- | ------- | ------ |
+| _Simple Melee Weapons_                                                  |                 |                                                                                                                                                                                                      |                                        |         |        |
+| [Club](https://www.dndbeyond.com/equipment/5-club)                      | 1d4 Bludgeoning | [Light](/free-rules/equipment#Light)                                                                                                                                                                 | [Slow](/free-rules/equipment#Slow)     | 2 lb.   | 1 SP   |
+| [Dagger](https://www.dndbeyond.com/equipment/3-dagger)                  | 1d4 Piercing    | [Finesse](/free-rules/equipment#Finesse), [Light](/free-rules/equipment#Light), [Thrown](/free-rules/equipment#Thrown) (Range 20/60)                                                                 | [Nick](/free-rules/equipment#Nick)     | 1 lb.   | 2 GP   |
+| [Greatclub](https://www.dndbeyond.com/equipment/6-greatclub)            | 1d8 Bludgeoning | [Two-Handed](/free-rules/equipment#Two-Handed)                                                                                                                                                       | [Push](/free-rules/equipment#Push)     | 10 lb.  | 2 SP   |
+| [Handaxe](https://www.dndbeyond.com/equipment/7-handaxe)                | 1d6 Slashing    | [Light](/free-rules/equipment#Light), [Thrown](/free-rules/equipment#Thrown) (Range 20/60)                                                                                                           | [Vex](/free-rules/equipment#Vex)       | 2 lb.   | 5 GP   |
+| [Javelin](https://www.dndbeyond.com/equipment/8-javelin)                | 1d6 Piercing    | [Thrown](/free-rules/equipment#Thrown) (Range 30/120)                                                                                                                                                | [Slow](/free-rules/equipment#Slow)     | 2 lb.   | 5 SP   |
+| [Light Hammer](https://www.dndbeyond.com/equipment/10-light-hammer)     | 1d4 Bludgeoning | [Light](/free-rules/equipment#Light), [Thrown](/free-rules/equipment#Thrown) (Range 20/60)                                                                                                           | [Nick](/free-rules/equipment#Nick)     | 2 lb.   | 2 GP   |
+| [Mace](https://www.dndbeyond.com/equipment/11-mace)                     | 1d6 Bludgeoning | —                                                                                                                                                                                                    | [Sap](/free-rules/equipment#Sap)       | 4 lb.   | 5 GP   |
+| [Quarterstaff](https://www.dndbeyond.com/equipment/12-quarterstaff)     | 1d6 Bludgeoning | [Versatile](/free-rules/equipment#Versatile) (1d8)                                                                                                                                                   | [Topple](/free-rules/equipment#Topple) | 4 lb.   | 2 SP   |
+| [Sickle](https://www.dndbeyond.com/equipment/13-sickle)                 | 1d4 Slashing    | [Light](/free-rules/equipment#Light)                                                                                                                                                                 | [Nick](/free-rules/equipment#Nick)     | 2 lb.   | 1 GP   |
+| [Spear](https://www.dndbeyond.com/equipment/14-spear)                   | 1d6 Piercing    | [Thrown](/free-rules/equipment#Thrown) (Range 20/60), [Versatile](/free-rules/equipment#Versatile) (1d8)                                                                                             | [Sap](/free-rules/equipment#Sap)       | 3 lb.   | 1 GP   |
+| _Simple Ranged Weapons_                                                 |                 |                                                                                                                                                                                                      |                                        |         |        |
+| [Dart](https://www.dndbeyond.com/equipment/16-dart)                     | 1d4 Piercing    | [Finesse](/free-rules/equipment#Finesse), [Thrown](/free-rules/equipment#Thrown) (Range 20/60)                                                                                                       | [Vex](/free-rules/equipment#Vex)       | 1/4 lb. | 5 CP   |
+| [Light Crossbow](https://www.dndbeyond.com/equipment/15-crossbow-light) | 1d8 Piercing    | [Ammunition](/free-rules/equipment#Ammunition) (Range 80/320; Bolt), [Loading](/free-rules/equipment#Loading), [Two-Handed](/free-rules/equipment#Two-Handed)                                        | [Slow](/free-rules/equipment#Slow)     | 5 lb.   | 25 GP  |
+| [Shortbow](https://www.dndbeyond.com/equipment/17-shortbow)             | 1d6 Piercing    | [Ammunition](/free-rules/equipment#Ammunition) (Range 80/320; Arrow), [Two-Handed](/free-rules/equipment#Two-Handed)                                                                                 | [Vex](/free-rules/equipment#Vex)       | 2 lb.   | 25 GP  |
+| [Sling](https://www.dndbeyond.com/equipment/18-sling)                   | 1d4 Bludgeoning | [Ammunition](/free-rules/equipment#Ammunition) (Range 30/120; Bullet)                                                                                                                                | [Slow](/free-rules/equipment#Slow)     | —       | 1 SP   |
+| _Martial Melee Weapons_                                                 |                 |                                                                                                                                                                                                      |                                        |         |        |
+| [Battleaxe](https://www.dndbeyond.com/equipment/19-battleaxe)           | 1d8 Slashing    | [Versatile](/free-rules/equipment#Versatile) (1d10)                                                                                                                                                  | [Topple](/free-rules/equipment#Topple) | 4 lb.   | 10 GP  |
+| [Flail](https://www.dndbeyond.com/equipment/20-flail)                   | 1d8 Bludgeoning | —                                                                                                                                                                                                    | [Sap](/free-rules/equipment#Sap)       | 2 lb.   | 10 GP  |
+| [Glaive](https://www.dndbeyond.com/equipment/2-glaive)                  | 1d10 Slashing   | [Heavy](/free-rules/equipment#Heavy), [Reach](/free-rules/equipment#Reach), [Two-Handed](/free-rules/equipment#Two-Handed)                                                                           | [Graze](/free-rules/equipment#Graze)   | 6 lb.   | 20 GP  |
+| [Greataxe](https://www.dndbeyond.com/equipment/21-greataxe)             | 1d12 Slashing   | [Heavy](/free-rules/equipment#Heavy), [Two-Handed](/free-rules/equipment#Two-Handed)                                                                                                                 | [Cleave](/free-rules/equipment#Cleave) | 7 lb.   | 30 GP  |
+| [Greatsword](https://www.dndbeyond.com/equipment/22-greatsword)         | 2d6 Slashing    | [Heavy](/free-rules/equipment#Heavy), [Two-Handed](/free-rules/equipment#Two-Handed)                                                                                                                 | [Graze](/free-rules/equipment#Graze)   | 6 lb.   | 50 GP  |
+| [Halberd](https://www.dndbeyond.com/equipment/23-halberd)               | 1d10 Slashing   | [Heavy](/free-rules/equipment#Heavy), [Reach](/free-rules/equipment#Reach), [Two-Handed](/free-rules/equipment#Two-Handed)                                                                           | [Cleave](/free-rules/equipment#Cleave) | 6 lb.   | 20 GP  |
+| [Lance](https://www.dndbeyond.com/equipment/24-lance)                   | 1d10 Piercing   | [Heavy](/free-rules/equipment#Heavy), [Reach](/free-rules/equipment#Reach), [Two-Handed](/free-rules/equipment#Two-Handed) (unless mounted)                                                          | [Topple](/free-rules/equipment#Topple) | 6 lb.   | 10 GP  |
+| [Longsword](https://www.dndbeyond.com/equipment/4-longsword)            | 1d8 Slashing    | [Versatile](/free-rules/equipment#Versatile) (1d10)                                                                                                                                                  | [Sap](/free-rules/equipment#Sap)       | 3 lb.   | 15 GP  |
+| [Maul](https://www.dndbeyond.com/equipment/25-maul)                     | 2d6 Bludgeoning | [Heavy](/free-rules/equipment#Heavy), [Two-Handed](/free-rules/equipment#Two-Handed)                                                                                                                 | [Topple](/free-rules/equipment#Topple) | 10 lb.  | 10 GP  |
+| [Morningstar](https://www.dndbeyond.com/equipment/26-morningstar)       | 1d8 Piercing    | —                                                                                                                                                                                                    | [Sap](/free-rules/equipment#Sap)       | 4 lb.   | 15 GP  |
+| [Pike](https://www.dndbeyond.com/equipment/27-pike)                     | 1d10 Piercing   | [Heavy](/free-rules/equipment#Heavy), [Reach](/free-rules/equipment#Reach), [Two-Handed](/free-rules/equipment#Two-Handed)                                                                           | [Push](/free-rules/equipment#Push)     | 18 lb.  | 5 GP   |
+| [Rapier](https://www.dndbeyond.com/equipment/28-rapier)                 | 1d8 Piercing    | [Finesse](/free-rules/equipment#Finesse)                                                                                                                                                             | [Vex](/free-rules/equipment#Vex)       | 2 lb.   | 25 GP  |
+| [Scimitar](https://www.dndbeyond.com/equipment/29-scimitar)             | 1d6 Slashing    | [Finesse](/free-rules/equipment#Finesse), [Light](/free-rules/equipment#Light)                                                                                                                       | [Nick](/free-rules/equipment#Nick)     | 3 lb.   | 25 GP  |
+| [Shortsword](https://www.dndbeyond.com/equipment/30-shortsword)         | 1d6 Piercing    | [Finesse](/free-rules/equipment#Finesse), [Light](/free-rules/equipment#Light)                                                                                                                       | [Vex](/free-rules/equipment#Vex)       | 2 lb.   | 10 GP  |
+| [Trident](https://www.dndbeyond.com/equipment/31-trident)               | 1d8 Piercing    | [Thrown](/free-rules/equipment#Thrown) (Range 20/60), [Versatile](/free-rules/equipment#Versatile) (1d10)                                                                                            | [Topple](/free-rules/equipment#Topple) | 4 lb.   | 5 GP   |
+| [Warhammer](https://www.dndbeyond.com/equipment/33-warhammer)           | 1d8 Bludgeoning | [Versatile](/free-rules/equipment#Versatile) (1d10)                                                                                                                                                  | [Push](/free-rules/equipment#Push)     | 5 lb.   | 15 GP  |
+| [War Pick](https://www.dndbeyond.com/equipment/32-war-pick)             | 1d8 Piercing    | [Versatile](/free-rules/equipment#Versatile) (1d10)                                                                                                                                                  | [Sap](/free-rules/equipment#Sap)       | 2 lb.   | 5 GP   |
+| [Whip](https://www.dndbeyond.com/equipment/34-whip)                     | 1d4 Slashing    | [Finesse](/free-rules/equipment#Finesse), [Reach](/free-rules/equipment#Reach)                                                                                                                       | [Slow](/free-rules/equipment#Slow)     | 3 lb.   | 2 GP   |
+| _Martial Ranged Weapons_                                                |                 |                                                                                                                                                                                                      |                                        |         |        |
+| [Blowgun](https://www.dndbeyond.com/equipment/35-blowgun)               | 1 Piercing      | [Ammunition](/free-rules/equipment#Ammunition) (Range 25/100; Needle), [Loading](/free-rules/equipment#Loading)                                                                                      | [Vex](/free-rules/equipment#Vex)       | 1 lb.   | 10 GP  |
+| [Hand Crossbow](https://www.dndbeyond.com/equipment/1-crossbow-hand)    | 1d6 Piercing    | [Ammunition](/free-rules/equipment#Ammunition) (Range 30/120; Bolt), [Light](/free-rules/equipment#Light), [Loading](/free-rules/equipment#Loading)                                                  | [Vex](/free-rules/equipment#Vex)       | 3 lb.   | 75 GP  |
+| [Heavy Crossbow](https://www.dndbeyond.com/equipment/36-crossbow-heavy) | 1d10 Piercing   | [Ammunition](/free-rules/equipment#Ammunition) (Range 100/400; Bolt), [Heavy](/free-rules/equipment#Heavy), [Loading](/free-rules/equipment#Loading), [Two-Handed](/free-rules/equipment#Two-Handed) | [Push](/free-rules/equipment#Push)     | 18 lb.  | 50 GP  |
+| [Longbow](https://www.dndbeyond.com/equipment/37-longbow)               | 1d8 Piercing    | [Ammunition](/free-rules/equipment#Ammunition) (Range 150/600; Arrow), [Heavy](/free-rules/equipment#Heavy), [Two-Handed](/free-rules/equipment#Two-Handed)                                          | [Slow](/free-rules/equipment#Slow)     | 2 lb.   | 50 GP  |
+| [Musket](https://www.dndbeyond.com/equipment/43-musket)                 | 1d12 Piercing   | [Ammunition](/free-rules/equipment#Ammunition) (Range 40/120; Bullet), [Loading](/free-rules/equipment#Loading), [Two-Handed](/free-rules/equipment#Two-Handed)                                      | [Slow](/free-rules/equipment#Slow)     | 10 lb.  | 500 GP |
+| [Pistol](https://www.dndbeyond.com/equipment/42-pistol)                 | 1d10 Piercing   | [Ammunition](/free-rules/equipment#Ammunition) (Range 30/90; Bullet), [Loading](/free-rules/equipment#Loading)                                                                                       | [Vex](/free-rules/equipment#Vex)       | 3 lb.   | 250 GP |
 
 ### Weapon Proficiency {#WeaponProficiency}
 
@@ -188,25 +190,26 @@ The Armor table lists the game’s main armor. The table includes the cost and w
 **Stealth.** If the table shows “Disadvantage” in the Stealth column for an armor type, the wearer has [Disadvantage](/free-rules/rules-glossary#Disadvantage) on Dexterity ([Stealth](/free-rules/playing-the-game#Skills)) checks.
 
 ### Armor {#ArmorTable}
-|Armor|Armor Class (AC)|Strength|Stealth|Weight|Cost|
-|---|---|---|---|---|---|
-|_Light Armor (1 Minute to Don or Doff)_|   |   |   |   |   |
-|[Padded Armor](https://www.dndbeyond.com/equipment/9-padded)|11 + Dex modifier|—|[Disadvantage](/free-rules/rules-glossary#Disadvantage)|8 lb.|5 GP|
-|[Leather Armor](https://www.dndbeyond.com/equipment/10-leather)|11 + Dex modifier|—|—|10 lb.|10 GP|
-|[Studded Leather Armor](https://www.dndbeyond.com/equipment/3-studded-leather)|12 + Dex modifier|—|—|13 lb.|45 GP|
-|_Medium Armor (5 Minutes to Don and 1 Minute to Doff)_|   |   |   |   |   |
-|[Hide Armor](https://www.dndbeyond.com/equipment/11-hide)|12 + Dex modifier (max 2)|—|—|12 lb.|10 GP|
-|[Chain Shirt](https://www.dndbeyond.com/equipment/12-chain-shirt)|13 + Dex modifier (max 2)|—|—|20 lb.|50 GP|
-|[Scale Mail](https://www.dndbeyond.com/equipment/6-scale-mail)|14 + Dex modifier (max 2)|—|[Disadvantage](/free-rules/rules-glossary#Disadvantage)|45 lb.|50 GP|
-|[Breastplate](https://www.dndbeyond.com/equipment/13-breastplate)|14 + Dex modifier (max 2)|—|—|20 lb.|400 GP|
-|[Half Plate Armor](https://www.dndbeyond.com/equipment/14-half-plate)|15 + Dex modifier (max 2)|—|[Disadvantage](/free-rules/rules-glossary#Disadvantage)|40 lb.|750 GP|
-|_Heavy Armor (10 Minutes to Don and 5 Minutes to Doff)_|   |   |   |   |   |
-|[Ring Mail](https://www.dndbeyond.com/equipment/15-ring-mail)|14|—|[Disadvantage](/free-rules/rules-glossary#Disadvantage)|40 lb.|30 GP|
-|[Chain Mail](https://www.dndbeyond.com/equipment/16-chain-mail)|16|Str 13|[Disadvantage](/free-rules/rules-glossary#Disadvantage)|55 lb.|75 GP|
-|[Splint Armor](https://www.dndbeyond.com/equipment/17-splint)|17|Str 15|[Disadvantage](/free-rules/rules-glossary#Disadvantage)|60 lb.|200 GP|
-|[Plate Armor](https://www.dndbeyond.com/equipment/18-plate)|18|Str 15|[Disadvantage](/free-rules/rules-glossary#Disadvantage)|65 lb.|1,500 GP|
-|_Shield ([Utilize](/free-rules/rules-glossary#UtilizeAction) Action to Don or Doff)_|   |   |   |   |   |
-|[Shield](https://www.dndbeyond.com/equipment/8-shield)|+2|—|—|6 lb.|10 GP|
+
+| Armor                                                                                | Armor Class (AC)          | Strength | Stealth                                                 | Weight | Cost     |
+| ------------------------------------------------------------------------------------ | ------------------------- | -------- | ------------------------------------------------------- | ------ | -------- |
+| _Light Armor (1 Minute to Don or Doff)_                                              |                           |          |                                                         |        |          |
+| [Padded Armor](https://www.dndbeyond.com/equipment/9-padded)                         | 11 + Dex modifier         | —        | [Disadvantage](/free-rules/rules-glossary#Disadvantage) | 8 lb.  | 5 GP     |
+| [Leather Armor](https://www.dndbeyond.com/equipment/10-leather)                      | 11 + Dex modifier         | —        | —                                                       | 10 lb. | 10 GP    |
+| [Studded Leather Armor](https://www.dndbeyond.com/equipment/3-studded-leather)       | 12 + Dex modifier         | —        | —                                                       | 13 lb. | 45 GP    |
+| _Medium Armor (5 Minutes to Don and 1 Minute to Doff)_                               |                           |          |                                                         |        |          |
+| [Hide Armor](https://www.dndbeyond.com/equipment/11-hide)                            | 12 + Dex modifier (max 2) | —        | —                                                       | 12 lb. | 10 GP    |
+| [Chain Shirt](https://www.dndbeyond.com/equipment/12-chain-shirt)                    | 13 + Dex modifier (max 2) | —        | —                                                       | 20 lb. | 50 GP    |
+| [Scale Mail](https://www.dndbeyond.com/equipment/6-scale-mail)                       | 14 + Dex modifier (max 2) | —        | [Disadvantage](/free-rules/rules-glossary#Disadvantage) | 45 lb. | 50 GP    |
+| [Breastplate](https://www.dndbeyond.com/equipment/13-breastplate)                    | 14 + Dex modifier (max 2) | —        | —                                                       | 20 lb. | 400 GP   |
+| [Half Plate Armor](https://www.dndbeyond.com/equipment/14-half-plate)                | 15 + Dex modifier (max 2) | —        | [Disadvantage](/free-rules/rules-glossary#Disadvantage) | 40 lb. | 750 GP   |
+| _Heavy Armor (10 Minutes to Don and 5 Minutes to Doff)_                              |                           |          |                                                         |        |          |
+| [Ring Mail](https://www.dndbeyond.com/equipment/15-ring-mail)                        | 14                        | —        | [Disadvantage](/free-rules/rules-glossary#Disadvantage) | 40 lb. | 30 GP    |
+| [Chain Mail](https://www.dndbeyond.com/equipment/16-chain-mail)                      | 16                        | Str 13   | [Disadvantage](/free-rules/rules-glossary#Disadvantage) | 55 lb. | 75 GP    |
+| [Splint Armor](https://www.dndbeyond.com/equipment/17-splint)                        | 17                        | Str 15   | [Disadvantage](/free-rules/rules-glossary#Disadvantage) | 60 lb. | 200 GP   |
+| [Plate Armor](https://www.dndbeyond.com/equipment/18-plate)                          | 18                        | Str 15   | [Disadvantage](/free-rules/rules-glossary#Disadvantage) | 65 lb. | 1,500 GP |
+| _Shield ([Utilize](/free-rules/rules-glossary#UtilizeAction) Action to Don or Doff)_ |                           |          |                                                         |        |          |
+| [Shield](https://www.dndbeyond.com/equipment/8-shield)                               | +2                        | —        | —                                                       | 6 lb.  | 10 GP    |
 
 ### Armor Training {#ArmorTraining}
 
@@ -462,90 +465,91 @@ These tools support adventure and other pursuits.
 The Adventuring Gear table in this section includes gear that adventurers often find useful. These items are described here in alphabetical order, with an item’s price appearing after its name.
 
 ### Adventuring Gear {#AdventuringGearTable}
-|Item|Weight|Cost|
-|---|---|---|
-|[Acid](/free-rules/equipment#Acid25GP)|1 lb.|25 GP|
-|[Alchemist’s Fire](/free-rules/equipment#AlchemistsFire50GP)|1 lb.|50 GP|
-|[Ammunition](/free-rules/equipment#AmmunitionVaries)|Varies|Varies|
-|[Antitoxin](/free-rules/equipment#Antitoxin50GP)|—|50 GP|
-|[Arcane Focus](/free-rules/equipment#ArcaneFocusVaries)|Varies|Varies|
-|[Backpack](/free-rules/equipment#Backpack2GP)|5 lb.|2 GP|
-|[Ball Bearings](/free-rules/equipment#BallBearings1GP)|2 lb.|1 GP|
-|[Barrel](/free-rules/equipment#Barrel2GP)|70 lb.|2 GP|
-|[Basket](/free-rules/equipment#Basket4SP)|2 lb.|4 SP|
-|[Bedroll](/free-rules/equipment#Bedroll1GP)|7 lb.|1 GP|
-|[Bell](/free-rules/equipment#Bell1GP)|—|1 GP|
-|[Blanket](/free-rules/equipment#Blanket5SP)|3 lb.|5 SP|
-|[Block and Tackle](/free-rules/equipment#BlockandTackle1GP)|5 lb.|1 GP|
-|[Book](/free-rules/equipment#Book25GP)|5 lb.|25 GP|
-|[Bottle, Glass](/free-rules/equipment#BottleGlass2GP)|2 lb.|2 GP|
-|[Bucket](/free-rules/equipment#Bucket5CP)|2 lb.|5 CP|
-|[Burglar’s Pack](/free-rules/equipment#BurglarsPack16GP)|42 lb.|16 GP|
-|[Caltrops](/free-rules/equipment#Caltrops1GP)|2 lb.|1 GP|
-|[Candle](/free-rules/equipment#Candle1CP)|—|1 CP|
-|[Case, Crossbow Bolt](/free-rules/equipment#CaseCrossbowBolt1GP)|1 lb.|1 GP|
-|[Case, Map or Scroll](/free-rules/equipment#CaseMaporScroll1GP)|1 lb.|1 GP|
-|[Chain](/free-rules/equipment#Chain5GP)|10 lb.|5 GP|
-|[Chest](/free-rules/equipment#Chest5GP)|25 lb.|5 GP|
-|[Climber’s Kit](/free-rules/equipment#ClimbersKit25GP)|12 lb.|25 GP|
-|[Clothes, Fine](/free-rules/equipment#ClothesFine15GP)|6 lb.|15 GP|
-|[Clothes, Traveler’s](/free-rules/equipment#ClothesTravelers2GP)|4 lb.|2 GP|
-|[Component Pouch](/free-rules/equipment#ComponentPouch25GP)|2 lb.|25 GP|
-|[Costume](/free-rules/equipment#Costume5GP)|4 lb.|5 GP|
-|[Crowbar](/free-rules/equipment#Crowbar2GP)|5 lb.|2 GP|
-|[Diplomat’s Pack](/free-rules/equipment#DiplomatsPack39GP)|39 lb.|39 GP|
-|[Druidic Focus](/free-rules/equipment#DruidicFocusVaries)|Varies|Varies|
-|[Dungeoneer’s Pack](/free-rules/equipment#DungeoneersPack12GP)|55 lb.|12 GP|
-|[Entertainer’s Pack](/free-rules/equipment#EntertainersPack40GP)|58½ lb.|40 GP|
-|[Explorer’s Pack](/free-rules/equipment#ExplorersPack10GP)|55 lb.|10 GP|
-|[Flask](/free-rules/equipment#Flask2CP)|1 lb.|2 CP|
-|[Grappling Hook](/free-rules/equipment#GrapplingHook2GP)|4 lb.|2 GP|
-|[Healer’s Kit](/free-rules/equipment#HealersKit5GP)|3 lb.|5 GP|
-|[Holy Symbol](/free-rules/equipment#HolySymbolVaries)|Varies|Varies|
-|[Holy Water](/free-rules/equipment#HolyWater25GP)|1 lb.|25 GP|
-|[Hunting Trap](/free-rules/equipment#HuntingTrap5GP)|25 lb.|5 GP|
-|[Ink](/free-rules/equipment#Ink10GP)|—|10 GP|
-|[Ink Pen](/free-rules/equipment#InkPen2CP)|—|2 CP|
-|[Jug](/free-rules/equipment#Jug2CP)|4 lb.|2 CP|
-|[Ladder](/free-rules/equipment#Ladder1SP)|25 lb.|1 SP|
-|[Lamp](/free-rules/equipment#Lamp5SP)|1 lb.|5 SP|
-|[Lantern, Bullseye](/free-rules/equipment#LanternBullseye10GP)|2 lb.|10 GP|
-|[Lantern, Hooded](/free-rules/equipment#LanternHooded5GP)|2 lb.|5 GP|
-|[Lock](/free-rules/equipment#Lock10GP)|1 lb.|10 GP|
-|[Magnifying Glass](/free-rules/equipment#MagnifyingGlass100GP)|—|100 GP|
-|[Manacles](/free-rules/equipment#Manacles2GP)|6 lb.|2 GP|
-|[Map](/free-rules/equipment#Map1GP)|—|1 GP|
-|[Mirror](/free-rules/equipment#Mirror5GP)|1/2 lb.|5 GP|
-|[Net](/free-rules/equipment#Net1GP)|3 lb.|1 GP|
-|[Oil](/free-rules/equipment#Oil1SP)|1 lb.|1 SP|
-|[Paper](/free-rules/equipment#Paper2SP)|—|2 SP|
-|[Parchment](/free-rules/equipment#Parchment1SP)|—|1 SP|
-|[Perfume](/free-rules/equipment#Perfume5GP)|—|5 GP|
-|[Poison, Basic](/free-rules/equipment#PoisonBasic100GP)|—|100 GP|
-|[Pole](/free-rules/equipment#Pole5CP)|7 lb.|5 CP|
-|[Pot, Iron](/free-rules/equipment#PotIron2GP)|10 lb.|2 GP|
-|[Potion of Healing](/free-rules/equipment#PotionofHealing50GP)|1/2 lb.|50 GP|
-|[Pouch](/free-rules/equipment#Pouch5SP)|1 lb.|5 SP|
-|[Priest’s Pack](/free-rules/equipment#PriestsPack33GP)|29 lb.|33 GP|
-|[Quiver](/free-rules/equipment#Quiver1GP)|1 lb.|1 GP|
-|[Ram, Portable](/free-rules/equipment#RamPortable4GP)|35 lb.|4 GP|
-|[Rations](/free-rules/equipment#Rations5SP)|2 lb.|5 SP|
-|[Robe](/free-rules/equipment#Robe1GP)|4 lb.|1 GP|
-|[Rope](/free-rules/equipment#Rope1GP)|5 lb.|1 GP|
-|[Sack](/free-rules/equipment#Sack1CP)|1/2 lb.|1 CP|
-|[Scholar’s Pack](/free-rules/equipment#ScholarsPack40GP)|22 lb.|40 GP|
-|[Shovel](/free-rules/equipment#Shovel2GP)|5 lb.|2 GP|
-|[Signal Whistle](/free-rules/equipment#SignalWhistle5CP)|—|5 CP|
-|[_Spell Scroll_ (Cantrip)](/free-rules/equipment#SpellScrollCantrip30GPLevel150GP)|—|30 GP|
-|[_Spell Scroll_ (Level 1)](/free-rules/equipment#SpellScrollCantrip30GPLevel150GP)|—|50 GP|
-|[Spikes, Iron](/free-rules/equipment#SpikesIron1GP)|5 lb.|1 GP|
-|[Spyglass](/free-rules/equipment#Spyglass1000GP)|1 lb.|1,000 GP|
-|[String](/free-rules/equipment#String1SP)|—|1 SP|
-|[Tent](/free-rules/equipment#Tent2GP)|20 lb.|2 GP|
-|[Tinderbox](/free-rules/equipment#Tinderbox5SP)|1 lb.|5 SP|
-|[Torch](/free-rules/equipment#Torch1CP)|1 lb.|1 CP|
-|[Vial](/free-rules/equipment#Vial1GP)|—|1 GP|
-|[Waterskin](/free-rules/equipment#Waterskin2SP)|5 lb. (full)|2 SP|
+
+| Item                                                                               | Weight       | Cost     |
+| ---------------------------------------------------------------------------------- | ------------ | -------- |
+| [Acid](/free-rules/equipment#Acid25GP)                                             | 1 lb.        | 25 GP    |
+| [Alchemist’s Fire](/free-rules/equipment#AlchemistsFire50GP)                       | 1 lb.        | 50 GP    |
+| [Ammunition](/free-rules/equipment#AmmunitionVaries)                               | Varies       | Varies   |
+| [Antitoxin](/free-rules/equipment#Antitoxin50GP)                                   | —            | 50 GP    |
+| [Arcane Focus](/free-rules/equipment#ArcaneFocusVaries)                            | Varies       | Varies   |
+| [Backpack](/free-rules/equipment#Backpack2GP)                                      | 5 lb.        | 2 GP     |
+| [Ball Bearings](/free-rules/equipment#BallBearings1GP)                             | 2 lb.        | 1 GP     |
+| [Barrel](/free-rules/equipment#Barrel2GP)                                          | 70 lb.       | 2 GP     |
+| [Basket](/free-rules/equipment#Basket4SP)                                          | 2 lb.        | 4 SP     |
+| [Bedroll](/free-rules/equipment#Bedroll1GP)                                        | 7 lb.        | 1 GP     |
+| [Bell](/free-rules/equipment#Bell1GP)                                              | —            | 1 GP     |
+| [Blanket](/free-rules/equipment#Blanket5SP)                                        | 3 lb.        | 5 SP     |
+| [Block and Tackle](/free-rules/equipment#BlockandTackle1GP)                        | 5 lb.        | 1 GP     |
+| [Book](/free-rules/equipment#Book25GP)                                             | 5 lb.        | 25 GP    |
+| [Bottle, Glass](/free-rules/equipment#BottleGlass2GP)                              | 2 lb.        | 2 GP     |
+| [Bucket](/free-rules/equipment#Bucket5CP)                                          | 2 lb.        | 5 CP     |
+| [Burglar’s Pack](/free-rules/equipment#BurglarsPack16GP)                           | 42 lb.       | 16 GP    |
+| [Caltrops](/free-rules/equipment#Caltrops1GP)                                      | 2 lb.        | 1 GP     |
+| [Candle](/free-rules/equipment#Candle1CP)                                          | —            | 1 CP     |
+| [Case, Crossbow Bolt](/free-rules/equipment#CaseCrossbowBolt1GP)                   | 1 lb.        | 1 GP     |
+| [Case, Map or Scroll](/free-rules/equipment#CaseMaporScroll1GP)                    | 1 lb.        | 1 GP     |
+| [Chain](/free-rules/equipment#Chain5GP)                                            | 10 lb.       | 5 GP     |
+| [Chest](/free-rules/equipment#Chest5GP)                                            | 25 lb.       | 5 GP     |
+| [Climber’s Kit](/free-rules/equipment#ClimbersKit25GP)                             | 12 lb.       | 25 GP    |
+| [Clothes, Fine](/free-rules/equipment#ClothesFine15GP)                             | 6 lb.        | 15 GP    |
+| [Clothes, Traveler’s](/free-rules/equipment#ClothesTravelers2GP)                   | 4 lb.        | 2 GP     |
+| [Component Pouch](/free-rules/equipment#ComponentPouch25GP)                        | 2 lb.        | 25 GP    |
+| [Costume](/free-rules/equipment#Costume5GP)                                        | 4 lb.        | 5 GP     |
+| [Crowbar](/free-rules/equipment#Crowbar2GP)                                        | 5 lb.        | 2 GP     |
+| [Diplomat’s Pack](/free-rules/equipment#DiplomatsPack39GP)                         | 39 lb.       | 39 GP    |
+| [Druidic Focus](/free-rules/equipment#DruidicFocusVaries)                          | Varies       | Varies   |
+| [Dungeoneer’s Pack](/free-rules/equipment#DungeoneersPack12GP)                     | 55 lb.       | 12 GP    |
+| [Entertainer’s Pack](/free-rules/equipment#EntertainersPack40GP)                   | 58½ lb.      | 40 GP    |
+| [Explorer’s Pack](/free-rules/equipment#ExplorersPack10GP)                         | 55 lb.       | 10 GP    |
+| [Flask](/free-rules/equipment#Flask2CP)                                            | 1 lb.        | 2 CP     |
+| [Grappling Hook](/free-rules/equipment#GrapplingHook2GP)                           | 4 lb.        | 2 GP     |
+| [Healer’s Kit](/free-rules/equipment#HealersKit5GP)                                | 3 lb.        | 5 GP     |
+| [Holy Symbol](/free-rules/equipment#HolySymbolVaries)                              | Varies       | Varies   |
+| [Holy Water](/free-rules/equipment#HolyWater25GP)                                  | 1 lb.        | 25 GP    |
+| [Hunting Trap](/free-rules/equipment#HuntingTrap5GP)                               | 25 lb.       | 5 GP     |
+| [Ink](/free-rules/equipment#Ink10GP)                                               | —            | 10 GP    |
+| [Ink Pen](/free-rules/equipment#InkPen2CP)                                         | —            | 2 CP     |
+| [Jug](/free-rules/equipment#Jug2CP)                                                | 4 lb.        | 2 CP     |
+| [Ladder](/free-rules/equipment#Ladder1SP)                                          | 25 lb.       | 1 SP     |
+| [Lamp](/free-rules/equipment#Lamp5SP)                                              | 1 lb.        | 5 SP     |
+| [Lantern, Bullseye](/free-rules/equipment#LanternBullseye10GP)                     | 2 lb.        | 10 GP    |
+| [Lantern, Hooded](/free-rules/equipment#LanternHooded5GP)                          | 2 lb.        | 5 GP     |
+| [Lock](/free-rules/equipment#Lock10GP)                                             | 1 lb.        | 10 GP    |
+| [Magnifying Glass](/free-rules/equipment#MagnifyingGlass100GP)                     | —            | 100 GP   |
+| [Manacles](/free-rules/equipment#Manacles2GP)                                      | 6 lb.        | 2 GP     |
+| [Map](/free-rules/equipment#Map1GP)                                                | —            | 1 GP     |
+| [Mirror](/free-rules/equipment#Mirror5GP)                                          | 1/2 lb.      | 5 GP     |
+| [Net](/free-rules/equipment#Net1GP)                                                | 3 lb.        | 1 GP     |
+| [Oil](/free-rules/equipment#Oil1SP)                                                | 1 lb.        | 1 SP     |
+| [Paper](/free-rules/equipment#Paper2SP)                                            | —            | 2 SP     |
+| [Parchment](/free-rules/equipment#Parchment1SP)                                    | —            | 1 SP     |
+| [Perfume](/free-rules/equipment#Perfume5GP)                                        | —            | 5 GP     |
+| [Poison, Basic](/free-rules/equipment#PoisonBasic100GP)                            | —            | 100 GP   |
+| [Pole](/free-rules/equipment#Pole5CP)                                              | 7 lb.        | 5 CP     |
+| [Pot, Iron](/free-rules/equipment#PotIron2GP)                                      | 10 lb.       | 2 GP     |
+| [Potion of Healing](/free-rules/equipment#PotionofHealing50GP)                     | 1/2 lb.      | 50 GP    |
+| [Pouch](/free-rules/equipment#Pouch5SP)                                            | 1 lb.        | 5 SP     |
+| [Priest’s Pack](/free-rules/equipment#PriestsPack33GP)                             | 29 lb.       | 33 GP    |
+| [Quiver](/free-rules/equipment#Quiver1GP)                                          | 1 lb.        | 1 GP     |
+| [Ram, Portable](/free-rules/equipment#RamPortable4GP)                              | 35 lb.       | 4 GP     |
+| [Rations](/free-rules/equipment#Rations5SP)                                        | 2 lb.        | 5 SP     |
+| [Robe](/free-rules/equipment#Robe1GP)                                              | 4 lb.        | 1 GP     |
+| [Rope](/free-rules/equipment#Rope1GP)                                              | 5 lb.        | 1 GP     |
+| [Sack](/free-rules/equipment#Sack1CP)                                              | 1/2 lb.      | 1 CP     |
+| [Scholar’s Pack](/free-rules/equipment#ScholarsPack40GP)                           | 22 lb.       | 40 GP    |
+| [Shovel](/free-rules/equipment#Shovel2GP)                                          | 5 lb.        | 2 GP     |
+| [Signal Whistle](/free-rules/equipment#SignalWhistle5CP)                           | —            | 5 CP     |
+| [*Spell Scroll* (Cantrip)](/free-rules/equipment#SpellScrollCantrip30GPLevel150GP) | —            | 30 GP    |
+| [*Spell Scroll* (Level 1)](/free-rules/equipment#SpellScrollCantrip30GPLevel150GP) | —            | 50 GP    |
+| [Spikes, Iron](/free-rules/equipment#SpikesIron1GP)                                | 5 lb.        | 1 GP     |
+| [Spyglass](/free-rules/equipment#Spyglass1000GP)                                   | 1 lb.        | 1,000 GP |
+| [String](/free-rules/equipment#String1SP)                                          | —            | 1 SP     |
+| [Tent](/free-rules/equipment#Tent2GP)                                              | 20 lb.       | 2 GP     |
+| [Tinderbox](/free-rules/equipment#Tinderbox5SP)                                    | 1 lb.        | 5 SP     |
+| [Torch](/free-rules/equipment#Torch1CP)                                            | 1 lb.        | 1 CP     |
+| [Vial](/free-rules/equipment#Vial1GP)                                              | —            | 1 GP     |
+| [Waterskin](/free-rules/equipment#Waterskin2SP)                                    | 5 lb. (full) | 2 SP     |
 
 ---
 
@@ -566,13 +570,14 @@ When you take the [Attack](/free-rules/rules-glossary#AttackAction) action, yo
 Ammunition is required by a weapon that has the [Ammunition](/free-rules/equipment#Ammunition) property. A weapon’s description specifies the type of ammunition used by the weapon. The Ammunition table lists the different types and the amount you get when you buy them. The table also lists the item that is typically used to store each type; storage must be bought separately.
 
 ##### Ammunition {#AmmunitionTable}
-|Type|Amount|Storage|Weight|Cost|
-|---|---|---|---|---|
-|[Arrows](https://www.dndbeyond.com/equipment/508-arrows)|20|[Quiver](https://www.dndbeyond.com/equipment/407-quiver)|1 lb.|1 GP|
-|[Bolts](https://www.dndbeyond.com/equipment/510-bolts)|20|[Case](https://www.dndbeyond.com/equipment/505-crossbow-bolt-case)|1½ lb.|1 GP|
-|[Bullets, Firearm](https://www.dndbeyond.com/equipment/545-bullets-firearm)|10|[Pouch](https://www.dndbeyond.com/equipment/403-pouch)|2 lb.|3 GP|
-|[Bullets, Sling](https://www.dndbeyond.com/equipment/513-sling-bullets)|20|[Pouch](https://www.dndbeyond.com/equipment/403-pouch)|1½ lb.|4 CP|
-|[Needles](https://www.dndbeyond.com/equipment/516-needles)|50|[Pouch](https://www.dndbeyond.com/equipment/403-pouch)|1 lb.|1 GP|
+
+| Type                                                                        | Amount | Storage                                                            | Weight | Cost |
+| --------------------------------------------------------------------------- | ------ | ------------------------------------------------------------------ | ------ | ---- |
+| [Arrows](https://www.dndbeyond.com/equipment/508-arrows)                    | 20     | [Quiver](https://www.dndbeyond.com/equipment/407-quiver)           | 1 lb.  | 1 GP |
+| [Bolts](https://www.dndbeyond.com/equipment/510-bolts)                      | 20     | [Case](https://www.dndbeyond.com/equipment/505-crossbow-bolt-case) | 1½ lb. | 1 GP |
+| [Bullets, Firearm](https://www.dndbeyond.com/equipment/545-bullets-firearm) | 10     | [Pouch](https://www.dndbeyond.com/equipment/403-pouch)             | 2 lb.  | 3 GP |
+| [Bullets, Sling](https://www.dndbeyond.com/equipment/513-sling-bullets)     | 20     | [Pouch](https://www.dndbeyond.com/equipment/403-pouch)             | 1½ lb. | 4 CP |
+| [Needles](https://www.dndbeyond.com/equipment/516-needles)                  | 50     | [Pouch](https://www.dndbeyond.com/equipment/403-pouch)             | 1 lb.  | 1 GP |
 
 ---
 
@@ -587,13 +592,14 @@ As a Bonus Action, you can drink a vial of Antitoxin to gain [Advantage](/free-
 An Arcane Focus takes one of the forms in the Arcane Focuses table and is bejeweled or carved to channel arcane magic. A Sorcerer, Warlock, or Wizard can use such an item as a Spellcasting Focus.
 
 ##### Arcane Focuses {#ArcaneFocuses}
-|Focus|Weight|Cost|
-|---|---|---|
-|[Crystal](https://www.dndbeyond.com/equipment/523-crystal)|1 lb.|10 GP|
-|[Orb](https://www.dndbeyond.com/equipment/526-orb)|3 lb.|20 GP|
-|[Rod](https://www.dndbeyond.com/equipment/529-rod)|2 lb.|10 GP|
-|[Staff](https://www.dndbeyond.com/equipment/540-staff) (also a [Quarterstaff](https://www.dndbeyond.com/equipment/12-quarterstaff))|4 lb.|5 GP|
-|[Wand](https://www.dndbeyond.com/equipment/537-wand)|1 lb.|10 GP|
+
+| Focus                                                                                                                               | Weight | Cost  |
+| ----------------------------------------------------------------------------------------------------------------------------------- | ------ | ----- |
+| [Crystal](https://www.dndbeyond.com/equipment/523-crystal)                                                                          | 1 lb.  | 10 GP |
+| [Orb](https://www.dndbeyond.com/equipment/526-orb)                                                                                  | 3 lb.  | 20 GP |
+| [Rod](https://www.dndbeyond.com/equipment/529-rod)                                                                                  | 2 lb.  | 10 GP |
+| [Staff](https://www.dndbeyond.com/equipment/540-staff) (also a [Quarterstaff](https://www.dndbeyond.com/equipment/12-quarterstaff)) | 4 lb.  | 5 GP  |
+| [Wand](https://www.dndbeyond.com/equipment/537-wand)                                                                                | 1 lb.  | 10 GP |
 
 ---
 
@@ -623,7 +629,7 @@ A Basket holds up to 40 pounds within 2 cubic feet.
 
 #### Bedroll [(1 GP)](https://www.dndbeyond.com/equipment/420-bedroll) {#Bedroll1GP}
 
-A Bedroll sleeps one Small or Medium creature. While in a Bedroll, you automatically succeed on saving throws against extreme cold (see the _Dungeon Master’s Guide_).
+A Bedroll sleeps one Small or Medium creature. While in a Bedroll, you automatically succeed on saving throws against extreme cold (see the *Dungeon Master’s Guide*).
 
 ---
 
@@ -635,7 +641,7 @@ When rung as a [Utilize](/free-rules/rules-glossary#UtilizeAction) action, a B
 
 #### Blanket [(5 SP)](https://www.dndbeyond.com/equipment/431-blanket) {#Blanket5SP}
 
-While wrapped in a blanket, you have [Advantage](/free-rules/rules-glossary#Advantage) on saving throws against extreme cold (see the _Dungeon Master’s Guide_).
+While wrapped in a blanket, you have [Advantage](/free-rules/rules-glossary#Advantage) on saving throws against extreme cold (see the *Dungeon Master’s Guide*).
 
 ---
 
@@ -752,11 +758,12 @@ A Diplomat’s Pack contains the following items: [Chest](https://www.dndbeyond
 A Druidic Focus takes one of the forms in the Druidic Focuses table and is carved, tied with ribbon, or painted to channel primal magic. A Druid or Ranger can use such an object as a Spellcasting Focus.
 
 ##### Druidic Focuses {#DruidicFocuses}
-|Focus|Weight|Cost|
-|---|---|---|
-|[Sprig of mistletoe](https://www.dndbeyond.com/equipment/531-sprig-of-mistletoe)|—|1 GP|
-|[Wooden staff](https://www.dndbeyond.com/equipment/530-wooden-staff) (also a [Quarterstaff](https://www.dndbeyond.com/equipment/12-quarterstaff))|4 lb.|5 GP|
-|[Yew wand](https://www.dndbeyond.com/equipment/527-yew-wand)|1 lb.|10 GP|
+
+| Focus                                                                                                                                             | Weight | Cost  |
+| ------------------------------------------------------------------------------------------------------------------------------------------------- | ------ | ----- |
+| [Sprig of mistletoe](https://www.dndbeyond.com/equipment/531-sprig-of-mistletoe)                                                                  | —      | 1 GP  |
+| [Wooden staff](https://www.dndbeyond.com/equipment/530-wooden-staff) (also a [Quarterstaff](https://www.dndbeyond.com/equipment/12-quarterstaff)) | 4 lb.  | 5 GP  |
+| [Yew wand](https://www.dndbeyond.com/equipment/527-yew-wand)                                                                                      | 1 lb.  | 10 GP |
 
 ---
 
@@ -803,11 +810,12 @@ A Holy Symbol takes one of the forms in the Holy Symbol table and is bejeweled o
 The table indicates whether a Holy Symbol needs to be held, worn, or borne on fabric (such as a tabard or banner) or a Shield.
 
 ##### Holy Symbols {#HolySymbols}
-|Symbol|Weight|Cost|
-|---|---|---|
-|[Amulet](https://www.dndbeyond.com/equipment/512-amulet) (worn or held)|1 lb.|5 GP|
-|[Emblem](https://www.dndbeyond.com/equipment/511-emblem) (borne on fabric or a Shield)|—|5 GP|
-|[Reliquary](https://www.dndbeyond.com/equipment/509-reliquary) (held)|2 lb.|5 GP|
+
+| Symbol                                                                                 | Weight | Cost |
+| -------------------------------------------------------------------------------------- | ------ | ---- |
+| [Amulet](https://www.dndbeyond.com/equipment/512-amulet) (worn or held)                | 1 lb.  | 5 GP |
+| [Emblem](https://www.dndbeyond.com/equipment/511-emblem) (borne on fabric or a Shield) | —      | 5 GP |
+| [Reliquary](https://www.dndbeyond.com/equipment/509-reliquary) (held)                  | 2 lb.  | 5 GP |
 
 ---
 
@@ -1029,7 +1037,7 @@ When blown as a [Utilize](/free-rules/rules-glossary#UtilizeAction) action, a 
 
 #### Spell Scroll [(Cantrip, 30 GP](https://www.dndbeyond.com/magic-items/8960642-spell-scroll-cantrip) [Level 1, 50 GP)](https://www.dndbeyond.com/magic-items/8960643-spell-scroll-level-1) {#SpellScrollCantrip30GPLevel150GP}
 
-A _Spell Scroll_ (Cantrip) or _Spell Scroll_ (Level 1) is a magic item that bears the words of a cantrip or level 1 spell, respectively, determined by the scroll’s creator. If the spell is on your class’s spell list, you can read the scroll and cast the spell using its normal casting time and without providing any Material components.
+A *Spell Scroll* (Cantrip) or *Spell Scroll* (Level 1) is a magic item that bears the words of a cantrip or level 1 spell, respectively, determined by the scroll’s creator. If the spell is on your class’s spell list, you can read the scroll and cast the spell using its normal casting time and without providing any Material components.
 
 If the spell requires a saving throw or an attack roll, the spell save DC is 13, and the attack bonus is +5. The scroll disintegrates when the casting is completed.
 
@@ -1098,31 +1106,33 @@ Barding is armor designed for a mount. Any type of armor on the [Armor table](/
 A saddle comes with a bit, a bridle, reins, and any other equipment needed to use the saddle. A Military Saddle gives [Advantage](/free-rules/rules-glossary#Advantage) on any ability check you make to remain mounted. An Exotic Saddle is required for riding an aquatic or a flying mount.
 
 #### Mounts and Other Animals {#MountsandOtherAnimals}
-|Item|Carrying Capacity|Cost|
-|---|---|---|
-|[Camel](https://www.dndbeyond.com/equipment/444-camel)|450 lb.|50 GP|
-|[Elephant](https://www.dndbeyond.com/equipment/446-elephant)|1,320 lb.|200 GP|
-|[Horse, Draft](https://www.dndbeyond.com/equipment/447-draft-horse)|540 lb.|50 GP|
-|[Horse, Riding](https://www.dndbeyond.com/equipment/448-riding-horse)|480 lb.|75 GP|
-|[Mastiff](https://www.dndbeyond.com/equipment/450-mastiff)|195 lb.|25 GP|
-|[Mule](https://www.dndbeyond.com/equipment/451-mule)|420 lb.|8 GP|
-|[Pony](https://www.dndbeyond.com/equipment/452-pony)|225 lb.|30 GP|
-|[Warhorse](https://www.dndbeyond.com/equipment/454-warhorse)|540 lb.|400 GP|
+
+| Item                                                                  | Carrying Capacity | Cost   |
+| --------------------------------------------------------------------- | ----------------- | ------ |
+| [Camel](https://www.dndbeyond.com/equipment/444-camel)                | 450 lb.           | 50 GP  |
+| [Elephant](https://www.dndbeyond.com/equipment/446-elephant)          | 1,320 lb.         | 200 GP |
+| [Horse, Draft](https://www.dndbeyond.com/equipment/447-draft-horse)   | 540 lb.           | 50 GP  |
+| [Horse, Riding](https://www.dndbeyond.com/equipment/448-riding-horse) | 480 lb.           | 75 GP  |
+| [Mastiff](https://www.dndbeyond.com/equipment/450-mastiff)            | 195 lb.           | 25 GP  |
+| [Mule](https://www.dndbeyond.com/equipment/451-mule)                  | 420 lb.           | 8 GP   |
+| [Pony](https://www.dndbeyond.com/equipment/452-pony)                  | 225 lb.           | 30 GP  |
+| [Warhorse](https://www.dndbeyond.com/equipment/454-warhorse)          | 540 lb.           | 400 GP |
 
 #### Tack, Harness, and Drawn Vehicles {#TackHarnessandDrawnVehicles}
-|Item|Weight|Cost|
-|---|---|---|
-|[Carriage](https://www.dndbeyond.com/equipment/456-carriage)|600 lb.|100 GP|
-|[Cart](https://www.dndbeyond.com/equipment/457-cart)|200 lb.|15 GP|
-|[Chariot](https://www.dndbeyond.com/equipment/459-chariot)|100 lb.|250 GP|
-|[Feed per day](https://www.dndbeyond.com/equipment/461-feed-per-day)|10 lb.|5 CP|
-|_Saddle_|   |   |
-|[Exotic](https://www.dndbeyond.com/equipment/462-exotic-saddle)|40 lb.|60 GP|
-|[Military](https://www.dndbeyond.com/equipment/465-military-saddle)|30 lb.|20 GP|
-|[Riding](https://www.dndbeyond.com/equipment/466-riding-saddle)|25 lb.|10 GP|
-|[Sled](https://www.dndbeyond.com/equipment/468-sled)|300 lb.|20 GP|
-|Stabling per day|—|5 SP|
-|[Wagon](https://www.dndbeyond.com/equipment/469-wagon)|400 lb.|35 GP|
+
+| Item                                                                 | Weight  | Cost   |
+| -------------------------------------------------------------------- | ------- | ------ |
+| [Carriage](https://www.dndbeyond.com/equipment/456-carriage)         | 600 lb. | 100 GP |
+| [Cart](https://www.dndbeyond.com/equipment/457-cart)                 | 200 lb. | 15 GP  |
+| [Chariot](https://www.dndbeyond.com/equipment/459-chariot)           | 100 lb. | 250 GP |
+| [Feed per day](https://www.dndbeyond.com/equipment/461-feed-per-day) | 10 lb.  | 5 CP   |
+| _Saddle_                                                             |         |        |
+| [Exotic](https://www.dndbeyond.com/equipment/462-exotic-saddle)      | 40 lb.  | 60 GP  |
+| [Military](https://www.dndbeyond.com/equipment/465-military-saddle)  | 30 lb.  | 20 GP  |
+| [Riding](https://www.dndbeyond.com/equipment/466-riding-saddle)      | 25 lb.  | 10 GP  |
+| [Sled](https://www.dndbeyond.com/equipment/468-sled)                 | 300 lb. | 20 GP  |
+| Stabling per day                                                     | —       | 5 SP   |
+| [Wagon](https://www.dndbeyond.com/equipment/469-wagon)               | 400 lb. | 35 GP  |
 
 ### Large Vehicles {#LargeVehicles}
 
@@ -1149,15 +1159,16 @@ If a vehicle has a [damage threshold](/free-rules/rules-glossary#DamageThreshol
 Repairs to a damaged ship can be made while the vessel is berthed. Repairing 1 Hit Point of damage requires 1 day and costs 20 GP for materials and labor. If the repairs are made in a location where supplies and skilled labor are abundant, such as a city shipyard, the repair time and cost are halved.
 
 #### Airborne and Waterborne Vehicles {#AirborneandWaterborneVehicles}
-|Ship|Speed|Crew|Passengers|Cargo (Tons)|AC|HP|Damage Threshold|Cost|
-|---|---|---|---|---|---|---|---|---|
-|[Airship](https://www.dndbeyond.com/equipment/471-airship)|8 mph|10|20|1|13|300|—|40,000 GP|
-|[Galley](https://www.dndbeyond.com/equipment/472-galley)|4 mph|80|—|150|15|500|20|30,000 GP|
-|[Keelboat](https://www.dndbeyond.com/equipment/474-keelboat)|1 mph|1|6|1/2|15|100|10|3,000 GP|
-|[Longship](https://www.dndbeyond.com/equipment/477-longship)|3 mph|40|150|10|15|300|15|10,000 GP|
-|[Rowboat](https://www.dndbeyond.com/equipment/479-rowboat)|1½ mph|1|3|—|11|50|—|50 GP|
-|[Sailing Ship](https://www.dndbeyond.com/equipment/480-sailing-ship)|2 mph|20|20|100|15|300|15|10,000 GP|
-|[Warship](https://www.dndbeyond.com/equipment/482-warship)|2½ mph|60|60|200|15|500|20|25,000 GP|
+
+| Ship                                                                 | Speed  | Crew | Passengers | Cargo (Tons) | AC  | HP  | Damage Threshold | Cost      |
+| -------------------------------------------------------------------- | ------ | ---- | ---------- | ------------ | --- | --- | ---------------- | --------- |
+| [Airship](https://www.dndbeyond.com/equipment/471-airship)           | 8 mph  | 10   | 20         | 1            | 13  | 300 | —                | 40,000 GP |
+| [Galley](https://www.dndbeyond.com/equipment/472-galley)             | 4 mph  | 80   | —          | 150          | 15  | 500 | 20               | 30,000 GP |
+| [Keelboat](https://www.dndbeyond.com/equipment/474-keelboat)         | 1 mph  | 1    | 6          | 1/2          | 15  | 100 | 10               | 3,000 GP  |
+| [Longship](https://www.dndbeyond.com/equipment/477-longship)         | 3 mph  | 40   | 150        | 10           | 15  | 300 | 15               | 10,000 GP |
+| [Rowboat](https://www.dndbeyond.com/equipment/479-rowboat)           | 1½ mph | 1    | 3          | —            | 11  | 50  | —                | 50 GP     |
+| [Sailing Ship](https://www.dndbeyond.com/equipment/480-sailing-ship) | 2 mph  | 20   | 20         | 100          | 15  | 300 | 15               | 10,000 GP |
+| [Warship](https://www.dndbeyond.com/equipment/482-warship)           | 2½ mph | 60   | 60         | 200          | 15  | 500 | 20               | 25,000 GP |
 
 ## Services {#Services}
 
@@ -1204,70 +1215,74 @@ You pay for the best and might have a staff that supports your lifestyle. Others
 The Food, Drink, and Lodging table gives prices for food and a single night’s lodging. Prices for daily lodging and meals are included in your lifestyle’s expenses.
 
 #### Food, Drink, and Lodging {#FoodDrinkandLodgingTable}
-|Item|Cost|
-|---|---|
-|Ale (mug)|4 CP|
-|Bread (loaf)|2 CP|
-|Cheese (wedge)|1 SP|
-|_Inn Stay per Day_|   |
-|Squalid|7 CP|
-|Poor|1 SP|
-|Modest|5 SP|
-|Comfortable|8 SP|
-|Wealthy|2 GP|
-|Aristocratic|4 GP|
-|_Meal_|   |
-|Squalid|1 CP|
-|Poor|2 CP|
-|Modest|1 SP|
-|Comfortable|2 SP|
-|Wealthy|3 SP|
-|Aristocratic|6 SP|
-|_Wine (bottle)_|   |
-|Common|2 SP|
-|Fine|10 GP|
+
+| Item               | Cost  |
+| ------------------ | ----- |
+| Ale (mug)          | 4 CP  |
+| Bread (loaf)       | 2 CP  |
+| Cheese (wedge)     | 1 SP  |
+| _Inn Stay per Day_ |       |
+| Squalid            | 7 CP  |
+| Poor               | 1 SP  |
+| Modest             | 5 SP  |
+| Comfortable        | 8 SP  |
+| Wealthy            | 2 GP  |
+| Aristocratic       | 4 GP  |
+| _Meal_             |       |
+| Squalid            | 1 CP  |
+| Poor               | 2 CP  |
+| Modest             | 1 SP  |
+| Comfortable        | 2 SP  |
+| Wealthy            | 3 SP  |
+| Aristocratic       | 6 SP  |
+| _Wine (bottle)_    |       |
+| Common             | 2 SP  |
+| Fine               | 10 GP |
 
 ### Travel {#Travel}
 
 Drivers or crew hired to conduct passengers to their destinations charge the rates on the Travel table, plus any tolls or additional expenses.
 
 #### Travel {#TravelTable}
-|Service|Cost|
-|---|---|
-|Coach ride between towns|3 CP per mile|
-|Coach ride within a city|1 CP per mile|
-|Road or gate toll|1 CP|
-|Ship’s passage|1 SP per mile|
+
+| Service                  | Cost          |
+| ------------------------ | ------------- |
+| Coach ride between towns | 3 CP per mile |
+| Coach ride within a city | 1 CP per mile |
+| Road or gate toll        | 1 CP          |
+| Ship’s passage           | 1 SP per mile |
 
 ### Hirelings {#Hirelings}
 
 Skilled hirelings include anyone hired to perform a service that involves a proficiency (including weapon, tool, or skill): a mercenary, an artisan, a scribe, or the like. The pay shown on the Hirelings table is a minimum; some expert hirelings require more pay. Untrained hirelings are hired for work that requires no particular proficiencies; they include laborers and porters.
 
 #### Hirelings {#HirelingsTable}
-|Service|Cost|
-|---|---|
-|Skilled hireling|2 GP per day|
-|Untrained hireling|2 SP per day|
-|Messenger|2 CP per mile|
+
+| Service            | Cost          |
+| ------------------ | ------------- |
+| Skilled hireling   | 2 GP per day  |
+| Untrained hireling | 2 SP per day  |
+| Messenger          | 2 CP per mile |
 
 ### Spellcasting {#Spellcasting}
 
 Most settlements contain individuals who are willing to cast spells in exchange for payment. If a spell has expensive components, add the cost of those components to the cost listed in the Spellcasting Services table. The higher the level of a desired spell, the harder it is to find someone to cast it.
 
 #### Spellcasting Services {#SpellcastingServices}
-|Spell Level|Availability|Cost|
-|---|---|---|
-|Cantrip|Village, town, or city|30 GP|
-|1|Village, town, or city|50 GP|
-|2|Village, town, or city|200 GP|
-|3|Town or city only|300 GP|
-|4–5|Town or city only|2,000 GP|
-|6–8|City only|20,000 GP|
-|9|City only|100,000 GP|
+
+| Spell Level | Availability           | Cost       |
+| ----------- | ---------------------- | ---------- |
+| Cantrip     | Village, town, or city | 30 GP      |
+| 1           | Village, town, or city | 50 GP      |
+| 2           | Village, town, or city | 200 GP     |
+| 3           | Town or city only      | 300 GP     |
+| 4–5         | Town or city only      | 2,000 GP   |
+| 6–8         | City only              | 20,000 GP  |
+| 9           | City only              | 100,000 GP |
 
 ## Magic Items {#MagicItems}
 
-Adventures hold the promise—but not a guarantee—of finding magic items. Hundreds of magic items are detailed in the _Dungeon Master’s Guide_, since the DM decides when you find such an item. Here’s what you need to know about using magic items.
+Adventures hold the promise—but not a guarantee—of finding magic items. Hundreds of magic items are detailed in the *Dungeon Master’s Guide*, since the DM decides when you find such an item. Here’s what you need to know about using magic items.
 
 ### Identifying a Magic Item {#IdentifyingaMagicItem}
 
@@ -1356,15 +1371,16 @@ To scribe a scroll, you must have proficiency in the [Arcana](/free-rules/playi
 If the scribed spell is a cantrip, the version on the scroll works as if the caster were your level.
 
 #### Spell Scroll Costs {#SpellScrollCosts}
-|Spell Level|Time|Cost|
-|---|---|---|
-|Cantrip|1 day|15 GP|
-|1|1 day|25 GP|
-|2|3 days|100 GP|
-|3|5 days|150 GP|
-|4|10 days|1,000 GP|
-|5|25 days|1,500 GP|
-|6|40 days|10,000 GP|
-|7|50 days|12,500 GP|
-|8|60 days|15,000 GP|
-|9|120 days|50,000 GP|
+
+| Spell Level | Time     | Cost      |
+| ----------- | -------- | --------- |
+| Cantrip     | 1 day    | 15 GP     |
+| 1           | 1 day    | 25 GP     |
+| 2           | 3 days   | 100 GP    |
+| 3           | 5 days   | 150 GP    |
+| 4           | 10 days  | 1,000 GP  |
+| 5           | 25 days  | 1,500 GP  |
+| 6           | 40 days  | 10,000 GP |
+| 7           | 50 days  | 12,500 GP |
+| 8           | 60 days  | 15,000 GP |
+| 9           | 120 days | 50,000 GP |
