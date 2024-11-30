@@ -481,9 +481,9 @@ A Cylinder’s point of origin is included in the area of effect.
 
 ---
 
-### D20 Test {#D20Test}
+### การทดสอบ D20 {#D20Test}
 
-D20 Tests encompass the three main d20 rolls of the game: [ability checks](/free-rules/rules-glossary#AbilityCheck), [attack rolls](/free-rules/rules-glossary#AttackRoll), and [saving throws](/free-rules/rules-glossary#SavingThrow). If something in the game affects D20 Tests, it affects all three of these rolls. The DM determines whether a D20 Test is warranted in a given circumstance. *See also* chapter 1 (“[D20 Tests](/free-rules/playing-the-game#D20Tests)”).
+การทดสอบ D20 เป็นตัวตัดสอนการทอยสามแบบในเกม: [การทดสอบความสามารถ (ability checks)](/free-rules/rules-glossary#AbilityCheck), [การทอยโจมตี (attack rolls)](/free-rules/rules-glossary#AttackRoll), และ [การทอยป้องกัน (saving throws)](/free-rules/rules-glossary#SavingThrow) ถ้ามีบางอย่างในเกมที่ต้องใช้การทดสอบ D20 มันจะอยู่ในการทอยสามแบบนี้ DM จะเป็นผู้กำหนดว่าการทอยทดสอบ D20 นั้นจำเป็นหรือไม่ *ดูเพิ่มเติม* บทที่ 1 (“[การทดสอบ D20](/free-rules/playing-the-game#D20Tests)”)
 
 ---
 

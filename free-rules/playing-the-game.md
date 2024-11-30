@@ -326,116 +326,116 @@ menu: free-rules-start-play
 >
 > **_ได้ครั้งละหนึ่ง_** คุณจะมีแรงบันดาลใจของฮีโร่ได้ครั้งละหนึ่งเท่านั้น ถ้าบางสิ่งให้แรงบันดาลใจของฮีโร่กับคุณแต่คุณมีอยู่แล้ว คุณสามารถส่งต่อให้กับเพื่อนในกลุ่มได้
 >
-> **_การได้รับแรงบันดาลใจของฮีโร่_** DM ของคุณสามารถให้แรงบันดาลใจของฮีโร่ได้ในหลายเหตุผล ปกติแล้ว DM จะให้เป็นรางวัลเมื่อคุณทำอะไรแบบวีรบุรุษ เข้าถึงตัวละคร หรือสร้างความเฮฮาให้เกม มันเป็นรางวัลที่คุณทำให้เกมสนุกมากขึ้นสำหรับทุกคน 
+> **_การได้รับแรงบันดาลใจของฮีโร่_** DM ของคุณสามารถให้แรงบันดาลใจของฮีโร่ได้ในหลายเหตุผล ปกติแล้ว DM จะให้เป็นรางวัลเมื่อคุณทำอะไรแบบวีรบุรุษ เข้าถึงตัวละคร หรือสร้างความเฮฮาให้เกม มันเป็นรางวัลที่คุณทำให้เกมสนุกมากขึ้นสำหรับทุกคน
 >
 > กฏอื่นอาจจะอนุญาตให้ตัวละครของคุณได้รับแรงบันดาลใจของฮีโร่โดยอิสระจากการตัดสินใจของ DM ตัวอย่างเช่น ตัวละครมนุษย์จะเริ่มวันใหม่ด้วยการได้รับแรงบันดาลใจของฮีโร่
 
-## Proficiency {#Proficiency}
+## ความเชี่ยวชาญ (Proficiency) {#Proficiency}
 
-Characters and monsters are good at various things. Some are skilled with many weapons, while others can use only a few. Some are better at understanding people’s motives, and others are better at unlocking the secrets of the multiverse. All creatures have a Proficiency Bonus, which reflects the impact that training has on the creature’s capabilities. A character’s Proficiency Bonus increases as the character gains levels (described in [chapter 2](/free-rules/creating-a-character)). A monster’s Proficiency Bonus is based on its [Challenge Rating](/free-rules/rules-glossary#ChallengeRating) (see the [rules glossary](/free-rules/rules-glossary#ChallengeRating)). The Proficiency Bonus table shows how the bonus is determined.
+ตัวละครและมอนสเตอร์มีความสามารถเด่นแตกต่างกันไป บ้างเชี่ยวชาญในการใช้อาวุธหลากหลาย ขณะที่คนอื่นสามารถใช้ได้แค่ไม่กี่อย่าง บ้างเก่งในการเข้าใจแรงจูงใจของผู้อื่น และบ้างก็สามารถปลดล็อคความลับของพหุภพ สิ่งมีชีวิตทุกชนิดมีค่าโบนัสความเชี่ยวชาญ ซึ่งจะแสดงถึงผลจากการฝึกฝนขัดเกลาความสามารถของตน ค่าโบนัสความเชี่ยวชาญของตัวละครจะเพิ่มขึ้นเมื่อตัวละครเพิ่มเลเวล (อธิบายใน [บทที่ 2](/free-rules/creating-a-character)) ค่าโบนัสความเชี่ยวชาญของมอนสเตอร์จะขึ้นอยู่กับ [ระดับความท้าทาย (Challenge Rating)](/free-rules/rules-glossary#ChallengeRating) (ดู [รายการกฏ](/free-rules/rules-glossary#ChallengeRating)) ตารางค่าโบนัสความเชี่ยวชาญแสดงวิธีการคำนวณค่าโบนัส
 
-This bonus is applied to a [D20 Test](/free-rules/rules-glossary#D20Test) when the creature has proficiency in a skill, in a saving throw, or with an item that the creature uses to make the D20 Test. The bonus is also used for spell attacks and for calculating the DC of saving throws for spells.
+ค่าโบนัสนี้จะนำไปใช้ใน [การทดสอบ D20](/free-rules/rules-glossary#D20Test) เมื่อสิ่งมีชีวิตมีความเชี่ยวชาญในทักษะ การทอยป้องกัน หรือการใช้ไอเท็มที่สิ่งมีชีวิตต้องใช้การทอยทดสอบ D20 ค่าโบนัสความเชี่ยวชาญนี้ยังใช้ในการโจมตีด้วยคาถาและใช้ในการคำนวณ DC สำหรับการทอยป้องกันคาถาด้วย
 
-### Proficiency Bonus {#ProficiencyBonusTable}
+### ค่าโบนัสความเชี่ยวชาญ (Proficiency Bonus) {#ProficiencyBonusTable}
 
-| Level or CR | Bonus |
-| ----------- | ----- |
-| Up to 4     | +2    |
-| 5–8         | +3    |
-| 9–12        | +4    |
-| 13–16       | +5    |
-| 17–20       | +6    |
-| 21–24       | +7    |
-| 25–28       | +8    |
-| 29–30       | +9    |
+| เลเวลหรือ CR | โบนัส |
+| ------------ | ----- |
+| จนถึง 4      | +2    |
+| 5–8          | +3    |
+| 9–12         | +4    |
+| 13–16        | +5    |
+| 17–20        | +6    |
+| 21–24        | +7    |
+| 25–28        | +8    |
+| 29–30        | +9    |
 
-### The Bonus Doesn’t Stack {#TheBonusDoesntStack}
+### ค่าโบนัสจะไม่ซ้อนทับ {#TheBonusDoesntStack}
 
-Your Proficiency Bonus can’t be added to a die roll or another number more than once. For example, if a rule allows you to make a Charisma ([Deception](/free-rules/playing-the-game#Skills) or [Persuasion](/free-rules/playing-the-game#Skills)) check, you add your Proficiency Bonus if you’re proficient in either skill, but you don’t add it twice if you’re proficient in both skills.
+ค่าโบนัสความเชี่ยวชาญจะไม่สามารถเพิ่มในการทอยลูกเต๋าหรือค่าอื่นได้มากกว่าหนึ่งครั้ง ตัวอย่างเช่น ถ้ากฏอนุญาตให้คุณทอยทดสอบเสน่ห์ ([การล่อลวง (Deception)](/free-rules/playing-the-game#Skills) หรือ [การโน้มน้าว (Persuasion)](/free-rules/playing-the-game#Skills)) คุณจะเพิ่มค่าโบนัสความเชี่ยวชาญเข้าไปถ้าคุณมีความเชี่ยวชาญในทักษะเหล่านี้ แต่คุณจะไม่สามารถเพิ่มสองครั้งถ้าคุณเชี่ยวชาญทั้งสองทักษะ
 
-Occasionally, a Proficiency Bonus might be multiplied or divided (doubled or halved, for example) before being added. For example, the [Expertise](/free-rules/rules-glossary#Expertise) feature (see the [rules glossary](/free-rules/rules-glossary#Expertise)) doubles the Proficiency Bonus for certain ability checks. Whenever the bonus is used, it can be multiplied only once and divided only once.
+ในบางครั้ง ค่าโบนัสความเชี่ยวชาญสามารถทวีคูณหรือหารครึ่งได้ (เพิ่มสองเท่าหรือตัดครึ่ง) ก่อนที่จะนำไปเพิ่ม ตัวอย่างเช่น ความสามารถ [ผู้เชี่ยวชาญ (Expertise)](/free-rules/rules-glossary#Expertise) (ดู [รายการกฏ](/free-rules/rules-glossary#Expertise)) จะทวีคูณค่าโบนัสความเชี่ยวชาญให้กับการทอยทดสอบในบางความสามารถ เมื่อใดก็ตามที่โบนัสถูกใช้ มันจะทวีคูณหรือหารครึ่งได้เพียงครั้งเดียว
 
-### Skill Proficiencies {#SkillProficiencies}
+### ความเชี่ยวชาญในทักษะ {#SkillProficiencies}
 
-Most ability checks involve using a skill, which represents a category of things creatures try to do with an ability check. The descriptions of the actions you take (see ["Actions"](/free-rules/playing-the-game#Actions) later in this chapter) specify which skill applies if you make an ability check for that action, and many other rules note when a skill is relevant. The DM has the ultimate say on whether a skill is relevant in a situation.
+การทอยทดสอบความสามารถส่วนใหญ่จะใช้ทักษะ (skill) ซึ่งเป็นตัวแสดงถึงสิ่งต่าง ๆ ที่สิ่งมีชีวิตพยายามจะทำเมื่อต้องทอยทดสอบความสามารถ คำอธิบายแอ็คชันที่คุณทำ (ดู ["แอ็คชัน (Actions)"](/free-rules/playing-the-game#Actions) ในบทนี้) ระบุถึงทักษะที่ใช้หากคุณต้องทอยทดสอบความสามารถสำหรับแอ็คชันนั้น และมีกฏอื่น ๆ ที่จะบอกว่าทักษะใดที่เกี่ยวข้อง DM จะเป็นผู้ตัดสินสุดท้ายว่าทักษะใดที่เกี่ยวข้องเหมาะสมในแต่ละสถานการณ์
 
-If a creature is proficient in a skill, the creature applies its Proficiency Bonus to ability checks involving that skill. Without proficiency in a skill, a creature can still make ability checks involving that skill but doesn’t add its Proficiency Bonus. For example, if a character tries to climb a cliff, the DM might ask for a Strength ([Athletics](/free-rules/playing-the-game#Skills)) check. If the character has [Athletics](/free-rules/playing-the-game#Skills) proficiency, the character adds their Proficiency Bonus to the Strength check. If the character lacks that proficiency, they make the check without adding their Proficiency Bonus.
+ถ้าสิ่งมีชีวิตเชี่ยวชาญในทักษะหนึ่ง สิ่งมีชีวิตนั้นจะเพิ่มค่าโบนัสความเชี่ยวชาญไปในการทอยทดสอบความสามารถที่เกี่ยวข้องกับทักษะนั้น หากไม่เชี่ยวชาญในทักษะ สิ่งมีชีวิตก็ยังสามารถจะทอยทดสอบความสามารถได้ เพียงแค่ไม่เพิ่มโบนัสความเชี่ยวชาญ ตัวอย่างเช่น หากตัวละครพยายามไต่หน้าผา DM อาจจะขอให้ทอยทดสอบความแข็งแกร่ง (Strength) ทักษะ [การกรีฑา (Athletics)](/free-rules/playing-the-game#Skills) ถ้าตัวละครเชี่ยวชาญในทักษะนี้ ตัวละครสามารถเพิ่มค่าโบนัสความเชี่ยวชาญลงไปในการทอยทดสอบความแข็งแกร่งได้ ถ้าตัวละครไม่เชี่ยวชาญ พวกเขาจะทอยทดสอบโดยไม่เพิ่มค่าโบนัส
 
-#### Skill List {#SkillList}
+#### รายการทักษะ {#SkillList}
 
-The skills are shown on the Skills table, which notes example uses for each skill proficiency as well as the ability check the skill most often applies to.
+ทักษะต่างๆ จะแสดงอยู่ในตารางทักษะ ซึ่งจะแสดงตัวอย่างการใช้งานความสามารถแต่ละทักษะ ตลอดจนการตรวจสอบความสามารถที่ทักษะนั้น ๆ ใช้ได้บ่อยที่สุด
 
-#### Skills {#Skills}
+#### ทักษะ {#Skills}
 
-| Skill                                                  | Ability      | Example Uses                                                              |
-| ------------------------------------------------------ | ------------ | ------------------------------------------------------------------------- |
-| [Acrobatics](/free-rules/playing-the-game#Skills)      | Dexterity    | Stay on your feet in a tricky situation, or perform an acrobatic stunt.   |
-| [Animal Handling](/free-rules/playing-the-game#Skills) | Wisdom       | Calm or train an animal, or get an animal to behave in a certain way.     |
-| [Arcana](/free-rules/playing-the-game#Skills)          | Intelligence | Recall lore about spells, magic items, and the planes of existence.       |
-| [Athletics](/free-rules/playing-the-game#Skills)       | Strength     | Jump farther than normal, stay afloat in rough water, or break something. |
-| [Deception](/free-rules/playing-the-game#Skills)       | Charisma     | Tell a convincing lie, or wear a disguise convincingly.                   |
-| [History](/free-rules/playing-the-game#Skills)         | Intelligence | Recall lore about historical events, people, nations, and cultures.       |
-| [Insight](/free-rules/playing-the-game#Skills)         | Wisdom       | Discern a person’s mood and intentions.                                   |
-| [Intimidation](/free-rules/playing-the-game#Skills)    | Charisma     | Awe or threaten someone into doing what you want.                         |
-| [Investigation](/free-rules/playing-the-game#Skills)   | Intelligence | Find obscure information in books, or deduce how something works.         |
-| [Medicine](/free-rules/playing-the-game#Skills)        | Wisdom       | Diagnose an illness, or determine what killed the recently slain.         |
-| [Nature](/free-rules/playing-the-game#Skills)          | Intelligence | Recall lore about terrain, plants, animals, and weather.                  |
-| [Perception](/free-rules/playing-the-game#Skills)      | Wisdom       | Using a combination of senses, notice something that’s easy to miss.      |
-| [Performance](/free-rules/playing-the-game#Skills)     | Charisma     | Act, tell a story, perform music, or dance.                               |
-| [Persuasion](/free-rules/playing-the-game#Skills)      | Charisma     | Honestly and graciously convince someone of something.                    |
-| [Religion](/free-rules/playing-the-game#Skills)        | Intelligence | Recall lore about gods, religious rituals, and holy symbols.              |
-| [Sleight of Hand](/free-rules/playing-the-game#Skills) | Dexterity    | Pick a pocket, conceal a handheld object, or perform legerdemain.         |
-| [Stealth](/free-rules/playing-the-game#Skills)         | Dexterity    | Escape notice by moving quietly and hiding behind things.                 |
-| [Survival](/free-rules/playing-the-game#Skills)        | Wisdom       | Follow tracks, forage, find a trail, or avoid natural hazards.            |
+| ทักษะ (Skill)                                                           | ความสามารถ (Ability)       | ตัวอย่าง Uses                                                                        |
+| ----------------------------------------------------------------------- | -------------------------- | ------------------------------------------------------------------------------------ |
+| [กายกรรม (Acrobatics)](/free-rules/playing-the-game#Skills)             | ความคล่องแคล่ว (Dexterity) | การทรงตัวอยู่ได้ในสถานการณ์ล่อแหลม หรือการแสดงทักษะกายกรรม                           |
+| [การจัดการสัตว์ (Animal Handling)](/free-rules/playing-the-game#Skills) | ความรอบรู้ (Wisdom)        | ทำให้สัตว์สงบหรือควบคุมให้สัตว์ทำอย่างที่ต้องการ                                     |
+| [การรู้ตำนานลึกลับ (Arcana)](/free-rules/playing-the-game#Skills)       | ความฉลาด (Intelligence)    | ระลึกถึงเรื่องเล่ากี่ยวกับคาถา, ไอเท็มเวทย์มนต์, และมติอื่น                          |
+| [การกรีฑา (Athletics)](/free-rules/playing-the-game#Skills)             | ความแข็งแกร่ง (Strength)   | การโดดได้ไกลกว่าปกติ, การลอยตัวในน้ำไหลเชี่ยว, หรือการทำลายสิ่งของบางอย่าง           |
+| [การล่อลวง (Deception)](/free-rules/playing-the-game#Skills)            | เสน่ห์ (Charisma)          | การเล่าเรื่องเท็จ, การปลอมตัวให้แนบเนียน                                             |
+| [การรู้ประวัติศาสตร์ (History)](/free-rules/playing-the-game#Skills)    | ความฉลาด (Intelligence)    | ระลึกถึงตำนานเรื่องเล่าเกี่ยวกับเหตุการณ์ในประวัติศาสตร์, ผู้คน, ชนชาติ, และวัฒนธรรม |
+| [การมองทะลุ (Insight)](/free-rules/playing-the-game#Skills)             | ความรอบรู้ (Wisdom)        | เข้าใจอารมณ์และความตั้งใจของผู้อื่น                                                  |
+| [การข่มขู่ (Intimidation)](/free-rules/playing-the-game#Skills)         | เสน่ห์ (Charisma)          | ทำให้ผู้อื่นเกรงใจหรือข่มขู่ให้ทำอย่างที่ต้องการ                                     |
+| [การสืบค้น (Investigation)](/free-rules/playing-the-game#Skills)        | ความฉลาด (Intelligence)    | ค้นหาเบาะแสในหนังสือหรือการอนุมานความเป็นไปของสิ่งต่าง ๆ                             |
+| [การรักษาพยาบาล (Medicine)](/free-rules/playing-the-game#Skills)        | ความรอบรู้ (Wisdom)        | วินิจฉัยโรคหรือตรวจสอบว่าอะไรเป็นสาเหตุการตาย                                        |
+| [การรู้ธรรมชาติ (Nature)](/free-rules/playing-the-game#Skills)          | ความฉลาด (Intelligence)    | ระลึกถึงตำนานเรื่องเล่าเกี่ยวกับพื้นที่, ฟืช, สัตว์ และสภาพอากาศ                     |
+| [การสังเกตุ (Perception)](/free-rules/playing-the-game#Skills)          | ความรอบรู้ (Wisdom)        | การใช้ประสาทสัมผัสเพื่อสังเกตุรับรู้สิ่งที่เกิดขึ้นรอบตัว                            |
+| [การแสดง (Performance)](/free-rules/playing-the-game#Skills)            | เสน่ห์ (Charisma)          | แสดง, เล่าเรื่อง, แสดงดนตรีหรือเต้นรำ                                                |
+| [การโน้มน้าวชักชวน (Persuasion)](/free-rules/playing-the-game#Skills)   | เสน่ห์ (Charisma)          | การพยายามโน้มน้าวชักจูงใจอย่างจริงใจให้ทำตามที่ร้องขอ                                |
+| [การรู้ศาสนา (Religion)](/free-rules/playing-the-game#Skills)           | ความฉลาด (Intelligence)    | ระลึกถึงตำนานเกี่ยวกับเทพเจ้า, พิธีกรรมทางศาสนา และสัญลักษณ์ศักดิสิทธิ์              |
+| [มือไว (Sleight of Hand)](/free-rules/playing-the-game#Skills)          | ความคล่องแคล่ว (Dexterity) | ล้วงกระเป๋า, ปกปิดสิ่งที่ถืออยู่, หรือเล่นมายากลที่ใช้มือ                            |
+| [การลอบเร้น (Stealth)](/free-rules/playing-the-game#Skills)             | ความคล่องแคล่ว (Dexterity) | การเคลื่อนที่อย่างเงียบเชียบโดยหลบซ่อนหลังสิ่งของต่าง ๆ                              |
+| [การเอาตัวรอด (Survival)](/free-rules/playing-the-game#Skills)          | ความรอบรู้ (Wisdom)        | การตามรอย, การหาของป่า, การหาทางเดินหรือการหลีกเลี่ยงสภาพแวดล้อมอันตราย              |
 
-#### Determining Skills {#DeterminingSkills}
+#### การกำหนดทักษะ {#DeterminingSkills}
 
-A character’s starting skill proficiencies are determined at character creation, and a monster’s skill proficiencies appear in its stat block.
+ความเชี่ยวชาญในทักษะของตัวละครจะถูกกำหนดในช่วงการสร้างตัวละคร และความเชี่ยวชาญในทักษะของมอนสเตอร์จะมีระบุอยู่ในรายละเอียดมอนสเตอร์ (stat block)
 
-Skills with Different Abilities
+> **ทักษะที่อยู่กับความสามารถที่แตกต่าง**
+>
+> แต่ละความเชี่ยวชาญในทักษะจะยึดโยงกับการทอยทดสอบความสามารถหนึ่ง ตัวอย่างเช่น ทักษะ [การข่มขู่ (Intimidation)](/free-rules/playing-the-game#Skills) จะยึดโยงกับเสน่ห์ (Charisma) ในบางสถานการณ์ DM อาจจะอนุญาตให้คุณใช้ความเชี่ยวชาญทักษะกับการทดสอบความสามารถอื่น เช่น ถ้าตัวละครพยายามจะข่มขู่ใครสักคนโดยการใช้ร่างกายใหญ่โต DM อาจจะให้ทอยทดสอบด้วยความแข็งแกร่ง (Strength) ทักษะ [การข่มขู่ (Intimidation)](/free-rules/playing-the-game#Skills) แทนที่จะใช้เสน่ห์ (Charisma) ทักษะ [การข่มขู่ (Intimidation)](/free-rules/playing-the-game#Skills) ตัวละครนั้นจะทอยทดสอบความแข็งแกร่งและเพิ่มค่าโบนัสความเชี่ยวชาญ ถ้าคุณเชี่ยวชาญในทักษะ [การข่มขู่ (Intimidation)](/free-rules/playing-the-game#Skills)
 
-Each skill proficiency is associated with an ability check. For example, the [Intimidation](/free-rules/playing-the-game#Skills) skill is associated with Charisma. In some situations, the DM might allow you to apply your skill proficiency to a different ability check. For example, if a character tries to intimidate someone through a show of physical strength, the DM might ask for a Strength ([Intimidation](/free-rules/playing-the-game#Skills)) check rather than a Charisma ([Intimidation](/free-rules/playing-the-game#Skills)) check. That character would make a Strength check and add their Proficiency Bonus if they have [Intimidation](/free-rules/playing-the-game#Skills) proficiency.
+### ความเชี่ยวชาญในการทอยป้องกัน {#SavingThrowProficiencies}
 
-### Saving Throw Proficiencies {#SavingThrowProficiencies}
+ความเชี่ยวชาญในการทอยป้องกันจะให้ตัวละครเพิ่มค่าโบนัสความเชี่ยวชาญในการทอยป้องกันที่ใช้ความสามารถที่เกี่ยวข้อง ตัวอย่างเช่น ความเชี่ยวชาญในการทอยป้องกันความรอบรู้ (Wisdom) จะให้คุณเพิ่มโบนัสความเชี่ยวชาญไปในการทอยป้องกันด้วยความสามารถความรอบรู้ (Wisdom) มอนสเตอร์บางชนิดก็มีความเชี่ยวชาญในการทอยป้องกันเหมือนกัน ซึ่งจะมีอยู่ในรายละเอียดมอนสเตอร์
 
-Proficiency in a saving throw lets a character add their Proficiency Bonus to saves that use a particular ability. For example, proficiency in Wisdom saves lets you add your Proficiency Bonus to your Wisdom saves. Some monsters also have saving throw proficiencies, as noted in their stat blocks.
+แต่ละคลาสจะให้ความเชี่ยวชาญในการทอยป้องกันอย่างน้อย 2 อย่าง แสดงให้เห็นถึงการฝึกฝนในคลาสที่ทำให้หลบเลี่ยงหรือต้านทานอันตรายเฉพาะอย่างได้ วิซาร์ด เป็นตัวอย่าง มีความเชี่ยวชาญการทอยป้องกันด้านความฉลาด (Intelligence) และความรอบรู้ (Wisdom) พวกเขาได้รับการฝึกให้ทนต่อการโจมตีทางจิตใจ
 
-Each class gives proficiency in at least two saving throws, representing that class’s training in evading or resisting certain threats. Wizards, for example, are proficient in Intelligence and Wisdom saves; they train to resist mental assault.
+### ความเชี่ยวชาญในการใช้อุปกรณ์ {#EquipmentProficiencies}
 
-### Equipment Proficiencies {#EquipmentProficiencies}
+ตัวละครจะมีความเชี่ยวชาญในการใช้อาวุธและเครื่องมือจากคลาส (class) และภูมิหลัง (background) ของพวกเขา เราแบ่งความเชี่ยวขาญในการใช้อุปกรณ์ออกเป็นสองประเภท:
 
-A character gains proficiency with various weapons and tools from their class and background. There are two categories of equipment proficiency:
+**อาวุธ** ใคร ๆ ก็ถืออาวุธได้ แต่ความเชี่ยวชาญจะทำให้คุณใช้งานอาวุธได้ดีกว่า ถ้าคุณมีความเชี่ยวชาญในการใช้อาวุธหนึ่ง คุณสามารถเพิ่มค่าโบนัสความเชี่ยวชาญในการทอยโจมตีได้
 
-**Weapons.** Anyone can wield a weapon, but proficiency makes you better at wielding it. If you have proficiency with a weapon, you add your Proficiency Bonus to attack rolls you make with it.
+**เครื่องมือ** ถ้าคุณมีความเชี่ยวชาญในการใช้เครื่องมือ คุณสามารถเพิ่มค่าโบนัสความเชี่ยวชาญในการทอยทดสอบความสามารถในการใช้เครื่องมือนั้น ถ้าคุณมีความเชี่ยวชาญในทักษะที่ใช้ในการทอยทดสอบด้วย คุณจะได้ทอยทดสอบแบบได้เปรียบ นี่หมายถึงคุณสามารถได้ประโยชน์จากทั้งความเชี่ยวชาญในทักษะและการใช้เครื่องมือในการทอยทดสอบความสามารถ
 
-**Tools.** If you have proficiency with a tool, you can add your Proficiency Bonus to any ability check you make that uses the tool. If you have Proficiency in the skill that’s also used with that check, you have Advantage on the check too. This means you can benefit from both skill proficiency and tool proficiency on the same ability check.
+## แอ็คชัน (Actions) {#Actions}
 
-## Actions {#Actions}
+เมื่อคุณจะทำอะไรบางอย่างที่นอกเหนือจากการเคลื่อนที่หรือการสื่อสาร คุณจะทำ "แอ็คชัน" (การกระทำต่าง ๆ) ตารางแอ็คชันมีรายการของแอ็คชันหลักที่ใช้ในเกม ซึ่งจะมีรายละเอียดใน [รายการกฏ](/free-rules/rules-glossary/#Action)
 
-When you do something other than moving or communicating, you typically take an action. The Action table lists the game’s main actions, which are defined in more detail in the [rules glossary](/free-rules/rules-glossary).
+### ตารางแอ็คชัน {#ActionsTable}
 
-### Actions {#ActionsTable}
+| แอ็คชัน                                                              | โดยสรุป                                                                                                                                                                                                                                                                                                                                                                                                                                         |
+| -------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| [โจมตี (Attack)](/free-rules/rules-glossary#AttackAction)            | โจมตีด้วยอาวุธหรือ [มือเปล่า (Unarmed Strike)](/free-rules/rules-glossary#UnarmedStrike).                                                                                                                                                                                                                                                                                                                                                       |
+| [พุ่งตัว (Dash)](/free-rules/rules-glossary#DashAction)              | ภายในเทิร์นนั้น คุณจะได้ [ระยะเคลื่อนที่ (speed)](/free-rules/rules-glossary#Speed) พิเศษเป็นจำนวนเท่ากับที่คุณมี                                                                                                                                                                                                                                                                                                                               |
+| [ผละหนี (Disengage)](/free-rules/rules-glossary#DisengageAction)     | การเคลื่อนที่ของคุณจะไม่ทำให้เกิด [การโจมตีโดยสบโอกาส (Opportunity Attack)](/free-rules/rules-glossary#OpportunityAttack) ภายในเทิร์นของคุณ                                                                                                                                                                                                                                                                                                     |
+| [โดดหลบ (Dodge)](/free-rules/rules-glossary#DodgeAction)             | จนกว่าจะเริ่มเทิร์นใหม่ของคุณ การทอยโจมตีที่มีคุณเป็นเป้าหมายจะต้องทอยแบบ [เสียเปรียบ (Disadvantage)](/free-rules/rules-glossary#Disadvantage), และคุณจะทอยป้องกันด้านความคล่องแคล่ว (Dexterity saving throws) แบบ [ได้เปรียบ (Advantage)](/free-rules/rules-glossary#Advantage). คุณจะเสียผลประโยชน์นี้หากคุณติดสถานะ [ไร้สมรรถภาพ (Incapacitated)](/free-rules/rules-glossary#IncapacitatedCondition) หรือความเร็วของคุณเป็น 0.               |
+| [ช่วยเหลือ (Help)](/free-rules/rules-glossary#HelpAction)            | ช่วยสิ่งมีชีวิตอื่นในการทอยทดสอบความสามารถหรือทอยโจมตี หรือปฐมพยาบาล                                                                                                                                                                                                                                                                                                                                                                            |
+| [ซ่อน (Hide)](/free-rules/rules-glossary#HideAction)                 | ทอยทดสอบความคล่องแคล่ว (Dexterity) ทักษะ [การลอบเร้น (Stealth)](/free-rules/playing-the-game#Skills)                                                                                                                                                                                                                                                                                                                                            |
+| [ใช้อิทธิพล (Influence)](/free-rules/rules-glossary#InfluenceAction) | ทอยทดสอบเสน่ห์ (Charisma) ทักษะ ([การล่อลวง (Deception)](/free-rules/playing-the-game#Skills), [การข่มขู่ (Intimidation)](/free-rules/playing-the-game#Skills), [การแสดง (Performance)](/free-rules/playing-the-game#Skills), หรือ [การโน้มน้าว (Persuasion)](/free-rules/playing-the-game#Skills)) หรือความรอบรู้ (Wisdom) ทักษะ [การจัดการสัตว์ (Animal Handling)](/free-rules/playing-the-game#Skills) check to alter a creature’s attitude. |
+| [เวทย์มนต์ (Magic)](/free-rules/rules-glossary#MagicAction)          | ร่ายคาถา, ใช้ไอเท็มเวทย์มนต์, หรือใช้ความสามารถทางเวทย์มนต์                                                                                                                                                                                                                                                                                                                                                                                     |
+| [เตรียมพร้อม (Ready)](/free-rules/rules-glossary#ReadyAction)        | เตรียมตัวในการทำแอ็คชันเพื่อตอบสนองกับเงื่อนไขที่คุณตั้งไว้                                                                                                                                                                                                                                                                                                                                                                                     |
+| [ค้นหา (Search)](/free-rules/rules-glossary#SearchAction)            | ทอยทดสอบความรอบรู้ (Wisdom) ทักษะ [การมองทะลุ (Insight)](/free-rules/playing-the-game#Skills), [การรักษาพยาบาล (Medicine)](/free-rules/playing-the-game#Skills), [การสังเกตุ (Perception)](/free-rules/playing-the-game#Skills), หรือ [การเอาตัวรอด (Survival)](/free-rules/playing-the-game#Skills)                                                                                                                                            |
+| [เรียนรู้ (Study)](/free-rules/rules-glossary#StudyAction)           | ทอยทดสอบความฉลาด (Intelligence) ทักษะ [การรู้ตำนานลึกลับ (Arcana)](/free-rules/playing-the-game#Skills), [ประวัติศาสตร์ (History)](/free-rules/playing-the-game#Skills), [การสืบค้น (Investigation)](/free-rules/playing-the-game#Skills), [การรู้ธรรมชาติ (Nature)](/free-rules/playing-the-game#Skills), or [การรู้ศาสนา (Religion)](/free-rules/playing-the-game#Skills)                                                                     |
+| [ใช้งาน (Utilize)](/free-rules/rules-glossary#UtilizeAction)         | ใช้งานสิ่งของที่ไม่มีเวทย์มนต์                                                                                                                                                                                                                                                                                                                                                                                                                  |
 
-| Action                                                  | Summary                                                                                                                                                                                                                                                                                                                                                          |
-| ------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| [Attack](/free-rules/rules-glossary#AttackAction)       | Attack with a weapon or an [Unarmed Strike](/free-rules/rules-glossary#UnarmedStrike).                                                                                                                                                                                                                                                                           |
-| [Dash](/free-rules/rules-glossary#DashAction)           | For the rest of the turn, give yourself extra movement equal to your [Speed](/free-rules/rules-glossary#Speed).                                                                                                                                                                                                                                                  |
-| [Disengage](/free-rules/rules-glossary#DisengageAction) | Your movement doesn’t provoke [Opportunity Attack](/free-rules/rules-glossary#OpportunityAttack) for the rest of the turn.                                                                                                                                                                                                                                       |
-| [Dodge](/free-rules/rules-glossary#DodgeAction)         | Until the start of your next turn, attack rolls against you have [Disadvantage](/free-rules/rules-glossary#Disadvantage), and you make Dexterity saving throws with [Advantage](/free-rules/rules-glossary#Advantage). You lose this benefit if you have the [Incapacitated](/free-rules/rules-glossary#IncapacitatedCondition) condition or if your Speed is 0. |
-| [Help](/free-rules/rules-glossary#HelpAction)           | Help another creature’s ability check or attack roll, or administer first aid.                                                                                                                                                                                                                                                                                   |
-| [Hide](/free-rules/rules-glossary#HideAction)           | Make a Dexterity ([Stealth](/free-rules/playing-the-game#Skills)) check.                                                                                                                                                                                                                                                                                         |
-| [Influence](/free-rules/rules-glossary#InfluenceAction) | Make a Charisma ([Deception](/free-rules/playing-the-game#Skills), [Intimidation](/free-rules/playing-the-game#Skills), [Performance](/free-rules/playing-the-game#Skills), or [Persuasion](/free-rules/playing-the-game#Skills)) or Wisdom ([Animal Handling](/free-rules/playing-the-game#Skills)) check to alter a creature’s attitude.                       |
-| [Magic](/free-rules/rules-glossary#MagicAction)         | Cast a spell, use a magic item, or use a magical feature.                                                                                                                                                                                                                                                                                                        |
-| [Ready](/free-rules/rules-glossary#ReadyAction)         | Prepare to take an action in response to a trigger you define.                                                                                                                                                                                                                                                                                                   |
-| [Search](/free-rules/rules-glossary#SearchAction)       | Make a Wisdom ([Insight](/free-rules/playing-the-game#Skills), [Medicine](/free-rules/playing-the-game#Skills), [Perception](/free-rules/playing-the-game#Skills), or [Survival](/free-rules/playing-the-game#Skills)) check.                                                                                                                                    |
-| [Study](/free-rules/rules-glossary#StudyAction)         | Make an Intelligence ([Arcana](/free-rules/playing-the-game#Skills), [History](/free-rules/playing-the-game#Skills), [Investigation](/free-rules/playing-the-game#Skills), [Nature](/free-rules/playing-the-game#Skills), or [Religion](/free-rules/playing-the-game#Skills)) check.                                                                             |
-| [Utilize](/free-rules/rules-glossary#UtilizeAction)     | Use a nonmagical object.                                                                                                                                                                                                                                                                                                                                         |
+ตัวละครของผู้เล่นและมอนสเตอร์สามารถทำสิ่งต่าง ๆ ที่ไม่อยู่ในรายการนี้ได้ คุณลักษณะของคลาสหลายอย่างและความสามารถอื่น ๆ จะให้ตัวเลือกแอ็คชันที่เพิ่มขึ้น และคุณสามารถคิดแอ็คชันขึ้นมาเองได้ด้วย เมื่อคุณอธิบายแอ็คชันที่ไม่ได้มีระบุที่ไหนในกฏ DM จะบอกคุณว่าแอ็คชันนั้นทำได้จริงหรือไม่และต้องใช้ [การทดสอบ D20](/free-rules/rules-glossary#D20Test) ใดประกอบการกระทำนั้นถ้าต้องใช้
 
-Player characters and monsters can also do things not covered by these actions. Many class features and other abilities provide additional action options, and you can improvise other actions. When you describe an action not detailed elsewhere in the rules, the Dungeon Master tells you whether that action is possible and what kind of [D20 Test](/free-rules/rules-glossary#D20Test) you need to make, if any.
+### ทำทีละอย่าง {#OneThingataTime}
 
-### One Thing at a Time {#OneThingataTime}
-
-The game uses actions to govern how much you can do at one time. You can take only one action at a time. This principle is most important in combat, as explained in “[Combat](/free-rules/playing-the-game#Combat)” later in this chapter.
+เกมจะใช้แอ็คชันในการควบคุมสิ่งที่คุณจะทำได้ในเวลาหนึ่ง คุณจะสามารถทำได้เพียงหนึ่งแอ็คชันในหนึ่งครั้ง หลักการนี้สำคัญมากในการต่อสู้ ดังที่อธิบายใน “[การต่อสู้ (Combat)](/free-rules/playing-the-game#Combat)” ในบทนี้
 
 Actions can come up in other situations, too: in a social interaction, you can try to [Influence](/free-rules/rules-glossary#InfluenceAction) a creature or use the [Search](/free-rules/rules-glossary#SearchAction) action to read the creature’s body language, but you can’t do both at the same time. And when you’re exploring a dungeon, you can’t simultaneously use the [Search](/free-rules/rules-glossary#SearchAction) action to look for traps and use the [Help](/free-rules/rules-glossary#HelpAction) action to aid another character who’s trying to open a stuck door (with the [Utilize](/free-rules/rules-glossary#UtilizeAction) action).
 
