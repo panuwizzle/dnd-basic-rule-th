@@ -437,55 +437,55 @@ menu: free-rules-start-play
 
 เกมจะใช้แอ็คชันในการควบคุมสิ่งที่คุณจะทำได้ในเวลาหนึ่ง คุณจะสามารถทำได้เพียงหนึ่งแอ็คชันในหนึ่งครั้ง หลักการนี้สำคัญมากในการต่อสู้ ดังที่อธิบายใน “[การต่อสู้ (Combat)](/free-rules/playing-the-game#Combat)” ในบทนี้
 
-Actions can come up in other situations, too: in a social interaction, you can try to [Influence](/free-rules/rules-glossary#InfluenceAction) a creature or use the [Search](/free-rules/rules-glossary#SearchAction) action to read the creature’s body language, but you can’t do both at the same time. And when you’re exploring a dungeon, you can’t simultaneously use the [Search](/free-rules/rules-glossary#SearchAction) action to look for traps and use the [Help](/free-rules/rules-glossary#HelpAction) action to aid another character who’s trying to open a stuck door (with the [Utilize](/free-rules/rules-glossary#UtilizeAction) action).
+แอ็คชันสามารถเกิดขึ้นได้ในสถานการณ์อื่นด้วย: ในการปฏิสัมพันธ์ทางสังคม คุณสามารถลอง [ใช้อิทธิพล (Influence)](/free-rules/rules-glossary#InfluenceAction) กับสิ่งมีชีวิตอื่น หรือใช้ [การค้นหา (Search)](/free-rules/rules-glossary#SearchAction) ในการอ่านภาษาท่าทางของผู้อื่น แต่คุณจะไม่สามารถทำทั้งสองอย่างพร้อม ๆ กันได้ และเมื่อคุณลงสำรวจดันเจียน คุณจะไม่สามารถใช้ [การค้นหา (Search)](/free-rules/rules-glossary#SearchAction) ในการมองหากับดักและใช้ [การช่วยเหลือ (Help)](/free-rules/rules-glossary#HelpAction) ในการช่วยตัวละครอื่นที่กำลังพยายามเปิดประตูที่ติดอยู่ได้ (ด้วยแอ็คชัน [การใช้งาน (Utilize)](/free-rules/rules-glossary#UtilizeAction)).
 
-### Bonus Actions {#BonusActions}
+### โบนัสแอ็คชัน (Bonus Actions) {#BonusActions}
 
-Various class features, spells, and other abilities let you take an additional action on your turn called a Bonus Action. The Cunning Action feature, for example, allows a Rogue to take a Bonus Action. You can take a Bonus Action only when a special ability, a spell, or another feature of the game states that you can do something as a Bonus Action. You otherwise don’t have a Bonus Action to take.
+คุณสมบัติของคลาส, คาถา, และความสามารถอื่น ๆ จะให้คุณสามารถทำแอ็คชันเพิ่มเติมในเทิร์นของคุณ เรียกว่า โบนัสแอ็คชัน (Bonus Action) ตัวอย่างเช่น คุณสมบัติ แอ็คชันไหวพริบ (Cunning Action) ทำให้โร็คสามารถใช้โบนัสแอ็คชันได้ คุณสามารถใช้โบนัสแอ็คชันได้เฉพาะเมื่อมีความสามารถพิเศษ, คาถา หรือคุณสมบัติอื่นของเกมที่อนุญาตให้คุณทำบางอย่างด้วยโบนัสแอ็คชันได้ โดยปกติคุณจะไม่มีโบนัสแอ็คชันใช้
 
-You can take only one Bonus Action on your turn, so you must choose which Bonus Action to use if you have more than one available.
+คุณสามารถใช้โบนัสแอ็คชันได้ครั้งเดียวในเทิร์นของคุณ ดังนั้นคุณต้องเลือกว่าจะใช้โบนัสแอ็คชันใดหากคุณหลายอย่างให้เลือกใช้
 
-You choose when to take a Bonus Action during your turn unless the Bonus Action’s timing is specified. Anything that deprives you of your ability to take actions also prevents you from taking a Bonus Action.
+คุณจะเลือกใช้โบนัสแอ็คชันระหว่างเทิร์นของคุณเว้นแต่ว่าโบนัสแอ็คชันนั้นจะมีเวลาใช้ระบุไว้ สิ่งใดก็ตามที่ยับยั้งความสามารถในการใช้แอ็คชันของคุณจะทำให้คุณไม่สามารถใช้โบนัสแอ็คชันด้วย
 
-### Reactions {#Reactions}
+### รีแอ็คชัน (Reactions) {#Reactions}
 
-Certain special abilities, spells, and situations allow you to take a special action called a Reaction. A Reaction is an instant response to a trigger of some kind, which can occur on your turn or on someone else’s. The [Opportunity Attack](/free-rules/rules-glossary#OpportunityAttack), described [later in this chapter](/free-rules/playing-the-game#OpportunityAttacks), is the most common type of Reaction.
+ความสามารถพิเศษ, คาถา และสถานการณ์บางอย่างจะให้คุณใช้แอ็คชันพิเศษเรียกว่า "รีแอ็คชัน (Reaction)" รีแอ็คชันเป็นการตอบสนองแบบฉับพลันที่จะเกิดขึ้นในเทิร์นของคุณหรือของคนอื่น [การโจมตีเมื่อสบโอกาส (Opportunity Attack)](/free-rules/playing-the-game#OpportunityAttacks) มีอธิบายไว้ในบทนี้ เป็นรีแอ็คชันที่พบได้บ่อย
 
-When you take a Reaction, you can’t take another one until the start of your next turn. If the reaction interrupts another creature’s turn, that creature can continue its turn right after the Reaction.
+เมื่อคุณใช้รีแอ็คชัน คุณจะไม่สามารถใช้ได้อีกจนกว่าจะเริ่มเทิร์นต่อไปของคุณ ถ้ารีแอ็คชันไปรบกวนเทิร์นของสิ่งมีชีวิตอื่น สิ่งมีชีวิตนั้นสามารถใช้เทิร์นต่อจากรีแอ็คชันได้ทันที
 
-In terms of timing, a Reaction takes place immediately after its trigger unless the Reaction’s description says otherwise.
+ในส่วนของจังหวะเวลา รีแอ็คชันจะเกิดขึ้นทันทีหลักจากที่เงื่อนไขครบเว้นแต่ว่ามีการระบุไว้แบบอื่นสำหรับรีแอ็คชันนั้น
 
-What Would Your Character Do?
+>**ตัวละครของคุณจะทำอะไร?**
+>
+> ลองถามตัวเองขณะที่เล่นอยู่ "ตัวละครของฉันจะทำอะไรนะ?" การสวมบทบาทจะเป็นการเข้าไปอยู่ในหัวของคนอื่นและทำความเข้าใจว่าอะไรที่ผลักดันพวกเขา และจะแปลแรงผลักดันนั้นให้เป็นการกระทำได้อย่างไร ใน D&D การกระทำต่าง ๆ แสดงออกมากในรูปของโลกในจินตนาการที่เต็มไปด้วยสถานการณ์ที่เราทำได้เพียงแค่นึกฝัน ตัวละครของคุณจะตอบสนองอย่างไรกับสถานการณ์เหล่านั้น
+>
+> คำแนะนำนี้มีสิ่งสำคัญที่ต้องคำนึงอยู่หนึ่งอย่าง: ต้องหลีกเลี่ยงตัวเลือกที่จะทำลายความสนุกของผู้เล่นอื่นและ DM เลือกการกระทำที่ทำให้คุณและเพื่อนสนุกและมีความสุข
 
-Ask yourself as you play, “What would my character do?” Playing a role involves some amount of getting into another person’s head and understanding what motivates them and how those motivations translate into action. In D&D, those actions unfold against the backdrop of a fantastic world full of situations we can only imagine. How does your character react to those situations?
+## การปฏิสัมพันธ์ทางสังคม (Social Interaction) {#SocialInteraction}
 
-This advice comes with one important caveat: avoid character choices that ruin the fun of the other players and the DM. Choose actions that delight you and your friends.
+ระหว่างการผจญภัย ตัวละครจะพบกับผู้คนมากมายและเผชิญหน้ากับมอนสเตอร์บางส่วนที่สามารถพูดคุยได้โดยไม่ต้องต่อสู้กัน ในสถานการณ์เหล่านั้น เป็นช่วงเวลาของการมีปฏิสัมพันธ์ทางสังคม ซึ่งมาในหลายรูปแบบ ตัวอย่างเช่น คุณอาจจะพยายามโน้มน้าวให้ขอทานสารภาพสิ่งที่ทำผิด หรือพยายามจะผูกมิตรกับยามเฝ้าประตู ดันเจียนมาสเตอร์จะเป็นคนสวมบทบาทตัวละครที่ไม่ใช่ผู้เล่นในบทสนทนาต่าง ๆ
 
-## Social Interaction {#SocialInteraction}
+ทัศนคติของ NPC (Non-player character: ตัวละครที่ไม่ใช่ผู้เล่น) ที่มีต่อตัวละครของคุณจะมี [เป็นมิตร (Friendly)](/free-rules/rules-glossary#FriendlyAttitude), [ไม่แตกต่าง (Indifferent)](/free-rules/rules-glossary#IndifferentAttitude), หรือ [เป็นศัตรู (Hostile)](/free-rules/rules-glossary#HostileAttitude), ตามที่ระบุไว้ใน [รายการกฏ](/free-rules/rules-glossary) NPC ที่เป็นมิตรจะคอยช่วยเหลือ และที่เป็นศัตรูจะคอยขัดขวางคุณ
 
-During their adventures, player characters meet many different people and face some monsters that would rather talk than fight. In those situations, it’s time for social interaction, which takes many forms. For example, you might try to convince a burglar to confess to wrongdoing or try to flatter a guard. The Dungeon Master assumes the roles of any nonplayer characters who are participating.
+การปฏิสัมพันธ์ทางสังคมจะเกิดขึ้นได้สองทาง คือจากการสวมบทบาทและการทอยทดสอบความสามารถ
 
-An NPC’s attitude toward your character is [Friendly](/free-rules/rules-glossary#FriendlyAttitude), [Indifferent](/free-rules/rules-glossary#IndifferentAttitude), or [Hostile](/free-rules/rules-glossary#HostileAttitude), as defined in the [rules glossary](/free-rules/rules-glossary). Friendly NPCs are predisposed to help, and Hostile ones are inclined to hinder.
+### การสวมบทบาท (Roleplaying) {#Roleplaying}
 
-Social interactions progress in two ways: through roleplaying and ability checks.
+การสวมบทบาท ตรงตัวเลยคือ การแสดงเป็นตัวละครนั้น ในกรณีนี้ เป็นคุณผู้เล่นที่จะกำหนดให้ตัวละครของคุณคิด, ทำ และพูดอย่างไร การสวมบทบาทเป็นส่วนสำคัญในทุกด้านของเกมและมันออกมาให้เห็นชัดเจนในการปฏิสัมพันธ์ทางสังคม
 
-### Roleplaying {#Roleplaying}
+เมื่อคุณสวมบทบาท ให้ลองคิดว่าคุณชอบแบบแสดงโดยตรงหรือแบบอธิบายเป็นภาพ แต่ละอย่างนี้จะอธิบายใน “[ตัวอย่างการปฏิสัมพันธ์ทางสังคม](/free-rules/playing-the-game#SocialInteractionExample)”
 
-Roleplaying is, literally, the act of playing out a role. In this case, it’s you as a player determining how your character thinks, acts, and talks. Roleplaying is part of every aspect of the game, and it comes to the fore during social interactions.
+DM จะใช้บุคลิกลักษณะของ NPC และการกระทำของตัวละครของคุณรวมถึงทัศนคติในการกำหนดการตอบสนองของ NPC โจรป่าขี้ขลาดอาจจะหวาดกลัวถ้าถูกขู่ว่าจะจับขังคุก แม่ค้าหัวดื้อปฏิเสธที่จะช่วยหากตัวละครทำตัวไม่ดีกับเธอ มังกรร้ายก็พ่ายคำหวานได้
 
-As you roleplay, consider whether you prefer an active approach or a descriptive approach, each of which is described in “[Social Interaction Example.](/free-rules/playing-the-game#SocialInteractionExample)”
+เมื่อมีปฏิสัมพันธ์กับ NPC ให้สังเกตุการแสดงบุคลิคลักษณะของ NPC ที่ DM พยายามแสดงออกมา คุณอาจจะได้รู้ถึงเป้าหมายของ NPC และใช้ข้อมูลนั้นในการชักจูงให้ทำตามที่ต้องการ
 
-The DM uses an NPC’s personality and your character’s actions and attitudes to determine how an NPC reacts. A cowardly bandit might buckle under threats of imprisonment. A stubborn merchant refuses to help if the characters badger her. A vain dragon laps up flattery.
+หากคุณให้บางสิ่งที่ NPC ต้องการหรือเล่นกับสิ่งที่เขาให้ความสำคัญ, สิ่งที่กลัว หรือเป้าหมาย คุณสามารถจะสร้างมิตรภาพ หลีกเลี่ยงความรุนแรง หรือได้รู้ถึงข้อมูลสำคัญ อีกด้านหนึ่ง หากคุณดูถูกนักรบผู้ทรงเกียรติหรือพูดจาไม่ดีกับเหล่าพันธมิตรขุนนาง ความพยายามในการโน้มน้าวหรือล่อลวงของคุณอาจจะไร้ผล
 
-When interacting with an NPC, pay attention to the DM’s portrayal of the NPC’s personality. You might be able to learn an NPC’s goals and then use that information to influence the NPC.
+### การทอยทดสอบความสามารถ (Ability Checks) {#SocialInteractionAbilityChecks}
 
-If you offer NPCs something they want or play on their sympathies, fears, or goals, you can form friendships, ward off violence, or learn a key piece of information. On the other hand, if you insult a proud warrior or speak ill of a noble’s allies, your efforts to convince or deceive will likely fail.
+การทอยทดสอบความสามารถอาจจะเป็นตัวแปรสำคัญในการตัดสินผลลัพท์ของการปฏิสัมพันธ์ทางสังคม ความพยายามในการสวมบทบาทของคุณสามารถเปลี่ยนทัศนคติของ NPC ได้ แต่อาจจะยังมีบางอย่างที่ DM ต้องการให้ลูกเต๋าเป็นตัวตัดสินว่า NPC จะตอบสนองอย่างไร ในสถานการณ์แบบนั้น DM มักจะขอให้คุณใช้แอ็คชัน [ใช้อิทธิพล (Influence)](/free-rules/rules-glossary#InfluenceAction)
 
-### Ability Checks {#SocialInteractionAbilityChecks}
-
-Ability checks can be key in determining the outcome of a social interaction. Your roleplaying efforts can alter an NPC’s attitude, but there might still be an element of chance if the DM wants dice to play a role in determining an NPC’s response to you. In such situations, the DM will typically ask you to take the [Influence](/free-rules/rules-glossary#InfluenceAction) action.
-
-Pay attention to your skill proficiencies when thinking of how you will interact with an NPC; use an approach that relies on your group’s skill proficiencies. For example, if the group needs to trick a guard into letting them into a castle, the Rogue who is proficient in [Deception](/free-rules/playing-the-game#Skills) should lead the discussion.
+ให้คุณพิจารณาความเชี่ยวชาญในทักษะของคุณเมื่อต้องวางแผนในการปฏิสัมพันธ์กับ NPC พยายามใช้วิธีที่กลุ่มของคุณมีทักษะที่เชี่ยวชาญ ตัวอย่างเช่น ถ้ากลุ่มต้องการจะหลอกให้ยามปล่อยให้พวกเขาเข้าปราสาท โร็คที่มีความเชี่ยวชาญในทักษะ [การล่อลวง (Deception)](/free-rules/playing-the-game#Skills) ก็ควรเป็นผู้นำการเจรจา
 
 ## Exploration {#Exploration}
 
