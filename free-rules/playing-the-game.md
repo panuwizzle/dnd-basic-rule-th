@@ -487,74 +487,74 @@ DM จะใช้บุคลิกลักษณะของ NPC และก
 
 ให้คุณพิจารณาความเชี่ยวชาญในทักษะของคุณเมื่อต้องวางแผนในการปฏิสัมพันธ์กับ NPC พยายามใช้วิธีที่กลุ่มของคุณมีทักษะที่เชี่ยวชาญ ตัวอย่างเช่น ถ้ากลุ่มต้องการจะหลอกให้ยามปล่อยให้พวกเขาเข้าปราสาท โร็คที่มีความเชี่ยวชาญในทักษะ [การล่อลวง (Deception)](/free-rules/playing-the-game#Skills) ก็ควรเป็นผู้นำการเจรจา
 
-## Exploration {#Exploration}
+## การสำรวจ (Exploration) {#Exploration}
 
-Exploration involves delving into places that are dangerous and full of mystery. The rules in this section detail some of the ways adventurers interact with the environment in such places.
+การสำรวจเป็นการเดินทางไปสู่สถานที่อันตรายและเต็มไปด้วยปริศนา กฏในส่วนนี้จะอธิบายถึงการที่นักผจญภัยจะมีปฏิสัมพันธ์กับสิ่งแวดล้อมในสถานที่เหล่านั้น
 
-### Adventuring Equipment {#AdventuringEquipment}
+### อุปกรณ์ในการผจญภัย {#AdventuringEquipment}
 
-As adventurers explore, their equipment can help them in many ways. For example, they can reach out-of-the-way places with a Ladder, perceive things they wouldn’t otherwise notice with a Torch or another light source, bypass locked doors and containers with [Thieves’ Tools](https://www.dndbeyond.com/equipment/495-thieves-tools), and create obstacles for pursuers with [Caltrops](https://www.dndbeyond.com/equipment/497-caltrops).
+เมื่อนักผจญภัยออกสำรวจ อุปกรณ์ติดตัวของพวกเขาจะช่วยได้ในหลายทาง ตัวอย่างเช่น พวกเขาสามารถใช้บันไดปีนไปในที่สูง รับรู้ถึงสิ่งที่อาจจะมองพลาดไปได้ด้วยคบไฟหรือแหล่งให้แสงสว่างอื่น ๆ สะเดาะกุญแจและหีบสมบัติด้วย [เครื่องมือโจร (Thieves’ Tools)](https://www.dndbeyond.com/equipment/495-thieves-tools) และสร้างสิ่งกีดขวางผู้ไล่ตามด้วย [ตะปูเรือใบ (Caltrops)](https://www.dndbeyond.com/equipment/497-caltrops)
 
-See [chapter 6](/free-rules/equipment) for rules on many items that are useful on adventures. The items in that chapter’s “[Tools](/free-rules/equipment#Tools)” and “[Adventuring Gear](/free-rules/equipment#AdventuringGear)” sections are especially useful. The weapons in that chapter can also be used for more than battle; you could use a [Quarterstaff](https://www.dndbeyond.com/equipment/12-quarterstaff), for example, to push a sinister-looking button that you’re reluctant to touch.
+ดู [บทที 6](/free-rules/equipment) สำหรับกฏของไอเท็มหลายชนิดที่มีประโยชน์ในการผจญภัย ไอเท็มในส่วน “[เครื่องมือ (Tools)](/free-rules/equipment#Tools)” และ “[อุปกรณ์การผจญภัย (Adventuring Gear)](/free-rules/equipment#AdventuringGear)” มีประโยชน์มาก ข้อมูลอาวุธในบทนั้นก็เป็นประโยชน์ด้วยในการต่อสู้ คุณอาจจะใช้ [ไม้พลอง (Quarterstaff)](https://www.dndbeyond.com/equipment/12-quarterstaff) ในการจิ้มทดสอบปุ่มที่น่าสงสัยที่คุณไม่อยากไปแตะต้อง
 
-### Vision and Light {#VisionandLight}
+### การมองเห็นและแสง {#VisionandLight}
 
-Some adventuring tasks—such as noticing danger, hitting an enemy, and targeting certain spells—are affected by sight, so effects that obscure vision can hinder you, as explained below.
+กิจกรรมการผจญภัยบางอย่างเช่นการรับรู้ถึงอันตราย การโจมตีศัตรู และการใช้คาถานั้นล้วนแต่ต้องใช้การมองเห็น ดังนั้นบางสิ่งที่บดบังวิศัยทรรศน์ก็ทำให้คุณลำบากได้ ดังคำอธิบายด้านล่าง
 
-#### Obscured Areas {#ObscuredAreas}
+#### พื้นที่ที่ถูกบดบัง (Obscured Areas) {#ObscuredAreas}
 
-An area might be Lightly or Heavily Obscured. In a Lightly Obscured area—such as an area with Dim Light, patchy fog, or moderate foliage—you have [Disadvantage](/free-rules/rules-glossary#Disadvantage) on Wisdom ([Perception](/free-rules/playing-the-game#Skills)) checks that rely on sight.
+พื้นที่ถูกบดบังน้อยหรือถูกบดบังมาก (Lightly and Heavily Obscured) ในพื้นที่ที่ถูกบดบังน้อย เช่นพื้นที่แสงสลัว (Dim Light) อย่างในพื้นที่มีหมอกปกคลุม หรือมีพุ่มไม้ปานกลาง คุณจะต้องทอยทดสอบความสามารถความรอบรู้ (Wisdom) ทักษะ [การรับรู้ (Perception)](/free-rules/playing-the-game#Skills) แบบ [เสียเปรียบ (Disadvantage)](/free-rules/rules-glossary#Disadvantage) เมื่อต้องทดสอบทักษะเกี่ยวกับการมองเห็น
 
-A Heavily Obscured area—such as an area with Darkness, heavy fog, or dense foliage—is opaque. You have the [Blinded](/free-rules/rules-glossary#BlindedCondition) condition (see the [rules glossary](/free-rules/rules-glossary#BlindedCondition)) when trying to see something there.
+พื้นที่ที่ถูกบดบังมาก เช่นพื้นที่มืดสนิท หมอกหนา หรือพุ่มไม้หนาทึบ เป็นพื้นที่ทึบแสง คุณจะตินสถานะ [ตาบอด (Blinded)](/free-rules/rules-glossary#BlindedCondition) (ดู [รายการกฏ](/free-rules/rules-glossary#BlindedCondition)) เมื่อพยายามจะมองบางสิ่งในพื้นที่นั้น
 
-#### Light {#Light}
+#### แสง (Light) {#Light}
 
-The presence or absence of light determines the category of illumination in an area, as defined below.
+การมีอยู่หรือหายไปของแสงเป็นตัวกำหนดลักษณะการมีแสงสว่างในพื้นที่ รายละเอียดด้านล่าง
 
-**_Bright Light._** Bright Light lets most creatures see normally. Even gloomy days provide Bright Light, as do torches, lanterns, fires, and other sources of illumination within a specific radius.
+**_แสงปกติ (Bright Light)_** แสงปกติทำให้สิ่งมีชีวิตส่วนใหญ่มองเห็นได้อย่างปกติ แม้ในวันที่เมฆมากก็ถือว่าเป็นแสงปกติ เช่นเดียวกับคบไฟ, ตะเกียง, กองไฟ, และแหล่งกำเนิดแสงอื่น ๆ ภายในระยะรัศมีแสง
 
-**_Dim Light._** Dim Light, also called shadows, creates a [Lightly Obscured](/free-rules/rules-glossary#LightlyObscured) area. An area of Dim Light is usually a boundary between Bright Light and surrounding Darkness. The soft light of twilight and dawn also counts as Dim Light. A full moon might bathe the land in Dim Light.
+**_แสงสลัว (Dim Light)_** แสงสลัว หรือเรียกว่าเงา จะสร้าง [พื้นที่ที่ถูกบดบังน้อย (Lightly Obscured)](/free-rules/rules-glossary#LightlyObscured) พื้นที่แสงสลัวมักจะเป็นรอยต่อระหว่างพื้นที่แสงปกติกับความมืดโดยรอบ แสงในยามเย็นและรุ่งเช้านับเป็นแสงสลัวด้วย แสงจันทร์ที่ฉายลงมาบนพื้นที่ก็ถือว่าเป็นแสงสลัว
 
-**_Darkness._** Darkness creates a [Heavily Obscured](/free-rules/rules-glossary#HeavilyObscured) area. Characters face Darkness outdoors at night (even most moonlit nights), within the confines of an unlit dungeon, or in an area of magical Darkness.
+**_มืดสนิท (Darkness)._** ความมืดสร้าง [พื้นที่ที่ถูกบดบังมาก (Heavily Obscured)](/free-rules/rules-glossary#HeavilyObscured) ตัวละครจะเจอกับความมืดนอกบ้านในยามค่ำคืน, ภายในดันเจียนที่ไม่ได้จุดไฟ หรือในพื้นที่มืดจากเวทย์มนต์
 
-#### Special Senses {#SpecialSenses}
+#### การรับสัมผัสแบบพิเศษ (Special Senses) {#SpecialSenses}
 
-Some creatures have special senses that help them perceive things in certain situations. The rules glossary defines the following special senses:
+สิ่งมีชีวิตบางอย่างมีประสาทสัมผัสพิเศษที่ช่วยให้รับรู้สิ่งต่าง ๆ ในสถานการณ์หนึ่ง รายการกฏจะอธิบายความสามารถพิเศษเหล่านี้:
 
-- [Blindsight](/free-rules/rules-glossary#Blindsight)
-- [Darkvision](/free-rules/rules-glossary#Darkvision)
-- [Tremorsense](/free-rules/rules-glossary#Tremorsense)
-- [Truesight](/free-rules/rules-glossary#Truesight)
+- [บลายด์ไซท์ (Blindsight)](/free-rules/rules-glossary#Blindsight)
+- [ดาร์กวิชัน (Darkvision)](/free-rules/rules-glossary#Darkvision)
+- [เทรเมอร์เซนส์ (Tremorsense)](/free-rules/rules-glossary#Tremorsense)
+- [ทรูไซท์ (Truesight)](/free-rules/rules-glossary#Truesight)
 
-### Hiding {#Hiding}
+### การหลบซ่อน (Hiding) {#Hiding}
 
-Adventurers and monsters often hide, whether to spy on one another, sneak past a guardian, or set an ambush. The Dungeon Master decides when circumstances are appropriate for hiding. When you try to hide, you take the [Hide](/free-rules/rules-glossary#HideAction) action.
+นักผจญภัยและมอนสเตอร์ต่างก็มักจะซ่อนตัว ไม่ว่าจะเป็นการลอบสังเกตุกันและกัน, การย่องผ่านยาม หรือการลอบโจมตี ดันเจียนมาสเตอร์จะตัดสินใจว่าเมื่อใดที่เหมาะกับการซ่อนตัว เมื่อคุณพยายามจะซ่อนตัว คุณจะใช้แอ็คชัน [ซ่อนตัว (Hide)](/free-rules/rules-glossary#HideAction)
 
-### Interacting with Objects {#InteractingwithObjects}
+### การปฏิสัมพันธ์กับวัตถุ {#InteractingwithObjects}
 
-Interacting with objects is often simple to resolve. The player tells the DM that their character is doing something, such as moving a lever or opening a door, and the DM describes what happens. Sometimes, however, rules govern what you can do with an object, as detailed in the following sections.
+การปฏิสัมพันธ์กับวัตถุมักจะได้ผลลัพท์โดยง่าย ผู้เล่นจะบอกกับ DM ว่าตัวละครจะทำอะไร เช่นลองดึงคันโยกหรือเปิดประตู และ DM อธิบายว่าอะไรเกิดขึ้น บางครั้งก็อาจจะมีกฏควบคุมสิ่งที่คุณสามารถทำได้กับวัตถุซึ่งจะอธิบายในส่วนต่อไป
 
-#### What Is an Object? {#WhatIsanObject}
+#### วัตถุคืออะไร? {#WhatIsanObject}
 
-For the purpose of the rules, an object is a discrete, inanimate item like a window, door, sword, book, table, chair, or stone. It isn’t a building or a vehicle, which are composed of many objects.
+เพื่อกำหนดการใช้กฏ วัตถุคือสิ่งที่เป็นหน่วยเดี่ยว ไม่เคลื่อนไหว เช่นหน้าต่าง, ประตู, ดาบ, หนังสือ, โต๊ะเก้าอี้, หรือก้อนหิน มันจะไม่ใช่สิ่งก่อสร้างหรือพาหนะที่เป็นการรวมกันของหลายสิ่ง
 
-#### Time-Limited Object Interactions {#TimeLimitedObjectInteractions}
+#### การปฏิสัมพันธ์กับวัตถุแบบมีเวลาจำกัด {#TimeLimitedObjectInteractions}
 
-When time is short, such as in combat, interactions with objects are limited: one free interaction per turn. That interaction must occur during a creature’s movement or action. Any additional interactions require the [Utilize](/free-rules/rules-glossary#UtilizeAction) action, as explained in “[Combat](/free-rules/playing-the-game#Combat)” later in this chapter.
+เมื่ออยู่ในช่วงเวลาจำกัด เช่นในการต่อสู้ การปฏิสัมพันธ์กับวัตถุจะมีจำกัดไปด้วย โดยทำได้เพียงหนึ่งครั้งต่อเทิร์น การปฏิสัมพันธ์นั้นจะต้องเกิดขึ้นระหว่างการเคลื่อนที่หรือแอ็คชัน หากมีขั้นตอนหลายอย่างต้องใช้แอ็คชัน [ใช้งาน (Utilize)](/free-rules/rules-glossary#UtilizeAction) ดังที่อธิบายไว้ใน “[การต่อสู้ (Combat)](/free-rules/playing-the-game#Combat)” ในบทนี้
 
-#### Finding Hidden Objects {#FindingHiddenObjects}
+#### การค้นหาวัตถุที่ซ่อนอยู่ {#FindingHiddenObjects}
 
-When your character searches for hidden things, such as a secret door or a trap, the DM typically asks you to make a Wisdom ([Perception](/free-rules/playing-the-game#Skills)) check, provided you describe the character searching in the hidden object’s vicinity. On a success, you find the object, other important details, or both.
+เมื่อตัวละครของคุณค้นหาวัตถุที่ซ่อนอยู่ เช่นประตูลับหรือกับดัก DM มักจะขอให้คุณทอยทดสอบความสามารถความรอบรู้ (Wisdom) ทักษะ [การรับรู้ (Perception)](/free-rules/playing-the-game#Skills) และให้อธิบายการค้นหาวัตถุของตัวละครของคุณว่าหาตรงไหน หากทอยผ่าน คุณจะเจอกับวัตถุที่ค้นหา, ข้อมูลที่สำคัญอื่น ๆ หรือทั้งสองอย่าง
 
-If you describe your character searching nowhere near a hidden object, a Wisdom ([Perception](/free-rules/playing-the-game#Skills)) check won’t reveal the object, no matter the check’s total.
+ถ้าคุณอธิบายว่าตัวละครของคุณค้นหาตรงจุดอื่นที่ไม่ได้อยู่ใกล้กับวัตถุที่ซ่อนอยู่ การทอยทดสอบก็จะไม่เป็นการเผยจุดที่ซ่อนของวัตถุ ไม่ว่าจะทอยได้เท่าไร
 
-#### Carrying Objects {#CarryingObjects}
+#### การพกพาวัตถุ {#CarryingObjects}
 
-You can usually carry your gear and treasure without worrying about the weight of those objects. If you try to haul an unusually heavy object or a massive number of lighter objects, the DM might require you to abide by the rules for [carrying capacity](/free-rules/rules-glossary#CarryingCapacity) in the [rules glossary](/free-rules/rules-glossary#CarryingCapacity).
+ปกติแล้วคุณจะแบกอุปกรณ์และสมบัติไปได้โดยไม่ต้องกังวลเกี่ยวกับน้ำหนักของมัน ถ้าคุณพยายามจะลากวัตถุที่หนักมากหรือวัตถุเบาจำนวนมหาศาล DM อาจจะขอให้คุณทำตามกฏ [ความสามารถในการขนของ (carrying capacity)](/free-rules/rules-glossary#CarryingCapacity) ใน [รายการกฏ](/free-rules/rules-glossary#CarryingCapacity)
 
-#### Breaking Objects {#BreakingObjects}
+#### การทำลายวัตถุ {#BreakingObjects}
 
-As an action, you can automatically break or otherwise destroy a fragile, nonmagical object, such as a glass container or a piece of paper. If you try to damage something more resilient, the DM might use the rules on [breaking objects](/free-rules/rules-glossary#BreakingObjects) in the [rules glossary](/free-rules/rules-glossary#BreakingObjects).
+โดยใช้แอ็คชัน คุณสามารถทำให้แตกหรือทำลายวัตถุที่เปราะบาง, ไม่ได้เป็นวัตถุเวทย์มนต์ เช่นแก้วหรือกระดาษ ถ้าคุณพยายามสร้างความเสียหายให้กับสิ่งที่ทนทานกว่า DM อาจจะใช้กฏ [ทำลายวัตถุ (breaking objects)](/free-rules/rules-glossary#BreakingObjects) ใน [รายการกฏ](/free-rules/rules-glossary#BreakingObjects)
 
 ### Hazards {#Hazards}
 
