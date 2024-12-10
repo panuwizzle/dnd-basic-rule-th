@@ -1,6 +1,7 @@
 ---
 layout: book
 menu: menu-lmop
+permalink: /adventures/lost-mine-of-phandelver
 ---
 # เหมืองที่สาปสูญแห่งแฟนเดลเวอร์ ([1491 DR](https://forgottenrealms.fandom.com/wiki/1491_DR))
 
@@ -196,15 +197,15 @@ The regional map shows just a tiny part of this vast world, in a region called t
 >
 >A character can have only one inspiration at a time.
 
-[![MAP OF THE SWORD COAST](./assets/tmb_lmop01.jpg)](./assets/lmop01.jpg)
+[![MAP OF THE SWORD COAST](/assets/lost-mine-of-phandelver/tmb_lmop01.jpg)](/assets/lost-mine-of-phandelver/lmop01.jpg)
 
-[View Player Version](./assets/lmop2.jpg)
+[View Player Version](/assets/lost-mine-of-phandelver/lmop2.jpg)
 
 ## Premade Characters
 These premade character sheets are available to claim.
 
 ### Dwarven Cleric
-![Dwarven Cleric](./assets/mobile-06-dwarf-cleric.png)
+![Dwarven Cleric](/assets/lost-mine-of-phandelver/mobile-06-dwarf-cleric.png)
 Trained as a soldier on the island of Mintarn, you traveled to Neverwinter as part of a mercenary company that serves as both army and city watch. You grew disillusioned with your fellow soldiers, who seem to enjoy their authority at the expense of the people they’re supposed to protect. Everything came to a head recently, when you disobeyed an order and followed your conscience. You were suspended from active duty, though you kept your rank and your connection to the mercenaries. Since then, you have devoted yourself to your deity.
 
 **Personal Goal: Teach the Redbrands a Lesson.** You’ve heard that Daran Edermath in the town of Phandalin is looking for people of courage and principle to teach some bullies a lesson. These thugs, the Redbrands, have been throwing their weight around in Phandalin, much as your compatriots did in Neverwinter. Putting a stop to their villainy is a worthy goal.
@@ -213,10 +214,10 @@ Trained as a soldier on the island of Mintarn, you traveled to Neverwinter as pa
 
 [View character sheet](https://www.dndbeyond.com/characters/95592044)
 
-[Downloadble PDF](./assets/dwarf-cleric.pdf)
+[Downloadble PDF](/assets/lost-mine-of-phandelver/dwarf-cleric.pdf)
 
 ### Elven Wizard
-![Elven Wizard](./assets/mobile-07-elf-wizard.png)
+![Elven Wizard](/assets/lost-mine-of-phandelver/mobile-07-elf-wizard.png)
 You have spent your life dedicated to Oghma, all-seeing god of knowledge, and spent years learning the lore of the multiverse.
 
 **Personal Goal: Reconsecrate the Defiled Altar.** Through visions delivered in your trances, your god has called you to a new mission. A goblin tribe has made its lair in an ancient ruin now called Cragmaw Castle, where they have defiled a shrine once sacred to Oghma. Now dedicated to the vile goblin god Maglubiyet, the altar is an offense to Oghma that must not stand.
@@ -227,10 +228,10 @@ You’re sure Oghma has greater things in store for you if you can complete this
 
 [View character sheet](https://www.dndbeyond.com/characters/95473369)
 
-[Downloadble PDF](./assets/elf-wizard.pdf)
+[Downloadble PDF](/assets/lost-mine-of-phandelver/elf-wizard.pdf)
 
 ### Halfling Rogue
-![Halfling Rogue](./assets/mobile-09-halfling-rogue.png)
+![Halfling Rogue](/assets/lost-mine-of-phandelver/mobile-09-halfling-rogue.png)
 The town of Phandalin is built on the ruins of an older settlement, vacant for five centuries until some hardy settlers set about rebuilding it some years back. Drawn by stories of gold and platinum in the nearby foothills, you came to Phandalin as well, not to earn a living, but to prey on those who struck it rich. You joined a gang calling itself the Redbrands and made some decent coin as a burglar, enforcer, or fence.
 
 A hooded halfling rogue outfitted in leather armor, stares at you with a bemused expression and with a dagger in their hands
@@ -242,10 +243,10 @@ But you must have made an enemy among your fellow Redbrands. Someone set you up.
 
 [View character sheet](https://www.dndbeyond.com/characters/95531915)
 
-[Downloadble PDF](./assets/halfling-rogue.pdf)
+[Downloadble PDF](/assets/lost-mine-of-phandelver/halfling-rogue.pdf)
 
 ### Human Fighter 1
-![Human Fighter 1](./assets/mobile-03-human-fighter.png)
+![Human Fighter 1](/assets/lost-mine-of-phandelver/mobile-03-human-fighter.png)
 Your family is no stranger to wealth, power, and privilege. In the glory days of Neverwinter, your parents were the count and countess of Corlinn Hill, a large estate located in the hills northeast of the city. But Mount Hotenow erupted thirty years ago, devastating Neverwinter and erasing Corlinn Hill from the map. Instead of growing up on an estate, you were raised in a small but comfortable town house in Waterdeep. As an adult, you stand to inherit a meaningless title and little else.
 
 **Personal Goal: Civilize Phandalin.** You were meant for more than being a ruler of nothing at all. Rebuilding Corlinn Hill is impractical, thanks to the volcano. But in the last three or four years, hardy settlers have been rebuilding another ruin near the city: the old town of Phandalin, which orcs sacked five centuries ago. Clearly, what Phandalin needs now is a civilizing influence—someone to take the reins and bring law and order. Someone like you.
@@ -256,10 +257,10 @@ You’re not the only one with such ideas. A knight named Sildar Hallwinter rece
 
 [View character sheet](https://www.dndbeyond.com/characters/95473157)
 
-[Downloadble PDF](./assets/human-fighter.pdf)
+[Downloadble PDF](/assets/lost-mine-of-phandelver/human-fighter.pdf)
 
 ### Human Fighter 2
-![Human Fighter 2](./assets/mobile-11-human-fighter.png)
+![Human Fighter 2](/assets/lost-mine-of-phandelver/mobile-11-human-fighter.png)
 Your parents lived in the prosperous village of Thundertree, east of the city of Neverwinter and at the edge of the Neverwinter Wood. But when nearby Mount Hotenow erupted thirty years ago, your parents fled, carrying you in your infancy. Your family drifted from village to village around the region, finding work as servants or laborers where they could.
 
 You’ve spent the last few years in Neverwinter as a porter and laborer at the city’s bustling docks. But it’s clear to you and everyone around you that you are destined for much more. You stood up to an abusive ship captain once, so other dockworkers look up to you. Someday, you’ll come into your own. You’ll be a hero.
@@ -270,7 +271,7 @@ You’ve spent the last few years in Neverwinter as a porter and laborer at the 
 
 [View character sheet](https://www.dndbeyond.com/characters/95595276)
 
-[Downloadble PDF](./assets/human-fighter2.pdf)
+[Downloadble PDF](/assets/lost-mine-of-phandelver/human-fighter2.pdf)
 
 # Part 1: Goblin Arrows
 The adventure begins as the player characters are escorting a wagon full of provisions and supplies from Neverwinter to Phandalin. The journey takes them south along the High Road to the Triboar Trail, which heads east (as shown on the overland map). When they’re a half-day’s march from Phandalin, they run into trouble with goblin raiders from the Cragmaw tribe.
@@ -367,9 +368,9 @@ The Cragmaw cave slopes steeply upward. The entrance is at the foot of a good-si
 
 **Stream**. The stream that flows through the complex is only 2 feet deep, cold, and slow moving, allowing creatures to easily wade through it.
 
-[![Cragmaw Hideout](./assets/tmb_map-1.1-Cragmaw-Hideout.jpg)](./assets/map-1.1-Cragmaw-Hideout.jpg)
+[![Cragmaw Hideout](/assets/lost-mine-of-phandelver/tmb_map-1.1-Cragmaw-Hideout.jpg)](/assets/lost-mine-of-phandelver/map-1.1-Cragmaw-Hideout.jpg)
 
-[View player version](./assets/map-1.1-Cragmaw-Hideout-player.jpg)
+[View player version](/assets/lost-mine-of-phandelver/map-1.1-Cragmaw-Hideout-player.jpg)
 
 >**ADVENTURE MAPS**
 >

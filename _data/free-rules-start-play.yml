@@ -1,5 +1,5 @@
 - name: เริ่มเล่นเกม
-  url: /free-rules/playing-the-game
+  url: /free-rules/playing-the-game#PlayingTheGame
   children:
     - name: เป็นผู้เล่นหรือ DM?
       url: /free-rules/playing-the-game#PlayerorDM

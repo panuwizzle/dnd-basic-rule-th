@@ -1,6 +1,9 @@
 ---
 layout: book
+title: Dragons of Stormwreck Isle
+permalink: /adventures/dragons-of-stormwreck-isle
 ---
+
 # DRAGONS OF STORMWRECK ISLE
 
 # Running the Adventure
@@ -219,19 +222,20 @@ If the characters turn and fight, this is the first combat encounter in the adve
 **_Avoiding the Zombies_**. If the characters decide not to fight the zombies, they easily escape from the slow, shambling monsters. The zombies don’t follow them up the path toward Dragon’s Rest. The characters will have another opportunity to deal with the zombies later (see “[Cloister Quests](#)” later in this chapter).
 
 ## Meeting the Inhabitants
+
 Read this text when the characters first climb the path to Dragon’s Rest:
 
->Your arrival quickly draws the attention of the entire population of the place—which consists mostly of kobolds. These small, reptilian folk eye you curiously while a couple of humans watch from a distance. All the cloister’s residents are dressed in simple clothes, and no one carries a visible weapon. One of the kobolds pipes up with, “What’s your name?”
+> Your arrival quickly draws the attention of the entire population of the place—which consists mostly of kobolds. These small, reptilian folk eye you curiously while a couple of humans watch from a distance. All the cloister’s residents are dressed in simple clothes, and no one carries a visible weapon. One of the kobolds pipes up with, “What’s your name?”
 >
->At that, all the kobolds begin barraging you with questions—“Where are you from?” “What’s that?” “Why are you here?” and more that are lost in the din.
+> At that, all the kobolds begin barraging you with questions—“Where are you from?” “What’s that?” “Why are you here?” and more that are lost in the din.
 
 Visitors to the cloister are rare, and the kobolds’ curiosity is insatiable; they keep asking questions until the characters insist they stop.
 
 When the characters quiet the kobolds (or if the players start showing signs of exasperation), the leader of the cloister approaches to welcome the characters. Read the following text:
 
->The chattering kobolds fall silent as a new figure comes into view, descending gracefully from the upper part of the cloister. She’s an elderly human woman with weathered brown skin, white hair in tight braids, and kindly hazel eyes, dressed in a simple white robe. She smiles as she draws near and extends her arms in greeting.
+> The chattering kobolds fall silent as a new figure comes into view, descending gracefully from the upper part of the cloister. She’s an elderly human woman with weathered brown skin, white hair in tight braids, and kindly hazel eyes, dressed in a simple white robe. She smiles as she draws near and extends her arms in greeting.
 >
->“Welcome to Dragon’s Rest,” she says. “May Bahamut’s guidance lead you to whatever you seek.”
+> “Welcome to Dragon’s Rest,” she says. “May Bahamut’s guidance lead you to whatever you seek.”
 
 This is Elder [Runara](#), the leader of Dragon’s Rest. If the characters defeated the zombies at the beach, she thanks them for their service to the cloister. Even if they did not fight the zombies, she tells them they’re welcome to stay at Dragon’s Rest as long as they wish, sleeping either in one of the monastic cells ([area A1](#)) or in the temple ([area A5](#)) and eating with the rest of the community in the dining room ([area A3](#)). Runara says nothing about payment of any kind. If the characters offer to give money or perform services around the cloister in exchange for her hospitality, she accepts these gifts.
 
@@ -240,6 +244,7 @@ Throughout this adventure, Dragon’s Rest serves as a home base for the charact
 During their time at Dragon’s Rest, the characters can interact with any of its residents. All the residents but Runara live in the small monastic cells cut into the cliff face (area A1 on the cloister map).
 
 ### Elder Runara
+
 Elder [Runara](#) is the leader of Dragon’s Rest. She appears as a human woman, but she is actually an adult bronze dragon disguised in human form. She guides the residents of the cloister in their contemplation and study. The cloister’s inhabitants know Runara’s true identity, but they do not speak of it to visitors.
 
 Runara’s initial attitude toward the characters is indifferent (see “[Social Interaction](#)” in the [Basic Rules](#)). She becomes friendly as soon as the characters demonstrate that they care about the cloister’s safety, such as by fighting the zombies at the beach or undertaking any of the quests she offers them (see “[Cloister Quests](#)” later in this chapter). If the characters harm any of the residents of Dragon’s Rest, she becomes hostile and insists the characters make amends for the harm they did before she is willing to deal with them in any way.
@@ -249,6 +254,7 @@ Runara’s mission is to help those whose lives have been shaped by violence fin
 Runara maintains a secret lair in a cave accessed by an undersea tunnel, a short distance from the cloister and not shown on the map of Dragon’s Rest. She is careful not to enter or leave the cave when anyone might spot her, and she enters and emerges from the water in the open ocean, out of sight of the cloister. The other residents of the cloister think she lives in the temple at the top of the island ([area A5](#)), or they simply laugh away queries about her accommodations, explaining that she’s always in the temple, or in the library, or checking on the rest of the residents—she never seems to sleep!
 
 ### Kobolds
+
 Kobolds are small reptilian Humanoids who believe they are descended from dragons and often live near them. Over the centuries, many bands of kobolds have been drawn to Stormwreck Isle by the lingering draconic magic that suffuses the island. Nine kobolds utterly devoted to Runara now live at Dragon’s Rest.
 
 [kobolds picture]

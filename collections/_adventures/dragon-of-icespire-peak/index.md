@@ -2,6 +2,7 @@
 layout: book
 menu: menu-doip
 title: มังกรแห่งยอดเขาไอส์สไปร์ - Dragon of Icespire Peak
+permalink: /adventures/dragon-of-icespire-peak
 ---
 
 # มังกรแห่งยอดเขาไอส์สไปร์

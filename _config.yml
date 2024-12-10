@@ -65,6 +65,9 @@ collections:
   magic-items:
     output: true
     permalink: /basic-rules/magic-items/:name/
+  adventures:
+    output: true
+    permalink: /adventures/:path/
 # Exclude from processing.
 # The following items will not be processed, by default.
 # Any item listed under the `exclude:` key here will be automatically added to
