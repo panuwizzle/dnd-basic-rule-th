@@ -416,20 +416,20 @@ menu: free-rules-start-play
 
 ### ตารางแอ็คชัน {#ActionsTable}
 
-| แอ็คชัน                                                              | โดยสรุป                                                                                                                                                                                                                                                                                                                                                                                                                                         |
-| -------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| [โจมตี (Attack)](/free-rules/rules-glossary#AttackAction)            | โจมตีด้วยอาวุธหรือ [มือเปล่า (Unarmed Strike)](/free-rules/rules-glossary#UnarmedStrike).                                                                                                                                                                                                                                                                                                                                                       |
-| [พุ่งตัว (Dash)](/free-rules/rules-glossary#DashAction)              | ภายในเทิร์นนั้น คุณจะได้ [ระยะเคลื่อนที่ (speed)](/free-rules/rules-glossary#Speed) พิเศษเป็นจำนวนเท่ากับที่คุณมี                                                                                                                                                                                                                                                                                                                               |
-| [ผละหนี (Disengage)](/free-rules/rules-glossary#DisengageAction)     | การเคลื่อนที่ของคุณจะไม่ทำให้เกิด [การโจมตีโดยสบโอกาส (Opportunity Attack)](/free-rules/rules-glossary#OpportunityAttack) ภายในเทิร์นของคุณ                                                                                                                                                                                                                                                                                                     |
-| [โดดหลบ (Dodge)](/free-rules/rules-glossary#DodgeAction)             | จนกว่าจะเริ่มเทิร์นใหม่ของคุณ การทอยโจมตีที่มีคุณเป็นเป้าหมายจะต้องทอยแบบ [เสียเปรียบ (Disadvantage)](/free-rules/rules-glossary#Disadvantage), และคุณจะทอยป้องกันด้านความคล่องแคล่ว (Dexterity saving throws) แบบ [ได้เปรียบ (Advantage)](/free-rules/rules-glossary#Advantage). คุณจะเสียผลประโยชน์นี้หากคุณติดสถานะ [ไร้สมรรถภาพ (Incapacitated)](/free-rules/rules-glossary#IncapacitatedCondition) หรือความเร็วของคุณเป็น 0.               |
-| [ช่วยเหลือ (Help)](/free-rules/rules-glossary#HelpAction)            | ช่วยสิ่งมีชีวิตอื่นในการทอยทดสอบความสามารถหรือทอยโจมตี หรือปฐมพยาบาล                                                                                                                                                                                                                                                                                                                                                                            |
-| [ซ่อน (Hide)](/free-rules/rules-glossary#HideAction)                 | ทอยทดสอบความคล่องแคล่ว (Dexterity) ทักษะ [การลอบเร้น (Stealth)](/free-rules/playing-the-game#Skills)                                                                                                                                                                                                                                                                                                                                            |
-| [ใช้อิทธิพล (Influence)](/free-rules/rules-glossary#InfluenceAction) | ทอยทดสอบเสน่ห์ (Charisma) ทักษะ ([การล่อลวง (Deception)](/free-rules/playing-the-game#Skills), [การข่มขู่ (Intimidation)](/free-rules/playing-the-game#Skills), [การแสดง (Performance)](/free-rules/playing-the-game#Skills), หรือ [การโน้มน้าว (Persuasion)](/free-rules/playing-the-game#Skills)) หรือความรอบรู้ (Wisdom) ทักษะ [การจัดการสัตว์ (Animal Handling)](/free-rules/playing-the-game#Skills) ในการควบคุมสัตว์ |
-| [เวทย์มนต์ (Magic)](/free-rules/rules-glossary#MagicAction)          | ร่ายคาถา, ใช้ไอเท็มเวทย์มนต์, หรือใช้ความสามารถทางเวทย์มนต์                                                                                                                                                                                                                                                                                                                                                                                     |
-| [เตรียมพร้อม (Ready)](/free-rules/rules-glossary#ReadyAction)        | เตรียมตัวในการทำแอ็คชันเพื่อตอบสนองกับเงื่อนไขที่คุณตั้งไว้                                                                                                                                                                                                                                                                                                                                                                                     |
-| [ค้นหา (Search)](/free-rules/rules-glossary#SearchAction)            | ทอยทดสอบความรอบรู้ (Wisdom) ทักษะ [การมองทะลุ (Insight)](/free-rules/playing-the-game#Skills), [การรักษาพยาบาล (Medicine)](/free-rules/playing-the-game#Skills), [การสังเกตุ (Perception)](/free-rules/playing-the-game#Skills), หรือ [การเอาตัวรอด (Survival)](/free-rules/playing-the-game#Skills)                                                                                                                                            |
-| [เรียนรู้ (Study)](/free-rules/rules-glossary#StudyAction)           | ทอยทดสอบความฉลาด (Intelligence) ทักษะ [การรู้ตำนานลึกลับ (Arcana)](/free-rules/playing-the-game#Skills), [ประวัติศาสตร์ (History)](/free-rules/playing-the-game#Skills), [การสืบค้น (Investigation)](/free-rules/playing-the-game#Skills), [การรู้ธรรมชาติ (Nature)](/free-rules/playing-the-game#Skills), or [การรู้ศาสนา (Religion)](/free-rules/playing-the-game#Skills)                                                                     |
-| [ใช้งาน (Utilize)](/free-rules/rules-glossary#UtilizeAction)         | ใช้งานสิ่งของที่ไม่มีเวทย์มนต์                                                                                                                                                                                                                                                                                                                                                                                                                  |
+| แอ็คชัน                                                              | โดยสรุป                                                                                                                                                                                                                                                                                                                                                                                                                           |
+| -------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| [โจมตี (Attack)](/free-rules/rules-glossary#AttackAction)            | โจมตีด้วยอาวุธหรือ [มือเปล่า (Unarmed Strike)](/free-rules/rules-glossary#UnarmedStrike).                                                                                                                                                                                                                                                                                                                                         |
+| [พุ่งตัว (Dash)](/free-rules/rules-glossary#DashAction)              | ภายในเทิร์นนั้น คุณจะได้ [ระยะเคลื่อนที่ (speed)](/free-rules/rules-glossary#Speed) พิเศษเป็นจำนวนเท่ากับที่คุณมี                                                                                                                                                                                                                                                                                                                 |
+| [ผละหนี (Disengage)](/free-rules/rules-glossary#DisengageAction)     | การเคลื่อนที่ของคุณจะไม่ทำให้เกิด [การโจมตีโดยสบโอกาส (Opportunity Attack)](/free-rules/rules-glossary#OpportunityAttack) ภายในเทิร์นของคุณ                                                                                                                                                                                                                                                                                       |
+| [โดดหลบ (Dodge)](/free-rules/rules-glossary#DodgeAction)             | จนกว่าจะเริ่มเทิร์นใหม่ของคุณ การทอยโจมตีที่มีคุณเป็นเป้าหมายจะต้องทอยแบบ [เสียเปรียบ (Disadvantage)](/free-rules/rules-glossary#Disadvantage), และคุณจะทอยป้องกันด้านความคล่องแคล่ว (Dexterity saving throws) แบบ [ได้เปรียบ (Advantage)](/free-rules/rules-glossary#Advantage). คุณจะเสียผลประโยชน์นี้หากคุณติดสถานะ [ไร้สมรรถภาพ (Incapacitated)](/free-rules/rules-glossary#IncapacitatedCondition) หรือความเร็วของคุณเป็น 0. |
+| [ช่วยเหลือ (Help)](/free-rules/rules-glossary#HelpAction)            | ช่วยสิ่งมีชีวิตอื่นในการทอยทดสอบความสามารถหรือทอยโจมตี หรือปฐมพยาบาล                                                                                                                                                                                                                                                                                                                                                              |
+| [ซ่อน (Hide)](/free-rules/rules-glossary#HideAction)                 | ทอยทดสอบความคล่องแคล่ว (Dexterity) ทักษะ [การลอบเร้น (Stealth)](/free-rules/playing-the-game#Skills)                                                                                                                                                                                                                                                                                                                              |
+| [ใช้อิทธิพล (Influence)](/free-rules/rules-glossary#InfluenceAction) | ทอยทดสอบเสน่ห์ (Charisma) ทักษะ ([การล่อลวง (Deception)](/free-rules/playing-the-game#Skills), [การข่มขู่ (Intimidation)](/free-rules/playing-the-game#Skills), [การแสดง (Performance)](/free-rules/playing-the-game#Skills), หรือ [การโน้มน้าว (Persuasion)](/free-rules/playing-the-game#Skills)) หรือความรอบรู้ (Wisdom) ทักษะ [การจัดการสัตว์ (Animal Handling)](/free-rules/playing-the-game#Skills) ในการควบคุมสัตว์        |
+| [เวทย์มนต์ (Magic)](/free-rules/rules-glossary#MagicAction)          | ร่ายคาถา, ใช้ไอเท็มเวทย์มนต์, หรือใช้ความสามารถทางเวทย์มนต์                                                                                                                                                                                                                                                                                                                                                                       |
+| [เตรียมพร้อม (Ready)](/free-rules/rules-glossary#ReadyAction)        | เตรียมตัวในการทำแอ็คชันเพื่อตอบสนองกับเงื่อนไขที่คุณตั้งไว้                                                                                                                                                                                                                                                                                                                                                                       |
+| [ค้นหา (Search)](/free-rules/rules-glossary#SearchAction)            | ทอยทดสอบความรอบรู้ (Wisdom) ทักษะ [การมองทะลุ (Insight)](/free-rules/playing-the-game#Skills), [การรักษาพยาบาล (Medicine)](/free-rules/playing-the-game#Skills), [การสังเกตุ (Perception)](/free-rules/playing-the-game#Skills), หรือ [การเอาตัวรอด (Survival)](/free-rules/playing-the-game#Skills)                                                                                                                              |
+| [เรียนรู้ (Study)](/free-rules/rules-glossary#StudyAction)           | ทอยทดสอบความฉลาด (Intelligence) ทักษะ [การรู้ตำนานลึกลับ (Arcana)](/free-rules/playing-the-game#Skills), [ประวัติศาสตร์ (History)](/free-rules/playing-the-game#Skills), [การสืบค้น (Investigation)](/free-rules/playing-the-game#Skills), [การรู้ธรรมชาติ (Nature)](/free-rules/playing-the-game#Skills), or [การรู้ศาสนา (Religion)](/free-rules/playing-the-game#Skills)                                                       |
+| [ใช้งาน (Utilize)](/free-rules/rules-glossary#UtilizeAction)         | ใช้งานสิ่งของที่ไม่มีเวทย์มนต์                                                                                                                                                                                                                                                                                                                                                                                                    |
 
 ตัวละครของผู้เล่นและมอนสเตอร์สามารถทำสิ่งต่าง ๆ ที่ไม่อยู่ในรายการนี้ได้ คุณลักษณะของคลาสหลายอย่างและความสามารถอื่น ๆ จะให้ตัวเลือกแอ็คชันที่เพิ่มขึ้น และคุณสามารถคิดแอ็คชันขึ้นมาเองได้ด้วย เมื่อคุณอธิบายแอ็คชันที่ไม่ได้มีระบุที่ไหนในกฏ DM จะบอกคุณว่าแอ็คชันนั้นทำได้จริงหรือไม่และต้องใช้ [การทดสอบ D20](/free-rules/rules-glossary#D20Test) ใดประกอบการกระทำนั้นถ้าต้องใช้
 
@@ -455,7 +455,7 @@ menu: free-rules-start-play
 
 ในส่วนของจังหวะเวลา รีแอ็คชันจะเกิดขึ้นทันทีหลักจากที่เงื่อนไขครบเว้นแต่ว่ามีการระบุไว้แบบอื่นสำหรับรีแอ็คชันนั้น
 
->**ตัวละครของคุณจะทำอะไร?**
+> **ตัวละครของคุณจะทำอะไร?**
 >
 > ลองถามตัวเองขณะที่เล่นอยู่ "ตัวละครของฉันจะทำอะไรนะ?" การสวมบทบาทจะเป็นการเข้าไปอยู่ในหัวของคนอื่นและทำความเข้าใจว่าอะไรที่ผลักดันพวกเขา และจะแปลแรงผลักดันนั้นให้เป็นการกระทำได้อย่างไร ใน D&D การกระทำต่าง ๆ แสดงออกมากในรูปของโลกในจินตนาการที่เต็มไปด้วยสถานการณ์ที่เราทำได้เพียงแค่นึกฝัน ตัวละครของคุณจะตอบสนองอย่างไรกับสถานการณ์เหล่านั้น
 >
@@ -556,77 +556,77 @@ DM จะใช้บุคลิกลักษณะของ NPC และก
 
 โดยใช้แอ็คชัน คุณสามารถทำให้แตกหรือทำลายวัตถุที่เปราะบาง, ไม่ได้เป็นวัตถุเวทย์มนต์ เช่นแก้วหรือกระดาษ ถ้าคุณพยายามสร้างความเสียหายให้กับสิ่งที่ทนทานกว่า DM อาจจะใช้กฏ [ทำลายวัตถุ (breaking objects)](/free-rules/rules-glossary#BreakingObjects) ใน [รายการกฏ](/free-rules/rules-glossary#BreakingObjects)
 
-### Hazards {#Hazards}
+### ความอันตราย (Hazards) {#Hazards}
 
-Monsters are the main perils characters face, but other dangers await. The rules glossary defines the following hazards:
+มอนสเตอร์เป็นศัตรูหลักที่ตัวละครจะต้องเจอ แต่ก็มีอันตรายแบบอื่นรออยู่เช่นกัน ในรายการกฏจะมีรายละเอียดของอันตรายเหล่านี้:
 
-- [Burning](/free-rules/rules-glossary#BurningHazard)
-- [Dehydration](/free-rules/rules-glossary#DehydrationHazard)
-- [Falling](/free-rules/rules-glossary#FallingHazard)
-- [Malnutrition](/free-rules/rules-glossary#MalnutritionHazard)
-- [Suffocation](/free-rules/rules-glossary#SuffocationHazard)
+- [ถูกไฟไหม้ (Burning)](/free-rules/rules-glossary#BurningHazard)
+- [อาการขาดน้ำ (Dehydration)](/free-rules/rules-glossary#DehydrationHazard)
+- [ตกจากที่สูง (Falling)](/free-rules/rules-glossary#FallingHazard)
+- [การขาดสารอาหาร (Malnutrition)](/free-rules/rules-glossary#MalnutritionHazard)
+- [การขาดอากาศหายใจ (Suffocation)](/free-rules/rules-glossary#SuffocationHazard)
 
-### Travel {#Travel}
+### การเดินทาง (Travel) {#Travel}
 
-During an adventure, the characters might travel long distances on trips that could take hours or days. The DM can summarize this travel without calculating exact distances or travel times, or the DM might have you use the travel pace rules below.
+ในระหว่างผจญภัย ตัวละครอาจต้องเดินทางระยะไกลซึ่งอาจใช้เวลาหลายชั่วโมงหรือหลายวัน DM สามารถสรุปการเดินทางโดยไม่ต้องคำนวณระยะทางหรือเวลาที่ใช้ไปในการเดินทาง หรือ DM อาจจะใช้กฏความเร็วในการเดินทางด้านล่างนี้
 
-If you need to know how fast you can move when every second matters, see the movement rules in “[Combat](/free-rules/playing-the-game#Combat)” later in this chapter.
+ถ้าคุณจำเป็นต้องรู้ว่าคุณสามารถเคลื่อนที่ได้เร็วขนาดไหนเมื่อทุกวินาทีมีค่า ให้ดูกฏการเคลื่อนที่ใน “[การต่อสู้ (Combat)](/free-rules/playing-the-game#Combat)” ในบทนี้
 
-Marching Order
+> **ลำดับการเดินทาง**
+>
+> นักผจญภัยควรจัดลำดับการเดินในกลุ่มในการเดินทางไม่ว่าจะเป็นภายในที่อาคารสถานที่หรือภายนอก ลำดับการเดินจะช่วยให้ง่ายต่อการระบุได้ว่าตัวละครใดจะต้องเจอกับกับดัก ใครที่สามารถค้นพบศัตรูที่ซ่อนอยู่ได้ และใครที่อยู่ใกล้กับศัตรูที่สุดหากต้องเริ่มการต่อสู้ คุณสามารถเปลี่ยนลำดับการเดินได้นอกการต่อสู้และบันทึกลำดับด้วยวิธีใดก็ได้ อาจจะการจดลงกระดาษหรือเรียงโมเดลเป็นแถวไว้
 
-The adventurers should establish a marching order while they travel, whether indoors or outdoors. A marching order makes it easier to determine which characters are affected by traps, which ones can spot hidden enemies, and which ones are the closest to those enemies if a fight breaks out. You can change your marching order outside combat and record the order any way you like: write it down, for example, or arrange miniatures to show it.
+#### ความเร็วในการเดินทาง (Travel Pace) {#TravelPace}
 
-#### Travel Pace {#TravelPace}
+ขณะเดินทางนอกการต่อสู้ กลุ่มนักผจญภัยสามารถเดินทางได้แบบเร็ว, ปกติ หรือช้าได้ ดังที่แสดงในตารางความเร็วในการเดินทาง ข้อมูลในตารางแสดงระยะทางที่คณะจะเดินทางได้ภายในระยะเวลาหนึ่ง หากขี่ม้าหรือพาหนะอื่นจะทำให้เดินทางได้ไกลขึ้นเป็นสองเท่าภายในเวลา 1 ชม. หลังจากนั้นพาหนะจะต้อง [พักสั้น (Short)](/free-rules/rules-glossary#ShortRest) หรือ [พักยาว (Long Rest)](/free-rules/rules-glossary#LongRest) ก่อนถึงจะเดินทางแบบเพิ่มระยะได้อีกครั้ง (ดู [บที่ 6](/free-rules/equipment#MountsandVehicles) สำหรับการเลือกซื้อพาหนะ) ใน _คู่มือดันเจียนมาสเตอร์ (Dungeon Master’s Guide)_ จะมีกฏเกี่ยวกับผลกระทบจากสภาพพื้นที่แต่ละแบบที่มีต่อความเร็วในการเดินทาง
 
-While traveling outside combat, a group can move at a Fast, Normal, or Slow pace, as shown on the Travel Pace table. The table states how far the party can move in a period of time; if riding horses or other mounts, the group can move twice that distance for 1 hour, after which the mounts need a [Short](/free-rules/rules-glossary#ShortRest) or [Long Rest](/free-rules/rules-glossary#LongRest) before they can move at that increased pace again (see [chapter 6](/free-rules/equipment#MountsandVehicles) for a selection of mounts for sale). The *Dungeon Master’s Guide* has rules that affect which pace you can choose in certain types of terrain.
+##### ความเร็วในการเดินทาง {#TravelPaceTable}
 
-##### Travel Pace {#TravelPaceTable}
+| ระยะทางที่เดินทางได้ต่อ... |         |         |         |
+| -------------------------- | ------- | ------- | ------- |
+| ความเร็ว                   | นาที    | ชั่วโมง | วัน     |
+| ---                        | ---     | ---     | ---     |
+| เร็ว                       | 400 ฟุต | 4 ไมล์  | 30 ไมล์ |
+| ปกติ                       | 300 ฟุต | 3 ไมล์  | 24 ไมล์ |
+| ช้า                        | 200 ฟุต | 2 ไมล์  | 18 ไมล์ |
 
-| Distance Traveled Per... |          |         |          |
-| ------------------------ | -------- | ------- | -------- |
-| Pace                     | Minute   | Hour    | Day      |
-| ---                      | ---      | ---     | ---      |
-| Fast                     | 400 feet | 4 miles | 30 miles |
-| Normal                   | 300 feet | 3 miles | 24 miles |
-| Slow                     | 200 feet | 2 miles | 18 miles |
+ความเร็วการเดินทางแต่ละแบบจะมีผลกับเกม ตามรายละเอียดดังนี้
 
-Each travel pace has a game effect, as defined below.
+**_เร็ว_** การเดินทางแบบเร็วจะทำให้ต้องทอยแบบ [เสียเปรียบ (Disadvantage)](/free-rules/rules-glossary#Disadvantage) ในการทอยทดสอบความรอบรู้ (Wisdom) ([การรับรู้ (Perception)](/free-rules/playing-the-game#Skills) หรือ [การเอาตัวรอด (Survival)](/free-rules/playing-the-game#Skills)) และความคล่องแคล่ว (Dexterity) ([การลอบเร้น (Stealth)](/free-rules/playing-the-game#Skills))
 
-**_Fast._** Traveling at a Fast pace imposes [Disadvantage](/free-rules/rules-glossary#Disadvantage) on a traveler’s Wisdom ([Perception](/free-rules/playing-the-game#Skills) or [Survival](/free-rules/playing-the-game#Skills)) and Dexterity ([Stealth](/free-rules/playing-the-game#Skills)) checks.
+**_ปกติ_** การเดินทางแบบปกติจะทำให้ต้องทอยแบบ [เสียเปรียบ (Disadvantage)](/free-rules/rules-glossary#Disadvantage) ในการทอยทดสอบความคล่องแคล่ว (Dexterity) ([การลอบเร้น (Stealth)](/free-rules/playing-the-game#Skills))
 
-**_Normal._** Traveling at a Normal pace imposes [Disadvantage](/free-rules/rules-glossary#Disadvantage) on Dexterity ([Stealth](/free-rules/playing-the-game#Skills)) checks.
+**_ช้า_** การเดินทางแบบช้าจะให้คุณทอยแบบ [ได้เปรียบ (Advantage)](/free-rules/rules-glossary#Advantage) ในการทอยทดสอบความรอบรู้ (Wisdom) ([การรับรู้ (Perception)](/free-rules/playing-the-game#Skills) หรือ [การเอาตัวรอด (Survival)](/free-rules/playing-the-game#Skills))
 
-**_Slow._** Traveling at a Slow pace grants [Advantage](/free-rules/rules-glossary#Advantage) on Wisdom ([Perception](/free-rules/playing-the-game#Skills) or [Survival](/free-rules/playing-the-game#Skills)) checks.
+#### พาหนะ {#Vehicles}
 
-#### Vehicles {#Vehicles}
+การเดินด้วยเกวียน รถม้า หรือพาหนะบนถนนอื่น ๆ ความเร็วจะเป็นแบบปกติ ตัวละครที่อยู่ในพาหนะทางน้ำความเร็วจะถูกจำกัดอยู่กับความเร็วของพาหนะนั้น และไม่สามารถเลือกความเร็วได้ โดยขึ้นอยู่กับลักษณะของพาหนะและจำนวนลูกเรือ เรือสามารถเดินทางได้ตลอด 24 ชั่วโมงต่อวัน [บทที่ 6](/free-rules/equipment#MountsandVehicles) จะมีรายละเอียดของพาหนะที่มีขาย
 
-Travelers in wagons, carriages, or other land vehicles choose a pace as normal. Characters in a waterborne vessel are limited to the speed of the vessel, and they don’t choose a travel pace. Depending on the vessel and the size of the crew, ships might be able to travel for up to 24 hours per day. [Chapter 6](/free-rules/equipment#MountsandVehicles) includes vehicles for sale.
+## การต่อสู้ {#Combat}
 
-## Combat {#Combat}
+เมื่อนักผจญภัยประจันหน้ากับมอนสเตอร์และเหล่าร้าย การต่อสู้ก็มักจะเริ่มต้นขึ้น
 
-Adventurers encounter many dangerous monsters and nefarious villains. In those moments, combat often breaks out.
+### ลำดับในการต่อสู้ {#TheOrderofCombat}
 
-### The Order of Combat {#TheOrderofCombat}
+การต่อสู้ปกติเป็นการปะทะกันระหว่างสองฝ่าย อาวุธกวัดแกว่ง การหลอกล่อ หลบหลีก และการใช้คาถา เกมจะจัดการการต่อสู้เป็นรอบ (round) และเทิร์นหรือตาเดิน (turn) ลำดับของเทิร์นจะถูกกำหนดในช่วงก่อนเริ่มการต่อสู้ เมื่อทุกคนทำการ [ทอยจัดลำดับการรุกไล่ (Initiative)](/free-rules/rules-glossary#Initiative) เมื่อทุกคนใช้เทิร์นของตัวเองครบแล้ว การต่อสู้จะดำเนินต่อโดยเริ่มรอบใหม่ถ้ายังไม่มีฝ่ายใดพ่ายแพ้
 
-A typical combat encounter is a clash between two sides: a flurry of weapon swings, feints, parries, footwork, and spellcasting. The game organizes combat into a cycle of rounds and turns. A round represents about 6 seconds in the game world. During a round, each participant in a battle takes a turn. The order of turns is determined at the beginning of combat when everyone rolls [Initiative](/free-rules/rules-glossary#Initiative). Once everyone has taken a turn, the fight continues to the next round if neither side is defeated.
+#### การต่อสู้แบบทีละขั้น {#CombatStepbyStep}
 
-#### Combat Step by Step {#CombatStepbyStep}
+การต่อสู้จะเกิดขึ้นตามลำดับดังนี้:
 
-Combat unfolds in these steps:
+1. **จัดวางตำแหน่ง** ดันเจียนมาสเตอร์จะกำหนดตำแหน่งของทั้งตัวละครและมอนสเตอร์ อาจใช้ลำดับการเดินทางหรือตำแหน่งของพวกเขาในห้องหรือสถานที่อื่น DM จะระบุตำแหน่งของศัตรูและระยะว่าอยู่ห่างเท่าไร ในทิศทางไหน
+2. **ทอยจัดลำดับการรุกไล่** ทุกคนที่เกี่ยวข้องกับการต่อสู้จะ [ทอยจัดลำดับการรุกไล่ (Initiative)](/free-rules/rules-glossary#Initiative) หาลำดับเทิร์นของแต่ละคน
+3. **ใช้เทิร์น** ผู้ต่อสู้แต่ละคนใช้เทิร์นตามลำดับที่ทอยได้ เมื่อทุกคนใช้เทิร์นแล้ว จะจบรอบ วนตามขั้นตอนนี้ไปเรื่อย ๆ จนการต่อสู้จบลง
 
-1. **Establish Positions.** The Dungeon Master determines where all the characters and monsters are located. Given the adventurers’ marching order or their stated positions in the room or other location, the DM figures out where the adversaries are—how far away and in what direction.
-2. **Roll Initiative.** Everyone involved in the combat encounter rolls [Initiative](/free-rules/rules-glossary#Initiative), determining the order of combatants’ turns.
-3. **Take Turns.** Each participant in the battle takes a turn in Initiative order. When everyone involved in the combat has had a turn, the round ends. Repeat this step until the fighting stops.
+#### ลำดับการรุกไล่ (อินนิทิเอทีฟ - Initiative) {#Initiative}
 
-#### Initiative {#Initiative}
+ลำดับการรุกไล่ (Initiative) เป็นตัวกำหนดลำดับของเทิร์นในการต่อสู้ เมื่อการต่อสู้เริ่มขึ้น ทุกคนจะทอยจัดลำดับการรุกไล่ (roll Inititiative) เป็นการทอยทดสอบความคล่องแคล่ว (Dexterity) เพื่อหาลำดับของตนเองในลำดับการรุกไล่ DM จะทอยให้มอนสเตอร์ สำหรับกลุ่มมอนสเตอร์ชนิดเดียวกัน DM จะทอยครั้งเดียวและใช้ค่านั้นกับทุกตัว ดังนั้นมอนสเตอร์ในกลุ่มเดียวกันจะมีลำดับการรุกไล่เดียวกัน
 
-Initiative determines the order of turns during combat. When combat starts, every participant rolls Initiative; they make a Dexterity check that determines their place in the Initiative order. The DM rolls for monsters. For a group of identical creatures, the DM makes a single roll, so each member of the group has the same Initiative.
+**_ภาวะประหลาดใจ (Surprise)_** ถ้าผู้ต่อสู้ใดประหลาดใจเมื่อการต่อสู้เริ่มขึ้น ผู้ต่อสู้นั้นจะต้องทอยหาลำดับการรุกไล่แบบ [เสียเปรียบ (Disadvantage)](/free-rules/rules-glossary#Disadvantage) ตัวอย่างเช่น ถ้าฝ่ายที่ดักซุ่มโจมตีเริ่มการต่อสู้ขณะที่ซ่อนตัวอยู่และศัตรูไม่สังเกตุเห็น ฝ่ายศัตรูจะประหลาดใจ
 
-**_Surprise._** If a combatant is surprised by combat starting, that combatant has [Disadvantage](/free-rules/rules-glossary#Disadvantage) on their Initiative roll. For example, if an ambusher starts combat while hidden from a foe who is unaware that combat is starting, that foe is surprised.
+**_ลำดับการรุกไล่._** ผู้ต่อสู้แต่ละคนทอยหาลำดับการรุกไล่แล้ว DM จะนำมาเรียงตามค่าที่มากไปหาน้อย ลำดับนี้จะใช้ในทุกรอบของการต่อสู้ และค่านี้จะคงเดิมในทุกรอบ
 
-**_Initiative Order._** A combatant’s check total is called their Initiative count, or Initiative for short. The DM ranks the combatants, from highest to lowest Initiative. This is the order in which they act during each round. The Initiative order remains the same from round to round.
-
-**_Ties._** If a tie occurs, the DM decides the order among tied monsters, and the players decide the order among tied characters. The DM decides the order if the tie is between a monster and a player character.
+**_ทอยเสมอกัน_** ถ้ามีการทอยได้ค่าเสมอกัน DM จะตัดสินลำดับในกลุ่มของมอนสเตอร์ และผู้เล่นจะตัดสินใจกันเองในหมู่ตัวละคร และ DM จะเป็นผู้ตัดสินใจหากมอนสเตอร์และผู้เล่นได้ค่าเสมอกัน
 
 #### Your Turn {#YourTurn}
 
