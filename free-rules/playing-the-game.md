@@ -628,61 +628,61 @@ DM จะใช้บุคลิกลักษณะของ NPC และก
 
 **_ทอยเสมอกัน_** ถ้ามีการทอยได้ค่าเสมอกัน DM จะตัดสินลำดับในกลุ่มของมอนสเตอร์ และผู้เล่นจะตัดสินใจกันเองในหมู่ตัวละคร และ DM จะเป็นผู้ตัดสินใจหากมอนสเตอร์และผู้เล่นได้ค่าเสมอกัน
 
-#### Your Turn {#YourTurn}
+#### เทิร์นของคุณ {#YourTurn}
 
-On your turn, you can move a distance up to your [Speed](/free-rules/rules-glossary#Speed) and take one action. You decide whether to move first or take your action first.
+เมื่อถึงเทิร์นของคุณ คุณสามารถเคลื่อนที่ได้เป็นระยะเท่ากับ [ความเร็ว (Speed)](/free-rules/rules-glossary#Speed) ของคุณ และสามารถทำได้หนึ่งแอ็คชัน คุณเลือกได้ว่าจะเคลื่อนที่ก่อนหรือทำแอ็คชันก่อน
 
-The main actions you can take are listed in “[Actions](/free-rules/playing-the-game#Actions)” earlier in this chapter. A character’s features and a monster’s stat block also provide action options. “[Movement and Position](/free-rules/playing-the-game#MovementandPosition)” later in this chapter gives the rules for movement.
+แอ็คชันหลักที่คุณสามารถใช้ได้มีอยู่ในรายการ “[แอ็คชัน (Actions)](/free-rules/playing-the-game#Actions)” ในตอนต้นของบทนี้ คุณสมบัติของตัวละครและรายละเอียดมอนสเตอร์ก็มีรายการแอ็คชันที่สามารถใช้ได้ “[การเคลื่อนที่และตำแหน่ง (Movement and Position)](/free-rules/playing-the-game#MovementandPosition)” ในบทนี้จะมีรายละเอียดของกฏการเคลื่อนที่
 
-**_Communicating._** You can communicate however you are able—through brief utterances and gestures—as you take your turn. Doing so uses neither your action nor your move.
+**_การสื่อสาร_** คุณสามารถสื่อสารได้ อย่างไรก็ตามคุณสามารถทำได้เพียงพูดสั้น ๆ และการให้สัญญาณในขณะที่คุณใช้เทิร์นของคุณ การสื่อสารดังกล่าวไม่นับว่าคุณใช้แอ็คชันหรือเคลื่อนที่
 
-Extended communication, such as a detailed explanation of something or an attempt to persuade a foe, requires an action. The Influence action is the main way you try to influence a monster.
+การสื่อสารมากกว่านั้น เช่นการอธิบายรายละเอียดของบางสิ่งหรือพยายามโน้มน้าวศัตรู แบบนี้ต้องใช้แอ็คชัน แอ็คชันใช้อิทธิพล (Influence) เป็นแอ็คชันหลักที่คุณสามารถใช้ในการโน้มนาวมอนสเตอร์ได้
 
-**_Interacting with Things._** You can interact with one object or feature of the environment for free, during either your move or action. For example, you could open a door during your move as you stride toward a foe.
+**_การมีปฏิสัมพันธ์กับสิ่งของ_** คุณสามารถมีปฏิสัมพันธ์กับวัตถุหนึ่งหรือสิ่งแวดล้อมได้ฟรี ระหว่างที่คุณเคลื่อนที่หรือทำแอ็คชัน ตัวอย่างเช่น คุณสามารถเปิดประตูได้ในขณะที่คุณเคลื่อนที่เข้าหาศัตรู
 
-If you want to interact with a second object, you need to take the [Utilize](/free-rules/rules-glossary#UtilizeAction) action. Some magic items and other special objects always require an action to use, as stated in their descriptions.
+ถ้าคุณต้องการมีปฏิสัมพันธ์กับวัตถุที่สอง คุณต้องใช้แอ็คชัน [ใช้งาน (Utilize)](/free-rules/rules-glossary#UtilizeAction) ไอเท็มเวทย์มนต์บางอย่างและวัตถุพิเศษอื่น ๆ มักจะต้องใช้แอ็คชันในการใช้งานตามที่มีระบุในรายละเอียดของแต่ละไอเท็ม
 
-The DM might require you to use an action for any of these activities when it needs special care or when it presents an unusual obstacle. For instance, the DM might require you to take the Utilize action to open a stuck door or turn a crank to lower a drawbridge.
+DM อาจจะขอให้คุณใช้แอ็คชันกับกิจกรรมดังกล่าวหากมันต้องใช้ความระมัดระวังเป็นพิเศษหรือเมื่อเป็นสิ่งกีดขวางที่ผิดปกติ ตัวอย่างเช่น DM อาจจะขอให้คุณใช้แอ็คชัน ใช้งาน (Utilize) ในการเปิดประตูที่ติดหรือดันสลักรอกสะพานชัก
 
-**_Doing Nothing on Your Turn._** You can forgo moving, taking an action, or doing anything at all on your turn. If you can’t decide what to do, consider taking the defensive [Dodge](/free-rules/rules-glossary#DodgeAction) action or the [Ready](/free-rules/rules-glossary#ReadyAction) action to delay acting.
+**_ไม่ทำอะไรในเทิร์นของคุณ_** คุณสามารถข้ามการเคลื่อนที่ การใช้แอ็คชันหรือไม่ทำอะไรเลยก็ได้ในเทิร์นของคุณ ถ้าคุณไม่สามารถตัดสินใจว่าจะทำอะไรได้ ลองพิจารณาแอ็คชันในการป้องกันอย่าง [หลบหลีก (Dodge)](/free-rules/rules-glossary#DodgeAction) หรือ [เตรียมพร้อม (Ready)](/free-rules/rules-glossary#ReadyAction)
 
-#### Ending Combat {#EndingCombat}
+#### การจบการต่อสู้ {#EndingCombat}
 
-Combat ends when one side or the other is defeated, which can mean the creatures are killed or knocked out or have surrendered or fled. Combat can also end when both sides agree to end it.
+การต่อสู้จะจบเมื่อฝ่ายใดฝ่ายหนึ่งพ่ายแพ้ ซึ่งหมายถึงฝ่ายหนึ่งถูกฆ่าหมดหรือสลบหมด หรือยอมแพ้ หรือหลบหนีไป การต่อสู้ยังสามารถจบได้เมื่อทั้งสองฝ่ายตกลงกันได้
 
-### Movement and Position {#MovementandPosition}
+### การเคลื่อนที่และตำแหน่ง {#MovementandPosition}
 
-On your turn, you can move a distance equal to your [Speed](/free-rules/rules-glossary#Speed) or less. Or you can decide not to move.
+ในเทิร์นของคุณ คุณสามารถเคลื่อนที่เป็นระยะทางเท่ากับ [ความเร็ว (Speed)](/free-rules/rules-glossary#Speed) ของคุณหรือน้อยกว่า หรือคุณจะไม่เคลื่อนที่เลยก็ได้
 
-Your movement can include [climbing](/free-rules/rules-glossary#Climbing), [crawling](/free-rules/rules-glossary#Crawling), [jumping](/free-rules/rules-glossary#Jumping), and [swimming](/free-rules/rules-glossary#Swimming) (each explained in the [rules glossary](/free-rules/rules-glossary)). These different modes of movement can be combined with your regular movement, or they can constitute your entire move.
+การเคลื่อนที่ของคุณรวมถึง [การปีนป่าย (climbing)](/free-rules/rules-glossary#Climbing), [การคลาน (crawling)](/free-rules/rules-glossary#Crawling), [การกระโดด (jumping)](/free-rules/rules-glossary#Jumping), และ [การว่ายน้ำ (swimming)](/free-rules/rules-glossary#Swimming) (แต่ละอย่างมีอธิบายใน [รายการกฏ](/free-rules/rules-glossary)) การเคลื่อนที่หลายแบบนี้สามารถผสมรวมกันในการเคลื่อนที่ปกติของคุณได้ หรือจะใช้ระยะทั้งหมดเลยก็ได้
 
-However you’re moving with your Speed, you deduct the distance of each part of your move from it until it is used up or until you are done moving, whichever comes first.
+อย่างไรก็ตามคุณจะสามารถเคลื่อนได้ภายในระยะความเร็วของคุณเท่านั้น คุณจะหักออกจากระยะการเคลื่อนที่ไปจนกว่าจะหมด หรือคุณเคลื่อนที่ถึงจุดหมาย ขึ้นอยู่กับอะไรมาก่อน
 
-A character’s Speed is determined during character creation. A monster’s Speed is noted in the monster’s stat block. See the [rules glossary](/free-rules/rules-glossary#Speed) for more about Speed as well as about special speeds, such as a [Climb Speed](/free-rules/rules-glossary#ClimbSpeed), [Fly Speed](/free-rules/rules-glossary#FlySpeed), or [Swim Speed](/free-rules/rules-glossary#SwimSpeed).
+ความเร็วของตัวละครจะถูกกำหนดระหว่างการสร้างตัวละคร ความเร็วของมอนสเตอร์จะมีระบุไว้ในรายละเอียดมอนสเตอร์ ดูรายละเอียดใน [รายการกฏ](/free-rules/rules-glossary#Speed) เกี่ยวกับความเร็วและความเร็วการเคลื่อนที่แบบพิเศษ เช่น [ความเร็วของการปีน (Climb Speed)](/free-rules/rules-glossary#ClimbSpeed), [ความเร็วในการบิน (Fly Speed)](/free-rules/rules-glossary#FlySpeed), หรือ [ความเร็วในการว่ายน้ำ (Swim Speed)](/free-rules/rules-glossary#SwimSpeed)
 
-#### Difficult Terrain {#DifficultTerrain}
+#### พื้นที่อุปสรรค (Difficult Terrain) {#DifficultTerrain}
 
-Combatants are often slowed down by Difficult Terrain. Low furniture, rubble, undergrowth, steep stairs, snow, and shallow bogs are examples of Difficult Terrain.
+ผู้ต่อสู้มักจะช้าลงจากพื้นที่อุปสรรค เฟอร์นิเจอร์เตี้ย, หินกรวด, พุ่มไม้เตี้ย ๆ, บันไดชัน, หิมะ, และหลุมโคลนเป็นตัวอย่างของพื้นที่อุปสรรค
 
-Every foot of movement in Difficult Terrain costs 1 extra foot, even if multiple things in a space count as Difficult Terrain.
+ทุก ๆ ฟุตในการเคลื่อนที่ในพื้นที่อุปสรรคจะต้องใช้เพิ่มอีก 1 ฟุต แม้ว่าจะมีหลายสิ่งที่นับได้ว่าเป็นสิ่งที่ทำให้เกิดพื้นที่อุปสรรค
 
-Playing on a Grid
+> **การเล่นบนตารางกริด**
+>
+> ถ้าคุณเล่นโดยใช้ตารางกริดและมินิเอเจอร์หรือโทเคนอื่น ๆ ให้ทำตามกฏนี้
+>
+> **_พื้นที่สี่เหลี่ยม_** ช่องสี่เหลี่ยมจะแทนที่ระยะ 5 ฟุต
+>
+> **_ความเร็ว_** แทนที่จะเคลื่อนที่ไปแบบฟุตต่อฟุต ให้เคลื่อนที่ไปตามช่องสี่เหลี่ยมในตารางกริด นับแต่ละช่องเป็น 5 ฟุต คุณสามารถจะแปลงค่าความเร็วของคุณเป็นจำนวนช่องโดยการหารด้วย 5 ตัวอย่างเช่น ความเร็วของคุณเป็น 30 ฟุต ก็จะแปลงได้เป็น 6 ช่อง ถ้าคุณใช้ตารางกริดบ่อย ๆ คุณอาจจะจดความเร็วเป็นจำนวนช่องเลยก็ได้ในชีตตัวละครของคุณ
+>
+> **_การเดินเข้าช่องสี่เหลี่ยม_** ในการเดินเข้าช่องสี่เหลี่ยม คุณต้องมีค่าการเคลื่อนที่เหลือพอที่จะจ่ายเพื่อเข้าช่อง มันจะใช้ค่าการเคลื่อนที่ 1 ช่องในการเข้าครองพื้นที่ที่อยู่ติดกับจุดที่คุณอยู่ (ติดกันในแนวตั้งฉากหรือแนวทแยง) ช่องสี่เหลี่ยมในพื้นที่อุปสรรคจะต้องใช้ระยะเดิน 2 ช่องในการเข้าครองพื้นที่ ผลพิเศษอื่น ๆ อาจจะทำให้ต้องใช้ค่าการเคลื่อนที่มากยิ่งขึ้น
+>
+> **_มุม_** การเคลื่อนที่แนวทแยงไม่สามารถข้ามมุมกำแพง, ต้นไม้ใหญ่ หรือคุณลักษณะของพื้นที่แบบอื่นที่เติมเต็มพื้นที่ของมัน
+>
+> **_ระยะ_** ในการหาระยะบนกริดระหว่างสองสิ่ง ไม่ว่าจะเป็นสิ่งมีชีวิตหรือวัตถุ ให้นับช่องจากช่องที่อยู่ติดกับสิ่งหนึ่งไปจนถึงช่องที่อีกสิ่งหนึ่งอยู่ นับโดยใช้ระยะที่สั้นที่สุด
 
-If you play using a square grid and miniatures or other tokens, follow these rules.
+#### การแตกระยะการเคลื่อนที่ {#BreakingUpYourMove}
 
-**_Squares._** Each square represents 5 feet.
-
-**_Speed._** Rather than moving foot by foot, move square by square on the grid, using your Speed in 5-foot segments. You can translate your Speed into squares by dividing it by 5. For example, a Speed of 30 feet translates into 6 squares. If you use a grid often, consider writing your Speed in squares on your character sheet.
-
-**_Entering a Square._** To enter a square, you must have enough movement left to pay for entering. It costs 1 square of movement to enter an unoccupied square that’s adjacent to your space (orthogonally or diagonally adjacent). A square of Difficult Terrain costs 2 squares to enter. Other effects might make a square cost even more.
-
-**_Corners._** Diagonal movement can’t cross the corner of a wall, a large tree, or another terrain feature that fills its space.
-
-**_Ranges._** To determine the range on a grid between two things—whether creatures or objects—count squares from a square adjacent to one of them and stop counting in the space of the other one. Count by the shortest route.
-
-#### Breaking Up Your Move {#BreakingUpYourMove}
-
-You can break up your move, using some of its movement before and after any action, Bonus Action, or Reaction you take on the same turn. For example, if you have a Speed of 30 feet, you could go 10 feet, take an action, and then go 20 feet.
+คุณสามารถแตกระยะการเคลื่อนที่ได้ สามารถเคลื่อนที่ไประยะหนึ่งก่อนและหลังการใช้แอ็คชัน โบนัสแอ็คชัน หรือรีแอ็คชันในเทิร์นเดียวกัน ตัวอย่างเช่น ถ้าคุณมีระยะเคลื่อนที่ 30 ฟุต คุณสามารถเคลื่อนที่ 10 ฟุต ใช้แอ็คชัน และเคลื่อนที่อีก 20 ฟุต
 
 #### Dropping Prone {#DroppingProne}
 
