@@ -36,18 +36,6 @@
       "title": "basic-rules"
     },
     {
-      "title": "lost-mine-of-phandelver",
-      "path": "[[workspace]]/adventures/lost-mine-of-phandelver"
-    },
-    {
-      "path": "[[workspace]]/adventures/dragons-of-stormwreck-isle",
-      "title": "dragons-of-stormwreck-isle"
-    },
-    {
-      "path": "[[workspace]]/adventures/dragon-of-icespire-peak",
-      "title": "dragon-of-icespire-peak"
-    },
-    {
       "path": "[[workspace]]/collections/_spells",
       "title": "_spells"
     },
