@@ -1,6 +1,6 @@
 ---
 layout: book
-title: Playing the Game
+title: เริ่มเล่นเกม - Playing the Game
 menu: free-rules-start-play
 ---
 
@@ -942,32 +942,32 @@ If you have half your Hit Points or fewer, you’re Bloodied, which has no game 
 
 ถ้าคุณมีฮิตพอยต์ 0 การได้รับฮิตพอยต์ชั่วคราวจะไม่ได้เป็นการทำให้คุณคืนสติ มีแต่การฟื้นฟูจริง ๆ เท่านั้นที่จะช่วยคุณได้
 
-## Conditions {#Conditions}
+## สภาวะ (Conditions) {#Conditions}
 
-Many effects impose a condition, a temporary state that alters the recipient’s capabilities. The following conditions are defined in the [rules glossary](/free-rules/rules-glossary):
+ผลพิเศษหลายอย่างทำให้เกิดสภาวะ เป็นสถานะชั่วคราวที่เปลี่ยนความสามารถของคนที่ได้รับมัน สภาวะต่อไปนี้มีรายละเอียดใน [รายการกฏ](/free-rules/rules-glossary):
 
-- [Blinded](/free-rules/rules-glossary#BlindedCondition)
-- [Charmed](/free-rules/rules-glossary#CharmedCondition)
-- [Deafened](/free-rules/rules-glossary#DeafenedCondition)
-- [Exhaustion](/free-rules/rules-glossary#ExhaustionCondition)
-- [Frightened](/free-rules/rules-glossary#FrightenedCondition)
-- [Grappled](/free-rules/rules-glossary#GrappledCondition)
-- [Incapacitated](/free-rules/rules-glossary#IncapacitatedCondition)
-- [Invisible](/free-rules/rules-glossary#InvisibleCondition)
-- [Paralyzed](/free-rules/rules-glossary#ParalyzedCondition)
-- [Petrified](/free-rules/rules-glossary#PetrifiedCondition)
-- [Poisoned](/free-rules/rules-glossary#PoisonedCondition)
-- [Prone](/free-rules/rules-glossary#ProneCondition)
-- [Restrained](/free-rules/rules-glossary#RestrainedCondition)
-- [Stunned](/free-rules/rules-glossary#StunnedCondition)
-- [Unconscious](/free-rules/rules-glossary#UnconsciousCondition)
+- [ตาบอด (Blinded)](/free-rules/rules-glossary#BlindedCondition)
+- [หลงใหล (Charmed)](/free-rules/rules-glossary#CharmedCondition)
+- [หูหนวก (Deafened)](/free-rules/rules-glossary#DeafenedCondition)
+- [เหนื่อยล้า (Exhaustion)](/free-rules/rules-glossary#ExhaustionCondition)
+- [หวาดกลัว (Frightened)](/free-rules/rules-glossary#FrightenedCondition)
+- [ถูกจับยึด (Grappled)](/free-rules/rules-glossary#GrappledCondition)
+- [ไร้ความสามารถ (Incapacitated)](/free-rules/rules-glossary#IncapacitatedCondition)
+- [ล่องหน (Invisible)](/free-rules/rules-glossary#InvisibleCondition)
+- [อัมพาต (Paralyzed)](/free-rules/rules-glossary#ParalyzedCondition)
+- [กลายเป็นหิน (Petrified)](/free-rules/rules-glossary#PetrifiedCondition)
+- [ติดพิษ (Poisoned)](/free-rules/rules-glossary#PoisonedCondition)
+- [ล้มคะมำ (Prone)](/free-rules/rules-glossary#ProneCondition)
+- [ถูกมัด (Restrained)](/free-rules/rules-glossary#RestrainedCondition)
+- [มึนงง (Stunned)](/free-rules/rules-glossary#StunnedCondition)
+- [หมดสติ (Unconscious)](/free-rules/rules-glossary#UnconsciousCondition)
 
-The definition of a condition specifies what happens to its recipient while affected by it, and some conditions apply other conditions.
+คำจำกัดความของสภาวะจะระบุว่ามีอะไรเกิดขึ้นกับผู้ที่ได้รับไป และสภาวะบางอย่างจะทำให้เกิดสภาวะอื่นได้
 
-### Duration {#ConditionDuration}
+### ระยะเวลา {#ConditionDuration}
 
-A condition lasts either for a duration specified by the effect that imposed the condition or until the condition is countered (the [Prone](/free-rules/rules-glossary#ProneCondition) condition is countered by standing up, for example).
+สภาวะจะคงอยู่เป็นระยะเวลาหนึ่งโดยจะมีระบุไว้ในสิ่งที่ทำให้เกิดสภาวะนั้น หรือจนกระทั่งสภาวะนั้นถูกแก้ไข (สภาวะ [ล้มคะมำ (Prone)](/free-rules/rules-glossary#ProneCondition) จะถูกแก้ไขได้ด้วยการยืนขึ้น เป็นต้น)
 
-### Conditions Don’t Stack {#ConditionsDontStack}
+### สภาวะจะไม่ทบซ้อน {#ConditionsDontStack}
 
-If multiple effects impose the same condition on you, each instance of the condition has its own duration, but the condition’s effects don’t get worse. Either you have a condition or you don’t. The [Exhaustion](/free-rules/rules-glossary#ExhaustionCondition) condition is an exception; its effects get worse if you have the condition and receive it again.
+ถ้ามีผลพิเศษทำให้เกิดสภาวะเดียวกัน สภาวะแต่ละสิ่งจะมีช่วงเวลาของตัวเอง แต่ผลจากสภาวะจะไม่แย่ลงกว่านั้น ไม่ว่าคุณจะมีสภาวะหรือไม่มี สภาวะ [เหนื่อยล้า (Exhaustion)](/free-rules/rules-glossary#ExhaustionCondition) เป็นข้อยกเว้น ผลของมันจะแย่ลงเรื่อย ๆ ถ้าคุณมีสภาวะอยู่แล้วและได้รับมันเพิ่มมาอีก
