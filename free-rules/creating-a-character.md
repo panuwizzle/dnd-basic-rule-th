@@ -234,124 +234,124 @@ _\*ภาษาไพรโมเดียล (Primordial) จะรวมถึ
 
 หลังจากจัดคะแนนความสามารถเรียบร้อยแล้ว ให้ปรับคะแนนตามภูมิหลังของคุณ ภูมิหลังของคุณจะมีสามความสามารถ คุณสามารถเพิ่มความสามารถหนึ่ง 2 คะแนนและอีกความสามารถ 1 คะแนน หรือเพิ่มสามความสามารถ ความสามารถละ 1 คะแนน การเพิ่มนี้จะไม่สามารถเพิ่มได้เกิน 20
 
-Some players like to increase their class’s primary ability, while others prefer to increase a low score.
+ผู้เล่นบางคนชอบเพิ่มความสามารถหลัก ขณะที่บางคนก็จะเพิ่มให้ความสามารถที่น้อยที่สุด
 
-Backgrounds and Species from Older Books
+> **ภูมิหลังและเผ่าพันธุ์จากเล่มที่เก่ากว่า**
+>
+> ภูมิหลังในหนังสือ D&D ที่เก่ากว่าจะไม่มีการปรับปรุงคะแนนความสามารถ ถ้าคุณใช้ภูมิหลังจากหนังสือเล่มเก่า คุณสามารถเพิ่มความสามารถหนึ่ง 2 คะแนนและอีกความสามารถ 1 คะแนน หรือเพิ่มสามความสามารถ ความสามารถละ 1 คะแนน การเพิ่มนี้จะไม่สามารถเพิ่มได้เกิน 20
+>
+> เช่นเดียวกันกับเผ่าพันธุ์ที่ในหนังสือเก่าจะมีการปรับเพิ่มความสามารถ ถ้าคุณใช้เผ่าพันธุ์จากหนังสือเล่มเก่า ให้คุณข้ามการเพิ่มคะแนนส่วนนี้ไปและใช้เฉพาะส่วนที่ได้จากภูมิหลังเท่านั้น
+>
+> และหากภูมิหลังที่คุณเลือกไม่ได้ให้คุณสมบัติ (feat) ใด ๆ คุณจะได้รับ [คุณสมบัติตั้งต้น (Origin feat)](/free-rules/feats#OriginFeats) ให้เลือกได้
 
-Backgrounds in older D&D books don’t include ability score adjustments. If you’re using a background from an older book, adjust your ability scores by increasing one score by 2 and a different one by 1, or increase three scores by 1. None of these increases can raise a score above 20.
+#### กำหนดค่าโมดิไฟเออร์ของความสามารถ {#DetermineAbilityModifiers}
 
-Similarly, species in older books include ability score increases. If you’re using a species from an older book, ignore those increases and use only the ones given by your background.
+สุดท้าย กำหนดค่าโมดิไฟเออร์ของความสามารถโดยใช้ตารางคะแนนความสามารถและค่าโมดิไฟเออร์ บันทึกค่าโมดิไฟเออร์ลงไปคู่กับคะแนนความสามารถในชีทตัวละคร
 
-Also, if the background you choose doesn’t provide a feat, you gain an [Origin feat](/free-rules/feats#OriginFeats) of your choice.
+##### คะแนนความสามารถและค่าโมดิไฟเออร์ {#AbilityScoresandModifiers}
 
-#### Determine Ability Modifiers {#DetermineAbilityModifiers}
+| คะแนน | ค่าโมดิไฟเออร์ |
+| ----- | -------------- |
+| 3     | −4             |
+| 4–5   | −3             |
+| 6–7   | −2             |
+| 8–9   | −1             |
+| 10–11 | +0             |
+| 12–13 | +1             |
+| 14–15 | +2             |
+| 16–17 | +3             |
+| 18–19 | +4             |
+| 20    | +5             |
 
-Finally, determine your ability modifiers using the Ability Scores and Modifiers table. Write the modifier next to each of your scores.
+#### อธิบายลักษณะและบุคลิกตัวละคร {#DescribeAppearanceandPersonality}
 
-##### Ability Scores and Modifiers {#AbilityScoresandModifiers}
+คะแนนความสามารถเป็นส่วนสำคัญในกฏเกม แต่มันสามารถนำมาใช้ในส่วนอื่นได้ด้วย เมื่อคุณจัดคะแนนความสามารถเรียบร้อยแล้ว ให้ลองพิจารณาถึงว่าคะแนนต่าง ๆ นั้นส่งผลอย่างไรกับรูปร่างและบุคลิกของตัวละคร ตัวละครที่แข็งแรงมาก ๆ แต่มีเสน่ห์ต่ำอาจจะมีหน้าตาและพฤติกรรมที่ต่างจากตัวละครที่มีเสน่ห์สูงและไม่แข็งแรงนัก ตารางต่อไปนี้มีคำอธิบายรูปร่างและบุคลิกที่แนะนำโดยอิงกับคะแนนความสามารถของคุณ
 
-| Score | Modifier |
-| ----- | -------- |
-| 3     | −4       |
-| 4–5   | −3       |
-| 6–7   | −2       |
-| 8–9   | −1       |
-| 10–11 | +0       |
-| 12–13 | +1       |
-| 14–15 | +2       |
-| 16–17 | +3       |
-| 18–19 | +4       |
-| 20    | +5       |
+บันทึกลักษณะและบุคลิกของตัวละครลงในชีทด้วย
 
-#### Describe Appearance and Personality {#DescribeAppearanceandPersonality}
+##### ความแข็งแกร่ง (Strength) {#Strength}
 
-Ability scores are an essential part of the rules, but they can be more than that. Once you’ve assigned your ability scores, give some thought to what those scores might say about your character’s appearance and personality. A very strong character with low Charisma might look and behave differently from a charismatic character with low Strength. The following tables of descriptive words give suggestions of how you might describe your character based on having a high or low score in an ability.
+| 1d4 | แข็งแกร่งมาก           | แข็งแกร่งน้อย               |
+| --- | ---------------------- | --------------------------- |
+| 1   | กล้ามโต (Muscular)     | อ่อนแอ (Weak)               |
+| 2   | กำยำ (Sinewy)          | ผอมบาง (Slight)             |
+| 3   | ชอบปกป้อง (Protective) | รู้ตัวเสมอ (Self-conscious) |
+| 4   | ตรง ๆ (Direct)         | อ้อม ๆ (Indirect)           |
 
-Note your character’s appearance and personality on your character sheet.
+##### ความคล่องแคล่ว (Dexterity) {#Dexterity}
 
-##### Strength {#Strength}
+| 1d4 | คล่องแคล่วสูง          | คล่องแคล่วต่ำ           |
+| --- | ---------------------- | ----------------------- |
+| 1   | อ่อนช้อย (Lithe)       | กระสับกระส่าย (Jittery) |
+| 2   | ยืดหยุ่น (Dynamic)     | สะเพร่า (Clumsy)        |
+| 3   | หงุดหงิดง่าย (Fidgety) | ลังเล (Hesitant)        |
+| 4   | สุขุม (Poised)         | ไม่มั่นคง (Unsteady)    |
 
-| 1d4 | High Strength | Low Strength   |
-| --- | ------------- | -------------- |
-| 1   | Muscular      | Weak           |
-| 2   | Sinewy        | Slight         |
-| 3   | Protective    | Self-conscious |
-| 4   | Direct        | Indirect       |
+##### ความอดทน (Constitution) {#Constitution}
 
-##### Dexterity {#Dexterity}
+| 1d4 | อดทนมาก                | อดทนน้อย             |
+| --- | ---------------------- | -------------------- |
+| 1   | มีพลังมาก (Energetic)  | อ่อนแอ (Frail)       |
+| 2   | กระปรี้กระเปร่า (Hale) | ตกใจง่าย (Squeamish) |
+| 3   | จริงใจ (Hearty)        | เฉื่อยชา (Lethargic) |
+| 4   | มันคง (Stable)         | บอบบาง (Fragile)     |
 
-| 1d4 | High Dexterity | Low Dexterity |
-| --- | -------------- | ------------- |
-| 1   | Lithe          | Jittery       |
-| 2   | Dynamic        | Clumsy        |
-| 3   | Fidgety        | Hesitant      |
-| 4   | Poised         | Unsteady      |
+##### ความฉลาด (Intelligence) {#Intelligence}
 
-##### Constitution {#Constitution}
+| 1d4 | ฉลาดมาก                  | ฉลาดน้อย                     |
+| --- | ------------------------ | ---------------------------- |
+| 1   | เด็ดเดี่ยว (Decisive)    | ไม่มีศิลปะ (Artless)         |
+| 2   | เน้นตรรกะ (Logical)      | ไม่สนตรรกะ (Illogical)       |
+| 3   | เน้นข้อมูล (Informative) | ขาดข้อมูล (Uninformed)       |
+| 4   | ขี้สงสัย (Curious)       | ไม่เอาจริงเอาจัง (Frivolous) |
 
-| 1d4 | High Constitution | Low Constitution |
-| --- | ----------------- | ---------------- |
-| 1   | Energetic         | Frail            |
-| 2   | Hale              | Squeamish        |
-| 3   | Hearty            | Lethargic        |
-| 4   | Stable            | Fragile          |
+##### ความรอบรู้ (Wisdom) {#Wisdom}
 
-##### Intelligence {#Intelligence}
+| 1d4 | รอบรู้สูง              | รอบรู้ต่ำ             |
+| --- | ---------------------- | --------------------- |
+| 1   | สงบนิ่ง (Serene)       | หุนหันพลันแล่น (Rash) |
+| 2   | รอบคอบ (Considerate)   | ว่อกแว่ก (Distracted) |
+| 3   | ระมัดระวัง (Attentive) | หลงลืม (Oblivious)    |
+| 4   | ระวังตัว (Wary)        | ใสซื่อ (Naive)        |
 
-| 1d4 | High Intelligence | Low Intelligence |
-| --- | ----------------- | ---------------- |
-| 1   | Decisive          | Artless          |
-| 2   | Logical           | Illogical        |
-| 3   | Informative       | Uninformed       |
-| 4   | Curious           | Frivolous        |
+##### เสน่ห์ (Charisma) {#Charisma}
 
-##### Wisdom {#Wisdom}
+| 1d4 | เสน่ห์สูง                   | เสน่ห์ต่ำ                  |
+| --- | --------------------------- | -------------------------- |
+| 1   | น่าหลงใหล (Charming)        | ขี้โม้ (Pedantic)          |
+| 2   | บังคับบัญชา (Commanding)    | ไม่มีอารมณ์ขัน (Humorless) |
+| 3   | ตลกโปกฮา (Hilarious)        | สงวนท่าที (Reserved)       |
+| 4   | เป็นแรงบันดาลใจ (Inspiring) | ไม่มีไหวพริบ (Tactless)    |
 
-| 1d4 | High Wisdom | Low Wisdom |
-| --- | ----------- | ---------- |
-| 1   | Serene      | Rash       |
-| 2   | Considerate | Distracted |
-| 3   | Attentive   | Oblivious  |
-| 4   | Wary        | Naive      |
+### ขั้นที่ 4: เลือกลักษณะนิสัย (Alignment) {#Step4ChooseanAlignment}
 
-##### Charisma {#Charisma}
+เลือกลักษณะนิสัยของตัวละครจากข้อมูลด้านล่าง และบันทึกในชีทตัวละคร
 
-| 1d4 | High Charisma | Low Charisma |
-| --- | ------------- | ------------ |
-| 1   | Charming      | Pedantic     |
-| 2   | Commanding    | Humorless    |
-| 3   | Hilarious     | Reserved     |
-| 4   | Inspiring     | Tactless     |
+D&D จะถือว่าตัวละครจะไม่มีลักษณะนิสัยชั่วร้าย (non-evil) ลองคุยกับ DM ก่อนจะสร้างตัวละครที่ชั่วร้าย
 
-### Step 4: Choose an Alignment {#Step4ChooseanAlignment}
+#### ลักษณะนิสัย 9 แบบ {#TheNineAlignments}
 
-Choose your character’s alignment from the options below, and note it on your character sheet.
+ลักษณะนิสัยของสิ่งมีชีวิตเป็นตัวอธิบายคร่าว ๆ ถึงมุมมองและอุดมคติทางสังคมของมัน ลักษณะนิสัยจะเป็นการรวมกันของสองตัวแปร: หนึ่งตัวกำหนดจริยธรรม (ดี. ชั่วร้าย, หรือกลาง) และอีกสิ่งที่บอกถึงมุมมองเกี่ยวกับความเป็นระเบียบ (ยึดถือกฏ, โกลาหล หรือกลาง)
 
-D&D assumes that player characters aren’t of an evil alignment. Check with your DM before making an evil character.
+ผลสรุปของลักษณะนิสัยด้านช่างจะอธิบายลักษณะการกระทำโดยปกติของสิ่งมีชีวิตที่มีลักษณะนิสัยดังนั้น แต่ละคนก็อาจจะมีลักษณะต่างกันไปได้
 
-#### The Nine Alignments {#TheNineAlignments}
+**_ยึดถือกฏ ดี (Lawful Good) (LG)._** สิ่งมีชีวิตที่ "ยึดถือกฏ ดี" จะพยายามทำสิ่งที่ถูกต้องตามหลักการของสังคม บางคนที่ต่อสู้กับความอยุติธรรมและปกป้องผู้อ่อนแอโดยไม่ลังเลน่าจะเป็น "ยึดถือกฏ ดี" 
 
-A creature’s alignment broadly describes its ethical attitudes and ideals. Alignment is a combination of two factors: one identifies morality (good, evil, or neutral), and the other describes attitudes toward order (lawful, chaotic, or neutral).
+**_กลาง ดี (Neutral Good) (NG)._** สิ่งมีชีวิตที่เป็น "กลาง ดี" จะทำทุกอย่างที่ทำได้ อยู่ภายใต้กฏแต่ก็ไม่รู้สึกถึงความผูกพันกับมัน คนใจดีที่ช่วยเหลือผู้อื่นตามโอกาสที่อยากทำน่าจะเป็น "กลาง ดี"
 
-The summaries of the alignments below describe the typical behavior of a creature with that alignment; individuals can vary from that behavior.
+**_โกลาหล ดี (Chaotic Good) (CG)._** สิ่งมีชีวิตที่เป็น "โกลาหล ดี" ทำสิ่งต่าง ๆ ตามสัญชาตญาณของตนโดยไม่สนว่าใครจะคิดยังไง กบฏที่ดักปล้นคนเก็บภาษีหน้าเลือดของบารอนและใช้เงินที่ได้มาช่วยเหลือคนยากจนน่าจะเป็น "โกลาหล ดี"
 
-**_Lawful Good (LG)._** Lawful Good creatures endeavor to do the right thing as expected by society. Someone who fights injustice and protects the innocent without hesitation is probably Lawful Good.
+**_ยึดถือกฏ กลาง (Lawful Neutral) (LN)._** Lawful Neutral individuals act in accordance with law, tradition, or personal codes. Someone who follows a disciplined rule of life—and isn’t swayed either by the demands of those in need or by the temptations of evil—is probably Lawful Neutral.
 
-**_Neutral Good (NG)._** Neutral Good creatures do the best they can, working within rules but not feeling bound by them. A kindly person who helps others according to their needs is probably Neutral Good.
+**_กลาง (Neutral) (N)._** Neutral is the alignment of those who prefer to avoid moral questions and don’t take sides, doing what seems best at the time. Someone who’s bored by moral debate is probably Neutral.
 
-**_Chaotic Good (CG)._** Chaotic Good creatures act as their conscience directs with little regard for what others expect. A rebel who waylays a cruel baron’s tax collectors and uses the stolen money to help the poor is probably Chaotic Good.
+**_โกลาหล กลาง (Chaotic Neutral) (CN)._** Chaotic Neutral creatures follow their whims, valuing their personal freedom above all else. A scoundrel who wanders the land living by their wits is probably Chaotic Neutral.
 
-**_Lawful Neutral (LN)._** Lawful Neutral individuals act in accordance with law, tradition, or personal codes. Someone who follows a disciplined rule of life—and isn’t swayed either by the demands of those in need or by the temptations of evil—is probably Lawful Neutral.
+**_ยึดถือกฏ ชั่วร้าย (Lawful Evil) (LE)._** Lawful Evil creatures methodically take what they want within the limits of a code of tradition, loyalty, or order. An aristocrat exploiting citizens while scheming for power is probably Lawful Evil.
 
-**_Neutral (N)._** Neutral is the alignment of those who prefer to avoid moral questions and don’t take sides, doing what seems best at the time. Someone who’s bored by moral debate is probably Neutral.
+**_กลาง ชั่วร้าย (Neutral Evil) (NE)._** Neutral Evil is the alignment of those who are untroubled by the harm they cause as they pursue their desires. A criminal who robs and murders as they please is probably Neutral Evil.
 
-**_Chaotic Neutral (CN)._** Chaotic Neutral creatures follow their whims, valuing their personal freedom above all else. A scoundrel who wanders the land living by their wits is probably Chaotic Neutral.
-
-**_Lawful Evil (LE)._** Lawful Evil creatures methodically take what they want within the limits of a code of tradition, loyalty, or order. An aristocrat exploiting citizens while scheming for power is probably Lawful Evil.
-
-**_Neutral Evil (NE)._** Neutral Evil is the alignment of those who are untroubled by the harm they cause as they pursue their desires. A criminal who robs and murders as they please is probably Neutral Evil.
-
-**_Chaotic Evil (CE)._** Chaotic Evil creatures act with arbitrary violence, spurred by their hatred or bloodlust. A villain pursuing schemes of vengeance and havoc is probably Chaotic Evil.
+**_โกลาหล ชั่วร้าย (Chaotic Evil) (CE)._** Chaotic Evil creatures act with arbitrary violence, spurred by their hatred or bloodlust. A villain pursuing schemes of vengeance and havoc is probably Chaotic Evil.
 
 Unaligned Creatures
 
