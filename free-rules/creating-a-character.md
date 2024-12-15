@@ -69,170 +69,170 @@ menu: free-rules-start-play
 >
 > **วิซาร์ด:** แทนที่ด้วยบาร์ด, ซอร์เซอร์เรอร์ หรือวอร์ล็อค
 
-#### Write Your Level {#WriteYourLevel}
+#### บันทึกเลเวลลงไป {#WriteYourLevel}
 
-Write your character’s level on your character sheet. Typically, a character starts at level 1 and advances in level by adventuring and gaining [Experience Points](/free-rules/rules-glossary#ExperiencePoints) (XP).
+เขียนเลเวลของตัวละครลงในชีทตัวละคร ปกติแล้วตัวละครจะเริ่มที่เลเวล 1 และเพิ่มขึ้นจากการออกผจญภัยและได้รับ [ค่าประสบการณ์ (Experience Points)](/free-rules/rules-glossary#ExperiencePoints) (XP)
 
-**_Write Your XP._** Also record your Experience Points. A level 1 character has 0 XP.
+**_เขียนค่าประสบการณ์ลงไป_** ให้บันทึกค่าประสบการณ์ของคุณลงไปด้วย ตัวละครเลเวล 1 จะมีค่าประสบการณ์เป็น 0
 
-**_Starting at a Higher Level._** Your DM might start you at a higher level. If you start at level 3 or higher, write your chosen subclass on your character sheet. See the “[Starting at Higher Levels](/free-rules/creating-a-character#StartingatHigherLevels)” section later in the chapter for more information.
+**_การเริ่มเล่นที่เลเวลสูงกว่า 1_** DM ของคุณอาจจะให้คุณเริ่มเล่นที่เลเวลสูงกว่า 1 ถ้าคุณเริ่มที่เลเวล 3 หรือมากกว่า ให้เขียนคลาสย่อย (subclass) ที่คุณเลือกลงในชีทตัวละครของคุณ ดู “[เริ่มเล่นที่เลเวลสูงกว่า 1](/free-rules/creating-a-character#StartingatHigherLevels)” ในบทนี้สำหรับข้อมูลเพิ่มเติม
 
-#### Note Armor Training {#NoteArmorTraining}
+#### บันทึกการฝึกฝนด้านเกราะ {#NoteArmorTraining}
 
-Your class might give you training with certain categories of armor. Note your armor training on your character sheet. Armor training with a kind of armor means you can wear that armor effectively, gaining defensive bonuses from it. The categories of armor are described in [chapter 6](/free-rules/equipment#Armor).
+คลาสที่คุณเลือกอาจจะให้การฝึกฝนการใช้เกราะบางกลุ่ม ให้บันทึกการฝึกฝนด้านเกราะของคุณลงในชีทตัวละครด้วย การฝึกฝนด้านเกราะบางชนิดจะทำให้คุณใส่เกราะและใช้ได้อย่างมีประสิทธิภาพมากขึ้น รวมถึงได้รับโบนัสในการป้องกันด้วย กลุ่มของเกราะจะมีอธิบายใน [บทที่ 6](/free-rules/equipment#Armor)
 
-#### Hold That Thought {#HoldThatThought}
+#### ใจเย็น ๆ ก่อน {#HoldThatThought}
 
-You’ll fill in more details about your class later. Choosing your class is the most important decision you make in creating a character, and it informs many of the decisions you make in later steps. You’ll return to your class’s description in [chapter 3](/free-rules/character-classes) several more times before you’re done.
+คุณจะได้เพิ่มข้อมูลเกี่ยวกับคลาสที่คุณเลือกในภายหลัง การเลือกคลาสจะเป็นสิ่งที่สำคัญที่สุดในการตัดสินใจสร้างตัวละคร และมันจะมีผลกระทบกับขั้นตอนอื่น ๆ ในภายหลังด้วย คุณจะต้องกลับไปอ่านรายละเอียดคลาสใน [บทที่ 3](/free-rules/character-classes) หลายครั้งก่อนที่จะเสร็จสิ้นขั้นตอน
 
-### Step 2: Determine Origin {#Step2DetermineOrigin}
+### ขั้นที่ 2: กำหนดที่มา {#Step2DetermineOrigin}
 
-Determining your character’s origin involves choosing a background, a species, and two languages.
+กำหนดที่มาของตัวละครโดยเลือกภูมิหลัง, เผ่าพันธุ์และภาษาที่รู้อีก 2 ภาษา
 
-A character’s background represents the place and occupation that were most formative for the character. The combination of background, species, and languages provides fertile soil for your imagination as you ponder your character’s earliest days.
+ภูมิหลังของตัวละครแสดงถึงสถานที่และอาชีพเดิมที่หล่อหลอมให้เป็นตัวละครของคุณ เมื่อนำภูมิหลัง เผ่าพันธุ์และภาษามารวมกันจะช่วยให้คุณจินตนาการถึงตัวละครของคุณเมื่อครั้งที่ยังไม่เริ่มเป็นนักผจญภัย
 
-#### Choose a Background {#ChooseaBackground}
+#### เลือกภูมิหลัง (background) {#ChooseaBackground}
 
-Choose your character’s background, and write it on your character sheet. You can choose any of the backgrounds detailed in [chapter 4](/free-rules/character-origins#BackgroundDescriptions), and your DM might offer additional backgrounds as options.
+เลือกภูมิหลังของตัวละครและเขียนลงในชีทตัวละครของคุณ คุณสามารถเลือกภูมิหลังที่มีรายละเอียดใน [บทที่ 4](/free-rules/character-origins#BackgroundDescriptions) และ DM ของคุณอาจจะมีภูมิหลังเพิ่มเติมให้คุณใช้ได้
 
-The background you choose influences step 3, when you determine your character’s ability scores. If you’re having trouble choosing, the Ability Scores and Backgrounds table shows which backgrounds benefit which ability scores. Look for your class’s primary ability there.
+ภูมิหลังที่คุณเลือกจะมีอิทธิพลกับขั้นตอนที่ 3 เมื่อคุณกำหนดคะแนนความสามารถของตัวละคร ถ้าคุณมีปัญหาในการเลือก ตารางคะแนนความสามารถและภูมิหลังจะแสดงถึงภูมิหลังใดที่มีประโยชน์กับคะแนนความสามารถใด ให้มองหาความสามารถหลักของคลาสที่คุณเลือกประกอบ
 
-##### Ability Scores and Backgrounds {#AbilityScoresandBackgrounds}
+##### คะแนนความสามารถและภูมิหลัง {#AbilityScoresandBackgrounds}
 
-| Ability      | Backgrounds                                                                                                                                      |
-| ------------ | ------------------------------------------------------------------------------------------------------------------------------------------------ |
-| Strength     | [Soldier](/free-rules/character-origins#Soldier)                                                                                                 |
-| Dexterity    | [Criminal](/free-rules/character-origins#Criminal), [Soldier](/free-rules/character-origins#Soldier)                                             |
-| Constitution | [Criminal](/free-rules/character-origins#Criminal), [Sage](/free-rules/character-origins#Sage), [Soldier](/free-rules/character-origins#Soldier) |
-| Intelligence | [Acolyte](/free-rules/character-origins#Acolyte), [Criminal](/free-rules/character-origins#Criminal), [Sage](/free-rules/character-origins#Sage) |
-| Wisdom       | [Acolyte](/free-rules/character-origins#Acolyte), [Sage](/free-rules/character-origins#Sage)                                                     |
-| Charisma     | [Acolyte](/free-rules/character-origins#Acolyte)                                                                                                 |
+| ความสามารถ                 | ภูมิหลัง                                                                                                                                                                      |
+| -------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| ความแข็งแกร่ง (Strength)   | [ทหาร (Soldier)](/free-rules/character-origins#Soldier)                                                                                                                       |
+| ความคล่องแคล่ว (Dexterity) | [อาชญากร (Criminal)](/free-rules/character-origins#Criminal), [ทหาร (Soldier)](/free-rules/character-origins#Soldier)                                                         |
+| ความอดทน (Constitution)    | [อาชญากร (Criminal)](/free-rules/character-origins#Criminal), [นักปราชญ์ (Sage)](/free-rules/character-origins#Sage), [ทหาร (Soldier)](/free-rules/character-origins#Soldier) |
+| ความฉลาด (Intelligence)    | [สาวก (Acolyte)](/free-rules/character-origins#Acolyte), [อาชญากร (Criminal)](/free-rules/character-origins#Criminal), [นักปราชญ์ (Sage)](/free-rules/character-origins#Sage) |
+| ความรอบรู้ (Wisdom)        | [สาวก (Acolyte)](/free-rules/character-origins#Acolyte), [นักปราชญ์ (Sage)](/free-rules/character-origins#Sage)                                                               |
+| เสน่ห์ (Charisma)          | [สาวก (Acolyte)](/free-rules/character-origins#Acolyte)                                                                                                                       |
 
-**_Record Your Feat._** A background gives you a feat, which grants your character particular capabilities. Feats are detailed in [chapter 5](/free-rules/feats). Write the feat on your character sheet.
+**_บันทึกคุณสมบัติของคุณ (Feat)_** ภูมิหลังจะให้คุณสมบัติกับคุณ ซึ่งจะเพิ่มความสามารถให้กับตัวละคร คุณสมบัติจะมีรายละเอียดใน [บทที่ 5](/free-rules/feats) จดคุณสมบัติลงไปในชีทตัวละครของคุณ
 
-**_Note Proficiencies._** Your background gives proficiency in two skills and with one tool. Record this information on your character sheet.
+**_บันทึกความเชี่ยวชาญ_** ภูมิหลังจะให้ความเชี่ยวชาญใน 2 ทักษะและกับหนึ่งเครื่องมือ บันทึกข้อมูลเหล่านี้ลงในชีทตัวละคร
 
-Your class also gives proficiencies. Check your class description in [chapter 3](/free-rules/character-classes) and note the proficiencies on your character sheet.
+คลาสที่คุณเลือกก็ให้ความเชี่ยวชาญด้วย ดูในคำอธิบายคลาสของคุณใน [chapter 3](/free-rules/character-classes) และบันทึกความเชี่ยวชาญลงในชีทตัวละครของคุณ
 
-On the sample character sheet, you can indicate proficiency in skills and saving throws by marking the circle next to them.
+ในชีทตัวละครตัวอย่าง คุณสามารถทำเครื่องหมายแสดงทักษะและการทอยป้องกันที่เชี่ยวชาญได้โดยการทำวงกลมไว้ข้าง ๆ
 
-The features table in your class description shows your Proficiency Bonus (described in [chapter 1](/free-rules/playing-the-game#Proficiency)), which is +2 for a level 1 character. Note this number on your character sheet. You’ll fill in other numbers connected to these proficiencies in [step 5](/free-rules/creating-a-character#Step5FillInDetails).
+ตารางคุณลักษณะในคำอธิบายคลาสแสดงถึงโบนัสความเชี่ยวชาญของคุณ (อธิบายใน [บทที่ 1](/free-rules/playing-the-game#Proficiency)) ซึ่งจะเป็น +2 สำหรับตัวละครเลเวล 1 บันทึกค่านี้ลงในชีทตัวละครของคุณ คุณจะได้ใส่ตัวเลขอื่นที่เชื่อมต่อกับความเชี่ยวชาญนี้ใน [บทที่ 5](/free-rules/creating-a-character#Step5FillInDetails)
 
-#### Choose Starting Equipment {#ChooseStartingEquipment}
+#### เลือกอุปกรณ์เริ่มต้น {#ChooseStartingEquipment}
 
-Your background and class both provide starting equipment. Any coins that you gain at this step can be immediately spent on equipment from [chapter 6](/free-rules/equipment). In addition, you can have one trinket at no cost (see the [Trinkets table](/free-rules/creating-a-character#Trinkets) at the end of this chapter).
+ภูมิหลังและคลาสจะให้อุปกรณ์เริ่มต้นแก่คุณ เงินเหรียญที่คุณได้รับจากขั้นตอนนี้สามารถนำไปใช้ซื้อของจาก [บทที่ 6](/free-rules/equipment) ได้ทันที นอกจากนี้คุณจะได้รับของเบ็ดตเล็ดอีก 1 ชิ้นโดยไม่เสียเงิน (ดู [ตารางของเบ็ดตเล็ด](/free-rules/creating-a-character#Trinkets) ในตอนท้ายของบทนี้)
 
-Record your chosen equipment on your character sheet. Equipment is described in [chapter 6](/free-rules/equipment), but for now you can just write it all down and look up the specifics in that chapter later. There’s also space on the sample character sheet to note any coins you have left after purchasing your equipment, as well as treasure you acquire on your adventures.
+บันทึกอุปกรณ์ที่คุณได้รับลงในชีทตัวละคร อุปกรณ์จะมีรายละเอียดใน [บทที่ 6](/free-rules/equipment) แต่ตอนนี้คุณแค่เขียนทั้งหมดที่ได้รับลงไปก่อนแล้วไปหาเพิ่มเติมในภายหลัง ในชีทตัวละครยังมีช่องว่างที่สามารถใช้บันทึกเหรียญที่คุณมีเหลือจากการซื้ออุปกรณ์ และสามารถใช้บันทึกสมบัติที่คุณได้พบเจอระหว่างการผจญภัยด้วย
 
-#### Choose a Species {#ChooseaSpecies}
+#### เลือกเผ่าพันธุ์ (Species) {#ChooseaSpecies}
 
-Choose a species for your character. The following species options are detailed in [chapter 4](/free-rules/character-origins): [Dwarf](/free-rules/character-origins#Dwarf), [Elf](/free-rules/character-origins#Elf), [Halfling](/free-rules/character-origins#Halfling), and [Human](/free-rules/character-origins#Human). Once you’ve chosen a species, write it on your character sheet. Then record your species’ traits.
+เลือกเผ่าพันธุ์สำหรับตัวละครของคุณ รายละเอียดของแต่ละเผ่าพันธุ์มีใน [บทที่ 4](/free-rules/character-origins): [ดวอร์ฟ (Dwarf)](/free-rules/character-origins#Dwarf), [เอลฟ์ (Elf)](/free-rules/character-origins#Elf), [ฮาล์ฟลิง (Halfling)](/free-rules/character-origins#Halfling), and [มนุษย์(Human)](/free-rules/character-origins#Human)
 
-Your character’s [size](/free-rules/rules-glossary#Size) and [Speed](/free-rules/rules-glossary#Speed) are determined by the character’s species; record these in the appropriate places on your character sheet as well (you may write just the first letter of your size).
+[ขนาด](/free-rules/rules-glossary#Size) และ [ความเร็ว](/free-rules/rules-glossary#Speed) ของตัวละครจะถูกกำหนดจากเผ่าพันธุ์ บันทึกค่าทั้งสองลงในช่องในชีทตัวละครของคุณด้วย (คุณอาจจะแค่เขียนตัวอักษรตัวเดียวสำหรับขนาดตัว)
 
-#### Imagine Your Past and Present {#ImagineYourPastandPresent}
+#### จินตนาการถึงอดีตและปัจจุบัน {#ImagineYourPastandPresent}
 
-Let your character’s background and species inspire how you imagine their past. That past fed into the character’s present. With that in mind, consider answers to the following questions as your character:
+ให้ภูมิหลังและเผ่าพันธุ์ของตัวละครเป็นแรงบันดาลใจให้คุณคิดถึงอดีตของตัวละคร อดีตที่ทำให้เป็นตัวละครในปัจจุบัน เมื่อคุณพอนึกออกแล้วลองตอบคำถามเหล่านี้แบบที่ตัวละครของคุณจะตอบ
 
-- Who raised you?
-- Who was your dearest childhood friend?
-- Did you grow up with a pet?
-- Have you fallen in love? If so, with whom?
-- Did you join an organization, such as a guild or religion? If so, are you still a member of it?
-- What elements of your past inspire you to go on adventures now?
+- ใครเลี้ยงดูคุณมา?
+- ใครเป็นเพื่อนที่คุณรักที่สุดเมื่อตอนเด็ก?
+- คุณโตมากับสัตว์เลี้ยงหรือไม่?
+- เคยตกหลุมรักมั๊ย ถ้าเคย กับใคร?
+- คุณเข้าร่วมกับองค์กรอะไรหรือไม่ เช่นสมาคมหรือศาสนา ถ้าเคย คุณยังเป็นสมาชิกอยู่หรือไม่?
+- อะไรในอดีตที่ทำให้คุณเลือกมาเป็นนักผจญภัยในตอนนี้?
 
-#### Choose Languages {#ChooseLanguages}
+#### เลือกภาษา {#ChooseLanguages}
 
-Your character knows at least three languages: Common plus two languages you roll or choose from the Standard Languages table. Knowledge of a language means your character can communicate in it, read it, and write it. Your class and other features might also give you languages.
+ตัวละครของคุณจะรู้อย่างน้อยสามภาษา ภาษากลาง (Common) กับอีกสองภาษาคุณสามารถทอยลูกเต๋าหรือเลือกจากตารางภาษามาตรฐานได้ ความรู้ด้านภาษาหมายถึงตัวละครของคุณสามารถสื่อสารด้วยภาษานั้นได้ สามารถอ่านและเขียนได้ คลาสที่คุณเลือกและคุณลักษณะอื่นก็อาจจะให้ความสามารถทางภาษากับคุณได้
 
-The Standard Languages table lists languages that are widespread on D&D worlds. Every player character knows Common, which originated in the planar metropolis of Sigil, the hub of the multiverse. The other standard languages originated with the first members of the most prominent species in the worlds of D&D and have since spread widely.
+ตารางภาษามาตรฐานจะเป็นรายการภาษาที่ใช้กันทั่วไปในโลกของ D&D ตัวละครของผู้เล่นทุกคนจะรู้ภาษากลางหรือคอมมอน (Common) ซึ่งมีต้นกำเนิดในซิกิล (Sigil) เมืองหลวงแห่งดินแดนพหุภพ ภาษามาตรฐานอื่น ๆ เริ่มต้นมาจากสมาชิกของเผ่าพันธุ์ที่ทรงภูมิในโลกต่าง ๆ ของ D&D และแพร่หลายใช้กันเรื่อยมา
 
-##### Standard Languages {#StandardLanguages}
+##### ภาษามาตรฐาน {#StandardLanguages}
 
-| 1d12  | Language             | Origin     |
-| ----- | -------------------- | ---------- |
-| —     | Common               | Sigil      |
-| 1     | Common Sign Language | Sigil      |
-| 2     | Draconic             | Dragons    |
-| 3–4   | Dwarvish             | Dwarves    |
-| 5–6   | Elvish               | Elves      |
-| 7     | Giant                | Giants     |
-| 8     | Gnomish              | Gnomes     |
-| 9     | Goblin               | Goblinoids |
-| 10–11 | Halfling             | Halflings  |
-| 12    | Orc                  | Orcs       |
+| 1d12  | ภาษา                           | แหล่งกำเนิด  |
+| ----- | ------------------------------ | ------------ |
+| —     | คอมมอน (Common)                | ซิกิล        |
+| 1     | ภาษามือ (Common Sign Language) | ซิกิล        |
+| 2     | ดราโกนิค (Draconic)            | มังกร        |
+| 3–4   | ดวอร์ฟวิช (Dwarvish)           | ดวอร์ฟ       |
+| 5–6   | เอลฟ์วิช (Elvish)              | เอลฟ์        |
+| 7     | ยักษ์ (Giant)                  | ยักษ์        |
+| 8     | โนมมิช (Gnomish)               | โนม          |
+| 9     | ก๊อบลิน (Goblin)               | ก๊อบลินนอยด์ |
+| 10–11 | ฮาล์ฟลิง (Halfling)            | ฮาล์ฟลิง     |
+| 12    | ออร์ค (Orc)                    | ออร์ค        |
 
-The Rare Languages table lists languages that are either secret or derived from other planes of existence and thus less widespread in the worlds of the Material Plane. Some features let a character learn a rare language.
+ตารางภาษาหายากเป็นรายการภาษาที่อาจเป็นภาษาลับหรือแปลงมาจากภิภพแห่งตัวตนอื่นที่ไม่ค่อยใช้กันในโลกแห่งภิภพแห่งวัตถุ คุณสมบัติบางอย่างจะให้คุณใช้ภาษาหายากนี้ได้
 
-##### Rare Languages {#RareLanguages}
+##### ภาษาหายาก {#RareLanguages}
 
-| Language      | Origin                   |
-| ------------- | ------------------------ |
-| Abyssal       | Demons of the Abyss      |
-| Celestial     | Celestials               |
-| Deep Speech   | Aberrations              |
-| Druidic       | Druidic circles          |
-| Infernal      | Devils of the Nine Hells |
-| Primordial\*  | Elementals               |
-| Sylvan        | The Feywild              |
-| Thieves’ Cant | Various criminal guilds  |
-| Undercommon   | The Underdark            |
+| ภาษา                         | แหล่งกำเนิด                             |
+| ---------------------------- | --------------------------------------- |
+| อบิสชัล (Abyssal)            | อสุรกายแห่งนรก                          |
+| เซเลสเทียล (Celestial)       | เหล่าเซเลสเทียล (Celestials)            |
+| ภาษาจากห้วงลึก (Deep Speech) | อสุรกายจากต่างมิติ (Aberrations)        |
+| ดรูอิดิก (Druidic)           | สมาชิกขององค์กรดรูอิด (Druidic circles) |
+| อินเฟอนัล (Infernal)         | ปีศาจแห่งนรกทั้ง 9                      |
+| ไพรโมเดียล (Primordial\*)    | เหล่าวิญญาณธาตุ (Elementals)            |
+| ซิลวาน (Sylvan)              | ชาวเฟย์ไวลด์ (The Feywild)              |
+| ภาษาโจร (Thieves’ Cant)      | ชุมโจรหลายแห่ง                          |
+| อันเดอร์คอมมอน (Undercommon) | ชาวอันเดอร์ดาร์ก (The Underdark)        |
 
-_\*Primordial includes the Aquan, Auran, Ignan, and Terran dialects. Creatures that know one of these dialects can communicate with those that know a different one._
+_\*ภาษาไพรโมเดียล (Primordial) จะรวมถึงภาษาถิ่น อาควน (Aquan), เอารัน (Auran), อิกนัน (Ignan), และ เทอร์รัน (Terran) สิ่งมีชีวิตที่รู้หนึ่งในภาษาถิ่นเหล่านี้สามารถสื่อสารกันในกลุ่มภาษาไพรโมเดียลได้_
 
-### Step 3: Determine Ability Scores {#Step3DetermineAbilityScores}
+### ขั้นที่ 3: กำหนดคะแนนความสามารถ {#Step3DetermineAbilityScores}
 
-To determine your character’s ability scores, you first generate a set of six numbers using the instructions below and then assign them to your six abilities. [Chapter 1](/free-rules/playing-the-game#TheSixAbilities) explains what each ability means.
+กำหนดคะแนนความสามารถ (Ability scores) ให้กับตัวละคร เริ่มโดยการสร้างชุดตัวเลขหกตัวโดยใช้คำแนะนำด้านล่าง และต่อมานำไปใส่ในช่องความสามารถทั้งหก [บทที่ 1](/free-rules/playing-the-game#TheSixAbilities) อธิบายว่าแต่ละความสามารถคืออะไร
 
-#### Generate Your Scores {#GenerateYourScores}
+#### การสร้างชุดคะแนน {#GenerateYourScores}
 
-Determine your ability scores by using one of the following three methods. Your DM might prefer you to use a particular one.
+กำหนดคะแนนความสามารถโดยใช้หนึ่งในสามวิธีนี้ DM ของคุณอาจจะกำหนดให้ใช้วิธีใดวิธีหนึ่ง
 
-**_Standard Array._** Use the following six scores for your abilities: 15, 14, 13, 12, 10, 8.
+**_ชุดตัวเลขมาตรฐาน (Standard Array)_** ใช้จำนวนหกตัวนี้สำหรับความสามารถของคุณ: 15, 14, 13, 12, 10, 8.
 
-**_Random Generation._** Roll four d6s and record the total of the highest three dice. Do this five more times, so you have six numbers.
+**_สร้างชุดตัวเลขด้วยวิธีการสุ่ม (Random Generation)_** ทอย d6 สี่ลูก นำผลที่ได้สูงสุดสามลูกมารวมกัน ทำอีกห้าครั้ง คุณจะได้ชุดตัวเลข 6 ตัว
 
-**_Point Cost._** You have 27 points to spend on your ability scores. The cost of each score is shown on the Ability Score Point Costs table. For example, a score of 14 costs 7 of your 27 points.
+**_ใช้แต้มแลก (Point Cost)_** คุณจะมี 27 แต้มในการใช้แลกคะแนนความสามารถ จำนวนแต้มที่ใช้ในการแลกจะแสดงในตารางด้านล่าง ตัวอย่างเช่น คะแนน 14 จะใช้แต้ม 7 จาก 27 แต้มที่คุณมี
 
-##### Ability Score Point Costs {#AbilityScorePointCosts}
+##### อัตราการแขกแต้มเป็นคะแนนความสามารถ {#AbilityScorePointCosts}
 
-| Score | Cost |
-| ----- | ---- |
-| 8     | 0    |
-| 9     | 1    |
-| 10    | 2    |
-| 11    | 3    |
-| 12    | 4    |
-| 13    | 5    |
-| 14    | 7    |
-| 15    | 9    |
+| คะแนน | แต้มที่ใช้ในการแลก |
+| ----- | ------------------ |
+| 8     | 0                  |
+| 9     | 1                  |
+| 10    | 2                  |
+| 11    | 3                  |
+| 12    | 4                  |
+| 13    | 5                  |
+| 14    | 7                  |
+| 15    | 9                  |
 
-#### Assign Ability Scores {#AssignAbilityScores}
+#### การจัดคะแนนความสามารถ {#AssignAbilityScores}
 
-Once you’ve generated six scores, assign them to Strength, Dexterity, Constitution, Intelligence, Wisdom, and Charisma, keeping in mind your class’s primary ability. Fill in the ability modifiers as well.
+เมื่อคุณได้ชุดตัวเลขหกตัวมาแล้ว ให้จัดลงความสามารถต่าง ๆ ความแข็งแกร่ง (Strength), ความคล่องแคล่ว (Dexterity), ความอดทน (Constitution), ความฉลาด (Intelligence), ความรอบรู้ (Wisdom), และ เสน่ห์ (Charisma) อย่าลืมตรวจสอบว่าคลาสที่คุณเลือกใช้ความสามารถใดเป็นหลัก และให้ใส่ค่าโมดิไฟเออร์ของความสามารถด้วย
 
-If you’re using the Standard Array option, consult the Standard Array by Class table for suggestions on where to assign scores for your character’s class. The table puts the highest scores in a class’s main abilities. If you used a different method to generate the scores, you may still use this table to guide where you place your highest and lowest scores.
+ถ้าคุณใช้ชุดตัวเลขมาตรฐาน (Standard Array) ให้เทียบกับตารางการใช้ชุดตัวเลขมาตรฐานตามคลาสเป็นคำแนะนำในการจัดคะแนนของตัวละคร ในตารางจะเป็นการนำคะแนนสูงสุดใส่ในความสามารถหลักของคลาส ถ้าคุณใช้วิธีอื่นในการสร้างชุดตัวเลข คุณอาจจะต้องใช้ตารางนี้เป็นตัวเปรียบเทียบการจัดคะแนนสูงสุดและต่ำสุด
 
-##### Standard Array by Class {#StandardArraybyClass}
+##### ชุดตัวเลขมาตรฐานตาคลาน {#StandardArraybyClass}
 
-| Class     | Strength | Dexterity | Constitution | Intelligence | Wisdom | Charisma |
-| --------- | -------- | --------- | ------------ | ------------ | ------ | -------- |
-| Barbarian | 15       | 13        | 14           | 10           | 12     | 8        |
-| Bard      | 8        | 14        | 12           | 13           | 10     | 15       |
-| Cleric    | 14       | 8         | 13           | 10           | 15     | 12       |
-| Druid     | 8        | 12        | 14           | 13           | 15     | 10       |
-| Fighter   | 15       | 14        | 13           | 8            | 10     | 12       |
-| Monk      | 12       | 15        | 13           | 10           | 14     | 8        |
-| Paladin   | 15       | 10        | 13           | 8            | 12     | 14       |
-| Ranger    | 12       | 15        | 13           | 8            | 14     | 10       |
-| Rogue     | 12       | 15        | 13           | 14           | 10     | 8        |
-| Sorcerer  | 10       | 13        | 14           | 8            | 12     | 15       |
-| Warlock   | 8        | 14        | 13           | 12           | 10     | 15       |
-| Wizard    | 8        | 12        | 13           | 15           | 14     | 10       |
+| คลาส                      | Strength | Dexterity | Constitution | Intelligence | Wisdom | Charisma |
+| ------------------------- | -------- | --------- | ------------ | ------------ | ------ | -------- |
+| บาร์บาเรียน (Barbarian)   | 15       | 13        | 14           | 10           | 12     | 8        |
+| บาร์ด (Bard)              | 8        | 14        | 12           | 13           | 10     | 15       |
+| เคลอริก (Cleric)          | 14       | 8         | 13           | 10           | 15     | 12       |
+| ดรูอิด (Druid)            | 8        | 12        | 14           | 13           | 15     | 10       |
+| ไฟท์เตอร์ (Fighter)       | 15       | 14        | 13           | 8            | 10     | 12       |
+| มองค์ (Monk)              | 12       | 15        | 13           | 10           | 14     | 8        |
+| พาลาดิน (Paladin)         | 15       | 10        | 13           | 8            | 12     | 14       |
+| เรนเจอร์ (Ranger)         | 12       | 15        | 13           | 8            | 14     | 10       |
+| โร็ก (Rogue)              | 12       | 15        | 13           | 14           | 10     | 8        |
+| ซอร์เซอร์เรอร์ (Sorcerer) | 10       | 13        | 14           | 8            | 12     | 15       |
+| วอร์ล็อค (Warlock)        | 8        | 14        | 13           | 12           | 10     | 15       |
+| วิซาร์ด (Wizard)          | 8        | 12        | 13           | 15           | 14     | 10       |
 
-#### Adjust Ability Scores {#AdjustAbilityScores}
+#### ปรับคะแนนความสามารถ {#AdjustAbilityScores}
 
-After assigning your ability scores, adjust them according to your background. Your background lists three abilities; increase one of those scores by 2 and a different one by 1, or increase all three by 1. None of these increases can raise a score above 20.
+หลังจากจัดคะแนนความสามารถเรียบร้อยแล้ว ให้ปรับคะแนนตามภูมิหลังของคุณ ภูมิหลังของคุณจะมีสามความสามารถ คุณสามารถเพิ่มความสามารถหนึ่ง 2 คะแนนและอีกความสามารถ 1 คะแนน หรือเพิ่มสามความสามารถ ความสามารถละ 1 คะแนน การเพิ่มนี้จะไม่สามารถเพิ่มได้เกิน 20
 
 Some players like to increase their class’s primary ability, while others prefer to increase a low score.
 
