@@ -28,20 +28,20 @@
     - name: สภาวะต่าง ๆ
       url: /free-rules/playing-the-game#Conditions
 
-- name: Creating a Character
+- name: สร้างตัวละคร
   url: /free-rules/creating-a-character
   children:
-    - name: Get Ready
+    - name: เตรียมพร้อม
       url: /free-rules/creating-a-character#GetReady
-    - name: Create Your Character
+    - name: สร้างตัวละครของคุณ
       url: /free-rules/creating-a-character#CreateYourCharacter
-    - name: Level Advancement
+    - name: การเพิ่มเลเวล
       url: /free-rules/creating-a-character#LevelAdvancement
-    - name: Starting at Higher Levels
+    - name: เริ่มเล่นที่เลเวลสูง
       url: /free-rules/creating-a-character#StartingatHigherLevels
-    - name: Multiclassing
+    - name: ตัวละครที่มีหลายคลาส
       url: /free-rules/creating-a-character#Multiclassing
-    - name: Trinkets
+    - name: สิ่งของเบ็ดตเล็ด
       url: /free-rules/creating-a-character#Trinkets
 
 - name: Character Classes

@@ -1,73 +1,73 @@
 ---
 layout: book
-title: Creating a Character
+title: สร้างตัวละคร - Creating a Character
 menu: free-rules-start-play
 ---
 
-# Creating a Character
+# สร้างตัวละคร
 
-You can make a character for Dungeons & Dragons using the building blocks in this book. Your character is a combination of game statistics, roleplaying hooks, and your imagination. You choose a class (such as [Fighter](/free-rules/character-classes#Fighter) or [Wizard](/free-rules/character-classes#Wizard)), a background (such as [Soldier](/free-rules/character-origins#Soldier) or [Acolyte](/free-rules/character-origins#Acolyte)), and a species (such as [Human](/free-rules/character-origins#Human) or [Elf](/free-rules/character-origins#Elf)). You also invent the personality and appearance of your character. Once completed, your character serves as your avatar in the D&D multiverse.
+คุณสามารถสร้างตัวละครสำหรับเกมดันเจียนแอนด์ดรากอนโดยใช้ส่วนประกอบในหนังสือนี้ ตัวละครของคุณเป็นการรวมกับของสถิติของเกม จุดเชื่อมต่อที่ใช้ในการสวมบทบาท และจินตนาการของคุณ คุณเลือกคลาส (class) (เช่น [ไฟท์เตอร์ (Fighter)](/free-rules/character-classes#Fighter) หรือ [วิซาร์ด (Wizard)](/free-rules/character-classes#Wizard)) เลือกภูมิหลัง (background) (เช่น [ทหาร (Soldier)](/free-rules/character-origins#Soldier) หรือ [สาวก (Acolyte)](/free-rules/character-origins#Acolyte)) เลือกสปีชีส์ (เช่น [มนุษย์ (Human)](/free-rules/character-origins#Human) หรือ [เอลฟ์ (Elf)](/free-rules/character-origins#Elf)) คุณยังได้สร้างบุคลิกและลักษณะของตัวละครด้วย เมื่อเรียบร้อยแล้ว ตัวละครของคุณก็พร้อมที่จะเป็นอวตารของคุณในโลกของ D&D
 
-## Get Ready {#GetReady}
+## เตรียมพร้อม {#GetReady}
 
-Before you dive into character creation, there are a few things to do to get ready, as explained below.
+ก่อนที่คุณจะเริ่มสร้างตัวละคร มีสองสามเรื่องที่ต้องเตรียมก่อน ดังที่อธิบายด้านล่าง
 
-### Talk with Your DM {#TalkwithYourDM}
+### คุยกับ DM ของคุณ {#TalkwithYourDM}
 
-Start by talking with your Dungeon Master about the type of D&D game they plan to run. If the DM draws inspiration from Greek myth, for example, you might choose a different direction for your character than if the DM is planning for swashbuckling on the high seas. Think about the kind of adventurer you want to play in this game. If you don’t know where to begin, look at the character illustrations in this book for inspiration.
+เริ่มโดยพูดคุยกับดันเจียนมาสเตอร์ของคุณเกี่ยวกับลักษณะเกมที่วางแผนจะเล่นกัน ถ้า DM ได้แรงบันดาลใจจากเทพนิยายกรีก คุณจะได้เลือกทิศทางของตัวละครที่แตกต่างจากเรื่องราวโจรสลัด ลองคิดถึงลักษณะของนักผจญภัยที่คุณอยากเล่นในเกมแบบนี้ ถ้าคุณไม่แน่ใจว่าจะเริ่มตรงไหน ให้ลองดูรูปในหนังสือเล่มนี้เป็นแรงบันดาลใจ
 
-Session Zero
+> **เซสชันศูนย์ (Session Zero)**
+>
+> ดันเจียนมาสเตอร์บางคนจะเริ่มแคมเปญด้วย "เซสชันศูนย์" เป็นการพูดคุยกันในเรื่องการสร้างตัวละครและความคาดหวังด้านเนื้อเรื่อง รวมถึงสิ่งที่ต้องหลีกเลี่ยงและสิ่งที่ต้องนำมาใส่ เซสชันศูนย์เป็นโอกาสดีที่จะพูดคุยกับผู้เล่นอื่นและ DM ได้ตัดสินใจว่าตัวละครรู้จักกันมาก่อนหรือไม่ พวกเขามาเจอกันได้อย่างไร และเควสแบบไหนที่กลุ่มจะได้ผจญภัย
 
-Some Dungeon Masters start a campaign with a “session zero,” an initial gathering focused on creating characters and setting expectations, including topics to avoid as well as those to embrace. A session zero provides a great opportunity to talk to the other players and the DM and decide whether your characters know one another, how they met, and what sorts of quests the group might undertake together.
+### เลือกชีทตัวละคร {#ChooseaCharacterSheet}
 
-### Choose a Character Sheet {#ChooseaCharacterSheet}
+คุณจะบันทึกรายละเอียดหลักของตัวละครบนชีทตัวละครของคุณ ตลอดบทนี้ เราจะใช้คำว่า "ชีทตัวละคร (character sheet)" หมายถึงอะไรก็ตามที่คุณใช้ในการบันทึกรายละเอียดของตัวละคร ไม่ว่าจะเป็นแบบพิมพ์ลงกระดาษหรือแบบดิจิตัลอย่างใน [D&D Beyond](https://www.dndbeyond.com/characters) หรือเป็นกระดาษเปล่า เลือกแบบที่คุณถนัดใช้และมาเริ่มสร้างตัวละครกันเลย!
 
-You’ll record the main details of your character on a character sheet. Throughout this chapter, we use the term “character sheet” to mean whatever you use to track your character’s details, whether it’s a printed character sheet, a digital character sheet like the one on [D&D Beyond](https://www.dndbeyond.com/characters), or plain paper. Choose whichever style of sheet works for you, and then embark on creating a character!
+## สร้างตัวละครของคุณ {#CreateYourCharacter}
 
-## Create Your Character {#CreateYourCharacter}
+นี่เป็นขั้นตอนการสร้างตัวละคร แต่ละขั้นจะมีคำอธิบายรายละเอียดในบทนี้:
 
-Here are the steps to make a character; each step is explored in detail in this chapter:
+1. **เลือกคลาส** นักผจญภัยแต่ละคนเป็นสมาชิกของคลาส คลาสเป็นการอธิบายลักษณะทั่วไปของอาชีพ, ความสามารถพิเศษ และวิธีการต่อสู้ที่ถนัดของตัวละคร
+2. **กำหนดที่มา** ที่มาของตัวละครจะเป็นการรวมกันของสององค์ประกอบ: ภูมิหลังและเผ่าพันธุ์ (species) ตัวละครมีความเป็นมาอย่างไร ใช้ชีวิตอย่างไรก่อนที่จะมาเป็นนักผจญภัย? บรรพบุรุษเป็นใคร? คุณสามารเลือกภาษาที่ตัวละครรู้ได้ด้วย
+3. **กำหนดคะแนนความสามารถ** สิ่งที่ตัวละครของคุณทำได้ในเกมจะขึ้นอยู่กับคะแนนความสามารถ 6 ด้านนี้
+4. **เลือกลักษณะนิสัย (Alignment)** ลักษณะนิสัยถือเป็นเข็มทิศทางจริยธรรมของตัวละคร
+5. **เพิ่มรายละเอียดต่าง ๆ** คุณสามารถเพิ่มเติมรายละเอียดอื่น ๆ ลงในชีทตัวละครเพื่อให้สมบูรณ์มากยิ่งขึ้น
 
-1. **Choose a Class.** Every adventurer is a member of a class. A class broadly describes a character’s vocation, special talents, and favored tactics.
-2. **Determine Origin.** A character’s origin includes two elements: background and species. How did the character spend the years leading up to a life of adventure? Who are the character’s ancestors? You can also choose your character’s languages.
-3. **Determine Ability Scores.** Much of what your character does in the game depends on the character’s six abilities.
-4. **Choose an Alignment.** Alignment is a shorthand for your character’s moral compass.
-5. **Fill in Details.** Using the choices you’ve made, fill in the remaining details on your character sheet.
+ในชีทตัวละครในหน้าถัดไป ช่องว่างหลายจุดจะมีตัวเลขกำกับไว้กับขั้นตอนเหล่านี้
 
-On the character sheet on the following pages, many spaces are labeled with a number that corresponds with one of those steps.
+### ขั้นที่ 1: เลือกคลาส {#Step1ChooseaClass}
 
-### Step 1: Choose a Class {#Step1ChooseaClass}
+เลือกคลาสหนึ่ง และเขียนลงไปในชีทตัวละครของคุณ ตารางสรุปคลาสจะแสดงลักษณะทั่วไปของคลาส ดู [บทที่ 3](/free-rules/character-classes) สำหรับรายละเอียดของแต่ละคลาส
 
-Choose a class, and write it on your character sheet. The Class Overview table summarizes the classes. See [chapter 3](/free-rules/character-classes) for the classes’ details.
+#### ตารางสรุปคลาส {#ClassOverview}
 
-#### Class Overview {#ClassOverview}
+| คลาส                                                               | ชอบ...            | ความสามารถหลัก                                           | ความซับซ้อน |
+| ------------------------------------------------------------------ | ----------------- | -------------------------------------------------------- | ----------- |
+| [บาร์บาเรียน (Barbarian)](/free-rules/character-classes#Barbarian) | การต่อสู้         | ความแข็งแกร่ง (Strength)                                 | ปานกลาง     |
+| [บาร์ด (Bard)](/free-rules/character-classes#Bard)                 | การแสดง           | เสน่ห์ (Charisma)                                        | สูง         |
+| [เคลอริก (Cleric)](/free-rules/character-classes#Cleric)           | เทพเจ้า           | ความรอบรู้ (Wisdom)                                      | ปานกลาง     |
+| [ดรูอิด (Druid)](/free-rules/character-classes#Druid)              | ธรรมชาติ          | ความรอบรู้ (Wisdom)                                      | สูง         |
+| [ไฟท์เตอร์ (Fighter)](/free-rules/character-classes#Fighter)       | อาวุธ             | ความแข็งแกร่ง (Strength) หรือ ความคล่องแคล่ว (Dexterity) | ต่ำ         |
+| [มองค์ (Monk)](/free-rules/character-classes#Monk)                 | การต่อสู้มือเปล่า | ความคล่องแคล่ว (Dexterity) และ ความรอบรู้ (Wisdom)       | สูง         |
+| [พาลาดิน (Paladin)](/free-rules/character-classes#Paladin)         | การป้องกัน        | ความแข็งแกร่ง (Strength) และ เสน่ห์ (Charisma)           | ปานกลาง     |
+| [เรนเจอร์ (Ranger)](/free-rules/character-classes#Ranger)          | การเอาตัวรอด      | ความคล่องแคล่ว (Dexterity) และ ความรอบรู้ (Wisdom)       | ปานกลาง     |
+| [โร็ก(Rogue)](/free-rules/character-classes#Rogue)                 | การลอบเร้น        | ความคล่องแคล่ว (Dexterity)                               | ต่ำ         |
+| [ซอร์เซอร์เรอร์(Sorcerer)](/free-rules/character-classes#Sorcerer) | พลัง              | เสน่ห์ (Charisma)                                        | สูง         |
+| [วอร์ล็อค (Warlock)](/free-rules/character-classes#Warlock)        | เรื่องราวลัทธิลับ | เสน่ห์ (Charisma)                                        | สูง         |
+| [วิซาร์ด (Wizard)](/free-rules/character-classes#Wizard)           | ตำราคาถา          | ความฉลาด (Intelligence)                                  | ปานกลาง     |
 
-| Class                                                | Likes...       | Primary Ability       | Complexity |
-| ---------------------------------------------------- | -------------- | --------------------- | ---------- |
-| [Barbarian](/free-rules/character-classes#Barbarian) | Battle         | Strength              | Average    |
-| [Bard](/free-rules/character-classes#Bard)           | Performing     | Charisma              | High       |
-| [Cleric](/free-rules/character-classes#Cleric)       | Gods           | Wisdom                | Average    |
-| [Druid](/free-rules/character-classes#Druid)         | Nature         | Wisdom                | High       |
-| [Fighter](/free-rules/character-classes#Fighter)     | Weapons        | Strength or Dexterity | Low        |
-| [Monk](/free-rules/character-classes#Monk)           | Unarmed combat | Dexterity and Wisdom  | High       |
-| [Paladin](/free-rules/character-classes#Paladin)     | Defense        | Strength and Charisma | Average    |
-| [Ranger](/free-rules/character-classes#Ranger)       | Survival       | Dexterity and Wisdom  | Average    |
-| [Rogue](/free-rules/character-classes#Rogue)         | Stealth        | Dexterity             | Low        |
-| [Sorcerer](/free-rules/character-classes#Sorcerer)   | Power          | Charisma              | High       |
-| [Warlock](/free-rules/character-classes#Warlock)     | Occult lore    | Charisma              | High       |
-| [Wizard](/free-rules/character-classes#Wizard)       | Spellbooks     | Intelligence          | Average    |
-
-A Balanced Party
-
-The classic D&D party comprises a Cleric, Fighter, Rogue, and Wizard. Those four classes have the longest history in the game, but more importantly, they bring a balanced mix of capabilities to adventures. You’re welcome to use that party setup or modify it using these guidelines:
-
-**Cleric:** Replace with Bard or Druid
-
-**Fighter:** Replace with Barbarian, Monk, Paladin, or Ranger
-
-**Rogue:** Replace with Bard or Ranger
-
-**Wizard:** Replace with Bard, Sorcerer, or Warlock
+> **คณะผจญภัยที่สมดุลย์**
+>
+> คณะผจญภัยแบบคลาสสิกของ D&D ประกอบด้วย เคลอริก, ไฟท์เตอร์, โร็ก, และวิซาร์ด ทั้งสี่คลาสนี้มีประวัติศาสตร์อันยาวนานในเกม แต่สิ่งที่สำคัญกว่าคือเป็นการผสมความสามารถกันทำให้เกิดความสมดุลย์ คุณสามารถใช้รูปแบบนี้หรือปรับเปลี่ยนโดยใช้คำแนะนำด้านล่าง:
+>
+> **เคลอริก:** แทนที่ด้วยบาร์ดหรือดรูอิด
+>
+> **ไฟท์เตอร์:** แทนที่ด้วยบาร์บาเรียน, มองค์, พาลาดิน หรือเรนเจอร์
+>
+> **โร็ก:** แทนที่ด้วยบาร์ดหรือเรนเจอร์
+>
+> **วิซาร์ด:** แทนที่ด้วยบาร์ด, ซอร์เซอร์เรอร์ หรือวอร์ล็อค
 
 #### Write Your Level {#WriteYourLevel}
 
