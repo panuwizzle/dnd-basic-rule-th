@@ -1,86 +1,86 @@
 ---
 layout: book
-title: Character Origins
+title: ต้นกำเนิดตัวละคร - Character Origins
 menu: free-rules-start-play
 ---
 
-# Character Origins
+# ต้นกำเนิดตัวละคร
 
-This chapter describes the two components of an adventurer’s origin: [background](/free-rules/character-origins#BackgroundDescriptions) and [species](/free-rules/character-origins#SpeciesDescriptions). Together, these elements suggest your character’s early experience and family origin before taking up the adventuring life and learning the capabilities of a class (described in [chapter 3](/free-rules/character-classes/)).
+บทนี้จะอธิบายถึงองค์ประกอบสองส่วนของต้นกำเนิดนักผจญภัย: [ภูมิหลัง (background)](/free-rules/character-origins#BackgroundDescriptions) และ [เผ่าพันธุ์ (species)](/free-rules/character-origins#SpeciesDescriptions) เมื่อมารวมกันแล้ว องค์ประกอบนี้จะบ่งบอกถึงประสบการณ์ในช่วงเริ่มต้นของตัวละครและชีวิตครอบครัวก่อนที่จะเลือกชีวิตนักผจญภัยและเรียนรู้ความสามารถของคลาส (อธิบายใน [บทที่ 3](/free-rules/character-classes/))
 
-## Origin Components {#OriginComponents}
+## องค์ประกอบของต้นกำเนิด {#OriginComponents}
 
-Each part of your character’s origin reflects facets of your character, their life, and the circumstances that started them on the path to adventure.
+แต่ละส่วนของต้นกำเนิดของตัวละครจะสะท้อนความเป็นตัวตน, ชีวิต และเหตุการณ์ที่เกิดขึ้นที่ทำให้พวกเขาเลือกเส้นทางการเป็นนักผจญภัย
 
-If you choose a background or a species from an older book, see the sidebar “[Backgrounds and Species from Older Books](/free-rules/creating-a-character#BackgroundsandSpeciesfromOlderBooks)” in [chapter 2](/free-rules/creating-a-character) for how to use them with the options here.
+ถ้าคุณเลือกภูมิหลัง (background) หรือเผ่าพันธุ์ (species) จากหนังสือเล่มเก่า, ดูส่วนเสริม “[ภูมิหลังและเผ่าพันธุ์จากเล่มที่เก่ากว่า](/free-rules/creating-a-character#BackgroundsandSpeciesfromOlderBooks)” ใน [บทที่ 2](/free-rules/creating-a-character) ประกอบการใช้ตัวเลือกในบทนี้
 
-### Character Backgrounds {#CharacterBackgrounds}
+### ภูมิหลังตัวละคร {#CharacterBackgrounds}
 
-Your character’s background is a collection of characteristics that represent the place and occupation that were most formative before your character embarked on a life of adventure.
+ภูมิหลังของตัวละครของคุณเป็นเรื่องราวรวบยอดเกี่ยวกับสถานที่และหน้าที่การงานที่มีผลกับตัวละครก่อนที่จะออกมาใช้ชีวิตนักผจญภัย
 
-Each background includes a brief narrative of what your character’s past might have been like. Alter the details of this narrative however you like.
+ภูมิหลังแต่ละอย่างจะบรรยายคร่าว ๆ ถึงสิ่งที่ตัวละครของคุณน่าจะพบเจอมาในอดีต คุณสามารถปรับเปลี่ยนได้ตามต้องการ
 
-#### Parts of a Background {#PartsofaBackground}
+#### ส่วนต่าง ๆ ของภูมิหลัง {#PartsofaBackground}
 
-A background includes the following parts.
+ภูมิหลังจากประกอบไปด้วยหลายส่วนดังนี้
 
-**_Ability Scores._** A background lists three of your character’s ability scores. Increase one by 2 and another one by 1, or increase all three by 1. None of these increases can raise a score above 20.
+**_คะแนนความสามารถ_** ภูมิหลังจะมีผลกับคะแนนความสามารถสามด้านของตัวละครของคุณ เพิ่มให้ความสามารถหนึ่งด้าน 2 คะแนนและอีกหนึ่งด้าน 1 คะแนน หรือเพิ่มสามด้าน ด้านละ 1 คะแนน คะแนนความสามารถจะมีได้ไม่เกิน 20
 
-**_Feat._** A background gives your character a specified Origin feat (described in [chapter 5](/free-rules/feats#OriginFeats)).
+**_คุณลักษณะ (feat)_** ภูมิหลังจะให้คุณลักษณะต้นกำเนิด (Origin feat) กับตัวละครของคุณ (อธิบายใน [บทที่ 5](/free-rules/feats#OriginFeats))
 
-**_Skill Proficiencies._** A background gives your character proficiency in two specified skills.
+**_ความชำนาญในทักษะ_** ภูมิหลังจะให้ความเชี่ยวชาญในทักษะกับตัวละครของคุณ 2 ทักษะ
 
-**_Tool Proficiency._** Each background gives a character proficiency with one tool—either a specific tool or one chosen from the Artisan’s Tools category. Tools are detailed in [chapter 6](/free-rules/equipment#Tools).
+**_ความชำนาญในการใช้เครื่องมือ_** ภูมิหลังแต่ละอย่างจะให้ความชำนาญในการใช้เครื่องมือ 1 อย่าง อาจเป็นเครื่องมือเฉพาะหรือเลือกจากกลุ่มเครื่องมือช่างฝีมือ (Artisan's Tools) เครื่องมือจะมีรายละเอียดใน [บทที่ 6](/free-rules/equipment#Tools)
 
-**_Equipment._** Each background offers a choice between a package of equipment and 50 GP.
+**_อุปกรณ์_** ภูมิหลังแต่ละอย่างจะให้ให้คุณเลือกได้ระหว่างชุดอุปกรณ์กับเงิน 50 GP
 
-### Character Species {#CharacterSpecies}
+### เผ่าพันธุ์ของตัวละคร {#CharacterSpecies}
 
-When you choose your character’s species, you determine whether your character is a human or a member of a fantastical species, such as dragonborn or gnome.
+เมื่อคุณเลือกเผ่าพันธุ์ คุณจะกำหนดว่าตัวละครของคุณเป็นมนุษย์หรือเป็นสมาชิกของเผ่าพันธุ์แฟนตาซีต่าง ๆ เช่น ดรากอนบอร์นหรือโนม
 
-The peoples of the D&D multiverse hail from different worlds and include many kinds of sapient life forms. A player character’s species is the set of game traits that an adventurer gains from being one of those life forms.
+ผู้คนในพหุจักรวาลของ D&D ถูกนำมาจากโลกต่าง ๆ ที่มีสิ่งมีชีวิตที่ทรงภูมิปัญญาอันหลากหลาย เผ่าพันธุ์ของตัวละครจะบ่งบอกถึงคุณสมบัติ (trait) ที่นักผจญภัยจะได้รับจากการเป็นสมาชิกคนหนึ่งจากเผ่าพันธุ์นั้น ๆ
 
-Some species can trace their origin to a single world, plane of existence, or god, while other species first appeared in multiple realms at once. Whatever a species’ genesis, its members have spread across the multiverse and contribute to many different cultures.
+บางเผ่าพันธุ์สามารถสืบย้อนต้นกำเนิดของตนไปถึงดาวดวงหนึ่ง, มิติเฉพาะ, หรือจากเทพเจ้า ขณะที่เผ่าพันธุ์อื่น ๆ ปรากฏตัวขึ้นครั้งแรกในหลากหลายมิติในคราวเดียว ไม่ว่าต้นกำเนิดของเผ่าพันธุ์จากมาจากที่ใด สมาชิกของเผ่าพันธุ์ก็กระจายกันอยู่ในทุกที่และเป็นส่วนหนึ่งของหลากหลายวัฒนธรรม
 
-Members of most species live for about 80 years, with exceptions noted in the text about the species in this chapter. Regardless of life span, members of all species reach physical maturity at about the same age. Your character can be any age that isn’t beyond their species’ normal life span.
+สมาชิกของเผ่าพันธุ์ส่วนใหญ่จะมีช่วงชีวิตอยู่ราว 80 ปี บ้างก็มีข้อยกเว้นซึ่งมีอธิบายในบทนี้ นอกจากอายุขัยแล้ว ทุกเผ่าพันธุ์จะเข้าสู่วัยผู้ใหญ่ในเวลาไล่เลี่ยกัน ตัวละครของคุณสามารถมีอายุเท่าไรก็ได้ตราบใดที่ไม่เกิดช่วงอายุขัยปกติของเผ่าพันธุ์นั้น
 
-#### Parts of a Species {#PartsofaSpecies}
+#### ส่วนต่าง ๆ ของเผ่าพันธุ์ {#PartsofaSpecies}
 
-A species includes the following parts.
+เผ่าพันธุ์จะมีส่วนต่าง ๆ ดังนี้
 
-**_Creature Type._** A character’s species determines the character’s creature type, which is described in the rules glossary. Every species in this chapter is Humanoid; playable non-Humanoid species appear in other D&D books.
+**_ชนิดของสิ่งมีชีวิต_** เผ่าพันธุ์ของตัวละครจะกำหนดชนิดของสิ่งมีชีวิต ซึ่งจะมีอธิบายในรายการกฏ ทุกเผ่าพันธุ์ในบทนี้จะเป็น สิ่งมีชีวิตร่างมนุษย์ (Humanoid) เผ่าพันธุ์ที่ต่างออกไปที่สามารถนำมาเล่นได้จะอยู่ในหนังสือเล่มอื่น ๆ
 
-**_Size._** Your character’s species determines the character’s size. Individuals within a species cover a wide range of heights, and some species include such diversity of size that you can choose whether your character is Small or Medium.
+**_ขนาด_** เผ่าพันธุ์ของตัวละครของคุณจะเป็นตัวกำหนดขนาดของตัวละคร แต่ละคนในเผ่าพันธุ์มีความสูงไม่เท่ากัน และในบางเผ่าพันธุ์มีความแตกต่างกันจนคุณสามารถเลือกได้ว่าตัวละครจะมีขนาดเล็ก (Small) หรือขนาดกลาง (Medium)
 
-**_Speed._** Your character’s species determines the character’s Speed.
+**_ความเร็ว_** เผ่าพันธุ์ของตัวละครจะเป็นตัวกำหนดความเร็วในการเคลื่อนที่ (Speed)
 
-**_Special Traits._** Each species gives a character special traits—unique characteristics based on the species’ physiology or magical nature. When you choose a species, your character gets all the special traits listed for it. Some traits involve making a choice from a handful of options.
+**_คุณสมบัติพิเศษ_** แต่ละเผ่าพันธุ์จะมีคุณสมบัติพิเศษ เป็นสิ่งเฉพาะที่เกิดจากลักษณะร่างกายหรือจากธรรมชาติที่เกี่ยวข้องกับเวทย์มนต์ เมื่อคุณเลือกเผ่าพันธุ์ ตัวละครของคุณจะได้รับคุณสมบัติพิเศษที่มีในรายการทั้งหมด คุณสมบัติบางอย่างจะมีตัวเลือกให้คุณได้เลือกใช้ได้
 
-## Background Descriptions {#BackgroundDescriptions}
+## รายละเอียดภูมิหลัง {#BackgroundDescriptions}
 
-Four backgrounds are presented in this section in alphabetical order:
+มีภูมิหลังสี่แบบในบทนี้เรียงตามตัวอักษร:
 
-[Acolyte](/free-rules/character-origins#Acolyte)
+[สาวก (Acolyte)](/free-rules/character-origins#Acolyte)
 
-[Criminal](/free-rules/character-origins#Criminal)
+[อาชญากร (Criminal)](/free-rules/character-origins#Criminal)
 
-[Sage](/free-rules/character-origins#Sage)
+[บัณฑิต (Sage)](/free-rules/character-origins#Sage)
 
-[Soldier](/free-rules/character-origins#Soldier)
+[ทหาร (Soldier)](/free-rules/character-origins#Soldier)
 
 ---
 
-### Acolyte {#Acolyte}
+### สาวก (Acolyte) {#Acolyte}
 
-**Ability Scores:** Intelligence, Wisdom, Charisma
+**คะแนนความสามารถ:** Intelligence, Wisdom, Charisma
 
-**Feat:** Magic Initiate (Cleric) (see [chapter 5](/free-rules/feats#MagicInitiate))
+**คุณลักษณะ (feat):** ผู้ใช้เวทย์ฝึกหัด (เคลอริก) (ดู [บทที่ 5](/free-rules/feats#MagicInitiate))
 
-**Skill Proficiencies:** [Insight](/free-rules/playing-the-game#Skills) and [Religion](/free-rules/playing-the-game#Skills)
+**ทักษะที่ชำนาญ:** [การมองทะลุ (Insight)](/free-rules/playing-the-game#Skills) และ [ศาสนา (Religion)](/free-rules/playing-the-game#Skills)
 
-**Tool Proficiency:** Calligrapher’s Supplies
+**อุปกรณ์ที่ชำนาญ:** ชุดอุปกรณ์สำหรับช่างเขียนอักษร
 
-**Equipment:** _Choose A or B:_ (A) [Calligrapher’s Supplies](https://www.dndbeyond.com/equipment/404-calligraphers-supplies), [Book](https://www.dndbeyond.com/equipment/439-book) (prayers), [Holy Symbol](https://www.dndbeyond.com/equipment/514-holy-symbol), [Parchment](https://www.dndbeyond.com/equipment/395-parchment) (10 sheets), [Robe](https://www.dndbeyond.com/equipment/412-robe), 8 GP; or (B) 50 GP
+**อุปกรณ์:** *เลือก A หรือ B:* (A) [ชุดอุปกรณ์สำหรับช่างเขียนอักษร (Calligrapher’s Supplies)](https://www.dndbeyond.com/equipment/404-calligraphers-supplies), [สมุด (Book)](https://www.dndbeyond.com/equipment/439-book) (prayers), [สัญลักษณ์ศักดิ์สิทธิ์ (Holy Symbol)](https://www.dndbeyond.com/equipment/514-holy-symbol), [กระดาษเปล่า (Parchment)](https://www.dndbeyond.com/equipment/395-parchment) (10 sheets), [ผ้าคลุม (Robe)](https://www.dndbeyond.com/equipment/412-robe), 8 GP; or (B) 50 GP
 
 You devoted yourself to service in a temple, either nestled in a town or secluded in a sacred grove. There you performed rites in honor of a god or pantheon. You served under a priest and studied religion. Thanks to your priest’s instruction and your own devotion, you also learned how to channel a modicum of divine power in service to your place of worship and the people who prayed there.
 
@@ -88,15 +88,15 @@ You devoted yourself to service in a temple, either nestled in a town or seclude
 
 ### Criminal {#Criminal}
 
-**Ability Scores:** Dexterity, Constitution, Intelligence
+**คะแนนความสามารถ:** Dexterity, Constitution, Intelligence
 
-**Feat:** Alert (see [chapter 5](/free-rules/feats#Alert))
+**คุณลักษณะ (feat):** Alert (ดู [บทที่ 5](/free-rules/feats#Alert))
 
-**Skill Proficiencies:** [Sleight of Hand](/free-rules/playing-the-game#Skills) and [Stealth](/free-rules/playing-the-game#Skills)
+**ทักษะที่ชำนาญ:** [Sleight of Hand](/free-rules/playing-the-game#Skills) and [Stealth](/free-rules/playing-the-game#Skills)
 
-**Tool Proficiency:** Thieves’ Tools
+**อุปกรณ์ที่ชำนาญ:** Thieves’ Tools
 
-**Equipment:** _Choose A or B:_ (A) 2 [Daggers](https://www.dndbeyond.com/equipment/3-dagger), [Thieves’ Tools](https://www.dndbeyond.com/equipment/495-thieves-tools), [Crowbar](https://www.dndbeyond.com/equipment/535-crowbar), 2 [Pouches](https://www.dndbeyond.com/equipment/403-pouch), [Traveler’s Clothes](https://www.dndbeyond.com/equipment/541-travelers-clothes), 16 GP; or (B) 50 GP
+**อุปกรณ์:** *Choose A or B:* (A) 2 [Daggers](https://www.dndbeyond.com/equipment/3-dagger), [Thieves’ Tools](https://www.dndbeyond.com/equipment/495-thieves-tools), [Crowbar](https://www.dndbeyond.com/equipment/535-crowbar), 2 [Pouches](https://www.dndbeyond.com/equipment/403-pouch), [Traveler’s Clothes](https://www.dndbeyond.com/equipment/541-travelers-clothes), 16 GP; or (B) 50 GP
 
 You eked out a living in dark alleyways, cutting purses or burgling shops. Perhaps you were part of a small gang of like-minded wrongdoers who looked out for each other. Or maybe you were a lone wolf, fending for yourself against the local thieves’ guild and more fearsome lawbreakers.
 
@@ -104,15 +104,15 @@ You eked out a living in dark alleyways, cutting purses or burgling shops. Perha
 
 ### Sage {#Sage}
 
-**Ability Scores:** Constitution, Intelligence, Wisdom
+**คะแนนความสามารถ:** Constitution, Intelligence, Wisdom
 
-**Feat:** Magic Initiate (Wizard) (see [chapter 5](/free-rules/feats#MagicInitiate))
+**คุณลักษณะ (feat):** Magic Initiate (Wizard) (ดู [บทที่ 5](/free-rules/feats#MagicInitiate))
 
-**Skill Proficiencies:** [Arcana](/free-rules/playing-the-game#Skills) and [History](/free-rules/playing-the-game#Skills)
+**ทักษะที่ชำนาญ:** [Arcana](/free-rules/playing-the-game#Skills) and [History](/free-rules/playing-the-game#Skills)
 
-**Tool Proficiency:** Calligrapher’s Supplies
+**อุปกรณ์ที่ชำนาญ:** Calligrapher’s Supplies
 
-**Equipment:** _Choose A or B:_ (A) [Quarterstaff](https://www.dndbeyond.com/equipment/12-quarterstaff), [Calligrapher’s Supplies](https://www.dndbeyond.com/equipment/404-calligraphers-supplies), [Book](https://www.dndbeyond.com/equipment/439-book) (history), [Parchment](https://www.dndbeyond.com/equipment/395-parchment) (8 sheets), [Robe](https://www.dndbeyond.com/equipment/412-robe), 8 GP; or (B) 50 GP
+**อุปกรณ์:** *Choose A or B:* (A) [Quarterstaff](https://www.dndbeyond.com/equipment/12-quarterstaff), [Calligrapher’s Supplies](https://www.dndbeyond.com/equipment/404-calligraphers-supplies), [Book](https://www.dndbeyond.com/equipment/439-book) (history), [Parchment](https://www.dndbeyond.com/equipment/395-parchment) (8 sheets), [Robe](https://www.dndbeyond.com/equipment/412-robe), 8 GP; or (B) 50 GP
 
 You spent your formative years traveling between manors and monasteries, performing various odd jobs and services in exchange for access to their libraries. You whiled away many a long evening studying books and scrolls, learning the lore of the multiverse—even the rudiments of magic—and your mind yearns for more.
 
@@ -120,15 +120,15 @@ You spent your formative years traveling between manors and monasteries, perform
 
 ### Soldier {#Soldier}
 
-**Ability Scores:** Strength, Dexterity, Constitution
+**คะแนนความสามารถ:** Strength, Dexterity, Constitution
 
-**Feat:** Savage Attacker (see [chapter 5](/free-rules/feats#SavageAttacker))
+**คุณลักษณะ (feat):** Savage Attacker (ดู [บทที่ 5](/free-rules/feats#SavageAttacker))
 
-**Skill Proficiencies:** [Athletics](/free-rules/playing-the-game#Skills) and [Intimidation](/free-rules/playing-the-game#Skills)
+**ทักษะที่ชำนาญ:** [Athletics](/free-rules/playing-the-game#Skills) and [Intimidation](/free-rules/playing-the-game#Skills)
 
-**Tool Proficiency:** _Choose one kind of Gaming Set_ (see [chapter 6](/free-rules/equipment#GamingSetVaries))
+**อุปกรณ์ที่ชำนาญ:** *Choose one kind of Gaming Set* (see [chapter 6](/free-rules/equipment#GamingSetVaries))
 
-**Equipment:** _Choose A or B:_ (A) [Spear](https://www.dndbeyond.com/equipment/14-spear), [Shortbow](https://www.dndbeyond.com/equipment/17-shortbow), 20 [Arrows](https://www.dndbeyond.com/equipment/508-arrows), Gaming Set (same as above), [Healer’s Kit](https://www.dndbeyond.com/equipment/515-healers-kit), [Quiver](https://www.dndbeyond.com/equipment/407-quiver), [Traveler’s Clothes](https://www.dndbeyond.com/equipment/541-travelers-clothes), 14 GP; or (B) 50 GP
+**อุปกรณ์:** *Choose A or B:* (A) [Spear](https://www.dndbeyond.com/equipment/14-spear), [Shortbow](https://www.dndbeyond.com/equipment/17-shortbow), 20 [Arrows](https://www.dndbeyond.com/equipment/508-arrows), Gaming Set (same as above), [Healer’s Kit](https://www.dndbeyond.com/equipment/515-healers-kit), [Quiver](https://www.dndbeyond.com/equipment/407-quiver), [Traveler’s Clothes](https://www.dndbeyond.com/equipment/541-travelers-clothes), 14 GP; or (B) 50 GP
 
 You began training for war as soon as you reached adulthood and carry precious few memories of life before you took up arms. Battle is in your blood. Sometimes you catch yourself reflexively performing the basic fighting exercises you learned first. Eventually, you put that training to use on the battlefield, protecting the realm by waging war.
 
@@ -213,11 +213,12 @@ When you reach character levels 3 and 5, you learn a higher-level spell, as show
 **_Trance._** You don’t need to sleep, and magic can’t put you to sleep. You can finish a [Long Rest](/free-rules/rules-glossary#LongRest) in 4 hours if you spend those hours in a trancelike meditation, during which you retain consciousness.
 
 ##### Elven Lineages {#ElvenLineages}
-|Lineage|Level 1|Level 3|Level 5|
-|---|---|---|---|
-|Drow|The range of your [Darkvision](/free-rules/rules-glossary#Darkvision) increases to 120 feet. You also know the [Dancing Lights](https://www.dndbeyond.com/spells/2619058-dancing-lights) cantrip.|[Faerie Fire](https://www.dndbeyond.com/spells/2618858-faerie-fire)|[Darkness](https://www.dndbeyond.com/spells/2619080-darkness)|
-|High Elf|You know the [Prestidigitation](https://www.dndbeyond.com/spells/2618893-prestidigitation) cantrip. Whenever you finish a [Long Rest](/free-rules/rules-glossary#LongRest), you can replace that cantrip with a different cantrip from the [Wizard spell list](/free-rules/character-classes#WizardSpellList).|[Detect Magic](https://www.dndbeyond.com/spells/2619097-detect-magic)|[Misty Step](https://www.dndbeyond.com/spells/2619133-misty-step)|
-|Wood Elf|Your Speed increases to 35 feet. You also know the [Druidcraft](https://www.dndbeyond.com/spells/2619158-druidcraft) cantrip.|[Longstrider](https://www.dndbeyond.com/spells/2619004-longstrider)|[Pass without Trace](https://www.dndbeyond.com/spells/2618849-pass-without-trace)|
+
+| Lineage  | Level 1                                                                                                                                                                                                                                                                                                        | Level 3                                                               | Level 5                                                                           |
+| -------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------- | --------------------------------------------------------------------------------- |
+| Drow     | The range of your [Darkvision](/free-rules/rules-glossary#Darkvision) increases to 120 feet. You also know the [Dancing Lights](https://www.dndbeyond.com/spells/2619058-dancing-lights) cantrip.                                                                                                              | [Faerie Fire](https://www.dndbeyond.com/spells/2618858-faerie-fire)   | [Darkness](https://www.dndbeyond.com/spells/2619080-darkness)                     |
+| High Elf | You know the [Prestidigitation](https://www.dndbeyond.com/spells/2618893-prestidigitation) cantrip. Whenever you finish a [Long Rest](/free-rules/rules-glossary#LongRest), you can replace that cantrip with a different cantrip from the [Wizard spell list](/free-rules/character-classes#WizardSpellList). | [Detect Magic](https://www.dndbeyond.com/spells/2619097-detect-magic) | [Misty Step](https://www.dndbeyond.com/spells/2619133-misty-step)                 |
+| Wood Elf | Your Speed increases to 35 feet. You also know the [Druidcraft](https://www.dndbeyond.com/spells/2619158-druidcraft) cantrip.                                                                                                                                                                                  | [Longstrider](https://www.dndbeyond.com/spells/2619004-longstrider)   | [Pass without Trace](https://www.dndbeyond.com/spells/2618849-pass-without-trace) |
 
 ### Halfling {#Halfling}
 
