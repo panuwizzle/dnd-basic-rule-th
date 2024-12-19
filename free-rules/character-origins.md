@@ -60,7 +60,7 @@ menu: free-rules-start-play
 
 มีภูมิหลังสี่แบบในบทนี้เรียงตามตัวอักษร:
 
-[สาวก (Acolyte)](/free-rules/character-origins#Acolyte)
+[สานุศิษย์ (Acolyte)](/free-rules/character-origins#Acolyte)
 
 [อาชญากร (Criminal)](/free-rules/character-origins#Criminal)
 
@@ -70,115 +70,115 @@ menu: free-rules-start-play
 
 ---
 
-### สาวก (Acolyte) {#Acolyte}
+### สานุศิษย์ (Acolyte) {#Acolyte}
 
 **คะแนนความสามารถ:** Intelligence, Wisdom, Charisma
 
-**คุณลักษณะ (feat):** ผู้ใช้เวทย์ฝึกหัด (เคลอริก) (ดู [บทที่ 5](/free-rules/feats#MagicInitiate))
+**คุณลักษณะ (feat):** ผู้ใช้เวทย์ฝึกหัด (Magic Initiate) (เคลอริก) (ดู [บทที่ 5](/free-rules/feats#MagicInitiate))
 
 **ทักษะที่ชำนาญ:** [การมองทะลุ (Insight)](/free-rules/playing-the-game#Skills) และ [ศาสนา (Religion)](/free-rules/playing-the-game#Skills)
 
 **อุปกรณ์ที่ชำนาญ:** ชุดอุปกรณ์สำหรับช่างเขียนอักษร
 
-**อุปกรณ์:** *เลือก A หรือ B:* (A) [ชุดอุปกรณ์สำหรับช่างเขียนอักษร (Calligrapher’s Supplies)](https://www.dndbeyond.com/equipment/404-calligraphers-supplies), [สมุด (Book)](https://www.dndbeyond.com/equipment/439-book) (prayers), [สัญลักษณ์ศักดิ์สิทธิ์ (Holy Symbol)](https://www.dndbeyond.com/equipment/514-holy-symbol), [กระดาษเปล่า (Parchment)](https://www.dndbeyond.com/equipment/395-parchment) (10 sheets), [ผ้าคลุม (Robe)](https://www.dndbeyond.com/equipment/412-robe), 8 GP; or (B) 50 GP
+**อุปกรณ์:** *เลือก A หรือ B:* (A) [ชุดอุปกรณ์สำหรับช่างเขียนอักษร (Calligrapher’s Supplies)](https://www.dndbeyond.com/equipment/404-calligraphers-supplies), [หนังสือ (Book)](https://www.dndbeyond.com/equipment/439-book) (บทสวดมนต์), [สัญลักษณ์ศักดิ์สิทธิ์ (Holy Symbol)](https://www.dndbeyond.com/equipment/514-holy-symbol), [กระดาษเปล่า (Parchment)](https://www.dndbeyond.com/equipment/395-parchment) (10 แผ่น), [ชุดคลุม (Robe)](https://www.dndbeyond.com/equipment/412-robe), 8 GP; หรือ (B) 50 GP
 
-You devoted yourself to service in a temple, either nestled in a town or secluded in a sacred grove. There you performed rites in honor of a god or pantheon. You served under a priest and studied religion. Thanks to your priest’s instruction and your own devotion, you also learned how to channel a modicum of divine power in service to your place of worship and the people who prayed there.
+คุณอุทิศชีวิตให้กับกิจการของวิหาร ทั้งที่อยู่ในเมืองและซ่อนเร้นอยู่ในป่าเขา ที่ที่คุณประกอบพิธีกรรมเพื่อเทิดทูนเทพเจ้าหรือเหล่าเทพ คุณรับใช้ภายใต้นักบวชและเรียนรู้หลักธรรมทางศาสนา ต้องขอบคุณการสอนของนักบวชและความเพียรของคุณ คุณเรียนรู้ที่จะเชื่อมต่อกับสิ่งศักดิ์สิทธิ์ได้บ้างและนำพลังมาใช้ช่วยเหลือผู้คนได้
 
 ---
 
-### Criminal {#Criminal}
+### อาชญากร (Criminal) {#Criminal}
 
 **คะแนนความสามารถ:** Dexterity, Constitution, Intelligence
 
-**คุณลักษณะ (feat):** Alert (ดู [บทที่ 5](/free-rules/feats#Alert))
+**คุณลักษณะ (feat):** ตื่นตัว (Alert) (ดู [บทที่ 5](/free-rules/feats#Alert))
 
-**ทักษะที่ชำนาญ:** [Sleight of Hand](/free-rules/playing-the-game#Skills) and [Stealth](/free-rules/playing-the-game#Skills)
+**ทักษะที่ชำนาญ:** [มือไว (Sleight of Hand)](/free-rules/playing-the-game#Skills) และ [ลอบเร้น (Stealth)](/free-rules/playing-the-game#Skills)
 
-**อุปกรณ์ที่ชำนาญ:** Thieves’ Tools
+**อุปกรณ์ที่ชำนาญ:** เครื่องมือโจร (Thieves’ Tools)
 
-**อุปกรณ์:** *Choose A or B:* (A) 2 [Daggers](https://www.dndbeyond.com/equipment/3-dagger), [Thieves’ Tools](https://www.dndbeyond.com/equipment/495-thieves-tools), [Crowbar](https://www.dndbeyond.com/equipment/535-crowbar), 2 [Pouches](https://www.dndbeyond.com/equipment/403-pouch), [Traveler’s Clothes](https://www.dndbeyond.com/equipment/541-travelers-clothes), 16 GP; or (B) 50 GP
+**อุปกรณ์:** *เลือก A หรือ B:* (A) 2 [กริช (Daggers)](https://www.dndbeyond.com/equipment/3-dagger), [เครื่องมือโจร (Thieves’ Tools)](https://www.dndbeyond.com/equipment/495-thieves-tools), [ชะแลง (Crowbar)](https://www.dndbeyond.com/equipment/535-crowbar), 2 [ถุงเล็ก (Pouches)](https://www.dndbeyond.com/equipment/403-pouch), [เสื้อผ้านักเดินทาง (Traveler’s Clothes)](https://www.dndbeyond.com/equipment/541-travelers-clothes), 16 GP; หรือ (B) 50 GP
 
-You eked out a living in dark alleyways, cutting purses or burgling shops. Perhaps you were part of a small gang of like-minded wrongdoers who looked out for each other. Or maybe you were a lone wolf, fending for yourself against the local thieves’ guild and more fearsome lawbreakers.
+คุณใช้ชีวิตอยู่ในตรอกมืด กรีดกระเป๋าหรือย่องเบาร้านค้า บางทีคุณอาจจะเป็นส่วนหนึ่งของแก๊งเล็ก ๆ ที่ฉกชิงวิ่งราวไปเรื่อยและคอยดูแลกันและกัน หรือคุณอาจจะเป็นหมาป่าโดดเดี่ยว ป้องกันตัวเองจากแก๊งโจรท้องถิ่นและพวกนอกกฏหมายที่น่ากลัว
 
 ---
 
-### Sage {#Sage}
+### บัณฑิต (Sage) {#Sage}
 
 **คะแนนความสามารถ:** Constitution, Intelligence, Wisdom
 
-**คุณลักษณะ (feat):** Magic Initiate (Wizard) (ดู [บทที่ 5](/free-rules/feats#MagicInitiate))
+**คุณลักษณะ (feat):** ผู้ใช้เวทย์ฝึกหัด (Magic Initiate) (วิซาร์ด) (ดู [บทที่ 5](/free-rules/feats#MagicInitiate))
 
-**ทักษะที่ชำนาญ:** [Arcana](/free-rules/playing-the-game#Skills) and [History](/free-rules/playing-the-game#Skills)
+**ทักษะที่ชำนาญ:** [เรื่องเล่าลึกลับ (Arcana)](/free-rules/playing-the-game#Skills) และ [ประวัติศาสตร์ (History)](/free-rules/playing-the-game#Skills)
 
-**อุปกรณ์ที่ชำนาญ:** Calligrapher’s Supplies
+**อุปกรณ์ที่ชำนาญ:** ชุดอุปกรณ์สำหรับช่างเขียนอักษร (Calligrapher’s Supplies)
 
-**อุปกรณ์:** *Choose A or B:* (A) [Quarterstaff](https://www.dndbeyond.com/equipment/12-quarterstaff), [Calligrapher’s Supplies](https://www.dndbeyond.com/equipment/404-calligraphers-supplies), [Book](https://www.dndbeyond.com/equipment/439-book) (history), [Parchment](https://www.dndbeyond.com/equipment/395-parchment) (8 sheets), [Robe](https://www.dndbeyond.com/equipment/412-robe), 8 GP; or (B) 50 GP
+**อุปกรณ์:** *เลือก A หรือ B:* (A) [ไม้พลอง (Quarterstaff)](https://www.dndbeyond.com/equipment/12-quarterstaff), [ชุดอุปกรณ์สำหรับช่างเขียนอักษร (Calligrapher’s Supplies)](https://www.dndbeyond.com/equipment/404-calligraphers-supplies), [หนังสือ (Book)](https://www.dndbeyond.com/equipment/439-book) (ประวัติศาสตร์), [กระดาษเปล่า (Parchment)](https://www.dndbeyond.com/equipment/395-parchment) (8 แผ่น), [ชุดคลุม (Robe)](https://www.dndbeyond.com/equipment/412-robe), 8 GP; หรือ (B) 50 GP
 
-You spent your formative years traveling between manors and monasteries, performing various odd jobs and services in exchange for access to their libraries. You whiled away many a long evening studying books and scrolls, learning the lore of the multiverse—even the rudiments of magic—and your mind yearns for more.
+คุณใช้เวลาหลายปีในการเดินทางไปมาระหว่างคฤหาสน์และอาราม ทำงานแปลก ๆ และให้บริการต่าง ๆ เพื่อให้ได้เข้าไปในหอสมุด คุณใช้เวลาส่วนใหญ่ไปกับการศึกษาหนังสือและม้วนหมายเหตุต่าง ๆ เรียนรู้เรื่องเล่าโบราณและความรู้จากทั่วพหุจักรวาล ในใจคุณมีแต่ความอยากรู้มากยิ่งขึ้นไป
 
 ---
 
-### Soldier {#Soldier}
+### ทหาร (Soldier) {#Soldier}
 
 **คะแนนความสามารถ:** Strength, Dexterity, Constitution
 
-**คุณลักษณะ (feat):** Savage Attacker (ดู [บทที่ 5](/free-rules/feats#SavageAttacker))
+**คุณลักษณะ (feat):** ผู้โจมตีอำมหิต (Savage Attacker) (ดู [บทที่ 5](/free-rules/feats#SavageAttacker))
 
-**ทักษะที่ชำนาญ:** [Athletics](/free-rules/playing-the-game#Skills) and [Intimidation](/free-rules/playing-the-game#Skills)
+**ทักษะที่ชำนาญ:** [การกรีฑา (Athletics)](/free-rules/playing-the-game#Skills) และ [การข่มขู่ (Intimidation)](/free-rules/playing-the-game#Skills)
 
-**อุปกรณ์ที่ชำนาญ:** *Choose one kind of Gaming Set* (see [chapter 6](/free-rules/equipment#GamingSetVaries))
+**อุปกรณ์ที่ชำนาญ:** *เลือกอุปกรณ์เล่นเกมหนึ่งชนิด* (ดู [บทที่ 6](/free-rules/equipment#GamingSetVaries))
 
-**อุปกรณ์:** *Choose A or B:* (A) [Spear](https://www.dndbeyond.com/equipment/14-spear), [Shortbow](https://www.dndbeyond.com/equipment/17-shortbow), 20 [Arrows](https://www.dndbeyond.com/equipment/508-arrows), Gaming Set (same as above), [Healer’s Kit](https://www.dndbeyond.com/equipment/515-healers-kit), [Quiver](https://www.dndbeyond.com/equipment/407-quiver), [Traveler’s Clothes](https://www.dndbeyond.com/equipment/541-travelers-clothes), 14 GP; or (B) 50 GP
+**อุปกรณ์:** *เลือก A หรือ B:* (A) [หอก (Spear)](https://www.dndbeyond.com/equipment/14-spear), [ธนูสั้น (Shortbow)](https://www.dndbeyond.com/equipment/17-shortbow), 20 [ลูกธนู (Arrows)](https://www.dndbeyond.com/equipment/508-arrows), ชุดเล่นเกม (Gaming Set) (เหมือนอุปกรณ์ที่ชำนาญ), [ชุดปฐมพยาบาล (Healer’s Kit)](https://www.dndbeyond.com/equipment/515-healers-kit), [กระบอกใส่ลูกธนู (Quiver)](https://www.dndbeyond.com/equipment/407-quiver), [เสื้อผ้านักเดินทาง (Traveler’s Clothes)](https://www.dndbeyond.com/equipment/541-travelers-clothes), 14 GP; หรือ (B) 50 GP
 
-You began training for war as soon as you reached adulthood and carry precious few memories of life before you took up arms. Battle is in your blood. Sometimes you catch yourself reflexively performing the basic fighting exercises you learned first. Eventually, you put that training to use on the battlefield, protecting the realm by waging war.
+คุณเริ่มจากการได้รับการฝึกฝนเพื่อเข้าสงครามทันทีที่คุณโตถึงเกณฑ์และพกติดตัวไปแค่ความทรงจำของชีวิตก่อนเข้ากรม สงครามอยู่ในสายเลือดคุณ บางครั้งคุณก็เด้งตัวขึ้นมาฝึกการต่อสู้พื้นฐานเหมือนที่คุณได้เรียนมา เมื่อมีโอกาสคุณก็ใช้การฝึกฝนนั้นในสนามรบ ปกป้องอาณาจักรโดยการสงคราม
 
-You grew up on the streets surrounded by similarly ill-fated castoffs, a few of them friends and a few of them rivals. You slept where you could and did odd jobs for food. At times, when the hunger became unbearable, you resorted to theft. Still, you never lost your pride and never abandoned hope. Fate is not yet finished with you.
+คุณเติบโตมาบนท้องถนนที่รายล้อมไปด้วยผู้คนที่โชคร้ายเช่นเดียวกัน บางคนเป็นเพื่อน บางคนเป็นคู่แข่ง คุณนอนในที่ที่คุณสามารถนอนได้และทำงานพิเศษเพื่อหาอาหาร บางครั้งเมื่อความหิวโหยทวีความรุนแรงขึ้น คุณก็หันไปขโมยของ แต่ถึงกระนั้น คุณก็ไม่เคยสูญเสียความภาคภูมิใจและไม่เคยละทิ้งความหวัง โชคชะตายังไม่สิ้นสุดสำหรับคุณ
 
-## Species Descriptions {#SpeciesDescriptions}
+## รายละเอียดเผ่าพันธุ์ {#SpeciesDescriptions}
 
-Four species are presented in this section in alphabetical order: [Dwarf](/free-rules/character-origins#Dwarf), [Elf](/free-rules/character-origins#Elf), [Halfling](/free-rules/character-origins#Halfling), and [Human](/free-rules/character-origins#Human).
+มีสี่เผ่าพันธุ์ในบทนี้ เรียงกันตามตัวอักษร: [ดวอร์ฟ (Dwarf)](/free-rules/character-origins#Dwarf), [เอลฟ์ (Elf)](/free-rules/character-origins#Elf), [ฮาล์ฟลิง (Halfling)](/free-rules/character-origins#Halfling), และ [มนุษย์ (Human)](/free-rules/character-origins#Human)
 
-### Dwarf {#Dwarf}
+### ดวอร์ฟ (Dwarf) {#Dwarf}
 
-Dwarves were raised from the earth in the elder days by a deity of the forge. Called by various names on different worlds—Moradin, Reorx, and others—that god gave dwarves an affinity for stone and metal and for living underground. The god also made them resilient like the mountains, with a life span of about 350 years.
+ดวอร์ฟเกิดจากพื้นปฐพีตั้งแต่ครั้งโบราณกาลโดยเทพแห่งการหลอมโลหะ ผู้ถูกเรียกขานด้วยหลากหลายนามในต่างโลก โมราดิน, รีอ็อกซ์ และอื่น ๆ เทพองค์นั้นมอบความหลงใหลในศิลา, โลหะ และการดำรงชีวิตใต้ดินแก่เหล่าดวอร์ฟทั้งหลาย เทพเจ้ายังสร้างพวกเขาให้ทรหดดั่งภูเขาและมีอายุขัยอยู่ได้ถึง 350 ปี
 
-Squat and often bearded, the original dwarves carved cities and strongholds into mountainsides and under the earth. Their oldest legends tell of conflicts with the monsters of mountaintops and the Underdark, whether those monsters were towering giants or subterranean horrors. Inspired by those tales, dwarves of any culture often sing of valorous deeds—especially of the little overcoming the mighty.
+ด้วยลำตัวล่ำและมักจะกว้าง ดวอร์ฟดั้งเดิมนั้นสร้างเมืองและปราการโดยการแกะสลักภูเขาและใต้พื้นพิภพ ตำนานโบราณของพวกเขาเล่าขานถึงการต้องปะทะกับเหล่าอสูรแห่งยอดเขาและใต้ภิภพอันเดอร์ดาร์ก (Underdark) ทั้งเหล่ายักษ์ที่สูงเสียดฟ้าหรืออสุรกายแห่งพื้นที่ใต้ดิน ด้วยแรงบันดาลใจจากเรื่องราวเหล่านั้น เหล่าดวอร์ฟในทุก ๆ ที่มักจะขับลำนำแห่งชัยชนะ โดยเฉพาะเรื่องราวของคนตัวเล็กที่ล้มยักษ์
 
-On some worlds in the multiverse, the first settlements of dwarves were built in hills or mountains, and the families who trace their ancestry to those settlements call themselves hill dwarves or mountain dwarves, respectively. The Greyhawk and Dragonlance settings have such communities.
+ในบางพิภพแห่งพหุจักรวาล การตั้งถิ่นฐานเริ่มแรกของเหล่าดวอร์ฟจะเป็นการสร้างเมืองบนเนินหรือขุนเขา และตระกูลที่สืบสาแหรกไปถึงการตั้งถิ่นฐานนั้นจะเรียกตัวเองว่า ดวอร์ฟเนินเขา หรือ ดวอร์ฟภูเขา ตามลำดับ ในเกรย์ฮอว์คและดรากอนแลนซ์จะมีพวกเขาเหล่านั้น
 
 ---
 
-#### Dwarf Traits {#DwarfTraits}
+#### คุณสมบัติของดวอร์ฟ (Dwarf Traits) {#DwarfTraits}
 
-**Creature Type:** Humanoid
+**ชนิดของสิ่งมีชีวิต:** ร่างแบบมนุษย์ (Humanoid)
 
-**Size:** Medium (about 4–5 feet tall)
+**ขนาด:** กลาง (Medium) (สูงราว 4-5 ฟุต)
 
-**Speed:** 30 feet
+**ความเร็ว:** 30 ฟุต
 
-As a Dwarf, you have these special traits.
+เมื่อเป็นดวอร์ฟ คุณจะมีคุณสมบัติพิเศษเหล่านี้
 
-**_Darkvision._** You have [Darkvision](/free-rules/rules-glossary#Darkvision) with a range of 120 feet.
+**_ดาร์กวิชัน (Darkvision)_** คุณมี [ดาร์กวิชัน (Darkvision)](/free-rules/rules-glossary#Darkvision) ในระยะ 120 ฟุต
 
-**_Dwarven Resilience._** You have Resistance to Poison damage. You also have [Advantage](/free-rules/rules-glossary#Advantage) on saving throws you make to avoid or end the [Poisoned](/free-rules/rules-glossary#PoisonedCondition) condition.
+**_ความทนทานแบบชาวดวอร์ฟ (Dwarven Resilience)_** คุณมีความต้านทาน (Resistance) ต่อความเสียหายด้วยพิษ (Poison damage) คุณยังได้ทอยป้องกันแบบ [ได้เปรียบ](/free-rules/rules-glossary#Advantage) เมื่อต้องหลบหลีกหรือจบสภาวะ [ติดพิษ (Poisoned)](/free-rules/rules-glossary#PoisonedCondition)
 
-**_Dwarven Toughness._** Your Hit Point maximum increases by 1, and it increases by 1 again whenever you gain a level.
+**_ความทรหดแบบชาวดวอร์ฟ (Dwarven Toughness)_** ฮิตพอยต์สูงสุดของคุณเพิ่มขึ้น 1 และจะเพิ่มขึ้นอีก 1 เมื่อคุณเลเวลขึ้น
 
-**_Stonecunning._** As a Bonus Action, you gain [Tremorsense](/free-rules/rules-glossary#Tremorsense) with a range of 60 feet for 10 minutes. You must be on a stone surface or touching a stone surface to use this Tremorsense. The stone can be natural or worked. You can use this Bonus Action a number of times equal to your Proficiency Bonus, and you regain all expended uses when you finish a [Long Rest](/free-rules/rules-glossary#LongRest).
+**_ความชำนาญในพื้นหิน (Stonecunning)_** โดยการใช้โบนัสแอ็คชัน คุณจะมี [สัมผัสการสั่นสะเทือน (Tremorsense)](/free-rules/rules-glossary#Tremorsense) ในระยะ 60 ฟุตเป็นเวลา 10 นาที คุณจะต้องอยู่บนพื้นที่เป็นหินหรือสัมผัสกับพื้นผิวหินเพื่อใช้ความสามารถนี้ หินนั้นสามารถเป็นได้ทั้งหินธรรมชาติหรือที่ตัดแล้ว คุณสามารถใช้โบนัสแอ็คชันนี้เป็นจำนวนครั้งเท่ากับค่าโบนัสความเชี่ยวชาญของคุณ และคุณจะได้รับจำนวนครั้งที่ใช้ได้คืนเมื่อคุณจบการ [พักยาว (Long Rest)](/free-rules/rules-glossary#LongRest)
 
-### Elf {#Elf}
+### เอลฟ์ (Elf) {#Elf}
 
-Created by the god Corellon, the first elves could change their forms at will. They lost this ability when Corellon cursed them for plotting with the deity Lolth, who tried and failed to usurp Corellon’s dominion. When Lolth was cast into the Abyss, most elves renounced her and earned Corellon’s forgiveness, but that which Corellon had taken from them was lost forever.
+สร้างขึ้นโดยเทพโคเรลลอน (Corellon) เหล่าเอลฟ์โบราณสร้างเปลี่ยนรูปร่างได้ดั่งใจนึก พวกเขาสูญเสียความสามารถนี้ไปเมื่อโคเรลลอนสาปพวกเขาเมื่อครั้งที่ไปร่วมมือกับโลธ (Lolth) ผู้ที่ได้พยายามและพ่ายแพ้ในการโค่นล้มอำนาจของโคเรลลอน เมื่อโลธถูกขับไล่ลงสู่นรก เอลฟ์ส่วนใหญ่เลิกติดตามเธอและได้รับการอภัยจากโคเรลลอน แต่สิ่งที่สูญเสียไปจากคำสาปนั้นไม่กลับมาอีกตลอดไป
 
-No longer able to shape-shift at will, the elves retreated to the Feywild, where their sorrow was deepened by that plane’s influence. Over time, curiosity led many of them to explore other planes of existence, including worlds in the Material Plane.
+เมื่อไม่สามารถเปลี่ยนร่างได้อีกแล้ว เหล่าเอลฟ์ก็หลีกเร้นเข้าสู่เฟย์ไวลด์ (Feywild) ที่ที่ทำให้พวกเขายิ่งทวีความโศกเศร้าจากอำนาจของพิภพนั้น ยิ่งนานวัน ความอยากรู้อยากเห็นนำพวกเขาหลายคนออกสำรวจพิภพแห่งการคงอยู่อื่น ๆ รวมถึงโลกในพิภพแห่งวัตถุ (Material Plane)
 
-Elves have pointed ears and lack facial and body hair. They live for around 750 years, and they don’t sleep but instead enter a trance when they need to rest. In that state, they remain aware of their surroundings while immersing themselves in memories and meditations.
+เหล่าเอลฟ์มีหูชี้และไม่มีขนบนใบหน้าและร่างกาย พวกเขาอยู่ได้ถึง 750 ปี และพวกเขาไม่จำเป็นต้องนอนแต่จะเข้าสู่ภวังค์เมื่อต้องการพักผ่อน ในขณะที่อยู่ในภวังค์นั้น พวกเขายังคงรับรู้ถึงสิ่งแวดล้อมขณะที่ว่ายเวียนอยู่ในความทรงจำและการทำสมาธิ
 
-An environment subtly transforms elves after they inhabit it for a millennium or more, and it grants them certain kinds of magic. Drow, high elves, and wood elves are examples of elves who have been transformed thus.
+สิ่งแวดล้อมมีอิทธิพลกับเหล่าเอลฟ์และทำให้พวกเขาเปลี่ยนไปตามสภาพที่อยู่หลังจากที่อาศัยมานานกว่าพันปี และมันยังให้ความสามารถเวทย์มนต์เฉพาะอย่างด้วย ชาวดราว, ไฮเอลฟ์ และวูดเอลฟ์เป็นตัวอย่างของเอลฟ์ที่ถูกเปลี่ยนสภาพไปดังกล่าว
 
-#### Drow {#Drow}
+#### ดราว (Drow) {#Drow}
 
-Drow typically dwell in the Underdark and have been shaped by it. Some drow individuals and societies avoid the Underdark altogether yet carry its magic. In the Eberron setting, for example, drow dwell in rainforests and cyclopean ruins on the continent of Xen’drik.
+ปกติดราวจะอาศัยอยู่ใต้พิภพหรืออันเดอร์ดาร์ก (Underdark) และได้รับอิทธิพลจากมัน ดราวบางคนและบางกลุ่มจะหลีกเลี่ยงพื้นที่อันเดอร์ดาร์กแต่ก็ยังได้รับเวทย์มนต์จากมันอยู่ ในเอเบอร์รอน เป็นตัวอย่าง ดราวจะอาศัยอยู่ในพื้นที่ป่าฝนและซากโบราณสถานหินในทวีปเซนดริค (Xen'drik)
 
 #### High Elves {#HighElves}
 
