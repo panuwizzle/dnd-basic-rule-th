@@ -180,51 +180,51 @@ menu: free-rules-start-play
 
 ปกติดราวจะอาศัยอยู่ใต้พิภพหรืออันเดอร์ดาร์ก (Underdark) และได้รับอิทธิพลจากมัน ดราวบางคนและบางกลุ่มจะหลีกเลี่ยงพื้นที่อันเดอร์ดาร์กแต่ก็ยังได้รับเวทย์มนต์จากมันอยู่ ในเอเบอร์รอน เป็นตัวอย่าง ดราวจะอาศัยอยู่ในพื้นที่ป่าฝนและซากโบราณสถานหินในทวีปเซนดริค (Xen'drik)
 
-#### High Elves {#HighElves}
+#### ไฮเอลฟ์ (High Elves) {#HighElves}
 
-High elves have been infused with the magic of crossings between the Feywild and the Material Plane. On some worlds, high elves refer to themselves by other names. For example, they call themselves sun or moon elves in the Forgotten Realms setting, Silvanesti and Qualinesti in the Dragonlance setting, and Aereni in the Eberron setting.
+ไฮเอลฟ์ได้รับพลังเวทย์มนต์จากการข้ามระหว่างเฟย์ไวลด์และพิภพแห่งวัตถุ ในบางโลก ไฮเอลฟ์จะเรียกตัวเองด้วยชื่ออื่น เช่น ในโลกของอาณาจักรที่ถูกลืมเลือนพวกเขาจะเรียกตัวเองว่าเอลฟ์อาทิตย์และเอลฟ์ดวงจันทร์ ซิลวาเนสติและควาลิเนสติในดรากอนแลนซ์ และเอเรนีในโลกของเอเบอรอน
 
-#### Wood Elves {#WoodElves}
+#### วูดเอลฟ์ (Wood Elves) {#WoodElves}
 
-Wood elves carry the magic of primeval forests within themselves. They are known by many other names, including wild elves, green elves, and forest elves. Grugach are reclusive wood elves of the Greyhawk setting, while the Kagonesti and the Tairnadal are wood elves of the Dragonlance and Eberron settings, respectively.
+วูดเอลฟ์มีเวทย์มนต์แห่งป่าดึกดำบรรพ์อยู่ในร่างกาย พวกเขาเป็นที่รู้จักกันในหลากหลายชื่อ ทั้งเอลฟ์พงไพร เอลฟ์เขียว และเอลฟ์ป่า กรูกาชเป็นวูดเอลฟ์สันโดษในโลกของเกรย์ฮอว์ค ขณะที่คาโกเนสติและเทร์นาดาลเป็นวูดเอลฟ์ในดรากอนแลนซ์และเอเบอรอน
 
 ---
 
-#### Elf Traits {#ElfTraits}
+#### คุณสมบัติของเอลฟ์ (Elf Traits) {#ElfTraits}
 
-**Creature Type:** Humanoid
+**ชนิดของสิ่งมีชีวิต:** ร่างแบบมนุษย์ (Humanoid)
 
-**Size:** Medium (about 5–6 feet tall)
+**ขนาด:** กลาง (Medium) (สูงราว 5–6 ฟุต)
 
-**Speed:** 30 feet
+**ความเร็ว:** 30 ฟุต
 
-As an Elf, you have these special traits.
+เมื่อเป็นเอลฟ์ คุณจะมีคุณสมบัติดังนี้
 
-**_Darkvision._** You have [Darkvision](/free-rules/rules-glossary#Darkvision) with a range of 60 feet.
+**_ดาร์กวิชัน (Darkvision)_** คุณมี [ดาร์กวิชัน (Darkvision)](/free-rules/rules-glossary#Darkvision) ในระยะ 60 ฟุต
 
-**_Elven Lineage._** You are part of a lineage that grants you supernatural abilities. Choose a lineage from the [Elven Lineages table](/free-rules/character-origins#ElvenLineages). You gain the level 1 benefit of that lineage.
+**_สายตระกูลเอลฟ์ (Elven Lineage)_** คุณเป็นส่วนหนึ่งของสายตระกูลที่ให้ความสามารถเหนือธรรมชาติ เลือกสายตระกูล (lineage) จาก [ตารางสายตระกูลเอลฟ์ (Elven Lineages table)](/free-rules/character-origins#ElvenLineages) คุณจะได้รับประโยชน์ที่ระดับเลเวล 1 จากสายตระกูล
 
-When you reach character levels 3 and 5, you learn a higher-level spell, as shown on the table. You always have that spell prepared. You can cast it once without a spell slot, and you regain the ability to cast it in that way when you finish a [Long Rest](/free-rules/rules-glossary#LongRest). You can also cast the spell using any spell slots you have of the appropriate level. Intelligence, Wisdom, or Charisma is your spellcasting ability for the spells you cast with this trait (choose the ability when you select the lineage).
+เมื่อคุณถึงเลเวล 3 และ 5 คุณจะเรียนรู้คาถาที่เลเวลสูงขึ้น ดังแสดงในตาราง คุณจะมีคาถานั้นเตรียมไว้เสมอ คุณสามารถใช้คาถานั้นได้เลยโดยไม่ต้องใช้สล็อตคาถาและจะได้ความสามารถนั้นคืนมาเมื่อจบการ [พักยาว (Long Rest)](/free-rules/rules-glossary#LongRest) คุณยังสามารถร่ายคาถาด้วยสล็อตคาถาที่คุณมีในเลเวลที่เหมาะสม Intelligence, Wisdom, หรือ Charisma จะเป็นความสามารถที่ใช้ในการร่ายคาถาสำหรับคาถาที่คุณใช้จากคุณสมบัตินี้ (เลือกความสามารถเมื่อคุณเลือกสายตระกูล)
 
-**_Fey Ancestry._** You have [Advantage](/free-rules/rules-glossary#Advantage) on saving throws you make to avoid or end the [Charmed](/free-rules/rules-glossary#CharmedCondition) condition.
+**_บรรพบุรุษชาวเฟย์ (Fey Ancestry)_** คุณจะได้ทอยป้องกันแบบ [ได้เปรียบ (Advantage)](/free-rules/rules-glossary#Advantage) เมื่อต้องทอยเพื่อหลบหลีกหรือจบสภาวะ [หลงใหล (Charmed)](/free-rules/rules-glossary#CharmedCondition)
 
-**_Keen Senses._** You have proficiency in the [Insight](/free-rules/playing-the-game#Skills), [Perception](/free-rules/playing-the-game#Skills), or [Survival](/free-rules/playing-the-game#Skills) skill.
+**_ประสาทสัมผัสเฉียบคม (Keen Senses)_** คุณจะมีความชำนาญในทักษะ [มองทะลุ (Insight)](/free-rules/playing-the-game#Skills), [การรับรู้ (Perception)](/free-rules/playing-the-game#Skills), or [การเอาตัวรอด (Survival)](/free-rules/playing-the-game#Skills)
 
-**_Trance._** You don’t need to sleep, and magic can’t put you to sleep. You can finish a [Long Rest](/free-rules/rules-glossary#LongRest) in 4 hours if you spend those hours in a trancelike meditation, during which you retain consciousness.
+**_เข้าภวังค์ (Trance)_** คุณไม่จำเป็นต้องนอน และไม่มีเวทย์ใดทำให้คุณหลับได้ คุณสามารถจบการ [พักยาว (Long Rest)](/free-rules/rules-glossary#LongRest) ได้ใน 4 ชั่วโมงหากคุณใช้เวลาเหล่านั้นในการทำสมาธิเข้าสู่ภวังค์ ในขณะนั้นคุณจะยังมีความรู้สึกตัวอยู่
 
-##### Elven Lineages {#ElvenLineages}
+##### ตารางสายตระกูลเอลฟ์ (Elven Lineages) {#ElvenLineages}
 
-| Lineage  | Level 1                                                                                                                                                                                                                                                                                                        | Level 3                                                               | Level 5                                                                           |
-| -------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------- | --------------------------------------------------------------------------------- |
-| Drow     | The range of your [Darkvision](/free-rules/rules-glossary#Darkvision) increases to 120 feet. You also know the [Dancing Lights](https://www.dndbeyond.com/spells/2619058-dancing-lights) cantrip.                                                                                                              | [Faerie Fire](https://www.dndbeyond.com/spells/2618858-faerie-fire)   | [Darkness](https://www.dndbeyond.com/spells/2619080-darkness)                     |
-| High Elf | You know the [Prestidigitation](https://www.dndbeyond.com/spells/2618893-prestidigitation) cantrip. Whenever you finish a [Long Rest](/free-rules/rules-glossary#LongRest), you can replace that cantrip with a different cantrip from the [Wizard spell list](/free-rules/character-classes#WizardSpellList). | [Detect Magic](https://www.dndbeyond.com/spells/2619097-detect-magic) | [Misty Step](https://www.dndbeyond.com/spells/2619133-misty-step)                 |
-| Wood Elf | Your Speed increases to 35 feet. You also know the [Druidcraft](https://www.dndbeyond.com/spells/2619158-druidcraft) cantrip.                                                                                                                                                                                  | [Longstrider](https://www.dndbeyond.com/spells/2619004-longstrider)   | [Pass without Trace](https://www.dndbeyond.com/spells/2618849-pass-without-trace) |
+| สายตระกูล           | เลเวล 1                                                                                                                                                                                                                                                                                                                | เลเวล 3                                                                                  | เลเวล 5                                                                                        |
+| ------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------- |
+| ดราว (Drow)         | ระยะของ [ดาร์กวิชัน (Darkvision)](/free-rules/rules-glossary#Darkvision) ของคุณจะเพิ่มเป็น 120 ฟุต คุณยังจะรู้คาถา [ระบำแสง (Dancing Lights)](https://www.dndbeyond.com/spells/2619058-dancing-lights)                                                                                                                 | [ไฟภูติ (Faerie Fire)](https://www.dndbeyond.com/spells/2618858-faerie-fire)             | [มืดมิด (Darkness)](https://www.dndbeyond.com/spells/2619080-darkness)                         |
+| ไฮเอลฟ์ (High Elf)  | คุณจะรู้คาถา [มายาเวทย์ (Prestidigitation)](https://www.dndbeyond.com/spells/2618893-prestidigitation) เมื่อคุณจบการ [พักยาว (Long Rest)](/free-rules/rules-glossary#LongRest), คุณสามารถสับเปลี่ยนแคนทริปนี้กับคาถาอื่นจาก [รายการคาถาของวิซาร์ด (Wizard spell list)](/free-rules/character-classes#WizardSpellList). | [ตรวจจับเวทย์มนต์ (Detect Magic)](https://www.dndbeyond.com/spells/2619097-detect-magic) | [ฝ่าเท้าหมอก (Misty Step)](https://www.dndbeyond.com/spells/2619133-misty-step)                |
+| วูดเอลฟ์ (Wood Elf) | ความเร็วในการเคลื่อนที่ของคุณจะเพิ่มขึ้นเป็น 35 ฟุต คุณจะรู้คาถา [งานสร้างของดรูอิด (Druidcraft)](https://www.dndbeyond.com/spells/2619158-druidcraft)                                                                                                                                                                 | [ลองสไตรเดอร์ (Longstrider)](https://www.dndbeyond.com/spells/2619004-longstrider)       | [ไร้ร่องรอย (Pass without Trace)](https://www.dndbeyond.com/spells/2618849-pass-without-trace) |
 
-### Halfling {#Halfling}
+### ฮาล์ฟลิง (Halfling) {#Halfling}
 
-Cherished and guided by gods who value life, home, and hearth, halflings gravitate toward bucolic havens where family and community help shape their lives. That said, many halflings possess a brave and adventurous spirit that leads them on journeys of discovery, affording them the chance to explore a bigger world and make new friends along the way. Their size—similar to that of a human child—helps them pass through crowds unnoticed and slip through tight spaces.
+พวกเขาได้รับการดูและและชี้นำโดยเทพผู้รักในชีวิต, บ้าน และความอบอุ่น ฮาล์ฟลิงจึงชอบชุมชนอันแสนสงบที่ที่ครอบครัวและเพื่อนพ้องช่วยกันสร้างวิถีชีวิตของพวกเขา ถึงกระนั้น ฮาล์ฟลิงหลายคนก็มีใจกล้าหาญและรักการผจญภัยซึ่งนำให้พวกเข้าออกเดินทางและค้นพบสิ่งต่าง ๆ ให้พวกเขาได้สำรวจโลกกว้างและพบเจอกับเพื่อนใหม่ ด้วยขนาดตัวที่พอ ๆ กับมนุษย์วัยเยาว์ซึ่งช่วยให้พวกเขาเคลื่อนผ่านฝูงชนได้โดยไม่มีใครสังเกตุ และสามารถลอดตัวเข้าไปในพื้นที่แคบได้
 
-Anyone who has spent time around halflings, particularly halfling adventurers, has likely witnessed the storied “luck of the halflings” in action. When a halfling is in mortal danger, an unseen force seems to intervene on the halfling’s behalf. Many halflings believe in the power of luck, and they attribute their unusual gift to one or more of their benevolent gods, including Yondalla, Brandobaris, and Charmalaine. The same gift might contribute to their robust life spans (about 150 years).
+ใครก็ตามที่ใช้เวลาอยู่กับฮาล์ฟลิง โดยเฉพาะฮาล์ฟลิงนักผจญภัย มักจะได้เป็นประจักษ์พยานกับเรื่องราวของ "โชคของฮาล์ฟลิง" เมื่อฮาล์ฟลิงตกอยู่ในสถานการณ์อันตรายถึงชีวิต พลังลึกลับมักจะเข้าแทรกแซงช่วยเหลือพวกเขาเสมอ ฮาล์ฟลิงหลายคนเชื่อในพลังแห่งโชคดี และถือว่าสิ่งนี้เป็นของขวัญอันล้ำค่าจากเทพเจ้าที่พวกเขาเทิดทูน ทั้งยอนดาลา, แบรนโดบาริส และชาร์มาเลน ของขวัญนี้ยังอาจจะมอบอายุขัยที่ยาวนานให้พวกเขาด้วย (ราว 150 ปี)
 
 Halfling communities come in all varieties. For every sequestered shire tucked away in an unspoiled part of the world, there’s a crime syndicate like the Boromar Clan in the Eberron setting or a territorial mob of halflings like those in the Dark Sun setting.
 
@@ -234,7 +234,7 @@ Halflings who prefer to live underground are sometimes called strongheart halfli
 
 #### Halfling Traits {#HalflingTraits}
 
-**Creature Type:** Humanoid
+**ชนิดของสิ่งมีชีวิต:** Humanoid
 
 **Size:** Small (about 2–3 feet tall)
 
@@ -260,7 +260,7 @@ Humans are as diverse in appearance as the people of Earth, and they have many g
 
 #### Human Traits {#HumanTraits}
 
-**Creature Type:** Humanoid
+**ชนิดของสิ่งมีชีวิต:** Humanoid
 
 **Size:** Medium (about 4–7 feet tall) or Small (about 2–4 feet tall), chosen when you select this species
 
