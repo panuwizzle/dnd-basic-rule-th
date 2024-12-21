@@ -226,50 +226,50 @@ menu: free-rules-start-play
 
 ใครก็ตามที่ใช้เวลาอยู่กับฮาล์ฟลิง โดยเฉพาะฮาล์ฟลิงนักผจญภัย มักจะได้เป็นประจักษ์พยานกับเรื่องราวของ "โชคของฮาล์ฟลิง" เมื่อฮาล์ฟลิงตกอยู่ในสถานการณ์อันตรายถึงชีวิต พลังลึกลับมักจะเข้าแทรกแซงช่วยเหลือพวกเขาเสมอ ฮาล์ฟลิงหลายคนเชื่อในพลังแห่งโชคดี และถือว่าสิ่งนี้เป็นของขวัญอันล้ำค่าจากเทพเจ้าที่พวกเขาเทิดทูน ทั้งยอนดาลา, แบรนโดบาริส และชาร์มาเลน ของขวัญนี้ยังอาจจะมอบอายุขัยที่ยาวนานให้พวกเขาด้วย (ราว 150 ปี)
 
-Halfling communities come in all varieties. For every sequestered shire tucked away in an unspoiled part of the world, there’s a crime syndicate like the Boromar Clan in the Eberron setting or a territorial mob of halflings like those in the Dark Sun setting.
+ชุมชนของฮาล์ฟลิงมีหลากหลายรูปแบบ ในทุก ๆ พื้นที่ที่ซ่อนตัวอยู่ในธรรมชาติแสนสงบ ยังมีกลุ่มองค์กรอาชญากรอย่างองค์กรโบโรมาในเอเบอรอน หรือแก๊งฮาล์ฟลิงในโลกของดาร์กซัน
 
-Halflings who prefer to live underground are sometimes called strongheart halflings or stouts. Nomadic halflings, as well as those who live among humans and other tall folk, are sometimes called lightfoot halflings or tallfellows.
-
----
-
-#### Halfling Traits {#HalflingTraits}
-
-**ชนิดของสิ่งมีชีวิต:** Humanoid
-
-**Size:** Small (about 2–3 feet tall)
-
-**Speed:** 30 feet
-
-As a Halfling, you have these special traits.
-
-**_Brave._** You have [Advantage](/free-rules/rules-glossary#Advantage) on saving throws you make to avoid or end the [Frightened](/free-rules/rules-glossary#FrightenedCondition) condition.
-
-**_Halfling Nimbleness._** You can move through the space of any creature that is a size larger than you, but you can’t stop in the same space.
-
-**_Luck._** When you roll a 1 on the d20 of a [D20 Test](/free-rules/rules-glossary#D20Test), you can reroll the die, and you must use the new roll.
-
-**_Naturally Stealthy._** You can take the [Hide](/free-rules/rules-glossary#HideAction) action even when you are obscured only by a creature that is at least one size larger than you.
-
-### Human {#Human}
-
-Found throughout the multiverse, humans are as varied as they are numerous, and they endeavor to achieve as much as they can in the years they are given. Their ambition and resourcefulness are commended, respected, and feared on many worlds.
-
-Humans are as diverse in appearance as the people of Earth, and they have many gods. Scholars dispute the origin of humanity, but one of the earliest known human gatherings is said to have occurred in Sigil, the torus-shaped city at the center of the multiverse and the place where the Common language was born. From there, humans could have spread to every part of the multiverse, bringing the City of Doors’ cosmopolitanism with them.
+ฮาล์ฟลิงผู้ที่เลือกจะอยู่ใต้ดินบางครั้งถูกเรียกว่าสตรองฮาร์ทฮาล์ฟลิง หรือสเตาท์ เหล่าฮาล์ฟลิงเร่ร่อนก็มีเหมือนดังเผ่าพันธุ์อื่น บางครั้งถูกเรียกว่าไลท์ฟุตฮาล์ฟลิงหรือทอลเฟลเลอร์
 
 ---
 
-#### Human Traits {#HumanTraits}
+#### คุณสมบัติของฮาล์ฟลิง (Halfling Traits) {#HalflingTraits}
 
-**ชนิดของสิ่งมีชีวิต:** Humanoid
+**ชนิดของสิ่งมีชีวิต:** ร่างเหมือนมนุษย์ (Humanoid)
 
-**Size:** Medium (about 4–7 feet tall) or Small (about 2–4 feet tall), chosen when you select this species
+**ขนาด:** เล็ก (Small) (สูงราว 2–3 ฟุต)
 
-**Speed:** 30 feet
+**ความเร็ว:** 30 ฟุต
 
-As a Human, you have these special traits.
+เมื่อเป็นฮาล์ฟลิง คุณจะมีคุณสมบัติพิเศษดังนี้
 
-**_Resourceful._** You gain [Heroic Inspiration](/free-rules/rules-glossary#HeroicInspiration) whenever you finish a [Long Rest](/free-rules/rules-glossary#LongRest).
+**_กล้าหาญ (Brave)_** คุณจะได้ทอยป้องกันแบบ [ได้เปรียบ (Advantage)](/free-rules/rules-glossary#Advantage) เมื่อต้องทอยป้องกันหรือจบสภาวะ [หวาดกลัว (Frightened)](/free-rules/rules-glossary#FrightenedCondition)
 
-**_Skillful._** You gain proficiency in one skill of your choice.
+**_ความคล่องแคล่วแบบฮาล์ฟลิง (Halfling Nimbleness)_** คุณสามารถเคลื่อนที่ผ่านช่องว่างของสิ่งมีชีวิตใด ๆ ที่มีขนาดใหญ่กว่าคุณ แต่จะไม่สามารถหยุดอยู่ในพื้นที่เดียวกันได้
 
-**_Versatile._** You gain an Origin feat of your choice (see [chapter 5](/free-rules/feats#OriginFeats)). [Skilled](/free-rules/feats#Skilled) is recommended.
+**_โชคดี (Luck)_** เมื่อคุณทอยได้ 1 ในการ [ทอยทดสอบ D20](/free-rules/rules-glossary#D20Test) คุณสามารถทอยใหม่ได้แต่ต้องใช้ค่าที่ทอยได้ใหม่นั้น
+
+**_การลอบเร้นโดยธรรมชาติ (Naturally Stealthy)_** คุณสามารถใช้แอ็คชัน [ซ่อนตัว (Hide)](/free-rules/rules-glossary#HideAction) ได้แม้เพียงคุณแอบอยู่หลังสิ่งมีชีวิตที่ตัวใหญ่กว่าคุณอย่างน้อย 1 ขนาด
+
+### มนุษย์ (Human) {#Human}
+
+พบเจอได้ทั่วไปในพหุจักรวาล มนุษย์มีหลากหลายจากจำนวนที่มากมายและพวกเขาก็พยายามอย่างมากในการประสบความสำเร็จ เท่าที่เวลาจะอำนวย ความทะเยอะทะยานและการสร้างสรรค์สรรพสิ่งได้รับการกล่าวถึง, นับถือ และหวาดกลัวในหลากหลายโลก
+
+มนุษย์มีลักษณะที่ต่างกันหลากหลายเหมือนกับผู้คนที่อยู่บนโลกของเรา และพวกเขามีเทพเจ้าหลายองค์ เหล่านักวิชาการถกเถียงกันเรื่องที่มาของมนุษย์ แต่ข้อมูลหนึ่งกล่าวว่ามนุษย์แรกเริ่มนั้นรวมตัวกันอยู่ที่เมืองซิกิล (Sigil) เมืองที่มีลักษณะเหมือนห่วงยางอยู่ใจกลางของพหุจักรวาลและเป็นที่ที่ภาษาคอมมอน (Common) ได้เกิดขึ้น จากที่นั่นมนุษย์กระจายตัวออกไปทั่วพหุจักรวาล นำเอาความเจริญจากเมืองแห่งประตูไปกับพวกเขาด้วย
+
+---
+
+#### คุณสมบัติของมนุษย์ (Human Traits) {#HumanTraits}
+
+**ชนิดของสิ่งมีชีวิต:** ร่างแบบมนุษย์ (Humanoid)
+
+**ขนาด:** กลาง (Medium) (สูงราว 4–7 ฟุต) หรือ เล็ก (Small) (สูงราว 2–4 ฟุต), ให้คุณเลือกเมื่อเลือกเผ่าพันธุ์นี้
+
+**ความเร็ว:** 30 ฟุต
+
+เมื่อเป็นมนุษย์ คุณจะมีคุณสมบัติพิเศษดังนี้
+
+**_มีความคิดริเริ่ม (Resourceful)_** คุณจะได้รับ [แรงบันดาลใจของฮีโร่ (Heroic Inspiration)](/free-rules/rules-glossary#HeroicInspiration) เมื่อใดก็ตามที่คุณจบการ [พักยาว (Long Rest)](/free-rules/rules-glossary#LongRest)
+
+**_ทักษะเชี่ยวชาญ (Skillful)_** คุณจะเชี่ยวชาญในทักษะหนึ่งตามที่คุณเลือก
+
+**_เก่งหลายทาง (Versatile)_** คุณจะได้รับ คุณสมบัติต้นกำเนิด (Origin feat) ตามที่คุณเลือก (ดู [บทที่ 5](/free-rules/feats#OriginFeats)). แนะนำให้เลือก [ผู้เชี่ยวชาญ (Skilled)](/free-rules/feats#Skilled)
